@@ -1,0 +1,245 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Eletrónica 2
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>Esta unidade curricular visa dotar as e os estudantes com os conceitos, técnicas de análise e projeto de amplificadores diferenciais, multiandar, e dos circuitos lineares e não lineares onde são aplicados, tais como: filtros ativos, osciladores harmónios e comparadores. Os conceitos associados ao funcionamento dos transístores em modo de comutação, no contexto da realização e da análise comportamental de circuitos lógicos básicos, completam a formação base das e dos estudantes em eletrónica, nos seus aspetos mais fundamentais.</p>
+<p>Ao promover metodologias de projeto de circuitos eletrónicos, esta unidade curricular apela ao exercício de pensamento crítico, tendo como objetivo expor com maior proximidade as e os estudantes ao processo de engenharia, principalmente no que respeita à interpretação de especificações, projeto e sua verificação em ambiente laboratorial.</p>
+
+## Resultados de aprendizagem e competências
+<p>No final deste curso, os alunos deverão:</p>
+<ul>
+<li>Ter reforçado os seus conhecimentos técnicos no domínio da eletrónica fundamental;</li>
+<li>Compreender o processo de conceção de circuitos eletrónicos, incluindo a interpretação de especificações, projeto, simulação, implementação e verificação;</li>
+<li>Aperfeiçoar as suas competências na realização de trabalho experimental e na colaboração em grupo;</li>
+<li>Melhorar as suas capacidades de raciocínio e resolução de problemas de engenharia.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Eletrónica fundamental (Eletrónica 1), incluindo análise de circuitos com díodos e configurações básicas de amplificação com um único transístor &#8212; MOSFET e BJT.
+
+## Programa
+<p>Incluem-se no programa tanto MOSFETs como os transi&#769;stores bipolares.</p>
+<ol>
+<li>Polarização de amplificadores &#8212; Espelhos de corrente;</li>
+<li>Par diferencial;</li>
+<ol>
+<li>Com carga resistiva:</li>
+<li>Com carga ativa;</li>
+</ol>
+<li>Elementos constitutivos do amplificador multiandar e me&#769;todos de ana&#769;lise de pequeno e grande sinal (com e sem carga ativa);</li>
+<li>Andares de sai&#769;da de pote&#770;ncia (classes A, B e AB);</li>
+<li>Resposta em freque&#770;ncia das configurac&#807;o&#771;es ba&#769;sicas de amplificac&#807;a&#771;o;</li>
+<li>Ana&#769;lise de amplificadores realimentados nas suas diferentes formas;</li>
+<li>Ana&#769;lise de estabilidade e compensac&#807;a&#771;o do amplificador realimentado;</li>
+<li>Circuitos funcionais com AmpOps;</li>
+<ol>
+<li>Aproximação de filtros: Butterworth, Chebyshev. Bessel e Elítico;</li>
+<li>Realização de filtros: Rauch ou <em>Multifeedback</em> e Sallen Key;</li>
+</ol>
+<li>Osciladores harmónicos;</li>
+<li>Comparadores e multivibradores;</li>
+<li>Operac&#807;a&#771;o de dispositivos eletro&#769;nicos em comutac&#807;a&#771;o;</li>
+<li>Circuitos lo&#769;gicos CMOS &#8212; Inversor, NAND e NOR &#8212; caracterizac&#807;a&#771;o ba&#769;sica.</li>
+</ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Na metodologia a seguir procura-se obter um equili&#769;brio entre exposic&#807;a&#771;o teo&#769;rica, ana&#769;lise conceptual de particularidades funcionais e de prática laboratorial com a introdução de dimensionamento de circuitos:</p>
+<ul>
+<li><span style="text-decoration: underline;">Aulas Teóricas</span> de exposição dos tópicos a tratar com apresentação de exemplos práticos ilustrativos, numa lógica de aprendizagem ativa, intercaladas com aulas de demonstração de técnicas de análise e síntese de circuitos e resolução de problemas;</li>
+<li><span style="text-decoration: underline;">Aulas de Prática Laboratorial</span> onde será realizado um conjunto de trabalhos experimentais, ilustrativos dos conceitos aprendidos e onde se incluem aspetos de projeto.</li>
+</ul>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Teste: 20.0 %
+- Trabalho laboratorial: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 70.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho laboratorial: 40.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><strong>A classificação final inclui três componentes:</strong></p>
+<ol>
+<li><span style="text-decoration: underline;">Momentos de resolução de exercícios individuais:</span> Normalmente, o conjunto de exercícios é conhecido atempadamente. Uma versão alterada desses exercícios será proposta a cada estudante para resolver em períodos das aulas laboratoriais;</li>
+<li><span style="text-decoration: underline;">Prática Laboratorial:</span> Contempla algumas fichas de resolução no final da aula, intimamente relacionadas com o tema dessa mesma aula. Acrescenta-se um relatório de projeto e ainda uma componente com base na participação e desempenho nas aulas:</li>
+<ul>
+<li>O projeto, incluindo relatório, terá um peso de 3× face a uma ficha laboratorial regular. O conjunto de fichas e relatório têm um peso de 70% na classificação laboratorial;</li>
+<li>A componente de participação e desempenho, contempla os restantes 30%;</li>
+</ul>
+<li><span style="text-decoration: underline;">Exame Final:</span> Contempla todo o conteúdo da unidade curricular e tem um peso de 50%, salvo situações especiais indicadas a seguir.</li>
+</ol>
+<p><strong>A forma geral para o cálculo da classificação final (CF) segue a seguinte fórmula:</strong></p>
+<ul style="list-style-type: square;">
+<li>CF = Classificação Final;</li>
+<li>RE = Média dos momentos de Resolução de Exercícios individuais;</li>
+<li>E = Exame (época normal ou recurso);</li>
+<li>PL = Prática Laboratorial.</li>
+</ul>
+CF = 0,2×RE + 0,5×E + 0,3×PL<br /><br /> <strong>Em qualquer cálculo de CF, a nota da componente laboratorial (numa escala de 0 a 20) é limitada à classificação do exame (qualquer) mais 4 valores:</strong> <br /><br />PL = min{PL, E + 4}<br /><br /><strong>Os pesos relativos à resolução de exercícios (RE) e da componente laboratorial (PL), na forma definida nos pontos anteriores, mantêm-se quer para o exame de época normal quer para o de recurso, mesmo que seja de melhoria (se no mesmo ano).</strong><br /><br /><strong>Situações especiais:</strong><br />
+<ol>
+<li>Estudantes que já tenham obtido aprovação na componente laboratorial da unidade curricular, onde PL corresponde à classificação obtida em ano letivo anterior, tendo esta de ser no mínimo 9 valores para acesso a qualquer exame, a fórmula de cálculo assume:</li>
+</ol>
+<p style="margin-left: 40px;">CF = 0,7×E + 0,3×PL</p>
+<ol start="2">
+<li>Estudantes inscritos que já tenham classificação laboratorial igual ou superior a 9 valores obtida em anos anteriores, não têm de repetir a componente laboratorial. <strong>Contudo, submetendo-se a novamente a avaliação laboratorial, a frequência obtida é perdida em definitivo, ficando sujeito aos mesmos critérios e regras das e dos estudantes de primeira inscrição</strong>.</li>
+</ol>
+
+## Obtenção de frequência
+<p>A componente laboratorial é de extrema importância no processo de aprendizagem, é aqui que as e os estudantes têm oportunidade de aplicar e praticar os diferentes conceitos apreendidos. A componente de frequência refere-se unicamente à prática laboratorial:</p>
+<ul>
+<li>A frequência da componente laboratorial é obrigatória e sujeita à legislação no tocante ao número máximo de faltas admissível;</li>
+<li>É também necessário alcançar um mínimo de 9 valores (em 20) na componente laboratorial para obtenção de frequência.</li>
+</ul>
+
+## Melhoria de classificação
+<p>Contemplam-se as seguintes situações:</p>
+<ol>
+<li>Em caso de melhoria de classificação na componente de exame, se no mesmo ano letivo, as regras são as mesmas que vigoram para os exames de época normal e recurso;</li>
+<li>No caso de melhoria da componente de exame no ano letivo subsequente, a classificação da componente laboratorial do ano em que fez a unidade curricular volta a contar com o peso de 30%, sendo os restantes 70% atribuídos ao exame;</li>
+</ol>
+Em todos os casos, a nota da componente laboratorial (numa escala de 0 a 20) é limitada à classificação do exame final mais 4 valores (em 20):<br />
+<p style="text-indent: 40px;">PL = min {PL, E + 4}</p>
+.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Electronics 2
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>This course is designed to provide students with concepts and analysis techniques for the design of differential amplifiers, multistage amplifiers, and the linear and nonlinear circuits in which they are used, such as active filters, harmonic oscillators, and comparators. Concepts related to the operation of transistors in switching mode, in the context of the realization of basic logic circuits and behavioral analysis, complete the student's basic education in electronics, covering its most fundamental aspects.</p>
+<p>By promoting electronic circuit design methodologies, this course encourages the exercise of critical thinking with the goal of bringing students closer to the engineering process, especially with respect to the interpretation of specifications, design, and its verification in a laboratory environment.</p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of this course, students should:</p>
+<ul>
+<li>Have strengthened their technical knowledge in the field of fundamental electronics;</li>
+<li>Understand the process of designing electronic circuits, including interpreting specifications, design, simulation, implementation, and verification;</li>
+<li>Improve their skills in conducting experimental work and collaborating in group;</li>
+<li>Enhance their abilities in engineering reasoning and problem-solving.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Fundamental Electronics (Electronics 1), including circuit analysis with diodes and basic amplification configurations using a single transistor &#8212; MOSFET and BJT.
+
+## Programa
+<p>The program includes both MOSFETs and bipolar transistors.</p>
+<ol>
+<li>Amplifier biasing &#8212; Current mirrors;</li>
+<li>Differential pair;</li>
+<ol>
+<li>With resistive load;</li>
+<li>With active load;</li>
+</ol>
+<li>Constituent elements of multi-stage amplifiers and methods for small-signal and large-signal analysis (with and without active load);</li>
+<li>Power output stages (classes A, B, and AB);</li>
+<li>Frequency response of basic amplification configurations;</li>
+<li>Analysis of feedback amplifiers in their different forms;</li>
+<li>Stability analysis and compensation of feedback amplifiers;</li>
+<li>Functional circuits with Op-Amps;</li>
+<ol>
+<li>Filter approximation: Butterworth, Chebyshev, Bessel, and Elliptic;</li>
+<li>Filter realization: Rauch or Multifeedback and Sallen-Key;</li>
+</ol>
+<li>Harmonic oscillators;</li>
+<li>Comparators and multivibrators;</li>
+<li>Operation of electronic devices in switching mode;</li>
+<li>CMOS logic circuits &#8212; Inverter, NAND, and NOR &#8212; basic characterization.</li>
+</ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The methodology to be followed seeks a balance between theoretical exposure, conceptual analysis of functional particularities, and laboratory practice with the introduction of circuit design:</p>
+<ul>
+<li><span style="text-decoration: underline;">Theoretical classes</span> to present the topics to be covered with illustrative practical examples, in an active learning approach, interspersed with classes demonstrating circuit analysis and synthesis techniques and problem solving;</li>
+<li><span style="text-decoration: underline;">Laboratory hands-on classes</span>, where a series of experimental work is performed to illustrate the concepts learned, including design aspects.</li>
+</ul>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Teste: 20.0 %
+- Trabalho laboratorial: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 70.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho laboratorial: 40.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><strong>The final grade includes three components:</strong></p>
+<ol>
+<li><span style="text-decoration: underline;">Moments of individual exercise resolution:</span> Normally, the set of exercises is known in advance. A modified version of these exercises will be assigned to each student to solve during laboratory class periods;</li>
+<li><span style="text-decoration: underline;">Laboratory Practice:</span> Includes some small quizzes at the end of the class, closely related to the topic of that same class. It also includes a project report and a component based on participation and performance in the classes:</li>
+<ul>
+<li>The project, including the report, will have a weight of 3× compared to a regular laboratory quiz. The set of quizzes and report accounts for 70% of the laboratory grade;</li>
+<li>The participation and performance component accounts for the remaining 30%;</li>
+</ul>
+<li><span style="text-decoration: underline;">Final Exam:</span> Covers all the content of the course and has a weight of 50%, except in special situations indicated below.</li>
+</ol>
+<p><strong>The general formula for calculating the final grade (CF) is as follows:</strong></p>
+<ul style="list-style-type: square;">
+<li>CF = Final Grade;</li>
+<li>RE = Average of individual exercise resolution moments;</li>
+<li>E = Exam (regular or resit);</li>
+<li>PL = Laboratory Practice.</li>
+</ul>
+CF = 0.2×RE + 0.5×E + 0.3×PL<br /><br /> <strong>In any CF calculation, the laboratory component grade (on a scale of 0 to 20) is limited to the exam grade (any) plus 4 points:</strong> <br /><br />PL = min{PL, E + 4}<br /><br /><strong>The weights for exercise resolution (RE) and laboratory component (PL), as defined in the previous points, remain the same for both the regular exam and the supplementary exam (<em>recurso</em>), even if it is for improvement (if within the same year).</strong><br /><br /><strong>Special situations:</strong><br />
+<ol>
+<li>Students who have already passed the laboratory component of the course, where PL corresponds to the grade obtained in a previous academic year, must have at least 9 points to access any exam. The calculation formula assumes:</li>
+</ol>
+<p style="margin-left: 40px;">CF = 0.7×E + 0.3×PL</p>
+<ol start="2">
+<li>Registered students who already have a laboratory grade of 9 or more obtained in previous years do not need to repeat the laboratory component. <strong>However, if they undergo laboratory assessment again, the obtained frequency is lost permanently, and they are subject to the same criteria and rules as first-time students</strong>.</li>
+</ol>
+
+## Obtenção de frequência
+<p>The laboratory component is of utmost importance in the learning process; it is here that students have the opportunity to apply and practice the different concepts they have learned. The eligibility component refers solely to laboratory practice:</p>
+<ul>
+<li>Attendance in the laboratory component is mandatory and subject to regulations regarding the maximum number of permissible absences;</li>
+<li>It is also necessary to achieve a minimum of 9 points (out of 20) in the laboratory component in order to be eligible for exam.</li>
+</ul>
+
+## Melhoria de classificação
+<p>The following situations are considered:</p>
+<ol>
+<li>In the case of improving the exam grade within the same academic year, the rules are the same as those applied to regular and supplementary exams (<em>recurso</em>);</li>
+<li>In the case of improving the exam component in the subsequent academic year, the grade for the laboratory component from the year in which the course was taken will again count with a weight of 30%, with the remaining 70% assigned to the exam;</li>
+</ol>
+In all cases, the grade for the laboratory component (on a scale of 0 to 20) is limited to the final exam grade plus 4 points (out of 20):<br />
+<p style="text-indent: 40px;">PL = min {PL, E + 4}</p>
+

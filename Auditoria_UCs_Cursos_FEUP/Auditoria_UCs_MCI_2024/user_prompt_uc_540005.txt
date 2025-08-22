@@ -1,0 +1,110 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Representação do Conhecimento
+
+## Curso responsável
+Mestrado em Ciência da Informação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>A unidade curricular "Representação do Conhecimento" tem como base a Lógica de 1ª Ordem e usa-a para construir modelos do mundo que possam ser incluídos em sistemas computacionais. A representação do conhecimento e a inferência baseada nele requerem a identificação de ontologias para os domínios escolhidos. <br />As linguagens de ontologias, que incorporam os conceitos da web semântica, são ferramentas poderosas para tarefas que envolvem analisar conhecimento no mundo e mapeá-lo para representações que possam ser processadas automaticamente.<br />Pretende-se que nesta unidade os estudantes se familiarizem com a teoria e a prática da representação de conhecimento, ligando-as à sua experiência anterior com a modelação de domínios, a descrição de informação e as bases de dados. <br /> <br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p>No final desta Unidade Curricular os estudantes devem ser capaz de: <br />-Descrever sumariamente os principais marcos na história da representação do conhecimento, nas áreas da filosofia e da computação; <br />-Usar a técnica dos mapas de conceitos para captar a realidade de um domínio escolhido; <br />-Usar a Lógica de 1ª ordem como ferramenta de representação de conhecimento e de inferência; <br />-Relacionar a representação de conhecimento em lógica com a representação de dados em bases de dados; <br />-Criar uma ontologia para um domínio e justificar a escolha dos principais conceitos e relações; <br />-Descrever os princípios da web semântica e a sua aplicação; <br />-Escolher ferramentas para apoiar a componente de representação de conhecimento de um projecto. </p>
+
+## Pré-requisitos e co-requisitos
+<p>Pré-requisitos: conhecimentos básicos de modelação conceptual e de lógica.</p>
+
+## Programa
+<p>A representação de conhecimento ao longo do tempo: de Aristóteles à Lógica de Predicados, às bases de dados, à web semântica. <br />Os mapas de conceitos. Conceitos. Aplicações. Ferramentas. <br />Lógica Proposicional. Representação de factos. Conectivas. Inferência. <br />Lógica de Predicados. Quantificação. Inferência. Automatização do raciocínio. <br />A Web semântica. Fundamentos. Modelos para dados na Web. <br />Ontologia de um domínio. Escolha e representação da ontologia. Linguagens para ontologias. OWL. Inferência em linguagens de ontologias.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas de exposição, pontuadas com exercícios, alguns em computador, e com apresentações pelos estudantes de tópicos seleccionados. As aulas incluem pequenos questionários individuais sobre os assuntos de aulas anteriores.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 30.0 %
+- Trabalho escrito: 30.0 %
+- Trabalho laboratorial: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 56.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 54.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Nota final = arredonda(20% * Trabalho Lógica de 1ª Ordem + 25% * Exercícios de Lógica de 1ª Ordem +  30% * Trabalho Web semântica + 25% * Mini-Teste).</p>
+
+## Obtenção de frequência
+<p>Não há exame final. É requerido um mínimo de 50% na avaliação prática (exercícios e trabalhos) e de 50% na avaliação teórica (questionários e mini-teste).</p>
+
+## Melhoria de classificação
+<p>A melhoria da classificação requer a inscrição na edição seguinte da unidade curricular.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Knowledge Representation
+
+## Curso responsável
+Master in Information Science
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>The "Knowledge Representation" course is based on First-Order Logic and uses it to construct models of the world that can be incorporated into computational systems. Knowledge representation and knowledge-based inference require the identification of ontologies for the selected domains.<br />Ontology languages embed the semantic web concepts and are powerful tools for any task that requires the analysis of domain knowledge and its mapping into representations that can be automatically processed. <br />In this unit students are expected to become familiar with the theory and practice of knowledge representation, linking them to their former experience with domain modelling, information description and databases. <br /> <br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p>Upon completion of this course, the student should be able to: <br />-Briefly describe the milestones in knowledge representation, in the philosophy and computing domains; <br />-Use the concept map technique to capture reality in a selected domain; <br />-Use First-Order Logic as a tool for knowledge representation and inference; <br />-Relate knowledge representation in logic with data representation in databases; <br />-Create an ontology for a domain and explain the choice of the main concepts and relations; <br />-Describe the principles of the semantic web and its applications; <br />-Choose tools to support the knowledge representation component of a project.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Pre-requisites: basic knowledge of conceptual modelling and logic.</p>
+
+## Programa
+<p>Knowledge representation timeline: from Aristotle to Predicate Calculus, to databases, to the semantic web. <br />Conceptual maps. Concepts. Applications. Tools. <br />Propositional Logic. Representing facts. Connectives. Inference. <br />Predicate Logic. Quantification. Inference. Automated reasoning. <br />The semantic web. Foundations. Data modeling on the web. <br />Domain ontologies. Selection and representation of an ontology. Ontology languages. OWL. Inference in ontology languages.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Tutorial classes are accompanied by practical sessions, using selected software. Students present their projects in the scheduled sessions. Classes include individual quizzes on previous topics.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 30.0 %
+- Trabalho escrito: 30.0 %
+- Trabalho laboratorial: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 56.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 54.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final grade is computed using the formula <br />GRADE= round(20% * FOL Project + 25% * FOL Quizzes +  30% * SW Project + 25% * Mini-Test).</p>
+
+## Obtenção de frequência
+<p>There is no final exam. <br />Students are required to have a minimum of 50% on project work (exercises and projects) and a minimum of 50% on individual assignments (quizzes and mini-test).</p>
+
+## Melhoria de classificação
+<p>Improving the course grade requires a new enrollment in the course, taking the course projects and tests again.</p>
+

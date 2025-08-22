@@ -1,0 +1,106 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Fundamentos de Segurança Informática
+
+## Curso responsável
+Licenciatura em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+Esta Unidade Curricular tem como objetivo fornecer aos estudantes uma perspetiva integrada dos fundamentos da segurança informática; visa dotar os estudantes de uma visão abrangente dos aspetos de segurança inerentes ao desenvolvimento e operação de sistemas informáticos, contextualizando problemas e soluções tecnológicas específicas para tecnologias abordadas em outras Unidades Curriculares do Ciclo de Estudos.
+
+## Resultados de aprendizagem e competências
+<p>Conhecer os princípios da construção de programas e sistemas informáticos seguros.<br />Aprender a pensar sobre sistemas informáticos como um atacante.<br />Compreender como se identificam ameaças a um sistema informático e como se avalia a sua relevância.<br />Reconhecer limitações e justificar medidas de proteção de um sistema informático.<br />Explicar como diversos tipos de ataques funcionam na prática.</p>
+
+## Programa
+<p><strong>1)</strong> <strong>Princípios da segurança informática</strong>: confidencialidade, integridade, disponibilidade; risco, ameaças, vulnerabilidades, vetores de ataque e mecanismos de segurança .<br /><strong>2)</strong> <strong>Princípios da construção de sistemas seguros</strong>: princípios do privilégio mínimo e isolamento; defesa em profundidade; segurança por construção.<br /><strong>3) Conceitos básicos de criptografia: </strong>criptografia simétrica e de chave pública; cifras e autenticação; assinaturas digitais; gestão de chaves; PKI.<br /><strong>4) Controlo de acessos: </strong>conceitos fundamentais; modelos para controlo de fluxos de dados; mecanismos de segurança ao nível do sistema operativo.<br /><strong>5) Introdução à programação defensiva:</strong> validação de inputs; ataques comuns; buffer overflows; race conditions; atualizações de segurança.<br />6) <strong>Tópicos de segurança de redes:</strong> ataques e proteção ao nível da rede; ataques por Denial of Service (DoS) e Distributed Denial of Service (DDoS).<br />7) <strong>Segurança Web:</strong> modelo de segurança; gestão de sessões; autenticação; vulnerabilidades comuns.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas teóricas são de exposição, apresentadas normalmente com auxílio de projetor. <br /><br />Ao longo do semestre serão propostos problemas de programação e outros para consolidação dos conceitos apresentados nas aulas teóricas. Estes problemas serão discutidos nas aulas teórico-práticas, mas espera-se que os estudantes os resolvam fora das aulas. <br /><br />Os estudantes deverão ainda realizar um projeto em grupo, onde irão aplicar os conceitos apresentados nas aulas teóricas. <br /><br /><br /></p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 25.0 %
+- Teste: 50.0 %
+- Trabalho laboratorial: 25.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 45.0 horas
+- Estudo autónomo: 41.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho laboratorial: 24.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Na época normal: <br /><br />P = 0,5 TL + 0,5 TP + 0,1 TExtra<br />T = 0,5 T1 + 0,5 T2<br />CF = MIN(0,5 P + 0,5 T,20)<br /><br />onde<br /><br />- CF - classificação final<br />- TL - classificação do trabalho laboratorial (tarefas em tutoriais seedlabs)<br />- TP - classificação do trabalho prático (realização de desafios na plataforma CTF)<br />- TExtra - classificação adicional obtida através de desafios competitivos<br />- P - classificação prática &gt;= 10/21<br />- T1 - classificação do 1º teste (apenas 1a parte da matéria) &gt;= 6/20<br />- T2 - classificação do 2º teste (apenas 2a parte da matéria) &gt;= 6/20<br />- T - classificação teórica<br /><br />Todas as classificações de 0 a 20, excepto P de 0 a 21.<br /><br />Na época de recurso (incluindo melhorias):<br /><br />P = 0,5 TL + 0,5 TP + 0,1 TExtra<br />T = ER<br />CF = MIN(0,5 P + 0,5 T,20)<br /><br />onde<br /><br />- CF - classificação final<br />- TL - classificação do trabalho laboratorial (tarefas em tutoriais seedlabs)<br />- TP - classificação do trabalho prático (realização de desafios na plataforma CTF)<br />- TExtra - classificação adicional obtida através de desafios competitivos<br />- P - classificação prática &gt;= 10/21<br />- T1 - MAX(1º teste,1ª parte do exame de recurso) &gt;= 6/20<br />- T2 - MAX(2º teste,2ª parte do exame de recurso) &gt;= 6/20<br />- T - classificação teórica</p>
+
+## Obtenção de frequência
+Realização e submissão, em grupo, de guiões propostos nas aulas TP (trabalho laboratorial) e exercícios CTF independentemente fora do contexto de aula (trabalho prático). É também exigida a documentação de ambas as componentes práticas na forma de um logbook/writeup.<br /><br />Frequência obrigatória às aulas práticas (conforme o regulamento da Universidade do Porto).<br /><br />Recorda-se: não cumprir este critério implica reprovar à UC sem possibilidade de realizar época de recurso.
+
+## Melhoria de classificação
+A nota separada ou agregada dos testes pode ser melhorada na ápoca de recurso. As componentes de avaliação prática e laboratorial podem ser melhoradas na edição seguinte da UC.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computer Security Foundations
+
+## Curso responsável
+Bachelor in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+The goal of this Curricular Unit is to provide students with an integrated perspective of the foundations of computer security; it aims to give students a broad view of the security aspects inherent to the development and operation of computer systems, setting a context for the technology-specific problems and solutions students encounter in other Curricular Units.
+
+## Resultados de aprendizagem e competências
+<p>To know the principles of building secure programs and computer systems.<br />To learn how to think adversarially about computer systems.<br />To understand how to assess threats for their significance.<br />To recognize limitations and justify protections of a given computer system.<br />To explain how attacks work in practice.</p>
+
+## Programa
+<p><strong>1</strong><strong>) Principles of computer security</strong>: confidentiality, integrity, availability; risk, threats, vulnerabilities, attack vectors, security mechanisms.<br /><strong>2) Principles of secure design</strong>: least privilege and isolation; defense in depth; security by design.<br /><strong>3) Basic cryptography concepts</strong>: symmetric and public-key cryptography; hash functions; encryption and authentication; digital signatures; key management; PKI.<br /><strong>4) Access control: </strong>basic concepts; information-flow control and models for confidentiality and integrity; security mechanisms at the OS level.<br /><strong>5) Introduction to defensive programming</strong>: input validation; common vulnerabilities and attacks; buffer overflows; race conditions; security updates.<br />6) <strong>Topics in network security:</strong> attacks and protection at the network level; Denial of Service (DoS) and Distributed Denial of Service (DDoS).<br />7) <strong>Web security: </strong>security model; session management; authentication; common vulnerabilities.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The lectures are based on oral presentation, complemented with detailed examples and the discussion of case studies. <br /><br />Consolidation exercises will be proposed during the semester; these will be discussed in lectures but it is expected that students complete them outside of class. <br /><br />Students will also develop a group project, where they will apply the concepts covered in class. <br /><br /><br /></p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 25.0 %
+- Teste: 50.0 %
+- Trabalho laboratorial: 25.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 45.0 hours
+- Estudo autónomo: 41.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho laboratorial: 24.0 hours
+
+## Fórmula de cálculo da classificação final
+Normal epoque: <br /><br />P = 0,5 TL + 0,5 TP + 0,1 TExtra<br />T = 0,5 T1 + 0,5 T2<br />CF = MIN(0,5 P + 0,5 T,20)<br /><br />onde<br /><br />- CF - final score<br />- TL - lab work mark (seedlab tutorials)<br />- TP - pratical project (CTF challenges)<br />- TExtra - extra mark obtained via competitive challenges<br />- P - practical score &gt;= 10/21<br />- T1 - 1st test (first part of syllabus) &gt;= 6/20<br />- T2 - 2nd test (second part of syllabus) &gt;= 6/20<br />- T - theoretical score<br /><br />All marks in range 0 to 20, except P from 0 to 21.<br /><br />Resit (including mark improvement):<br /><br />P = 0,5 TL + 0,5 TP + 0,1 TExtra<br />T = ER<br />CF = MIN(0,5 P + 0,5 T,20)<br /><br />onde<br /><br />- CF - final score<br />- TL - lab work mark (seedlab tutorials)<br />- TP - pratical project (additional CTF challenges)<br />- TExtra - extra mark obtained via competitive challenges<br />- P - practical score &gt;= 10/21<br />- T1 - MAX(1st test,1st part of the resit exam) &gt;= 6/20<br />- T2 - MAX(2nd test,2nd part of the resit exam) &gt;= 6/20<br />- T - theoretical score
+
+## Obtenção de frequência
+Solving and submitting tasks, in groups, proposed in the TP classes (lab work) and CTF challenges to be solved independently outside of the classroom context (pratical project). Both components are also to be documented in the form of a logbook/writeup.<br /><br />Mandatory frequency in the pratical classes (according toe the University of Porto's regulations).<br /><br />Recall: failing in this criteria implies failing the course (no access to resit)
+
+## Melhoria de classificação
+The separate or aggregate test score can be improved in a resit exam. The practical and lab work scores can be improved in the CU next instance.
+

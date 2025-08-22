@@ -1,0 +1,98 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas Ciberfísicos e Internet das Coisas
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+1. Entender tendências atuais de CPS e IoT:<br />&#8226; Descrever casos de uso típicos e diferenciar seus requisitos de sistema.<br />&#8226; Explicar o impacto potencial no desenvolvimento de sistemas em larga escala.<br />2. Compreender arquiteturas, modelos de computação e princípios de infra-estrutura:<br />&#8226; Definir diferentes elementos de arquitetura.<br />&#8226; Discutir motivação para cada elemento arquitetural e modelo de computação.<br />3. Conhecer as plataformas, arquiteturas e protocolos:<br />&#8226; Explicar vantagens e desvantagens da conectividade sem fios.<br />&#8226; Distinguir diferentes tecnologias sem fios comuns e suas principais características.<br />&#8226; Diferenciar plataformas e protocolos.<br />&#8226; Explicar papel do modelo publicação-subscrição.<br />4. Descrever as questões relacionadas com confiabilidade, segurança e privacidade.<br />5. Projetar e implementar sistemas baseados em CPS e IoT combinando diferentes componentes.<br />6. Comparar diferentes soluções de projeto para sistemas CPS e IoT.<br />7. Analisar, projetar, implementar e documentar sistemas CPS e IoT.
+
+## Resultados de aprendizagem e competências
+Esta unidade curricular aborda diferentes arquiteturas, modelos de computação, técnicas e ferramentas aplicáveis no desenvolvimento de sistemas ciberfísicos. <br />Embora exista nesta unidade curricular uma componente de exposição, de exemplos e casos, a transmissão de conhecimento processa-se maioritariamente através da execução de projetos por grupos de estudantes.<br />A exposição destes tópicos e respetiva prática contribuem decisivamente para permitir aos estudantes familiarizar-se com o corpo de conhecimento relacionado com os sistemas ciberfísicos e internet das coisas.<br />Os conteúdos abordados no tópico 1 contribuem para os OAs 1, 5 e 6. Os conteúdos abordados nos tópicos 2, 3 e 5 são transversais e contribuem para as competências descritas em todos os OAs. O tópico 4 contribui para os OAs 1, 3, 5 e 7. Finalmente, o tópico 6 oferecerá uma visão dos desenvolvimentos de investigação e inovação, contribuindo para os OAs 1, 2, 5, 6 e 7.
+
+## Programa
+1. CPS e IoT: Modelos de referência, casos de uso e requisitos.<br />2. Arquitetura do CPS<br />Sistemas de controlo em rede e embutidos, modelos de computação e confiabilidade.<br />3. Dispositivos, conectividade end-to-end e protocolos<br />Restrições de dispositivos, plataformas de hardware comuns e principais características.<br />Protocolos mais utilizados, desempenho e segurança.<br />4. Middleware / plataformas e interoperabilidade<br />Camadas, modelo de comunicação publish-subscribe, plataformas mais usadas, interoperabilidade semântica.<br />5. Confiabilidade, segurança e privacidade.<br />6. Novos paradigmas em CPS e IoT.
+
+## Métodos de ensino e atividades de aprendizagem
+1. Palestras para exposição dos aspetos teóricos; algumas palestras realizadas por investigadores ou convidados da indústria; as palestras devem abranger no máximo 1/4 da UC.<br />2. Alguns tópicos mais detalhados, especificamente 3 e 4, usarão a metodologia flipped classroom, para promover a aprendizagem independente, o pensamento crítico e o raciocínio. <br />3. Discussão de tópicos e de casos de estudo com os estudantes em seminários; escolha de tópicos é feita pelos pelo estudante de acordo com trabalhos relevantes; seminários devem cobrir no máximo 1/3 da UC.<br />4. O método principal será a aprendizagem ativa, implementado através de um projeto realizado ao longo de todo o semestre. O projeto deve ser elaborado e planeado pelos estudantes e envolve uma componente de avaliação de requisitos de qualidade. O trabalho do projeto deve ocupar metade da UC.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 40.0 %
+- Trabalho prático ou de projeto: 60.0 %
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 15.0 horas
+- Elaboração de projeto: 54.0 horas
+- Estudo autónomo: 54.0 horas
+- Frequência das aulas: 39.0 horas
+
+## Fórmula de cálculo da classificação final
+Avaliação contínua (40%) + Projeto (45%) + Seminário (15%)
+
+## Obtenção de frequência
+Condições de Frequência: Nota mínima de 50% na classificação do projeto. Nota mínima de 40% em cada miniteste.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Cyberphysical Systems and Internet of Things
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+1. Understand current trends in CPS and IoT:<br />&#8226; Describe typical use cases and differentiate their system requirements.<br />&#8226; Explain their potential impact on the development of large-scale systems.<br />2. Understand architectures, models of computation and infrastructural principles:<br />&#8226; Define the different architectural elements.<br />&#8226; Discuss the motivation for each architectural element and model of computation.<br />3. Know IoT technology platforms, architectures, and protocols:<br />&#8226; Explain the trade-offs of wireless connectivity for the IoT.<br />&#8226; Distinguish different wireless technologies common in the IoT and their main characteristics.<br />&#8226; Differentiate IoT platforms and protocols.<br />&#8226; Explain the role of publish-subscribe in the IoT.<br />4. Describe of the issues related to dependability, security &amp; privacy.<br />5. Design and implement a CPS and IoT based system by combining different components.<br />6. Compare different design solutions for CPS and IoT systems.<br />7. Analyse and document CPS and IoT systems.
+
+## Resultados de aprendizagem e competências
+This course covers different architectures, computational models, techniques and tools applicable in the development of cyber-physical systems.<br />Although there is an exposition component of examples and cases in this course, the transmission of knowledge takes place mainly through the execution of projects by groups of students.<br />The exposure of these topics and their practice contribute decisively to enable students to familiarize themselves with the body of knowledge related to cyber-physical systems and the internet of things.<br />The contents covered in topic 1 target LOs 1, 5 and 6. Contents covered in topics 2, 3, and 5 are transversal will contribute to the competences described in all LOs. Topic 4 contributes to LOs 1, 3, 5 and 7. Finally, topic 6 will offer a lookout into research and innovation developments, contributing to LOs 1, 2, 5, 6 and 7.
+
+## Programa
+1. CPS and IoT: Reference models, use cases and requirements.<br />2. System Architecture of the CPS<br />Modern networked and embedded control systems, models of computation and dependability.<br />3. Edge devices, end-to-end connectivity and protocols<br />Device constraints, common hardware platforms and key characteristics.<br />Commonly used protocols, performance.<br />4. Middleware/ platforms and interoperability<br />Layers of functionality, publish-subscribe communication model, commonly used platforms, semantic interoperability.<br />5. Dependability, security &amp; privacy<br />6. Novel paradigms in CPS and IoT.
+
+## Métodos de ensino e atividades de aprendizagem
+1. Lectures to cover background and theoretical aspects; some lectures delegated on researchers or industry guests leading relevant research projects; lectures should cover at most 1/4 of the course.<br />2. Some more detailed topics, specifically 3 and 4, will use the flipped classroom methodology, to support independent learning, critical thinking and reasoning.<br />3. Discussion of topics and case studies with students in seminars; topics choice to be student driven and guided by relevant related work; seminars should cover at most 1/3 of the course.<br />4. The main method will be active learning, implemented in a full semester hands-on project. The project should be designed and planned by the students and involve a evaluation of quality requirements. Project work should take 1/2 of the course.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 40.0 %
+- Trabalho prático ou de projeto: 60.0 %
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 15.0 hours
+- Elaboração de projeto: 54.0 hours
+- Estudo autónomo: 54.0 hours
+- Frequência das aulas: 39.0 hours
+
+## Fórmula de cálculo da classificação final
+Continuous Assessment (40%) + Project (45%) + Seminar (15%)
+
+## Obtenção de frequência
+Terms of frequency: Students have to reach a minimum mark of 50% in the continuous assessment component. Minimum of 40% in every interim exam.
+

@@ -1,0 +1,149 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Desenho de Algoritmos
+
+## Curso responsável
+Licenciatura em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p style="font-weight: 400;">Esta unidade curricular visa complementar e aprofundar os conhecimentos de implementação e concepção de algoritmos assimilados na unidade curricular de Algoritmos e Estruturas de Dados (AED), pela introdução de técnicas de concepção de algoritmos para a resolução de diferentes tipos de problemas, dado particular relevo a técnicas estruturantes como &#8220;brute-force&#8221;, &#8220;backtracking&#8221;, &#8220;divide-and-conquer&#8221;, &#8220;greedy&#8221; e &#8220;dynamic programming&#8221; ubíquas em algoritmos avançados na vida real. Pretende-se igualmente, introduzir os conceitos de problemas de grande complexidade formalizados nos conceitos de hierarquia de complexidade polinomial determinística e não-deterministica, e respectiva técnica de redução polinomial entre problemas e sua abordagem na práctica com o uso de algoritmos de aproximação. Finalmente, esta unidade curricular aborda ainda as técnicas algorítmicas de optimização de problemas usando a formalização de programação linear inteira ou real.</p>
+
+## Resultados de aprendizagem e competências
+<p style="font-weight: 400;">No final da unidade curricular, espera-se que o estudante seja capaz de:</p>
+<ul>
+<li>Conhecer e saber aplicar técnicas genéricas de concepção de algoritmos;</li>
+<li>Conhecer e saber aplicar algoritmos avançados em árvores e grafos;</li>
+<li>Identificar problemas intratáveis e algoritmos que fornecem soluções aproximadas;</li>
+<li>Identificar problemas de optimização matemática e conhecer e saber aplicar algoritmos para resolução de alguns tipos de problemas de optimização usando técnicas de backtracking e de optimização linear.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p style="font-weight: 400;">É desejável e necessário que os estudantes tenham conhecimentos fundamentais de programação orientada por objectos, estruturas de dados e tipos abstratos de dados. É recomendável que os estudantes já tenham concluído com sucesso as seguintes unidades curriculares: L.EIC009 - PROG; L.EIC011 &#8211; AED.</p>
+
+## Programa
+<ol><br /><li><br /><ol><br /><li>Revisão de Notação de Complexidade Assimptótica e Estruturas de Dados Básicas.</li><br /><li style=&quot;font-weight: 400;&quot;><br /><p>Abordagem Algorítmica de Força-Bruta (&#8220;Brute-Force&#8221;) e aplicação em problemas de optimização de peuena escala.</p><br /></li><br /><li style=&quot;font-weight: 400;&quot;><br /><p>Algoritmos Gulosos (&#8220;Greedy&#8221;) e suas Aplicações.</p><br /></li><br /><li style=&quot;font-weight: 400;&quot;><br /><p>Algoritmos de Divisão e Conquista (&#8220;Divide-and-Conquer&#8221;) com aplicações em algoritmos numéricos.</p><br /></li><br /><li style=&quot;font-weight: 400;&quot;><br /><p>Algoritmos de Programação Dinâmica.</p><br /></li><br /><li style=&quot;font-weight: 400;&quot;><br /><p>Optimização usando Programação Linear (LP) e introdução a programação linear inteira (ILP).</p><br /></li><br /><li style=&quot;font-weight: 400;&quot;><br /><p>Algoritmos com retrocesso (&#8220;backtracking&#8221;) e expansão e poda (&#8220;Branch-and-Bound&#8221;)</p><br /></li><br /><li style=&quot;font-weight: 400;&quot;><br /><p>Problemas de complexidade exponencial. redução entre problemas e utilização de técnicas de aproximação polynomial.</p><br /></li><br /></ol><br /></li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p style="font-weight: 400;">A metodologia de ensino desta unidade curricular é caracterizada pela adopção de componentes teóricas e práticas de forma integrada, tanto nas aulas como nos vários momentos de avaliação. As aulas teóricas são usadas para a exposição formal da matéria, acompanhada da apresentação de exemplos e sua discussão. As aulas práticas são usadas para a consolidação da matéria teórica recorrendo a exemplos ilustrativos bem como para apoio dos alunos na concepção e implementação dos 2 projectos de programação que fazem parte integrante da avaliação desta disciplina.</p>
+<p style="font-weight: 400;"><br />A consolidação prática do conhecimento teórico adquirido, numa perspectiva de "aprender fazendo" permite então ao estudante adquirir competências em: i) caracterizar um dado problema; ii) formalizar o problema de maneira precisa; e, iii) identificar a técnica de concepção de algoritmos mais apropriada para a sua solução. Numa perspectiva integrada e holística de todo o conhecimento adquirido, os alunos realizarão 2 projetos de programação (recorrendo a técnicas e competências adquiridas na disciplina de AED), e de uma forma faseada, em que aplicam várias das técnicas de desenho e implementação de algoritmos complexos.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 40.0 %
+- Teste: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 50.0 horas
+- Estudo autónomo: 56.0 horas
+- Frequência das aulas: 28.0 horas
+- Trabalho laboratorial: 28.0 horas
+
+## Fórmula de cálculo da classificação final
+<p style="font-weight: 400;">A nota final é baseada nas seguintes componentes numa escala de 0.0 a 20.0 valores:</p>
+<p style="font-weight: 400;"> </p>
+<ul>
+<li>Dois mini-testes individuais (T1 e T2), escritos e sem consulta com duração de 1.5 horas (e tolerância de 30 mins).</li>
+<li>Dois projectos de programação (P1 and P2) em grupos de 3 alunos (máximo) e 2 alunos (mínimo).</li>
+</ul>
+<p style="font-weight: 400;"> </p>
+<p style="font-weight: 400;">A nota individual em cada projecto reflecte uma componente de 75% em grupo e uma componente de 25% individual. A componente de avaliação colectiva reflecte a correção da implementação da solução do problema bem como a abordagem seguida, enquanto que a componente individual reflecte a esforço individual na execução do projecto. Cada grupo, além de submeter a sua solução e respectivos inputs e output selecionados, deverá igualmente submeter um relatório simples descrevendo a sua solução evidenciando os eventuais aspectos inovadores da mesma.<br /><br />A nota final (NF) é calculada da seguinte forma:</p>
+<p style="font-weight: 400;">NF = (0.30 *(T1 + T2)) + (0.20 * (P1+P2))</p>
+<p style="font-weight: 400;">onde T1, T2, P1 e P2 terão que ser superiores ou iguais a 8.0, sendo apenas depois deste cálculo, arredondada as unidades. <br /><br />Caso, uma das componentes não tenha classificação supoerior ou igual a 8.0, o estudante é reprovado por falta de componente, e elegível para recurso em que poderá repescar essa componente, ou componentes em falta. </p>
+
+## Obtenção de frequência
+<p style="font-weight: 400;">A aferição de frequência nesta UC incide apenas nas componentes de projectos de grupo de programação em que a classificação mínima nos dois projectos é de 8.0. A não obtenção da classificação de 8.0 valores num dos dois projectos resulta na reprovação da UC com RFF uma vez que a classificação dos projectos não é passível de melhoria. A não obtenção de classificação de 8.0 valores num dos dois testes resulta na reprovação `a UC com RFF.</p>
+<p style="font-weight: 400;">Não há requisites de presença nas aulas TP `a excepção nas aulas em que há demonstração dos projectos (demo).</p>
+<p style="font-weight: 400;"><u>Não são aceites classificações de qualquer elemento de classificação de anos anteriores.</u></p>
+
+## Melhoria de classificação
+<p style="font-weight: 400;">A melhoria de classificação é feita através de um exame escrito (exame global), <u>a realizar na época de recurso</u>, sobre toda a matéria lecionada durante o semestre.</p>
+<p style="font-weight: 400;">Não é possível melhorar a classificação de testes individuais, nem dos trabalhos práticos realizados.</p>
+<p style="font-weight: 400;">Não é permitida a melhoria por frequência.</p>
+<p style="font-weight: 400;">A inscrição no exame de melhoria de classificação está sujeita ao pagamento de um emolumento, de acordo com os valores indicados na Tabela de Emolumentos da Universidade do Porto, que deve ser liquidado <u>previamente à realização do exame.</u></p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Algorithm Design
+
+## Curso responsável
+Bachelor in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p style="font-weight: 400;">This course on Design of Algorithms (DA) aims at complementing and further develop the implementation skills regarding the analysis and synthesis of computer algorithms, previously explored (in an introductory fashion) in the algorithms and data structures (AED course. This DA class introduces various algorithmic techniques of wide applicability, such as brute-force, backtracking, divide-and-conquer, greedy and dynamic programming, ubiquitous in real life algorithmic implementation solutions. We will also introduce the complexity classes of P and NP and the concept of polynomial-time reduction. As a practical application, we will also introduce the notion of approximation algorithms. Lastly, we will also cover the algorithmic techniques used in optimization problems via linear (real and integer) programming.</p>
+
+## Resultados de aprendizagem e competências
+<p style="font-weight: 400;">At the end of this course, students, should be able to:</p>
+<ul>
+<li>Identify and understand how to apply generic algorithmic development technics;</li>
+<li>Identify and understand how to apply advanced graph and tree algorithms;</li>
+<li>Identify intractable problems and optimization problems that are suitable to have approximate solutions</li>
+<li>Identify classes of optimization problems for which generic technics such as back-tracking and linear optimization are feasible.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p style="font-weight: 400;">It is highly desirable that students have solid knowledge of imperative programming (including object-oriented), data structures and abstract data types. The successful completion of L.EIC009 (Prog) and L.EIC011 (AED) is highly recommended.</p>
+
+## Programa
+<ol><br /><li>Review of asymptotic complexity notation and basic data structuers and algorithms in arrays and trees.</li><br /><li style=&quot;font-weight: 400;&quot;><br /><p>Brute-force approach and simple applications for small scale (size) optimization problems.</p><br /></li><br /><li style=&quot;font-weight: 400;&quot;><br /><p>greedy algorithms and example application problems.</p><br /></li><br /><li style=&quot;font-weight: 400;&quot;><br /><p>Divide-and-Conquer algorithms and its applications including numérical methods.</p><br /></li><br /><li style=&quot;font-weight: 400;&quot;><br /><p>Dynamic programming algorithms.</p><br /></li><br /><li style=&quot;font-weight: 400;&quot;><br /><p>Linear programming (LP) optimization and introduction to integer linear programming (ILP).</p><br /></li><br /><li style=&quot;font-weight: 400;&quot;><br /><p>Backtracking and Brach-and-Bound and its use in optimization problems.</p><br /></li><br /><li style=&quot;font-weight: 400;&quot;><br /><p>Intractable problems and polynomial-time and space reduction between problems. Approximation algorithms for selected problems.</p><br /></li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Lectures are used to present the concepts alongside the discussion and presentation of specific application examples. In the practical classes, these examples are further expanded the techniques revisited. Practical classes are also used in support of the two programming projects the students are expected to develop as they consolidate, in a very practical and pragramatic fashion, the algorithmic concepts described in this class. </p>
+<p style="font-weight: 400;">The consolidation of the theoretic knowledge in this class, in a pragmatic implementation approach, allows each student to acquire a broad component in i) problem characterization ii) formalization in a precise fashion of the problem and corresponding solutions iii) identification of the various plausible algorithmic techniques that can be pursued as a feasible solution. In the context of an integrated and holistic learning approach, the students are asked to develop two programming projects (leveraging techniques and components acquired in this course and in previous courses), and in a staged fashion, where various algorithmic approaches are pursed in search for feasible engineering solutions for complex real-life problems.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 40.0 %
+- Teste: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 50.0 hours
+- Estudo autónomo: 56.0 hours
+- Frequência das aulas: 28.0 hours
+- Trabalho laboratorial: 28.0 hours
+
+## Fórmula de cálculo da classificação final
+<p style="font-weight: 400;">The final class grade is based on the following components on a scale from 0.0 to 20.0 points:</p>
+<ul>
+<li>Two individual written mini-testes (T1 and T2), lasting 1.5 hours (30 mins max. extra) and without access to support materials</li>
+<li>Two group programming projects (P1 and P2) with 3 students (maximum) and 2 students (minimum).</li>
+</ul>
+<p style="font-weight: 400;"> The student&#8217;s individual grade in the Project has two components. One group component with a 75% weight reflecting the overall performance of the project solution and a 25% individual grade reflecting the level of effort of the student. Each group, besides of the program submission and corresponding sample inputs and outputs, shall also submit a simple report describing the features of their solution highlighting any potential innovative aspects.</p>
+<p style="font-weight: 400;">The final class grade (NF) is computed as follows:</p>
+<p style="font-weight: 400;">NF = (0.30 *(T1 + T2)) + (0.20 * (P1+P2))</p>
+<p style="font-weight: 400;">where T1, T2, P1 and P2 will have to be greater or equal than 8.0, which only after this will be rounded up to the units.<br /><br /></p>
+<p style="font-weight: 400;">In case the students does not meet the minimum grade of 8.0 in one of the grading components, he/she will be automatically enrolled in the &#8220;make-up&#8221; (&#8220;recurso&#8221;) term in which he/she will have to make-up for that component.</p>
+
+## Obtenção de frequência
+<p style="font-weight: 400;">For the purposes of being eligible for grading, the only requirement is that students have a grade of at least 8.0 for both group programming projects. Failure to meet this requirement results in a Fail grade in the class with RFF as you cannot make-up the grade of a programming project. Failure to meet the minimum grade in either of the tests also results in a RFF grade.</p>
+<p style="font-weight: 400;">There is no attendance requirement for the TP classes except for the demo of the programming project which all the elements of each group must attend, in person.</p>
+<p style="font-weight: 400;"><u>No grades from the previous years for any of the grading elements are accepted towards this year&#8217;s final grade credit.</u></p>
+
+## Melhoria de classificação
+<p style="font-weight: 400;">Grade make-up is possible only regarding the written tests' grade component, through a single global exam that covers all the class material. It is not possible to make-up of the individual tests's grades. It is not possible to make-up Programming Projects grades.<br /><br />Enrollment in the make-up exam requires an enrollment with the Academic Records Office in accordance with the Regulations of the University of Porto. Proof of payment is required before taking the Make-Up exam.</p>
+

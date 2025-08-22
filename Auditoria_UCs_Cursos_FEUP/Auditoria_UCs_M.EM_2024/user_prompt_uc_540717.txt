@@ -1,0 +1,112 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Aplicações de Sistemas Mecatrónicos
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Nesta UC os estudantes deverão desenvolver as competências que lhe permitam especificar, conceber, implementar e testar soluções de monitorização, comando e/ou controlo de sistemas mecatrónicos baseadas em microcontroladore e/ou computadores.
+
+## Resultados de aprendizagem e competências
+No final desta Unidade Curricular, o estudante deverá ser capaz de:<br />- Conceber e implementar sistemas mecatrónicos controlados por  microcontroladores, ou plataformas embebidas;<br />- Conhecer a arquitetura de um sistema baseado em microcontrolador.<br />- Identificar os principais protocolos de comunicação com sensores e periféricos;<br />- Utilizar alguns ambientes de programação para sistemas mecatrónicos.
+
+## Pré-requisitos e co-requisitos
+O estudante deverá ter conhecimentos básicos sobre:<br />- Conceitos de eletricidade e eletromagnetismo<br />- Capacidade leitura e desenho de circuitos pneumáticos<br />- Sistemas lógicos, numeração binária, controladores lógicos programáveis
+
+## Programa
+1. INTRODUÇÃO AOS SISTEMAS MECATRÓNICOS<br />Conceção de um sistema mecatrónico, seleção dos sensores e atuadores para uma aplicação e implementação da solução usando uma plataforma embebida (LEGO NXT)<br /><br />2. CONCEITOS BÁSICOS DE ELETRÓNICA<br />Junção PN, díodo, transístor bipolar, FET<br />Níveis lógicos (TTL, CMOS)<br />Relé eletromecânico, relé de estado sólido<br />Isolamento galvânico de sinais<br /><br />3. SISTEMAS BASEADOS EM MICROCONTROLADORES<br />Computadores e sistemas embebidos<br />Estrutura de um microcontrolador, famílias de microcontroladores<br />Entradas e saídas digitais<br />Entradas e saídas analógicas<br />Saídas PWM<br />Comunicações<br />Ambientes de programação<br /><br />4. DESENVOLVIMENTO DE SISTEMAS MECATRÓNICOS<br />Casos de estudo<br />Implementação de soluções<br />Visitas de estudo<br />Palestras
+
+## Métodos de ensino e atividades de aprendizagem
+<p style="text-align: justify;">As aulas teóricas-práticas são de exposição das matérias do programa, suportadas em meios audio visuais. Esta Unidade Curricular tem uma forte componente laboratorial de "hands-on", que compreende o projeto e montagem em <em>breadboard</em> de circuitos eletrónicos, bem como a programação dos microcontroladores, PCs com vista à implementação de soluções de monitorização, comando e/ou controlo de sistemas mecatrónicos. Estes trabalhos pressupôe a dedicação de tempo extra aula e serão executados em grupos de estudantes.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 70.0 %
+- Teste: 30.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 72.0 horas
+- Estudo autónomo: 36.0 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho escrito: 15.0 horas
+
+## Fórmula de cálculo da classificação final
+1. Trabalho de projeto baseado na plataforma Lego (L=40%) relativamente à participação, dificuldade, criatividade e apresentação.<br />2. Microcontroladores (M=30%) - Esta componente será avaliada através do desempenho no desenvolvimento dos projetos de microcontroladores.<br />3. Exame final (E=30%) - Esta componente será avaliada num miniteste individual on-line.<br />Classificação final  CF=L*0.40 + M*0.30 + E*0.30
+
+## Obtenção de frequência
+É concedida frequência aos estudantes regularmente inscritos na unidade curricular que não excedam o número limite de faltas, de acordo com o estabelecido na FEUP.
+
+## Melhoria de classificação
+A melhoria de classificação é possivel pela realização de um exame de recurso que substituirá a correspondente nota do exame.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Application of Mechatronic Systems
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+In this UC, students should develop skills that allow them to specify, design, implement and test monitoring, command and/or control solutions for mechatronic systems based on microcontrollers and/or computers.
+
+## Resultados de aprendizagem e competências
+At the end of this Curricular Unit, the student should be able to:<br /><br /><ul><br /><li>Design and implement mechatronic systems controlled by microcontrollers, or embedded platforms;</li><br /><li>Know the architecture of a microcontroller-based system.</li><br /><li>Identify the main communication protocols with sensors and peripherals;</li><br /><li>Use some programming environments for mechatronic systems.</li><br /></ul>
+
+## Pré-requisitos e co-requisitos
+The student should have basic knowledge about:<br /><br />     Electricity and electromagnetism concepts.<br />     Ability to read and design pneumatic circuits.<br />     Logic systems, binary numbering, programmable logic controllers.
+
+## Programa
+1. INTRODUCTION TO MECHATRONIC SYSTEMS<br />Design of a mechatronic system, selection of sensors and actuators for an application and implementation of the solution using an embedded platform (LEGO NXT)<br /><br />2. BASIC CONCEPTS OF ELECTRONICS<br />PN Junction, Diode, Bipolar Transistor, FET<br />Logic Levels (TTL, CMOS)<br />Electromechanical relay, solid state relay<br />Galvanic isolation of signals<br /><br />3. MICROCONTROLLER BASED SYSTEMS<br />Computers and Embedded Systems<br />Structure of a microcontroller, microcontroller families<br />Digital inputs and outputs<br />Analog Inputs and Outputs<br />PWM outputs<br />Communications<br />programming environments<br /><br />4. DEVELOPMENT OF MECHATRONIC SYSTEMS<br />Study cases<br />Implementation of solutions<br />Visits
+
+## Métodos de ensino e atividades de aprendizagem
+Theoretical-practical classes are for exposition of the contents of the program, supported by audiovisual means. This Curricular Unit has a strong &quot;hands-on&quot; laboratory component, which comprises the design and assembly in breadboard of electronic circuits, as well as the programming of microcontrollers, PCs with a view to implementing monitoring, command and/or control solutions. mechatronic systems. These works presuppose the dedication of extra class time and will be carried out in groups of students.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 70.0 %
+- Teste: 30.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 72.0 hours
+- Estudo autónomo: 36.0 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho escrito: 15.0 hours
+
+## Fórmula de cálculo da classificação final
+1. Project work based on Lego platform (L=40%) regarding participation, difficulty, creativity and presentation.<br /><br />2. Microcontrollers (M=30%) - This component will be evaluated through performance in the development of microcontroller projects.<br /><br />3. Final exam (E=30%) - This component will be evaluated in an individual online quiz.<br /><br />Final classification<br />CF=L*0.40 + M*0.30 + E*0.30
+
+## Obtenção de frequência
+<p>Attendance is granted to students regularly enrolled in the curricular unit that do not exceed the maximum number of absences, as established by FEUP.</p>
+<p> </p>
+<p>A grade of 8 values or more is required in the Test/Exam component in order to be granted attendance.</p>
+
+## Melhoria de classificação
+Improved classification is possible by taking a recourse exam that will replace the corresponding exam grade.
+

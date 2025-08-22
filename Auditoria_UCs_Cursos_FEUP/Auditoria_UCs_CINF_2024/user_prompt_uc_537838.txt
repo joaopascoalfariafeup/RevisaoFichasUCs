@@ -1,0 +1,119 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Bases de Dados
+
+## Curso responsável
+Licenciatura em Ciência da Informação
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>O objetivo da UC é familiarizar os estudantes com as bases de dados quer enquanto componentes de sistemas de informação a especificar ou a gerir, quer enquanto fontes de informação a explorar, para os habilitar a colaborar na definição de uma estratégia global de armazenamento dos dados da organização.</p>
+
+## Resultados de aprendizagem e competências
+<ol><br /><li>Definir modelos de dados relacionais, de acordo com os princípios gerais das bases de dados;</li><br /><li>exprimir interrogações à base de dados usando álgebra relacional;</li><br /><li>obter informação de uma base de dados usando SQL;</li><br /><li>definir modelos de interface e de acesso para aplicações assentes em bases de dados;</li><br /><li>acompanhar a operação nos aspetos de segurança e integridade;</li><br /><li>implementar pequenas bases de dados.</li><br /></ol>
+
+## Pré-requisitos e co-requisitos
+<p>Conhecimentos de modelação de sistemas de informação, em particular de UML.</p>
+
+## Programa
+<p>O sistema de informação duma organização. Sistemas de gestão de bases de dados.<br />Bases de dados relacionais: modelo relacional; tradução de modelos concetuais UML para modelos relacionais; interrogação com álgebra relacional.</p>
+<p>Linguagem de dados SQL. Tarefas de pesquisa de informação envolvendo consultas simples, junções, agregações, subperguntas e quantificação universal.</p>
+<p>Construção de interfaces gráficas de acesso a dados.</p>
+<p>A segurança e integridade de sistemas de informação.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas serão usadas para exposição formal da matéria, acompanhada da apresentação de exemplos e exercícios em computador e sua discussão.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Participação presencial: 0.0 %
+- Teste: 25.0 %
+- Trabalho laboratorial: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 82.0 horas
+- Frequência das aulas: 56.0 horas
+- Trabalho laboratorial: 24.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>AD = 0.2 Miniteste + 0.3 SQL + 0.5 Trabalho</p>
+<p>Nota = 0.5 AD + 0.5 EX <br /> <br />AD - avaliação distribuída <br />EX - exame final <br />Mínimo de 7 valores no exame</p>
+
+## Obtenção de frequência
+<p>É necessário um mínimo de 7 valores na avaliação distribuída (AD) para obter frequência e para obter aprovação.</p>
+
+## Melhoria de classificação
+<p>O exame de melhoria de classificação substitui as componentes de avaliação distribuída Miniteste e SQL, além do Exame final. Nota= 0.25 Trabalho + 0.75 Exame</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Databases
+
+## Curso responsável
+Bachelor of Arts in Information Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>The goal of the course is to get the students familiar with databases both as components of information systems to be specified or managed and as information sources to be explored, enabling them to participate on the definition of an organizational data storage strategy.</p>
+
+## Resultados de aprendizagem e competências
+<ol><br /><li>To define a data model, according to the general principles of database systems;</li><br /><li>to express queries to the database using relational algebra;</li><br /><li>to retrieve information from a database using SQL;</li><br /><li>to define models for the interface and access control of database applications;</li><br /><li>to monitor the operation in the security and integrity aspects;</li><br /><li>to implement small databases.</li><br /></ol>
+
+## Pré-requisitos e co-requisitos
+<p>Knowledge on information systems modeling, in particular UML.</p>
+
+## Programa
+<p>An organization&#8217;s information system. Database management systems. <br />Relational databases: relational model; translation from UML conceptual models into relational models; querying with relational algebra;</p>
+<p>SQL data languages. Information retrieval tasks using simple queries, joins, aggregation operators, subqueries, and universal quantification.</p>
+<p>Building data access graphic interfaces.</p>
+<p>Information systems security and integrity.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Explanation of the subject matter will take place in class, providing examples and discussing hands-on exercises.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Participação presencial: 0.0 %
+- Teste: 25.0 %
+- Trabalho laboratorial: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 82.0 hours
+- Frequência das aulas: 56.0 hours
+- Trabalho laboratorial: 24.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>DE = 0.2 Test + 0.3 SQL + 0.5 Assignment <br />Final mark = 0.5 DE + 0.5 EX <br /> <br />DE - Distributed Evaluation <br />Ex - Exam<br />7 out of 20 minimum at the exam.</p>
+
+## Obtenção de frequência
+<p>A minimum of 7 is required in the distributed evaluation (DE) to obtain frequency recognition and to obtain approval.</p>
+
+## Melhoria de classificação
+<p>The classification improvement examination substitutes the assessment components Test and SQL, besides the final examination. Final mark= 0.25 Assignment + 0.75 Exam</p>
+

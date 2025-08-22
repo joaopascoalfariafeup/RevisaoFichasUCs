@@ -1,0 +1,230 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Processamento e Recuperação de Informação
+
+## Curso responsável
+Mestrado em Inteligência Artificial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>A unidade curricular de PRI tem como objetivo preparar os estudantes para conhecer, compreender, desenhar e desenvolver soluções para o processamento e recuperação de informação.</p>
+<p>Os objetivos específicos são:</p>
+<ol>
+<li>Sensibilizar os estudantes para os desafios associados à construção de sistemas de pesquisa de informação;</li>
+<li>Familiar os estudantes com os principais conceitos e técnicas associadas ao processamento e recuperação de informação;</li>
+<li>Capacitar os estudantes para desenhar, implementar e avaliar sistemas de pesquisa de informação sobre coleções de documentos.</li>
+</ol>
+
+## Resultados de aprendizagem e competências
+<p>Ao completar esta unidade curricular, o estudante deve ser capaz de projetar e implementar um sistema para o processamento e recuperação de informação.</p>
+<p>Em particular, o estudante deve ser capaz de:</p>
+<ul>
+<li>Identificar e descrever as principais tarefas associadas ao processamento e recuperação de informação;</li>
+<li>Descrever a arquitetura e funcionamento de um sistema de pesquisa de informação;</li>
+<li>Descrever as tarefas associadas às fases de processamento de uma coleção (offline) e de processamento de interrogações (online);</li>
+<li>Distinguir os diferentes modelos de recuperação de informação, identificando os seus princípios, os modelos para a representação de documentos, e as medidas de semelhança;</li>
+<li>Descrever e implementar diferentes técnicas para a indexação de informação;</li>
+<li>Descrever e implementar diferentes técnicas para a recuperação e ordenação de resultados;</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>Programação: conhecimento e prática com linguagens de programação para o desenvolvimento de aplicações.</p>
+<p>Bases de Dados: conhecimento e prática de modelação de dados em UML.</p>
+
+## Programa
+<p>A área do processamento e recuperação de informação</p>
+<ul>
+<li>Recuperação de informação versus recuperação de dados;</li>
+<li>O desenvolvimento da área da recuperação de informação;</li>
+<li>Tarefas de recuperação de informação;</li>
+<li>O processo de recuperação de informação.</li>
+</ul>
+<p>Arquitetura dos sistemas de recuperação de informação</p>
+<ul>
+<li>Componentes de um sistema de pesquisa;</li>
+<li>Recolha de informação: seleção, aquisição e armazenamento;</li>
+<li>Processamento de texto: análise lexical, extração de raízes, compressão;</li>
+<li>Indexação: índices invertidos, construção e acesso;</li>
+<li>Processamento das interrogações, interação, ordenação e avaliação dos resultados.</li>
+</ul>
+<p>Modelos de recuperação</p>
+<ul>
+<li>Modelo Booleano, modelo vetorial e modelo probabilístico;</li>
+<li>Representação de documentos;</li>
+<li>Medidas de semelhança.</li>
+</ul>
+<p>Recuperação de informação na web</p>
+<ul>
+<li>Análise de ligações;</li>
+<li>Algoritmos HITS e PageRank.</li>
+</ul>
+<p>Avaliação de sistemas de recuperação de informação</p>
+<ul>
+<li>Coleções de teste, tópicos e avaliações de relevância;</li>
+<li>Medidas para a avaliação de sistemas de pesquisa.</li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Os tópicos do programa são expostos numa série de sessões tutoriais (exposição teórica e trabalho laboratorial). Cada grupo de estudantes define e realiza um projeto ao longo do semestre, com parte do desenvolvimento, acompanhamento, e avaliação, realizadas em aula.</p>
+<p>Projeto: desenho e implementação de um sistema de processamento e pesquisa de informação desenvolvido em grupos de estudantes. O projeto está organizado em entregas e apresentações parciais, que correspondem às fases de desenvolvimento do projeto.</p>
+<p>O desenvolvimento do projeto será acompanhado durante as aulas teórico-práticas, e avaliado com base no acompanhamento, nos relatórios submetidos, e nas apresentações realizadas.</p>
+<p>Os conceitos teóricos são avaliados através de um exame final, com perguntas de escolha múltipla e perguntas abertas.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Trabalho prático ou de projeto: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 70.0 horas
+- Estudo autónomo: 53.0 horas
+- Frequência das aulas: 39.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A nota final será calculada usando a fórmula:</p>
+<p><strong>NF = 60% Projeto + 40% Exame</strong></p>
+<p>A obtenção de aprovação no projeto requer a participação, de cada estudante, em todas as fases do projeto, nomeadamente na seleção das fontes de dados, na seleção das tecnologias, na identificação e caraterização do problema, no desenho e implementação da solução, na escrita dos relatórios, e nas apresentações do projeto.</p>
+<p>A classificação final individual do projeto pode variar de elemento para elemento do mesmo grupo, em mais ou menos 3 valores, com base na opinião dos docentes e na autoavaliação e heteroavaliação a realizar internamente em cada grupo.</p>
+<p>A aprovação na unidade curricular está condicionada à obtenção de uma avaliação individual mínima de 40% no exame.</p>
+
+## Obtenção de frequência
+<p>As condições para obtenção de frequência são as seguintes:</p>
+<ol>
+<li>não exceder o número limite de faltas às aulas práticas (25% do número de aulas práticas do semestre);</li>
+<li>realizar a inscrição num grupo de trabalho dentro do período definido;</li>
+<li>participar em cada uma das fase de desenvolvimento do projeto;</li>
+<li>participar na apresentação e defesa final do projeto.</li>
+</ol>
+<p>A participação no desenvolvimento do projeto (ponto 3) é aferida através das evidências produzidas pelo estudante (código e documentação), da avaliação dos docentes durante as aulas práticas, e da autoavaliação e heteroavaliação realizada no contexto do grupo.</p>
+
+## Melhoria de classificação
+<p>Não é possível a melhoria da classificação obtida no projeto.</p>
+<p>É possível a melhoria da classificação do exame, mantendo a classificação obtida no projeto na inscrição anterior.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Information Processing and Retrieval
+
+## Curso responsável
+Master in Artificial Intelligence
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>The curricular unit PRI aims to prepare students to know, understand, design and develop solutions for information processing and retrieval.</p>
+<p>The specific objectives are:</p>
+<ol>
+<li>Make students aware of the challenges associated with building information search systems;</li>
+<li>Familiarize students with the main concepts and techniques associated with information processing and retrieval;</li>
+<li>Enable students to design, implement and evaluate information search systems on document collections.</li>
+</ol>
+
+## Resultados de aprendizagem e competências
+<p>Upon completing this course, the student should be able to design and implement a system for processing and retrieving information.</p>
+<p>In particular, the student must be able to:</p>
+<ul>
+<li>Identify and describe the main tasks associated with information processing and retrieval;</li>
+<li>Describe the architecture and functioning of an information search system;</li>
+<li>Describe the tasks associated with the processing phases of a collection (offline) and interrogation processing (online);</li>
+<li>Distinguish the different information retrieval models, identifying their principles, models for document representation, and similarity measures;</li>
+<li>Describe and implement different techniques for indexing information;</li>
+<li>Describe and implement different techniques for retrieving and ordering results;</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>Programming: knowledge and practice with programming languages &#8203;&#8203;for application development.</p>
+<p>Databases: knowledge and practice of data modeling in UML.</p>
+
+## Programa
+<p>The area of &#8203;&#8203;information processing and retrieval</p>
+<ul>
+<li>Information retrieval versus data retrieval;</li>
+<li>The development of the information retrieval area;</li>
+<li>Information retrieval tasks;</li>
+<li>The information retrieval process.</li>
+</ul>
+<p>Architecture of information retrieval systems</p>
+<ul>
+<li>Components of a research system;</li>
+<li>Information collection: selection, acquisition and storage;</li>
+<li>Word processing: lexical analysis, root extraction, compression;</li>
+<li>Indexing: inverted indexes, construction and access;</li>
+<li>Processing of queries, interaction, ordering and evaluation of results.</li>
+</ul>
+<p>Recovery models</p>
+<ul>
+<li>Boolean model, vector model and probabilistic model;</li>
+<li>Representation of documents;</li>
+<li>Similarity measures.</li>
+</ul>
+<p>Web information retrieval</p>
+<ul>
+<li>Link analysis;</li>
+<li>HITS and PageRank algorithms.</li>
+</ul>
+<p>Assessment of information retrieval systems</p>
+<ul>
+<li>Test collections, topics and relevance assessments;</li>
+<li>Measures for the evaluation of research systems.</li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The program topics are exposed in a series of tutorial sessions (theoretical presentation and laboratory work). Each group of students defines and carries out a project throughout the semester, with part of the development, monitoring, and evaluation carried out in class.</p>
+<p>Project: design and implementation of an information processing and research system developed in groups of students. The project is organized in deliveries and partial presentations, which correspond to the project development phases.</p>
+<p>The development of the project will be monitored during the theoretical-practical classes, and evaluated based on the monitoring, the submitted technical reports, and the presentations made.</p>
+<p>Theoretical concepts are assessed through a final exam, with both multiple choice questions and open-ended questions.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Trabalho prático ou de projeto: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 70.0 hours
+- Estudo autónomo: 53.0 hours
+- Frequência das aulas: 39.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final grade will be calculated using the formula:</p>
+<p><strong>NF = 60% Project + 40% Exam</strong></p>
+<p>Obtaining approval in the project requires the participation of each student in all phases of the project, namely in the selection of the data sources, in the selection of technologies, in identifying and characterizing the problem, in designing and implementing the solution, in writing the reports, and in the project presentations.</p>
+<p>The individual final grade of the project can vary from element to element of the same group, by plus or minus 3 values, based on the opinion of the teachers and in the self-assessment and hetero-assessment to be carried out internally in each group.</p>
+<p>Approval in the curricular unit is subject to obtaining a minimum individual assessment of 40% in the exam.</p>
+
+## Obtenção de frequência
+<p>The conditions for obtaining course attendance are as follows:</p>
+<ol>
+<li>Not exceeding the maximum number of absences in practical classes (25% of the total number of practical classes in the semester);</li>
+<li>Registering in a work group within the defined period;</li>
+<li>Participating in each phase of the project development;</li>
+<li>Participating in the final presentation and defense of the project.</li>
+</ol>
+<p>Participation in project development (point 3) is assessed through the evidence produced by the student (code and documentation), the evaluation by instructors during practical classes, and the self-assessment and peer evaluation conducted within the group.</p>
+
+## Melhoria de classificação
+<p>It is not possible to improve the grade obtained for the project.</p>
+<p>It is possible to improve the exam grade while retaining the project grade from the previous enrollment.</p>
+

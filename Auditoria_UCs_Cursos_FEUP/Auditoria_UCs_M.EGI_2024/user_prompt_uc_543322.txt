@@ -1,0 +1,134 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas de Apoio à Decisão
+
+## Curso responsável
+Mestrado em Engenharia e Gestão Industrial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Complementar e aprofundar os conhecimentos teóricos e a prática de diversos métodos de Apoio à Decisão. Esta unidade curricular dá seguimento ao estudo das técnicas da Investigação Operacional iniciado ao nível da Licenciatura, com ênfase na tomada de decisão em contextos de incerteza.</p>
+<p>Aprofundar o estudo de métodos de Análise e de Estruturação de problemas, tendo em vista a resolução de problemas reais nas organizações. É dado especial relevo aos aspectos relacionados com as Cadeias de Markov, os Sistemas de Filas de Espera e a Simulação Visual Interativa. É feita uma introdução aos processos de decisão estocásticos.</p>
+<p>Promover e aprofundar aptidões inter-pessoais, nomeadamente de trabalho em grupo e de comunicação.</p>
+
+## Resultados de aprendizagem e competências
+<p>Esta unidade curricular promove a aquisição das competências seguintes:</p>
+<ul>
+<li>Estruturar abordagens para situações complexas de decisão com recurso a métodos quantitativos;</li>
+<li>Identificar e selecionar as técnicas da investigação operacional que melhor se adequam à resolução dos problemas concretos nas organizações;</li>
+<li>Dominar os aspetos algorítmicos e computacionais associados às técnicas da Investigação Operacional estudadas nesta unidade curricular;</li>
+<li>Trabalhar e cooperar em equipa.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>Investigação Operacional<br />Estatística</p>
+
+## Programa
+<p>1. CADEIAS DE MARKOV: Matriz e diagrama de transição. Análise de cadeias de Markov regulares e de cadeias de Markov absorventes. Generalizações.</p>
+<p>2. SISTEMAS DE FILAS DE ESPERA: Caracterização de sistemas de espera. Sistema M/M/1. Outros sistemas Markovianos com mais de um posto de atendimento. Sistemas Markovianos com capacidade limitada e sistemas fechados. Sistemas com clientes com prioridades distintas.</p>
+<p>3. SIMULAÇÃO: Objetivos e limitações. O método dos acontecimentos, atividades e processos. Conceitos fundamentais (entidades, filas, etc.). Criação de modelos. Introdução ao software Arena e aplicação a casos de estudo.</p>
+<p>4. PROCESSO DE DECISÃO DE MARKOV: Conceitos fundamentais (estados, ações, políticas), equiavalente de programação linear. Métodos de solução - value and policy iteration.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>No âmbito desta disciplina combinam-se aulas de exposição de métodos e técnicas de Investigação Operacinal, aulas de resolução de problemas (algumas das quais com o apoio de computadores), e aulas de apresentação e discussão de casos pelos alunos.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 65.0 %
+- Trabalho prático ou de projeto: 35.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 34.0 horas
+- Estudo autónomo: 86.0 horas
+- Frequência das aulas: 42.0 horas
+
+## Fórmula de cálculo da classificação final
+Fórmula de Cálculo da Classificação final:<br />Classificação Final = 0.65*EF + 0.35*(AG+OI).<br /><br />Sendo:<br />EF: Exame Final<br />AG: Avaliação do trabalho de Grupo - Avaliação do trabalho realizado pelo grupo no software Arena, tendo por base a qualidade do modelo implementado em Arena, o relatório produzido e a apresentação oral do trabalho (em escala 0 a 20 val).<br />OI: Offset Individual - Desempenho individual dentro da equipa, cuja nota é atribuída pelos docentes da Unidade Curricular, tendo por base a média das avaliações dadas pelos pares (colegas do grupo). Esse offset individual pode variar entre ±2, devendo o somatório dos Offset_Individual para todos os elementos de uma equipa estar compreendido entre -1 e +1.<br /><p>A aprovação à UC exige a obtenção de uma classificação maior ou igual a 7,5 valores no trabalho de grupo de Simulação (AG+OI) e no exame final.<br /><br />Na época de recurso, os pesos do exame e do trabalho de grupo usados no cálculo da classificação final são idênticos aos da época normal.</p>
+
+## Obtenção de frequência
+<p>De acordo com as "Normas Gerais de Avaliação" do Conselho Pedagógico da FEUP.</p>
+
+## Melhoria de classificação
+<p>Os estudantes podem repetir o exame na época de recurso, mas não há possibilidade de repetição da componente de avaliação referente ao trabalho realizado em grupo.<br /><br />Os estudantes que pretendam obter melhoria de classificação poderão também fazê-lo no ano letivo seguinte. A nota do trabalho de grupo será considerada identica à do ano letivo anterior no caso da repetição do exame no ano letivo seguinte.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Decision Support Systems
+
+## Curso responsável
+Master in Industrial Engineering and Management
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>To complement and deepen the theoretical knowledge and practice of Decision Support Techniques. This curricular unit follows the study of Operational Research Techniques initiated at a first-degree level, emphasizing decision-making in uncertainty contexts.<br /> <br /> To deepen the study of methods of Problem Structuring and Analysis, in order to solve real-world problems in organizations. Particular emphasis is given to aspects related to Markov Chains, Queueing Systems and Visual Interactive Simulation. An introduction to stochastic decision processes is given.<br /> <br /> To promote and deepen interpersonal skills, especially group work and communication skills.</p>
+
+## Resultados de aprendizagem e competências
+<p>This course promotes the acquisition of the following competences:</p>
+<ul>
+<li>To strucutre approaches to dela with complex decision-making situations using quantitative methods;</li>
+<li>To identify and select the operational research techniques that are best suited to solve concrete problems in organizations;</li>
+<li>To master the algorithmic and computational aspects associated to the techniques of Operational Research studied in this course;</li>
+<li>To work and cooperate as a team.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p><!-- [if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:RelyOnVML/>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--></p>
+<p><span lang="EN-GB">Operational Research<br /></span><span lang="EN-GB">Statistics</span><span lang="EN-GB" style="font-size: 11.0pt; line-height: 115%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-GB; mso-fareast-language: PT; mso-bidi-language: AR-SA;"><br /></span></p>
+
+## Programa
+<p>1. MARKOV CHAINS: Transition matrix of a Markov Chain. Analysis of ergodic chains and absolving chains. Generalisations.</p>
+<p>2. QUEUING THEORY: Characterisation of queuing processes. The M/M/1 queuing system. Queuing systems with more than one server. Finite source models and systems with limited capacity. Priority queuing models.</p>
+<p>3. SIMULATION: Objectives and limitations. Event, activities and process-based approaches to discrete simulation.  Fundamental concepts (entities, queues, etc.). Development of models. Introduction to Arena Software and application to case-studies.</p>
+<p>4. MARKOV DECISION PROCESS: Fundamental concepts (states, actions, policies), linear programming equiavalent. Solution methods - value and policy iteration.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span lang="">This</span><span lang=""> course combines lectures covering Operational Research methods and techniques, problem solving classes (some in computer labs), and classes to present and discuss case studies solved by student groups.</span></p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 65.0 %
+- Trabalho prático ou de projeto: 35.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 34.0 hours
+- Estudo autónomo: 86.0 hours
+- Frequência das aulas: 42.0 hours
+
+## Fórmula de cálculo da classificação final
+Formula for the Calculation of the Final Classification:<br />Final Classification = 0.65*EF + 0.35*(AG+OI).<br /><br />Being:<br />EF: Final exam<br />AG: Evaluation of the Assignment - Evaluation of the work done by the group in the Arena software, based on the quality of the model implemented in Arena, the report produced and the oral presentation of the work (0 to 20 scale).<br />OI: Individual Offset - Individual performance within the team, whose grade is attributed by the teachers of the course, based on the average of the evaluations given by the peers (other members of the group). This individual offset can range between ± 2. The sum of the Individual Offset for all elements of a team must be between -1 and +1<br /><br /><p>The approval to the Curricular Unit (course) requires obtaining a mark of 7.5 or higher in the Simulation assignment (AG + OI) and in the final exam.<br /><br />In the appeal exam, the weights of the exam (EF) and the assinment used in calculating the final classification are identical to those of the normal period exam.</p>
+
+## Obtenção de frequência
+According to the &quot;General Evaluation Rules&quot; of FEUP Pedagogical Council.
+
+## Melhoria de classificação
+<span id=&quot;result_box&quot; class=&quot;&quot; lang=&quot;en&quot;>The students can repeat the exam in the period of appeal, but there is no possibility of repetition of the evaluation component regarding the assignment.<br /><br />Students wishing to improve their final classification may also do so in the following academic year. <span class=&quot;&quot;>The grade of the assignment will be considered identical to the previous academic year in the case of repetition of the exam in the following academic year.</span></span>
+

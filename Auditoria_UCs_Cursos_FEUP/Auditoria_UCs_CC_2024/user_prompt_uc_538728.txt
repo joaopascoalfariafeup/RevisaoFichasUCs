@@ -1,0 +1,139 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Atelier Multimédia 3D
+
+## Curso responsável
+Licenciatura em Ciências da Comunicação
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p><span style="font-size: small;"><span style="line-height: 115%; font-family: Georgia, serif; color: #548dd4;">Desenvolver competências sobre a produção de conteúdos 3D e a sua integração em ferramentas de autoria multimédia. Assimilar fundamentos, conceitos e sistematizações sobre computação gráfica 3D que envolvem a representação de sólidos, a caracterização de materiais e de iluminação de cenas 3D. Desenvolver competências na modelação de ambientes 3D. Integrar ouputs em conteúdos multimédia.  </span></span></p>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-size: small; line-height: 14px; font-family: Georgia, serif; color: #548dd4;">A frequência com sucesso permite ao aluno:</span></p>
+<p><span style="font-size: small; line-height: 14px; font-family: Georgia, serif; color: #548dd4;">1) aciocíniar sobre a decomposição de objectos 3D complexos, em agregações de objectos mais simples;</span></p>
+<p><span style="font-size: small; line-height: 14px; font-family: Georgia, serif; color: #548dd4;">2) usar técnicas de modelação e definir a sequência de aplicação dessas técnicas, de acordo com os objectivos do projecto;</span></p>
+<p><span style="font-size: small; line-height: 14px; font-family: Georgia, serif; color: #548dd4;">3) caracterizar materiais/texturas, a aplicar aos objectos;</span></p>
+<p><span style="font-size: small; line-height: 14px; font-family: Georgia, serif; color: #548dd4;">4) caracterizar a iluminação de cenas.</span></p>
+<p><span style="font-size: small; line-height: 14px; font-family: Georgia, serif; color: #548dd4;">5) realizar sequências de animação com recurso à técnica de animação in-between.</span></p>
+<p><span style="font-size: 10pt; line-height: 14px; font-family: Georgia, serif; color: #548dd4;">6) produzir outputs (imagem/video) a partir de cenas;</span></p>
+<p><span style="font-size: 10pt; line-height: 14px; font-family: Georgia, serif; color: #548dd4;">7) integrar os outputs em conteúdos multimédia através de ferramentas de autoria multimédia.</span></p>
+
+## Pré-requisitos e co-requisitos
+Ferramentas de autoria web (HTML, CSS, edição de video)
+
+## Programa
+<p style="line-height: 17.25pt; background: #F7F7F7; margin: 0cm 0cm 12.0pt 0cm;"><span style="font-size: 10.0pt; font-family: 'Georgia','serif'; color: #444444;">Fundamentos de computação gráfica 3D. Definição de espaço, de coordenada e de sistema de eixos. Definição de vértice de aresta e de face. Representação de estruturas geométricas: a linha a poli-linha e o polígono. </span></p>
+<p style="line-height: 17.25pt; background: #F7F7F7; margin: 0cm 0cm 12.0pt 0cm;"><span style="font-size: 10.0pt; font-family: 'Georgia','serif'; color: #444444;">Técnicas de modeção de objectos 3D. A representação de superfícies 3D por malha poligonal e por curvas. A modeação de sólidos por instanciação de primitivas geométricas, por varrimento translaccional e rotacional, pela fronteira, representação, por decomposição espacial e por CSG (Constructive Solid Geometry). Introdução à aplicação de modelação 3D Studio Max: apresentação da ferramenta e das principais componentes funcionais.</span></p>
+<p style="line-height: 17.25pt; background: #F7F7F7; margin: 0cm 0cm 12.0pt 0cm;"><span style="font-size: 10.0pt; font-family: 'Georgia','serif'; color: #444444;"> Modelação de objectos em 3D Studio: instanciação de primitivas, uso de operadores que actuam sobre formas bi-dimensionas (revolução, extrusão, etc), operações booleanas, operadores de deformação, operadores de loft, construção e edição de malhas poligonais, entre outras. Soft selection. Modelação de malhas poligonais.   </span></p>
+<p style="line-height: 17.25pt; background: #F7F7F7; margin: 0cm 0cm 12.0pt 0cm;"><span style="font-size: 10.0pt; font-family: 'Georgia','serif'; color: #444444;">Materiais e iluminação: caracterização do modelo de iluminação quanto à sua validade física. Tipos de emissores de luz e as principais propriedades. Relação entre superfícies emissoras e reflectoras. Propriedades dos reflectores (componentes ambiente / absorção, difusa, especular, refracção). Mapas (texturas) A criação e configuração de fontes de iluminação local: omni, spotlight, direct light, skylight. A utilização de modelos de iluminação local: Light tracer e radiosity. A utilização de fontes de luz fotométricas: point, planar, linear, sun light..</span></p>
+<p><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Georgia','serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; color: #444444; mso-ansi-language: PT; mso-fareast-language: PT; mso-bidi-language: AR-SA;">A exportação de conteúdos do 3DS Max e a sua integração em produtos web interativos: produção de imagem/video em 3DS.</span></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: 12.0pt; line-height: 150%;"><span style="font-size: 10.0pt; line-height: 150%; font-family: 'Georgia','serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444;">Método expositivo para apresentação de conceitos, princípios, afirmações e deduções sobre os fundamentos de computação gráfica relacionados com modelação 3D, materiais texturas e iluminação.<br /> Método de ensino problem-based: a resolução de exercícios/problemas permite ao aluno adquirir experiência prática, identificar novos problemas e exclarecer dúvidas. Nesta fase o aluno aplica os conceitos, princípios sobre a matéria leccionada. A realização de exercícios fora das horas de contacto aumenta o carácter de autonomia do aluno. O método expositivo é pontualmente intervalado quando se torna essencial a aprendizagem de procedimentos de realização de actividades.</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: 12.0pt; line-height: 150%;"><span style="font-size: 10.0pt; line-height: 150%; font-family: 'Georgia','serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444;">Tratando-se de uma disciplina de carácter eminentemente projectual, o método de avaliação assenta na realização de projectos:</span></p>
+<p class="MsoListParagraph" style="mso-margin-top-alt: auto; margin-bottom: 12.0pt; mso-add-space: auto; text-indent: -18.0pt; line-height: 150%; mso-list: l0 level1 lfo1;"><!-- [if !supportLists]--><span lang="EN-US" style="font-size: 10.0pt; line-height: 150%; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color: #444444; mso-ansi-language: EN-US;">·<span style="font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">        </span></span><span style="font-size: 10.0pt; line-height: 150%; font-family: 'Georgia','serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444;">Um projecto a meio do semestre, que contempla a avaliação dos conhecimentos e competências adquiridos sobre a modelação de objectos 3D. </span><span lang="EN-US" style="font-size: 10.0pt; line-height: 150%; font-family: 'Georgia','serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-ansi-language: EN-US;">Este projecto é realizado durante uma aula de 3 horas.  </span></p>
+<p><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Georgia','serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-ansi-language: PT; mso-fareast-language: PT; mso-bidi-language: AR-SA;">Um projecto final, de maior dimensão, realizado maioritariamente durante as horas de contacto, que contempla a totalidade do conteúdo do programa.<br /><br />Semanalmente são propostos trabalhos para realizar fora das horas de contacto.</span></p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Exame: 30.0 %
+- Participação presencial: 10.0 %
+- Trabalho laboratorial: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 17.0 horas
+- Estudo autónomo: 93.0 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Exames práticos intercalares (30%) + Participação presencial (10%) + projecto final (60%).</p>
+
+## Obtenção de frequência
+<p>Presença obrigatória em 75% das aulas. Realização obrigatória de todos os momentos de avaliação. Aprovação de acordo com a regra de cálculo (ver fórmula)</p>
+
+## Melhoria de classificação
+<p>4.1. Melhoria de classificação distribuída: próximo ano lectivo.<br /><br />4.2.Os alunos que pretendam melhorar a classificação devem contactar o responsável da disciplina durante a primeira semana de aulas relativas à edição da disciplina.<br /><br />4.3. Aplicam-se todas as regras constantes do campo de <strong>Observações. </strong></p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Atelier Multimédia 3D
+
+## Curso responsável
+Bachelor in Communication Sciences
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p><span lang="EN-US" style="font-size: small; line-height: 115%; font-family: Georgia, serif; color: #548dd4;">To develop skills on the 3D production content and its integration with multimedia authoring tools. To acquire systematic knowledge, fundaments and concepts on 3D computer graphics, 3D modeling, materials/textures and lighting, the configuration and mapping of materials. To train skills in modeling 3D environments using a modeling tool. To integrate the outputs of this tool in multimedia contents. </span></p>
+
+## Resultados de aprendizagem e competências
+<p><span lang="EN-US" style="font-size: small; line-height: 14px; font-family: Georgia, serif; color: #548dd4;">The successful frequency of this course allows to:</span></p>
+<p><span lang="EN-US" style="font-size: small; line-height: 14px; font-family: Georgia, serif; color: #548dd4;">1) reason on the decomposition of complex 3D objects in aggregations of simpler objects.</span></p>
+<p><span lang="EN-US" style="font-size: small; line-height: 14px; font-family: Georgia, serif; color: #548dd4;">2) choose appropriate modeling techniques and appropriate sequence for applying these techniques according to the objectives of the project;</span></p>
+<p><span lang="EN-US" style="font-size: small; line-height: 14px; font-family: Georgia, serif; color: #548dd4;">3) characterize materials/textures;</span></p>
+<p><span lang="EN-US" style="font-size: small; line-height: 14px; font-family: Georgia, serif; color: #548dd4;">4) to characterize the illumination of a scene.</span></p>
+<p><span lang="EN-US" style="font-size: small; line-height: 14px; font-family: Georgia, serif; color: #548dd4;">5) characterize and perform animation sequences using the animation technique in between.</span></p>
+<p><span lang="EN-US" style="font-size: small; line-height: 14px; font-family: Georgia, serif; color: #548dd4;">6) produce outputs (picture / video) from 3D models.</span></p>
+<p><span lang="EN-US" style="font-size: small; line-height: 14px; font-family: Georgia, serif; color: #548dd4;">7) integrate the outputs in multimedia content through a multimedia authoring tool.</span></p>
+
+## Pré-requisitos e co-requisitos
+Multimedia authoring tools (HTML, CSS, video editing)
+
+## Programa
+<p style="line-height: 17.25pt; background: #F7F7F7; margin: 0cm 0cm 12.0pt 0cm;"><span lang="EN-US" style="font-size: 10.0pt; font-family: 'Georgia','serif'; color: #444444; mso-ansi-language: EN-US;">Fundaments of 3D computer graphics. Definition of space, coordinates, coordinate system and dimensions. Definition of vertex edge and face. Representation of geometric structures: line poly-line and polygon.</span></p>
+<p style="line-height: 17.25pt; background: #F7F7F7; margin: 0cm 0cm 12.0pt 0cm;"><span lang="EN-US" style="font-size: 10.0pt; font-family: 'Georgia','serif'; color: #444444; mso-ansi-language: EN-US;">3D modeling techniques. The representation of a 3D polygonal curves and mesh surfaces. The modeling of solids by instantiation of geometric primitives, translational and rotational modeling based on 2D shapes spatial decomposition and CSG (Constructive Solid Geometry). </span></p>
+<p style="line-height: 17.25pt; background: #F7F7F7; margin: 0cm 0cm 12.0pt 0cm;"><span lang="EN-US" style="font-size: 10.0pt; font-family: 'Georgia','serif'; color: #444444; mso-ansi-language: EN-US;">Modeling with 3D Studio Max: tool presentation and key functional primary components. Modeling objects in 3D Studio: instantiation of primitives, using operators acting on 2D forms, Boolean operations, loft operators, deforming operators, construction and editing of polygonal meshes, among others techniques. Soft selection.</span></p>
+<p style="line-height: 17.25pt; background: #F7F7F7; margin: 0cm 0cm 12.0pt 0cm;"><span lang="EN-US" style="font-size: 10.0pt; font-family: 'Georgia','serif'; color: #444444; mso-ansi-language: EN-US;">Materials and lighting: characterization of illumination model and its physical validity. Types of light emitters and their major properties. Relation between light emitters and reflective surfaces. Main reflectors properties (environment components / absorption, diffuse reflection, specular reflection, refraction, etc.). Maps and textures.  The creation and configuration of local lighting sources: Omni-light, spotlight, direct light, skylight. The use of global lighting models: Light tracer and radiosity. The use of photometric light sources: point, planar, linear, sun light .</span></p>
+<p><span lang="EN-US" style="font-size: 10.0pt; line-height: 115%; font-family: 'Georgia','serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; color: #444444; mso-ansi-language: EN-US; mso-fareast-language: PT; mso-bidi-language: AR-SA;">Exporting contents of 3DS Max and its integration in interactive web products: production of image / video in 3DS. </span></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: 12.0pt; line-height: 150%;"><span lang="EN-US" style="font-size: 10.0pt; line-height: 150%; font-family: 'Georgia','serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-ansi-language: EN-US;">The lecture method is used for presentation of concepts, principles, statements and deductions about the fundamentals of computer graphics related to 3D modeling, materials, textures and lighting.</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: 12.0pt; line-height: 150%;"><span lang="EN-US" style="font-size: 10.0pt; line-height: 150%; font-family: 'Georgia','serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-ansi-language: EN-US;">The problem-based learning method is used to allow students to assimilate fundaments and acquire practical experience, identify and solving new problems. At this stage the student applies the concepts, principles on the subject taught. The exercises performed outside of contact hours increase the student autonomy. The lecture method is also used when it becomes essential to provide students with skills on learning procedures for carrying out specific activities (for instance, how to apply a specific 3D modeling technique).</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: 12.0pt; line-height: 150%;"><span lang="EN-US" style="font-size: 10.0pt; line-height: 150%; font-family: 'Georgia','serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-ansi-language: EN-US;">Since this is a subject eminently project-based, the evaluation method is based on the implementation and evaluation of projects developed by students, Hence, besides exercises, students develop two projects for evaluation, namely:</span></p>
+<p class="MsoListParagraph" style="mso-margin-top-alt: auto; margin-bottom: 12.0pt; mso-add-space: auto; text-indent: -18.0pt; line-height: 150%; mso-list: l0 level1 lfo1;"><!-- [if !supportLists]--><span lang="EN-US" style="font-size: 10.0pt; line-height: 150%; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color: #444444; mso-ansi-language: EN-US;">·<span style="font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">         </span></span><!--[endif]--><span lang="EN-US" style="font-size: 10.0pt; line-height: 150%; font-family: 'Georgia','serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-ansi-language: EN-US;">A project in the middle of the semester, which includes the assessment of knowledge and skills acquired on the modeling of 3D objects. This project is performed during a class of 3 hours.</span></p>
+<p><span lang="EN-US" style="font-size: 10.0pt; line-height: 115%; font-family: 'Georgia','serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-ansi-language: EN-US; mso-fareast-language: PT; mso-bidi-language: AR-SA;">A final project of considerable complexity, mostly done during the contact hours, which includes the entire program contents.<br /><br />Other projects are proposed on a weekly basis.</span></p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Exame: 30.0 %
+- Participação presencial: 10.0 %
+- Trabalho laboratorial: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 17.0 hours
+- Estudo autónomo: 93.0 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final grade is calculated according to the following percentages: intermediate exams (30%) + student participation and atendence (10%) + final project (60%)</p>
+
+## Obtenção de frequência
+1.1. Mandatory attendance of 75% of classes.<br /><br />1.2. Mandatory execution and deliverance of all practical exams and works and within the timeframes defined by the teacher. Fail to do so will incur on a penalty of having the work evaluated with zero.<br /><br />1.3. A final score (see classification formula) of at least 9.5. <br /><br />1.4 The teacher reserves the right to diferenciate the grades between students of the sameworkgroup, depending on the perception and evidence of effort performed by the workgroup members.<br /><br />1.5 Ther rules in the <strong>Observations</strong> field are also applied.
+
+## Melhoria de classificação
+<p>4.1. Students wanting to improve their grades can do it in the next school year.<br /><br />4.2. Students wanting to improve their grades should contact the teacher during the first week of classes.<br /><br />4.3. Other rules in the <strong>Observations</strong> field are also applied.</p>
+

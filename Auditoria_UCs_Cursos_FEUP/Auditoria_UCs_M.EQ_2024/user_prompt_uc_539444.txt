@@ -1,0 +1,116 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Simulação Numérica Aplicada à Engenharia Química
+
+## Curso responsável
+Mestrado em Engenharia Química
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Proporcionar conhecimento teórico e prático sobre metodologias de modelização e simulação para o projeto e a operação de processos industriais. Breve introdução à simulação molecular.<br />Em particular:<br />- Consolidação de competências de programação em computadores.<br />- Aplicação de metodologias de modelização e simulação de processos.<br />- Formação em CFD - Computação de Fluidos Dinâmicos.<br />- Introdução à simulação molecular.</p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>Identificação e aplicação de metodologias de modelização e simulação apropriadas para o estudo de processos.<br />Utilização de uma linguagem de programação de alto nível.<br />Implementação de algoritmos, desenvolvimento de procedimentos, e codificação.<br />Utilização de ferramentas de CFD para a análise, projeto e controlo de processos.<br />Utilização do ANSYS/FLUENT (ou equivalente, p.ex. OpenFOAM) para a resolução de problemas de transporte e reação.<br />Utilização de ferramentas &#8220;opensource&#8221; para simulação molecular (p.ex. GROMACS).<br /><br /></p>
+
+## Pré-requisitos e co-requisitos
+<p>Conhecimentos básicos de programação.</p>
+<p>Formação básica em fenómenos de transporte.</p>
+
+## Programa
+<p><strong>1. Modelização e Simulação<br /></strong>Modelos contínuos e discretos; exemplos Métodos numéricos para resolução de equações diferenciais, e respetiva programação estruturada.<br />Introdução à simulação molecular aplicada à engenharia química. Utilização de programas &#8220;opensource&#8221; (p.ex.GROMACS).<br /><strong><br />2. Introdução ao CFD<br /></strong>- Princípios numéricos de CFD.<br />- Modelização e simulação de processos com CFD.<br /><strong><br />3. Formação em ANSYS/FLUENT (ou software de CFD similar)<br /></strong>- Desenvolvimento de projetos de simulação em CFD.<br />- Construção de modelos geométricos de equipamentos de processo.<br />- Simulação de transporte de quantidade de movimento, transferência de calor e reação química em reator industrial.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas integradas de exposição de teoria e resolução de problemas, e exemplos de aplicação.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 5.0 %
+- Apresentação/discussão de um trabalho científico: 15.0 %
+- Trabalho prático ou de projeto: 25.0 %
+- Teste: 55.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho escrito: 50.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>5% Participação nas aulas e trabalhos de casa + 15% Apresentação oral sobre simulação molecular + 30% Teste programação e métodos numéricos + 25% Trabalho escrito sobre projeto de CFD + 25% Teste sobre resolução de uma aplicação em CFD.</p>
+
+## Obtenção de frequência
+<p>Máximo de 25 % de faltas, segundo as regras em vigor na FEUP.</p>
+
+## Melhoria de classificação
+Realização de exame incluindo o desenvolvimento de um projeto de modelização e simulação usando ANSYS/WORKBENCH/DESIGN MODELLER/FLUENT (30%); Relatório sobre projeto de CFD (25%); Apresentação oral (15%); Teste de programação em Python e métodos numéricos (30%).
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Numerical Simulation Applied to Chemical Engineering
+
+## Curso responsável
+Master in Chemical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>To provide theoretical and applied knowledge on modelling and simulation methodologies for the design and operation of industrial processes. Brief introduction to molecular simulation.<br />In particular:<br />- Strengthening of computer programming competencies.<br />- Application of methodologies for process modelling and simulation.<br />- Training in CFD &#8211; Computational Fluid Dynamics.<br />- Introduction to molecular simulation.</p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>Identification and application of modelling and simulation methodologies for the study of industrial processes.<br />Use of a high level programming language.<br />Implementation of algorithms, development of procedures, and programming.<br />Use of CFD tools for process analysis, design and control.<br />Use of ANSYS/FLUENT (or equivalent; e.g. OpenFOAM) for solving transport and reaction problems.<br />Use of opensource tools for molecular dynamics simulation (e.g. GROMACS)</p>
+
+## Pré-requisitos e co-requisitos
+<p>Basic knowledge on computer programing and transport phenomena.</p>
+
+## Programa
+<p><strong>1. Modelling and Simulation<br /></strong>Continuous and discrete models; examples. Numerical methods for solution of differential equations. Structured programming and coding. Introduction to molecular simulation applied to chemical engineering. Use of opensource programs (e.g. GROMACS).<br /><strong><br />2. Introduction to CFD<br /></strong>- Numerical principles of CFD.<br />- Process modelling and simulation using CFD.<br /><strong><br />3. Training in ANSYS/FLUENT (or similar CFD software)<br /></strong>- Simulation projects using CFD.<br />- Development of geometrical models for process equipment.<br />- Simulation of momentum transport, heat transfer and chemical reaction in an industrial reactor.</p>
+<p> </p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Classes will be based on the presentation of the theoretical themes of the course unit, and on problem solving and examples of application.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 5.0 %
+- Apresentação/discussão de um trabalho científico: 15.0 %
+- Trabalho prático ou de projeto: 25.0 %
+- Teste: 55.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho escrito: 50.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>5% Participation in classes and homeworks + 15% Oral presentation about molecular dynamics simulation + 30% Test on numerical methods and python programming + 25% Report of a CFD project + 25% Test about a CFD project application.</p>
+
+## Obtenção de frequência
+<p>Max. of 25% of absences in classes, according to current regulations of FEUP.</p>
+
+## Melhoria de classificação
+<p>Practical exam including the development of a modeling and simulation project using ANSYS/WORKBENCH/DESIGN MODELLER/FLUENT (30%); Written report of a CFD project (25%); Oral presentation (15%); Test on numerical methods and Python programming (30%).</p>
+

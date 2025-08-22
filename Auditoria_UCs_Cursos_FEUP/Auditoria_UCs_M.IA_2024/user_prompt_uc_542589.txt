@@ -1,0 +1,94 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Visão Computacional
+
+## Curso responsável
+Mestrado em Inteligência Artificial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+A definir pelo docente.
+
+## Resultados de aprendizagem e competências
+Pretende-se que os estudantes compreendam e sejam capazes de explicar os conceitos da visão por computador e os algoritmos fundamentais de manipulação de imagens e sequências de vídeo.<br /> Ao concluir esta unidade curricular os estudantes deverão ser capazes de:<br /> 1 - analisar um problema específico de visão por computador e identificar os diferentes desafios tecnológicos subjacentes;<br /> 2 - compreender e explicar os conceitos da visão por computador e os algoritmos fundamentais de manipulação de imagens e sequências de vídeo;<br /> 3 - identificar, discutir, avaliar e aplicar em situações práticas as técnicas de processamento, de análise e de reconhecimento;<br /> 4 - usar bibliotecas que implementam alguns dos algoritmos estudados (por exemplo, OpenCV, Keras) e implementar novos algoritmos descritos na literatura;<br /> 5 - analisar e compreender artigos científicos nas áreas de processamento e análise de imagem e de visão por computador.
+
+## Programa
+Introdução à visão por computador<br /> Aquisição de imagens digitais<br /> - imagens de intensidade (2D) e de distância/posição (3D)<br /> - modelo geométrico e radiométrico de uma câmara<br /> Processamento e análise de imagens de intensidade<br /> - filtragem<br /> - extração de características<br /> - segmentação<br /> Calibração geométrica de uma câmara<br /> - métodos de calibração<br /> Estereoscopia<br /> - geometria epipolar<br /> Reconhecimento de objetos<br /> - seleção de características<br /> - descrição baseada em características locais invariantes<br /> - estabelecimento de correspondências<br /> Aprendizagem automática<br /> - clustering<br /> - classificação<br /> - generalização de modelos<br /> Deep learning<br /> - redes neuronais<br /> - convolutional neural networks (CNNs)<br /> - deteção e segmentação (modelos R-CNN)<br /> Movimento e seguimento<br /> - estimação de movimento<br /> - seguimento baseado em modelos lineares<br /> Estudo de casos
+
+## Métodos de ensino e atividades de aprendizagem
+Aulas de exposição e discussão das matérias do programa, acompanhadas pela resolução de exercícios. Adicionalmente, são realizados projetos de aplicação das técnicas de visão por computador estudadas.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Teste: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 81.0 horas
+- Elaboração de projeto: 81.0 horas
+
+## Fórmula de cálculo da classificação final
+Classificação = AvD * 0.5 + AvEx * 0.5
+
+## Obtenção de frequência
+1- É condição de aprovação a obtenção de uma classificação mínima de 40% nas componentes AvEx e AvD. 2- Se, por decisão dos docentes, não ocorrer algum dos projetos, a cotação correspondente será redistribuída pelos restantes elementos de avaliação
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computer Vision
+
+## Curso responsável
+Master in Artificial Intelligence
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+A definir pelo docente.
+
+## Resultados de aprendizagem e competências
+The aim is that students understand and are able to explain the basic concepts of computer vision and the fundamental algorithms for manipulation of images and video sequences. <br />Upon completion of the course, students shall be able to:<br /> 1 - analyze a specific problem of computer vision and identify the different fundamental technological challenges;<br /> 2 - understand and explain the basic concepts of computer vision and the fundamental algorithms for manipulation of images and video sequences;<br /> 3 - identify, discuss, evaluate and apply in practical situations processing, analysis and recognition techniques; <br /> 4 - use libraries that implement some of the analyzed algorithms (eg. OpenCV, Keras), and to implement novel algorithms described in the literature;<br /> 5 - analyze and understand selected scientific papers in the fields of image processing and analysis, and computer vision.
+
+## Programa
+Introduction to Computer Vision<br /> Image acquisition<br /> - intensity images (2D) and distance/position images (3D)<br /> - geometric and radiometric model of a camera<br /> Processing and analysis of intensity images<br /> - filtering<br /> - feature extraction<br /> - segmentation<br /> Geometric calibration of a camera<br /> - calibration methods<br /> Stereo<br /> - epipolar geometry<br /> - matching<br /> Recognition<br /> - feature selection<br /> - description using local invariant features<br /> - matching of features<br /> Machine Learning<br /> - clustering<br /> - classification<br /> - model generalization<br /> Deep learning<br /> - neural networks<br /> - convolutional neural networks (CNNs)<br /> - detection and segmentation (R-CNN models)<br /> Motion and tracking<br /> - motion estimation<br /> - tracking using linear models<br /> Case studies
+
+## Métodos de ensino e atividades de aprendizagem
+Classes consisting of presentation and discussion of the course topics, and resolution of exercises. Also, projects are developed, where the studied computer vision methods are applied.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Teste: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 81.0 hours
+- Elaboração de projeto: 81.0 hours
+
+## Fórmula de cálculo da classificação final
+Final Classification = DEv * 0.5 + ExEv * 0.5
+
+## Obtenção de frequência
+1- A minimum of 40% on the ExEv and DEv evaluation components are required to be approved in the course. 2- If the teaching team decides not to propose one of the projects, its weight will be redistributed to the other evaluation components.
+

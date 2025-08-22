@@ -1,0 +1,110 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Eletrónica 1
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+O objetivo da unidade curricular e&#769; o de dotar os estudantes com o conhecimento dos fundamentos basilares sobre os quais se constroem a ana&#769;lise e o dimensionamento dos circuitos eletro&#769;nicos. E&#769; dado especial relevo a&#768; aplicac&#807;a&#771;o das leis e princi&#769;pios fundamentais da teoria dos circuitos no contexto particular da eletro&#769;nica. Reforc&#807;a-se o conceito de amplificador linear e seus modelos comportamentais no contexto do Amplificador Operacional. Introduzem-se os dispositivos semicondutores na&#771;o lineares (junc&#807;a&#771;o p-n) e ativos (BJT e MOSFET). Sa&#771;o apresentados os conceitos de conversa&#771;o AC/DC ba&#769;sica, de polarizac&#807;a&#771;o e ana&#769;lise de sinal por aproximac&#807;a&#771;o linear em torno do ponto de funcionamento esta&#769;tico (DC). Todas as configurac&#807;o&#771;es ba&#769;sicas de amplificac&#807;a&#771;o com transi&#769;stores sa&#771;o devidamente analisadas.
+
+## Resultados de aprendizagem e competências
+Os estudantes devera&#771;o adquirir conhecimentos te&#769;cnicos no domi&#769;nio da eletro&#769;nica ba&#769;sica e reforc&#807;ar as suas aptido&#771;es pessoais e profissionais, serem capazes de levar a cabo experimentac&#807;a&#771;o e de trabalhar em equipa.
+
+## Pré-requisitos e co-requisitos
+Conhecimentos sólidos em análise de circuitos (Circuitos 1 e Circuitos 2)
+
+## Programa
+1- Noc&#807;a&#771;o de amplificac&#807;a&#771;o e modelos de amplificadores lineares: ganho de tensa&#771;o e de corrente, resiste&#770;ncia de entrada (Ri) e de sai&#769;da (Ro).<br />2- Introduc&#807;a&#771;o de te&#769;cnicas de ana&#769;lise de circuitos particularmente relevantes para circuitos electro&#769;nicos.<br />3- Aspetos na&#771;o ideais dos amplificadores no contexto do AmpOp e melhoramentos que os mitigam (e.g. Amp. de Inst.).<br />4- Dispositivos semicondutores: di&#769;odos e suas caracteri&#769;sticas.<br />5- Circuitos de conversa&#771;o de energia ba&#769;sicos: Retificac&#807;a&#771;o, filtragem e regulac&#807;a&#771;o.<br />6- Dispositivos semicondutores ativos: transi&#769;stores BJT e MOSFET e suas caracteri&#769;sticas.<br />7- Polarizac&#807;a&#771;o e funcionamento para pequenos sinais dos dispositivos ativos; aproximac&#807;a&#771;o linear e modelos equivalentes.<br />8- Caracterizac&#807;a&#771;o de circuitos amplificadores ba&#769;sicos com BJT e MOSFET (ganhos, Ri e Ro).<br />9- Limites de funcionamento linear.<br />10- Aplicac&#807;a&#771;o de condensadores de bloqueio DC e de acoplamento de sinal.<br />11- Amplificadores com dois andares de ganho.
+
+## Métodos de ensino e atividades de aprendizagem
+- Aulas Teo&#769;ricas de exposic&#807;a&#771;o dos conteu&#769;dos a tratar com apresentac&#807;a&#771;o de exemplos pra&#769;ticos ilustrativos, numa lo&#769;gica de aprendizagem ativa, intercaladas com aulas de demonstrac&#807;a&#771;o de te&#769;cnicas de ana&#769;lise e si&#769;ntese de circuitos e resoluc&#807;a&#771;o de problemas.<br /><br />- Aulas de Pra&#769;tica Laboratorial onde e&#769; realizado um conjunto de trabalhos experimentais de aplicac&#807;a&#771;o dos conceitos aprendidos.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Teste: 20.0 %
+- Trabalho laboratorial: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 70.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho laboratorial: 40.0 horas
+
+## Fórmula de cálculo da classificação final
+1. Durante o semestre, será realizado um miniteste em data a anunciar.<br /><br />2. A frequência das aulas práticas de laboratório é objeto de avaliação com base na participação e desempenho nas aulas e respostas escritas a perguntas (peso de 30% e 70%, respetivamente).<br /><br />3. Para os alunos ordinários em primeira inscrição: <br /><br />A classificação final (CF) segue a seguinte fórmula: CF = 0,2×MT + 0,5×E + 0,3×PL<br /><p>4. Para os estudantes ordinários em primeira inscrição que tenham faltado ao miniteste, com uma justificação aceite, a percentagem desse miniteste é adicionada ao exame final.<br /><br />5. Para os alunos em regime especial ou os alunos ordinários que já tenham obtido aprovação na componente laboratorial da unidade curricular e não tenham solicitado expressamente o acesso ao miniteste, aplica-se a seguinte fórmula:<br /><br />CF = 0,7×E + 0,3×PL<br /><br />Em qualquer dos casos indicados acima, a nota da componente laboratorial (numa escala de 0 a 20) é limitada à classificação do exame final mais 4 valores: <br /><br />PL = min{PL, E + 4}<br /><br />6. A componente distribuída mantém o seu peso quer para o exame de época normal quer para o de recurso.</p><br /><p>(NOTA: MT = Mini-Teste, E = Exame, PL = Prática Laboratorial.)<br /><br /><br /><br /><br /></p>
+
+## Obtenção de frequência
+- A frequência da componente laboratorial é obrigatória e sujeita à legislação no tocante ao número máximo de faltas admissível.<br /><br />- A justificação de uma falta não a elimina da contagem para efeito de aproveitamento, devendo os alunos repetir os trabalhos respetivos numa outra aula ou em tempo extra curricular, desde que autorizado pelo docente e acompanhado pelo técnico responsável pelos laboratórios.<br /><br />- O acesso ao exame final exige um mínimo de 9 valores (em 20) na componente laboratorial.
+
+## Melhoria de classificação
+1. Em caso de melhoria de classificação, se no mesmo ano letivo, as regras são as mesmas que vigoram para os exames de época normal e recurso; <br /><br />2. No caso de melhoria no ano letivo subsequente, a classificação da componente laboratorial do ano em que fez a unidade curricular volta a contar com o peso de 30%, sendo os restantes 70% atribuídos ao exame.<br /><br />Em todos os casos, a nota da componente laboratorial (numa escala de 0 a 20) é limitada à classificação do exame final mais 4 valores (em 20): PL = min {PL, E + 4}.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Electronics 1
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+The main objective of this curricular unit is to endow students with the knowledge of basilar fundaments on which the analysis and design of electronic circuits are built. In this perspective, it is given particular relevance to the application of fundamental laws and principles of circuit theory in the particular context of electronics. The concepts of linear amplifier and its behavioural modelling are strengthened in the context of the Operational Amplifier. The nonlinear (p-n junction) and active (BJT and MOSFET) semiconductor devices are introduced. These are used to present the concepts of basic AC/DC conversion, biasing and signal analysis after linear approximation around the quiescent (DC) operating point. All basic amplification configuration s with transistors are analysed in detail.
+
+## Resultados de aprendizagem e competências
+The students should acquire technical skills in the domain of basic electronics, strengthen their self and professional aptitudes, being capable of conducting experiments and work in a team.
+
+## Pré-requisitos e co-requisitos
+Solid knowledge in circuit analysis (Circuitos 1 e Circuitos 2)
+
+## Programa
+1- Amplification concept and modelling of linear amplifiers: current and voltage gains, input (Ri) and output (Ro) equivalent resistances.<br />2- Introduction of circuit analysis techniques that are particularly relevant for electronic circuits.<br />3- Non-ideal amplifier performance in the context of the OpAmp and improvements to mitigate them (e. g. Inst. Amp.).<br />4- Semiconductor devices: diodes and their characteristics.<br />5- Basic energy conversion circuits: rectification, filtering and regulation.<br />6- Active semiconductor devices: BJT and MOSFET transistors and their characteristics.<br />7- Biasing and small signal operation of active devices; linear approximation and equivalent models. 8- Characterization of basic BJT and MOSFET amplifying circuits (gain, Ri and Ro).<br />9- Linear operation limits.<br />10- Application of DC blocking and signal coupling capacitors.<br />11- Amplifiers with two gain stages.
+
+## Métodos de ensino e atividades de aprendizagem
+- Lectures (T) for delivery of content and discussion, where the matters are treated with the presentation of illustrative practical examples, in a logic of active learning, interleaved with classes for training and discussion of circuit analysis techniques, synthesis and problem solving.<br /><br />- Laboratory Practice (LP) classes where the learned concepts are applied in the realization of a set of experimental works.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Teste: 20.0 %
+- Trabalho laboratorial: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 70.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho laboratorial: 40.0 hours
+
+## Fórmula de cálculo da classificação final
+1. A midterm will be given during the semester on a date to be announced.<br /><br />2. Students will be assessed on their performance and participation in laboratory classes by their effort and engagement (30%) as well as by answering to a quiz at the end of each assignment (70%).<br /><br />3. For ordinary students in first enrollment:<br /><br />The final classification (FC) follows the following formula:<br /><br />FC = 0,2×MT + 0,5×E + 0,3×LP<br /><br />4. For ordinary students in first registration who have missed the midterm with a justification accepted, the percentage of the midterm is added to the final exam.<br /><br />5. For students on a special regime or ordinary students who have already obtained approval in the laboratory component of the curricular unit and have not expressly requested access to the midterms, the following formula applies:<br /><br />FC = 0,7×E + 0,3×LP<br /><br />In any of the cases indicated above, the grade of the laboratory component (on a scale of 0 to 20) is limited to the classification of the final exam plus 4 values: <br /><br />LP = min {LP, E + 4}<br /><br />6. The weight of the mark correspondent to the distributed component evaluation is kept for both the regular and second period exams.<br /><br />(NOTE: MT = Midterm, E = Exam, LP = Laboratory Practice.)
+
+## Obtenção de frequência
+- Attendance of lab classes is mandatory. The number of permitted absences from lab class is very limited and follows University rules.<br /><br />- If a student skips an assignment, even if adequately justified, the student still have to perform that assignment during another lab class or during extra-curricular time. However, students have to be authorized by the professor and supervised by the laboratory responsible<br /><br />- Students can only attend the exam if a minimum grade of 9 out of 20 is acheived in the laboratory-class component.
+
+## Melhoria de classificação
+1. In case of registering to a final exam for grade improvement, if made in the same school year, the rules are the same as for  the period of final exams.<br /><br />2. In case of grade improvement in a subsequent school year, the exam will weight 70% and the lab grade, already taken, weights 30%.<br /><br />In all cases, the lab-component grade (in a 0 to 20 scale) is limited to the final exam grade plus 4 points (out of 20) &#8212; LP = min {LP, E + 4}.
+

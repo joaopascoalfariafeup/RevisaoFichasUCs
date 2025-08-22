@@ -1,0 +1,110 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Introdução à Robótica Inteligente
+
+## Curso responsável
+Licenciatura em Inteligência Artificial e Ciência de Dados
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+1. Compreender os conceitos básicos de robótica e o enquadramento da inteligência artificial na robótica.<br />2. Estudar métodos de perceção e interpretação sensorial que permitam criar estados do mundo precisos e métodos de localização de robôs móveis.<br />3. Estudar os métodos que permitam a robôs móveis navegarem em ambientes conhecidos ou desconhecidos usando algoritmos de planeamento e navegação.<br />4. Compreender e utilizar algoritmos de aprendizagem computacional para robôs.<br />5. Analisar as principais competições robóticas nacionais e internacionais, os simuladores robóticos mais realistas e as plataformas robóticas mais avançadas disponíveis no mercado.<br />6. Incentivar capacidade de comunicação em tópicos técnicos e científicos e abordagens científicas saudáveis.
+
+## Resultados de aprendizagem e competências
+- Conhecimentos de robótica inteligente.<br />- Conhecimentos de perceção e interpretação sensorial.<br />- Conhecimentos de navegação.<br />- Conhecimentos e capacidade de aplicação de algoritmos de aprendizagem computacional para robôs.<br />- Conhecimentos sobre as principais competições robótica, simuladores robóticos e plataformas robóticas.<br />- Capacidade para realizar trabalho científico na área da robótica inteligente.<br />- Capacidade para realizar um projeto completo de robótica.
+
+## Pré-requisitos e co-requisitos
+Conhecimentos de Programação (Python or C++) e de Inteligência Artificial.
+
+## Programa
+1. Introdução à Robótica Inteligente: Conceitos Básicos; Arquiteturas para Robôs; História, Evolução e Tendências em Robótica Inteligente.<br />2. Perceção e Ação: Sensores; Visão Robótica; Interpretação Sensorial; Locomoção e Ação; Tipos de Atuadores.<br />3. Localização, Mapeamento e Navegação: Métodos de Mapeamento e Localização; Planeamento de Caminhos; Desvio de Obstáculos; Navegação.<br />4. Aprendizagem para Robótica: Aprendizagem Supervisionada, Aprendizagem Evolutiva, Aprendizagem por Reforço e Aprendizagem por Reforço Profunda para Robótica.<br />5. Robótica no Futuro: Inteligência Artificial e Robótica no Futuro.
+
+## Métodos de ensino e atividades de aprendizagem
+- Exposição com interação nas aulas.<br />- Uso de simuladores para robôs móveis e exploração de plataformas robóticas simples.<br />- Trabalhos sobre aprendizagem em robótica e robótica cooperativa.<br />- Estudantes desafiados para a criatividade, aprendizagem e pensamento de alto-nível.<br />- Trabalhos de casa simples semanais e realização de um Projeto completo com feedback.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 10.0 %
+- Teste: 40.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 56.0 horas
+- Frequência das aulas: 56.0 horas
+- Trabalho laboratorial: 50.0 horas
+
+## Fórmula de cálculo da classificação final
+Fórmula de avaliação:<br />- 30% Mini-Teste<br />- 70% Projeto: Avaliação Intermédia do Projeto e Avaliação Final do Projeto (apresentação, código, demonstração e artigo).
+
+## Obtenção de frequência
+Condições de Frequência: <br />- Assiduidade, entrega do Projeto com avaliação superior a 7.5 valores (em 20), obtenção de avaliação superior a 7.5 valores (em 20) no exame
+
+## Melhoria de classificação
+O exame é melhorável na época de recurso. A parte prática não é melhorável.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Introduction to Intelligent Robotics
+
+## Curso responsável
+Bachelor in Artificial Intelligence and Data Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+1. To understand the basic concepts of robotics and the context of artificial intelligence in robotics. <br />2. To study methods of perception and sensorial interpretation, which allow creating precise world estates and mobile robots&#8217; localization methods.<br />3. To study the methods which allow mobile robots to move and navigate in familiar or unfamiliar environments using planning and navigation algorithms.<br />4. To understand and use the main machine learning algorithms for robotics.<br />5. To analyze the main national and international robotics competitions, the more realistic robot simulators and the more advanced robotic platforms available in the market.<br />6. To Improve the ability to communicate regarding scientific and technical issues and promote a healthy scientific approach.
+
+## Resultados de aprendizagem e competências
+- Knowledge of intelligent robotics.<br />- Knowledge of sensory perception and interpretation.<br />- Knowledge of navigation.<br />- Knowledge and ability to apply computational learning algorithms for robots.<br />- Knowledge of the main robotics competitions, robotic simulators and robotic platforms.<br />- Ability to carry out scientific work in the area of intelligent robotics.<br />- Capacity to carry out a complete robotics project.
+
+## Pré-requisitos e co-requisitos
+Knowledge of Programming (Python or C++) and Artificial Intelligence.
+
+## Programa
+1. Introduction to Intelligent Robotics (IR): Basic Concepts; Architectures for Robotic Agents; History, Evolution, and Current Trends in Intelligent Robotics.<br />2. Perception and Action: Sensors; Robot Vision; Sensor interpretation; Locomotion and Action; Actuator Types.<br />3. Localization, Mapping and Navigation: Localization and Mapping Methods; Path Planning; Obstacle Avoidance; Navigation.<br />4. Robot Learning: Supervised, Evolutionary, Reinforcement and Deep Reinforcement Learning for Robotics.<br />5. Robotics in the Future: Artificial Intelligence and Robotics in the Future.
+
+## Métodos de ensino e atividades de aprendizagem
+- Exposition with interaction in classes.<br />- Use of simulators for mobile robots and exploration of robotic platforms.<br />- Assignments on robot learning and cooperative robotics.<br />- Challenge students to higher-level learning and higher order thinking.<br />- Complete Project and several simple homeworks with immediate and detailed feedback.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 10.0 %
+- Teste: 40.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 56.0 hours
+- Frequência das aulas: 56.0 hours
+- Trabalho laboratorial: 50.0 hours
+
+## Fórmula de cálculo da classificação final
+Evaluation: <br />- 30% Mini-Test/Exam<br />- 70% Assignment/Project: Halfway Project Evaluation, Final Project Evaluation (presentation, code, demo, and paper).
+
+## Obtenção de frequência
+Terms of frequency:<br />- Attendance and delivery of the assignment with more than 7.5 out of 20 grade and achieve 7.5 (in 20) in the exam.
+
+## Melhoria de classificação
+The exam is improvable at the time of appeal. The practical part is not improvable.
+

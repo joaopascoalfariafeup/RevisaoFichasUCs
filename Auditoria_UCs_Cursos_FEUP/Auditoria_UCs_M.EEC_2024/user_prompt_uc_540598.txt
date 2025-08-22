@@ -1,0 +1,125 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Comunicações Móveis
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Na Unidade Curricular (UC) de Comunicações Móveis são discutidos os aspectos fundamentais do funcionamento das redes e sistemas de comunicações móveis,  as tecnologias de comunicações móveis mais importantes, e técnicas de engenharia e de projeto de redes de comunicações móveis.<br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p>Ao completar esta UC o estudante deverá ser capaz de: 1) compreender os conceitos e os modelos fundamentais dos sistemas de comunicações móveis; 2) aplicar estes modelos no estudo de sistemas de comunicações móveis atuais e no projeto de futuros sistemas de comunicações móveis.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Frequência de Redes de Computadores.</p>
+
+## Programa
+<p>1) Introdução às redes de comunicações móveis<br /><br />2) Transmissão de informação sobre ligações sem fios<br /><br />3) Ligações de dados e controlo do acesso ao meio<br /><br />4) Redes de comunicações sem fios emalhadas<br /><br />5) Redes de comunicações celulares<br /><br />6) Caracterização de tráfego e de métodos de avaliação de desempenho<br /><br />7) Tecnologias de comunicações móveis</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>São usados dois tipos de aulas: teóricas e laboratoriais. Nas aulas teóricas o aluno receberá do professor uma visão sobre o tópico em estudo e um conjunto de apontadores para material a estudar. O aluno deverá fazer o estudo deste material. As aulas laboratoriais serão usadas para os alunos se familiarizarem com aspetos relevantes do projeto de redes de comunicações móveis.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho escrito: 8.0 %
+- Trabalho laboratorial: 32.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 60.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Classificações atribuídas de 0 a 20 valores.</p>
+<p>E - classificação do exame final</p>
+<p>FQ - classificação de frequência<br /><br />AD - classificação da avaliação distribuída</p>
+<p>CF - classificação final<br /><br /><br />se ( FQ &gt; E + 5 ) AD = E + 5 senão AD = FQ<br /><br /></p>
+<p>CF = 0,4*AD + 0,6*E<br /><br /></p>
+<p>se ( E &lt; 8,0 ) CF = E<br /><br /><br /></p>
+
+## Obtenção de frequência
+A Frequência é obtida através trabalhos de casa e trabalhos laboratoriais. Para obter frequência o aluno deverá obter uma classificação não inferior 8,0 valores.<br /><p>L - Nota dos trabalhos laboratoriais</p><br /><p>H - Trabalhos de casa semanais</p><br /><p>FQ - FREQUÊNCIA</p><br /><p>FQ = 0,8*L + 0,2*H</p><br /><p>se ( FQ &lt; 8,0 ) FQ = &quot;Sem Frequência&quot;</p>
+
+## Melhoria de classificação
+<p>A nota de Frequência (FQ) será também considerada na Época de Recurso. Só a componente de Exame (E) poderá ser melhorada na Época de Recurso.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Mobile Communications
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>In the Mobile Communications course are discussed the fundamental aspects of the behaviour of wireless nertworks, the relevant wireless technologies, and techniques required to design  wireless networks.</p>
+
+## Resultados de aprendizagem e competências
+<p>The student should be able to: <span class="Y2IQFc" lang="en">1) understand the fundamental concepts and models of mobile communication systems; 2) apply these models in the study of current mobile communication systems and in the design of future mobile communication systems.</span></p>
+
+## Pré-requisitos e co-requisitos
+<p>Frequência of Redes de Computadores.</p>
+
+## Programa
+<span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;><br />1) Introduction to mobile communications networks<br /></span><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;><br />2) Transmission of information in wireless links<br /> <br /></span><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>3) Wireless data link layer and medium access control<br /><br />4) Wireless mesh networks<br /><br />5) Cellular wireless networks<br /><br />6) Traffic characterization and performance evaluation</span><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;><br /><br /></span><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>7) Mobile communications technologies</span>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>This course unit is based on two types of classes- theoretical and laboratory. In theoretical classes students will be familiar with the themes of the course unit and materials to study. Laboratory classes will be used by students to be acquainted with aspects related to the design of wireless communication networks.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho escrito: 8.0 %
+- Trabalho laboratorial: 32.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 60.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Grades given in a scale from 0 to 20 valores.</p>
+<p>E - grade of final exam</p>
+<p>FQ - grade of FREQUÊNCIA<br /><br />AD - grade of distributed evaluation<br /><br />CF - final grade<br /><br /><br />if ( FQ &gt; E + 5 )  AD = E + 5  else AD = FQ</p>
+<p><br />CF = 0.4 * AD + 0.6*E</p>
+<p><br />if ( E &lt; 8.0 ) CF = E</p>
+<p> </p>
+
+## Obtenção de frequência
+<p>Admission to exams (Frequência) is obtained by executing homeworks and laboratory works. The student shall get a grade not less than 8,0 valores.</p>
+<p>L - Grade of laboratory works</p>
+<p>H - Grade of homeworks</p>
+<p>FQ - FREQUÊNCIA</p>
+<p>FQ = 0,8*L + 0,2*H</p>
+<p>if ( FQ &lt; 8,0 ) FQ = "Sem Frequência"</p>
+
+## Melhoria de classificação
+<p>The grade of Frequência (FQ) is considered in the Época de Recurso. Only the Exame (E) component can be improved in the Época de Recurso.</p>
+

@@ -1,0 +1,172 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Programação
+
+## Curso responsável
+Licenciatura em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p><span style="font-weight: 400;">O objetivo desta unidade curricular é dotar os estudantes com conhecimentos fundamentais sobre a programação imperativa e orientada a objetos em C/C++.</span></p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-weight: 400;">Os estudantes que concluírem com sucesso esta unidade curricular deverão ser capazes de resolver problemas de programação usando código em C/C++ que seja bem estruturado, legível, documentado e validado.</span><br /><br /></p>
+
+## Pré-requisitos e co-requisitos
+<span style=&quot;font-weight: 400;&quot;>Nenhum conhecimento prévio é necessário.<br /><br /><br /></span>
+
+## Programa
+<p><span style="font-weight: 400;">- Programação imperativa em C/C++</span></p>
+<ul>
+<li><span style="font-weight: 400;"> Tipos de dados primitivos e estruturados. Operadores. Declaração e âmbito de variáveis.</span></li>
+<li><span style="font-weight: 400;"> Controlo de fluxo de programas: escolha, iteração, funções.</span></li>
+<li><span style="font-weight: 400;"> Apontadores, alocação dinâmica de memória, aritmética de apontadores.</span></li>
+</ul>
+<p><span style="font-weight: 400;">- Programação orientada</span><span style="font-weight: 400;"> a </span><span style="font-weight: 400;">objetos em C++</span></p>
+<ul>
+<li><span style="font-weight: 400;"> Classes e objetos: noções fundamentais. Definição de classes, encapsulamento de informação.</span></li>
+<li><span style="font-weight: 400;"> Herança entre classes e polimorfismo.</span></li>
+<li><span style="font-weight: 400;"> Classes e métodos genéricos ("templates"). A Standard Template Library (STL).</span></li>
+<li><span style="font-weight: 400;"> Exceções.</span></li>
+</ul>
+<p><span style="font-weight: 400;">- Aspectos transversais</span></p>
+<ul>
+<li><span style="font-weight: 400;"> Uso das funcionalidades mais comuns nas bibliotecas padrão de C/C++.</span></li>
+<li><span style="font-weight: 400;"> Boas práticas de programação.</span></li>
+<li><span style="font-weight: 400;"> Estruturação de programas com vários módulos.</span></li>
+<li><span style="font-weight: 400;"> Legibilidade e documentação de código.</span></li>
+<li><span style="font-weight: 400;"> Deteção de erros e validação de programas usando "runtime sanitizers" e testes unitários.</span></li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+&#8226; <span style=&quot;font-weight: 400;&quot;>Aulas teóricas: exposição dos temas programáticos, usando materiais previamente disponibilizados aos estudantes, acompanhada pela discussão e resolução de casos</span>.<br />&#8226; <span style=&quot;font-weight: 400;&quot;>Aulas práticas: resolução de exercícios de programação em C/C++; sempre que o docente achar necessário, poderá incentivar os estudantes com dificuldades a procurar a ajuda de monitores</span>. <br />&#8226; <span style=&quot;font-weight: 400;&quot;>Fora das aulas: resolução de exercícios de programação em C/C++ e de questionários de resposta múltipla, e desenvolvimento de um projeto de grupo, sobre as matérias lecionadas</span>.<br /><br /><p><span style=&quot;font-weight: 400;&quot;>São usadas ferramentas de correção automática de código para aumentar a rapidez do &#8220;feedback&#8221; dado aos estudantes.</span></p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 25.0 %
+- Teste: 75.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 horas
+- Frequência das aulas: 56.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><span style="font-weight: 400;">A classificação final é dada pela seguinte fórmula:</span></p>
+<p><strong>Classificação final = 25% PROJ + 75% T</strong></p>
+<p><span style="font-weight: 400;">onde:</span></p>
+<p><strong>T = MAX(50 % P1 + 50 % P2, R)</strong></p>
+<p><span style="font-weight: 400;">Componentes de avaliação:</span></p>
+<p><strong>PROJ</strong><span style="font-weight: 400;"> - Avaliação do projeto de grupo.</span></p>
+<p><strong>P1</strong><span style="font-weight: 400;"> - Prova em computador, com 2 componentes, teórica e prática, a realizar a meio do semestre.</span></p>
+<p><strong>P2</strong><span style="font-weight: 400;"> - Prova em computador, com 2 componentes, teórica e prática, a realizar no final do semestre.</span></p>
+<p><strong>R</strong><span style="font-weight: 400;"> - Prova de recurso em computador, com 2 componentes, teórica e prática, a realizar na época de exames, abordando os tópicos das provas </span><strong>P1 e P2</strong><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Não haverá nota mínima em nenhuma das componentes de avaliação para aprovação à unidade curricular.</span><span style="font-weight: 400;"><br /></span></p>
+<p><span style="font-weight: 400;">Caso seja detectado plágio, por exemplo a submissão de código de outros, pode ser atribuída a classificação de <strong>RFR</strong> ("Reprovado por Fraude") a todos os envolvidos.</span></p>
+
+## Obtenção de frequência
+<p><span style="font-weight: 400;">Condições para obtenção de frequência: não exceder o limite de faltas estabelecido nas normas (25% do número de aulas práticas previstas). </span></p>
+<p><span style="font-weight: 400;">Os estudantes com estatuto de trabalhador-estudante ou que tenham obtido frequência no ano letivo anterior estão dispensados de assiduidade às aulas práticas.  No entanto, os estudantes que tenham obtido frequência no ano letivo anterior deverão realizar, no presente ano letivo, as componentes de avaliação abaixo indicadas.</span></p>
+
+## Melhoria de classificação
+<p><span style="font-weight: 400;">Os estudantes que frequentaram esta unidade curricular no presente ano letivo podem fazer melhoria das componentes <strong>P1</strong> e <strong>P2</strong>, na época de recurso, através de uma prova global sobre toda a matéria, cujo resultados <strong>R</strong> é mencionado na fórmula de cálculo da classificação final. <br /><br />Os estudantes que queiram fazer melhoria de classificação do ano letivo anterior devem inscrever-se usando a opção "melhoria por frequência" e realizar as componentes </span><strong>PROJ </strong><span style="font-weight: 400;">e </span><strong>T</strong><span style="font-weight: 400;"> acima referidas, sendo a classificação final dada pela seguinte fórmula:</span></p>
+<p><strong>Classificação final = 25% PROJ + 75% T</strong></p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Programming
+
+## Curso responsável
+Bachelor in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p><span style="font-weight: 400;">Allow students to acquire the fundamental knowledge about imperative and object oriented programming in C/C++.</span></p>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-weight: 400;">The students who complete this curricular unit successfully must be able to solve programming problems using C/C++ code that is well structured, readable, documented and validated.</span></p>
+
+## Pré-requisitos e co-requisitos
+<span style=&quot;font-weight: 400;&quot;>No previous knowledge is required.</span>
+
+## Programa
+<p><span style="font-weight: 400;">- Imperative programming in C/C++:</span></p>
+<ul>
+<li><span style="font-weight: 400;"> Primitive and structured data types. Operators. Declaration and scope of variables.</span></li>
+<li><span style="font-weight: 400;"> Program flow control : choice, iteration, functions.</span></li>
+<li><span style="font-weight: 400;"> Pointers, dynamic memory allocation, pointer arithmetic.</span></li>
+</ul>
+<p><span style="font-weight: 400;">- Object-oriented programming in C++:</span></p>
+<ul>
+<li><span style="font-weight: 400;"> Classes and objects: fundamental notions. Class definition, information encapsulation.</span></li>
+<li><span style="font-weight: 400;"> Inheritance between classes and polymorphism.</span></li>
+<li><span style="font-weight: 400;"> Generic classes and methods ("templates"). The Standard Template Library (STL).</span></li>
+<li><span style="font-weight: 400;"> Exceptions.</span></li>
+</ul>
+<p><span style="font-weight: 400;">- Cross-cutting concerns</span></p>
+<ul>
+<li><span style="font-weight: 400;"> Use of the most common functionalities in the standard C/C++ libraries.</span></li>
+<li><span style="font-weight: 400;"> Good programming practices.</span></li>
+<li><span style="font-weight: 400;"> Structuring programs in modules.</span></li>
+<li><span style="font-weight: 400;"> Code readability and documentation.</span></li>
+<li><span style="font-weight: 400;"> Bug detection and program validation using runtime sanitizers and unit tests.</span></li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+&#8226; <span style=&quot;font-weight: 400;&quot;>Lectures: exposition of the course topics, using materials previously made available to students, accompanied by the discussion and resolution of use cases</span>.<br />&#8226; <span style=&quot;font-weight: 400;&quot;>Practical lessons: resolution of programming exercises in C/C++; whenever the instructor deems it necessary, he/she can encourage students with difficulties to seek the help of monitors</span>.<br />&#8226; <span style=&quot;font-weight: 400;&quot;>Outside of classes: resolution of programming exercises in C/C++ and multiple-answer questionnaires, and development of a group project, on the subjects taught</span>.<br /><br /><p><span style=&quot;font-weight: 400;&quot;>Automatic code correction tools are used to increase the speed of feedback given to students.</span></p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 25.0 %
+- Teste: 75.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 hours
+- Frequência das aulas: 56.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><span style="font-weight: 400;">Distributed evaluation without final exam.</span></p>
+<p><span style="font-weight: 400;">The final grade is given by the following formula:</span></p>
+<p><strong>Final grade = 25% PROJ + 75% T</strong></p>
+<p><span style="font-weight: 400;">where:<br /></span></p>
+<p><strong>T = MAX(50 % P1 + 50 % P2, R)</strong></p>
+<p><span style="font-weight: 400;">Assessment components:</span></p>
+<p><strong>PROJ</strong><span style="font-weight: 400;"> - Assessment of the group project.</span></p>
+<p><strong>P1</strong><span style="font-weight: 400;"> - Computer-based exam, with 2 components, theoretical and practical, to be taken in the middle of the semester.</span></p>
+<p><strong>P2</strong><span style="font-weight: 400;"> - Computer-based exam, with 2 components, theoretical and practical, to be taken at the end of the semester.</span></p>
+<p><strong>R</strong><span style="font-weight: 400;"> - Computer-based exam, with 2 components, theoretical and practical, to be taken during the exam season, addressing the topics of exam </span><strong>P1 and P2</strong><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">There is no minimum grade in any of the assessment components</span><span style="font-weight: 400;">.<br /></span></p>
+<p><span style="font-weight: 400;">If plagiarism is detected, for example the submission of code from others, the <strong>RFR</strong> ("Reproved by Fraud") classification may be assigned to all involved.</span></p>
+
+## Obtenção de frequência
+<p><span style="font-weight: 400;">Conditions to obtain eligibility for exams: do not exceed the abstence limit, established in the rules (25% of the total number of estimated practical lessons). </span></p>
+<p><span style="font-weight: 400;">Students with worker-student status or who have obtained attendance in the previous school year are exempt from attendance. However, students who have obtained attendance in the previous school year must perform, in the present school year, all the evaluation components indicated below.</span></p>
+
+## Melhoria de classificação
+<p><span style="font-weight: 400;">Students who attended this curricular unit in the current academic year can make improvements to the <strong>P1</strong> and <strong>P2</strong> components in the exam to be taken at the end of the semester, through a global exam that includes all subjects, whose <strong>R</strong> result is mentioned in the calculation formula of the final classification.<br /><br />Students who want to improve the classification of the previous school year must enroll using the option "melhoria por frequência" and perform the </span><strong>PROJ </strong><span style="font-weight: 400;">and </span><strong>T</strong><span style="font-weight: 400;"> components mentioned above, the final classification being given by the following formula:</span></p>
+<p><strong>Final grade = 25% PROJ + 75% T</strong></p>
+

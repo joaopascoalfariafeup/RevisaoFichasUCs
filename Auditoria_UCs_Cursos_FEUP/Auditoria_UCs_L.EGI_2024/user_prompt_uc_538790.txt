@@ -1,0 +1,109 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise Matemática II
+
+## Curso responsável
+Licenciatura em Engenharia e Gestão Industrial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Adquirir conhecimentos teóricos e práticos, essenciais, sobre o cálculo diferencial e integral de funções reais e vectoriais de uma ou várias variáveis, e sobre algumas das suas aplicações.</p>
+
+## Resultados de aprendizagem e competências
+<p>No fim do período lectivo os estudantes devem ser capazes de: <br /><br />1- Representar paramétricamente curvas em R2 e R3. Determinar o seu vector tangente e normal. Obter o comprimento de arco e a curvatura de uma curva. Calcular integrais de linha ao longo dessas curvas. <br />2- Discutir a continuidade de funções escalares de várias variáveis. <br />3 - Obter derivadas parciais e direccionais para campos escalares e campos vectoriais e construir o respetivo vector gradiente e a matriz jacobiana. <br />4 - Calcular derivadas de funções compostas, de campos escalares e vectoriais, bem como de funções definidas implicitamente. <br />5 - Obter máximos e mínimos livres de funções de duas ou três variáveis, bem como máximos e mínimos condicionados dessas funções, com uma ou duas restrições, pelo método dos multiplicadores de Lagrange. <br />6 - Calcular integrais duplos sobre regiões limitadas de R2, quer em coordenadas cartesianas quer em coordenadas polares.<br />7 - Calcular integrais triplos sobre regiões limitadas de R3, obter o volume dessas regiões por integração e transformar integrais triplos em coordenadas cartesianas para integrais em coordenadas cilíndricas e esféricas.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Conhecimentos adquiridos na unidade curricular de Análise Matemática I.</p>
+
+## Programa
+<p>I - Funções vectoriais de uma variável real; representação paramétrica de uma curva em Rn. Limites, continuidade, derivação e integração de funções vectoriais . Aplicação ao estudo das curvas em Rn: vetores unitários da tangente, da normal principal e da binormal; triedro de Frenet. Aplicação ao estudo dos movimentos curvilíneos em R2 e R3: vetores velocidade e aceleração. Noção de comprimento de arco e função comprimento de arco. Parametrização relativamente ao comprimento de arco e conceito de curvatura.</p>
+<p>II - Noções básicas para Funções de Rn em Rm : breves noções topológicas do espaço Rn; funções de Rn em R, sua definição, exemplos e alguns aspectos geométricos das respectivas representações gráficas; breve estudo de algumas superfícies. Conceitos de limite e continuidade e suas propeiedades. Limites e continuidade para funções vetoriais, de Rn em Rm.</p>
+<p>III - Diferenciação de Funções de Rn em Rm: derivadas parciais e direccionais, derivadas parciais de ordem superior e Teorema de Schwarz; diferencial total e condições de diferenciabilidade; gradiente e matriz Jacobiana; regra de derivação da função composta para a composição de uma função vectorial com um campo escalar; aplicações geométricas do gradiente; conceito e determinação do plano tangente a uma superfície de nível; regras de derivação para outras composições de funções. Funções implícitas de uma ou mais variáveis : Teorema das funções implícitas e técnicas de derivação implícita. Fórmula de Taylor para funções reais de várias variáveis. Extremos livres : condições de 1ª e 2ª ordem. Extremos condicionados: método dos multiplicadores de Lagrange.</p>
+<p>IV - Integral de linha de campos escalares e de campos vectoriais ao longo de uma curva em Rn. Aplicação ao conceito de trabalho. Formulação diferencial dos integrais de linha.</p>
+<p>V - Integral de Riemann em R2 : integrais sobre rectângulos em R2, definição, propriedades e interpretação geométrica; teorema de Fubini; integrais duplos sobre regiões mais gerais. Aplicações à geometria de massas. Mudança de variáveis em integrais duplos - aplicação às coordenadas polares. Integral de Riemann em R3: integrais sobre paralelepípedos em R3 , integrais triplos sobre regiões mais gerais; mudança de variáveis em integrais triplos - aplicação às coordenadas cilíndricas e às coordenadas esféricas.<br />Mudança genérica de variáveis em integrais duplos e triplos - justificação baseada em argumento geométrico. Exemplos.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Nas aulas teóricas são introduzidas as diferentes matérias. Os conceitos e metodologias são exemplificados recorrendo à resolução de exercícios. Esclarecimento de dúvidas durante as aulas ou interação por email.<br /> Nas aulas práticas (presenciais) são propostos e resolvidos exercícios constantes de um conjunto de enunciados disponibilizados em conteúdos da unidade curricular no SIGARRA.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 97.0 horas
+- Frequência das aulas: 65.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação desta unidade curricular (u.c.) será feita do seguinte modo:<br /> - 1º teste, T1, obrigatório, em data a comunicar aos estudantes; este teste terá um peso de 50% na nota final e corresponderá aproximadamente a metade do programa da u.c.; é exigida uma nota mínima de 7 valores (em 20);<br /> - 2º teste, T2, exclusivamente para estudantes que tiveram classificação em T1, igual ou superior a 7 valores (em 20), e que só incluirá a matéria posterior ao T1; este teste terá também um peso de 50% na nota final e é exigida também uma nota mínima de 7 valores (em 20);<br /> - exame final, EF, A EFECTUAR SIMULTANEAMENTE COM O 2º TESTE, e que terá de ser realizado OBRIGATORIAMENTE por aqueles estudantes que tenham obtido nota inferior a 7 valores em T1; no entanto, qualquer estudante poderá optar por realizar este exame em alternativa ao 2º teste; o EF inclui toda a matéria;<br /> - exame de recurso, ER, será realizado pelos estudantes que não tenham obtido nota mínima nalgum dos testes, T1 ou T2, ou que não tenham tido média de 10 valores nos dois testes ou no exame EF, e ainda para melhoria de classificação. Este exame também inclui toda a matéria.<br /><br />A classificação final, CF, será assim obtida por: CF=(nota de T1+nota de T2)/2 desde que T1&gt;=7 e T2&gt;=7 ou CF=Nota de EF ou ainda CF=Nota de ER.<br /><br /></p>
+
+## Obtenção de frequência
+<p>Para obter frequência o estudante deve ter assiduidade de 75% das aulas teóricas e e teórico-práticas previstas para a unidade curricular. <br /><br /></p>
+
+## Melhoria de classificação
+<p>Realizada através de um exame, de acordo com o Regulamento específico de avaliação de discentes da FEUP. Este exame será efectuado apenas na época seguinte(s) ao apuramento da Classificação Final definitiva.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Mathematical Analysis II
+
+## Curso responsável
+Bachelor in Industrial Engineering and Management
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Development of the reasoning capacity of students and knowledge of essential mathematical concepts. Students should get solid theoretical and practical formation on the main concepts and results of differential and integral calculus of several variables.</p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of the semester students should be able to: </p>
+<p>1 - Obtain parametric representation of curves in Rn and the corresponding tangent and normal vector. Determine the length and the curvature of a curve.  Calculate line integrals along curves.<br />2 - Discuss the continuity of scalar functions of several variables.<br />3 - Calculate partial and directional derivatives of scalar and vector fields and build the gradient vector and the jacobian matrix.<br />4 - Calculate the derivatives of composite functions of scalar  and vector fields, as well as of the implicitly defined functions. <br />5 - Obtain maximum and minimum of unconstrained functions of two variables and maximum and minimum of constrained functions, with one or two constraints, by the method of Lagrange multipliers.<br />6 - Calculate double integrals over limited regions of R2, either in Cartesian or polar coordinates.<br />7 - Calculate triple integrals over limited regions of R3, get the volume of these regions by integration and change triple integrals from Cartesian coordinates into cylindrical and spherical ones.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Knowledge acquired in course of Mathematical Analysis I.</p>
+
+## Programa
+<p>I &#8211;Vector-valued functions of one real variable; parametric equations of a line in Rn. Limits, continuity, differentiation and integration of vector-valued functions. Applications to the geometry of curves in R2 and R3: tangent, principal normal and binormal unitary vectors.  Arc length and curvature of curves.<br /> <br />II - Introduction to surfaces in R3: quadric, cylindrical and revolution surfaces. General notions for real-valued functions of n variables: domain and graph. Vector-valued functions of n variables. Introductory topological notions on Rn. Limits and continuity for scalar and vector-valued functions of n variables.<br /> <br />III - Differentiation: partial and directional derivatives; gradient vector; partial derivatives of higher order; total derivative or Fréchet&#8217;s derivative and differentiability of a scalar function of n variables. Applications of the gradient: tangent plane and maximum of a directional derivative. Differentiability of vector-valued functions of n variables&#8211;Jacobian matrix. Properties of the derivative; different cases of the chain rule. Functions defined implicitly; implicit function theorem and implicit differentiation. Taylor&#8217;s formula for scalar functions of n variables. Extrema of scalar functions of n variables; constrained extrema and Lagrange multipliers.<br /><br /> IV - Line integrals for scalar and vector functions. Definition and properties. Differential formulation of some line integrals. Application to the work concept.<br /><br /><br />V - Double integrals: over a rectangle and over more general regions in R2. Properties and geometric interpretation of double integrals. Fubini&#8217;s theorem &#8211; changing the order of integration. Applications of double integrals to the computation of average values, center of mass and moment of inertia. Changing variables in double integrals; double integrals in polar coordinates. Triple integrals over rectangular parallelepiped and more general regions in R3 . Properties and geometric interpretation of triple integrals. Fubini&#8217;s theorem &#8211; changing the order of integration for triple integrals. Changing variables: triple integrals in cylindrical and spherical coordinates. <br /><br />General change of variables in multiple (double) integrals.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>In the theoretical classes the proposed subjects are introduced in presentation mode. The concepts and methodologies are exemplified by solving exercises. Clarification of doubts during classes by interaction.<br />In the practical classes (face-to-face) exercises made available in the contents of the curricular unit in the SIGARRA  are proposed and solved.<br />Clarification of doubts during classes and by email.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 97.0 hours
+- Frequência das aulas: 65.0 hours
+
+## Fórmula de cálculo da classificação final
+Final mark will be based on the following components: <br />- 1st Test (T1)- It will cover the first half of the program of the course. Students will be informed about the date; if the student reaches a minimum mark of 7 out 20 it might account for 50% of the final mark according to the rules described below. <br />- 2nd Test (T2) &#8211; Only for students who reached a minimum mark of 7 in the first test. It will cover the rest of the program of the course; if the student reaches a minimum mark of 7 out 20 it might account for 50% of the final mark according to the rules described below. <br />- Final Exam (FE)- Simultaneous to the second test; it is for students who did not reach a minimum mark of 7 in the first test plus for students that although they reached the minimum mark of 7 in the first test decide to do the whole exam instead of the second test. This exam will cover all the program of the course. <br />- Recurso Exam (RE)- For students who did not reach a minimum mark in both tests or who did not reach a passing grade in both tests or exam EF. It is also for students who want to improve their mark. It will cover all the program of the course. <br /><br />Final Mark (FM) calculation: FM=( T1+ T2)/2 only if T1&gt;=7 and T2&gt;=7 or FM = FE or FM= RE.
+
+## Obtenção de frequência
+<p>To obtain attendance, students must attend 75% of the theoretical and theoretical-practical classes planned for the course.</p>
+
+## Melhoria de classificação
+<p>Classification improvement will exclusively be the result of the written exam according to Evaluation Rules of FEUP. This exam will be made only in next epochs after the conclusion of distributed evaluation process.</p>
+

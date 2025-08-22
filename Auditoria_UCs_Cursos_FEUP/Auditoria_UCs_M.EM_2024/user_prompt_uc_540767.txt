@@ -1,0 +1,229 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Tecnologias Avançadas de Produção II
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Esta unidade curricular visa a aquisição de conhecimentos avançados sobre processos de fabrico subtrativo/maquinagem, incluindo quer os processos convencionais quer os processos não-convencionais.<br /><br />Pretende-se abordar a maquinabilidade de diferentes materiais, incluindo os materiais metálicos e materiais compósitos, procurando-se destacar as limitações dos processos de maquinagem convencionais e a necessidade de processos alternativos. Dentro dos processos de maquinagem convencional pretende-se ainda abordar alguns procedimentos avançados de maquinagem como é o caso da micro-maquinagem, maquinagem de alta velocidade, maquinagem criogénica e maquinagem MQL. No que respeita aos processos de maquinagem não convencional, pretende-se estudar diferentes processos de maquinagem não-convencional com especial destaque para a eletroerosão (penetração e fio).<br /><br /></p>
+<p>É também objetivo desta unidade curricular apresentar uma abordagem experimental aos processos, bem como a simulação numérica dos mesmos.</p>
+
+## Resultados de aprendizagem e competências
+<p><strong>Conhecimentos:</strong><br />1. Conhecer a maquinabilidade de diferentes materiais, metálicos e materiais compósitos. Visão geral sobre os processos de maquinagem não-convencional. Conhecer diferentes técnicas avançadas de maquinagem assim como aprofundar conhecimentos sobre algumas técnicas de maquinagem não-convencional (eletroerosão).<br />2. Conhecer técnicas de modelação de processos de maquinagem (ex. eletroerosão, maquinagem por arranque de apara).<br /><br /><strong>Competências Computacionais:</strong><br />Aplicação de sistemas CAD/CAM na eletroerosão e maquinagem CNC.<br /><strong><br />Competências Experimentais:</strong><br />Avaliar maquinabilidade de materiais através de ensaios instrumentados.<br />Planeamento de estudos paramétricos de eletroerosão.<br /><br /><strong>Competências Transversais:</strong><br />Trabalho em grupo.<br />Elaboração de relatórios.<br />Comunicação oral<br />Organização empresarial/ processos (visitas de estudo).</p>
+
+## Pré-requisitos e co-requisitos
+<p style="padding-left: 30px;"><strong>Pré-requisitos:</strong></p>
+<p>- Ciência e Engenharia dos Materiais: materiais metálicos e não metálicos;</p>
+<p>- Interpretação de Desenhos de Fabrico e Conhecimentos de CAD/CAM;</p>
+<p>- Conhecimentos básicos sobre processos de maquinagem convencionais;</p>
+<p>- Conhecimentos básicos sobre técnicas de simulação numérica (ex. MEF)</p>
+
+## Programa
+<p><strong>Parte I&#8211;Maquinagem por Eletroerosão</strong></p>
+<ul>
+<li>Introdução às técnicas de maquinagem não-convencional</li>
+</ul>
+<p>        - Processos mecânicos (ultrassónica, jato abrasivo/jato de água)<br />        - Processos termoelétricos (EDM, laser, feixe de eletrões, plasma)<br />        - Processos eletroquímicos e químicos</p>
+<ul>
+<li>Eletroerosão por penetração e por fio</li>
+</ul>
+<div>- Tecnologia e aplicações</div>
+<div>- Princípios de funcionamento</div>
+<div>- Parâmetros</div>
+<div>- Elétrodos e sua seleção</div>
+<div>- Ambiente e segurança</div>
+<div>- Maquinabilidade de materiais</div>
+<div>- Simulação numérica do processo de eletroerosão</div>
+<p><strong><br />Parte II &#8211; Maquinabilidade de diferentes materiais e técnicas avançadas de maquinagem convencional</strong></p>
+<ul>
+<li>Maquinabilidade de materiais metálicos</li>
+</ul>
+<div style="padding-left: 30px;">- Conceito de maquinabilidade</div>
+<div style="padding-left: 30px;">- Esforços de corte e pressão específica de corte</div>
+<div style="padding-left: 30px;">- Ensaios de maquinagem instrumentados em diferentes ligas metálicas:</div>
+<ul>
+<ul>
+<li>Corte ortogonal</li>
+<li>Torneamento</li>
+</ul>
+</ul>
+<ul>
+<li>Maquinabilidade de materiais compósitos e multimateriais</li>
+</ul>
+<p>        - Desafios<br />        - Estratégias de furação de FRPs e multimateriais<br />        - Controlo de qualidade em furação<br />        - Ensaios de furação em FRPs e/ou multimateriais e avaliação da maquinabilidade</p>
+<ul>
+<li>Técnicas avançadas de maquinagem convencional</li>
+</ul>
+<p>        - Micro-maquinagem<br />        - Maquinagem criogénica e MQL<br />        - Maquinagem de alta velocidade<br /><br /></p>
+<p><strong>Parte III&#8211;Simulação da maquinagem por arranque de apara</strong></p>
+<ul>
+<li>Introdução à simulação por elementos finitos da maquinagem;</li>
+<li>Diferentes abordagens de simulação; </li>
+<li>Modelos constitutivos do material;</li>
+<li>Modelos de atrito;</li>
+<li>Estratégias de discretização do problema;</li>
+<li>Apresentação de software de simulação (DEFORM, ABAQUS)</li>
+<li>Exemplos de aplicação e análise de resultados. </li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Metodologias de ensino:<br />Carga horária semanal &#8211; 1,5 h TP + 1,5 h PL<br />Horas de contato totais previstas &#8211; 39h<br />Elaboração de trabalhos práticos incluindo preparação de relatórios e apresentações orais &#8211; 40,5 h<br />Trabalhos laboratoriais &#8211; 12 h<br />Estudo autónomo/preparação de exame &#8211; 30 h<br />Atendimento aos alunos (horário a indicar por cada docente).<br /><br />Avaliação:<br />- A avaliação será distribuída, consistindo em 1 trabalho prático, de grupo, e 1 prova e/ou questionários de aula, por cada um dos 3 módulos do programa a lecionar, tendo cada módulo igual peso na classificação final. Enquanto os trabalhos práticos terão um peso de 70%, as provas e/ou questionários terão um peso de 30% na classificação final.<br /><br />- Será realizado um trabalho prático por cada um dos temas previstos no programa. Cada trabalho terá que ser apresentado oralmente e terá o mesmo peso na classificação final.<br /><br />- Serão aprovados os estudantes que tenham uma classificação média mínima às duas componentes de avaliação anteriormente referidas de 10 valores, e que tenham obtido uma classificação média mínima de 7,0 valores nas provas e/ou questionários de aula, de avaliação individual.<br /><br />A unidade curricular irá ser lecionada tendo por base as seguintes aulas de contacto semanais: aulas teórico-práticas (TP) com duração de 1,5h e aulas práticas-laboratoriais (PL) com duração de 1,5h. As aulas teórico-práticas permitem abordar os princípios gerais necessários à compreensão dos processos de fabrico assentes na maquinagem avançada e maquinagem não-convencional (eletroerosão) e/ou introdução dos temas dos trabalhos práticos laboratoriais.<br /><br />As aulas práticas laboratoriais terão como objetivo proporcionar aos estudantes o acesso a laboratórios ligados aos processos de fabrico onde serão realizadas experiências sobre maquinabilidade de diferentes materiais (ensaios de maquinagem instrumentados), ensaios com equipamento de eletroerosão e simulação dos processos.<br /><br />De modo a complementar a formação em tecnologias avançadas de maquinagem e maquinagem não convencional, poderão realizar-se visitas a empresas que disponham deste tipo de tecnologias (ex. microfresagem, EDM, micro EDM) de forma a possibilitar uma visão tecnológica atualizada aos estudantes.<br /><br />Para além das horas de contacto previstas com o corpo docente, os estudantes serão também solicitados a realizar trabalhos práticos de grupo que permitirão aprofundar conhecimentos e consolidar competências quer pela revisão do estado da arte sobre as diferentes tecnologias quer pela análise e discussão de resultados de experiências laboratoriais realizadas pelos estudantes. Serão realizados um trabalho por cada área temática devendo o estudante preparar um relatório e apresentar nas aulas.<br /><br />Para além das horas de contacto previstas, os docentes providenciarão um atendimento aos estudantes ao longo de todo o semestre em horário pré-estabelecido. Nas épocas de testes os docentes disponibilizarão nos dias antecedentes períodos de atendimento mais prolongados.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 30.0 %
+- Trabalho prático ou de projeto: 70.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 30.0 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho laboratorial: 12.0 horas
+- Trabalho escrito: 40.5 horas
+
+## Fórmula de cálculo da classificação final
+<ul><br /><li>Estão previstos os seguintes elementos de avaliação:<br /> <br /> TT_I: Teste e/ou questões de aula sobre o módulo I<br /> TT_II: Teste e/ou questões de aula sobre o módulo II<br /> TT_III: Teste e/ou questões de aula sobre o módulo III<br /> <br /> TP_I: Trabalho prático sobre o módulo I <br /> TP_II: Trabalho prático sobre o módulo II <br /> TP_III: Trabalho prático sobre o módulo III </li><br /></ul><br /><p> </p><br /><ul><br /><li>A classificação final será calculada com base na seguinte fórmula:<br />  </li><br /></ul><br /><p>NF=[(TT_I + TT_II + TT_III)*0,3+(TP_I + TP_II + TP_IIII)*0,7]/3</p><br /><ul><br /><li>É exigida uma nota mínima de 7,0 valores em cada componente de avaliação individual: TT_I; TT_II; TT_III.</li><br /></ul>
+
+## Obtenção de frequência
+<p>O cumprimento da assiduidade à unidade curricular implica que o número limite de faltas (25% do número de aulas previstas) não deve ser excedido, de acordo com o artigo 6º do Regulamento específico de avaliação de discentes da FEUP.</p>
+
+## Melhoria de classificação
+<p> </p>
+<ul>
+<li><strong>Prova de Melhoria de Classificação</strong>: Os estudantes podem realizar uma prova com o objetivo de melhorar a sua nota final de acordo com o artigo 11º do regulamento de avaliação discente da FEUP.</li>
+<li><strong>Escolha das Partes</strong>: Os estudantes têm a liberdade de escolher se querem melhorar apenas uma das partes da avaliação ou todas as partes.</li>
+<li><strong>Limitação</strong>: A melhoria de classificação <strong>não se aplica a trabalhos de grupo</strong>, sendo possível apenas para as componentes de <strong>avaliação individual</strong>.</li>
+</ul>
+<br />
+<p> </p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Advanced Manufacturing Technologies II
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>This curricular unit aims to convey knowledge about advanced subtractive/machining processes, including both conventional and non-conventional processes.</p>
+<p>It is intended to address the machinability of different materials, including metallic materials and composite materials, aiming at highlighting the limitations of conventional machining processes and the need for alternative processes. Within the conventional machining processes, it is also intended to address some advanced machining procedures such as micro-machining, high-speed machining, cryogenic machining and MQL machining. With regard to non-conventional machining processes, we intend to study different non-conventional machining processes, with special emphasis on electric discharging machining (sinking EDM and wire EDM).<br /><br /></p>
+<p>It is also an objective of this curricular unit to present an experimental approach to the processes, as well as the numerical simulation of the same processes.</p>
+
+## Resultados de aprendizagem e competências
+<p><strong>Knowledge:</strong></p>
+<p>1. To know the machinability of different materials, metallic and composite materials. Overview of non-conventional machining processes. To know different advanced machining techniques, as well as deepen knowledge of some non-conventional machining techniques (electric discharge machining).<br />2. To know simulation techniques for machining processes (eg, EDM, metal cutting).</p>
+<p><strong>Computational Skills:</strong></p>
+<p>Application of CAD/CAM systems in EDM and laser cutting and CNC machining.</p>
+<p><strong>Experimental Skills:</strong></p>
+<p>Evaluate the machinability of materials through instrumented tests.</p>
+<p>Planning of parametric studies of EDM.</p>
+<p><strong>Transversal Skills:</strong></p>
+<p>Group work.</p>
+<p>Reporting.</p>
+<p>Oral communication</p>
+<p>Business organization/processes (study visits).</p>
+
+## Pré-requisitos e co-requisitos
+<p><strong>Pre-requisites:</strong></p>
+<p>- Materials Science and Engineering: metallic and non-metallic materials;</p>
+<p>- Technical drawing representation and reading and CAD/CAM technologies;</p>
+<p>- Basic knowledge of conventional machining processes;</p>
+<p>- Basic knowledge of numerical simulation techniques (eg FEM).</p>
+
+## Programa
+<p><strong>Part I &#8211; Electrical Discharging Machining<br /></strong></p>
+<ul>
+<li>Introduction to non-conventional machining techniques</li>
+</ul>
+<div>- Mechanical processes (ultrasonic, abrasive jet/water jet)</div>
+<div>- Thermoelectric processes (EDM, laser, electron beam, plasma)</div>
+<div>- Electrochemical and chemical processes</div>
+<ul>
+<li>Wire-cut and die-sink EDM</li>
+</ul>
+<div>- Technology and applications</div>
+<div>- Parameters</div>
+<div>- Electrodes and their selection<br />- Environment and safety<br />- Machinability of materials<br />- Simulation</div>
+<p><strong><br />Part II - Machinability of different materials and advanced conventional machining techniques<br /><br /></strong></p>
+<ul>
+<li>Machinability of metallic materials</li>
+</ul>
+<div style="display: inline !important; padding-left: 30px;">- Machinability concept<br />        - Cutting forces and specific cutting pressure<br />        - Instrumented machining tests with various metallic alloys</div>
+<div style="padding-left: 30px;">
+<ul style="padding-left: 30px; list-style-type: circle;">
+<li>Orthogonal cutting</li>
+<li>Turning</li>
+</ul>
+</div>
+<ul>
+<li>Machinability of composites and stacked multi-materials</li>
+</ul>
+<div style="padding-left: 30px;">- Challenges</div>
+<div style="padding-left: 30px;">- Drilling strategies for FRPs and stacked multi-materials</div>
+<div style="padding-left: 30px;">- Quality control in drilling processes<br />- Drilling tests on FRPs and/or multi-materials and machinability assessment</div>
+<ul>
+<li>  Advanced non-conventional machining</li>
+</ul>
+<p>         - Micro-machining<br />         - Cryogenic and MQL machining<br />         - High-speed machining</p>
+<p> </p>
+<p><strong>Part III&#8211;Simulation of metal cutting processes</strong></p>
+<ul>
+<li>Introduction to finite element simulation of metal cutting;</li>
+<li>Different simulation approaches;</li>
+<li>Materials constitutive models;</li>
+<li>Friction models;</li>
+<li>Familiarization with commercial software (DEFORM, ABAQUS)</li>
+<li>Examples and results analysis.</li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Teaching methodologies:<br />Weekly load - 1.5h TP + 1.5h PL<br />Scheduled total hours - 39h<br />Preparation of practical work, including reporting and oral presentations &#8211; 40.5 h<br />Out-of-class laboratory work - 12 h<br />Exam preparation - 30 h<br />Attendance to students (time to be indicated by each teacher).<br /><br />Assessment:</p>
+<p>- The evaluation will be distributed, consisting of 1 practical group assignment and 1 individual test and/or class quiz, for each of the 3 modules of the program to be taught, with each module having equal weight in the final classification. While practical group assignments will weight 70%, tests and/or class individual quizzes will weight 30% in the final classification.</p>
+<p><br />- Students having a minimum average rating of the two assessment components mentioned above 10 points and a minimum grade of 7,0 points in each individual assessment will be approved for the course.<br /><br />The curricular unit will be taught based on the following weekly contact classes: theoretical-practical classes (TP) with a duration of 1.5 h and practical-laboratory classes (PL) lasting 1.5h. The theoretical-practical classes will be used to address the general principles necessary to understand the manufacturing processes based on advanced machining, non-conventional machining and/or introduction of the themes of practical laboratory activities. The practical-laboratory classes will aim at providing students with access to laboratories linked to the manufacturing processes, where experiments on machinability of different materials (instrumented machining tests), tests with EDM and numerical simulation of those processes.<br /><br />In order to complement the training in advanced machining and non-conventional machining technologies, visits to industrial companies are envisaged to allow contact with the studied technologies (e.g. micro-milling, EDM, micro-EDM) in order to enable an updated technological vision for students.<br /><br />In addition to the planned contact hours, students will also be asked to carry out practical group projects to deepen their knowledge and consolidate their competencies. They will do state-of-the-art reviews or analyse and discuss results from laboratory experiments performed by students. A project will be carried out for each thematic area, and the students should prepare a report and present it during the classes.<br /><br />In addition to the planned contact hours, the teaching staff will provide an attendance service to students throughout the semester in pre-established scheduling. During examination periods, teaching staff will provide longer attendance periods.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 30.0 %
+- Trabalho prático ou de projeto: 70.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 30.0 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho laboratorial: 12.0 hours
+- Trabalho escrito: 40.5 hours
+
+## Fórmula de cálculo da classificação final
+<ul><br /><li>The following assessment components will be considered:<br /> <br /> TT_I: Individual quizzes about learning module I;<br /> TT_II: Individual quizzes about learning module II;<br /> TT_III: Individual quizzes about learning module III.<br /> <br /> TP_I: Practical group assignment about learning module I <br /> TP_II: Practical group assignment about learning module II <br /> TP_III: Practical group assignment about learning module III </li><br /></ul><br /><p> </p><br /><ul><br /><li>The final mark (FM) is given by:<br />  </li><br /></ul><br /><p>FM=[(TT_I + TT_II + TT_III)*0,3+(TP_I + TP_II + TP_IIII)*0,7]/3</p><br /><ul><br /><li>A minimum mark of 7,0 is required in each individual quizzes: TT_I; TT_II; TT_III.</li><br /></ul>
+
+## Obtenção de frequência
+<p>Compliance with the curricular unit implies that the maximum number of absences (25% of the number of foreseen classes) must not be exceeded, in accordance with article 6º of the specific regulation for the evaluation of students at FEUP.</p>
+
+## Melhoria de classificação
+<div class=&quot;flex max-w-full flex-col flex-grow&quot;><br /><div class=&quot;min-h-[20px] text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words [.text-message+&amp;]:mt-5&quot; dir=&quot;auto&quot; data-message-author-role=&quot;assistant&quot; data-message-id=&quot;62a686da-7e3b-4a73-ab3b-b254d2841fa8&quot;><br /><div class=&quot;flex w-full flex-col gap-1 empty:hidden first:pt-[3px]&quot;><br /><div class=&quot;markdown prose w-full break-words dark:prose-invert dark&quot;><br /><p><strong>Grade Improvement Exam</strong>: Students may take an exam with the objective of improving their final grade in accordance with Article 11 of the FEUP's student assessment regulations.</p><br /><p><strong>Choice of Parts</strong>: Students have the freedom to choose whether they want to improve only one part of the assessment or all parts.</p><br /><p><strong>Limitation</strong>: Grade improvement does not apply to group assignments, being available only for individual assessment components.</p><br /></div><br /></div><br /></div><br /></div>
+

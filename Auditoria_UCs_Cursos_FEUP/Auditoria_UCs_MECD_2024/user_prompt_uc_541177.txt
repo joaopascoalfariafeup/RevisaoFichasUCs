@@ -1,0 +1,112 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Tópicos Avançados de Inteligência Artificial
+
+## Curso responsável
+Mestrado em Engenharia e Ciência de Dados
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+O objectivo principal da disciplina é conhecer e adquirir competências sobre a utilização de &quot;Conhecimento do Domínio&quot; na resolução de problemas. A utilização de conhecimento pode ser no desenvolvimento de Sistemas Baseados em Conhecimento (como os Sistemas Periciais) ou para utiização por  algoritmos de Aprendizagem Computacional por via do enriquecimento dos conjuntos de dados.
+
+## Resultados de aprendizagem e competências
+No final do curso os estudantes deverão ser proficientes em:<br />- Sistemas Baseados em Conhecimento  <br />- Redes Semânticas e <em>Knowledge Graphs<br />- Conhecer medidas de avaliação de Inteligibilidade/Explicabilidade de modelos gerados por algoritmos de Aprendizagem Computacional</em><br />- Técnicas de enriquecimento de conjuntos de dados<br />- Técnicas de elicitação de conhecimento para &quot;modelos opacos&quot;<br />- Abordagens para análise de dados heterogéneos<br />- Aprendizagem Computacional em ambientes distribuídos<br />- Conhecer e saber utilizar algoritmos multi-relacionais
+
+## Pré-requisitos e co-requisitos
+Não são necessários conhecimentos prévios.<br />Conhecimentos de Aprendizagem Computational (Machine Learning) são um bom ponto de partida.
+
+## Programa
+Sistemas Baseados em Conhecimento<br />Redes Semânticas<br /><em>Knowledge Graphs</em><br />Técnicas de Enriquecimento de Conjuntos de Dados<br />Deep Learning e Graph Neural Networks (GNN)<br />Técnicas de Elicitação de conhecimento para &quot;modelos opacos&quot;<br />Abordagens para análise de dados heterogéneos<br />Aprendizagem Computacional Multi-Relacional<br />Abordagens de Aprendizagem Computacional em ambientes distribuídos<br />Aplicação dos conhecimentos adequiridos em problemas Científicos; de Anáise de Texto,  Reconhecimento de imagens, problemas científicos das Ciências da Vida, Medician e  Farmacologia.
+
+## Métodos de ensino e atividades de aprendizagem
+Apresentação oral dos conteúdos do programa ilustrado com problemas concrectos de interesse científico e societal. Realização de um projecto individual  durante o período lectivo onde serão aplicados os conhecimentos ministrados nas exposições orais.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 5.0 %
+- Apresentação/discussão de um trabalho científico: 30.0 %
+- Trabalho prático ou de projeto: 65.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 horas
+- Estudo autónomo: 50.0 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>(CF = Classificação Final, P = Projecto, A = Apresentação, PA = Praticipação nas Aulas)<br /><br /></p>
+<p>CF = 65% * P + 30% * A + 5% * PA</p>
+
+## Obtenção de frequência
+Não é aplicável o conceito de obtenção de frequência.
+
+## Melhoria de classificação
+A classificação só poderá ser melhorada frequentando a UC no ano seguinte e realizando um novo projecto.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Advanced Topics on Artificial Intelligence
+
+## Curso responsável
+Master in Data Science and Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+The main goal of the course is to study and acquire skills concerning the use of &quot;Domain Background Knowledge&quot; (DBK) used in complex problem solving. The used of such DBK can be in the development of Knowledge Based Systems (like Expert Systems), or to be used by Attribute/Value Machine Learning algorithms, by means of data set enrichment, or, directly, in multi-relational algorithms.
+
+## Resultados de aprendizagem e competências
+At the end of the course the student should be knowledgeable in:<br />-Knowledge Based Systems<br />- Semantic Networks and Knowledge Graphs<br />- Study different measures to assess model's Inteligibility/Explainability<br />- Data set enrichment techniques<br />- Knowledge elicitation for black-box models<br />- Methodologies to apply Machine Learning to heterogeneous data sets<br />- Methodologies and Algorithms for Machine Learning in distribiuted environments<br />- Be knowledgeable in Multi-relational ML algorithms
+
+## Pré-requisitos e co-requisitos
+No specific previous experience is required in the course.<br />However, experience in Machine Learning would be a starting  advantage.
+
+## Programa
+Knowledge Based Systems<br />Semantic Networks<br />Knowledge Graphs<br />Data set enrichment techniques<br />Deep Learning e Graph Neural Networks (GNN)<br />Knowledge elicitation from black-box models<br />Methodologies to apply Machine Learning to heterogeneous data sets<br />Multi-relational Machine Learning algorithms<br />Machine Learning approaches for distributed environments<br />Applications of the acquired knowledge to scientific problems,  to Text Analysis, image Recognition, scientific Life Science, Medicine and Pharmacology problems.
+
+## Métodos de ensino e atividades de aprendizagem
+Oral presentation of the main concepts and illustrated with real domain scientific problems with social impact. Development of an individual project during the course period where the taught topics will be applied.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 5.0 %
+- Apresentação/discussão de um trabalho científico: 30.0 %
+- Trabalho prático ou de projeto: 65.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 hours
+- Estudo autónomo: 50.0 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>(FG = Final Grade, P = Project, PPD = Project Presentation and Discussion, CP = Class Participation)<br /><br /></p>
+<p>FG = 65% * P + 30% * PPD + 5% * CP</p>
+
+## Obtenção de frequência
+Not applicable in this course.
+
+## Melhoria de classificação
+Improving the final grade can only be done by repeating the course in the following year developing a new project.
+

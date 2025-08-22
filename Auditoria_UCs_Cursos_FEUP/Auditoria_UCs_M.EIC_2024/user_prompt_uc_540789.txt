@@ -1,0 +1,127 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Engenharia de Linguagens de Software
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<span style=&quot;font-weight: 400;&quot;>Esta unidade curricular pretende preparar os estudantes para o desenho e implementação de linguagens de software, nomeadamente de linguagens de programação e de modelação (visuais ou textuais) e com ênfase em linguagens específicas de domínio (DSLs). A UC inclui as etapas de engenharia de linguagens software, desde conceitos, requisitos, desenho, até à implementação e geração de código. Serão focados os parsers generalizados, ferramentas e técnicas para alcançar implementações rápidas e incrementais. Durante a UC, os estudantes trabalharão na engenharia de uma DSL, à qual aplicarão os conhecimentos adquiridos.</span>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-weight: 400;">Os estudantes serão capazes de:</span></p>
+<p><span style="font-weight: 400;"> O1: compreender todas as etapas da Engenharia de linguagens de software</span></p>
+<p><span style="font-weight: 400;"> O2: usar ferramentas contemporâneas para implementar linguagens de software</span></p>
+<p><span style="font-weight: 400;"> O3: aplicar os conceitos na Engenharia de uma nova linguagem de software</span></p>
+<p><span style="font-weight: 400;"> O4: implementar geradores de código eficientes</span></p>
+<p><span style="font-weight: 400;"> O5: identificar e aplicar as práticas que resultam em resultados eficientes</span></p>
+
+## Programa
+<p><span style="font-weight: 400;">P1: Introdução a linguagens de software, modelos e metamodelos</span></p>
+<p><span style="font-weight: 400;">P2: Fundações conceituais sobre Engenharia de linguagens de software</span></p>
+<p><span style="font-weight: 400;">P3: Desenho de linguagens de software </span></p>
+<p><span style="font-weight: 400;">P4: Implementação de linguagens de software</span></p>
+<p><span style="font-weight: 400;">P5: Integração e composição de linguagens de software</span></p>
+<p><span style="font-weight: 400;">P6: Validação de linguagens de software</span></p>
+<p><span style="font-weight: 400;">P7: Manutenção de linguagens de software</span></p>
+<p><span style="font-weight: 400;">P8: Análise de modelos e transformações</span></p>
+<span style="font-weight: 400;">P9: Ferramentas e </span><em><span style="font-weight: 400;">workbenches</span></em><span style="font-weight: 400;"> para engenharia de linguagens de software</span>
+
+## Métodos de ensino e atividades de aprendizagem
+<span style=&quot;font-weight: 400;&quot;>A metodologia de ensino consiste em aprendizagem baseada em projeto, modelo de classe invertida, e apresentações tradicionais de alguns tópicos. Os estudantes são confrontados com problemas práticos de engenharia de linguagens software e têm de realizar a engenharia de uma linguagem, de apresentar e discutir etapas intermédias do projeto e de reportar, apresentar e discutir a implementação final. </span>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Participação presencial: 0.0 %
+- Teste: 40.0 %
+- Trabalho prático ou de projeto: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 50.0 horas
+- Estudo autónomo: 56.0 horas
+- Frequência das aulas: 56.0 horas
+
+## Fórmula de cálculo da classificação final
+<span style=&quot;font-weight: 400;&quot;>Projeto (PRJ): realizado por equipas de 2 a 3 estudantes (60% da nota final na UC)</span><br /><p><span style=&quot;font-weight: 400;&quot;>Exame (EX): realizado individualmente (40% da nota final na UC)<br /><br />NF = PRJ*60% + EX*40%</span></p><br /><p><span style=&quot;font-weight: 400;&quot;>Aprovação na UC: obter frequência, NF &gt;= 10, EX &gt;= 8 e PRJ &gt;= 10.</span></p>
+
+## Obtenção de frequência
+Realização do trabalho prático com aproveitamento (nota igual ou superior a 50% da nota máxima do trabalho prático).
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Software Language Engineering
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<span style=&quot;font-weight: 400;&quot;>This course intends to prepare students for designing and implementing software languages, namely programming languages, modeling languages (visual or textual), and with a focus on domain-specific languages (DSLs). The content of the course includes the software languages engineering stages from concepts, requirements, design, to implementation and generation of code. It includes generalized parsers, tools and techniques to achieve fast and incremental implementation of software languages. During the course, students will work on the engineering of a DSL, to which they will apply most of the knowledge acquired.</span>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-weight: 400;">The students will be capable to:</span></p>
+<p><span style="font-weight: 400;"> O1: understand all the stages of the engineering of a software language</span></p>
+<p><span style="font-weight: 400;"> O2: use contemporary tools to implement software languages</span></p>
+<p><span style="font-weight: 400;"> O3: apply the concepts to engineer a new software language</span></p>
+<p><span style="font-weight: 400;"> O4: implement efficient code generators</span></p>
+<p><span style="font-weight: 400;"> O5: identify and apply the practices that achieve efficient results</span></p>
+
+## Programa
+<p><span style="font-weight: 400;">P1: Introduction to software languages, models and metamodels</span></p>
+<p><span style="font-weight: 400;">P2: Conceptual foundations of software language engineering</span></p>
+<p><span style="font-weight: 400;">P3: Design of software languages</span></p>
+<p><span style="font-weight: 400;">P4: Implementation of software languages</span></p>
+<p><span style="font-weight: 400;">P5: Integration and composition of software languages</span></p>
+<p><span style="font-weight: 400;">P6: Validation of software languages</span></p>
+<p><span style="font-weight: 400;">P7: Maintenance of software languages</span></p>
+<p><span style="font-weight: 400;">P8: Model analysis and transformations</span></p>
+<p><span style="font-weight: 400;">P9: Language engineering tools and workbenches</span></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<span style=&quot;font-weight: 400;&quot;>The teaching methodology is based on a mix of project-based learning, flipped classroom, and traditional presentations of some topics. The students will face real-life problems regarding the engineering of software languages. During the semester the students will have to engineer a software language, to present and discuss intermediate stages of the engineering and to report and present the final implementation.</span>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Participação presencial: 0.0 %
+- Teste: 40.0 %
+- Trabalho prático ou de projeto: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 50.0 hours
+- Estudo autónomo: 56.0 hours
+- Frequência das aulas: 56.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><span style="font-weight: 400;">Project (PRJ): during the semester realized by teams of 2 to 3 students (60% of the final grade)</span></p>
+<p><span style="font-weight: 400;">Exam (EX): individual (40% of the final grade)</span></p>
+<p>NF = PRJ*60% + EX*40%</p>
+<p><span style="font-weight: 400;">To be approved, students must obey to the terms of frequency, NF &gt;= 10, EX &gt;= 8 e PRJ &gt;= 10.</span></p>
+
+## Obtenção de frequência
+Finalizing the lab assignment with a minimum grade of 10 (out of 20).
+

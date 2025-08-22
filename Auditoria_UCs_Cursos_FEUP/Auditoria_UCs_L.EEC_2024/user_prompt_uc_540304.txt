@@ -1,0 +1,146 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Programação
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Este é o curso introdutório de programação realizado por todos os estudantes no primeiro semestre do primeiro ano, por isso o seu objetivo é proporcionar aos novos estudantes as competências fundamentais para a programação de computadores. A linguagem de programação C é a adotada, uma vez que é amplamente utilizada em engenharia.</p>
+
+## Resultados de aprendizagem e competências
+<p>Após a conclusão do curso, os estudantes devem ser capazes de:</p>
+<ol>
+<li>definir e explicar os conceitos de algoritmo e fluxo de execução</li>
+<li>identificar os elementos de um modelo de computador genérico e abstrato</li>
+<li>identificar os tipos de dados simples usados em C e escrever as suas declarações</li>
+<li>escrever sequências simples de instruções usando expressões com variáveis</li>
+<li>escrever declarações complexas envolvendo execução condicional e iterativa</li>
+<li>definir e usar vetores (<em>arrays</em>) e estruturas</li>
+<li>explicar e usar apontadores</li>
+<li>defina sub-rotinas e explicar as regras de passagem de argumentos</li>
+<li>implementar sub-rotinas recursivas</li>
+<li>executar processamento simples de ficheiros</li>
+<li>compreender e usar alocação de memória dinâmica</li>
+<li>projetar programas simples baseados no terminal</li>
+<li>implementar programas em C, compilá-los e testá-los</li>
+</ol>
+
+## Programa
+<ol style=&quot;list-style-type: upper-alpha;&quot;><br /><li>Conceitos de programação: algoritmo; processo e ferramentas de desenvolvimento; linguagens de programação</li><br /><li>Modelo conceitual simplificado do computador: CPU, memória, E/S.</li><br /><li>Introdução à linguagem de programação C: programação imperativa; organização do programa; ambiente de desenvolvimento e ferramentas</li><br /><li>Variáveis e tipos de dados primitivos: representação de número inteiro e em vírgula flutuante; caracteres; âmbito/visibilidade de uma variável</li><br /><li>Declarações e expressões: E/S simples, expressões e atribuições</li><br /><li>Estruturas de controlo: condicional; iterativo</li><br /><li>Sub-rotinas: abstração e encapsulamento; funções e procedimentos; passagem de argumentos; recursão, âmbito</li><br /><li>Diretrizes de desenvolvimento de programas</li><br /><li>Conceitos orientados a máquina: apontadores, representação de dados, gestão de memória e alocação de memória dinâmica</li><br /><li>Conceitos de dados: vetores(<em>arrays</em>); <em>strings</em>; estruturas; ficheiros de dados</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A unidade curricular desenvolve-se em aulas teóricas e práticas. Nas aulas teóricas faz-se a exposição dos principais tópicos teóricos e exemplos de aplicação. Nas aulas práticas, os estudantes planeiam, escrevem, testam e corrigem programas simples no terminal. Para além das aulas previstas, os alunos podem frequentar períodos de estudo acompanhado. Todo o material pedagógico da disciplina está disponível no ambiente Moodle da FEUP e uma parte da avaliação dos alunos também é efectuada nesse ambiente.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 5.0 %
+- Teste: 80.0 %
+- Trabalho escrito: 15.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Nota Final = 0,5 F + 0,5 MT</p>
+<p>Componente F = 0,6 UT + 0,3 PE + 0,1 P, onde UT é a média das notas dos 3 microtestes realizados nas aulas, PE é a componente de problemas de aplicação da matéria e P é a nota atribuída pela participação nas aulas.</p>
+<p>Componente  MT = 0,4 MT1 + 0,6 MT2, onde MT1 e MT2 são as notas dos 2 minitestes<br /><br />A Nota Final só é válida caso o estudante obtenha, pelo menos 40% da nota máxima possível na componente MT e pelo menos 50% na componente F.</p>
+<p>A componente F não pode exceder a componente MT em mais de 5 valores em 20 (condição de coerência)<br /><br />Características das provas:</p>
+<ul>
+<li>Micro-testes - os 3 microtestes serão realizados no final da aulas práticas em ambiente Moodle, têm a duração de pelo menos 20 minutos e são constituídos por perguntas simples de escolha múltipla ou resolução de 1 problema simples.</li>
+<li>Minitestes - os 2 minitestes, serão realizados sensivelmente a meio e no final do período das aulas da disciplina, no ambiente SigEx, têm a duração de pelo menos 60 minutos, são constituídos por 10 questões de resposta múltipla e pelo pedido de concretização de um ou mais programas em C, e não admitem consulta de documentação para além da fornecida pelos docentes e a instalada nos computadores.</li>
+</ul>
+
+## Obtenção de frequência
+<p>Os estudanres não podem exceder o limite de faltas permitido às aulas e devem obter pelo menos 50% da nota de frequência máxima estipulada (F na fórmula de classificação abaixo).</p>
+
+## Melhoria de classificação
+<p>A melhoria da classificação poderá ser realizada através de um exame incidindo sobre toda a matéria; esse exame permitirá melhorar a classificação obtida na componente MT, com um peso total de 10 valores (50%), mantendo-se a classificação de avaliação distribuída já obtida na componente F (50%). A melhoria de classificação da componente F pode ser feita no ano letivo seguinte, repetindo os respetivos elementos de avaliação.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Programming
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>This is the introductory programming course taken by all students in the first semester of the first year, so its goal is to provide novice students with the fundamental competencies for computer  programming. The C programming language is adopted because it is widely used in engineering.</p>
+
+## Resultados de aprendizagem e competências
+<p>After the course, students should be able to:</p>
+<ol>
+<li>define and explain the concepts of algorithm and execution flow</li>
+<li>identify the elements of a generic, abstract computer model</li>
+<li>identify the simple data types used in C and write their declarations</li>
+<li>write simple sequences of instructions using expressions with variables</li>
+<li>write complex statements involving conditional and iterative execution</li>
+<li>define and use arrays and structures</li>
+<li>explain and use pointers</li>
+<li>define subroutines and explain the parameter passing rules</li>
+<li>implement recursive subroutines</li>
+<li>perform simple processing of files</li>
+<li>understand and use dynamic memory allocation</li>
+<li>design simple console-oriented programs</li>
+<li>implement programs in C, compile and test them</li>
+</ol>
+
+## Programa
+<ol style=&quot;list-style-type: upper-alpha;&quot;><br /><li>Programming concepts: algorithm; development process and tools; programming languages</li><br /><li>Simplified conceptual model of the computer: CPU, memory, I/O</li><br /><li>Introduction to the C programming language: imperative programming; program organization; development environment and tools</li><br /><li>Variables and primitive data types: Integer and floating point representations; characters; variable scope/visibility</li><br /><li>Statements and expressions: simple I/O, expressions and assignments</li><br /><li>Control structures: conditional; iterative</li><br /><li>Subroutines: abstraction and encapsulation; functions and procedures; parameters passing; recursion, scope</li><br /><li>Program development guidelines</li><br /><li>Machine-oriented concepts: pointers, data representation, memory management and dynamic memory allocation</li><br /><li>Data concepts: arrays; strings; structures; data files</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The course has both lectures and hands-on programming sessions. The lectures present the main theoretical topics and examples. In the programming sessions, the students plan, write and improve simple console programs by working on their own with support from the teaching staff. There are also optional sessions of accompanied study.  Course documentation is available through Moodle, which is also used for some evaluation activities.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 5.0 %
+- Teste: 80.0 %
+- Trabalho escrito: 15.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Final Grade = 0.5 F + 0,5 MT</p>
+<p>Component  F = 0.6 UT + 0.3 PE + 0.1 P, where  UT is the average of the grades of the 3 micro-tests taken in class, PE is the grade for preparation work, and P is the grade for overall participation in class activities.</p>
+<p>Component MT = 0,4 MT1 + 0,6 MT2, where MT1 and MT2 are the grades of the 2 mini-tests.<br /><br />The Final Grade is only valid if the student obtains at least 40% of the maximum possible classification of the MT component and 50% of the F component. <br /><br /></p>
+<p>Component F cannot exceed MT by more than 5 points out of 20 (coherence condition).<br /><br />Evaluation of Tests and micro-tests:</p>
+<ul>
+<li>Micro-tests: there will be 3 and are performed at the end of laboratory classes in the Moodle environment; each will have a duration of at least 20 minutes and consist of multiple-answer questions or solving a simple problem;</li>
+<li>Minitests: there will be 2 tests, one in the middle of the course and the other near the end; both will be made in the Sigex environment and have a duration of at least 60 minutes; they consist of 10 multiple-answer questions and of writing one or more programs in C; personal documentation is not allowed.</li>
+</ul>
+
+## Obtenção de frequência
+<p>The students should not exceed the limit of allowed classes' absences and should get at least 50% of the maximum grade for the classes evaluation part of the final grade (F in the marks' formula below).</p>
+
+## Melhoria de classificação
+<p>The improvement of the final grade can be accomplished through an exam focusing on all topics; this exam can improve the grade obtained in the MT component, with a total weight of 10 values (50%), keeping the distributed evaluation classification already obtained in component F (50%). The component F grade can be improved in the following school year, repeating the respective elements of assessment.</p>
+

@@ -1,0 +1,155 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sinais e Eletrónica
+
+## Curso responsável
+Licenciatura em Bioengenharia
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p>Fornecer os conhecimentos básicos de teoria e análise de sinais contínuos e discretos, de eletrónica e de aquisição de dados, com especial realce nas aplicações em bioengenharia, que permitam o encadeamento dos estudos com as unidades curriculares antecedentes e subsequentes.</p>
+<p>São dados: o conceito de sinal em diversos domínios, as quantidades, as dependências temporais, a extração de parâmetros característicos, a análise, síntese ou manipulação, as transformações matemáticas frequenciais e as operações entre sinais, como a correlação e a modulação.</p>
+<p>É apresentado o conceito de sistema, são tratadas as suas características, os formalismos de descrição matemática, a resposta impulsional, a função de transferência e a convolução.</p>
+<p>São tratadas a plataforma tecnológica eletrónica, a utilização de transdutores e sensores e as operações lineares e não-lineares básicas sobre sinais.</p>
+<p>No âmbito da computação digital são estudadas a utilização da amostragem, a conversão A/D e D/A, e os sistemas de aquisição e de geração de sinais. São também estudados circuitos de portas lógicas básicas.</p>
+Em paralelo, o estudante deve desenvolver o pensamento analítico e sintético para resolução de problemas, a capacidade de realização de trabalhos experimentais neste domínio científico, a capacidade de integração de conhecimentos, a dinâmica do trabalho em grupo e a criatividade para desenvolver pequenos projetos.
+
+## Resultados de aprendizagem e competências
+<p>As competências adquiridas compreendem as seguintes capacidades:</p>
+<p>Conhecer sinais elementares e suas formulações matemáticas, e saber calcular as principais características dos sinais.</p>
+<p>Manipular e transformar sinais. Analisar e decompor sinais. Comparar sinais. Medir sinais no laboratório.</p>
+<p>Sintetizar e gerar sinais artificialmente nos domínios analógico e digital e disponibilizá-los experimentalmente.</p>
+<p>Operar com vários sinais e realizar a correlação, a modulação ou a convolução entre eles.</p>
+<p>Conhecer e manipular a descrição dos sinais no domínio frequencial (das frequências) pela série e pela transformada de Fourier, nos domínios contínuo e discreto com generalização a transformada de Laplace.</p>
+<p>Conhecer a descrição de sistemas genéricos e suas propriedades, em particular, de sistemas lineares e invariantes no tempo. Conhecer o significado e a forma de obter e de analisar a função característica de um sistema e a resposta em frequência.</p>
+<p>Conhecer e utilizar os diagramas de blocos.</p>
+<p>Saber calcular a resposta de um sistema a um sinal de entrada no tempo e na frequência.</p>
+<p>Saber analisar um circuito eléctrico em corrente alternada e realizar a análise complexa e fasorial.</p>
+<p>Conhecer, saber calcular e saber interpretar os circuitos com circuitos electrónicos básicos lineares, nomeadamente filtros elementares e circuitos com amplificadores operacionais, e não-lineares, retificador com díodo, amplificador com transístor, e o comutador com transístor aplicados em, nomeadamente, circuitos lógicos elementares, comparadores sem e com histerese.</p>
+<p>Conhecer os fundamentos teóricos e os processos electrónicos da amostragem e dos conversores A/D e D/A, e saber interpretar o funcionamento dos sistemas de aquisição de dados e de produção ou processamento computacional de sinais.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Análise matemática: funções, derivação, integração, limites, séries.</p>
+<p>Números complexos.</p>
+<p>Utilização de MatLab.</p>
+<p>Circuitos eléctricos e sua análise elementar.</p>
+
+## Programa
+<p>1. Conceitos básicos de sinais e sistemas electrónicos. Exemplos de biosinais e de sistemas de processamento de biosinais. Sinais: características; transformações, combinações, decomposição e comparação. Correlação de sinais. Modulação.</p>
+<p>2. Análise de Fourier para sinais contínuos e discretos. A Série de Fourier e a Transformada de Fourier.</p>
+<p>3. Sistemas lineares e invariantes no tempo: resposta impulsional e convolução. Diagramas de blocos.</p>
+<p>4. Análise de sistemas lineares.<br /><br />5. Eletrónica analógica: dispositivos e funções básicas: díodo semicondutor, transístor, díodo zener, retificação, estabilização, amplificação, filtragem, e modulação. Circuitos não lineares: limitadores, comparadores, circuitos lógicos elementares.</p>
+<p>6. Análise de circuitos em corrente alternada: cálculo fasorial. Análise de circuitos recorrendo à análise de Fourier. Simulação.</p>
+<p>7. Amplificação operacional. Complemento de análise de circuitos. Circuitos lineares e não lineares.</p>
+<p>8. Aquisição de dados: amostragem, quantificação, codificação e reconstrução de sinais. Exemplos de sistemas biomédicos.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><strong>- </strong>Aulas Teórico-Práticas: exposição com exemplos de cálculo, de sinais e de circuitos. Resolução de problemas em papel e em computador fora das aulas.</p>
+<p>- Aulas Laboratoriais: realização de trabalhos de sinais e de eletrónica com guião incidindo sobre actividades de montagem electrónica experimental, medição e análise. Elaboração de relatórios fora das aulas.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 25.0 %
+- Trabalho laboratorial: 50.0 %
+- Teste: 25.0 %
+
+## Componentes de Ocupação
+- Elaboração de relatório/dissertação/tese: 28.0 horas
+- Estudo autónomo: 42.0 horas
+- Frequência das aulas: 68.0 horas
+- Trabalho laboratorial: 24.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>- Classificação final na escala 0-20 valores.</p>
+<p>- Componentes e elementos de avaliação e respetivos pesos:<br /><br />a) Componente de prática laboratorial PL (peso total 50%, classificação mínima 10/20). Compreende:</p>
+<p>- TP (peso 30%): Relativa à realização e aos relatórios dos trabalhos práticos.</p>
+<p>- MP (peso 20%): Realização e relatório do mini-projecto.<br /><br />b) Componente teórico-prática TP (peso total 50%, classificação mínima 8,5/20):</p>
+<p>São realizados dois exames, o primeiro (E1, peso 25%) sensivelmente a meio do semestre, relativo à primeira parte da matéria, e o segundo (E2, peso 25%) na época final de exames, cobrindo a segunda parte dos conteúdos lecionados. Cada uma das partes pode ser novamente realizada em época de recurso para efeitos de melhoria de classificação ou aprovação.<br /> <br />- Classificação mínima exigida em qualquer uma das partes: 8,5/20.<br /><br />- Fórmula da classificação final (CF):</p>
+<p>CF = 0,3 x TP + 0,2 x MP + 0,25 x E1 + 0,25 x E2</p>
+
+## Obtenção de frequência
+<p>É reconhecida frequência à unidade curricular aos estudantes que tiverem assiduidade suficiente, de acordo com os regulamentos em vigor, e que tiverem classificação positiva na avaliação da actividade laboratorial.</p>
+<p>A classificação da actividade laboratorial será válida nos 2 anos subsequentes, caso não haja mudanças de assinalar no respectivo programa.</p>
+<p>Aos estudantes que já possuam frequência válida recomenda-se assiduidade na presença nas aulas teórico-práticas, todavia não é exigida.</p>
+
+## Melhoria de classificação
+<p>Melhoria da classificação final: apenas se aplica aos resultados das provas escritas e pode ser realizada, com provas específicas para o efeito, no exame ou teste de 2ª época ou em épocas subsequentes segundo os regulamentos.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Signals and Electronics
+
+## Curso responsável
+Bachelor in Bioengineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+To provide basic knowledge of the theory and analysis of continuous and discrete signals, electronics, and data acquisition, with special emphasis on applications in bioengineering, which will enable studies to be linked with the preceding and subsequent curricular units.<br /><br />The concept of a signal in different domains, quantities, time dependencies, extraction of characteristic parameters, analysis, synthesis or manipulation, frequency mathematical transformations, and operations between signals, such as correlation and modulation, are given.<br /><br />The concept of a system is introduced, and its characteristics, mathematical description formalisms, impulse response, transfer function, and convolution are dealt with.<br /><br />In the domain of digital computing, the use of sampling, A/D and D/A conversion, and signal acquisition and generation systems are studied. Basic logic gate circuits are also studied.<br /><br />At the same time, students should develop analytical and synthetic thinking to solve problems, the ability to carry out experimental work in this scientific field, the ability to integrate knowledge, the dynamics of group work, and the creativity to develop small projects.
+
+## Resultados de aprendizagem e competências
+The competences to be acquired include the following skills:<br /><br />Knowing elementary signals and their mathematical formulations, and how to calculate the main characteristics of signals.<br /><br />Manipulate and transform signals. Analysing and decomposing signals. Comparing signals. Measure signals in the laboratory.<br /><br />Synthesise and generate signals artificially in the analogue and digital domains and make them available experimentally.<br /><br />Operate with several signals and perform correlation, modulation or convolution between them.<br /><br />Know and manipulate the description of signals in the frequency domain using the series and Fourier transform, in the continuous and discrete domains with generalisation to the Laplace transform.<br /><br />Know the description of generic systems and their properties, in particular those of linear and time invariant systems. Know the meaning and how to obtain and analyse a system's characteristic function and its frequency response.<br /><br />Know and use block diagrams. <br /><br />Know how to calculate the response of a system to an input signal in time and frequency.<br /><br />Know how to analyse an electrical circuit with alternating currents and perform complex and phasor analysis.<br /><br />Know, calculate and interpret circuits with basic linear electronic circuits, such as elementary filters and circuits with operational amplifiers, and non-linear circuits, such as diode rectifiers, transistor amplifiers and transistor switches applied in, for example, circuits with transistors.
+
+## Pré-requisitos e co-requisitos
+<p>Mathematical analysis: functions, derivation, integration, limits, series.</p>
+<p>Complex numbers.</p>
+<p>Use of MatLab.</p>
+<p>Electric circuits and elementary circuit analysis.</p>
+
+## Programa
+<p>1. Basic concepts of signals and systems. Examples of biosignals and their processing systems. Signals: characteristics, transformations, combinations, decomposition and comparison; Signal correlation. Modulation.</p>
+<p>2. Fourier analysis for continuous and discrete signals. The Fourier series and the Fourier Transform.</p>
+<p>3. Linear and time-invariant systems: impulse response and convolution. Block diagrams.</p>
+<p>4. Linear Systems Analysis.<br /><br />5. Analogue electronics: basic devices and functions: diode rectification, transistor, zener diode, regulation, amplification, elementary filtering, and modulation. Non-linear circuits: limiters, comparators, elementary logic circuits.</p>
+<p>6. AC circuit analysis and phasor analysis. Circuit analysis with the Fourier transform. Simulation of circuits.</p>
+<p>7. Operational amplification. Complement of circuit analysis. Linear and non-linear circuits.</p>
+<p>8. Data acquisition: sampling, quantisation, coding and signal reconstruction. Biomedical systems examples.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>-Theoretical-practical classes: presentation with calculus, signal and circuit analysis examples. Problem solving outside classes.</p>
+<p>- Laboratory classes: carrying out work on signals and electronics following a script focusing on experimental electronic assembly, measurement, and analysis activities. Writing of reports outside of class.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 25.0 %
+- Trabalho laboratorial: 50.0 %
+- Teste: 25.0 %
+
+## Componentes de Ocupação
+- Elaboração de relatório/dissertação/tese: 28.0 hours
+- Estudo autónomo: 42.0 hours
+- Frequência das aulas: 68.0 hours
+- Trabalho laboratorial: 24.0 hours
+
+## Fórmula de cálculo da classificação final
+- Final mark grading scale: 0-20 points.<br /><br />- Assessment components and elements and their respective weights:<br /><br />a) Laboratory practice component PL (total weight 50%, minimum mark 10/20). Includes:<br /><br />- TP (weight 30%): Relates to carrying out and reporting on practical work.<br /><br />- MP (weight 20%): Carrying out and reporting on the mini-project.<br /><br />b) Theoretical-practical component TP (total weight 50%, minimum mark 8,5/20):<br /><br />Two exams are held, the first (E1, weight 25%) roughly halfway through the semester, relating to the first part of the contents, and the second (E2, weight 25%) in the final exam season, covering the second part of the content taught. Each of the parts can be retaken in an appeal period for the purposes of improving classification or approval.<br /><br />- Minimum mark required in any of the parts: 8,5/20.<br /><br />- Final classification formula (CF):<br /><br />CF = 0.3 x TP + 0.2 x MP + 0.25 x E1 + 0.25 x E2
+
+## Obtenção de frequência
+<p>Attendance at the course is recognised for students who have sufficient attendance, in accordance with the regulations in force, and who have a positive classification in the assessment of the laboratory activity.<br /><br />The classification of the laboratory activity will be valid for the following 2 years, if no changes are introduced to the programme.<br /><br />Students already holding a valid attendance mark are recommended to attend theoretical and practical classes, but this is not mandatory.</p>
+
+## Melhoria de classificação
+<p>Retake (Recurso) exam only applicable to the results of written tests and done by specific tests.</p>
+

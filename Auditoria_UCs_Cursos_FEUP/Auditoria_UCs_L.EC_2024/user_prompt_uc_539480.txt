@@ -1,0 +1,117 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Probabilidades e Estatística
+
+## Curso responsável
+Licenciatura em Engenharia Civil
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p>JUSTIFICAÇÃO: <br />Essencialmente, duas razões justificam a existência desta UC: a necessidade de desenvolvimento de um raciocínio analítico, fundamentado cientificamente, da capacidade de argumentação e da capacidade de comunicação em abordagens técnicas e científicas dos ramos da engenharia civil; a necessidade de aquisição de conhecimentos científicos de índole probabilística e estatística para utilização nas matérias a desenvolver nos restantes semestres do curso, nomeadamente no que respeita a situações que envolvem incerteza e decisão sob incerteza.</p>
+<p>OBJETIVOS: <br />Obter uma base de formação para disciplinas seguintes; Adquirir conhecimentos sólidos para desenvolvimento ao nível de especializações ou no exercício da actividade profissional; desenvolver e ser capaz de utilizar correctamente e de forma rigorosa uma linguagem probabilística e estatística e mostrar capacidade de comunicação na abordagem de temas em que intervêm as Probabilidades ou a Estatística, garantindo uma interiorização correcta de conceitos;  Ser capaz de traduzir matematicamente o raciocínio na análise de problemas concretos e formular adequadamente esses problemas; Ser capaz de aplicar técnicas de resolução dos mesmos; Ser capaz de avaliar e discutir o nível de adequação de soluções propostas; Ser capaz de utilizar software de forma eficiente na resolução de problemas requerendo técnicas ou envolvendo conceitos estatísticos ou probabilísticos; Ser capaz de lidar cientificamente com situações e fenómenos que envolvem incerteza e decisão sob incerteza.<br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p>COMPETÊNCIAS E RESULTADOS DE APRENDIZAGEM: <br />Competências a desenvolver (CDIO): conhecimentos técnicos em ciências fundamentais (a saber, em Estatística); aptidões pessoais e profissionais de pensamento e resolução de problemas de Engenharia, de experimentação e descoberta do conhecimento, de conhecimentos avançados de Engenharia e aptidões e atitudes pessoais; aptidões interpessoais de comunicação (oral e escrita). <br />O aluno deve ser capaz de:</p>
+<p>- descrever conjuntos de dados por aplicação de técnicas estatísticas;<br />- calcular probabilidades em situações complexas, incluindo as que utilizam variáveis aleatórias a 1 ou 2 dimensões, seguindo ou não distribuições típicas; <br />- utilizar as propriedades envolvidas na utilização das distribuições típicas; <br />- resolver problemas de estimação;<br />- apreender a filosofia dos testes de hipóteses;<br />- resolver problemas e discutirdecisões, com base em testes de hipóteses paramétricos, com particular ênfase para os que envolvemos parâmetros média e variância;<br />- resolver problemas que envolvem o ajuste de distribuições e discutir a sua adequação;<br />-apresentar argumentos para ser adotada uma determinada solução para um problema ou para tirar uma conclusão;<br />- escolher a melhor solução ou o melhor método, quando em presença de vários;</p>
+
+## Pré-requisitos e co-requisitos
+<p>O estudante deverá ter conhecimentos de Matemática ministrados nos semestres anteriores, como por exemplo, sobre a utilização de funções de uma ou mais variáveis, de integração simples e dupla, de sucessões e séries e da análise numérica, nomeadamente na utilização e execução de cálculos com ajuda de máquinas de calcular e de computadores. <br /><br /></p>
+
+## Programa
+<p>1. Breve apresentação do método estatístico no contexto da Engª Civil e o contexto de incerteza em Engenharia. <br /><br />2. O papel dos dados. <br />2.1. diferentes tipos de variáveis estatísticas <br />2.2. distribuições estatísticas univariadas <br />2.3. distribuições estatísticas bivariadas.  <br /><br />3. Espaços de probabilidade <br />3.1. generalização de conceitos, axiomas e propriedades fundamentais <br />3.2. independência de acontecimentos e condicionamento. <br /><br />4. Variáveis aleatórias unidimensionais <br />4.1. variáveis aleatórias discretas e contínuas;<br />4.2. breve referência à transformação de variáveis; <br />4.3. esperança matemática, variância, outros momentos; <br />4.4. parâmetros de ordem. <br /><br />5. Variáveis aleatórias bidimensionais <br />5.1. distribuições  conjuntas e condicionadas<br />5.2. independência<br />5.3. esperança matemática <br />5.4. parâmetros de 2ª ordem<br /><br />6. Distribuições teóricas típicas: <br />6.1. de variáveis aleatórias discretas <br />6.2. de variáveis aleatórias  contínuas <br />6.3. propriedades da lei Gaussiana. <br />6.4. outras propriedades<br /><br />7. Aproximações de leis: <br />7.1. Aproximações e convergência<br />7.2. Teorema Central do Limite<br />7.3. aproximações de leis mais importantes. <br /><br />8. Estimação: <br />8.1. estatísticas, estimadores e estimativas<br />8.2. estimadores da média e da variância<br />8.3. estimador do coeficiente de correlação linear<br />8.4. intervalos de confiança. <br /><br />9. Testes de hipóteses: <br />9.1. filosofia dos testes de hipóteses<br />9.2. testes paramétricos para os parâmetros média e variância<br />9.3. testes sobre o ajustamento de distribuições. <br /><br />10. Iniciação aos modelos de regressão linear simples. <br /><br />DISTRIBUIÇÃO PERCENTUAL: <br />Componente científica: 80% <br />Componente tecnológica: 20%<br /><br />DEMONSTRAÇÃO DA COERÊNCIA DOS CONTEÚDOS PROGRAMÁTICOS COM OS OBJETIVOS DA UNIDADE CURRICULAR: <br />Os conteúdos transmitidos estão ligados com a necessidade de desenvolvimento de um raciocínio fundamentado cientificamente, da capacidade de argumentação e da capacidade de comunicação em abordagens técnicas e científicas dos ramos da engenharia civil, inserindo-se nomeadamente num percurso de aprendizagem de como lidar com a incerteza em engenharia; a necessidade de aquisição de conhecimentos científicos de índole probabilística e estatística para utilização nas matérias a desenvolver nos restantes semestres do curso.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Disciplina essencialmente formativa, coordenando conhecimentos teóricos fundamentais com desenvolvimentos práticos generalistas. É fomentado o entendimento intuitivo de conceitos e a capacidade de cálculo. As matérias são expostas nas aulas teóricas com uso frequente de exemplos, procurando aplicações em diferentes áreas. Nas aulas práticas, o aluno é encaminhado na resolução de problemas seleccionados. É incentivado o uso de software estatístico e de folhas de cálculo, como instrumento de trabalho, nomeadamente na elaboração de 2 trabalhos práticos. São realizadas sessões em laboratório e demonstrações nas aulas teóricas em diversos estádios.<br />Os alunos devem munir-se de máquinas de calcular equipadas com as funções probabilísticas e estatísticas típicas (essencialmente o equivalente às funções do módulo "Statistical" do Excel). As suas máquinas acompanhá-los-ão em muitas das aulas e numa parte dos exames.<br /><br />DEMONSTRAÇÃO DA COERÊNCIA DAS METODOLOGIAS DE ENSINO COM OS OBJETIVOS DE APRENDIZAGEM DA UNIDADE CURRICULAR:<br />As metodologias de ensino permitem ao estudante descrever conjuntos de dados por aplicação de técnicas estatísticas, calcular probabilidades em situações complexas, incluindo as que utilizam variáveis aleatórias a 1 ou 2 dimensões, seguindo ou não distribuições típicas, utilizar as propriedades envolvidas na utilização das distribuições típicas, resolver problemas de estimação, apreender a filosofia dos testes de hipóteses, resolver problemas e discutir decisões com base em testes de hipóteses paramétricos, com particular ênfase para os que envolvem os parâmetros média e variância, resolver problemas que envolvem o ajuste de distribuições e discutir a sua adequação.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Trabalho prático ou de projeto: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>CP: classificação média nos trabalhos práticos (em 20 valores, arredondada às décimas) <br />CE: classificação no exame escrito (em 20 valores, arredondada às décimas) <br /> <br />Classificação final = max(0,250 * CP + 0,750 * CE; CE)<br /><br /><br />NOTA 1: A avaliação distribuída realizada no ano anterior pode ser transferida para este ano a pedido do estudante até data a indicar oportunamente no moodle/email.  Essa data precederá sempre em alguns dias a data do  1º Trabalho Prático. <br /><br />NOTA 2: A não realização dos trabalhos práticos, para qualquer estudante,  implica a atribuição da classificação de "zero"  associada a esse momento de avaliação. Os trabalhos práticos ocorrem exclusivamente no período que decorre até ao último dia de aulas e não se repetirão em momento algum, a partir daí.</p>
+
+## Obtenção de frequência
+<p><span style="color: black; line-height: 115%; font-family: 'Verdana','sans-serif'; font-size: 7.5pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: PT; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">A obtenção de classificação final exige o cumprimento de assiduidade à unidade curricular, conforme estabelecido nas regras de avaliação da FEUP. Considera-se que um estudante cumpre a assiduidade a uma unidade curricular se, estando regularmente inscrito, não excede o número limite de faltas, correspondente a 25% de cada um dos tipos de aulas previstos. <br /></span></p>
+<div>No presente ano letivo (2024/2025) estão dispensados do critério de obtenção de frequência no ano letivo em curso, para todos os efeitos, os estudantes que tenham obtido frequência à UC em ano letivo prévio.</div>
+<div>A partir do próximo ano letivo (2025/2026) serão dispensados do critério de obtenção de frequência no ano letivo em curso, para todos os efeitos, os estudantes que tenham obtido no ano letivo imediatamente anterior uma nota final na UC igual ou superior a 6 valores.</div>
+<p><span style="color: black; line-height: 115%; font-family: 'Verdana','sans-serif'; font-size: 7.5pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: PT; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"> </span></p>
+
+## Melhoria de classificação
+<p><span style="line-height: 115%; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-bidi-theme-font: minor-latin; mso-ansi-language: PT; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-weight: bold;">Exame final escrito para a Componente de Exame escrito. Aplica-se a fórmula geral anterior de cálculo da classificação. Não há lugar a repetição dos trabalhos práticos. <br /></span></p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Statistics and Probability
+
+## Curso responsável
+Bachelor in Civil Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p>JUSTIFICATION: <br />Essentially, two reasons justify the existence of this unit: the need to develop an analitical  reasoning, scientifically based, the capacity of presenting arguments and of communicating in scientific and technical approaches in different domains of civil engineering; the need for acquiring scientific knowledge of probabilistic and statistical nature for use in the subjects that will be studied in the remaining semesters of the course, particularly in what concerns situations involving uncertainty and decision under uncertainty.<br /><br />OBJECTIVES: <br />To induce an educational background for other following subjects in the curricula. To give solid knowledge for future developements at the specialization level as well as at the professsional level. To prepare the student for the use of probabilistic and statistical language and to be able to comunicate when dealing with subjects in which Probabilities and Statistics take part, ensuring that a correct interiorization of concepts is achieved. To educate the student to be able to translate his reasoning into mathematics when analysing real world problems and adequately formulate these problems. To educate the student in techniques that can be used in order to solve these problems. To be able to efiently use software for solving problems that require techniques or envolve statistical or probabilistic concepts. To be able to scientifically deal with situations and phenomena involving uncertainty and decision under uncertainty.<br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p>RESPONSIBILITIES AND OUTCOMES OF LEARNING: <br />Development skills (CDIO): technical knowledge in basic sciences (ie in Statistics), personal and professional skills of thinking and problem solving engineering, experimentation and knowledge discovery, knowledge engineering and advanced skills and attitudes ; interpersonal communication skills (oral and written).<br />The student should be able to:<br />- Describe data sets by applying statistical techniques;<br />- Compute probabilities in complex situations, including those that use random variables of one or two dimensions, following or not typical distributions;<br />- Use the properties involved in the use of typical distributions;<br />- Solve estimation problems</p>
+<p>- Apreend the philosophy of hypothesis testing</p>
+<p>- Solve problems involving the goodness of fit of distributions and discuss their fitness<br />- Present arguments that justify a certain solution to a problem or to express a conclusion<br />- Choose the best solution or the best method, when faced with an ensemble of methods or solutions<br /><br /></p>
+
+## Pré-requisitos e co-requisitos
+<p><span lang="EN" style="line-height: 115%; font-family: 'Calibri','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">The student should have knowledge of mathematics taught in previous semesters, for example, on the use of functions of one or more variables, sequences and series and numerical analysis, including the use and implementation of calculations with the help of calculators and computers. <br style="mso-special-character: line-break;" /></span></p>
+
+## Programa
+<p>1. Brief presentation of the statistical method in the context of Civil Engineering and uncertainty in Engineering. <br /><br />2. The role of data.<br />2.1. different types of statistical variables <br />2.2. univariate distributions; <br />2.3. bivariate distributions <br /><br />3. Probability spaces <br />3.1. generalization of concepts, axioms, and properties<br />3.2. independence of events and conditionning. <br /> <br />4. Unidimensional random variables: <br />4.1. discrete and continuous variables; <br />4.2. brief reference to variable transformations; <br />4.3. mathematical expectation; moments<br />4.4. parameters of order. <br /><br />5. Two-dimensional random variables:<br />5.1. joint distributions and conditional distributions<br />5.2. independence<br />5.3. mathematical expectation <br />5.4. 2nd order parameters<br /><br />6. Typical distributions: <br />6.1. discrete <br />6.2. continuous <br />6.3. properties of Gaussian law<br />6.4. other properties<br /><br />7. Approximations of distributions: <br />7.1. approximations and convergency<br />7.2. Central Limit Theorem <br />7.3. most known approximations. <br /><br />8. Estimation: <br />8.1. statistics, estimators e estimativas<br />8.2. estimators for the mean and the variance <br />8.3. estimation of the linear correlation coefficient<br />8.4. confidence intervals. <br /><br />9. Hypothesis testing: <br />9.1. philosophy of testing<br />9.2. parameter testing<br />9.3. goodness of fit testing. <br /><br />10. Initiation to the simple linear regression models.</p>
+<p>DISTRIBUTION:<br />Scientific component: 80%<br />Technological component: 20%</p>
+<p><br />DEMONSTRATION OF THE SYLLABUS COHERENCE WITH THE CURRICULAR UNIT'S OBJECTIVES: <br />The thematic of this curricular unit emphasize the need to develop a scientifically based reasoning, the capacity of presenting arguments and of communicating in scientific and technical approaches in different domains of civil engineering, in particular leading to the education to deal with uncertainty in engineering; the need for acquiring scientific knowledge of probabilistic and statistical nature for use in the subjects that will be studied in the remaining semesters of the course.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>It is essentially a formative subject, coordinating fundamental theoretical knowledge with some approaches which are necessary in the subjects placed ahead in the curricula. At this level it is important to develop intuitive concepts as well as computational ability. The concepts are exposed in a clear and objective way, making frequent use of examples of physical or geometrical nature. The use of statistical software is encouraged, as a working tool, namely through the execution of 2 working projects in the computer room . Sessions are held in the computer rooms.</p>
+<p><br />DEMONSTRATION OF THE COHERENCE BETWEEN THE TEACHING METHODOLOGIES AND THE LEARNING OUTCOMES: <br />The teaching methodologies allow the students be able to describe data sets by applying statistical techniques, compute probabilities in complex situations, including those that use random variables of one or two dimensions, following or not typical distributions, use the properties involved in the use of typical distributions solve estimation problems, solve problems involving the goodness of fit of distributions and discuss their fitness, learn the philosophy of hypothesis testing.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Trabalho prático ou de projeto: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><span lang="">CP: mean classification in the 2 working projects (rounded to one decimal) </span></p>
+<p><span lang="">CE: classification in the writing paper (rounded to one decimal) <br /><br /> <br />final classification = </span>0,250 * CP + 0,750 * CE<br /><br /><br /><span lang="">NOTE 1: </span><span lang="">The distributed evaluation ran in the previous course can be transfered on demand until a deadline that will be further noticed. <br /><br /></span><span lang="">NOTE 2:  No delivery of the working projects results in "zero" mark in the associated component. Working projects take place exclusively in the period up to the last day of classes and will not be repeated at any time later. <br /></span></p>
+
+## Obtenção de frequência
+<p><span lang="EN-US" style="color: black; line-height: 115%; font-family: 'Verdana','sans-serif'; font-size: 7.5pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Achieving final classification requires compliance with attendance at the course unit, according to the L.EC assessment rules. <br /><br />In the current academic year (2024/2025), students who have attended the course in a previous academic year are exempt from the attendance requirement for the current academic year.<br />As of the next academic year (2025/2026), students who have obtained a final grade in the course equal to or higher than 6 points in the immediately preceding academic year will be exempt from the attendance requirement for the current academic year.<br /></span></p>
+
+## Melhoria de classificação
+<p>Final written exam for the Written Exam Component. For the component regarding the working projects the assessment made along the academic semester remains valid.<br />The previous general formula for calculating the grade applies. Project work cannot be repeated.</p>
+

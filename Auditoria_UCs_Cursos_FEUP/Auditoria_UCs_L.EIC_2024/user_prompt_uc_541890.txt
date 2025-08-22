@@ -1,0 +1,105 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Redes de Computadores
+
+## Curso responsável
+Licenciatura em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>Redes de Computadores (RCOM) é a unidade curricular que introduz os estudantes no domínio de conhecimento das redes de comunicações. Os conceitos fundamentais endereçados em RCOM incluem os seguintes: canais de comunicação e controlo da ligação de dados, modelos de erro e atraso, comunicações multi-acesso, encaminhamento, controlo de fluxo e controlo de congestionamento. As principais tecnologias discutidas em RCOM são a Ethernet comutada, a Wireless LAN 802.11, a Internet e a pilha de comunicações TCP/IP. As implementações e projetos a desenvolver em RCOM incluem um protocolo de ligação de dados com controlo de fluxo, uma aplicação a funcionar em modo cliente, e a configuração e teste de redes Ethernet e IP.</p>
+
+## Resultados de aprendizagem e competências
+<p>Depois de ter frequentado RCOM o estudante deverá ser capaz de: a) perceber e explicar os conceitos fundamentais das redes de comunicações; b) escolher, comparar ou empregar as tecnologias de redes de comunicações atuais; c) implementar, configurar e testar mecanismos e componentes essenciais de uma rede de comunicações.</p>
+
+## Programa
+<p>Introdução às redes de computadores. Técnicas de transmissão de dados. Controlo da ligação de dados. Modelos para análise de desempenho. Controlo do acesso ao meio. LANs. A Internet. Encaminhamento. Controlo de congestionamento. Aplicações.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas teóricas serão usadas para apresentação e discussão dos conceitos fundamentais, discussão de casos e resolução de problemas. Nas aulas teórico-práticas serão realizados dois trabalhos laboratoriais.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho laboratorial: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 horas
+- Frequência das aulas: 56.0 horas
+- Trabalho laboratorial: 56.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Designando por<br /><strong>L1</strong> a classificação do 1º trabalho laboratorial<br /><strong>L2</strong> a classificação do 2º trabalho laboratorial<br /><strong>H</strong> a classificação dos trabalhos de casa<br /><strong>AD</strong> a classificação de avaliação distribuída<br /><br />a classificação de avaliação distribuída (AD) calcula-se pela seguinte fórmula:<br /><strong>   AD = 0,4*L1 + 0,4*L2 + 0,2*H</strong><br /><br />Estudantes que tenham obtido frequência nos 3 anos letivos anteriores podem optar por manter a classificação de avaliação distribuída (AD), realizando apenas o exame.<br /><br />Designando, adicionalmente, por<br /><strong>E</strong> a classificação do exame final<br /><strong>ADA</strong> a classificação da avaliação distribuída ajustada = MIN(AD, E+5)<br /><strong>CF</strong> a classificação final</p>
+<p>a classificação final (CF) calcula-se pela seguinte fórmula:<br /><strong>   se (AD &lt; 8,0 ou E &lt; 8,0), então CF = "RFC"</strong><br /><strong>   senão CF = 0,4*ADA + 0,6*E</strong><br /><br />Tanto AD como E têm um mínimo de 8,0 para aprovação.<br />As classificações são na escala de 0 a 20 valores.</p>
+
+## Obtenção de frequência
+Para obter frequência, os estudantes devem realizar, apresentar e entregar o relatório dos dois trabalhos laboratoriais.
+
+## Melhoria de classificação
+<p>A classificação da componente de avaliação distribuída (AD) pode ser melhorada na próxima ocorrência da Unidade Curricular. Essa componente é utilizada no cálculo da classificação final, quer no exame normal, quer no de recurso.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computer Networks
+
+## Curso responsável
+Bachelor in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>Provide the students with basic training in Computer Networks - knowledge of the essential architectural concepts and principles, the more used technologies and solutions and also the main standards. Furthermore, the student must be capable of analyzing and evaluating the performance of different types of systems and communication networks.</p>
+
+## Resultados de aprendizagem e competências
+<p>The student should be able to: a) understand and explain the main concepts of computer networks; b) select, compare and use the main technologies of computer networks; c) implement, configure and evaluate key mechanisms and components of computer networks.</p>
+<p> </p>
+
+## Programa
+<p>Introduction to computer networks. Transmission and data communication techniques. Data link control. Models for performance evaluation. Medium access control. LANs. Internet. Routing. Congestion control. Applications.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical classes are dedicated to the formal exposition of contents, including problems&#8217; solving to illustrate and discuss cases. In laboratory classes the students will carry out two assignments to get acquainted with the development of communications protocols: a data link protocol, and planning and configuration of a computer network.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho laboratorial: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 hours
+- Frequência das aulas: 56.0 hours
+- Trabalho laboratorial: 56.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Designating by<br /><strong>L1</strong> the grade of 1st lab<br /><strong>L2</strong> the grade of 2nd lab<br /><strong>H</strong> the grade of homeworks<br /><strong>AD</strong> the continuous assessment grade<br /><br />the continuous assessment grade (AD) is calculated using this formula:<br /><strong>   AD = 0.4*L1 + 0.4*L2 + 0.2*H</strong><br /><br />Students may choose to keep the distributed assessment grade obtained in one of the 3 previous academic years and just take the final exam.<br /><br />Further designating by<br /><strong>E</strong> the grade of final exam<br /><strong>ADA</strong> the adjusted continuous assessment grade = MIN(AD, E+5)<br /><strong>CF</strong> the final grade</p>
+<p>the final grade (CF) is calculated using this formula:<br /><strong>   if (AD &lt; 8.0 or E &lt; 8.0), then CF = "RFC" (fail)</strong><br /><strong>   else CF = 0.4*ADA + 0.6*E</strong><br /><br />Both AC and E have a minimum grade of 8.0.<br />Grades are in a scale of 0 to 20 points.</p>
+
+## Obtenção de frequência
+To be elligible to take the exam, students must do both lab assignments, present them and deliver the respective reports.
+
+## Melhoria de classificação
+<p>The continuous assessment grade can be improved in the next ocurrence of the course. It is used in the final grade calculation for both the normal and the resit exams.</p>
+

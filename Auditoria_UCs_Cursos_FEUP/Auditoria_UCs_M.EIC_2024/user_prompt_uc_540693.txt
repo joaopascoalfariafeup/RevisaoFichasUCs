@@ -1,0 +1,136 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Otimização
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p><span style="font-weight: 400;">Dotar os estudantes com competências para: </span></p>
+<ul>
+<li><span style="font-weight: 400;"> identificar e abordar de forma hábil e estruturada problemas de decisão; </span></li>
+<li><span style="font-weight: 400;"> construir modelos de problemas de decisão; </span></li>
+<li><span style="font-weight: 400;"> identificar e recorrer a métodos analíticos para obtenção de soluções para os modelos construídos, como suporte para decisões fundamentadas; </span></li>
+<li><span style="font-weight: 400;"> usar solvers de otimização para análise e obtenção de soluções para os modelos construídos.</span></li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p><span lang="PT">No final desta unidade curricular, os alunos devem ser capazes de:</span></p>
+<p><span lang="PT">- Identificar um problema de decisão;<br />- justificar a necessidade de aplicação de uma técnica de optimização;<br />- Construir um modelo matemático apropriado;<br />- Selecionar e aplicar corretamente um método/algoritmo adequado;<br />- Ser capaz de analisar criticamente os resultados obtidos;<br />- Aplicar análise de sensibilidade;<br />- Ser capaz de justificar e quantificar os ganhos para a organização.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">O objetivo principal desta UC é, através da criação de modelos, desenvolver competências para análise de um conjunto vasto de situações reais. Essas competências baseiam-se na capacidade de reconhecer o problema-chave numa situação não estruturada e desenvolver uma estrutura para analisar e tratar o problema, e na aplicação de métodos analíticos na sua resolução.</span></p>
+<p><span style="font-weight: 400;">Atendendo a que Otimização é a UC base da Investigação Operacional e  à definição de Investigação Operacional disponível no sítio da internet da Sociedade de Investigação Operacional do Reino Unido, encontramos um emparelhamento perfeito desta UC científica com os objetivos declarados:</span></p>
+<p><span style="font-weight: 400;">&#8220;Operational research is the discipline of applying advanced analytical methods to help make better decisions. By using techniques such as problem structuring methods [&#8230;] and mathematical modeling to analyze complex situations, operational research gives executives the power to make more effective decisions and build more productive systems&#8221;.</span></p>
+
+## Programa
+<p><span style="font-weight: 400;">1. Programação Linear<br />1.1 Modelação de problemas de programação linear com variáveis contínuas. <br />1.2 Resolução de problemas lineares usando o métod Simplex<br />1.3 Resolução de problemas lineares usando software de otimização<br />1.4 Discussão de alternativas, análise de sensibilidade <br />1.5 Dualidade<br /><br />2. Programação Inteira<br />2.1 Modelação de problemas de programação inteira e interia mista.<br />2.2 Reolução de problemas de Programação Inteira usando o método de Branch and Bound<br />2.3  Resolução de problemas lineares usando software de otimização<br />2.4 Discussão de alternativas de formulação<br /><br />3. Teoria da Decisão<br />3.1 Árvores de decisãp e o valor da informação<br />3.2 Economia comportamental<br /><br /><br /></span></p>
+<p> </p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-weight: 400;">Exposição dos temas programáticos, sempre que possível com recurso a métodos de aprendizagem ativa. A exposição será sempre ilustrada por casos, exemplos e problemas. Esclarecimento de dúvidas sobre a resolução dos problemas propostos. <br />A avaliação terá uma componente distribuída (exercícios em aula, trabalhos de casa, exposição de artigos) com um peso de 40%, um trabalho com um peso de 20% e um miniteste com um peso de 40%.<br /></span></p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Participação presencial: 40.0 %
+- Exame: 40.0 %
+- Trabalho prático ou de projeto: 20.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 56.0 horas
+- Trabalho escrito: 46.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final é calculada com base na nota obtida no miniteste, no trabalho de grupo e na avaliação presencial.</p>
+<p>Classificação final = 0,40 * classif. miniteste+ 0,20 * classif. Trabalho + 0,40 * avaliação contínua.</p>
+<p> </p>
+
+## Obtenção de frequência
+A média ponderada das várias componentes de avaliação deverá ser positiva.
+
+## Melhoria de classificação
+<p>No final da unidade curricular será facultada uma prova de recurso na qual os estudantes poderão efectuar a melhoria da classificação no miniteste.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Optimization
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>The aim of this course to provide the students with competences to:</p>
+<ul>
+<li><span style="font-weight: 400;"> identify and address decision problems in a structured way; </span></li>
+<li><span style="font-weight: 400;"> build models of decision problems; </span></li>
+<li><span style="font-weight: 400;"> identify and use analytical methods to obtain solutions for the models, that should act as a support for informed decisions; </span></li>
+<li><span style="font-weight: 400;"> use optimization solvers to analyse and obtain solutions for the models.</span></li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p>At the end of this course in Operations Research the students should be able to:</p>
+<p>- identify a decision problem, </p>
+<p>- justify the need for the application of an optimization technique</p>
+<p>- build an appropriate mathematical model,</p>
+<p>- select and apply a suitable method or algorithm, </p>
+<p>- be able to analyze critically the obtained results</p>
+<p>- apply sensitivity analysis and </p>
+<p>- be able to justify the applied technique and quantify the gains for the organization<br /><br /></p>
+<p><span style="font-weight: 400;">The main objective of this course is, through the creation of models, develop skills for analysing a wide range of real situations. These competencies are based on the ability to recognize the key problem in a non-structured situation and develop a framework for analysing and treating the problem, and on the application of analytical methods for its resolution.</span></p>
+<p><span style="font-weight: 400;">Taking into account that Optimization is the fundamental discipline of Operational Research, looking at the definition of operational research available at the UK Operational Research Society&#8217;s website, we find a perfect match between this scientific field and the declared objectives:</span></p>
+<p><span style="font-weight: 400;">&#8220;Operational research is the discipline of applying advanced analytical methods to help make better decisions. By using techniques such as problem structuring methods [&#8230;] and mathematical modeling to analyze complex situations, operational research gives executives the power to make more effective decisions and build more productive systems&#8221;.</span></p>
+
+## Programa
+1. Linear Programming<br />1.1 Formulating Linear Problems<br />1.2 Solving LP using the Simplex Method<br />1.3 Solving LP problems using optimization software<br />1.4 Discussing: Sensitivity Analysis <br />1.5 Duality<br /><br />2. Integer Programming<br />2.1 Formulating Integer and Mixed Integer Linear Problems<br />2.2 Solving IP &amp; MILP: Branch &amp; Bound<br />2.3 Solving IP &amp; MILP problems using optimization software<br />2.4 Discussing: Comparing alternative formulations<br /><br />3. Decision Theory<br />3.1 Decision trees and the value of information<br />3.2 Behavioural economics
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-weight: 400;">The themes are presented using active learning methods. The problems are illustrated with examples. The problems from a list of proposed problems are discussed and solved by the students. <br />Assessment will include a continuous assessment component (quizzes at clases, homeworks, presentation of papers) with a weight of 40%, a group project with a weight of 20% and a short test with a weight of 40%.</span></p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Participação presencial: 40.0 %
+- Exame: 40.0 %
+- Trabalho prático ou de projeto: 20.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 56.0 hours
+- Trabalho escrito: 46.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final classification is calculated based on the grades obtained in the exam, in the group project and in the evaluation of continuous assessment component.</p>
+<p>The test has a weight of 40%, the group project has a weight of 20% and the continuous assessment component has a weight of 40%.</p>
+<p> </p>
+
+## Obtenção de frequência
+The weighted average of the various evaluation components must be positive.
+
+## Melhoria de classificação
+<p> A final test will be available to improve the short test grade.</p>
+

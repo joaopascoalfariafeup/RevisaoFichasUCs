@@ -1,0 +1,123 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Programação em Lógica com Restrições
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p><span style="font-weight: 400;">Esta Unidade Curricular (UC) aborda os paradigmas da Programação em Lógica (PL) e Programação com Restrições (PR), especificamente na Programação em Lógica com Restrições (PLR).</span></p>
+<p><span style="font-weight: 400;">O paradigma da PL apresenta uma abordagem declarativa à programação, baseada em processos formais de raciocínio, mais apropriada para a resolução de alguns tipos de problemas.</span></p>
+<p><span style="font-weight: 400;">PLR permite abordar problemas de satisfação de restrições e de otimização de forma eficiente, modelizando-os de uma forma direta e elegante.</span></p>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-weight: 400;">No final da UC, os estudantes deverão:</span></p>
+<p><span style="font-weight: 400;">- Estar familiarizados com os paradigmas da programação declarativa, nomeadamente PL e PLR.</span></p>
+<p><span style="font-weight: 400;">- Identificar as categorias de problemas em que a PL e PLR são particularmente adequadas.</span></p>
+<p><span style="font-weight: 400;">- Possuir capacidades de raciocínio abstrato e de resolução de problemas de forma declarativa.</span></p>
+<p><span style="font-weight: 400;">- Ser capazes de aplicar adequadamente técnicas de PL e PLR.</span></p>
+<p><span style="font-weight: 400;">- Ser capazes de construir aplicações completas usando Prolog com ou sem restrições.</span></p>
+
+## Pré-requisitos e co-requisitos
+Desejável conhecimentos básicos sobre Programação em Lógica.
+
+## Programa
+<ol><br /><li>Programação em Lógica (PL) e Prolog<br /><br /><ul><br /><li>Cláusulas. Predicados. Factos. Perguntas. Regras. Variáveis lógicas. Instanciação. Recursividade. Listas. Negação.</li><br /></ul><br /></li><br /><li>Programação com Restrições<br /><ul><br /><li>Problemas combinatórios.</li><br /><li>Restrições simples e restrições globais.</li><br /><li>Satisfação de restrições.</li><br /><li>Propagação de restrições.</li><br /><li>Manutenção de consistência.</li><br /><li>Restrições em domínios booleanos, finitos e reais.</li><br /><li>Otimização.</li><br /><li>Métodos de pesquisa de soluções.</li><br /></ul><br /></li><br /><li>Linguagens e Plataformas<br /><ul><br /><li>Programação em Lógica com Restrições (PLR)<br /><ul><br /><li>Modelização de problemas em PLR.</li><br /><li>PLR no SICStus Prolog.</li><br /></ul><br /></li><br /><li>Google OR-Tools (interface Python)</li><br /><li>IBM ILOG CP Optimizer (CPLEX) (OPL e interface Python)</li><br /><li>MiniZinc</li><br /></ul><br /></li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas são usadas tanto para exposição formal da matéria, acompanhada da apresentação de exemplos e sua discussão como para resolução de exercícios de programação e acompanhamento do desenvolvimento dos trabalhos práticos.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 35.0 %
+- Trabalho laboratorial: 65.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 55.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 70.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><span style="font-weight: 400;">Nota Final = 35% * MT + 50% * TP + 15% * A<br /></span></p>
+<span style="font-weight: 400;">MT: Nota do Mini-teste (min. 7 valores)<br />TP: Nota global do Trabalho Prático </span><span style="font-weight: 400;">(min. 7 valores)</span><span style="font-weight: 400;"><br />A: Nota global das apresentações do Trabalho Prático<br /></span><span style="font-weight: 400;"><br /></span>
+
+## Obtenção de frequência
+<p>Um aluno inscrito obtém frequência se cumprir a assiduidade às aulas teórico-práticas (máximo de faltas permitido corresponde a 25% das aulas previstas) e realizar o trabalho prático com sucesso.</p>
+
+## Melhoria de classificação
+<p>A melhoria da classificação só pode ser obtida na edição seguinte da Unidade Curricular.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Constraint Logic Programming
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p><span style="font-weight: 400;">This course addresses the Logic Programming (LP) and Constraint Programming (CP) paradigms, specifically Constraint Logic Programming (CLP).</span></p>
+<p><span style="font-weight: 400;">The LP paradigm presents a declarative approach to programming, based on formal reasoning processes, more appropriate to the resolution of certain types of problems.</span></p>
+<p><span style="font-weight: 400;">CLP allows for an efficient approach to constraint satisfaction problems and optimization problems, modeling them in a direct and elegant manner.</span></p>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-weight: 400;">At the end of this course, students should:</span></p>
+<p><span style="font-weight: 400;">- Be familiar with declarative programming paradigms, namely LP and CLP.</span></p>
+<p><span style="font-weight: 400;">- Identify classes of problems where LP and CLP are particularly relevant.</span></p>
+<p><span style="font-weight: 400;">- Possess abstract reasoning skills and the ability to solve problems in a declarative manner.</span></p>
+<p><span style="font-weight: 400;">- Be able to correctly apply LP and CLP techniques.</span></p>
+<p><span style="font-weight: 400;">- Be able to build full Prolog applications, with and without constraints.</span></p>
+
+## Pré-requisitos e co-requisitos
+Desirable basic knowledge of Logic Progamming.
+
+## Programa
+<ol><br /><li>Logic Programming (LP) and Prolog<br /><br /><ul><br /><li>Clauses. Predicates. Facts. Queries. Rules. Logic variables. Instantiation. Recursion. Lists. Negation.</li><br /></ul><br /></li><br /><li>Constraint Programming<br /><ul><br /><li>Combinatorial problems.</li><br /><li>Simple constraints and global constraints.</li><br /><li>Constraint satisfaction.</li><br /><li>Constraint propagation.</li><br /><li>Consistency maintenance.</li><br /><li>Constraints in Boolean, finite and real domains.</li><br /><li>Optimization.</li><br /><li>Solution search.</li><br /></ul><br /></li><br /><li>Languages and Platforms<br /><ul><br /><li>Constraint Logic Programming (CLP)<br /><ul><br /><li>Modeling problems in CLP.</li><br /><li>CLP using SICStus Prolog.</li><br /></ul><br /></li><br /><li>Google OR-Tools (Python interface)</li><br /><li>IBM ILOG CP Optimizer (CPLEX) (OPL and Python interface)</li><br /><li>MiniZinc</li><br /></ul><br /></li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Classes are used both for the presentation of the main (constraint) logic programming concepts, accompanied by the discussion of practical examples as well as to solve programming exercises and assist students on their practical assignments.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 35.0 %
+- Trabalho laboratorial: 65.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 55.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 70.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><span style="font-weight: 400;">Final Grade = 35% * MT + 50% * TP + 15% * A<br /><br /></span><span style="font-weight: 400;">MT: Mini-test grade (min. 7 values)<br />TP: Practical assignment global grade (min. 7 values)<br />A: Practical assignment presentations global grade</span></p>
+
+## Obtenção de frequência
+<p>Enrolled students are admitted to the exam if they do not exceed the allowed number of non-attendance to lab classes (maximum 25% of non-attendance) and successfully complete the practical assignment.</p>
+
+## Melhoria de classificação
+<p>The improvement of classification can only be obtained in the next edition of the course.</p>
+

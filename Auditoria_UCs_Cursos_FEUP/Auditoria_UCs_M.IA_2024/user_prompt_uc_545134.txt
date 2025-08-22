@@ -1,0 +1,104 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Data-Driven Decision Making
+
+## Curso responsável
+Mestrado em Inteligência Artificial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+Pretende-se que os alunos:<br />1. Se familiarizem com a utilização dos pricipais métodos de aprendizagem supervionada e não supervisionada para análise e apoio à decisão.<br />2. Aprendam a formalizar modelos de otimização e análise prescritiva em programação matemática.<br />3. Se familiarizem com linguagens e bibliotecas para a resolução destes problemas.<br />4. Desenvolvam competências fazer uma análise crítica de soluções obtidas.
+
+## Resultados de aprendizagem e competências
+Resultados:<br />1. Conhecimento aplicado de métodos de aprendizagem automática, incluindo regressão linear, regressão logística, CART, clustering e visualização de dados, com ênfase em métodos de aprendizágem interpretáveis.<br />2. Conhecimento aplicado de otimização e da resolução de modelos de programação matemática com &quot;general-purpose solvers&quot;.<br />3. Saber como implementar todos esses métodos.
+
+## Programa
+<div class=&quot;page&quot; title=&quot;Page 12&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;><br /><ol><br /><li>Introdução: exemplos de utilização de inteligência artificial e otimização.</li><br /><li>Otimização linear: formulação e resolução computacional.</li><br /><li>Otimização inteira: formulação e resolução computacional.</li><br /><li>Otimização não linear: formulação e resolução computacional.</li><br /><li>Problemas de regressão: enquadramento e casos de estudo.</li><br /><li>Problemas de classificação: enquadramento e casos de estudo.</li><br /><li>Árvores de decisão: definição, utilização e extensões.</li><br /><li>Clustering e métodos de aprendizagem não supervisionada.</li><br /><li>Considerações finais. Impacto da matéria lecionada nas organizações.</li><br /></ol><br /></div><br /></div><br /></div>
+
+## Métodos de ensino e atividades de aprendizagem
+- Exposição teórica com discussão de casos de estudo. <br /> - Resolução de problemas, acompanhamento dos projetos.<br /> - Desenvolvimento e apresentação dos projetos práticos pelos estudantes.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 80.0 %
+- Teste: 20.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 30.0 horas
+- Elaboração de relatório/dissertação/tese: 30.0 horas
+- Frequência das aulas: 31.5 horas
+- Estudo autónomo: 30.0 horas
+
+## Fórmula de cálculo da classificação final
+Questões de aula (&quot;testes&quot;): 20%<br /> Trabalhos práticos: 80%
+
+## Obtenção de frequência
+Frequência obrigatória às aulas.<br />Entrega de obrigatória dos trabalhos propostos.
+
+## Melhoria de classificação
+n/a
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Data-Driven Decision Making
+
+## Curso responsável
+Master in Artificial Intelligence
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+Students should: <br />1. Get acquainted with the main supervised and unsupervised machine learning methods for analytics and decision support.<br />2. Learn how to formalize optimization models for prescriptive analytics using mathematical programming.<br />3. Get acquainted with languages and libraries for solving these problems.<br />4. Be able to critically analyze solutions obtained.
+
+## Resultados de aprendizagem e competências
+What you'll learn:<br />1. An applied understanding of many different analytics methods, including linear regression, logistic regression, CART, clustering, and data visualization; focus on interpretable methods.<br />2. An applied understanding of mathematical optimization and how to solve these models with general-purpose solvers.<br />3. How to implement all of these methods.
+
+## Programa
+<ol><br /><li>Introduction: examples of usage on artificial intelligence and optimization.</li><br /><li>Linear optimization: formulation and computational resolution.</li><br /><li>Integer optimization: formulation and computational resolution.</li><br /><li>Nonlinear optimization: formulation and computational resolution.</li><br /><li>Regression problems: background and case studies.</li><br /><li>Classification problems: background and case studies.</li><br /><li>Decision trees: definition and use. Random Forests.</li><br /><li>Clustering and unsupervised learning methods.</li><br /><li>Final Considerations. Impact of the subjects taught on organizations.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+- Lectures: presentation of the program topics and discussion of examples. <br /> - Labs: problem solving and case studies. <br /> - Assignments: development and presentation of practical projects by students.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 80.0 %
+- Teste: 20.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 30.0 hours
+- Elaboração de relatório/dissertação/tese: 30.0 hours
+- Frequência das aulas: 31.5 hours
+- Estudo autónomo: 30.0 hours
+
+## Fórmula de cálculo da classificação final
+In-class questions (Quizzes): 20%<br />Practical assignments: 80%
+
+## Obtenção de frequência
+Attendance to classes is mandatory.<br /> Submission of proposed works.
+
+## Melhoria de classificação
+n/a
+

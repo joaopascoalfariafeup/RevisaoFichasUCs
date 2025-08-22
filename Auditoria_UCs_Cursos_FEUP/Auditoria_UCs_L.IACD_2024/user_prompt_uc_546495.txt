@@ -1,0 +1,166 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Estruturas de Dados
+
+## Curso responsável
+Licenciatura em Ciência de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+Reforçar as competências de programação dos estudantes, com ênfase no desenho e implementação de algumas das principais estruturas de dados e correspondentes algoritmos. Será usada uma metodologia orientada aos objectos com recurso à linguagem Java. Serão introduzidas noções sobre eficiência e análise de complexidade de algoritmos.
+
+## Resultados de aprendizagem e competências
+Ao concluirem esta unidade curricular os estudantes deverão saber:<br /><ul><br /><li>usar os princípios básicos de uma linguagem de programação orientada aos objectos, nomeadamente herança, polimorfismo, interfaces, classes do tipo colecção e iteradores.</li><br /><li>escrever classes que implementem algumas estruturas de dados lineares, como sejam listas, pilhas, filas, conjuntos, dicionários, tabelas de hash e árvores binárias.</li><br /><li>usar uma API que implemente listas, pilhas, filas, conjuntos, e tabelas de hash.</li><br /><li>desenvolver algoritmos básicos associados às estruturas de dados estudadas.</li><br /><li>usar algumas das técnicas algoritmicas, nomeadamente recursividade, pesquisa com retrocesso e dividir-para-conquistar.</li><br /><li>fazer a análise de complexidade de algoritmos e identificar as principais classes de complexidade (competência básica).</li><br /><li>aplicar os conhecimentos na resolução prática de problemas concretos.</li><br /></ul>
+
+## Pré-requisitos e co-requisitos
+Possuir competência básica de programação normalmente adquirida nas unidades curriculares de programação do 1º ano.
+
+## Programa
+<ol><br /><li>Conceitos fundamentias da linguagem Java: classes, objectos, atributos e métodos; tipos primitivos, Strings, wrappers, arrays e tipos enumerados; expressões, operadores e instruções de controle de fluxo; Input/Output e a classe Scanner; pacotes e biblioteca padrão do Java; princípios de desenvolvimento de software, estilo e documentação.</li><br /><li>Princípios de programação orientada aos objectos: padrões e mecanismo de herança, hierarquia de classes, polimorfismo, interfaces e Tipos Abstractos de Dados (TADs), uso de genéricos e iteradores.</li><br /><li>Noções básicas de análise de algoritmos: análise asintótica; classes de complexidade típicas e sua comparação; exemplos de análise de algoritmos.</li><br /><li>Técnicas de desenho de algoritmos: programação estruturada; recursividade; pesquisa exaustiva e backtracking; dividir para conquistar.</li><br /><li>Estruturas de dados fundamentais: vectores e matrizes; listas ligadas simples, circulares e duplamente ligadas; árvores binárias, árvores de pesquisa e heaps.</li><br /><li>Tipos Abstractos de Dados e suas possíveis implementações: sequências, pilhas, filas, e deques; contentores associativos: conjuntos e dicionários; filas de prioridade.</li><br /><li>Métodos de ordenação: inserção, bolha, merge-sort, quicksort.</li><br /><li>Métodos de pesquisa: pesquisa binária em vectores ordenados, pesquisa em listas, pesquisa em profundidade e em largura em árvores.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p class="p1"><strong>Aulas Teóricas</strong></p>
+<p>Exposição dos conceitos associados à programação orientada a objectos, estruturas de dados e algoritmos associados. Resolução de problemas de aplicação prática das estruturas de dados e algoritmos dados.</p>
+<p class="p1"><strong>Aulas Práticas</strong><br /> As aulas práticas serão usadas para apoio aos estudantes nas dúvidas concretas que apresentem sobre a resolução dos exercícios propostos. As aulas envolverão:</p>
+<ul>
+<li>O uso da <strong>linguagem de programação Java</strong>.</li>
+<li>A resolução de exercícios propostos para treino de programação.</li>
+<li>A resolução de exercícios propostos para efeitos de avaliação.</li>
+<li>A resolução de quizzes de escolha múltipla para efeitos de obtenção de frequência.</li>
+</ul>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Teste: 25.0 %
+- Participação presencial: 5.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 48.0 horas
+- Estudo autónomo: 66.0 horas
+- Trabalho laboratorial: 48.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação tem em conta as seguintes provas:</p>
+<ul>
+<li>(<strong>E</strong>) <strong> Exame escrito (época normal e recurso):</strong> 70% da nota-final.<br /> Avaliação teórico-prática sem recurso a consulta ou computador, classificada de 0 a 20.</li>
+<li>(<strong>P</strong>) <strong>Prática de resolução de problemas (2 avaliações práticas):</strong> 25% da nota final.<br /> Cada avaliação prática valerá 2.5 valores. Os problemas serão de dificuldade similar aos problemas de treino disponibilizados nas aulas práticas.</li>
+<li>(<strong>R</strong>) <strong>Resolução de exercícios</strong> durante o semestre (exercícios das aulas #2 a #12): 5% da nota final, i.e. máximo de 1 valor.</li>
+</ul>
+<p>Classificação final (escala de 0 a 20): (<strong>CF = 0.7*E+P+R</strong>).</p>
+<p>Ficam aprovados os estudantes que satisfaçam as seguintes condições:</p>
+<ul>
+<li><strong>E &#8805; 7</strong> valores,</li>
+<li><strong>CF &#8805; 9.5</strong> valores.</li>
+</ul>
+<p>Na época de recurso não é possível repetir a componente prática de avaliação, ou seja as componentes <strong>P</strong> e <strong>R</strong>.</p>
+
+## Obtenção de frequência
+<p>Perdem frequência os estudantes que não tenham respondido a pelo menos 50% dos questionários online (quizzes) e uma assiduidade às aulas superior a 50% das aulas dadas.</p>
+
+## Melhoria de classificação
+<p>Na época de recurso da apenas pode ser melhorada a componente de exame (E).</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Data Structures
+
+## Curso responsável
+Bachelor in Computer Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+Reinforce students' programming skills, with an emphasis on the design and implementation of some of the main data structures and corresponding algorithms. An object-oriented methodology will be used with Java as the programming language. Concepts of efficiency and algorithm complexity analysis will be introduced.
+
+## Resultados de aprendizagem e competências
+<p>Upon completing this course, students should be able to:</p>
+<ul>
+<li>use the basic principles of an object-oriented programming language, particularly inheritance, polymorphism, interfaces, collection-type classes, and iterators.</li>
+<li>write classes that implement linear data structures, such as lists, stacks, queues, sets, dictionaries, hash tables, and binary trees.</li>
+<li>use an API that implements lists, stacks, queues, sets, and hash tables.</li>
+<li>develop basic algorithms associated with the studied data structures.</li>
+<li>use some algorithmic techniques, particularly recursion, backtracking, and divide-and-conquer.</li>
+<li>perform complexity analysis of algorithms and identify the main complexity classes (basic competency).</li>
+<li>apply their knowledge to the practical resolution of concrete and real-world problems.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Possess basic programming skills, typically acquired in the first-year programming courses.
+
+## Programa
+<ol><br /><li>Fundamental Java concepts: classes, objects, attributes, and methods; primitive types, Strings, wrappers, arrays, and enumerated types; expressions, operators, and control flow statements; Input/Output and the Scanner class; Java packages and standard library; principles of software development, style, and documentation.</li><br /><li>Principles of object-oriented programming: inheritance patterns and mechanism, class hierarchy, polymorphism, interfaces, and Abstract Data Types (ADTs); use of generics and iterators.</li><br /><li>Basic notions of algorithm analysis: asymptotic analysis; typical complexity classes and their comparison; examples of algorithm analysis.</li><br /><li>Algorithm design techniques: structured programming; recursion; exhaustive search and backtracking; divide-and-conquer.</li><br /><li>Fundamental data structures: arrays and matrices; singly linked, circular, and doubly linked lists; binary trees, search trees, and heaps.</li><br /><li>Abstract Data Types and their possible implementations: sequences, stacks, queues, and deques; associative containers: sets and dictionaries; priority queues.</li><br /><li>Sorting methods: insertion sort, bubble sort, merge sort, quicksort.</li><br /><li>Search methods: binary search in ordered arrays, list search, depth-first and breadth-first search in trees.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><strong>Theoretical Classes</strong></p>
+<p>Presentation of concepts related to object-oriented programming, data structures, and associated algorithms. Solving practical problems involving the application of given data structures and algorithms.</p>
+<p><strong>Practical Classes</strong></p>
+<p>The practical classes will be used to support students in addressing specific questions they may have regarding the resolution of the proposed exercises. The classes will involve:</p>
+<ul>
+<li>The use of the Java programming language.</li>
+<li>The resolution of proposed exercises for programming practice.</li>
+<li>The resolution of proposed exercises for assessment purposes.</li>
+<li>The completion of multiple-choice quizzes for attendance purposes.</li>
+</ul>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Teste: 25.0 %
+- Participação presencial: 5.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 48.0 hours
+- Estudo autónomo: 66.0 hours
+- Trabalho laboratorial: 48.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The evaluation takes into account the following assessments:</p>
+<ul>
+<li>
+<p>(<strong>E</strong>) Written exam (regular and resit periods): 70% of the final grade.<br />Theoretical-practical assessment without consultation or use of a computer, graded from 0 to 20 points.</p>
+</li>
+<li>
+<p>(<strong>P</strong>) Problem-solving practice (2 practical assessments): 25% of the final grade.<br />Each practical assessment will be worth 2.5 points. The problems will be of similar difficulty to the training exercises provided in practical classes.</p>
+</li>
+<li>
+<p>(<strong>R</strong>) Resolution of exercises during the semester (exercises from classes #2 to #12): 5% of the final grade, i.e., a maximum of 1 point.</p>
+</li>
+</ul>
+<p>Final grade (on a scale from 0 to 20): (<strong>CF = 0.7*E + P + R)</strong>.</p>
+<p>Students will pass if they meet the following conditions:</p>
+<ul>
+<li><strong>E &#8805; 7</strong> points,</li>
+<li><strong>CF &#8805; 9.5</strong> points.</li>
+</ul>
+<p>In the resit period,  the practical assessment components, P and R, will still count and cannot be improved.</p>
+
+## Obtenção de frequência
+Students will lose course credit if they have not completed at least 50% of the online quizzes and have an attendance rate lower than 50% of the total classes.
+
+## Melhoria de classificação
+n the resit period, only the exam component (E) can be improved.
+

@@ -1,0 +1,114 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Mecânica da Fratura e Fadiga
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>A disciplina visa fornecer conhecimentos relativos à avaliação da integridade estrutural de construções mecânicas, na possível presença de fendas. Os conhecimentos a adquirir são relevantes quer para o projecto de equipamentos tomando em consideração a sua danificação em serviço, nomeadamente por fadiga, quer para a interpretação de causas de falhas estruturais ('failure analysis'). Espera-se que os alunos aprovados desenvolvam nomeadamente a capacidade de:</p>
+<p>- selecionar os critérios e os procedimentos relevantes para a avaliação da integridade estrutural de componentes mecânicos, de estruturas e ligações estruturais contendo fendas, e realizar essa avaliação;</p>
+<p>- proceder e coordenar a análise de causas de rotura por fractura e fadiga, em casos reais;</p>
+<p>- interpretar criticamente a literatura relevante, incluindo códigos e normas, e as partes de códigos e normas, que tratam o problema da fractura e fadiga.</p>
+
+## Resultados de aprendizagem e competências
+<p>- selecionar os critérios e os procedimentos relevantes, para a avaliação da integridade estrutural de componentes mecânicos, de estruturas e ligações estruturais contendo fendas, e realizar essa avaliação;</p>
+<p>- proceder e coordenar a análise de causas de rotura por fractura e fadiga, em casos reais;</p>
+<p>- interpretar criticamente a literatura relevante, nomeadamente artigos técnicos, os códigos e normas, e as partes de códigos e normas, que tratam o problema da fractura e fadiga.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Conhecimento, e gosto pelos assuntos: mecânica dos sólidos; teoria da elasticidade; método dos elementos finitos.</p>
+
+## Programa
+<p>1. Mecânica da Fractura Linear Elástica. Análise de tensões na extremidade de fissuras. O conceito de factor de intensidade de tensão, K. Métodos energéticos. O conceito de taxa de libertação de energia, G. Relações entre K e G. Região plástica na extremidade de fissuras. Estado plano de tensão e de deformação. Fissura elástica equivalente. Tenacidade em estado de deformação plano - KIc. A norma ASTM E399. Curva de resistência e estabilidade da propagação de fissuras. Determinação experimental da tenacidade. 2. Mecânica da Fractura Elasto-Plástica. O modelo de Dugdale. Crack Opening Displacement - ensaios e normalização. A Welding Institute Design Curve. O integral J. Relações COD - J. 3. Propagação estável de fissuras: fadiga e corrosão sob tensão. Lei de Paris. O conceito de limiar de propagação. Relações entre os ensaios SN (Wohler) e os ensaios de Mecânica da Fractura. 4. Aplicação da Mecânica da Fractura a Materiais Compósitos. 5. Análise de roturas (failure analysis). O critério CEGB R6. 6. Mecânica da fractura computacional. Cálculo do integral J, da taxa de libertação de energia e do factor de intensidade de tensão.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas são essencialmente teórico-práticas. Existe uma sessão de laboratório, em que os alunos contactam com equipamento e procedimentos de ensaio. Adicionalmente, são apresentados e discutidos com os alunos trabalhos de ID em curso.</p>
+
+## Tipo de avaliação
+Avaliação por exame final
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 69.5 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação resulta do desempenho no exame.<br /><br />As classificações iguais ou superiores a 18 valores estão sujeitas à realização de uma prova oral.</p>
+
+## Obtenção de frequência
+<p>---</p>
+
+## Melhoria de classificação
+<p>---</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Fracture Mechanics and Fatigue
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>This course aims to acquaint students with concepts and techniques for the structural integrity assessment of mechanical constructions in the presence of cracks. The course is relevant for the design of equipment taking into account fatigue and for the  interpretation of the causes of structural failure (&#8220;failure analysis&#8221;). By the end of the semester, students should be capable of:</p>
+<p>- selecting procedures to assess the structural integrity of mechanical components, structures, and structural connections with cracks;</p>
+<p>- coordinating the analysis of the causes by fracture and fatigue in real cases;</p>
+<p>- to understand the relevant technical literature, including standards, codes, and parts of standards and of codes associated with fracture and fatigue.</p>
+
+## Resultados de aprendizagem e competências
+<p>- select procedures to and carry out the assessment of the structural integrity of mechanical components, structures, and structural connections with cracks;</p>
+<p>- coordinate the analysis of the causes by fracture and fatigue in real cases;</p>
+<p>- to understand the relevant technical literature, namely technical papers, standards, codes, and parts of standards and of codes associated with fracture and fatigue.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Knowledge and particular liking for the subjects: solid mechanics, theory of elasticity, and finite elements method.</p>
+
+## Programa
+<p>1. Linear elastic fracture mechanics; stress analysis of cracks; concept of stress intensity factor, K; energy methods; concept of strain energy release rate G; Relations between K and G; plastic region in crack tips; state of plane stress and plane strain; equivalent elastic crack;  plane strain fracture toughness  KIC; ASTM E339 standard; resistance R-curve and stable propagation of cracks; experimental toughness measurement; 2. Elasto-plastic fracture mechanics; Dugdale&#8217;s method; crack opening displacement COD - tests and standards; The Welding Institute (TWI) design curve; Relationship between J-integral and COD; 3. stable crack propagation: fatigue and stress corrosion cracking; Paris&#8217; law; concept of threshold for crack propagation; relationship between SN tests (Wohler) and fracture mechanics tests; 4. Application of fracture mechanics to composite material; 5. Failure analysis; CEBG R6 procedure; 6. Computational fracture mechanics; calculation of J integral, strain energy release rate and stress intensity factor.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Lectures; tutorials; combined lectures and tutorials; sessions in PC rooms; visit to laboratories.</p>
+
+## Tipo de avaliação
+Evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 69.5 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The course final mark will be based on the final exam.<br /><br />Marks equal to or higher than 18 are subjected to an oral exam.</p>
+
+## Obtenção de frequência
+<p>---</p>
+
+## Melhoria de classificação
+<p>---</p>
+

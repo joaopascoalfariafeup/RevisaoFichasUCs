@@ -1,0 +1,116 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Introdução à Programação
+
+## Curso responsável
+Licenciatura em Ciência de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>Introdução à programação de computadores usando a linguagem Python.</p>
+<p>Noções fundamentais de programação: variáveis, tipos, operadores e expressões; funções e procedimentos; instruções condicionais e de seleção; iteração e recursão, leitura e escrita.</p>
+<p>Estruturas de dados e algoritmos fundamentais: listas, dicionários, tuplos; pesquisa e processamento de dados, ordenação; problemas e aplicações.</p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>No final do curso, os estudantes devem ser capazes de:<br /><br />1. saber escrever e interpretar programas para resolver problemas simples;<br />2. decompor problemas em sub-tarefas passíveis de implementação como sub-programas reutilizáveis;<br />3. testar e corrigir erros em programas<br />4. conhecer e manipular as estruturas de dados e algoritmos fundamentais e saber como aplicá-las em problemas concretos.</p>
+
+## Programa
+<p>1. Introdução à linguagem Python: variáveis, tipos, operadores e expressões; <br />2. Condições e valores lógicos; instruções de execução condicional;<br />3. Ciclos e iteração;<br />4. Funções, <em>scope</em> de variáveis;<br />5. Módulos e bibliotecas padrão do Python;<br />6. Estruturas de dados fundamentais: listas, dicionários, tuplos;<br />7. Escrita e leitura de dados;<br />8. Recursão;<br />9. Análise e deteção de erros (<em>debugging</em>);<br />10. Breve introdução à programação orientada a objetos.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Exposição teórico-prática, com análise e discussão de problemas e programas.</p>
+<p>Aulas práticas para resolução de exercícios, com utilização de ferramentas de avaliação automática.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Teste: 40.0 %
+- Trabalho laboratorial: 10.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 48.0 horas
+- Trabalho laboratorial: 60.0 horas
+- Estudo autónomo: 54.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><strong>A</strong> - Exercícios ao longo das aulas<br /><br /><strong>T1</strong> - 1º Teste Prático<br /><br /><strong>T2</strong> - 2º Teste Prático<br /><br /><strong>E</strong> - Exame Final<br /><br /><strong>Nota final:</strong> A*0.1 + T1*0.2 + T2*0.2 + E*0.5<br /><br /><strong>Notas:</strong> Não existe nota mínima em nenhum componente. Será permitida aos alunos a <strong>melhoria de um dos Testes Práticos (T1 ou T2, 20%)</strong> antes da época de exames.</p>
+
+## Obtenção de frequência
+<p>Presença em pelo menos 3/4 (75%) das aulas práticas.<br /><br /></p>
+
+## Melhoria de classificação
+Melhorias do ano anterior serão feitas através de um exame escrito - <strong>Exame (100%).</strong><br /><br />Um estudante pode melhorar a componente <strong>E</strong> <strong>(exame, 50%)</strong> na época de recurso. Será igualmente permitida aos alunos a <strong>melhoria de um dos Testes Práticos (T1 ou T2, 20%)</strong> antes da época de exames.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Introduction to Programming
+
+## Curso responsável
+Bachelor in Computer Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>Introduction to computer programming using Python.</p>
+<p>Fundamental programming concepts: variables, types, operators, and expressions; functions and procedures; conditional and selection statements; iteration and recursion, data reading and writing.</p>
+<p>Data structures and fundamental algorithms: lists, dictionaries, tuples; search, sorting, and data processing; problems and applications.</p>
+
+## Resultados de aprendizagem e competências
+<p>By the end of the course, students should be able to:<br /><br />1. write and interpret programs to solve simple problems;<br />2. divide problems into sub-tasks that can be implemented as reusable sub-programs;<br />3. test and debug programs;<br />4. understand and manipulate fundamental data structures and algorithms, and know how to apply them to concrete problems.</p>
+
+## Programa
+1. Introduction to Python: variables, types, operators, and expressions;<br />2. Conditions and logical values; conditional execution statements;<br />3. Loops and iteration;<br />4. Functions, variable scope;<br />5. Modules and standard Python libraries;<br />6. Fundamental data structures: lists, dictionaries, tuples;<br />7. Data reading and writing;<br />8. Recursion;<br />9. Error analysis and detection (debugging);<br />10. Brief introduction to object-oriented programming.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical-practical classes, with analysis and discussion of problems and programs.</p>
+<p>Practical classes for solving exercises, using automatic code evaluation tools.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Teste: 40.0 %
+- Trabalho laboratorial: 10.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 48.0 hours
+- Trabalho laboratorial: 60.0 hours
+- Estudo autónomo: 54.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><strong>A </strong>- Exercises during classes</p>
+<p><strong>T1 </strong>- 1st Practical Test</p>
+<p><strong>T2 </strong>- 2nd Practical Test</p>
+<p><strong>E </strong>- Final Exam</p>
+<p><strong>Final grade: </strong>A*0.1 + T1*0.2 + T2*0.2 + E*0.5</p>
+<p><strong>Notes:</strong> There is no minimum grade requirement for any component. Students <strong>will be allowed to improve one of the Practical Tests (T1 or T2, 20%)</strong> before the exam period.</p>
+
+## Obtenção de frequência
+<p>Attendance of at least 3/4 (75%) of the practical classes.<br /><br /></p>
+
+## Melhoria de classificação
+<p>Improvements from the previous year will be made through a written exam - <strong>Exam (100%)</strong>.<br /><br />Students enrolled in the current year may improve the <strong>E (exam, 50%) </strong>component. Note that students <strong>will be allowed to improve one of the Practical Tests (T1 or T2, 20%)</strong> before the exam period.</p>
+

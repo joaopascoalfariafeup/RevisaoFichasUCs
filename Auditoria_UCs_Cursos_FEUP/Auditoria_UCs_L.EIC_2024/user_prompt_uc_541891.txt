@@ -1,0 +1,197 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Compiladores
+
+## Curso responsável
+Licenciatura em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>Fornecer os conceitos que permitam:</p>
+<ul>
+<li>compreender as fases de compilação de linguagens, em especial das linguagens imperativas e orientada por objectos;</li>
+<li>especificar a sintaxe e semântica de uma linguagem de programação;</li>
+<li>compreender e utilizar as estruturas de dados e os algoritmos principais usados na implementação de compiladores;</li>
+<li>realizar a engenharia de um compilador como projecto software de larga escala</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p>As competências adquiridas permitirão aos estudantes:</p>
+<ul style="list-style-type: square;">
+<li>desenvolver e implementar em software processadores de linguagens artificiais e de informação especificada textualmente segundo determinadas regras lexicais e sintácticas;</li>
+<li>conceber e implementar em software as várias etapas relacionadas com compiladores, nomeadamente:</li>
+<ul>
+<li>expressões regulares e autómatos finitos;</li>
+<li>analisadores sintácticos e semânticos;</li>
+<li>analisadores semânticos;</li>
+<li>ambientes de execução e máquinas virtuais;</li>
+<li>geração de código intermédio e estruturas de suporte de análise (tabela de simbolos);</li>
+<li>analise de fluxo de dados e de controle e optimizações de código;</li>
+<li>geradores de código para processadores ou para máquinas virtuais;</li>
+</ul>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<ul><br /><li><span lang=&quot;PT&quot; style=&quot;font-family: 'Trebuchet MS','sans-serif'; font-size: 9pt;&quot;>Linguagens de programação imperativas, orientadas por objetos.</span></li><br /><li><span lang=&quot;PT&quot; style=&quot;font-family: 'Trebuchet MS','sans-serif'; font-size: 9pt;&quot;>Algoritmos e estruturas de dados.</span></li><br /><li><span lang=&quot;PT&quot; style=&quot;font-family: 'Trebuchet MS','sans-serif'; font-size: 9pt;&quot;>Teoria da Computação.</span></li><br /><li><span lang=&quot;PT&quot; style=&quot;font-family: 'Trebuchet MS','sans-serif'; font-size: 9pt;&quot;>Arquitectura de Computadores.</span></li><br /></ul>
+
+## Programa
+<ul><br /><li>Introdução. Fases da compilação e estrutura típica de um compilador.</li><br /><li>Análise lexical. Expressões regulares e autómatos finitos.</li><br /><li>Análise sintáctica. Gramáticas. Implementação de analisadores sintácticos. Tratamento de erros.</li><br /><li>Análise semântica. Implementação de analisadores semânticos. Verificação de tipos.</li><br /><li>Ambientes de execução. Organização de memória e mecanismos para a passagem de parâmetros.</li><br /><li>Geração de código intermédio de baixo e de alto-nível.</li><br /><li>Escalonamento e alocação de registos.</li><br /><li>Análise de fluxo de dados e controle - blocos básicos.</li><br /><li>Transformação (optimização) de código.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>Aulas teóricas: exposição dos assuntos, acompanhada por exemplos e pela apresentação de pistas para resolução dos problemas das aulas práticas e do trabalho prático ou projecto de programação.</li><br /><li>Aulas teórico-práticas: resolução de problemas e discussão de questões relacionadas com o trabalho prático.</li><br /></ul>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 50.0 %
+- Trabalho laboratorial: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 50.0 horas
+- Estudo autónomo: 56.0 horas
+- Frequência das aulas: 56.0 horas
+
+## Fórmula de cálculo da classificação final
+<p style="font-weight: 400;">Caso, uma das componentes não tenha classificação supoerior ou igual a 8.0, o estudante é reprovado por falta de componente, e elegível para recurso em que poderá repescar essa componente, ou componentes em falta. </p>
+<p class="">Para obtenção de aprovação: nota final &gt;= 9.5 e nota de cada um dos dois testes (T1 e T2) &gt;= 8.0. <strong class=""><br /><br />Nota final - componentes e fórmula de cálculo </strong>(todas as classificações de 0 a 20)</p>
+<ul class="">
+<li class="">T1: nota no primeiro teste (e correspondente melhoria M1)</li>
+<li class="">T2: nota no segundo teste (e correspondente melhoria M2)</li>
+<li class="">PRJ: projeto do compilador</li>
+<li class=""><span class="">Nota de avaliação contínua (AC) = 0.5 * T1 + 0.5 * T2</span></li>
+<li class=""><strong class="">Nota final (NF) </strong>=</li>
+<ul class="">
+<li class=""><span style="color: #333333; font-family: 'Trebuchet MS', Arial, sans-serif;"><span class="">If abs(AC-PRJ) &gt; 4.0 Then NF = minimo(AC,PRJ) + 2.0</span></span></li>
+<li class="">case contrário, NF = 0.5 * AC + 0.5 * PRJ</li>
+</ul>
+</ul>
+<p class="">Componentes que contribuem para a classificação do projeto (PRJ):</p>
+<ul class="">
+<li class="">Avaliação intermédia do projeto (1:10% e 2:20%): 25%</li>
+<li class="">Trabalho final: 60%</li>
+<li class="">Presentação/discussão do trabalho: 15%</li>
+</ul>
+<div class=""> </div>
+<div class=""> </div>
+Os elementos de classificação de anos anteriores não podem ser reutilizados.
+<div class=""><span class=""><br />Os testes (T1 e T2) e o exame de melhoria (M1 e M2) são provas com consulta limitada </span>a 1 folha tamanho A4 com notas frente e verso.</div>
+
+## Obtenção de frequência
+<p style="font-weight: 400;">A aferição de frequência nesta UC incide apenas nas componentes de projectos de grupo de programação em que a classificação mínima no projecto é de 8.0.</p>
+<p style="font-weight: 400;">A não obtenção da classificação de 8.0 valores num dos dois projectos resulta na reprovação da UC com RFF uma vez que a classificação dos projectos não é passível de melhoria. A não obtenção de classificação de 8.0 valores num dos dois testes resulta na reprovação `a UC com RFF.</p>
+<p style="font-weight: 400;">Não há requisitos de presença nas aulas TP `a excepção nas aulas em que há demonstração dos projectos (demo).</p>
+<p style="font-weight: 400;"><u>Não são aceites classificações de qualquer elemento de classificação de anos anteriores.</u></p>
+
+## Melhoria de classificação
+<p style="font-weight: 400;"> </p>
+<p style="font-weight: 400;">A melhoria de classificação é feita através de um exame escrito (exame global), <u>a realizar na época de recurso</u>, sobre toda a matéria lecionada durante o semestre.</p>
+<p style="font-weight: 400;">Não é possível melhorar a classificação de testes individuais, nem dos trabalhos práticos realizados.</p>
+<p style="font-weight: 400;">Não é permitida a melhoria por frequência.</p>
+<p style="font-weight: 400;"> </p>
+<p style="font-weight: 400;">A inscrição no exame de melhoria de classificação está sujeita ao pagamento de um emolumento, de acordo com os valores indicados na Tabela de Emolumentos da Universidade do Porto, que deve ser liquidado <u>previamente à realização do exame.</u></p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Compilers
+
+## Curso responsável
+Bachelor in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>Provide concepts that allow to:</p>
+<ul>
+<li>understand the languages&#8217; compilation phases, in particular for imperative and object-oriented (OO) languages;</li>
+<li>specify the syntax and semantics of a programming language;</li>
+<li>understand and use the data structures and the main algorithms used to implement compilers;</li>
+<li>engineering a compiler as a large-scale software project</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p>The skills and learning outcomes will allow students to:</p>
+<ul>
+<li>develop and implement in software language processing systems of artificial languages and information textually specified under certain lexical and grammar rules;</li>
+<li>design and implement in software the various compiler stages, namely:</li>
+<ul>
+<li>regular expressions and finite automata;</li>
+<li>syntactic and semantic analyzers;</li>
+<li>semantic analyzers;</li>
+<li>execution environments and virtual machines;</li>
+<li>intermediate code generation and symbol tables;</li>
+<li>data-flow and control-flow analysis and code optimization;</li>
+<li>code generators having processors or virtual machines as a target;</li>
+</ul>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<ul><br /><li><span style=&quot;font-family: 'Trebuchet MS','sans-serif'; font-size: 9pt; mso-ansi-language: EN-US;&quot;>Imperative programming languages, object-oriented programming languages.</span></li><br /><li><span style=&quot;font-family: 'Trebuchet MS','sans-serif'; font-size: 9pt; mso-ansi-language: EN-US;&quot;>Data structures and algorithms.</span></li><br /><li><span style=&quot;font-family: 'Trebuchet MS','sans-serif'; font-size: 9pt; mso-ansi-language: EN-US;&quot;>Theory of Computation.</span></li><br /><li><span style=&quot;font-family: 'Trebuchet MS','sans-serif'; font-size: 9pt; mso-ansi-language: EN-US;&quot;>Computer Architecture.</span></li><br /></ul>
+
+## Programa
+<ul><br /><li>Introduction. Compilation phases and typical structure of a compiler.</li><br /><li>Lexical analysis. Regular expressions and finite automaton. - Syntax analysis. Grammars. Syntax analysis&#8217; algorithms. Error handling.</li><br /><li>Semantic analysis. Type checking.</li><br /><li>Execution environments. Memory organization and schemes for parameter passing.</li><br /><li>High and Low-level intermediate representations. Intermediate code generation techniques.</li><br /><li>Scheduling and Register allocation.</li><br /><li>Program analysis (control and data-flow); basic blocks.</li><br /><li>Code transformations (optimizations).</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>Lectures: presentations, complemented by examples, demonstrations, and hints for the lab/programming project work. </li><br /><li>Labs: exercises and discussions and problem solving related to the practical work or programming project.</li><br /></ul>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 50.0 %
+- Trabalho laboratorial: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 50.0 hours
+- Estudo autónomo: 56.0 hours
+- Frequência das aulas: 56.0 hours
+
+## Fórmula de cálculo da classificação final
+<p style="font-weight: 400;">In case the students does not meet the minimum grade of 8.0 in one of the grading components, he/she will be automatically enrolled in the &#8220;make-up&#8221; (&#8220;recurso&#8221;) term in which he/she will have to make-up for that component.</p>
+<p id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tradução"><span class="Y2IQFc" lang="en"><br />Passing grade: FG &gt;= 9.5 and each T1 and T2 grade (T1 and T2) &gt;= 8.0. <br /><br />Final Grade components and calculation (all scores from 0 to 20) <br /></span></p>
+<ul>
+<li>T1: first test grade (and corresponding MkUp1)</li>
+<li>T2: second test grade (and corresponding MkUp2)</li>
+<li>PRJ: compiler project grade</li>
+<li>Continuous Assessment grade (CA) = 0.5*T1 + 0.5*T2</li>
+<li>Final Grade (FG) =</li>
+<ul>
+<li>If abs(CA-PRJ) &gt; 4.0 then FG = minimum(CA,PRJ) + 2.0 Otherwise, FG = 0.5 * CA + 0.5 * PRJ</li>
+</ul>
+</ul>
+<br /> Components that contribute to the project classification (PRJ):
+<ul>
+<li>Checkpoints (1: 10% and 2: 15%): 25%</li>
+<li>Final work: 60%</li>
+<li>Presentation/discussion of the work: 15% </li>
+</ul>
+<br />No grading component from a previous years can be used.<br /><br /> The tests (T1 and T2) and the make-up tests (MkUp1 and MkUp2) will include the use of auxiliary personal notes limited to 1 A4 size sheet with double-sided notes.
+<p> </p>
+
+## Obtenção de frequência
+<p style="font-weight: 400;">For the purposes of being eligible for grading, the only requirement is that students have a grade of at least 8.0 i the group programming projects. Failure to meet this requirement results in a Fail grade in the class with RFF as you cannot make-up the grade of a programming project. Failure to meet the minimum grade requirements in one of the tests also results in a RFF grade.</p>
+<p style="font-weight: 400;">There is no attendance requirement for the TP classes except for the demo of the programming project which all the elements of each group must attend, in person.</p>
+<p style="font-weight: 400;"><u>No grades from the previous years for any of the grading elements are accepted towards this year&#8217;s final grade credit.</u></p>
+
+## Melhoria de classificação
+Grade make-up is possible only regarding the written tests' grade component, through a single global exam that covers all the class material. It is not possible to make-up of the individual tests's grades. It is not possible to make-up Programming Projects grades.<br /><br />Enrollment in the make-up exam requires an enrollment with the Academic Records Office in accordance with the Regulations of the University of Porto. Proof of payment is required before taking the Make-Up exam.
+

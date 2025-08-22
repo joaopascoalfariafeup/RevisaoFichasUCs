@@ -1,0 +1,131 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Arquitetura de Sistemas de Software
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>À medida que os sistemas de software aumentam de dimensão e de complexidade torna-se cada vez mais importante compreendê-los a níveis de abstracção mais elevados. A arquitectura de um sistema de software descreve a sua estrutura global em termos dos seus componentes, das propriedades externas desses componentes e das suas interrelações. Para sistemas de média e grande dimensão a escolha adequada da arquitectura assume uma importância crucial para o sucesso do seu desenvolvimento.</p>
+<p>A disciplina de Arquitecturas de Sistemas de Software tem como objectivo principal introduzir os conceitos de arquitecturas de software, padrões de desenho e tópicos directamente relacionados, tais como o de componentes de software. Pretende ensinar a desenhar, compreender e avaliar arquitecturas de sistemas de software, tanto ao nível de abstracção de macro-arquitectura como de micro-arquitectura e assim familiarizar os alunos com os conceitos fundamentais de arquitectura de software, as propriedades e aplicabilidade dos diferentes estilos de arquitectura existentes, os padrões de desenho mais populares, componentes de software, arquitecturas reutilizáveis e as relações destes conceitos todos com a reutilização de software.</p>
+
+## Resultados de aprendizagem e competências
+<p>No final da disciplina os alunos deverão ser capazes de:</p>
+&#8226; Reconhecer os principais padrões de arquitetura existentes para sistemas de software.<br /> &#8226; Descrever uma arquitetura de forma precisa.<br /> &#8226; Idealizar diferentes arquiteturas alternativas para resolver um mesmo problema e avaliar de forma justificada qual é a melhor em função dos atributos de qualidade que suporta.<br /> &#8226; Reconhecer e compreender diversos padrões de desenho.<br /> &#8226; Conhecer e aplicar diversos métodos e técnicas de reutilização de software.<br /> &#8226; Identificar os fatores chave no desenho de arquiteturas de software evoluíveis.<br /> &#8226; Desenhar um plano de migração entre diferentes tipos de arquitetura.<br /> &#8226; Construir um sistema de software de média dimensão de acordo com uma especificação de requisitos, selecionando e aplicando padrões de desenho e de arquitetura, usando um método de desenvolvimento baseado em componentes e tecnologias recentes.<br /> &#8226; Utilizar ferramentas que tornem mais expedita a realização das tarefas de desenvolvimento.
+
+## Pré-requisitos e co-requisitos
+<p>Os alunos devem ter conhecimentos e experiência anterior em desenvolvimento de software, programação orientada por objectos, e engenharia de software.</p>
+
+## Programa
+<p><strong>Introdução</strong></p>
+&#8226; Desenho de software: conceitos e princípios fundamentais<br /> &#8226; O que é arquitetura de software?<br /> &#8226; A importância da arquitetura de software<br /> &#8226; Design a múltiplos níveis, do macro ao micro: estilos arquiteturais e padrões de arquitetura, padrões de desenho e idiomas<br />
+<p><strong> Padrões de Software</strong></p>
+&#8226; As origens dos padrões de software<br /> &#8226; Exemplos de padrões de desenho (GoF)<br /> &#8226; Exemplos de padrões de arquitetura (POSA)<br /> &#8226; Refatoração para padrões<br />
+<p><strong> Arquiteturas de Software</strong></p>
+&#8226; Atributos de qualidade<br /> &#8226; Avaliando arquiteturas: funções objetivo<br /> &#8226; Desenhando para atributos de qualidade: táticas<br /> &#8226; Representação e Documentação de arquiteturas de software<br /> &#8226; Reutilização de arquiteturas de software: linhas de produção, frameworks, componentes de software<br />
+<p><strong>Arquiteturas de Software Evolucionárias</strong></p>
+&#8226; Lei de Conway<br /> &#8226; Mudança incremental<br /> &#8226; Acoplamento arquitetural<br /> &#8226; Evolução de dados<br /> &#8226; Construção de arquiteturas evoluíveis<br /> &#8226; Refatoração arquitetural<br /> &#8226; Microserviços, exemplo de uma arquitetura desenhada para a evolução
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas serão utilizadas para a exposição formal dos principais tópicos da unidade curricular e para a apresentação final e discussão dos projetos desenvolvidos pelos estudantes ao longo do semestre. Para focar a atenção dos estudantes, nos tópicos principais serão propostas pequenas questões de resposta facultativa e livre sobre os tópicos em estudo para desenvolvimento fora de aulas. Ao longo do semestre os estudantes  terão oportunidade de colocar em prática os conhecimentos transmitidos através de pequenos exercícios e desenvolvimento incremental de um projeto de média dimensão. As questões, os exercícios e o projeto conjuntamente incentivarão os estudantes  a complementar os conhecimentos transmitidos com conhecimentos resultantes de pesquisas individuais efetuadas sobre os conteúdos da unidade curricular.</p>
+<p> </p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 10.0 %
+- Teste: 30.0 %
+- Trabalho escrito: 30.0 %
+- Trabalho laboratorial: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 20.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 100.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Nota final = (teste x 30%) + (projecto x 60%) + (desempenho individual x 10%).</p>
+
+## Obtenção de frequência
+Obtenção de pelo menos 50% da avaliação nas componentes <em>teste</em>, <em>trabalho escrito</em> e <em>trabalho laboratorial</em>.
+
+## Melhoria de classificação
+<p>A classificação final pode ser melhorada através de repetição do teste (em casos excepcionais devidamente justificados) e/ou evolução do projecto.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Software Systems Architecture
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>As the dimension and complexity of software systems grows, it becomes more important to understand them at more advanced abstraction levels. The architecture of a software system describes the global structure in terms of its components, external proprieties and its interrelations. For medium and big-dimension systems, to chose the right architecture becomes crucial to the success of its development.</p>
+<p>This course aims to introduce the concepts of software architectures, design patterns and topics directly related, such as the software components&#8217; one. Furthermore, it aims to teach how to design, understand and evaluate software systems architectures both at the level of abstraction of macro-architecture and micro-architecture. All this to familiarize the students with the fundamental concepts of software architecture, the proprieties and applicability of the different architecture styles, the most popular design patterns, software components, reusable architectures and the relations of all these concepts with the software reuse.</p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of the year, the students must be able to:</p>
+&#8226; Recognize the main existing architectural patterns for software systems.<br /> &#8226; Describe an architecture accurately.<br /> &#8226; Design different alternative architectures to solve the same problem and evaluate (justifying) which one is best for the quality attributes that each supports.<br /> &#8226; Recognize and understand several design patterns.<br /> &#8226; Understand and apply several methods and techniques of software reuse.<br /> &#8226; Identify the key factors in designing evolvable software architectures.<br /> &#8226; Design a migration plan between different types of architecture.<br /> &#8226; Build a medium-sized software system following a requirements specification by selecting and applying design and architectural patterns and using component-based development and recent technologies.<br /> &#8226; Use tools that can make development tasks more efficient.
+
+## Pré-requisitos e co-requisitos
+<p>The students should have previous knowledge and experience on software development, object-oriented programming and software engineering.</p>
+
+## Programa
+<p><strong>Introduction</strong></p>
+&#8226; Software Design: fundamental concepts and principles<br /> &#8226; What is the software architecture?<br /> &#8226; Software architecture&#8217;s importance<br /> &#8226; Design at multiple levels, from macro to micro: architectural styles and architectural patterns, drawing patterns and idiomatic structures<br />
+<p><strong>Software Patterns</strong></p>
+&#8226; Software patterns&#8217; origins<br /> &#8226; Examples of design patterns (GoF)<br /> &#8226; Examples of architecture patterns (POSA)<br /> &#8226; Refactoring to patterns<br />
+<p><strong>Software Architectures</strong></p>
+&#8226; Quality attributes<br /> &#8226; Evaluating architectures: fitness functions<br /> &#8226; Designing for quality attributes: tactics<br /> &#8226; Representation and documentation of software architectures<br /> &#8226; Reuse of software architectures: production lines, frameworks, software components.<br />
+<p><strong>Evolutionary Software Architectures</strong></p>
+&#8226; Conway&#8217;s Law<br /> &#8226; Incremental change<br /> &#8226; Architectural coupling<br /> &#8226; Evolutionary data<br /> &#8226; Building evolvable architectures<br /> &#8226; Architectural refactoring<br /> &#8226; Microservices, example of an architecture designed for evolution
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Classes will be used for the formal presentation of the main topics of the curricular unit and for the final presentation and discussion of the projects developed by the students throughout the semester. In order to focus students' attention on the main topics, short and optional questions will be proposed on the topics being studied for out-of-class development. Throughout the semester students will have the opportunity to put into practice the knowledge obtained through small exercises and through the incremental development of a medium-sized project. Together, the questions, exercises and project, will encourage students to complement the knowledge transmitted with other resulting from individual research on the contents of the course.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 10.0 %
+- Teste: 30.0 %
+- Trabalho escrito: 30.0 %
+- Trabalho laboratorial: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 20.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 100.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Final grade = (test x 30%) + (project x 60%) + (individual evaluation x 10%).</p>
+
+## Obtenção de frequência
+Obtaining at least 50% of the evaluation in the components <em>test</em>, <em>written work</em> and <em>laboratory work</em>.
+
+## Melhoria de classificação
+<p>The final classification can be improved with an improvement exam and/or project evolution.</p>
+

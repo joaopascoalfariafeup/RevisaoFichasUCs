@@ -1,0 +1,124 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Complementos de Eletrónica
+
+## Curso responsável
+Mestrado em Bioengenharia
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Complementar os conhecimentos no domínio dos dispositivos semicondutores com o estudo da física e dos modelos de dispositivos eletrónicos ativos, de modo a melhor se conhecer as potencialidades e limitações das tecnologias com que um engenheiro tem de lidar no projeto de microssistemas biomédicos. Após revisão das características funcionais e das metodologias de análise e projeto de células fundamentais de circuitos analógicos e mistos, os estudantes adquirirão conhecimentos e as competências essenciais para analisarem e projetarem circuitos de captura, processamento, condicionamento e geração de sinais em sistemas para aplicações da eletrónica biomédica.
+
+## Resultados de aprendizagem e competências
+Tendo os estudantes adquirido previamente conhecimentos básicos em circuitos analógicos e digitais, e experiência na aquisição e processamento de sinais fisiológicos usando instrumentação e ferramentas computacionais dedicadas, os conteúdos desta unidade curricular permitem completar o conhecimento no âmbito do projeto de circuitos e sistemas eletrónicos para aplicações biomédicas. Sendo o tratamento destes conteúdos feito ao nível do transístor e sendo estudados processos de prototipagem de circuitos eletrónicos, são reunidas as condições para que o estudante possa assumir o projeto e a caracterização de microssistemas biomédicos a um nível mais avançado.
+
+## Pré-requisitos e co-requisitos
+Conhecimentos de análise de circuitos, teoria do sinal e dos sistemas. Análise de circuitos com transístores bipolares e MOS. Frequência prévia de unidades curriculares introdutórias à teoria do sinal, eletrónica básica, e instrumentação biomédica.
+
+## Programa
+<p>- Revisão dos modelos para baixas e altas frequências de dispositivos semicondutores: díodo de junção PN; transístor de efeito de campo em tecnologia MOS; transístores bipolares.</p>
+<p>- Revisão de conceitos de realimentação e de resposta em frequência de circuitos eletrónicos.</p>
+<p>- Circuitos osciladores: princípios fundamentais dos circuitos osciladores harmónicos; topologias de circuitos osciladores; circuitos multivibradores: monoestáveis, biestáveis, e astáveis.</p>
+<p>- Modulação e desmodulação de sinais bioelétricos: modulação e deteção em fase e em frequência. Malha de sintonia de fase (Phase-Locked Loop), Amplificador lock-in.</p>
+- Casos de estudo: por exemplo, circuitos MOS de baixo consumo para captura de sinais vitais; implantes para estimulação nervosa; aplicações de eletrónica neuromórfica e sistemas biomiméticos; exemplos de electrocêuticos.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A metodologia a seguir é a de complementar o estudo teórico com a abordagem laboratorial de modo a completar o ciclo especificação, projeto e análise funcional, desenho físico e otimização dos circuitos. Nas aulas teóricas é apresentada a matéria com referência aos elementos de estudo adotados. São ainda analisados exemplos e resolvidos problemas. Nas aulas laboratoriais serão efetuados trabalhos de bancada envolvendo simulação, com ferramentas CAD, e experimentação. Os primeiros trabalhos serão de caráter tutorial de modo a promover a aprendizagem dos tópicos lecionados, sendo adotada progressivamente uma abordagem que apele à capacidade de projeto autónomo por parte do estudante. O trabalho final será de projeto de um circuito a partir de um conjunto de especificações que contemplam requisitos comuns em microssistemas biomédicos.</p>
+As aulas teóricas serão dedicadas à exposição dos diversos conteúdos procurando em cada tópico relacionar os circuitos eletrónicos tratados com as suas versões e características no campo específico dos sistemas biomédicos. Nas aulas finais dedicadas ao estudo de casos particulares, cada grupo terá a seu cargo a preparação do estudo e apresentação na aula do caso que lhe for atribuído.
+<p>Os trabalhos laboratoriais serão realizados por grupos de dois estudantes de forma a estimular a cooperação no estudo, análise e realização em equipa. Os trabalhos são desenhados de modo a que a apresentação dos diferentes tópicos nas aulas teóricas seja complementada com a simulação e verificação experimental. Para cada trabalho deverá ser escrito um pequeno relatório onde se responda às questões levantadas e onde se apresente a análise crítica dos resultados obtidos.</p>
+<p>No trabalho final de projeto cada grupo terá de recorrer a uma revisão de literatura de modo a obter a melhor solução para satisfazer as especificações do problema apresentado e terá de preparar, para além do relatório, a apresentação oral a ser feita em sessão dedicada, de todo o trabalho realizado e dos resultados obtidos.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Participação presencial: 20.0 %
+- Trabalho laboratorial: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 horas
+- Frequência das aulas: 59.0 horas
+- Trabalho laboratorial: 53.0 horas
+
+## Fórmula de cálculo da classificação final
+Nota Final = 60% *AD + 40% *Exame, com a condição de a nota de Exame ser igual ou superior a 8,0 valores, e a Nota Final ser igual ou superior a 9,5 valores. <br /><br />A Avaliação Distribuída (AD) compreende as avaliações da assiduidade e atitude pessoal na realização dos trabalhos práticos (30%), e a da qualidade dos resultados e relatórios apresentados (70%).<br /><br />Os estudantes que tenham obtido 8 ou mais valores na componente AD em anos anteriores, podem manter essa avaliação sem necessitar de frequentar as aulas práticas. A nota final é calculada como indicado no ponto anterior.
+
+## Obtenção de frequência
+A componente de avaliação contínua baseia-se no contacto individual com os estudantes nas aulas laboratoriais e na avaliação dos trabalhos práticos realizados. A média ponderada da componente laboratorial está limitada inferiormente a 8,0/20 valores como condição para a obtenção de frequência, estando automaticamente vedado o acesso ao exame final se tal objetivo não for cumprido. As aulas laboratoriais são de frequência obrigatória estando sujeita à legislação no que toca ao número máximo de faltas admissível. <br />Todos os estudantes estão sujeitos a este procedimento, incluindo aqueles com estatuto especial (TE, DA,&#8230;). Situações de incompatibilidade serão analisadas e, caso se justifique, serão equacionadas soluções que minimizem a perturbação do processo aqui descrito.
+
+## Melhoria de classificação
+1. Classificação final: exame. <br />2. Classificação distribuída (em ano seguinte): a avaliar individualmente atendendo às componentes já realizadas.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Complements of Electronics
+
+## Curso responsável
+Master in Bioengineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+To complement the knowledge in the field of semiconductor devices with the study of the physics and models of active electronic devices, in order to gain a better understanding of the potential and limitations of the technologies that an engineer has to deal with when designing biomedical microsystems. After reviewing the functional characteristics and methodologies for analysing and designing fundamental cells of analogue and mixed-signal circuits, students will acquire the essential knowledge and skills to analyse and design circuits for capturing, processing, conditioning and generating signals in systems for biomedical electronics applications.
+
+## Resultados de aprendizagem e competências
+Once the students had previously acquired basic knowledge on analogue and mixed-signal circuits and acquired experience in the acquisition and processing of physiological signals using instrumentation and dedicated software tools, the contents of this curricular unit allow complementing the knowledge in the domain of design of biomedical circuits and systems. Being the treatment of these contents made at the transistor level and after knowing the prototyping processes of eletronic circuits and systems, conditions are met to allow students to assume the design and characterization of biomedical circuits and systems at a more advanced level.
+
+## Pré-requisitos e co-requisitos
+Knowledge of circuits analysis, systems and signal theory. Analysis of circuits with bipolar and MOS transistors. Previous attendance of introdutory curricular units to signals theory, basic eletronics, and biomedical instrumentation.
+
+## Programa
+<p>- Review of low- and high- frequency models of semiconductor devices: PN junction diode, field effect transistor in MOS technology, and bipolar transistors.</p>
+<p>- Review of feedback and frequency response concepts in electronic circuits.</p>
+<p>- Oscillator circuits: fundamental principles of harmonic oscillating circuits; topologies of oscillator circuits; multivibrator circuits: monostable, bistable, and astable.</p>
+<p>- Modulation and demodulation of bioelectric signals: phase and frequency modulation and detection. Phase-Locked Loop and Lock-in amplifier.</p>
+- Case studies: e.g. low-power MOS circuits for vital signs capture; implants for nerve stimulation; applications of neuromorphic electronics and biomimetic systems; examples of electroceuticals.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The methodology to be followed is that of complementing the theoretical study with the lab approach in order to complement the cycle of specification, design, functional analysis, physical design, and optimization of the circuits. In the tutorial classes the topics are presented with reference to the adopted study material. Examples are also studied and problems are solved. In the lab classes bench work involving simulation, making use of CAD tools, and experiments will be made. The first assignments will be of a tutorial type, being progressively adopted an approach that calls for the autonomous design capacity of the student. The final work will be the project of a circuit after a set of specifications which feature common requirements of biomedical microsystems.</p>
+<p>The tutorial classes will be dedicated to the presentation of the different contents seeking in each topic to relate the presented electronic circuits with their versions and characteristics in the specific field of biomedical systems. In the final classes dedicated to the study of specific cases, each group will be in charge of preparing the study and presentation in the class of the case it has been assigned with.</p>
+<p>The lab work will be carried out by groups of two students in order to stimulate the team cooperation in the study, analysis and realization. The assignments will be defined so that the presentation of the different topics in the tutorial classes is complemented with the simulation and experimental verification. For each one of the assignments the students will prepare a short report where the raised questions are answered and a critical analysis of the obtained results is made.</p>
+In the final development project each group will have to resort to a review of pertaining literature in order to obtain the best solution to comply with the specifications of the assigned problem and will have to prepare, besides the report, an oral presentation to be made in a dedicated session, of all developed work as well as of the obtained results.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Participação presencial: 20.0 %
+- Trabalho laboratorial: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 hours
+- Frequência das aulas: 59.0 hours
+- Trabalho laboratorial: 53.0 hours
+
+## Fórmula de cálculo da classificação final
+Final Grade = 60%*DA + 40%*Exam- Students have to reach a minimum grade of 8 out of 20 in the exam and a minimum grade of 9.5 out of 20 in the final grade .<br /><br />The Distributed Assessment (DA) comprises the evaluations of the individual aptitude in the realization of the lab work (30%), and the quality of results and submitted reports (70%).<br /><br /> Students who attended this course in a previous year and reached a minimum grade of 8 in the DA component, do not need to attend lab classes. Final grade will be calculated as above.
+
+## Obtenção de frequência
+The continuous assessment component is based on the individual  interaction with students in the lab classes and in the assessment of the practical assignments. To be admitted to exams, students have to reach a minimum average grade of 8/20 in the continuous assessment component. Laboratorial classes are mandatory and students cannot miss them in a number higher than that allowed by the rules. <br />All students will be assessed with this procedure, even those with a special status (working students, students&#8217; association leaders&#8230;). Any situation, in which students cannot attend to classes will be analysed on a case by case basis in order to minimize drifting from this process.
+
+## Melhoria de classificação
+1. Final Grade: exam <br />2. Continuous Assessment (in a next year): subject to individual evaluation taking into consideration the accomplished components.
+

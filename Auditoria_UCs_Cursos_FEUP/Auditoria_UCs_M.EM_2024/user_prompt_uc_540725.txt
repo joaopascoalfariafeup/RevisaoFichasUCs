@@ -1,0 +1,181 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Dinâmica de Máquinas
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+&#8226;Modelização analítica e experimental de sistemas mecânicos para análise do comportamento dinâmico;<br /> &#8226;Técnicas analíticas/numéricas de resolução dos modelos dinâmicos para determinação de propriedades dinâmicas e da resposta de sistemas mecânicos;<br /> &#8226;Controlo de vibrações.
+
+## Resultados de aprendizagem e competências
+No final do período lectivo pretende-se que o aluno:<br />&#8226; seja capaz de modelizar analítica e experimentalmente sistemas mecânicos para análise do seu comportamento dinâmico;<br />&#8226; saiba aplicar métodos de solução e técnicas de resolução para determinação das propriedades dinâmicas e da resposta no tempo e na frequência de sistemas mecânicos;<br />&#8226; esteja habilitado a realizar medições de respostas dinâmicas e a identificar propriedades dinâmicas;<br />&#8226; compreenda o comportamento dinâmico de sistemas mecânicos;<br />&#8226; conheça e saiba dimensionar soluções de controlo de vibrações;<br />&#8226; tenha adquirido capacidade de interpretação e crítica de resultados;<br />&#8226; esteja habilitado a dimensionar sistemas mecânicos sujeitos a condições operacionais prescritas.
+
+## Pré-requisitos e co-requisitos
+<p>Frequência e aprovação na UC Vibrações Mecânicas</p>
+
+## Programa
+<p>Formulação das equações de movimento</p>
+<ul>
+<li>Princípio variacional de Hamilton, equações de Lagrange.</li>
+</ul>
+<p>Sistemas discretos com múltiplos graus de liberdade</p>
+<ul>
+<li>Equações de movimento, frequências e formas naturais, resposta forçada harmónica e genérica, análise modal, integração directa;</li>
+<li>Modelo de resposta em frequência.</li>
+</ul>
+Sistemas contínuos<br />
+<ul>
+<li>Vibração de torsão de veios e de flexão de vigas;</li>
+<li>Solução geral e condições de fronteira: Frequências e formas naturais de vibração;</li>
+<li>Resposta forçada: análise modal.</li>
+</ul>
+<p>Métodos aproximados em análise dinâmica de estruturas e de máquinas</p>
+<ul>
+<li>Método de Rayleigh e de Rayleigh-Ritz;</li>
+<li>Método dos modos assumidos;</li>
+<li>Método dos elementos finitos: elementos de veio e de viga;</li>
+<li>Redução do número de graus de liberdade: condensação.</li>
+</ul>
+Análise modal experimental
+<ul>
+<li>Modelos espacial, modal e de resposta em frequência, expansão modal, algoritmos de identificação modal, sintetização de funções de resposta em frequência;</li>
+<li>Medição de vibrações: Transdutores de vibrações, análise spectral, analisadores FFT.</li>
+</ul>
+<p>Dinâmica de máquinas rotativas</p>
+<ul>
+<li>Modelo de &#8220;Laval&#8221;, Equação de movimento, precessão, velocidades críticas, resposta forçada, auto-centragem;</li>
+<li>Equilibragem de rotors.</li>
+</ul>
+<p>Monitorização da condição de máquinas por análise de vibrações</p>
+<ul>
+<li>Análise espectral, frequências características de rolamentos e engrenagens.</li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+&#8226; Aulas teórico-práticas de exposição e discussão de problemas tipo.
+
+## Tipo de avaliação
+Avaliação por exame final
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 83.0 horas
+- Frequência das aulas: 39.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Classificação Final (CF):<br />A classificação final (CF) é igual à classificação do Exame (EX): CF=EX.</p>
+
+## Obtenção de frequência
+<p>Inscrição e número de faltas não superior ao máximo permitido pelas normas em vigor na FEUP.</p>
+
+## Melhoria de classificação
+<p>A melhoria de classificação implica a melhoria da classificação da componente Exame, a realizar de acordo com as normas em vigor na FEUP.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Machine Dynamics
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>&#8226; Analytical and experimental modelling of mechanical systems to analyse dynamic behaviour;<br />&#8226; Analytical/numerical techniques of dynamic models resolution to determine dynamic properties and the response of mechanical systems;<br />&#8226; Vibration control</p>
+
+## Resultados de aprendizagem e competências
+<p>Learning Outcomes: By the end of the semester, students should:<br /><br /> &#8226; be able to use analytical and experimental modelling in mechanical systems to analyse its dynamic behaviour;<br />&#8226; be able to apply solution methods and resolution techniques to determine dynamic properties and the time and frequency response of mechanical systems;<br />&#8226; be able to measure dynamic response and identify dynamic properties;<br />&#8226; understand the dynamic behaviour of mechanical systems;<br />&#8226; be acquainted with vibration control solutions and how to dimensioning them;<br />&#8226; be capable of interpreting and criticizing results;<br />&#8226; be capable of dimensioning mechanical systems under prescribed operational conditions.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Students should have attended the UC Mechanical Vibrations</p>
+
+## Programa
+<p>Formulation of the equations of motion</p>
+<ul>
+<li>Hamilton's principle, Lagrange's equation.</li>
+</ul>
+<p>Discrete systems with multiple degrees of freedom</p>
+<ul>
+<li>Equations of motion, natural frequencies and mode shapes, forced response, modal analysis, direct integration methods;</li>
+<li>Frequency response model.</li>
+</ul>
+Continuous systems<br />
+<ul>
+<li>Torsion vibration of shafts</li>
+<li>Bending vibration of beams</li>
+<li>General solution and boundary conditions: natural frequencies and mode shapes of vibration</li>
+<li>Forced response: modal analysis</li>
+</ul>
+Approximate methods in dynamic analysis of structures and machines
+<ul>
+<li>Rayleigh and Rayleigh-Ritz Method;</li>
+<li>Assumed Modes Method;</li>
+<li>Finite element method: shaft, bar and beam elements;</li>
+<li>Reduction of the number of the degrees of freedom: condensation techniques.</li>
+</ul>
+<p>Experimental modal analysis</p>
+<ul>
+<li>Spatial, modal and frequency response models, modal expansion, modal identification, synthetization of frequency response functions;</li>
+<li>Vibration measurement: transducers, spectral analysis, FFT analysers, frequency response functions.</li>
+</ul>
+<p>Dynamics of rotating machinery</p>
+<ul>
+<li>&#8220;Laval&#8221; model: equation of motion, precession motion, critical velocities, forced response, auto-centering effect;</li>
+<li>Rotor balancing.</li>
+</ul>
+<p>Dynamics of reciprocating machines</p>
+<ul>
+<li>Equivalent system for torsional vibrations;</li>
+<li>Forced vibrations;</li>
+<li>Balancing of reciprocating machines.</li>
+</ul>
+<p>Mechanical condition monitoring</p>
+<ul>
+<li>Characteristic frequencies: bearings, gears.</li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+&#8226;Theoretical-practical classes &#8211; exposition and discussion of problems
+
+## Tipo de avaliação
+Evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 83.0 hours
+- Frequência das aulas: 39.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Final Mark (FM):<br />The final mark (FM) is equal to the final exam (FE) grade: FM=FE<br /><br /><br /></p>
+
+## Obtenção de frequência
+<p>Students must be enrolled and attend to a minimum number of classes- according to General Evaluation Rules of FEUP</p>
+
+## Melhoria de classificação
+<p>A written exam- According to General Evaluation Rules of FEUP</p>
+

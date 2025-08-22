@@ -1,0 +1,143 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Inteligência Artificial
+
+## Curso responsável
+Licenciatura em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>Esta unidade curricular apresenta um conjunto de assuntos nucleares para a área da Inteligência Artificial (IA) e dos Sistemas Inteligentes. Os objetivos principais são:<br />1. Compreender os fundamentos da Inteligência Artificial e dos Sistemas Inteligentes, o que os caracteriza e distingue e qual a sua aplicabilidade.<br />2. Ser capaz de projetar e implementar Agentes e Sistemas Multi-Agente para resolver diferentes problemas.<br />3. Aprender métodos e algoritmos heurísticos e sistemáticos de resolução de problemas, com e sem adversários e algoritmos de otimização.<br />4. Aprender métodos de aquisição, representação e manipulação do Conhecimento impreciso utilizando diferentes formalismos.<br />5. Compreender as bases do processamento da linguagem natural e suas aplicações.<br />6. Conhecer e ser capaz de aplicar algoritmos de aprendizagem com diferentes paradigmas (supervisionada, não supervisionada, por reforço, evolucionária, em profundidade) e algoritmos (árvores de decisão, redes neuronais, SVMs).<br />7. Conhecer tópicos avançados em IA e ser capaz de formular uma visão sobre o futuro da IA.<br />8. Desenvolver projetos simples, mas completos, usando técnicas de IA.</p>
+<p>Distribuição Percentual: Componente científica: 50%; Componente tecnológica: 50%</p>
+
+## Resultados de aprendizagem e competências
+<p style="display: inline !important;">No final da unidade curricular, o estudante deverá ter capacidade para Representar, Adquirir, Manipular e Aplicar Conhecimento usando Sistemas Computacionais. Mais especificamente, o estudante deverá ser capaz de:</p>
+<ul>
+<li>Compreender os fundamentos da Inteligência Artificial e dos Sistemas Inteligentes.</li>
+<li>Compreender a noção de Agente computacional e de Sistema Multi-Agente e ser capaz de projetar e implementar Agentes e Sistemas Multi-Agente para resolver diferentes problemas.</li>
+<li>Ser capaz de apliar métodos e algoritmos de pesquisa e de optimização para resolução de problemas complexos com e sem Adversários.</li>
+<li>Aprender métodos de Representação do Conhecimento Impreciso e Raciocínio utilizando diferentes formalismos.</li>
+<li>Ser capaz de aplicar algoritmos de aprendizagem com diferentes paradigmas (Indução, evolucionário, por reforço, neuronal, em profundidade/"Deep Learning", etc.).</li>
+<li>Compreender tópicos avançados em Inteligência Artificial e ser capaz de formular uma visão sobre o futuro da IA e as suas aplicações práticas no presente e no futuro.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>Conhecimentos de algoritmia, estruturas de dados e programação.</p>
+
+## Programa
+<p><strong>I. Introdução à Inteligência Artificial (IA)<br /></strong><br />Definição de IA. Fundamentos, Âmbito, Evolução e Cronologia da IA. Problemas e Abordagens da IA e dos Sistemas Inteligentes. Aplicações da IA<br /><br /><strong>II. Agentes Inteligentes e Sistemas Multi-Agente</strong></p>
+<p>Conceito de Agente. Ambientes. Agentes Reativos, Deliberativos, Baseados em Objetivos, Baseados em Utilidade, com Aprendizagem e BDI. Sistemas Multi-Agente: Conceito, Motivação, Arquiteturas, Comunicação, Coordenação. Exemplos Práticos de Aplicação.</p>
+<p><strong>III. Métodos de Resolução de Problemas</strong></p>
+<p>Formulação de Problemas. Espaço de Estados. Estratégia de Pesquisa. Pesquisa Não Informada: Primeiro em Largura, Primeiro em Profundidade, Custo Uniforme, Aprofundamento Iterativo, Pesquisa Bidirecional. Pesquisa Inteligente: Pesquisa Gulosa, Algoritmo A*. Pesquisa com Adversários: Pesquisa em Jogos, Algoritmo Minimax, Cortes Alfa-Beta, Monte Carlo Tree Search, Pesquisa com Informação Imperfeita. Exemplos Práticos de Aplicação.</p>
+<strong>IV. Otimização e Meta-heurísticas</strong><br />
+<p>Formulação de Problemas de Decisão/Optimização. Algoritmos &#8220;Hill-Climbing&#8221;, Arrefecimento Simulado, Pesquisa Tabu, &#8220;Ant Colony&#8221;. Algoritmos Genéticos e Computação Evolucionária. Satisfação de Restrições. Exemplos Práticos de Aplicação.</p>
+<strong>V. Engenharia do Conhecimento</strong><br />
+<p>Representação do Conhecimento e Raciocínio. Lógica Proposicional e Lógica de Predicados. Redes Semânticas, &#8220;Frames&#8221;, Regras e Ontologias. Programação em Lógica e Programação com Restrições. Raciocínio com Conhecimento Incerto. Sistemas Baseados em Conhecimento. Sistemas Periciais. Exemplos Práticos de Aplicação.</p>
+<strong>VI. Aprendizagem Computacional</strong><br />
+<p>História e Motivação para a Aprendizagem Computacional. Principais Tipos de Aprendizagem: Aprendizagem supervisionada, aprendizagem não supervisionada e aprendizagem de reforço. Conceito de Aprendizagem Profunda. Aplicações da Aprendizagem Computacional. Dados: Tipos, Qualidade de Dados, Pré-processamento e Transformação. Interpretação e Avaliação de Modelos. Ferramentas e Bibliotecas. Algoritmos: Árvores de decisão. K-Nearest Neighbour. Redes Neuronais Artificiais, Máquinas Vectoriais de Suporte. Exemplos Práticos de Aplicação.<br />Aprendizagem por Reforço: Estado, Acção, Política, Recompensa e Valor. Exploration-Exploitation Tradeoff. Processos de Decisão de Markov. Ferramentas e Bibliotecas. Algoritmos: Qlearning, SARSA, DQN, PPO e SAC. Exemplos Práticos de Aplicação.</p>
+<p><strong>VII. Processamento de Linguagem Natural</strong></p>
+<p>Introdução a PLN. Níveis de Processamento. Abordagem clássica. Gramáticas com Cláusulas Definidas. Abordagem estatística. Mineração de Texto. Tarefas de PLN. Recursos linguísticos. Aplicações de PNL. Aprendizagem em PLN. Processamento básico de texto: Normalização, Tokenization, Segmentação. Classificação de Texto. Bag of Words. Naive Bayes. Classificadores Generativos vs Discriminativos. Word Embeddings. Aprendizagem Profunda em PLN. Exemplos Práticos de Aplicação.</p>
+<p><strong>VIII. Tópicos Avançados de Inteligência Artificial</strong></p>
+<p>Perceção/Visão, Comunicação, Interação, Planeamento, Escalonamento, Robótica, Simulação Inteligente, Inteligência Social. Aplicações de Inteligência Artificial e Sistemas Inteligentes. O Futuro da IA. IA e a Sociedade. IA Benéfica. IA Explicável. Máquina Éticas. IA fraca e IA forte. Super Inteligência. A Singularidade Tecnológica.</p>
+<p><br /><br /></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Exposição com interacção nas Aulas teóricas. Exercícios de modelação e resolução de problemas, de programaçao e desenvolvimento de projeto nas Aulas teórico-práticas.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Trabalho laboratorial: 40.0 %
+- Participação presencial: 20.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 horas
+- Frequência das aulas: 56.0 horas
+- Trabalho laboratorial: 56.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>TP = Trabalhos Práticos, MT = Mini-Testes, PA - Participação nas Aulas, ER = Exame de Recurso.<br /><br />Classificação Final = 40%*TP + 40%*MT + 20%*PA<br /><br />Componente TP inclui dois trabalhos práticos, cada um com peso de 50%.<br />Componente MT inclui dois mini-testes, cada um com peso de 50%.<br />Componente PA inclui participação nas aulas e realização de Kahoots. <br /><br />A aprovação implica obtenção de nota &gt;= 7.5 (em 20) na componente MT. <br /><br />Classificação de Recuso = 40%*TP + 60%*ER</p>
+
+## Obtenção de frequência
+<p>A obtenção de frequência é sujeita à regulamentação em vigor, devendo o estudante, nomeadamente, cumprir com a assiduidade mínima no que respeita às aulas teórico-práticas.<br /> Os estudantes, trabalhadores e equivalentes não são sujeitos ao cumprimento da assiduidade.</p>
+
+## Melhoria de classificação
+<p>Os minitestes são melhoráveis na época de recurso. A parte prática não é melhorável.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Artificial Intelligence
+
+## Curso responsável
+Bachelor in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>This course provides a set of subjects (topics) that are the core of the Artificial Intelligence and Intelligent System area. The main objectives are:<br />1. Understand the fundamentals of Artificial Intelligence and Intelligent Systems, what characterizes and distinguishes them and their applicability.<br />2. Being able to design and implement Agents and Multi-Agent Systems to solve different problems.<br />3. To learn heuristic and systematic methods of problem solving, with and without adversaries and optimization algorithms.<br />4. To learn methods of acquisition, representation and reasoning with uncertain knowledge using different formalisms.<br />5. To understand the basis of natural language processing and its applications.<br />6. Know and be able to apply learning algorithms with different paradigms (supervised, unsupervised, reinforcement, evolutionary, deep learning) and algorithms (decision trees, neural networks, SVMs).<br />7. To understand advanced topics in Artificial Intelligence and be able to formulate a vision into the future of AI.<br />8. To develop simple but complete projects using AI techniques.</p>
+<p>Percentual Distribution: Scientific component: 50%; Technological component: 50%</p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of the course, students should be able to represent, acquire, manipulate and apply knowledge using computer systems. More specifically, the student should be able to:</p>
+<ul>
+<li>Understand the fundamentals of Artificial Intelligence and Intelligent Systems.</li>
+<li>Understand the notion of Computational Agent and Multi-Agent System and be able to design and implement Agents and Multi-Agent Systems to solve different problems.</li>
+<li>Be able to apply search and optimisation methods and algorithms to solve complex problems with and without Adversaries.</li>
+<li>To learn methods of Representation and Reasoning with uncertain Knowledge using different formalisms.</li>
+<li>Be able to apply machine learning algorithms with different paradigms (Induction, Evolutionary, Reinforcement, Neuronal, Deep Learning).</li>
+<li>Understand advanced topics in Artificial Intelligence and be able to formulate a vision into the future of AI and its practical applications in the present and in the future.</li>
+</ul>
+<p> </p>
+
+## Pré-requisitos e co-requisitos
+<p>Knowledge of algorithms, data structures, and programming.</p>
+
+## Programa
+<strong><br />I. Introduction to Artificial Intelligence (AI)</strong><br /><br /><p>Definition of AI. Fundamentals, Scope, Evolution and Chronology of AI. Problems and Approaches of AI and Intelligent Systems. AI Applications.</p><br /><strong>II. Intelligent Agents and Multi-Agent Systems</strong><br /><br /><p>The Concept of Agent. Environments. Agent Architectures: Reactive, Deliberative, Goal-Based, Utility-Based, Learning and BDI. Multi-Agent Systems: Concept, Motivation, Architectures, Communication, Coordination. Practical Examples of Application.</p><br /><p><strong>III. Problem Solving Methods</strong></p><br /><p>Problem Formulation. State Space. Search Strategy. Uninformed Search: Breadth First, Depth First, Uniform Cost, Iterative Deepening, Bidirectional Research. Intelligent Search: Greedy Search, A* Algorithm. Search with Adversaries: Game Search, Minimax Algorithm, Alpha-Beta Cuts, Monte Carlo Tree Search, Search with Imperfect Information. Practical Examples of Application.</p><br /><strong>IV. Optimization and Metaheuristics</strong><br /><br /><p>Formulation of Decision/Optimization Problems. Hill-Climbing Algorithm, Simulated Annealing, Tabu Search, &quot;Ant Colony&quot;. Genetic Algorithms and Evolutionary Computation. Constraint Satisfaction. Practical Examples of Application.</p><br /><strong>V. Knowledge Engineering</strong><br /><br /><p>Knowledge Representation and Reasoning. Propositional and Predicate Logic. Semantic Networks, Frames, Rules, and Ontologies. Logic Programming and Programming with Constraints. Reasoning with Uncertain Knowledge. Knowledge-Based Systems. Expert Systems. Practical Examples of Application.</p><br /><strong>VI. Machine Learning</strong><br /><br /><p>History and Motivation for Machine Learning. Main Types of Machine Learning: Supervised Learning, Unsupervised Learning and Reinforcement Learning. Deep Learning Concept. Applications of Machine Learning. Data: Types, Data Quality, Preprocessing and Transformation. Model Interpretation and Evaluation. ML Tools, and Libraries. Algorithms: Decision Trees. K-Nearest Neighbour. Artificial Neural Networks, Support Vector Machines. Practical Application Examples.<br />Reinforcement Learning: State, Action, Policy, Reward and Value. Exploration-Exploitation Tradeoff. Markov Decision Processes. Tools and Libraries. Algorithms: Qlearning, SARSA, DQN, PPO and SAC. Practical Application Examples.</p><br /><p><strong>VII. Natural Language Processing</strong></p><br /><p>Introduction to NLP. Levels of Processing. Classical approach. Grammars with Defined Clauses. Statistical Approach. Text Mining. NLP Tasks. Languages Resources. NLP Applications. Machine Learning in NLP. Basic Text Processing: Normalization, Tokenization, Segmentation. Text Classification. Bag of Words. Naive Bayes. Generative vs Discriminative Classifiers. Word Embeddings. Deep Learning in NLP. Practical Application Examples.</p><br /><p><strong>VIII. Advanced Topics in Artificial Intelligence</strong></p><br /><p>Perception/Vision, Communication, Interaction, Planning, Scheduling, Robotics, Intelligent Simulation, Social Intelligence. Applications of Artificial Intelligence and Intelligent Systems. The Future of AI. IA and the Society. Beneficial IA. Explainable AI. Machine Ethics. Weak and Strong IA. Super Intelligence. The Singularity.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical classes: exposition with interaction. Theoretical-practical classes: modeling, problem-solving, programming exercises and project development.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Trabalho laboratorial: 40.0 %
+- Participação presencial: 20.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 hours
+- Frequência das aulas: 56.0 hours
+- Trabalho laboratorial: 56.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>PW = Practical Work, MT = Mini-Tests, PC - Participation in Class, EA = Exam of Appeal.<br /><br />Final Classification = 40%*PW + 40%*MT + 20%*PC<br /><br />PW Component includes two practical works, each with 50% weight.<br />MT Component includes two mini-tests, each with weight of 50%.<br />PA Component includes participation in the classes and realization of Kahoots. <br /><br />Pass mark of 7.5 (in 20) in MT component needed for approval. <br /><br />Appeal Classification = 40%*PW+ 60%*EA</p>
+
+## Obtenção de frequência
+<p>Attendance is subject to the regulations, and students must comply with the minimum attendance requirements for the theory-practical classes. <br /><br />Working students and equivalent students are not subject to attendance requirements.</p>
+
+## Melhoria de classificação
+<p>The minitests are improvable at the time of appeal. The practical part is not improvable.</p>
+

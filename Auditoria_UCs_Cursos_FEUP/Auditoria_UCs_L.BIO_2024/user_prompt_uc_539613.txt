@@ -1,0 +1,112 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Introdução À Programação Científica
+
+## Curso responsável
+Licenciatura em Bioengenharia
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Desenvolver conhecimentos e capacidades em: princípios, conceitos e métodos da computação com ênfase especial nas aplicações científicas e de engenharia; resolução de problemas e técnicas de programação; algoritmos fundamentais e estruturas de dados; utilização de computadores na resolução de problemas científicos, de engenharia e em particular da bioengengharia. <br />Como objetivo operacional, os alunos deverão dominar o ambiente MatLab, que deverá ser o meio de programação usado.</p>
+
+## Resultados de aprendizagem e competências
+<p>Esta UC pretende contribuir para o desenvolvimento de competências de programação em linguagem Matlab de trabalho autónomo e em grupo dos estudantes e de preparação de relatórios escritos e de documentação de programas.</p>
+<h5><span lang="PT" style="font-size: x-small; font-family: 'Arial','sans-serif';"> </span></h5>
+
+## Programa
+<p>1. INTRODUÇÃO <br />1.1. Organização de um computador <br />1.2. Exemplos de utilização de computadores em BioEngenharia <br />1.3. Representação numérica em computador <br /><br />2. INTRODUÇÃO À PROGRAMAÇÃO <br />2.1. Introdução <br />2.2. Linguagens de programação - objectivos <br />2.3. Paradigmas de programação <br />2.4. Compilação e interpretação <br />2.5. Famílias de linguagens de programação <br />2.6. Os blocos básicos de programação <br />2.7. Programação estruturada <br /><br />3. INTRODUÇÃO AO MATLAB <br />3.1. Vantagens e desvantagens do Matlab <br />3.2. O ambiente do Matlab <br />3.3. Vectores e matrizes em Matlab <br />3.4. Funções <br />3.5. Introdução ao traçado gráfico <br /><br />4. PROGRAMAÇÃO IMPERATIVA <br />4.1. Introdução <br />4.2. Instruções básicas <br />4.3. Composição de instruções <br />4.4. Vectores lógicos e vectorização <br />4.5. Exemplos em Matlab <br /><br />5. FUNÇÕES <br />5.1. Introdução <br />5.2. Passagem de argumentos <br />5.3. Variáveis globais <br />5.4. Funções de funções <br />5.5. Aplicações de programação em Matlab <br /><br />6. DADOS E ESTRUTURAS DE DADOS <br />6.1. Dados complexos <br />6.2. Funções com cadeias de caracteres <br />6.3. Dados multidimensionais <br />6.4. Exemplos de aplicação em Matlab <br /> <br />7. INSTRUÇÕES DE ENTRADA-SAÍDA<br />7.1. Comandos de leitura e escrita <br />7.2. Noções de registo e ficheiro <br />7.3. Operações com ficheiros <br /><br />8. EXEMPLOS DE APLICAÇÃO EM BIOENGENHARIA <br /><br />8.1. Introdução à análise estatística de dados multidimensionais <br />8.2. Introdução ao processamento de sinal biológico em Matlab <br />8.3. Introdução ao processamento de imagem em biologia e medicina</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teórico-práticas (TP) <br />Aulas de exposição teórica e de apresentação-resolução de problemas de programação. <br /> <br />Aulas práticas (P) <br />Aulas de carácter laboratorial de resolução de problemas de programação em laboratório computacional.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 60.0 %
+- Trabalho laboratorial: 40.0 %
+
+## Componentes de Ocupação
+- Elaboração de relatório/dissertação/tese: 4.0 horas
+- Estudo autónomo: 28.0 horas
+- Frequência das aulas: 56.0 horas
+- Trabalho laboratorial: 24.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A nota final (NF) tem duas componentes: <br /> <br />- Componente laboratorial, composta por dois trabalhos. Um realizado individualmente em sala de aula (TP1) e o segundo (TP2) em grupo com o peso de 40% e 60%, respetivamente. A classificação laboratorial (CL) é obtida pela seguinte expressão: <br /> <br /> CL= 0.4*TP1+0.6*TP2 (CL deve ser pelo menos 9 valores) <br /> <br />Nota:</p>
+<p><u>Nota</u>: Os alunos que tiveram frequência no ano letivo anterior podem manter essa classificação, não necessitando de frequentar as aulas práticas e realizar os 2 trabalhos laboratoriais. Para o efeito <strong>DEVEM</strong> enviar um requerimento para <a href="mailto:ajcosta@fe.up.pt">ajcosta@fe.up.pt</a>. Se optarem pela frequência das aulas práticas a nota de frequência anterior é anulada.</p>
+<p><br /> <br />- Componente teórica, composta por duas provas (PE1 e PE2) sem consulta a realizar previsivelmente em Novembro e em Janeiro <br /> <br />NF é calculada de acordo com a expressão: <br /> <br /> <br />Se CL &gt;= 9 <br /> NF=0.3*PE1+0.3*PE2+0.4*CL, se (PE1+PE2)/2 &gt; 7 valores <br /> NF=0.5*PE1+0.5*PE2 se (PE1+PE2)/2 &lt;= 7 valores <br /> <br />Se CL &lt; 9 --&gt; NF = CL</p>
+
+## Obtenção de frequência
+<p>Cumprimento da assiduidade, não excedendo o número limite de faltas correspondente a 25% das aulas previstas. <br />Estarão dispensados da verificação das condições de assiduidade: <br />- Os casos previstos na lei, nomeadamente os trabalhadores estudantes; <br />- Os estudantes que, em ano letivo anterior, tenham cumprido a assiduidade e tenham obtido uma classificação da avaliação laboratorial igual ou superior a 9 valores.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Introduction to Scientific Programming
+
+## Curso responsável
+Bachelor in Bioengineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>This course unit aims to develop students&#8217; knowledge and skills in computing principles, concepts and methods and it will be given a special emphasis to scientific and engineering applications. <br />It will also be covered the following themes: resolution of problems and programming techniques; fundamental algorithms and data structure; use of the computer in the resolution of scientific, engineering and in particular bioengineering problems. <br />This course unit also aims to familiarise students with MatLab, which is the tool that will be used.</p>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-size: x-small; font-family: 'Arial','sans-serif';">To contribute to develop the capacity of the students to program in Matlab, to work autonomously and in group, and to prepare written reports and program documentation.<br /></span></p>
+
+## Programa
+<p>1. INTRODUCTION <br />1.1 Computer organisation <br />1.2 Use of computers in Bioengineering: examples <br />1.3 Computer representation of numbers <br /><br /> 2. INTRODUCTION TO PROGRAMMING <br />2.1 Introduction <br />2.2 Programming languages: objectives <br />2.3 Programming paradigms <br />2.4 Compilation and interpretation <br />2.5 Family of programming languages <br />2.6 Basic blocks in programming <br />2.7 Structured programming <br /><br />3. INTRODUCTION TO MATLAB <br />3.1 Advantages and disadvantages of Matlab <br />3.2 Matlab environment <br />3.3 Vectors and matrices in Matlab <br />3.4 Functions <br />3.5 Introduction to graphic plotting<br /> <br />4. IMPERATIVE PROGRAMMING <br />4.1 Introduction <br />4.2 Basic instructions <br />4.3 Complex instructions<br />4.4 Logic vectors and vectorization <br />4.5 Examples in Matlab <br /> <br />5. FUNCTIONS <br />5.1 Introduction <br />5.2 Argument sharing <br />5.3 Global memory <br />5.5 Functions of functions <br /> 5.4 Applications<br /><br />6. DATA AND DATA STRUCTURES <br />6.1 Complex data <br />6.2 String functions <br />6.3 Multidimensional data <br />6.4 Examples of application in Matlab <br /> <br />7. INPUT-OUTPUT INSTRUCTIONS <br />7.1 Read / write commands <br />7.2 Notions of register and file <br />7.3 Operations with files <br /> <br />8. PROGRAMMING COMPLEMENTS AND EXAMPLES OF APPLICATION IN BIOENGINEERING <br />8.1 Statistical Analysis<br />8.2 Introduction to biosignal processing algorithms <br />8.3 Introduction to image processing algorithms in biology and medicine</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical-practical classes (TP) <br />Theoretical presentation and resolution of programming problems <br /> <br />Practical classes (P) <br />Laboratory classes of problem solving at the computer lab</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 60.0 %
+- Trabalho laboratorial: 40.0 %
+
+## Componentes de Ocupação
+- Elaboração de relatório/dissertação/tese: 4.0 hours
+- Estudo autónomo: 28.0 hours
+- Frequência das aulas: 56.0 hours
+- Trabalho laboratorial: 24.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Type of evaluation: Distributed without final exam</p>
+<p>NF has 2 components:</p>
+<p>- Lab component, with 2 assignments: 1 individual assignment in class (TP1) and the 2<sup>nd</sup> (TP2) in groups with the following weights: 40% and 60% , respectively. The laboratorial classifiction (CL) has the following expression:</p>
+<p> </p>
+<p>CL= 0.4*TP1+0.6*TP2 (CL must be at last 9)</p>
+<p>- Theoretical component: two closed book tests (PE1 e PE2) in November and in January.</p>
+<p>The expression for NF is:</p>
+<p>if CL &gt;= 9</p>
+<p>NF=0.3*PE1+0.3*PE2+0.4*CL, if (PE1+PE2)/2 &gt; 7</p>
+<p>NF=0.5*PE1+0.5*PE2 if (PE1+PE2)/2 &lt;= 7</p>
+<p> </p>
+<p>if CL &lt; 9 --&gt; NF = CL</p>
+
+## Obtenção de frequência
+<p>To be admitted to exams, students: <br />cannot miss more theoretical-practical and practical classes than allowed by the rules. <br />have to reach a minimum a grade of 50% in the laboratory assignments. <br /> <br />Students, who attended this course unit in the previous year, can keep their grades. They do not need to attend laboratory classes and carry out the four laboratory assignments. If they opt to attend laboratory classes, their previous grades will not be taken into account.</p>
+

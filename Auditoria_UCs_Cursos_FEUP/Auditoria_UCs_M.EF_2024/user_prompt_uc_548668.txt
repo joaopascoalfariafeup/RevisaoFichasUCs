@@ -1,0 +1,198 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sensores e Análise de Sinal
+
+## Curso responsável
+Mestrado em Física
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+To give the students an insight into optical sensing, mainly interferometric based, supported by classical, semi-classical and quantum principles, addressing in each of the cases the relevant characteristics, applications, noise sources and signal analysis techniques.
+
+## Resultados de aprendizagem e competências
+The students will be able to understand the basic principles of interferometric optical sensing, including the effect of the source coherence in the sensing device.<br /><br />They are expected to understand homodyne and heterodyne techniques for signal recovery.<br /><br />The students should understand the evolution from classical to semi-classic optical sensors, as well as the importance of quantum sensing for ultra-precise measurements.
+
+## Programa
+<p><strong>A. Sensing and data analysis techniques and methods</strong></p>
+<ul>
+<li>What is a sensor and how to characterize one: limit, ranges, sensitivity, saturation, and noise;</li>
+<li>Handling experimental data: measurement, errors, and conveying the message with informative graphs;</li>
+<li>Brief introduction to machine learning techniques and best practices for science: regression and classification.</li>
+</ul>
+<p><strong>B. Classical Optical Interferometers for Measurement/Sensing</strong></p>
+<ul>
+<li>Why Light Excels in sensing and what is an interferometer;</li>
+<li>The building-blocks of interferometers: optical sources; splitters; polarization control; photodetectors (multiple and single photon detection, and sources of noise);</li>
+<li>Signal-to-noise ratio and merit factor of an interferometer.</li>
+</ul>
+<div style="padding-left: 30px;">B.1. Homodyne detection</div>
+<div style="padding-left: 30px;">
+<ul>
+<li>What is homodyne detection and how to use it: From fibers to free space;</li>
+<li>Hands-on with digital off-axis holography for wavefront sensing;</li>
+</ul>
+</div>
+<div style="padding-left: 30px;">B.2. Heterodyne detection</div>
+<div style="padding-left: 30px;">
+<ul>
+<li>Pros and cons of heterodyne detection for phase recovery in optical interferometers and characterization of their performance;</li>
+<li>Hands-on with heterodyne detection in the context of optical fiber sensors;</li>
+</ul>
+</div>
+<div style="padding-left: 30px;">B.3. Outlook and perspectives of classical interferometers<br />
+<ul>
+<li>Discussion of the past, present and future of interferometers: distributed sensing, distributed acoustic sensing, vernier effect, integrated optics, and optofluidics;</li>
+</ul>
+</div>
+<p><strong>C. Semi-Classical Optical Interferometers for Measurement/Sensing</strong></p>
+<ul>
+<li>The Heisenberg phase resolution limit in an optical interferometer</li>
+<li>What is squeezed light and how to generate it using optical non-linear interactions (optical parametric amplification and frequency doubling)</li>
+</ul>
+<div style="padding-left: 30px;">C.1. The case study of the LIGO interferometric observatory</div>
+<p><strong>D. Optical Interferometers for Quantum Measurement/Sensing</strong></p>
+<ul>
+<li>Entangled photons and interferometers.</li>
+<li>Optical sources for emission of entangled photons and optical detectors with the ability to distinguish photon numbers at the level of single photons.</li>
+<li>Optical sources for detection of photons, and signal-to-noise ratio.</li>
+<li>The entangled N00N quantum state in a Mach-Zehnder interferometer.</li>
+<li>The environment problem.</li>
+<li>Evolution of the signal processing techniques mastered in classical optical interferometry to address the phase recovery in quantum interferometers.</li>
+<li>Quantum sensor and the sensing protocol.</li>
+</ul>
+<div style="padding-left: 30px;">D.1. Outlook of Quantum optical sensing<br />
+<ul>
+<li>Quantum metrology and its future impact: the road to ultra sensitivity, super resolution, and the International System of Units.</li>
+</ul>
+</div>
+<p><strong>E. Additional survey of optical sensors</strong></p>
+
+## Métodos de ensino e atividades de aprendizagem
+Classes based on interactive discussion of the theoretical concepts, with relevant examples and problem solving.<br /><br />Hands-on activities and demonstrations (computational and experimental).<br /><br />Visits to laboratories in order to understand relevant experiments ongoing on the research labs.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho escrito: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 120.0 horas
+- Frequência das aulas: 42.0 horas
+
+## Fórmula de cálculo da classificação final
+All students must take the final exam.<br /><br />Sudents can choose to be assessed only based on the final exam, in which case the exam grade is the final grade.<br /><br />An optional written report can be considered for 40% of the grade. In this case, the final grade is computed as:<br /><br /><div>    Final = 0.6×E + 0.4×R (E: exam, R: report)</div>
+
+## Obtenção de frequência
+According to the FCUP regulations for the assessment of students.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Sensing and Signal Analysis
+
+## Curso responsável
+Master in Physics
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+To give the students an insight into optical sensing, mainly interferometric based, supported by classical, semi-classical and quantum principles, addressing in each of the cases the relevant characteristics, applications, noise sources and signal analysis techniques.
+
+## Resultados de aprendizagem e competências
+The students will be able to understand the basic principles of interferometric optical sensing, including the effect of the source coherence in the sensing device.<br /><br />They are expected to understand homodyne and heterodyne techniques for signal recovery.<br /><br />The students should understand the evolution from classical to semi-classic optical sensors, as well as the importance of quantum sensing for ultra-precise measurements.
+
+## Programa
+<p><strong>A. Sensing and data analysis techniques and methods</strong></p>
+<ul>
+<li>What is a sensor and how to characterize one: limit, ranges, sensitivity, saturation, and noise;</li>
+<li>Handling experimental data: measurement, errors, and conveying the message with informative graphs;</li>
+<li>Brief introduction to machine learning techniques and best practices for science: regression and classification.</li>
+</ul>
+<p><strong>B. Classical Optical Interferometers for Measurement/Sensing</strong></p>
+<ul>
+<li>Why Light Excels in sensing and what is an interferometer;</li>
+<li>The building-blocks of interferometers: optical sources; splitters; polarization control; photodetectors (multiple and single photon detection, and sources of noise);</li>
+<li>Signal-to-noise ratio and merit factor of an interferometer.</li>
+</ul>
+<div style="padding-left: 30px;">B.1. Homodyne detection</div>
+<div style="padding-left: 30px;">
+<ul>
+<li>What is homodyne detection and how to use it: From fibers to free space;</li>
+<li>Hands-on with digital off-axis holography for wavefront sensing;</li>
+</ul>
+</div>
+<div style="padding-left: 30px;">B.2. Heterodyne detection</div>
+<div style="padding-left: 30px;">
+<ul>
+<li>Pros and cons of heterodyne detection for phase recovery in optical interferometers and characterization of their performance;</li>
+<li>Hands-on with heterodyne detection in the context of optical fiber sensors;</li>
+</ul>
+</div>
+<div style="padding-left: 30px;">B.3. Outlook and perspectives of classical interferometers<br />
+<ul>
+<li>Discussion of the past, present and future of interferometers: distributed sensing, distributed acoustic sensing, vernier effect, integrated optics, and optofluidics;</li>
+</ul>
+</div>
+<p><strong>C. Semi-Classical Optical Interferometers for Measurement/Sensing</strong></p>
+<ul>
+<li>The Heisenberg phase resolution limit in an optical interferometer</li>
+<li>What is squeezed light and how to generate it using optical non-linear interactions (optical parametric amplification and frequency doubling)</li>
+</ul>
+<div style="padding-left: 30px;">C.1. The case study of the LIGO interferometric observatory</div>
+<p><strong>D. Optical Interferometers for Quantum Measurement/Sensing</strong></p>
+<ul>
+<li>Entangled photons and interferometers.</li>
+<li>Optical sources for emission of entangled photons and optical detectors with the ability to distinguish photon numbers at the level of single photons.</li>
+<li>Optical sources for detection of photons, and signal-to-noise ratio.</li>
+<li>The entangled N00N quantum state in a Mach-Zehnder interferometer.</li>
+<li>The environment problem.</li>
+<li>Evolution of the signal processing techniques mastered in classical optical interferometry to address the phase recovery in quantum interferometers.</li>
+<li>Quantum sensor and the sensing protocol.</li>
+</ul>
+<div style="padding-left: 30px;">D.1. Outlook of Quantum optical sensing<br />
+<ul>
+<li>Quantum metrology and its future impact: the road to ultra sensitivity, super resolution, and the International System of Units.</li>
+</ul>
+</div>
+<p><strong>E. Additional survey of optical sensors</strong></p>
+
+## Métodos de ensino e atividades de aprendizagem
+Classes based on interactive discussion of the theoretical concepts, with relevant examples and problem solving.<br /><br />Hands-on activities and demonstrations (computational and experimental).<br /><br />Visits to laboratories in order to understand relevant experiments ongoing on the research labs.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho escrito: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 120.0 hours
+- Frequência das aulas: 42.0 hours
+
+## Fórmula de cálculo da classificação final
+All students must take the final exam.<br /><br />Sudents can choose to be assessed only based on the final exam, in which case the exam grade is the final grade.<br /><br />An optional written report can be considered for 40% of the grade. In this case, the final grade is computed as:<br /><br /><div>    Final = 0.6×E + 0.4×R (E: exam, R: report)</div>
+
+## Obtenção de frequência
+According to the FCUP regulations for the assessment of students
+

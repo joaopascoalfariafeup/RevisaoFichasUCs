@@ -1,0 +1,121 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Ciência de Dados para Empresas
+
+## Curso responsável
+Mestrado em Engenharia e Gestão Industrial
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+Objectivos:<br /><br /><ul><br /><li>Dar a conhecer técnicas avançadas de análise de dados para o apoio à tomada de decisão;</li><br /><li>Promover a utilização de software de apoio ao desenvolvimento de projetos de análise de dados.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<p>No final da UC, os estudantes deverão ser capazes de:</p>
+<blockquote>
+<ul>
+<li>Identificar problemas de apoio à decisão que podem ser resolvidos usando técnicas descritivas e avançadas de análise de dados.</li>
+<li>Resumir, visualizar e reportar eficazmente os dados utilizando técnicas de análise descritiva para apoiar a tomada de decisões.</li>
+<li>Desenvolver análises de séries temporais e clustering para identificar tendências, padrões e anomalias ao longo do tempo.</li>
+<li>Compreender os sistemas de recomendação e aplicar modelos adequados para uma tomada de decisões eficaz.</li>
+<li>Analisar redes sociais para extrair conhecimentos e identificar padrões e estruturas fundamentais.</li>
+<li>Conhecer diferentes tipos de redes neuronais e aprendizagem profunda e aplicá-los a problemas relevantes.</li>
+</ul>
+</blockquote>
+
+## Pré-requisitos e co-requisitos
+Competências básicas em Análise de Dados (<em>Supervised</em> e <em>Unsupervised Learning</em>) e competências de Programação (Python ou R).
+
+## Programa
+<p>Esta UC irá focar-se nos temas seguintes:<br /><br /></p>
+<ul>
+<li>Análise descritiva e criação de relatórios para obter informações sobre os dados</li>
+<li>Análise de séries temporais e clustering de dados temporais</li>
+<li>Tópicos avançados em sistemas de recomendação</li>
+<li>Análise de Redes Sociais</li>
+<li>Redes neuronais e deep learning</li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+O método de ensino aprendizagem adotado para esta unidade curricular é o project based learning. Assim, o contacto com diferentes técnicas analíticas será essencialmente promovido pelo desenvolvimento de projetos com uma componente teórica e ainda com uma componente prática de aplicação das técnicas a dados reais.<br /><br />A resolução de problemas reais de aplicação dos conceitos e técnicas, com recurso a software de apoio, permitirá que o estudante adquira familiaridade com os mesmos.<br />Para além disto, o modelo adotado permitirá promover boas práticas de liderança e gestão de equipas.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 30.0 %
+- Trabalho prático ou de projeto: 60.0 %
+- Participação presencial: 10.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 26.5 horas
+- Estudo autónomo: 90.0 horas
+- Frequência das aulas: 45.5 horas
+
+## Fórmula de cálculo da classificação final
+0.1*Participação em aula+0.25* Projeto 1 + 0.35* Projeto 2+0.3 * Exame
+
+## Obtenção de frequência
+Nota mínima em cada componente: 7,5 valores (em 20).<br /><br />No caso de falta de uma das componentes da avaliação, a nota respetiva é de 0 (zero) valores.<br /><br /> Para além dos requisitos anteriores, para terem frequência a esta unidade curricular os estudantes devem cumprir a assiduidade nas aulas teórico-práticas (de acordo com Art. 6, 6.3 do regulamento específico de avaliação de discentes da FEUP).
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Data Science for Business
+
+## Curso responsável
+Master in Industrial Engineering and Management
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+Objectives:<br /><br /><ul><br /><li>To know advanced data analytics techniques to support the decision-making process;</li><br /><li>To promote the use of software to support the development of data analysis projects.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+At the end of the course, students should be able to:<br /><br /><ul><br /><li><br /><p>Identify decision support problems that can be addressed using descriptive and advanced data analysis techniques.</p><br /></li><br /><li><br /><p>Effectively summarize, visualize, and report data insights using descriptive analysis techniques to support decision-making.</p><br /></li><br /><li>Perform time series analysis and clustering to identify trends, patterns, and anomalies over time.</li><br /><li><br /><p>Understand recommendation systems and apply appropriate models for effective decision-making.</p><br /></li><br /><li><br /><p>Analyze social networks to extract insights and identify key patterns and structures.</p><br /></li><br /><li><br /><p>Know different types of neural networks and deep learning, and apply them to relevant problems.</p><br /></li><br /></ul>
+
+## Pré-requisitos e co-requisitos
+<div>Basic skills in Data Analytics (<em>Supervised</em> and <em>Unsupervised Learning</em>) and skills on Programming (Python or R).</div>
+
+## Programa
+This course will focus on the following topics:<br /><br /><ul><br /><li>Descriptive Analytics and Reporting for Data Insights</li><br /><li>Time Series Analysis and Clustering for Temporal Data Patterns</li><br /><li>Advanced topics in recommender Systems</li><br /><li>Social network analysis</li><br /><li>Neural networks and deep learning</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<div style=&quot;text-align: justify;&quot;>The teaching method adopted for this curricular unit is project based learning. Thus, the contact with different analytical techniques will be essentially promoted by the development of projects with a theoretical component and a practical component of application of the techniques to real data.</div><br /><br />The resolution of real problems of application of the concepts and techniques, using support software, will allow<br />the student to acquire familiarity with the techniques.<br />In addition, the adopted model will promote good leadership and team management practices.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 30.0 %
+- Trabalho prático ou de projeto: 60.0 %
+- Participação presencial: 10.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 26.5 hours
+- Estudo autónomo: 90.0 hours
+- Frequência das aulas: 45.5 hours
+
+## Fórmula de cálculo da classificação final
+0.1*Participation in class+0.25* Project 1 + 0.35* Project 2+ 0.3 * Exam
+
+## Obtenção de frequência
+Minimum grade in each component: 7.5 (out of 20).<br /><br /> Missing components are assigned 0 (zero) values.<br /><br />In addition to the above requirements, in order to attend this curricular unit, students must fulfil their attendance in theoretical-practical classes (in accordance with Art. 6, 6.3 of FEUP's specific student assessment regulations).
+

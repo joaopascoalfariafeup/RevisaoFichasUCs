@@ -1,0 +1,123 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise Numérica
+
+## Curso responsável
+Licenciatura em Engenharia Civil
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>OBJETIVOS: <br />Desenvolver a capacidade de determinar e analisar resultados obtidos por instrumentos de cálculo com técnicas aproximadas. <br />Introduzir a noção de estabilidade de métodos e número de condição de um problema. <br />Usar diversas técnicas para resolução numérica de problemas estudando a sua eficiência, aplicabilidade e estabilidade. <br />Resolver problemas de estudo usando computador; <br />Saber escolher e decidir qual o método de resolução numérica a aplicar e qual o mais eficiente. <br />Saber discutir os resultados numéricos obtidos.</p>
+
+## Resultados de aprendizagem e competências
+<p>COMPETÊNCIAS E RESULTADOS DA APRENDIZAGEM:</p>
+<p><em>Conhecimento:</em> Conhecer e descrever os conceitos fundamentais e os métodos numéricos para resolução de problemas de engenharia. Identificar os principais conceitos associados à resolução numérica e determinação de soluções aproximadas.</p>
+<p><em>Compreensão:</em> Identificar e interpretar as diferentes técnicas a usar na resolução numérica de problemas.</p>
+<p><em>Aplicação:</em> Desenvolver competências para a resolução numérica de problemas. Saber aplicar os conhecimentos e a capacidade de compreensão e de resolução de problemas em situações novas e não familiares, em contextos alargados e multidisciplinares.</p>
+<p><em>Análise:</em> Analisar, discutir e fazer a interpretação crítica dos resultados, evidenciando as potencialidades dos métodos e as suas limitações.</p>
+<p><em>Síntese</em>: Formular e validar as soluções numéricas para a resolução de equações não lineares, sistemas lineares e não lineares, aproximação de funções e integração.</p>
+<p><em>Avaliação</em>: Criticar soluções e metodologias utilizadas. Ser capaz de comunicar as suas conclusões e os seus conhecimentos e raciocínios a elas subjacentes, de uma forma clara sem ambiguidades.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Análise Matemática 1, Álgebra, Computação e Análise Matemática 2.</p>
+
+## Programa
+<p>1. Análise Numérica e Computação Científica<br />  1.1 Objetivo da análise numérica.<br />  1.2 Teoria de erros: conceitos básicos, definições e propriedades. <br />  1.3 Propagação de erros. <br />  1.4 Métodos Diretos e Métodos iterativos. <br />  1.5 Métodos Iterativos. Ordem de convergência de uma sucessão de iterados.<br />2. Equações não lineares: métodos iterativos<br />  2.1 Método das Bissecções sucessivas<br />  2.2 Método de Newton<br />  2.3 Método da Secante. <br />  2.4 Condições de convergência e critérios de paragem para os métodos iterativos estudados. <br />  2.5 Estimativa do erro. <br />3. Sistemas de equações.<br />  3.1. Métodos Diretos para a resolução de sistemas lineares<br />    3.1.1.Método de eliminação de Gauss.<br />    3.1.2 Decomposição LU de Doolittle.<br />    3.1.3 Técnicas de pivotagem. <br />  3.2. Métodos Iterativos para sistemas não lineares: Método de Newton. <br />4. Aproximação de funções e dados.<br />  4.1. Interpolação polinomial.<br />    4.1.1 Diferentes construções do polinómio interpolador.<br />    4.1.2 Polinómios de Lagrange.<br />    4.1.3 Erro de interpolação. <br />    4.1.4 Diferenças dividias e Derivadas.<br />  4.2. Introdução ao método dos mínimos quadrados. Equações Normais.<br />5. Integração Numérica: <br />  5.1. Fórmulas de Newton-Cotes.<br />  5.2. Fórmulas compostas.<br />  5.3. Erros de integração numérica. <br /><br />Conteúdo Científico: 70% <br />Conteúdo Tecnológico: 30% <br /><br />DEMONSTRAÇÃO DA COERÊNCIA DOS CONTEÚDOS PROGRAMÁTICOS COM OS OBJETIVOS DA UNIDADE CURRICULAR: <br />A resolução de problemas com recurso aos métodos analíticos tradicionais tem uma expressão reduzida, nomeadamente quando os problemas são de natureza prática, gerados por aplicações no âmbito da Engenharia. O estudo analítico não é contudo descurado no plano de estudos ao contemplar a Análise Matemática e a Álgebra onde os estudantes adquirem os conhecimentos básicos das técnicas de aplicação posteriores. Nesta área da Matemática Aplicada, os métodos numéricos permitem alargar os tipos de técnicas de resolução de problemas, intervindo nas situações em que a resolução analítica é em si mesmo impraticável ou naquelas em que a natureza dos problemas, os dados com que se trabalha ou o tipo de soluções em vista, exigem abordagens numéricas. A Análise Numérica amplia assim as possibilidades do exercício da matemática na resolução de problemas de Engenharia.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Os conceitos e técnicas são apresentados com recurso aos conhecimentos de Análise e Álgebra e, sempre que possível, a exposição teórica é acompanhada de exemplos práticos e representações gráficas. Os aspetos teóricos são apresentados com rigor para mostrar a aplicabilidade das fórmulas. Adicionalmente, são feitos comentários justificados comparando os vários métodos no que se refere à sua eficiência, precisão dos resultados obtidos e aplicabilidade. Os alunos são incentivados a elaborar algoritmos e os métodos numéricos. Nas aulas práticas são resolvidos vários casos de estudo com o computador usando Matlab. Para facilitar o diálogo entre todos os participantes da unidade curricular ela está inserida na plataforma Moodle. Nessa página além de terem acesso a todos os conteúdos fornecidos pelos docentes, os estudantes têm a possibilidade de consolidar os conceitos com testes de autoavaliação com avaliação comentada imediata e de usar os fóruns para colocar questões que podem ser vistas por toda a comunidade de Análise Numérica. <br /><br />DEMONSTRAÇÃO DA COERÊNCIA DAS METODOLOGIAS DE ENSINO COM OS OBJETIVOS DE APRENDIZAGEM DA UNIDADE CURRICULAR: <br />Os aspetos teóricos são apresentados com rigor nas aulas teórico e o incentivo da utilização dos computadores, permitem atingir os objetivos da unidade curricular relacionados com a utilização de diferentes técnicas numéricas de resolução de problemas de Engenharia. Permite assim fornecer ferramentas de trabalho para as unidades curriculares que envolvam cálculo intensivo. A utilização da plataforma Moodle permite também melhorar a interatividade entre todos os participantes da unidade curricular e consolidar os conceitos com testes de autoavaliação.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Teste: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação distribuída é facultativa.<br /><br />1. Fórmula de cálculo da classificação final para notas superiores ou iguais a 7.5 no Exame Final (EF). Neste caso a classificação final (CF) é definida por:</p>
+<p>CF = máximo {EX; AD} onde,</p>
+<p>EX &#8211; classificação do exame final presencial</p>
+<p>AD = 30% x MP + 70% x EX<br /><br />MP é a classificação da componente de avaliação distribuída, obtida por 2 atividades:<br /><br />- Nota da participação positiva em 3 atividades Moodle  (10%)<br />- Nota do teste Sumativo Presencial (20%)<br /><br />2. Para notas de exame inferiores a 7.5 no Exame Final a classificação final é a nota do exame.<br /><br /></p>
+<p>Todas as componentes de avaliação são expressas na escala de 0 a 20 valores.<br /><br />A avaliação distribuída obtida em anos anteriores não é válida.</p>
+
+## Obtenção de frequência
+<p>De acordo com os regulamentos e diretivas da direção da L.EC.<br /><br />Dispensa de frequência: "No presente ano letivo (2024/2025) estão dispensados do critério de obtenção de frequência no ano letivo em curso, para todos os efeitos, os estudantes que tenham obtido frequência à UC em ano letivo prévio. A partir do próximo ano letivo serão dispensados do critério de obtenção de frequência nesse ano letivo, para todos os efeitos, os estudantes que tenham obtido no ano letivo imediatamente anterior uma nota final na UC igual ou superior a 6 valores."</p>
+<p><span style="color: black; line-height: 115%; font-family: 'Verdana','sans-serif'; font-size: 7.5pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: PT; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"> </span></p>
+
+## Melhoria de classificação
+<p>Exame final.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Numerical Analysis
+
+## Curso responsável
+Bachelor in Civil Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>OBJECTIVES:<br />Developing the ability to determine and analyse results obtained by calculating instruments using approximate techniques.<br />Introduce the notion of stability of methods and number condition of a problem.<br />Use several techniques for numerical problem solving studying its efficiency, applicability and stability.<br />Solve problems using computer;<br />Know how to choose and decide which method of numerical solution to apply and which is the most efficient.<br />Discuss the numerical results obtained.</p>
+
+## Resultados de aprendizagem e competências
+<p>SKILLS AND LEARNING OUTCOMES: <br /><em>Knowledge:</em> Know and describe the fundamental concepts and numerical methods for solving engineering problems. Identify the main concepts associated to numerical solution and determination of approximate solutions.<br /><br /><em>Understanding:</em> Identify and interpret the different techniques to be used in numerical problem solving.<br /><br /><em>Application:</em> Develop skills for numerical problem solving. Apply knowledge and the ability to understand and solve problems in new and unfamiliar situations, in broad and multidisciplinary contexts.<br /><br /><em>Analysis:</em> Analyse, discuss and critically interpret results, highlighting the potential of methods and their limitations.<br /><br /><em>Synthesis:</em> Formulate and validate numerical solutions for solving non-linear equations, linear and non-linear systems, approximation of functions and integration. <br /><br /><em>Assessment:</em> Criticise solutions and methodologies used. Be able to communicate their conclusions and their underlying knowledge and reasoning in a clear unambiguous manner.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Mathamatical Analysis I and II, Algebra and Computatiion.</p>
+
+## Programa
+<p>1. Numerical Analysis and Scientific Computing.<br />  1.1 Goal for numerical analysis.  <br />  1.2 Theory of errors: basic concepts, errors definitions and <span class="tlid-translation translation"><span class="alt-edited" title="">properties</span></span>. <br />  1.3 Error propagation. <br />  1.4 Direct and iterative methods. <br />  1.5 Iterative methods. Order of convergence of a succession of iterates.<br />2. Solution of non-linear equations: iterative methods<br />  2.1 Bisection method<br />  2.2 Newton method.<br />  2.3 Secant method.<br />  2.4 Convergence conditions and stopping criteria for iterative methods.<br />  2.5 Error estimation.<br />3. Systems of equations.<br />  3.1. Direct methods for Linear Systems.<br />    3.1.1 Gauss elimination.<br />    3.1.2 LU decomposition Doolittle method.<br />    3.1.3 Pivoting techniques.<br />  3.2. Iterative methods for Non Linear Systems: Newton Method<br />4. Approximation of functions and data.<br />  4.1. Polynomial interpolation.<br />    4.1.1. Different constructions of the interpolating polynomial.<br />    4.1.2 Lagrange polynomials.<br />    4.1.3 Interpolation error. <br />    4.1.4 Divided differences and derivatives.<br />  4.2. Introduction to the least squares method. Normal equations.<br />5. Numerical integration: <br />  5.1. Newton-Cotes formulas.<br />  5.2. Composed formulas.<br />  5.3. Errors in numerical integration. <br /><br />Scientific Content: 70% <br />Technological content: 30% <br /><br />DEMONSTRATION OF THE SYLLABUS COHERENCE WITH THE CURRICULAR UNIT'S OBJECTIVES: <br />Problem-solving with recourse to traditional analytical methods has a reduced expression, particularly when the problems are of a practical nature, generated by applications within the engineering. The analytical study is however not neglected and MIEC studies program includes disciplines of mathematical analysis and algebra where students acquire the knowledge on what all subsequent application techniques will rely. On the area of applied mathematics, numerical methods allow an important extension of kinds of problem-solving techniques, intervene in situations where the analytically is impracticable or where the nature of the problems, the data with which you work or the type of solutions in vista, require numerical approaches. The numerical analysis thus extends the possibilities of math in solving engineering problems.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Concepts and techniques are presented according to Analysis and Algebra knowledge and, whenever possible, the theoretical exposition is supported by practical examples and graphic representations. Theoretical aspects are presented with enough detail to exhibit the applicability of formulas. Additionally, methods are analyzed and compared in what concerns their efficiency, accuracy and applicability. <span class="tlid-translation translation"><span class="" title="">Students are encouraged to develop algorithms for the numerical methods</span></span>. In practical classes, several case studies are solved on the computer using Matlab. This curricular unit is inserted in the Moodle platform, in order to enhance the discussion among all participants. In this platform, all students have access to every issue provided by the teachers and may strengthen their concepts by solving self-evaluation tests whose results are immediately commented. They may also use the forums to bring questions before all the community of Numerical Analysis. <br /><br />DEMONSTRATION OF THE COHERENCE BETWEEN THE TEACHING METHODOLOGIES AND THE LEARNING OUTCOMES: <br />The theoretical issues are accurately presented in lectures and the use of computers help to achieve the objectives of the curricular unit, related to the use of different numerical techniques for solving engineering problems. It allows to provide working tools for subsequent curricular that use computation intensively. The use of Moodle also allows better interaction between all participants of the curricular unit and consolidates the concepts by doing self-assessment tests.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Teste: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Distributed assessment is optional.<br /><br />1. Calculation formula of final grade for grades greater than or equal to 7.5 in the Final Exam (EF). Final mark (CF) is calculated according to:</p>
+<p>CF = <span class="tlid-translation translation" lang="en"><span class="" title="">maximum</span></span> {EX; AD} where,</p>
+<p>EX &#8211; Final Exam Mark, <span class="gt-card-ttl-txt" style="direction: ltr;">in situ</span></p>
+<p>AD = 30% x MP + 70% x EX</p>
+<p><span id="yui_3_17_2_1_1589884179076_6090" lang="en"><span id="yui_3_17_2_1_1589884179076_6089" title=""><span id="yui_3_17_2_1_1589884179076_6088" lang="en"><span id="yui_3_17_2_1_1589884179076_6087" title=""><span id="yui_3_17_2_1_1589884179076_6086" lang="en"><span id="yui_3_17_2_1_1589884179076_6085" title=""><span class="tlid-translation translation" lang="en"><span class="" title="">MP is the classification of the distributed evaluation component, obtained by activities:<br /></span><br /><span class="" title="">- Mark of positive participation in 3 Moodle activities</span> (10%)<br /><span class="" title="">- Summative test mark (20%)</span></span></span></span></span></span></span></span><br /><br />2. For exam grades lower than 7.5 the final mark is the exam mark.<br /><br /></p>
+All marks are quoted on a scale from 0 to 20.<br />
+<p>The distributed evaluation obtained in previous courses, is not valid.</p>
+
+## Obtenção de frequência
+<p>According to the regulations and directives of the L.EC Director.<br /><br />Exemption from attendance: &#8216;In the current academic year (2024/2025), students who have attended the UC in a previous academic year are exempt from the criterion of obtaining attendance in the current academic year, for all purposes. From the next academic year forward, students who have obtained a final mark of 6 or more in the UC in the immediately preceding academic year will be exempt from the criterion of obtaining attendance in that academic year, for all intents and purposes.&gt;</p>
+
+## Melhoria de classificação
+<p>Final exam.</p>
+

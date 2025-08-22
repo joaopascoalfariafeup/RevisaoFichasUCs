@@ -1,0 +1,201 @@
+# Curso a analisar
+Mestrado em Visão por Computador
+
+## Descrição
+Acreditação pela A3ES
+O ciclo de estudo encontra-se acreditado pela Agência de Avaliação e Acreditação do Ensino Superior (A3ES). Mais informação pode ser encontrada nos
+relatórios produzidos pela A3ES
+.
+A visão por computador (VC) é uma tecnologia emergente e a indústria da VC vem registando um enorme crescimento ano após ano. O Mestrado em Visão por Computador (MVCOMP) vai permitir aos graduados adquirir conhecimentos gerais em VC, bem como garantir a capacidade de analisar as necessidades de uma empresa no âmbito destas técnicas e propor e aplicar as ferramentas tecnológicas existentes. O MVCOMP oferece ao empregador um perfil profissional orientado para a visão computacional, com formação teórica e prática numa variedade de técnicas que proporcionam um conhecimento sólido e alargado da área, e lhe permite analisar as necessidades de uma empresa e fornecer soluções inovadoras.
+O MVCOMP é um curso internacional, sendo oferecido conjuntamente pela Universidade do Porto, Universidade de Santiago de Compostela, Universidade de Vigo, e Universidade da Corunha. O MVCOMP é totalmente oferecido em inglês.
+Objetivos
+Oferecer uma formação científica e profissional avançada em Visão por Computador (VC), permitindo a capacidade de:
+conhecer e aplicar os conceitos, metodologias e tecnologias de análise de imagem e vídeo;
+conhecer e aplicar técnicas de machine learning e reconhecimento de padrões aplicados à VC;
+análise e avaliação crítica e rigorosa de tecnologias e metodologias;
+analisar as necessidades de uma empresa no campo da VC e desenvolver a melhor solução tecnológica;
+identificar resultados teóricos ou novas tecnologias com potencial inovador e transformá-los em produtos e serviços;
+aprendizagem autónoma para especialização.
+Estas competências específicas são oferecidas em simultâneo com competências transversais, permitindo o exercício da profissão com uma consciência de sua dimensão humana, económica, legal e ética; e capacidade de trabalhar em equipa, organização e planeamento.
+Competências Profissionais
+O curriculum do Mestrado em Visão por Computador está ancorado em problemas do mundo real com uma componente de projetos de desenvolvimento na área de Visão por Computador. O MVCOMP visa assim formar profissionais altamente especializados capazes de assumir a liderança de projetos de Visão por Computador complexos e de grande dimensão com exigências de qualidade.
+Saídas Profissionais
+Programador em projetos de visão por computador
+Responsável por equipa de desenvolvimento de projetos de visão por computador
+Inspeção visual; controlo de qualidade; condução assistida e autónoma, automação e robótica, biometria, medicina
+Contactos
+Célia Couto
+Telefone: +351 220414984
+Email: mvcomp@fe.up.pt
+Sala:I013
+Informação adicional pode ser encontrada em:
+https://www.imcv.eu/
+
+# Unidade curricular: Descrição e Modelação de Imagem
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: O objetivo desta unidade curricular é familiarizar-se com as características fundamentais da imagem digital e as suas formas de representação, a descrição do conteúdo visual através de características locais de cor, forma e textura, e a aplicação prática destes conceitos a problemas de processamento de imagem.
+
+## Resultados de aprendizagem: Competências do programa de estudos: Específicas<br />A1 CE1 &#8211; Conhecer e aplicar os conceitos, metodologias e tecnologias de processamento de imagem<br /><br />Competências do programa de estudos: Básico/Geral<br />B1 CB6 &#8211; Possuir e compreender conhecimentos que proporcionem uma base ou oportunidade para ser original no desenvolvimento e/ou aplicação de ideias, muitas vezes num contexto de investigação<br />B2 CB7 &#8211; Os estudantes podem aplicar os conhecimentos adquiridos e as competências de resolução de problemas em ambientes novos ou desconhecidos, em contextos mais amplos (ou multidisciplinares) relacionados com a sua área de estudo<br />B6 CG1 &#8211; Capacidade de analisar e sintetizar conhecimentos<br />B8 CG3 &#8211; Capacidade de desenvolver sistemas de visão por computador em função das necessidades existentes e aplicar as ferramentas tecnológicas mais adequadas<br /><br />Competências do programa de estudos: Transversal / Nuclear<br />C1 CT1 &#8211; Exercer a profissão com uma clara consciência das suas dimensões humana, económica, jurídica e ética e com um claro compromisso com a qualidade e a melhoria contínua<br />C2 CT2 &#8211; Capacidade de trabalhar em equipa, organizar e planear
+
+## Pré-requisitos e co-requisitos: Subjects that are recommended to be taken simultaneously:<br /><br /><ul><br /><li>Fundamentals of Machine Learning for Computer Vision</li><br /><li>Fundamentals of Image Analysis and Processing</li><br /></ul>
+
+# Unidade curricular: Instrumentação e Processamento para Visão Artificial
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: Esta unidade curricular aborda os aspetos da aquisição e processamento de imagem. Do ponto de vista da aplicação industrial, elucida também temas como a iluminação e a calibração de câmaras. É dada atenção aos aspetos de hardware, desde as lentes e sistemas de câmaras até às interfaces câmara-computador. Para além da análise de hardware, o software necessário é discutido com igual profundidade. Isto inclui ligações com conceitos básicos de imagem digital, análise e processamento de imagens (discutidos noutras unidades curriculares). Por fim, o aluno é apresentado a aspetos gerais das aplicações industriais da visão artificial, tais como estudos de caso e estratégias para a conceção de sistemas completos de visão artificial. O aluno estará habilitado não só a compreender sistemas atualizados de visão artificial, mas também a estar qualificado para o planeamento e avaliação desta tecnologia.
+
+## Resultados de aprendizagem: Competências Básicas<br />CB7- Os estudantes deverão ser capazes de aplicar os conhecimentos adquiridos ao longo do curso e a capacidade de resolução de problemas em novos cenários relacionados com a sua área de estudo.<br /><br />Competências Transversais<br />CT2- Capacidade de trabalho em equipa, organização e planeamento.<br />CT5- Planos ecológicos e de sustentabilidade na carreira profissional. Equidade, responsabilidade e eficiência com os recursos disponíveis.<br /><br />Competências genéricas<br />CG3- Capacidade de conceber e implementar sistemas de visão por computador atendendo às necessidades existentes e capacidade de executar as ferramentas mais adequadas.<br />CG4- Ser crítico e fazer avaliações rigorosas e criteriosas das tecnologias e metodologias.<br /><br />Competências Específicas<br />CE6- Conhecer e aplicar os fundamentos da aquisição de imagem e da visão por computador.
+
+## Pré-requisitos e co-requisitos: Recomenda-se o conhecimento de uma linguagem de programação, preferencialmente Python ou C++, e conceitos básicos de álgebra.
+
+# Unidade curricular: Fundamentos de Aprendizagem Computacional para Visão Computacional
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: Esta Unidade Curricular tem por objetivo apresentar alguns dos tópicos centrais em aprendizagem computacional, dos fundamentais ao estado da arte. Será colocado especial ênfase nos conceitos teóricos e em exemplos práticos e projetos laboratoriais. Cada exercício será cuidadosamente escolhido para reforçar os conceitos explicados nas aulas teóricas e desenvolver e generalizá-los em diversas direções. Os estudantes que concluam com sucesso devem ter a:<br />-Capacidade de trabalhar em equipa, organização e planeamento. <br />-Capacidade de analisar e sintetizar conhecimento. <br />-Capacidade de desenvolver sistemas simples de aprendizagem computacional de acordo com as necessidades existentes e aplicar as ferramentas tecnológicas mais apropriadas. <br />-Conhecer os fundamentais das técnicas de aprendizagem. <br />-Adquirir capacidades de aprendizagem que permitam continuar a estudar de uma forma autónoma.
+
+## Resultados de aprendizagem: Os estudantes que concluam com sucesso devem ter a:<br />-Capacidade de trabalhar em equipa, organização e planeamento. <br />-Capacidade de analisar e sintetizar conhecimento. <br />-Capacidade de desenvolver sistemas simples de aprendizagem computacional de acordo com as necessidades existentes e aplicar as ferramentas tecnológicas mais apropriadas. <br />-Conhecer os fundamentais das técnicas de aprendizagem. <br />-Adquirir capacidades de aprendizagem que permitam continuar a estudar de uma forma autónoma.
+
+# Unidade curricular: Aprendizagem Computacional Avançada para Visão Computacional
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: Esta unidade curricular tem por objetivo dar a conhecer aos estudantes técnicas avançadas de aprendizagem computacional, constituindo uma extensão da unidade curricular de aprendizagem computacional estudada no semestre anterior.
+
+## Resultados de aprendizagem: Capacidade de desenvolver sistemas de aprendizagem computacional de acordo com as necessidades existentes e aplicar as ferramentas tecnológicas mais apropriadas.<br />Conhecer, aplicar e avaliar modelos avançados de aprendizagem computacional.<br />Conhecer técnicas de aprendiz agem profunda, com abordagens de treino &#8216;end-to-end&#8217;, e minimizando o uso de dados etiquetados.<br />Resolver aplicações utilizando métodos de autoaprendizagem.<br />Adquirir capacidades de aprendizagem que permitam continuar a estudar de uma forma autónoma.<br />Capacidade de trabalhar em equipa, organização e planeam ento.<br />Capacidade de analisar e sintetizar conhecimento.
+
+# Unidade curricular: Práticas Externas
+
+## Ano: 1
+## Semestre: None
+## ECTS: 3.0
+## Objetivos: Cada estudante terá de realizar um trabalho em ambiente externo à universidade, inserido em projetos a de correr na instituição, permitindo ao estudante aplicar um processo de engenharia em visão por computador ao desenvolvimento de um sistema real, ao longo do trimestre, abrangendo algumas das fases de especificação de requisitos, arquitetura e desenho, implementação, integração, teste, documentação e demonstração, de acordo com necessidades do projeto onde venha a ser inserido.
+
+## Resultados de aprendizagem: Este trabalho deve levar o estudante a aprofundar uma temática relacionada com o mestrado em visão por computador, deve conduzir o estudante a interiorizar conceitos, métodos e técnicas na perspetiva de que se aprende fazendo, permitindo-lhe o desenvolvimento da reflexão e síntese; deve possibilitar a realização do trabalho aplicado ao contexto da área de especialização da visão por computador.
+
+# Unidade curricular: Biometria
+
+## Ano: 1
+## Semestre: None
+## Grupo(s) de opção a que pertence: Grupo de Unidades Curriculares Optativas
+## ECTS: 3.0
+## Objetivos: 
+
+## Resultados de aprendizagem: 
+
+# Unidade curricular: Análise de Imagens Biomédicas
+
+## Ano: 1
+## Semestre: 2
+## Grupo(s) de opção a que pertence: Grupo de Unidades Curriculares Optativas
+## ECTS: 6.0
+## Objetivos: <p>Conhecimento de técnicas avançadas de processamento e análise de imagens biomédicas.</p>
+<p>Análise de aplicaçãoes atuais de imagem biomédica, e capacidade de avaliação das soluções existentes, assim como o desenvolvimento de novas soluções específicas.</p>
+<p>Avaliação da adequabilidade das metodologias aplicadas no contexto multidisciplinar para contextos biomédicos.</p>
+<p>Capacidade de escrita de relatórios e resultados tecnico-científicos.</p>
+
+## Resultados de aprendizagem: <p>Conhecimento de técnicas avançadas de processamento e análise de imagens biomédicas.</p>
+<p>Análise de aplicaçãoes atuais de imagem biomédica, e capacidade de avaliação das soluções existentes, assim como o desenvolvimento de novas soluções específicas.</p>
+<p>Avaliação da adequabilidade das metodologias aplicadas no contexto multidisciplinar para contextos biomédicos.</p>
+<p>Capacidade de escrita de relatórios e resultados tecnico-científicos.</p>
+
+## Pré-requisitos e co-requisitos: Conhecimentos anteriores de processamento de sinais e imagem.
+
+# Unidade curricular: Fundamentos de Processamento e Análise de Imagem
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: Esta unidade curricular aborda os tópicos mais fundamentais em processamento e análise de imagens e apresenta-se como a primeira numa sequência com outra unidade curricular onde são apresentados os tópicos avançados. Além de estudar e aplicar técnicas fundamentais de processamento e análise de imagens, são estudadas aplicações nesta área que visam a resolução de problemas reais. Esta abordagem fornece aos estudantes as ferramentas necessárias para aplicar os algoritmos estudados em casos práticos, bem como a base para o desenvolvimento de novos algoritmos e prosseguir o estudo de métodos mais avançados.
+
+## Resultados de aprendizagem: Resultados de aprendizagem: <br /><br /><ul><br /><li>Compreender os conceitos básicos e técnicas de processamento de imagem digital.</li><br /><li>Compreender os conceitos básicos e técnicas de análise de imagens digitais.</li><br /><li>Capacidade de aplicar diferentes técnicas básicas para problemas de visão computacional.</li><br /><li>Saber avaliar a adequação das metodologias aplicadas em problemas específicos.</li><br /></ul><br />Competências:<br /><br />CT1. Exercer a profissão com clara consciência das suas dimensões humana, económica, jurídica e ética e com compromisso com a qualidade e a melhoria contínua.<br />CG2. Capacidade de analisar as necessidades de uma empresa na área da visão computacional e determinar a melhor solução tecnológica para a mesma.<br />CG4. Capacidade de análise crítica e avaliação rigorosa de tecnologias e metodologia.<br />CG5. Capacidade de identificar problemas não resolvidos e fornecer soluções inovadoras.<br />CG7. Capacidade de aprendizagem autônoma para especialização em uma ou mais áreas de estudo.<br />CE1. Conhecer e aplicar os conceitos, metodologias e tecnologias de processamento de imagem.<br />CE3. Conhecer e aplicar conceitos, metodologias e tecnologias de análise de imagem e vídeo.
+
+# Unidade curricular: Reconhecimento de Ações Humanas
+
+## Ano: 1
+## Semestre: None
+## Grupo(s) de opção a que pertence: Grupo de Unidades Curriculares Optativas
+## ECTS: 3.0
+## Objetivos: O grande objetivo nessa área da visão computacional é construir sistemas que possam encontrar automaticamente pessoas em imagens ou sequências de vídeo e determinar que ações estão a realizar. O reconhecimento de pessoas e ações humanas é um problema importante, com muitas aplicações práticas. Essa tecnologia é diretamente aplicável à interação homem-computador, recuperação e pesquisa de imagens e vídeos, segurança e vigilância, captura de movimento de vídeo e sistemas automatizados de assistência ao condutor.
+
+## Resultados de aprendizagem: Os estudantes devem adquirir o conhecimento de técnicas de reconhecime nto visual aplicadas ao reconhecimento de pessoas e partes do corpo; serem capazes de proceder à análise e avaliação de aplicações de reconhecimento de ações humanas e desenvolvimento de ferramentas baseadas em tecnologias avançadas para o reconhecimento de ações humanas.
+
+# Unidade curricular: Visão Artificial em Tempo Real
+
+## Ano: 1
+## Semestre: None
+## Grupo(s) de opção a que pertence: Grupo de Unidades Curriculares Optativas
+## ECTS: 3.0
+## Objetivos: Os estudantes vão aprender a programar aquisição e processamento de imagens em tempo real para aplicações de visão artificial.
+
+## Resultados de aprendizagem: Ao ser exposto e explorar os diferentes conceitos de visão artificial em tempo real espera-se que o estudante consiga identificar e aplicar estes conceitos corretamente, consiga analisar e sintetizar conhecimento; ao analisar as principais formulações de visão artificial em tempo real espera-se que o estudante consiga compreendê-las; e ao estudar aplicações concretas, relevantes, e atuais em visão artificial em tempo espera-se que o estudante consiga mais facilmente ter competências para o seu desenvolvimento, em sintonia com projetos de desenvolvimento de aplicações a serem realizados pelo estudante no âmbito da UC.<br />Os estudantes que concluam com sucesso a unidade curricular devem ter a capacidade de trabalhar em equipa, organização e planeamento; a capacidade de analisar e sintetizar conhecimento; a capacidade de desenvolver sistemas de visão artificial em tempo real de acordo com as necessidades existentes e aplicar as ferramentas tecnológicas mais apropriadas; conhecer os fundamentos de visão artificial em tempo real e as suas aplicações; a capacidade de aprendizagem que permita continuar a estudar de uma forma autónoma.
+
+# Unidade curricular: Modelação e Reconhecimento Tridimensional
+
+## Ano: 1
+## Semestre: None
+## Grupo(s) de opção a que pertence: Grupo de Unidades Curriculares Optativas
+## ECTS: 3.0
+## Objetivos: Estudo de diferentes modelos de representação de objetos 3D e das técnicas básicas de processamento, extração de características e deteção e / ou reconhecimento de estruturas 3D de objetos.
+
+## Resultados de aprendizagem: O estudante poderá escolher o modelo de representação e as técnicas mais apropriadas para aplicações específicas.<br />Capacidade de análise crítica e avaliação rigorosa de tecnologias e metodologia.<br />Capacidade de trabalhar em equipa, organização e planeamento.
+
+# Unidade curricular: Dissertação
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 30.0
+## Objetivos: Cada estudante terá de realizar um trabalho de investigação conducente à preparação de uma dissertação de natureza científica sobre um tema da área de conhecimento do ciclo de estudos. A dissertação deve ser especialmente realizada para este fim, constituindo um momento privilegiado de prova de capacidade científica do mestrando. O trabalho de investigação deve envolver componentes de carácter teórico e/ou experimental, promovendo a compreensão e a resolução de problemas em situações novas e não familiares, a seleção e recolha criteriosa de informação e bibliografia adequadas, a adoção de metodologias apropriadas, a conceção de uma solução para o problema proposto e respetiva implementação, e a análise crítica dos resultados. A dissertação de mestrado deve demonstrar que o candidato é um especialista no tema da mesma e deve igualmente demonstrar que ele adquiriu conhecimentos na fronteira do conhecimento na área em que a dissertação se inscreve. Culmina na apresentação e defesa pública de uma dissertação que descreva claramente o trabalho desenvolvido e os seus principais resultados.
+
+## Resultados de aprendizagem: São dependentes do tema específico que seja abordado.
+
+# Unidade curricular: Fotogrametria e Visão Robótica
+
+## Ano: 1
+## Semestre: 2
+## Grupo(s) de opção a que pertence: Grupo de Unidades Curriculares Optativas
+## ECTS: 6.0
+## Objetivos: Apresentação de temas específicos de fotogrametria que sejam transversais a vários domínios de aplicação, incluindo também as principais aplicações industriais.
+
+## Resultados de aprendizagem: Possuir e compreender o conhecimento que fornece uma base ou oportunidade para ser original no desenvolvimento e / ou aplicação de ideias, muitas vezes num contexto de pesquisa.<br />Saber como comunicar as suas conclusões - e o conhecimento e as razões últimas que as sustentam - para públicos especializados e não especializados de maneira clara e inequívoca.<br />Capacidade de trabalhar em equipa, organização e planeamento.<br />Capacidade de analisar e sintetizar conhecimento.<br />Conhecer e aplicar os conceitos, metodologias e te cnologias de fotogrametria e visão robótica.<br />Conhecer e aplicar os conceitos, metodologias e tecnologias de sistemas embarcados e navega ção autónoma.<br />Conhecimento e aplicação dos fundamentos dos sistemas de aquisição de imagens e visão artificial.<br />Conhecer e aplicar os conceitos, metodologias e tecnologias para o reconhecimento de padrões visuais em cenas reais.
+
+# Unidade curricular: Processamento e Análise de Imagem Avançados
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: <ul><br /><li>Estudo e aplicação de técnicas avançadas de processamento digital de imagens.</li><br /><li>Estudo e aplicação técnicas avançadas de análise de imagens digitais.</li><br /><li>Análise de problemas reais e projeto de desenvolvimento de soluções baseadas em tecnologias avançadas de processamento e análise de imagens.</li><br /><li>Avaliação da adequação das metodologias aplicadas em problemas específicos.</li><br /></ul>
+
+## Resultados de aprendizagem: <p>Os estudantes que concluírem este curso com sucesso deverão:<br /><br /></p>
+<ul>
+<li>compreender e ser capazes de explicar os conceitos de processamento digital de imagens e técnicas avançadas de análise de imagens digitais;</li>
+<li>conhecer e ser capazes de aplicar esses algoritmos em situações práticas;</li>
+<li>adquirir conhecimentos que lhes permitam resolver desenvolver soluções baseadas em tecnologias avançadas de processamento e análise de imagens;</li>
+<li>ser capazes de analisar e compreender artigos científicos seleccionados nas áreas de processamento e análise de imagem e de visão por computador.</li>
+</ul>
+
+# Unidade curricular: Reconhecimento Visual
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: As tarefas de reconhecimento visual vão desde a deteção de objetos em imagens e vídeos, classificação de objetos e reconhecimento de instâncias até ao reconhecimento de ações humanas. Neste curso faremos um estudo das primeiras tarefas de reconhecimento visual, visto que o reconhecimento de ações é o tema principal da unidade curricular Reconhecimento da Ação Humana.<br /><br />O objetivo é que os alunos adquiram conhecimentos e competências que lhes permitam projetar sistemas de deteção de movimento por vídeo, segmentação e rastreio baseado em movimento, classificação e deteção de objetos em imagens e vídeo, bem como rastreio visual de objetos.
+
+## Resultados de aprendizagem: Atenção especial será dada às competências específicas (CE) listadas abaixo e, em diferente grau, de acordo com as características da disciplina, as seguintes competências escolhidas entre as competências de níveis gerais (GC), transversais (CT) e de formação básica (CB):<br /><br />Fundamentos:<br />CB8: Espera-se que os estudnates sejam capazes de integrar conhecimentos e enfrentar a complexidade de fazer julgamentos com base em informações que, sendo incompletas ou limitadas, incluem reflexões sobre responsabilidades sociais e éticas vinculadas à aplicação de seus conhecimentos e julgamentos.<br /><br />CB10: Espera-se que os estudantes adquiram as competências de aprendizagem que lhes permitem continuar estudando de uma forma que será em grande parte autodirigida ou autónoma.<br /><br />Transversal:<br />CT3: Desenvolvimento do espírito inovador e empreendedor.<br /><br />Em geral:<br />CG1: Capacidade de analisar e sintetizar conhecimento.<br />CG7: Capacidade de aprender de forma independente para se especializar em uma ou mais áreas de estudo.<br /><br />Específico:<br />CE1: Espera-se que os estudantes conheçam e apliquem os conceitos, metodologias e tecnologias de processamento de imagem.<br />CE2: Espera-se que os estudantes conheçam e apliquem técnicas de aprendizagem máquina e reconhecimento de padrões aplicadas à visão computacional.<br />CE3: Espera-se que os estudanets conheçam e apliquem os conceitos, metodologias e tecnologias de análise de imagem e vídeo.<br />CE5: Espera-se que os estudantes saibam como analisar e aplicar métodos do estado-da-arte em visão computacional.<br />CE9: Espera-se que os estudantes conheçam e apliquem os conceitos, metodologias e tecnologias para o reconhecimento de padrões visuais em cenas reais.
+
+# Unidade curricular: Instrumentação e Processamento para Aplicações Biomédicas
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: Apresentar ao aluno os aspectos fundamentais das aplicações informáticas relacionadas com a imagiologia médica.<br />Cada estudante demonstrará a sua capacidade de:<br />&#8211; Compreender os conceitos básicos relacionados com as diferentes modalidades de imagem biomédica e os fatores físicos que influenciam as suas propriedades.<br />&#8211; Conhecer as técnicas estatísticas actualmente utilizadas para a validação de aplicações biomédicas.<br />&#8211; Aplicar diferentes técnicas de processamento e análise em aplicações de imagiologia biomédica.<br />&#8211; Aprenda sobre as técnicas de gravação de imagens e as suas aplicações em imagens biomédicas.
+
+## Resultados de aprendizagem: Competências específicas:<br /><br />CE1 &#8211; Conhecer e aplicar os conceitos, metodologias e tecnologias de processamento de imagem<br />CE3 &#8211; Conhecer e aplicar os conceitos, metodologias e tecnologias de análise de imagem e vídeo<br />CE7 &#8211; Compreender e aplicar os fundamentos da aquisição, processamento e análise de imagens médicas<br /><br />Competências básicas/gerais:<br /><br />CB7 &#8211; Os estudantes são capazes de aplicar os conhecimentos adquiridos e as competências de resolução de problemas em ambientes novos ou desconhecidos, em contextos mais amplos (ou multidisciplinares) relacionados com a sua área de estudo<br />CB8 &#8211; Os estudantes são capazes de integrar conhecimentos e lidar com a complexidade de fazer julgamentos com base em informações incompletas ou limitadas, incluindo reflexões sobre as responsabilidades sociais e éticas associadas à aplicação dos seus conhecimentos e julgamentos<br />CB10 &#8211; Os estudantes possuem as competências de aprendizagem que lhes permitem continuar a estudar de forma amplamente autodirigida ou autónoma<br />CG3 &#8211; Capacidade de desenvolver sistemas de visão por computador em função das necessidades existentes e aplicar as ferramentas tecnológicas mais adequadas<br />CG4 &#8211; Capacidade de análise crítica e avaliação rigorosa de tecnologias e metodologia<br />CG7 &#8211; Capacidade de aprendizagem autónoma para especialização numa ou mais áreas de estudo<br /><br />Competências transversais/nucleares:<br /><br />CT4 &#8211; Capacidade de compreender o significado e a aplicação da perspetiva de género nas diferentes áreas do saber e da prática profissional com o objetivo de alcançar uma sociedade mais justa e igualitária
+

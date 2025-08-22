@@ -1,0 +1,124 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise Matemática 3
+
+## Curso responsável
+Licenciatura em Engenharia Civil
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>OBJETIVOS: <br /><br />Estimular e motivar o estudante para a abordagem de problemas práticos modelados por equações diferenciais. Motivar o estudante para um conjunto de técnicas analíticas, numéricas e qualitativas, fundamentais para o estudo do comportamento de fenómenos e problemas de engenharia, modelados por equações diferenciais.</p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>COMPETÊNCIAS E RESULTADOS DE APRENDIZAGEM:<br /> <br /> <em>Conhecimento:</em> Conhecer e descrever os conceitos fundamentais e métodos para resolver equações diferenciais. Identificar os principais conceitos associados à modelação matemática usando equações diferenciais.</p>
+<p><em>Compreensão:</em> Identificar e interpretar as diferentes técnicas a usar na resolução de problemas envolvendo equações diferenciais.</p>
+<p><em>Aplicação:</em> Desenvolver competências para resolver equações diferenciais. Saber aplicar os conhecimentos e a capacidade de compreensão e de resolução de problemas em situações novas e não familiares, em contextos alargados e multidisciplinares.</p>
+<p>Análise: Analisar, discutir e fazer a interpretação crítica dos resultados, evidenciando as potencialidades dos métodos e as suas limitações.</p>
+<p><em>Síntese</em>: Formular soluções para problemas com equações diferenciais. Combinar as diferentes técnicas, analíticas, quantitativas e numéricas na resolução de equações diferenciais.</p>
+<p><em>Avaliação</em>: Criticar soluções e metodologias utilizadas. Ser capaz de comunicar as suas conclusões e os seus conhecimentos e raciocínios a elas subjacentes, de uma forma clara sem ambiguidades.</p>
+
+## Pré-requisitos e co-requisitos
+<p>CONHECIMENTOS PRÉVIOS: <br />O aluno deverá possuir os conhecimentos básicos das UCs de Álgebra, Análise Matemática 1 e 2.</p>
+
+## Programa
+1. Equações Diferenciais de primeira ordem<br />  1.1 Introdução ao estudo as equações diferenciais. Conceiros básicos.<br />  1.2 Modelação matemática e equações diferenciais. <br />  1.3 Soluções, solução particular, solução geral e conjunto solução de uma equação diferencial. Intervalo de validade de uma solução.<br />  1.4 Campo de direções e gráficos de soluções. <br />  1.5 Problemas de valor inicial. Existência e unicidade da solução de um problema de valor inicial.<br />  1.6 Resolução analítica.<br />    1.6.1 Equações diferenciais de variáveis separáveis. <br />    1.6.2 Equações diferenciais de primeira ordem lineares. <br />    1.6.3 Mudança de variável em equações diferenciais. <br />    1.6.4 Equações diferenciais exatas e redutíveis a exatas. <br />  1.7 Teoria Qualitativa das equações diferenciais autónomas.  <br />    1.7.1 Pontos de equilíbrio.<br />    1.7.2 Linha de fase.<br />    1.7.3 Classificação dos pontos de equilíbrio quanto à estabilidade<br />  1.8 Aplicação das equações diferenciais à resolução de problemas da ciência e engenharia.<br /><br /> 2. Equações Diferenciais de Ordem superior a 1<br />   2.1 Funções linearmente independentes. Wronskiano de duas ou mais funções. <br />   2.2 Equações diferenciais lineares homogéneas. <br />    2.2.1. Espaço de soluções. Conjunto gerador das soluções. Solução geral. Dimensão do espaço de soluções e ordem.<br />    2.2.2 Equações diferenciais lineares homogéneas com coeficientes constantes. Equação característica. Raízes reais e distintas. Raízes complexas. Raízes reais repetidas. Método da redução de ordem.<br />    2.2.3 Equações diferenciais lineares homogéneas com coeficientes variáveis. Equações de Euler-Cauchy.<br />  2.3 Equações diferenciais lineares não homogéneas. <br />    2.3.1 Solução geral. <br />    2.3.2 Procura de uma solução particular. Método da variação de parâmetros e método dos coefientes indeterminados. Aplicabilidade dos métodos na procura de uma solução particular.<br />  2.4 Aplicação ao estudo das vibrações mecânicas, oscilações forçadas e ressonância. <br />  2.5 Exemplos de equações diferenciais não-lineares.<br /><br /> 3. Sistemas de Equações Diferenciais Lineares de 1ª ordem<br />  3.1 Sistemas de equações diferenciais de primeira ordem e aplicações.<br />  3.2 Matrizes e sistemas de equações diferenciais lineares.<br />  3.3 Método dos valores próprios e vetores próprios e sistemas lineares.<br />  3.4 Análise Qualitativa de sistemas bidimensionais de equações diferenciais lineares: Pontos de equilíbrio, estabilidade e representação do retrato de fase.<br /><br /> 4. Teoria Qualitativa de Sistemas Bidimensionais de Equações Diferenciais não-lineares de 1ª ordem <br />  4.1 Pontos de equilíbrio. <br />  4.2 Linearização de sistemas não-lineares em torno de um ponto de equilíbrio. Classificação dos pontos de equilíbrio quanto à estabilidade. <br />  4.3 Sistemas gradientes e sistemas Hamiltonianos. Propriedades. <br /><br />5. Transformada de Laplace e equações diferenciais<br />  5.1 Definição e propriedades. <br />  5.2 Função de Heaviside e função Delta de Dirac. <br />  5.3 Resolução de Problemas de Valor Inicial.<br /><br /><br />Conteúdo Científico 80%<br />Conteúdo Tecnológico 20%<br /><br />DEMONSTRAÇÃO DA COERÊNCIA DOS CONTEÚDOS PROGRAMÁTICOS COM OS OBJETIVOS DA UNIDADE CURRICULAR:<br /><p>Esta é uma unidade curricular, essencialmente formativa, coordena os conhecimentos teóricos fundamentais ao estudo de equações diferenciais com aplicação em vários fenómenos e problemas de engenharia. O conteúdo programático visa alargar as competências para a abordagem matemática de diferentes problemas de Engenharia.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Todos os temas da unidade curricular são abordados nas aulas teóricas e nas aulas teórico-práticas. As aulas de exposição teórica consistem em exposições orais onde a dedução e abstração é considerada fundamental. Nas aulas teóricas é dada ênfase à exposição de conceitos, princípios e teorias, fazendo uso frequente de exemplos de natureza física e geométrica.  Nas aulas teórico-práticas promove-se a discussão dos problemas propostos nas fichas de exercícios, sendo os estudantes incentivados a resolver individualmente ou em grupo esses problemas. As aulas são complementadas com uma página Moodle onde, para além de todo o material pedagógico de apoio, são disponibilizados testes de autoavaliação on-line para possibilitar a aferição do ensino/aprendizagem. É incentivado o uso de software (Octave/Matlab) e a simulação numérica é apresentada sempre que oportuno.<br /><br />DEMONSTRAÇÃO DA COERÊNCIA DAS METODOLOGIAS DE ENSINO COM OS OBJETIVOS DE APRENDIZAGEM DA UNIDADE CURRICULAR:</p>
+<p>Os estudantes são motivados para aplicar os conhecimentos e a capacidade de compreensão e de resolução de problemas descritos por equações diferenciais em situações novas, em contextos alargados e multidisciplinares.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Teste: 20.0 %
+- Exame: 70.0 %
+- Trabalho prático ou de projeto: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Fórmula de cálculo da classificação final para notas superiores ou iguais a 7.5 no Exame Final:<br /> <br /> CF = máximo { EF;  0.7xEF + 0.2xTS + 0.1xQZ}</p>
+<p>onde,</p>
+<p>EF &#8211; classificação do exame final presencial<br /> TS - Nota do Teste Sumativo, presencial <br />QZ - Média das notas em 3 atividades online (quizes)</p>
+<p>Para notas de exame inferiores a 7.5 a nota final é a nota do exame, EF.<br /> <br /><br />A avaliação distribuída obtida em anos anteriores não é válida.</p>
+
+## Obtenção de frequência
+De acordo com os regulamentos e diretivas da direção da L.EC. <br /><br />Dispensa de frequência: &quot;No presente ano letivo (2024/2025) estão dispensados do critério de obtenção de frequência no ano letivo em curso, para todos os efeitos, os estudantes que tenham obtido frequência à UC em ano letivo prévio. A partir do próximo ano letivo serão dispensados do critério de obtenção de frequência nesse ano letivo, para todos os efeitos, os estudantes que tenham obtido no ano letivo imediatamente anterior uma nota final na UC igual ou superior a 6 valores.&quot;
+
+## Melhoria de classificação
+<p>Exame Final.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Mathematical Analysis 3
+
+## Curso responsável
+Bachelor in Civil Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>OBJECTIVES:</p>
+<p>To stimulate and motivate the student to deal with practical problems modelled by differential equations. Motivate the student to a set of analytical, numerical and qualitative techniques, fundamental to the study of the behaviour of phenomena and engineering problems modelled by differential equations.</p>
+
+## Resultados de aprendizagem e competências
+COMPETENCES AND LEARNING OUTCOMES: <br /><br /><em>Knowledge</em>: Know and describe the fundamental concepts and methods for solving differential equations. Identify the main concepts associated to mathematical modelling using differential equations.<br /><br /><em>Understanding</em>: Identify and interpret the different techniques to use when solving problems involving differential equations.<br /> <br /><em>Application</em>: Develop skills in solving differential equations. Knowing how to apply knowledge and the ability to understand and solve problems in new and unfamiliar situations, in broad and multidisciplinary contexts.<br /><br /><em>Analysis</em>: Analyse, discuss and critically interpret results, highlighting the potential of methods and their limitations. <br /><br /><em>Synthesis</em>: Formulating solutions to problems with differential equations. Combine different techniques, analytical, quantitative and numerical, in solving differential equations.<br /><br /><em>Evaluation</em>: Criticise solutions and methodologies used. Be able to communicate their conclusions and the knowledge and reasoning behind them in a clear and unambiguous manner.
+
+## Pré-requisitos e co-requisitos
+<p>PREVIOUS KNOWLEDGE: <br />The student must have the basic knowledge of the UCs of Algebra, Mathematical Analysis 1 and 2.</p>
+
+## Programa
+<p>1. First-order differential equations<br />  1.1 Introduction to the study of differential equations. Basic concepts.<br />  1.2 Mathematical modelling and differential equations.<br />  1.3 Solutions, particular solution, general solution and solution set of a differential equation. Validity interval of a solution.<br />  1.4 Field of directions and graphs of solutions.<br />  1.5 Initial value problems. Existence and uniqueness of the solution of an initial value problem.<br />  1.6 Analytical solution.<br />    1.6.1 Differential equations of separable variables. <br />    1.6.2 Linear first-order differential equations.<br />    1.6.3 Change of variable in differential equations.<br />    1.6.4 Exact and reducible differential equations.<br />  1.7 Qualitative theory of autonomous differential equations. <br />    1.7.1 Equilibrium points.<br />    1.7.2 Phase line.<br />    1.7.3 Classification of equilibrium points in terms of stability.<br />  1.8 Application of differential equations to solving problems in science and engineering.</p>
+<p>2. Differential Equations of Higher Order<br />   2.1 Linearly independent functions. Wronskian of two or more functions.<br />   2.2 Homogeneous linear differential equations.<br />    2.2.1 Space of solutions. Solution generator set, General solution. Dimension of the space of all solutions and order.<br />    2.2.2 Homogeneous linear differential equations with constant coefficients. Characteristic equation. Real and distinct roots. Complex roots. Repeated real roots. Order reduction method.<br />    2.2.3 Homogeneous linear differential equations with variable coefficients. Euler-Cauchy equations.<br />  2.3 Non-homogeneous linear differential equations.<br />    2.3.1 General solution.<br />    2.3.2 Finding a particular solution. Method of variation of parameters and method of indeterminate coefficients. Applicability of the methods in the search for a particular solution.<br />  2.4 Application to the study of mechanical vibrations, forced oscillations, and resonance.<br />  2.5 Examples of non-linear differential equations.</p>
+<p>3. Systems of First-Order Linear Differential Equations<br />  3.1 Systems of first-order differential equations and applications.<br />  3.2 Matrices and systems of linear differential equations.<br />  3.3 Method of eigenvalues and eigenvectors and linear systems.<br />  3.4 Qualitative analysis of two-dimensional systems of linear differential equations: equilibrium points, stability and representation of the phase portrait.</p>
+4. Qualitative theory of two-dimensional systems of first-order non-linear differential equations<br />  4.1 Equilibrium points.<br />  4.2 Linearisation of non-linear systems around an equilibrium point. Classification of equilibrium points in terms of stability.<br />  4.3 Gradient systems and Hamiltonian systems. Properties.<br /><br />5. Laplace transform and differential equations<br />  5.1 Definition and properties.<br />  5.2 Heaviside function and Dirac Delta function.<br />  5.3 Solving initial value problems.<br />
+<p> <br />Scientific component:80%<br />Technological component:20%<br /><br />DEMONSTRATION OF THE SYLLABUS COHERENCE WITH THE CURRICULAR UNIT'S OBJECTIVES: <br /><br /></p>
+<p>This curricular unit, essentially formative, coordinates the fundamental theoretical knowledge to study differential equations with application to several phenomena and engineering problems. The programmatic content extends the competencies for the mathematical approach to different engineering problems.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>All topics of the course unit are exposed in theoretical and practical classes. The theoretical exposition classes consist of oral presentations where deduction and abstraction are considered fundamental. In the lecture classes emphasis is given to the exposition of concepts, principles and theories, making frequent use of physical and geometric examples.  In the theoretical-practical classes, the problems proposed in the exercise sheets are discussed and the students are encouraged to solve them individually or in groups. The classes are complemented with a Moodle page where, besides all the pedagogical support material, self-assessment tests are available on-line to allow the evaluation of the teaching/learning process. The use of software (Octave/Matlab) is encouraged and numerical simulation is presented whenever appropriate.<br /><br />DEMONSTRATION OF THE COHERENCE BETWEEN THE TEACHING METHODOLOGIES AND THE LEARNING OUTCOMES: <br /><br />Students are motivated to apply their knowledge and ability to understand and solve problems described by differential equations in new situations, in large and multidisciplinary contexts.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Teste: 20.0 %
+- Exame: 70.0 %
+- Trabalho prático ou de projeto: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<span id=&quot;result_box&quot; lang=&quot;en&quot;></span>The formula of calculation of the final classification for grades higher or equal to 7.5 in the Final Examination is:<br /><br />CF = maximum { EF; 0.7xEF + 0.2xTS + 0.1xQZ}<br /><br />where,<br /><br />EX - final exam classification, onsite Test <br />TS - grade of the Summative, onsite Test <br />QZ - Average of the marks in 3 online activities (quizzes)<br /><br />For exam grades lower than 7.5, the final grade is the exam grade EF.<br /><br /><br />Distributed assessment obtained in previous years is not valid.<span id=&quot;result_box&quot; lang=&quot;en&quot;></span><br /><span id=&quot;result_box&quot; lang=&quot;en&quot;></span><br /><p> </p>
+
+## Obtenção de frequência
+According to the regulations and directives of the L.EC Director.<br /><br />Exemption from attendance: &#8216;In the current academic year (2024/2025), students who have attended the UC in a previous academic year are exempt from the criterion of obtaining attendance in the current academic year, for all purposes. From the next academic year forward, students who have obtained a final mark of 6 or more in the UC in the immediately preceding academic year will be exempt from the criterion of obtaining attendance in that academic year, for all intents and purposes.&#8217;
+
+## Melhoria de classificação
+<p>Final Exam.</p>
+

@@ -1,0 +1,130 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Teoria da Computação
+
+## Curso responsável
+Licenciatura em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p><span style="font-weight: 400;">Preparar os estudantes em tópicos relacionados com modelos da computação e sobre as classes de linguagens formais associadas.</span></p>
+<p><span style="font-weight: 400;">Munir os estudantes dos conhecimentos necessários que lhes permitam utilizar corretamente  linguagens regulares, expressões regulares, autómatos finitos determinísticos e não-determinísticos, linguagens e gramáticas  independentes de contexto, autómatos de pilha, e Máquinas de Turing.</span></p>
+<p><span style="font-weight: 400;">Capacitar os estudantes para que estes sejam capazes de expressar problemas computacionais usando linguagens formais, autómatos e máquinas de Turing.</span></p>
+<p><span style="font-weight: 400;">Capacitar os estudantes de métodos para formalizar problemas computacionais relacionados com linguagens  formais.</span><br style="font-weight: 400;" /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-weight: 400;">Ao completar a unidade curricular, espera-se que os estudantes sejam capazes de:</span></p>
+<p><span style="font-weight: 400;">Capacidade de especificar linguagens formais simples usando formas de descrição alternativas e de determinar a sua classificação na hierarquia de poder computacional. Em particular:</span></p>
+<p><span style="font-weight: 400;">- Identificar problemas tratáveis com autómatos finitos e exprimi-los com notação rigorosa;</span></p>
+<p><span style="font-weight: 400;">- Comparar os autómatos finitos determinísticos, não-determinísticos e as expressões regulares no reconhecimento das linguagens regulares;</span></p>
+<p><span style="font-weight: 400;">- Usar as propriedades das linguagens regulares;</span></p>
+<p><span style="font-weight: 400;">- Identificar problemas que se podem tratar com gramáticas independentes de contexto e descrevê-los usando esses formalismos;</span></p>
+<p><span style="font-weight: 400;">- Comparar as gramáticas independentes de contexto e os autómatos de pilha no reconhecimento das LICS;</span></p>
+<p><span style="font-weight: 400;">- Exprimir problemas usando máquina de Turing;</span></p>
+<p><span style="font-weight: 400;">- Relacionar os modelos de computação estudados com as suas aplicações na teoria da computabilidade e da complexidade.</span></p>
+<p><br style="font-weight: 400;" /><br /></p>
+
+## Pré-requisitos e co-requisitos
+É recomendado que os estudantes tenham frequentado a unidade curricular de Matemática Discreta.
+
+## Programa
+<p><span style="font-weight: 400;">Noção de linguagem formal. Autómatos finitos determinísticos e não determinísticos.</span></p>
+<p><span style="font-weight: 400;">Expressões regulares, autómatos finitos e linguagens regulares.</span></p>
+<p><span style="font-weight: 400;">Propriedades das linguagens regulares;</span></p>
+<p><span style="font-weight: 400;">Minimização de autómatos finitos determinísticos. Lema da repetição para linguagens regulares. </span></p>
+<p><span style="font-weight: 400;">Linguagens e gramáticas independentes de contexto.</span></p>
+<p><span style="font-weight: 400;">Autómatos de pilha;</span></p>
+<p><span style="font-weight: 400;">Propriedades das linguagens independentes de contexto (LIC). Lema da repetição para LICs.</span></p>
+<p><span style="font-weight: 400;">Introdução às Máquinas de Turing e noção de computabilidade.</span></p>
+<p><br style="font-weight: 400;" /><br /></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-weight: 400;">As aulas teóricas são usadas para exposição formal da matéria, acompanhada da apresentação de exemplos, realização de exercícios e sua discussão.</span></p>
+<p><span style="font-weight: 400;">Nas aulas teórico-práticas são propostos exercícios de aplicação.</span></p>
+<p><span style="font-weight: 400;">São propostos exercícios semanais com o objectivo de testar se os conceitos básicos estão a ser dominados pela generalidade dos alunos.</span></p>
+<p><span style="font-weight: 400;">O esforço previsto para além das aulas é de cerca de 4h semanais.</span></p>
+<p><br style="font-weight: 400;" /><br /></p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 103.0 horas
+- Frequência das aulas: 59.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><span style="font-weight: 400;">Serão realizados dois testes escritos, cada um com peso de 50% da nota final, sendo o segundo na época normal de exames. </span></p>
+<p><span style="font-weight: 400;">Nota final de exame: 100% exame.</span></p>
+<p><br style="font-weight: 400;" /><br /></p>
+
+## Obtenção de frequência
+Os alunos terão de frequentar pelo menos 75% das aulas TP.
+
+## Melhoria de classificação
+<p><span style="font-weight: 400;">A nota final da disciplina pode ser melhorada através de um exame de melhoria de classificação (implica inscrição para melhoria de nota). Em caso de melhoria, a nota obtida neste exame é a nota final a TC.</span><br style="font-weight: 400;" /><br /></p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Theory of Computation
+
+## Curso responsável
+Bachelor in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>To prepare students about computing theory topics with a special emphasis on formal language topics.<br /><br />Students will learn about regular languages, regular expressions, non-regular languages, deterministic and nondeterministic finite automata, context-free languages and grammars, deterministic and non-deterministic pushdown automata, and Turing machines, and how to apply these topics to problems.<br /><br />Students will be able to express computing problems by using formal languages, automata, and Turing machines.<br /><br />In addition, students will learn how to formally specify computing problems related to formal languages and prove related statements.</p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of the semester, students should: <br />- Be capable of identifying the important contributions to computing theory and its protagonists; <br />- Be capable of identifying the problems that can be solved with finite automata and express them rigorously; <br />- Be capable of comparing deterministic finite automata (DFAs), non-deterministic finite automata (NFAs), regular expressions, and regular languages; <br />- Be capable of applying the properties of regular languages; <br />- Be capable of identifying problems that can be handled by context-free grammars (CFGs); <br />- Be capable of relating context-free grammars and pushdown automata (PDAs) in the processing of context-free languages; <br />- Be capable of expressing computing problems by using Turing machines; <br />- Be capable of relating the studied computing models with their applications in the computability theory and complexity theory. <br /><br /></p>
+
+## Pré-requisitos e co-requisitos
+It is recommended that students have attended the Discrete Mathematics course.
+
+## Programa
+<p>Notions of formal languages. Automata Theory; Finite Automata;<br /><br />Regular Expressions and Languages;<br /><br />Properties of Regular Languages;<br /><br />Automata minimization and pumping lemma;<br /><br />Context-Free Grammars and Languages;<br /><br />Pushdown Automata;<br /><br />Properties of Context-Free Language;<br /><br />Introduction to Turing Machines.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>In lectures, the contents are formally exposed along with presentation and discussion of examples. <br />In the tutorial classes, application exercises are proposed.<br />Weekly, the students are asked to do exercises to check if the basic concepts are being understood by the majority of students.<br />The foreseen effort beyond classes is about 4h per week.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 103.0 hours
+- Frequência das aulas: 59.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Two written tests will be carried out, each with a weight of 50% of the final grade, the second being during the normal exam period. <br /><br />Final exam grade: 100% exam.</p>
+
+## Obtenção de frequência
+Students must attend at least 75% of TP classes.
+
+## Melhoria de classificação
+<p>The final grade can be improved with a classification improvement exam (implies a registration to improve the grade in the course). In the case of improvement, the grade of the exam will be the final grade of TC.</p>
+

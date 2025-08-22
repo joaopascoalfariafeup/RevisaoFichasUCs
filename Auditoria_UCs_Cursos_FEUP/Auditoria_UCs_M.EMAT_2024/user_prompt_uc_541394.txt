@@ -1,0 +1,117 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Simulação de Processos Tecnológicos
+
+## Curso responsável
+Mestrado em Engenharia de Materiais
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+Pretende-se dotar os estudantes de conhecimentos sobre simulação com base no método dos elementos finitos, bem como, proporcionar a utilização de software de simulação para acelerar a conceção de produtos e processos de fabrico e identificar potenciais problemas. É abordada toda uma panóplia de ferramentas de simulação utilizadas na indústria metalúrgica, metalomecânica e de plásticos, como o objetivo de diversificar em vez de aprofundar apenas uma das vertentes CAE. Pretende-se ainda que os estudantes compreendam as vantagens e limitações das ferramentas, ficando aptos a utilizarem qualquer uma das tecnologias numa futura carreira em engenharia.
+
+## Resultados de aprendizagem e competências
+<p>Com a frequência desta unidade curricular, os estudantes deverão ser capazes de:</p>
+<ol>
+<li>utilizar o método dos elementos finitos na simulação CAE a partir de modelos CAD 3D</li>
+<li>modelar o sistema de gitagem e alimentação de peças produzidas por fundição e simular o vazamento</li>
+<li>simular operações de maquinagem de peças</li>
+<li>escolher estratégias de conceção e desenvolvimento adaptadas aos processos de fabrico aditivo</li>
+<li>simular características do material, tensões residuais e distorções em operações de soldadura de aços</li>
+<li>simular operações de conformação mecânica de peças metálicas</li>
+<li>simular a injeção de peças poliméricas</li>
+<li>simular transformações de fase em condições isotérmicas e de arrefecimento contínuo de aços</li>
+</ol>
+
+## Programa
+1. Otimização topológica<br />&#8226; Utilização de Software CAE<br />2. Simulação de maquinagem<br />&#8226; Utilização de Software CAE<br />&#8226; Maquinagem de componentes<br />3. Simulação de fabrico aditivo com nTopology<br />4. Simulação de processos de fundição com QuikCAST<br />&#8226; Fundição em areia<br />&#8226; Fundição injetada<br />&#8226; Fundição por cera perdida<br />5.Simulação de processos de conformação com DEFORM<br />&#8226; Forjamento<br />6. Simulação de processos de soldadura com SYSWELD<br />7. Simulação de injeção de plástico com MoldFlow/Moldex3D<br />8. Simulação de transformações de fase nos aços com JMatPro
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Em cada módulo serão apresentadas as várias ferramentas de simulação, utilizando-se uma abordagem essencialmente prática com casos reais, permitindo aos estudantes utilizar ferramentas CAE e perceber como se obtêm resultados concretos. Os estudantes serão organizados em grupos de 2-3 elementos e desenvolverão um projeto proposto pelo docente de forma a consolidar os conceitos apresentados. Os projetos desenvolvidos serão apresentados na forma de um relatório que será objeto de avaliação.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 100.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 39.0 horas
+- Estudo autónomo: 43.5 horas
+- Frequência das aulas: 39.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Classificação Final = 100% (classificação da avaliação distribuída)</p>
+<p>A classificação da avaliação distribuída é feita do seguinte modo:</p>
+<p>19% - avaliação do relatório 1 (módulo 1);</p>
+<p>19% - avaliação do relatório 2 (módulo 2);</p>
+<p>19% - avaliação do relatório 3 (módulo 3);</p>
+<p>28% - avaliação do relatório 6 (módulo 6);<br />  5% - avaliação do relatório 7 (módulo 7);<br />10% - avaliação do relatório 8 (módulo 8);<br /><br /></p>
+<br />
+<div id="gtx-trans" style="position: absolute; left: -62px; top: 22px;"> </div>
+
+## Obtenção de frequência
+Será aplicado o regime de faltas em vigor na FEUP.
+
+## Melhoria de classificação
+A melhoria da classificação pode ser feita no exame de recurso.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Simulation of Technological Processes
+
+## Curso responsável
+Master in Materials Engineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+At the end of this course, students are expected to acquire knowledge of simulation applications to accelerate product development and manufacturing processes.<br />Students should be able to use simulation to optimize 3D component geometry and make the correct selection of materials. They should also be able to use simulation tools to avoid problems during manufacturing processes.<br />As secondary objectives, it is intended that students are able to understand the working principle of simulation software, as well as understand the limitations of these technologies.
+
+## Resultados de aprendizagem e competências
+By conducting tutorials on the different simulation applications covered, representative of the various CAE technologies commonly used in the industry, students have an introductory background with a broad spectrum of applications, thus being able to use either technology in a future engineering career.<br />The very practical, real-world approach allows students to quickly learn how to derive concrete results from CAE tools.<br />Theoretical accompaniment aims to transmit to students the knowledge necessary to interconnect the results obtained in the simulation with the concepts acquired in other curricular units, in order to be able to interpret these same results and make the appropriate decisions.<br />They also get to know the main problems and limitations of the CAE tools, thanks to the proposed tutorials and exercises.<br />The consolidation of the subject is achieved through the challenges proposed in each step of the course, where students have to be able to overcome deficiencies or errors in the component, its tool or its manufacturing process.
+
+## Programa
+1. Topological optimization<br />&#8226; Using CAE software<br />2. Machining simulation<br />&#8226; Using of CAE software<br />&#8226; Machining of components <br />3. Additive manufacturing simulation with nTopology<br />4. Casting process simulation with QuikCAST<br />&#8226; Sand casting<br />&#8226; Injection casting<br />&#8226; Lost wax casting<br />5. Forming process simulation with DEFORM<br />&#8226; Forging<br />6. Welding process simulation with SYSWELD<br />7. Plastic injection simulation with MoldFlow/Moldex3D8<br />8. Phase transformation simulation in steels with JMatPro
+
+## Métodos de ensino e atividades de aprendizagem
+Each module will present simulation tools using a practical approach with real-life examples, enabling students to use CAE tools and understand how to obtain concrete results. Students will be organised into groups of two to three members and will develop a project proposed by the teacher to consolidate the presented concepts. These projects will be presented in the form of a report and evaluated.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 100.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 39.0 hours
+- Estudo autónomo: 43.5 hours
+- Frequência das aulas: 39.0 hours
+
+## Fórmula de cálculo da classificação final
+Final Classification = Examination Classification * 0.7 + Distributed Evaluation * 0.3<br /><br />Final Grade = 100% (distributed assessment grade)<br />The distributed assessment grade is calculated as follows:<br />19% - assessment of report 1 (module 1);<br />19% - assessment of report 2 (module 2);<br />19% - assessment of report 3 (module 3);<br />28% - assessment of report 6 (module 6);<br />5% - assessment of report 7 (module 7);<br />10% - assessment of report 8 (module 8);
+
+## Obtenção de frequência
+<p>FEUP absence regulation will be applied.</p>
+
+## Melhoria de classificação
+The improvement of the final grade may be improved through an exam appeal.
+

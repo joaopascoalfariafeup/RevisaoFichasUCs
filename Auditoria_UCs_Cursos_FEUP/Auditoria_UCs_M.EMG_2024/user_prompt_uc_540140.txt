@@ -1,0 +1,110 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Instrumentação e Controlo
+
+## Curso responsável
+Mestrado em Engenharia de Minas e Geo-Ambiente
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>1) Conhecimentos: Relembrar métodos de resolução de equações diferenciais lineares utilizando a transformada de Laplace; <br />2) Compreensão: Reconhecer e explicar o comportamento de sistemas simples paradigmáticos; modelar processos com comportamento típico; Explicar a fundamentação física de sensores. Saber seleccionar sensores e válvulas ajustadas à sua função no laço de controlo. <br />3) Aplicação: Reconhecer estruturas de modelos a partir do seu comportamento experimental; <br />4) Análise: Utilizar a simulação dinâmica como ferramenta de compreensão e de acção sobre o processo; 5) Síntese: Distinguir e elaborar estratégias paradigmáticas de controlo; Avaliação: Avaliar o comportamento de um laço de controlo e o respectivo campo de estabilidade.</p>
+
+## Resultados de aprendizagem e competências
+<p>Características dos sistemas de controlo por feedback, feedforward e duplo. <br />Simulação dinâmica de sistemas simples; <br />Compreensão do comportamento típico de laços de controlo em circuito fechado.<br />Compreensão dos princípios físicos subjacentes aos principais sensores.<br />Estratégias de controlo na indústria mineira.</p>
+
+## Pré-requisitos e co-requisitos
+Conhecimentos prévios necessários: equações diferenciais lineares e transformada de Laplace.
+
+## Programa
+<p>MÓDULO I - INTRODUÇÃO À TEORIA DO CONTROLO: O processo, o sistema e o modelo. Transformações integrais. Descrição externa: A função de transferência (ou transmitância). A transmitância como transformada de Laplace da resposta impulsional. Resposta do sistema de 1ª ordem. Sistemas linearizáveis. Sistema de 2ª ordem. Análise de circuitos de controlo por retroacção (feedback). Estabilidade: Critérios Algébricos e Análise Frequencial. Controlo por actuação antecipada (Feedfoorward): Controlo relacional. Controlo baseado em modelos estacionários. Controlo baseado em modelos dinâmicos. Estabilidade e Ajuste. <br /> MÓDULO II - INSTRUMENTAÇÃO: Alarmes. Sensores de peso, sensores de nível, sensores de débito, medida da densidade, da fracção e da percentagem de sólidos, sensores de temperatura, sensores da granulometria, controlo acústico da intensidade da moagem e sensores de composição. Os actuadores. <br />MÓDULO III &#8211; ESTRATÉGIAS DE CONTROLO NA INDÚSTRIA MINEIRA: Descrição das principais estratégias de controlo aplicadas às principais operações unitárias de uma instalação de processamento: Fragmentação, Moagem e Flutuação.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teórico-práticas de apresentação dos conceitos fundamentais relativos à teoria do controlo, instrumentação e estratégias. Aulas prática de exercícios paradigmáticos utilizando uma abordagem baseada na função de transferência.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho escrito: 20.0 %
+- Teste: 75.0 %
+- Participação presencial: 5.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 85.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho escrito: 25.0 horas
+
+## Fórmula de cálculo da classificação final
+NF= 0,05 * P + 0,4 * T1 + 0,55 * T2 <br /><br />sendo:<br />NF - Classificação final; P - classificação de participação nas aulas; T1 - classificação obtida no 1º teste; T2 - classificação obtida no 2º teste.<br />
+
+## Obtenção de frequência
+<p>Para obter frequência os alunos terão que estar presentes em pelo menos 75% de todas as aulas leccionadas.</p>
+
+## Melhoria de classificação
+<p>Em exame de melhoria de classificação, incidindo sobre toda a matéria lecionada.<br />Componentes isoladas da avaliação distribuida não são passíveis de melhoria de classificação.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Instrumentation and Control
+
+## Curso responsável
+Master in Mining and Geo-Environmental Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>There are five fundamental aims:<br />1) Knowledge: Recall basic concepts related to the resolution of ordinary differential equations using the Laplace Transform; <br />2) Comprehension: Recognize and explain the behavior of simple paradigmatic systems; create models for systems with a typical behavior; to explain the physical foundation of sensors. To know how to select valves adjusted to their function in a closed loop control system. <br />3) Application: To recognize model structures and infer the relevant parameters from the experimental behavior; <br />4) Analysis: To use the dynamic simulation as a tool for comprehension and action on the process; 5) Synthesis: To distinguish and elaborate paradigmatic control strategies. Evaluation: To evaluate the behavior of a control loop and its field of stability.</p>
+
+## Resultados de aprendizagem e competências
+<p>Characteristics of control systems by feedback, feedforward and feedback corrected by feedforforward.  <br />Dynamic simulation of simple systems;  <br />Understanding of typical behavior of overall control loops in a closed control circuit. Understanding of physical principles underlying the main sensors.<br />Control strategies in the mining industry.</p>
+
+## Pré-requisitos e co-requisitos
+Required prior knowledge: linear differential equations and Laplace transform.
+
+## Programa
+<p>UNIT I &#8211; INTRODUCTION TO CONTROL THEORY: The process, the system and the model. Integral Transforms. External description: Transfer function (or transmittance). Transmittance as the Laplace transform of the impulsional response. Behaviour of systems of 1st order. Non-linear systems and linearization. Systems of 2nd order. The feedback control loop. Stability: algebraic criteria and frequential analysis. Feedforward control. <br />UNIT II - INSTRUMENTATION: Alarms. Physical conception of the main sensors: weight, level, flowrate, density, percentage of solids in a pulp, temperature, grain size, composition and acoustic control of grinding intensity. The actuators. <br />UNIT III - CONTROL STRATEGIES IN THE MINING INDUSTRY: Description of the main control strategies applied to the main unit operations of a processing plant: Fragmentation, Grinding and Flotation.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span class="tlid-translation translation" lang="en"><span class="" title="">Theoretical-practical classes for the presentation of fundamental concepts related to control theory, instrumentation and strategies.</span> <span class="" title="">Practical classes of paradigmatic exercises using a transfer function approach.</span></span></p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho escrito: 20.0 %
+- Teste: 75.0 %
+- Participação presencial: 5.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 85.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho escrito: 25.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>NF= 0.05 * P + 0.40 * T1 + 0.55 * T2 <br /><br />where:<br />NF - Final mark; P - performance and participation in classes; T1 - 1st test mark; T2 - 2nd test mark.<br /><br /><br /></p>
+
+## Obtenção de frequência
+<p><span class="tlid-translation translation" lang="en"><span class="" title="">To obtain attendance students will have to be present in at least 75% of the all taught classes .</span></span></p>
+
+## Melhoria de classificação
+<p>In a final exam covering all the subjects taught.<br />Isolated components of the distributed assessment are not subject to improvement of classification.</p>
+

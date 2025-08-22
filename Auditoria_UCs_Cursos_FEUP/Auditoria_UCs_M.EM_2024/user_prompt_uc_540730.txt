@@ -1,0 +1,102 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Mecânica Não-Linear dos Meios Contínuos
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<ul style=&quot;text-align: justify;&quot;><br /><li>Identificar as diferentes fontes de não linearidade.</li><br /><li>Consolidar e estender a formação em álgebra tensorial, operadores lineares, linearização e derivada direcionais.</li><br /><li>Generalização dos conceitos de estado de deformação, estado de tensão e as suas relações tendo em consideração grandes deslocamentos, rotações e deformações.</li><br /><li>Compreender e modelizar o comportamento à deformação dos materiais tendo em consideração a termodinâmica dos processos irreversíveis.</li><br /><li>Formular, através do método dos elementos finitos, um problema de engenharia de natureza não linear e derivar um algoritmo para o resolver.</li><br /><li>Saber utilizar programas de simulação numérica, desenvolvendo as capacidades técnicas, o espírito crítico e capacidade de análise.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<div style=&quot;text-align: justify;&quot;>No final da disciplina o aluno deve ter capacidade de identificar as fontes de não linearidade. Deve ter a capacidade de modelizar o comportamento dos materiais tendo em consideração a termodinâmica dos processos irreversíveis e formular, através do método dos elementos finitos, um problema de engenharia de natureza não linear. Deve ter também a capacidade de derivar um algoritmo para resolver um problema e saber utilizar programas de simulação numérica.</div>
+
+## Programa
+<ul><br /><li>Tensores: álgebra, operadores lineares, cálculo;</li><br /><li>Diferenciação: operadores de primeira, segunda, terceira e quarta ordem;</li><br /><li>Cinemática: movimento, configuração espacial e material, gradiente de deformação, decomposição polar, variação de volume;</li><br /><li>Cinemática: medidas de deformação, taxas de deformação, taxa da variação volume;</li><br /><li>Equações de balanço: massa, momento, energia, entropia;</li><br /><li>Tensão: Teorema de Cauchy e medidas de tensão alternativas e suas relações;</li><br /><li>Tensão: componente desviadora e isocórica, taxas de tensão;</li><br /><li>Princípio dos Trabalhos Virtuais;</li><br /><li>Invariância: observador, movimentos de corpo rígido;</li><br /><li>Leis constitutivas: elástico, visco-elástico, hiperplástico;</li><br /><li>Formulação de elementos finitos;</li><br /><li>Derivação do método dos elementos finitos não linear;</li><br /><li>Solução iterativa de um sistema de equações não linear &#8211; método de <em>Newton Raphson e Arc-length</em>;</li><br /><li>Algoritmos de integração de leis constitutivas &#8211; esquemas de integração de <em>Euler</em>;</li><br /><li>Cálculo da matriz tangente consistente.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+Aulas Teórico-Práticas. Nas Aulas será feita a exposição de vários assuntos teóricos bem como serão orientados trabalhos individuais que serão realizados no período de aulas, nas aulas e em casa.
+
+## Tipo de avaliação
+Avaliação por exame final
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 54.5 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho laboratorial: 28.0 horas
+
+## Fórmula de cálculo da classificação final
+<div style=&quot;text-align: justify;&quot;>A classificação final é a média das classificações obtidas na componente respeitante aos trabalhos (40%) e no exame (60%), em cada uma das componentes é necessária a obtenção de uma nota mínima de 7 valores (em 20).</div>
+
+## Obtenção de frequência
+<p style="text-align: justify;">A classificação final é a média das classificações obtidas na componente respeitante aos trabalhos (40%) e no exame (60%), em cada uma das componentes é necessária a obtenção de uma nota mínima de 7 Valores. A não obtenção de pelo menos 7 valores no Trabalho é motivo para não poder fazer quaisquer exames subsequentes.</p>
+
+## Melhoria de classificação
+É possível melhorar a Prova escrita no Exame de Recurso. O Trabalho não é susceptível de melhoria.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Non-Linear Continuum Mechanics
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<ul><br /><li><br /><div style=&quot;text-align: justify;&quot;>Identify the different sources of non-linearity.</div><br /></li><br /><li style=&quot;text-align: justify;&quot;><br /><div>Consolidate and extend the knowledge in tensor algebra, linear operators, linearization and directional derivative.</div><br /></li><br /><li style=&quot;text-align: justify;&quot;><br /><div>Generalization of the concepts of deformation state, stress state and their relations considering large displacements, rotations and deformations.</div><br /></li><br /><li style=&quot;text-align: justify;&quot;><br /><div>Understand and model the behavior of the deformation of materials considering the thermodynamics of the irreversible processes.</div><br /></li><br /><li style=&quot;text-align: justify;&quot;><br /><div>Formulate, through the finite element method, an engineering problem of non-linear nature and derive an algorithm to solve it.</div><br /></li><br /><li><br /><div style=&quot;text-align: justify;&quot;>Know how to use numerical simulation programs, developing technical skills, critical thinking and analysis skills.</div><br /></li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<div style=&quot;text-align: justify;&quot;>At the end of the course, the student must be able to identify the sources of non-linearity. It must have the ability to model the behavior of materials considering the thermodynamics of irreversible processes and formulate, through the finite element method, an engineering problem of a non-linear nature. You must also have the ability to derive an algorithm for solving a specific problem and knowledge of how to use numerical simulation programs.</div>
+
+## Programa
+<ul style=&quot;list-style-type: disc;&quot;><br /><li style=&quot;text-align: justify;&quot;>Tensors: algebra, linear operators, calculation;</li><br /><li style=&quot;text-align: justify;&quot;>Differentiation: operators of first, second, third and fourth-order;</li><br /><li style=&quot;text-align: justify;&quot;>Kinematics: movement, spatial and material configuration, deformation gradient, polar decomposition, volume variation;</li><br /><li style=&quot;text-align: justify;&quot;>Kinematics: deformation measurements, strain rates, rate of change in volume;</li><br /><li style=&quot;text-align: justify;&quot;>Balance equations: mass, momentum, energy, entropy;</li><br /><li style=&quot;text-align: justify;&quot;>Stress: Cauchy's theorem and alternative stress measurements and their relations;</li><br /><li style=&quot;text-align: justify;&quot;>Stress: deviating and isochoric component, stress rates;</li><br /><li style=&quot;text-align: justify;&quot;>Principle of Virtual Work;</li><br /><li style=&quot;text-align: justify;&quot;>Invariance: observer, rigid body movements;</li><br /><li style=&quot;text-align: justify;&quot;>Constitutive laws: elastic, visco-elastic, hyperplastic;</li><br /><li style=&quot;text-align: justify;&quot;>Finite element formulation;</li><br /><li style=&quot;text-align: justify;&quot;>Derivation of the nonlinear finite element method;</li><br /><li style=&quot;text-align: justify;&quot;>Iterative solution of a system of nonlinear equations - Newton Raphson and Arc-length method;</li><br /><li style=&quot;text-align: justify;&quot;>Integration algorithms of constitutive laws - Euler integration schemes;</li><br /><li style=&quot;text-align: justify;&quot;>Consistent tangent matrix calculation.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+Theoretical-Practical classes. In the Classes, the exposition of several theoretical subjects will be made as well as the supervision of individual assignments that will be performed in the period of classes, in the classes and at home.
+
+## Tipo de avaliação
+Evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 54.5 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho laboratorial: 28.0 hours
+
+## Fórmula de cálculo da classificação final
+<div style=&quot;text-align: justify;&quot;>The final classification is the average of the classifications obtained in the component related to the assignments (40%) and the exam (60%). For each of the components, it is necessary to obtain a minimum grade of 7 (out of 20). Failure to obtain at least 7 (out of 20) &#8203;&#8203;in the assignment inhibits the possibility to do any of the subsequent examinations.</div>
+
+## Obtenção de frequência
+<p>The final classification is the average of the classifications obtained in the component related to the assignments (40%) and in the exam (60%). For each of the components, it is necessary to obtain a minimum grade of 7 Values. Failure to obtain at least 7 values in the assignment inhibits the possibility to do any of the subsequent examinations.</p>
+
+## Melhoria de classificação
+Students can improve their grade by attending resit exam.
+

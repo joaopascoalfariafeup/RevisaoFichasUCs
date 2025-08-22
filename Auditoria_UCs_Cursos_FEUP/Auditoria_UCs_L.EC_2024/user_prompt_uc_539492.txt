@@ -1,0 +1,218 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Hidráulica 2
+
+## Curso responsável
+Licenciatura em Engenharia Civil
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>JUSTIFICAÇÃO:<br />As matérias lecionadas na unidade curricular (UC) de <strong>Hidráulica 2</strong> têm uma importância significativa para a Engenharia Civil. Os conhecimentos sobre os escoamentos sob pressão e com superfície livre são essenciais para os profissionais das áreas de aproveitamentos hidráulicos, sistemas de abastecimento de água e de saneamento básico, construções civis e vias de comunicação, entre outros. Essas matérias servem ainda de base a outras UCs do <strong>Mestrado em Engenharia Civil (M.EC) - Especialização em Hidráulica, Recursos Hídricos e Ambiente</strong>.<br /><br />OBJETIVOS:<br />Dimensionar redes de abastecimento de água, ramificadas e/ou emalhadas, de acordo com os requisitos regulamentares aplicáveis e com análise da piezometria. Selecionar máquinas hidráulicas (bombas e turbinas) para uma determinada instalação e caracterizar o seu funcionamento, tendo em conta considerações relativas às curvas características da máquina e da instalação. Caracterizar os escoamentos com superfície livre em regime uniforme, gradualmente variado e rapidamente variado em canais artificiais. Escoamento em canais naturais.</p>
+
+## Resultados de aprendizagem e competências
+<p><strong>Conhecimento:</strong> Dimensionar e/ou determinar a distribuição de caudais em condutas de sistemas de abastecimento de água. Relacionar diâmetros e perdas de carga com a necessidade de garantir pressões de serviço. Definir as condições de funcionamento de bombas hidráulicas em regime permanente (caudal bombeado, altura de elevação, rendimento, velocidade de rotação, NPSH) com base em considerações relativas às curvas características da instalação e da bomba ou associação de bombas. Selecionar e definir as condições de funcionamento de turbinas num determinado aproveitamento. Classificar os escoamentos com superfície livre. Relacionar o caudal transportado num canal com a altura de água normal em regime uniforme ou com a variação da altura de água devido à existência de singularidades. Determinar curvas de regolfo e estudar a dissipação de energia por ressalto hidráulico.<br /><br /><strong>Compreensão:</strong> Interpretar o funcionamento de uma rede de distribuição de água com base nos princípios da conservação da massa e da conservação da energia (redes emalhadas). Compreender a necessidade do controlo das pressões numa rede. Selecionar e avaliar as características de operação de uma máquina hidráulica, ou de uma associação, para uma determinada instalação. Explicar a relação entre o caudal transportado num canal hidráulico e as condições de escoamento. Avaliar as implicações de singularidades no circuito hidráulico nessas condições. Determinar o comprimento das curvas de regolfo e perceber a sua importância no estudo de cheias. Avaliar o comprimento de bacias de dissipação de energia por ressalto hidráulico e compreender a sua importância nos aproveitamentos hidráulicos.<br /><br /><strong>Aplicação:</strong> Aplicar os conceitos aprendidos na análise e na resolução de problemas, o mais reais possível, fundamentalmente nas áreas dos sistemas de abastecimento de água, dos aproveitamentos hidráulicos e da hidráulica fluvial. Potenciar a perceção da realidade dos fenómenos através de aulas laboratoriais.<br /><br /><strong>Análise:</strong> Analisar, discutir e interpretar de uma forma crítica os resultados obtidos, de forma a consolidar a perceção dos fenómenos e das metodologias de cálculo utilizadas.<br /><br /><strong>Síntese:</strong> Explicar e criticar as soluções obtidas no contexto da sua aplicação, procurando discutir de forma simples o porquê da abordagem utilizada e o interesse da sua aplicação.<br /><br /><strong>Avaliação:</strong> Criticar as soluções escolhidas e as metodologias utilizadas, tendo em conta as suas limitações e simplificações.</p>
+
+## Pré-requisitos e co-requisitos
+A não frequência e/ou aprovação na unidade curricular de <strong>Hidráulica 1</strong> pode conduzir a dificuldades acrescidas.
+
+## Programa
+<p><strong>Capítulo 1 - Escoamentos sob Pressão (2ª Parte)</strong></p>
+<p>1.1. Redes de condutas - movimento uniforme e variado.</p>
+<div style="padding-left: 30px;">1.1.1. Condutas com distribuição de percurso: noção de caudal equivalente e cálculo de perdas de carga.</div>
+<div style="padding-left: 30px;">1.1.2. Dimensionamento com base no critério da velocidade máxima regulamentar.</div>
+<p>1.2. Redes ramificadas</p>
+<div style="padding-left: 30px;">1.2.1 Dimensionamento e cálculo de caudais e cotas piezométricas.</div>
+<div style="padding-left: 30px;">1.2.2. Análise da piezometria: pressão mínima nos nós da rede.</div>
+<div style="padding-left: 30px;">1.2.3. Sistemas de tubagens.</div>
+<p>1.3. Redes emalhadas</p>
+<div style="padding-left: 30px;">1.3.1. Introdução, exemplos e conceitos.</div>
+<div style="padding-left: 30px;">1.3.2. Métodos de resolução. Método de Hardy-Cross. Erro de fecho.</div>
+<div style="padding-left: 30px;">1.3.3. Análise da piezometria: pressão mínima nos nós da rede.</div>
+<div style="padding-left: 30px;">1.3.4. Breve introdução ao programa EPANET. Exemplos de aplicação.</div>
+<p>1.4. Dimensionamento de condutas gravíticas: traçado e sua relação com a piezométrica.</p>
+<p>1.5. Dimensionamento de condutas elevatórias. Introdução à análise económica do problema.</p>
+<p> </p>
+<p><strong>Capítulo 2 - Máquinas Hidráulicas (bombas e turbinas)</strong></p>
+<p>2.1. Introdução. Tipos de máquinas hidráulicas. Bombas hidráulicas.</p>
+<p>2.2. Funcionamento de bombas integradas numa instalação.</p>
+<div style="padding-left: 30px;">2.2.1. Curvas características.</div>
+<div style="padding-left: 30px;">2.2.2. Pontos de funcionamento.</div>
+<div style="padding-left: 30px;">2.2.3. Seleção de bombas: diagramas em mosaico e colina de rendimentos.</div>
+<p>2.3 Associação de bombas hidráulicas em série e em paralelo.</p>
+<p>2.4. Semelhança de turbomáquinas.</p>
+<div style="padding-left: 30px;">2.4.1. Aplicação de relações de semelhança a bombas e turbinas.</div>
+<div style="padding-left: 30px;">2.4.2. Curvas de isoeficiência e aplicações (bombas de velocidade variável).</div>
+<p>2.5. Análise das condições de aspiração de bombas hidráulicas.</p>
+<p>2.6. Introdução aos Aproveitamentos Hidráulicos. Turbinas.</p>
+<div style="padding-left: 30px;">2.6.1. Principais tipos de turbinas e suas características.</div>
+<div style="padding-left: 30px;">2.6.2. Funcionamento de turbinas integradas numa instalação.</div>
+<div style="padding-left: 30px;">2.6.3. Potência, curvas características e velocidade de rotação específica.</div>
+<div style="padding-left: 30px;">2.6.4. Seleção de turbinas. Aplicações com turbinas.</div>
+<p> </p>
+<p><strong>Capítulo 3</strong> <strong>- Escoamentos com Superfície Livre</strong></p>
+<p>3.1. Introdução. Tipos de Escoamentos. Características Geométricas das secções.</p>
+<p>3.2. Aplicação do Teorema de Bernoulli.</p>
+<p>3.3. Fórmulas de Resistência. Regime Uniforme em Canais. Altura Normal.</p>
+<p>3.4. Energia específica e superfícies de energia. Altura crítica.</p>
+<p>3.5. Regime uniforme em canais. Secção de máximo caudal.</p>
+<p>3.6. Controlo do escoamento.</p>
+<p>3.7. Regime permanente gradualmente variado: regolfo.</p>
+<p>3.8. Aplicação do Teorema da Quantidade de Movimento.</p>
+<p>3.9. Regime permanente rapidamente variado. Ressalto hidráulico.</p>
+<p>3.10. Escoamentos rapidamente variados em canais:</p>
+<div style="padding-left: 30px;">3.10.1 Desníveis e sobrelevações.</div>
+<div style="padding-left: 30px;">3.10.2. Estrangulamentos e alargamentos.</div>
+<p>3.11. Secções Irregulares: aplicação a canais naturais.</p>
+<p>3.12. Ressalto afogado/submerso. Medição de caudal &#8211; Soleira Venturi e Parshall.</p>
+<p>3.13. Escoamentos uniformes e rapidamente variados (ondas estacionárias) em aproveitamentos hidroelétricos.</p>
+<p>3.14 Verificações Hidráulicas e Indicações para o Projeto de Canais.</p>
+<p><br /><br /><br />DISTRIBUIÇÃO DE MATÉRIAS: Cap. 1: 25%; Cap. 2: 25%; Cap. 3: 50%.<br /><br />DISTRIBUIÇÃO PERCENTUAL: <br />Conteúdo Científico - 50%; <br />Conteúdo Tecnológico - 50%.<br /><br />DEMONSTRAÇÃO DA COERÊNCIA DOS CONTEÚDOS PROGRAMÁTICOS COM OS OBJETIVOS DA UNIDADE CURRICULAR:<br />Esta UC apresenta princípios básicos da hidráulica indispensáveis ao exercício e à prática da Engenharia Civil, quer na resolução de problemas correntes, quer na análise de situações especiais, introduzindo ainda temáticas que serão desenvolvidas nas unidades curriculares da Especialização em Hidráulica, Recursos Hídricos e Ambiente do M.EC.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><strong>Aulas Teóricas:</strong> Aulas de exposição da matéria com utilização de recursos multimédia, bem como formulação e resolução de problemas-tipo no final de cada assunto. Consulta de elementos de apoio disponíveis nos conteúdos (web-page da unidade curricular no SiFeup).<br /><br /><strong>Aulas Teórico Práticas:</strong> Análise e resolução de problemas de aplicação selecionados de Fichas de Exercícios preparadas para cada um dos capítulos. Apoio do docente aos estudantes, individualmente, ao longo da resolução. No caso de uma dificuldade generalizada, há lugar a explicação por parte do docente à turma, com vista a que tal dificuldade possa ser ultrapassada.<br /><br /><strong>Aulas Laboratoriais</strong>: Estão previstas duas sessões de carácter demonstrativo, com explicação dos trabalhos laboratoriais e análise crítica de resultados: uma visando a determinação de curvas características de bombas hidráulicas isoladas, em série ou em paralelo, e a outra o estudo do ressalto hidráulico em canal. Os estudantes poderão, assim, consolidar alguns dos assuntos apreendidos nas aulas teóricas e teórico-práticas através da visualização e análise de resultados de experiências.<br /><br />DEMONSTRAÇÃO DA COERÊNCIA DAS METODOLOGIAS DE ENSINO COM OS OBJETIVOS DE APRENDIZAGEM DA UNIDADE CURRICULAR:<br />A apresentação de conceitos, princípios e teorias fundamentais da hidráulica recorrendo à interpretação de exemplos elucidativos visa desenvolver o raciocínio científico e crítico associado aos temas abordados. Desta forma pretende-se construir no estudante uma atitude e pensamento adequados à resolução de problemas de Engenharia (correntes e especiais) e desenvolver uma base sólida de formação para UCs posteriores, que permita uma formulação rigorosa dos problemas e uma correta utilização das técnicas aprendidas.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 95.0 %
+- Trabalho prático ou de projeto: 5.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 97.5 horas
+- Frequência das aulas: 58.5 horas
+- Trabalho laboratorial: 6.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final é definida com base numa avaliação distribuída sem exame final que consiste em duas provas escritas, <strong>T1</strong> e <strong>T2</strong>,<strong> </strong>e em dois trabalhos de laboratório. As provas T1 e T2 <strong>têm carácter obrigatório</strong>, sendo o peso de cada prova de <strong>47.5%</strong>. Cada um dos trabalhos de laboratório tem um peso de <strong>2.5%</strong>.<br /><br />Cada uma das provas escritas, a realizar sem consulta, inclui uma parte teórica e uma parte prática (com formulário). Classificação de 0 a 20 valores, arredondada às décimas: teórica &#8211; 50%; prática &#8211; 50%.<br /><br />A prova T1 incide sobre as matérias de redes e máquinas hidráulicas.<br />A prova T2 incide sobre a matéria de escoamentos com superfície livre.<br /><br />A classificação final, CF, resulta da seguinte fórmula de cálculo:<br /><strong>CF=CT1×47.5%+CT2×47.5%+TL1x2.5%+TL2x2.5%</strong><br /><br />Onde,<br /><strong>CT1</strong> &#8211; classificação da prova T1 a realizar a meio do semestre (data a definir)<strong>.</strong><br /> <strong>CT2</strong> &#8211; classificação da prova T2 a realizar no dia do exame da época normal.<br /><strong>TL1</strong> &#8211; classificação do trabalho de laboratório 1 - Bombas Hidráulicas.<br /><strong>TL2</strong> &#8211; classificação do trabalho de laboratório 2 - Escoamentos com Superficie Livre.<br /><br />A aprovação à UC requer a obtenção de uma <strong>classificação mínima de 6,0 valores (30%)</strong> em cada uma das provas de avaliação (T1 e T2).<br /><br /></p>
+<p>NOTA 1: <strong>TODOS</strong> os estudantes inscritos na unidade curricular são classificados de acordo com este método.</p>
+<p>NOTA 2: A Época de Recurso (ER) é constituída por duas provas de avaliação consecutivas (T1 e T2), a realizar durante a época de exames, em dia a definir.</p>
+<p>NOTA 3: Os estudantes que reprovem na <strong>Avaliação Distribuída</strong>, ou aqueles que pretendam fazer melhoria de classificação, poderão optar por realizar apenas uma das provas de avaliação (T1 ou T2) na ER, sendo, nesse caso, considerada a nota mais elevada obtida nessa prova para efeito de classificação final. Para tal, deverão formalizar o pedido dessa opção até <strong>48h</strong> antes do <strong>Exame de Recurso</strong>.</p>
+<p>NOTA 4: Os exames especiais comportam a <strong>TOTALIDADE</strong> da matéria.<br /><br />NOTA5: As condições de realização das provas de avaliação poderão ser ajustadas no futuro em função das restrições que possam surgir relacionadas com situações extraordinárias (e.g., pandemia COVID-19).</p>
+
+## Obtenção de frequência
+<p>A obtenção de classificação final exige o <strong>cumprimento de assiduidade à UC</strong>, conforme estabelecido nas regras de avaliação da L.EC. Considera&#8208;se que um estudante cumpre a assiduidade a uma UC se, tendo estado regularmente inscrito, não exceder o número limite de faltas correspondente a <strong>25%</strong> de cada um dos tipos de aulas previstos (aulas Teóricas e aulas Teórico-Práticas).<br /><br />No presente ano letivo (2024/2025) estão dispensados do critério de obtenção de frequência no ano letivo em curso, para todos os efeitos, os estudantes que tenham obtido frequência à UC em ano letivo prévio.</p>
+<p>A partir do próximo ano letivo (2025/2026) serão dispensados do critério de obtenção de frequência no ano letivo em curso, para todos os efeitos, os estudantes que tenham obtido no ano letivo imediatamente anterior uma nota final na UC<strong> igual ou superior a 6 valores</strong>.</p>
+
+## Melhoria de classificação
+<p>Os Estudantes que já tenham obtido aprovação podem efetuar MELHORIA DE CLASSIFICAÇÃO, uma única vez, nas seguintes condições:</p>
+<p>(i)  realizando a prova de avaliação T1, T2 ou ambas (classificadas de 0 a 20 valores) da ER do ano em que obtiveram aprovação à UC;</p>
+<p>(ii) realizando uma prova de avaliação englobando a TOTALIDADE da matéria (classificada de 0 a 20 valores) após o ER do ano letivo em que obtiveram aprovação à UC;<br /><br /> A Classificação Final na Unidade Curricular é a mais elevada, entre aquela que havia sido obtida inicialmente e a que resultar da melhoria de classificação efetuada.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Hydraulics 2
+
+## Curso responsável
+Bachelor in Civil Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>JUSTIFICATION:<br />The lecture topics of the course unit (UC) <strong>Hydraulics 2</strong> have significance in Civil Engineering. Enable knowledge about flow in pipelines and in open channels is critical for professionals working in hydraulic structures, water supply and wastewater infrastructures, building construction, and transport infrastructures, among others. Those topics provide the basis for other UCs within the <strong>Master in Civil Engineering (M.EC) -</strong> <strong>Specialization in Hydraulics, Water Resources and Environment</strong>.<br /><br />OBJECTIVES:<br />Basis for the design of water distribution networks, in accordance with applicable legal requirements and pressure distribution analysis. Selection of hydraulic machines (pumps or turbines) for a given installation and evaluation of machine operating conditions, obtained from the system curve and the machine characteristic curve. To learn to characterise the uniform and the gradually varied flows and the hydraulic jump in open channels. Flow in natural channels.</p>
+
+## Resultados de aprendizagem e competências
+<p><strong>Knowledge:</strong> To design and/or to determine the flow distribution in water supply networks. To relate the diameters and the head losses with the need to maintain effective operational pressures. To define operating conditions of pumps in steady flow (discharge, manometric head, efficiency, rotation speed, net positive suction head) with basis on the system curve and on the pump, or multiple pump systems, characteristic curve. To select and to determine the operating conditions of turbines for a given hydraulic structure. To differentiate flows in open channels. To link the discharge of water in a channel with depth in uniform or with water level variations due to singularities. To determine water level variations in gradually varied flows and the energy loss through the hydraulic jump.<br /><br /><strong>Comprehension:</strong> To interpret the pipe flow rates and pressure heads that satisfy the continuity and energy conservation equations. To understand the need of limiting effective pressure in networks. To select and analyse the operating conditions of a hydraulic machine or multiple machines for an installation. To explain the link between water discharge and flow establishment. To evaluate the impact of singularities to that flow establishment. To determine the length of gradually varied flows and its importance in the study of river floods. To assess the length of energy dissipators through the hydraulic jump and to understand its importance to hydraulic structures.<br /><br /><strong>Application:</strong> To apply the apprehended concepts in the analysis and the in solving of problems, which are as close as possible to the reality of water supply and wastewater infrastructures, hydraulic structures, and fluvial hydraulics. To develop perception of real phenomenon through laboratorial classes.<br /><br /><strong>Analysis: </strong>To critically analyse, discuss and interpret obtained results, in order to consolidate knowledge of the phenomenon and of the used computation methods.<br /><br /><strong>Synthesis:</strong> To critically explain possibilities and options in practice, seeking to briefly discuss the why behind the used approach and the relevancy of its application.<br /><br /><strong>Evaluation:</strong> To critically analyse choices and used computation methods, having in mind their limitations and simplifications.</p>
+
+## Pré-requisitos e co-requisitos
+The non-attendance and/or non-approval in <strong>Hydraulics 1</strong> increases the difficulty level of the present course unit.
+
+## Programa
+<p><strong>Chapter 1 &#8211; Flow of incompressible fluids in pipelines (part 2)</strong></p>
+<p>1.1. Pipeline networks - uniform and varied flow regimes.</p>
+<div style="padding-left: 30px;">1.1.1. Water distribution pipelines: equivalent flow rate and head losses calculation.</div>
+<div style="padding-left: 30px;">1.1.2. Pipe sizing based on the maximum velocity criterion. </div>
+<p>1.2. Branched networks.</p>
+<div style="padding-left: 30px;">1.2.1. Sizing and calculation of flow rates and piezometric heads.</div>
+<div style="padding-left: 30px;">1.2.2. Piezometric analysis: minimum pressure at the network junctions</div>
+<div style="padding-left: 30px;">1.2.3. Pipeline systems.</div>
+<p>1.3. Looped networks</p>
+<div style="padding-left: 30px;">1.3.1. introduction, examples and main concepts</div>
+<div style="padding-left: 30px;">1.3.2. Resolution methods. Hardy-Cross method. Closing error.</div>
+<div style="padding-left: 30px;">1.3.3. Piezometric analysis: minimum pressure at the network junctions.</div>
+<div style="padding-left: 30px;">1.3.4. Introduction to the EPANET software. Application examples.</div>
+<p>1.4. Design of gravity-pipeline systems: path and its relation to the piezometric head line.</p>
+<p>1.5. Design of pump-pipeline systems: introduction to economic analysis of the problem.</p>
+<p> </p>
+<p><strong>Chapter 2 &#8211; Hydraulic machines (pumps and turbines)</strong></p>
+<p>2.1. Introduction. Types of hydraulic machines. Pumps.</p>
+<p>2.2. Operating conditions of pumps within a given hydraulic system.</p>
+<div style="padding-left: 30px;">2.2.1. Pump characteristic curve and system curve.</div>
+<div style="padding-left: 30px;">2.2.2. System operating point.</div>
+<div style="padding-left: 30px;">2.2.3. Pump selection charts and efficiency diagrams.</div>
+<p>2.3. Association of pumps in series and in parallel.</p>
+<p>2.4. Dynamical similarity for turbomachines.</p>
+<div style="padding-left: 30px;">2.4.1. Application of similarity relationships to pumps and turbines.</div>
+<div style="padding-left: 30px;">2.4.2. Isoefficiency curves and applications (variable speed pumps).</div>
+<p>2.5. Suction lift limitations of pumps (net positive suction head - NPSH).</p>
+<p>2.6. Introduction to hydropower dams.</p>
+<div style="padding-left: 30px;">2.6.1. Turbines. Main types of turbines and their characteristics.</div>
+<div style="padding-left: 30px;">2.6.2. Operating conditions of turbines within a given hydraulic system.</div>
+<div style="padding-left: 30px;">2.6.3 Power, characteristic curves and specific rotational speed.</div>
+<div style="padding-left: 30px;">2.6.4. Turbine selection and applications.</div>
+<p> </p>
+<p><strong>Chapter 3</strong> <strong>&#8211; Flow in open channels</strong></p>
+<p>3.1. Introduction. Flow Types. Geometric characteristics of the cross sections.</p>
+<p>3.2. Application of Bernoulli's Theorem.</p>
+<p>3.3. Resistance formulas. Uniform regime in channels. Normal depth.</p>
+<p>3.4. Specific energy and energy surfaces. Critical depth.</p>
+<p>3.5. Uniform regime in channels. Best hydraulic section.</p>
+<p>3.6. Flow control.</p>
+<p>3.7. Steady, gradually varied flow regime. Water free surface profiles.</p>
+<p>3.8. Application of the conservation of momentum principle.</p>
+<p>3.9. Steady, rapidly varied flow regime. Hydraulic jump.</p>
+<p>3.10. Rapidly varied flows in channels:</p>
+<div style="padding-left: 30px;">3.10.1. Effect of upward/downward steps in an open channel flow.</div>
+<div style="padding-left: 30px;">3.10.2. Flow through contractions/expansions of the channel width.</div>
+<p>3.11. Irregular cross sections: application to natural channels.</p>
+<p>3.12. Submerged/drown hydraulic jump. Flow measurement - Venturi and Parshall flumes.</p>
+<p>3.13. Uniform and rapidly varied flows (oblique standing waves) in hydroelectric power plants.</p>
+<p>3.14. Hydraulic verifications and recommendations for the design of channels.<br /><br /><br /><br /><br />TOPICS' WEIGHTS: Cap. 1: 25%; Cap. 2: 25%; Cap. 3: 50%.<br /><br />PERCENTUAL DISTRIBUTION: <br />Scientific Component - 50%; <br />Technological Component - 50%.<br /><br />DEMONSTRATION OF THE SYLLABUS COHERENCE WITH THE CURRICULAR UNIT'S OBJECTIVES:<br />This UC presents the basic principles of hydraulics indispensable to the civil engineering exercise and practice, either to solve current or special problems, introducing also subjects to be developed in the UCs of the specialization in Hydraulics, Water Resources and Environment of M.EC.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><strong>Theoretical classes:</strong> Classes with the presentation of the subjects using the support of multimedia resources. Theories and models are explained and elucidative exercises are solved at the end of each subject. The basic supporting material is available from Sigarra (FEUP&#8217;s information system).<br /><br /><strong>Practical classes:</strong> For each chapter topic, a selection of exercises is proposed. During class, time is dedicated to the discussion of the proposed exercises, and the professor will clarify individually or collectively students&#8217; doubts.<br /><br /><strong>Laboratorial classes: </strong>Two demonstrative sessions are planned, with the explanation of laboratory work and a critical analysis of results: one aimed at determining the characteristic curves of isolated hydraulic pumps, in series or in parallel, the other on open channel flows. Therefore, students will be able to consolidate some of the subjects learned in the theoretical and theoretical-practical classes through the visualization and analysis of the results of experiences.</p>
+<p><br />DEMONSTRATION OF THE COHERENCE BETWEEN THE TEACHING METHODOLOGIES AND THE LEARNING OUTCOMES:<br />The presentation of concepts, principles and fundamental hydraulic theories by using an interpretation of illustrative examples aims to develop scientific and critical thinking related to the subjects studied. In this way, students develop a proper attitude and thinking to solve engineering problems (from current to special ones), as well as a solid basis for the subsequent UCs, allowing rigorous problems formulations and the correct application of the techniques learned.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 95.0 %
+- Trabalho prático ou de projeto: 5.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 97.5 hours
+- Frequência das aulas: 58.5 hours
+- Trabalho laboratorial: 6.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final grade is defined with basis on distributed evaluations (without a final exam), consisting of two written tests, <strong>T1</strong> and <strong>T2</strong>, and two laboratory assignments. Tests <strong>T1</strong> and <strong>T2</strong> are <strong>mandatory</strong>, being the weight of each one <strong>47,5%</strong>. Each of the laboratory assignments has a weight of <strong>2.5%</strong>.<br /><br />Each evaluation component, to be carried out without consultation, includes a theoretical part and a practical part (with the support of a form). Evaluation expressed on a 0-to-20 numerical scale, rounded to one decimal place: theory &#8211; 50%; practice &#8211; 50%.<br /><br /> Part T1 focuses on subjects related to the flow of incompressible fluids in pipelines, network analysis and hydraulic machines.<br />Part T2 focuses on open channel flows.<br /><br />The final grade, CF, will be calculated based on the following formula:<br /><strong>CF=CT1×47.5%+CT2×47.5%+TL1x2.5%+TL2x2.5%<br /><br /></strong>where,<br /><strong>CT1</strong> &#8211; grade of T1, to be performed in the middle of the semester (data to be defined).<br /><strong>CT2</strong> &#8211; grade of T2, to be performed on the day of the normal season exam.<br /><strong>TL1</strong> &#8211; grade of laboratory work 1 - Hydraulic Pumps.<br /><strong>TL2</strong> &#8211; grade of laboratory work 2 - Free Surface Flows.<br /><br />The approval to the UC requires obtaining <strong>a minimum grade of 6.0 values (30%)</strong> in each of the evaluation tests (T1 and T2).<br /><br />NOTE 1: <strong>ALL</strong> students enrolled on the course unit are classified according to this method.<br /><br />NOTE 2: The re-sit exam consists of two consecutive parts (T1 and T2), to be carried out during the examination period, on a day to be defined.<br /><br /> NOTE 3: The students who have failed the <strong>Distributed Evaluation</strong>, or those who want to improve their grade, may choose to take only one of the evaluation parts (T1 or T2) in the re-sit exam. In this case, the highest grade obtained in this part is considered for the purpose of the final classification. To do this, students must formalize this option until <strong>48h</strong> before the <strong>re-sit exam</strong>.<br /><br /> NOTE 4: Special exams embrace the <strong>entire</strong> subject matter.<br /><br />NOTE 5: The conditions for conducting the evaluation components may be adjusted in the future according to the restrictions that may arise related to extraordinary situations (e.g., the pandemic COVID-19).</p>
+
+## Obtenção de frequência
+<p><span lang="EN-US">Achieving final classification requires <strong>compliance with attendance at the UC</strong>, according to the L.EC assessment rules. It is considered that students meet the attendance requirements if, having been regularly enrolled, the number of absences of <strong>25%</strong> for each of the classes&#8217; types is not exceeded (Theoretical classes and Practical classes).<br /><br /></span><span lang="EN-US">In the current academic year (2024/2025), students who have attended the course in a previous academic year are exempt from the attendance requirement for the current academic year.</span><span lang="EN-US" style="color: black; line-height: 115%; font-family: 'Verdana','sans-serif'; font-size: 7.5pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"><br /><br /></span><span lang="EN-US">From the next academic year (2025/2026) onwards, students who have <strong>obtained a final mark of 6 or more in the UC</strong> in the immediately preceding academic year will be exempt from the criterion of obtaining attendance in the current academic year, for all intents and purposes.</span><span lang="EN-US" style="color: black; line-height: 115%; font-family: 'Verdana','sans-serif'; font-size: 7.5pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"><br /><br /></span></p>
+
+## Melhoria de classificação
+<p>The students that have already obtained approval in the course unit can perform CLASSIFICATION IMPROVEMENT, only once, under the following conditions:</p>
+<p>(i) by performing T1, T2 or both tests (evaluation expressed on a 0-to-20 numerical scale) in the re-sit examination season of the year they were approved in the CU;</p>
+<p>(ii) by performing an Exam covering ALL the course unit subjects (evaluation expressed on a 0-to-20 numerical scale), after the re-sit examination season of the year they were approved in the CU;</p>
+<p>The Final Grade in the course unit is the highest between the one initially obtained and the one resulting from the classification improvement.</p>
+

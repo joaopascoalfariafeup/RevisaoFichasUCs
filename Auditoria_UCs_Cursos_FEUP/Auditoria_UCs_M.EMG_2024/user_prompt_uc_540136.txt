@@ -1,0 +1,112 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Teoria do Tratamento de Sinal
+
+## Curso responsável
+Mestrado em Engenharia de Minas e Geo-Ambiente
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p><span style="font-family: verdana,geneva; font-size: small;">Familiarizar o estudante com a Análise de Fourier e suas aplicações no processamento de sinal, apoiada no formalismo da Teoria das Distribuições Temperadas. Pretende-se que este núcleo de conhecimentos fique bem assimilado, permitindo futuros aprofundamentos caso a prática profissional assim o exija.</span></p>
+
+## Resultados de aprendizagem e competências
+<p>Ao completar esta U.C. o estudante deverá, basicamente, ter capacidade para:</p>
+<p>- Entender o formalismo, sentido e aplicações das distribuições temperadas, da transformada de Fourier e da operação de convolução. Em particular:<br />- Aplicar convenientemente o teorema da amostragem na digitalização de sinais analógicos (conversão A/D);<br />- Utilizar criticamente a transformada de Fourier, directa e inversa, como eficaz conversor entre domínios;<br />- Entender a aplicação de filtros no processamento de sinais no domínio do tempo/espaço e das frequências;<br />- Desenvolver algoritmos em ambiente Matlab para processamento/filtragem de sinais.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Análise Matemática I e II;</p>
+
+## Programa
+<p>Conceito de distribuição. A distribuição como função generalizada. Propriedades das distribuições temperadas. Exemplos de aplicação. Propriedades das distribuições. Propriedades da distribuição de Dirac. Distribuições como limites de funções. Exemplos recorrendo ao pedestal e à função de Gauss. As grandezas físicas como distribuições - resposta impulsional. Convolução: definição, propriedades; a translação, derivação e integração como convolução. Translação de uma convolução. Transformada Z. Desconvolução. </p>
+<p>Transformada de Fourier. Definição. Relação de Euler. Teorema de Fourier (fórmula de inversão). Transformada do seno e do cosseno. Representação da transformada em módulo e fase. Questões de existência. Integral de Fourier de uma função real, de uma função imaginária pura, de uma função real e par, de uma função real e ímpar, de uma função real qualquer, de uma função hermitiana e de uma função causal - interdependência da parte real e imaginária do espectro. Significado físico da transformada de Fourier: espectro. Espectro de amplitude, espectro de fase, densidade espectral, propriedades do operador de Fourier. Propriedades elementares: linearidade, simetria, translação, modulação, escala, derivação, integração. Espectros de algumas funções e distribuições interessantes: espectro da distribuição de Dirac, da sinusoide, do degrau de Heaviside, do pedestal, do seno cardinal, do triângulo, do "pente" de amostragem. Teorema da convolução. Teorema de Parseval ou teorema da energia. Relações entre compressão do sinal e expansão do espectro. Teorema da incerteza de Heisenberg. Funções e espectros de suporte limitado. Fenómeno de Gibbs. Funções periódicas e série de Fourier. Teorema de Shannon e Kotielnikov. Espectro corrente e instantâneo, densidade espectral. Sistema linear invariante no tempo. Resposta impulsional e função de passagem. Introdução ao uso e desenho de filtros.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-family: verdana,geneva; font-size: small;">A UC tem um carácter teórico-prático. Os exemplos práticos abordados destinam-se a ilustrar e consolidar os conhecimentos teóricos adquiridos. Os exemplos teórico-práticos permitem evidenciar as constrições impostas pela amostragem discreta e num intervalo pequeno (não infinitesimal) - exemplos numéricos, contrapostos à formulação analítica. Na fase mais avançada da disciplina, todo o corpo da teoria conflui na compreensão das metodologias de amostragem e de tratamento de sinal bem como na capacidade de síntese evidenciada pela função de passagem/transferência como descritora do comportamento de sistemas lineares.<br /> <br />Desenvolvimento de algoritmos em ambiente Matlab para processamento/filtragem de sinais.</span></p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 10.0 %
+- Teste: 50.0 %
+- Trabalho escrito: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 71.0 horas
+- Frequência das aulas: 45.0 horas
+- Trabalho escrito: 46.0 horas
+
+## Fórmula de cálculo da classificação final
+A classificação final será a da Avaliação Distribuída.<br /><br />A avaliação distribuída durante o semestre inclui: 2 testes, trabalhos e desempenho (no caso de dúvida, o significado de desempenho poderá ser esclarecido, presencialmente, pelo(s) docente(s)). <br /><br />A clasificação da Avaliação Distribuida é obtida através de média pesada usando os pesos a seguir indicados: <br />50% para dois testes de avaliação: 15%, 1º teste e 35%, 2º teste;<br />50% para trabalhos e desempenho.<br /><br />Classificações superiores a 18 valores deverão ser objeto de defesa oral.<br /><br />Os estudantes sem aprovação mas com obtenção de frequência, poderão realizar um exame escrito de recurso. Neste caso, a classificação final será calculada atribuindo um peso de 70% ao exame de recurso e de 30% à componente da Avaliação Distribuída - trabalhos e desempenho.
+
+## Obtenção de frequência
+<p>Não exceder o número de faltas previsto nas Normas Gerais de Avaliação e ter classificação na Avaliação Distribuída igual ou superior a 6.0 valores. <br /><br /><br /></p>
+
+## Melhoria de classificação
+<p>Por prova escrita e/ou oral, possivelmente coincidente com o exame de recurso.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Signal Processing Theory
+
+## Curso responsável
+Master in Mining and Geo-Environmental Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>To familiarise the student with Fourier Analysis and its applications in signal processing, based on the formalism of the Theory of Tempered Distributions. The aim is for this core of knowledge to be well assimilated, allowing for further study should professional practice require it.</p>
+
+## Resultados de aprendizagem e competências
+<p><span lang="EN-US" style="mso-ansi-language: EN-US;"><span style="font-size: medium;"><span style="font-family: Calibri;">On completing this CU, the student should basically be able to:<br /><br />- Understand the formalism, meaning and applications of tempered distributions, the Fourier transform and the convolution operation. In particular:<br />- Conveniently apply the sampling theorem in the digitisation of analogue signals (A/D conversion);<br />- Critically use the Fourier transform, direct and inverse, as an effective converter between domains;<br />- Understand the application of filters in signal processing in the time/space and frequency domains;<br />- Develop algorithms in the Matlab environment for signal processing/filtering.</span></span></span></p>
+
+## Pré-requisitos e co-requisitos
+<p>Mathematical Analysis I and II;</p>
+
+## Programa
+<p>Concept of distribution. The distribution as a generalized function. Properties of tempered distributions. Application examples. Properties of distributions. Properties of the Dirac distribution. Distributions as limits of functions. Examples using the pedestal and Gauss function. Physical quantities as distributions - impulse response. Convolution: definition, properties; translation, derivation and integration as convolution. Translation of a convolution. Z-transform. Deconvolution. <br /><br />Fourier transform. Definition. Euler relation. Fourier's theorem (inversion formula). Sine and cosine transforms. Modulus and phase representation of the transform. Existence issues. Fourier integral of a real function, of a pure imaginary function, of a real and even function, of a real and odd function, of any real function, of a Hermitian function and of a causal function - interdependence of the real and imaginary part of the spectrum. Physical meaning of Fourier transform: spectrum. Amplitude spectrum, phase spectrum, spectral density, properties of the Fourier operator. Elementary properties: linearity, symmetry, translation, modulation, scaling, derivation, integration. Spectra of some interesting functions and distributions: spectrum of Dirac distribution, sinusoid, Heaviside step, pedestal, cardinal sine, triangle, sampling comb. Convolution theorem. Parseval's theorem or energy theorem. Relations between signal compression and spectrum expansion. Heisenberg uncertainty theorem. Bounded support functions and spectra. Gibbs phenomenon. Periodic functions and Fourier series. Shannon and Kotielnikov theorem. Current and instantaneous spectra, spectral density. Time invariant linear system. Impulse response and pass function. Introduction to the use and design of filters.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The course is theoretical and practical in nature. The practical examples are designed to illustrate and consolidate the theoretical knowledge acquired. The theoretical-practical examples make it possible to highlight the constraints imposed by discrete sampling in a small interval (not infinitesimal) - numerical examples, contrasted with the analytical formulation. At the most advanced stage of the course, the whole body of theory comes together in an understanding of sampling and signal processing methodologies, as well as in the synthesis capacity shown by the pass/transfer function as a descriptor of the behaviour of linear systems.<br /><br />Development of algorithms in the Matlab environment for signal processing/filtering.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 10.0 %
+- Teste: 50.0 %
+- Trabalho escrito: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 71.0 hours
+- Frequência das aulas: 45.0 hours
+- Trabalho escrito: 46.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><span id="&quot;result_box&quot;" lang="&quot;en&quot;">The final classification will be the Distributed Assessment.<br /><br />The distributed assessment during the semester includes: 2 tests, assignments and performance (if in doubt, the meaning of performance can be clarified in person by the teacher(s)).<br /><br />The grading of the Distributed Assessment is obtained by weighted average using the following weights:<br />50% for two assessment tests: 15%, 1st test and 35%, 2nd test;<br />50% for assignments and performance.<br /><br />Grades above 18 must be subject to oral defence.<br /><br />Students who do not pass the course but have obtained frequency may take an appeal written exam. In these case, the final grade will be calculated by assigning a weight of 70% to the appeal exam and 30% to the Distributed Assessment component - assignments and performance.</span></p>
+
+## Obtenção de frequência
+<p>Not exceed the number of absences established in the General Evaluation Rules and have a mark in the Distributed Evaluation equal to or higher than 6.0 points.<br /><br /><br /></p>
+
+## Melhoria de classificação
+<p><span id="result_box" class="short_text" lang="en"><span class="hps">By written and/or oral test, probably coinciding with the appeal examination.</span></span></p>
+

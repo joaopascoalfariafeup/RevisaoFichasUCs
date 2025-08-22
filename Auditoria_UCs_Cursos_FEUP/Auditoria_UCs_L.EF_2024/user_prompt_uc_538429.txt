@@ -1,0 +1,111 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Programação II
+
+## Curso responsável
+Licenciatura em Engenharia Física
+
+## Créditos ECTS
+3
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+Pretende-se complementar conhecimentos prévios de programação numa linguagem interpretada (Python) com uma formação específica para programação numa linguagem compilada e de baixo-nível (C).<br /><br />Será dada ênfase à resolução prática de problemas com foco nas noções de algoritmo, modularidade, programação estruturada e qualidade do código.
+
+## Resultados de aprendizagem e competências
+No final desta unidade curricular, os estudantes deverão ser capazes de:<br /><ul><br /><li>usar a sintaxe e semântica de constituintes fundamentais da linguagem C;</li><br /><li>escrever, testar e executar programas para resolução de problemas simples a partir de uma especificação informal;</li><br /><li>implementar alguns algoritmos elementares em C;</li><br /><li>conhecer o conceito de apontador e usá-lo no processamento de variáveis indexadas e cadeias de carateres;</li><br /><li>conhecer e utilizar funções das bibliotecas padrão da linguagem C;</li><br /><li>ter competências básicas nas escrita de programas estruturados, corretos e eficientes.</li><br /></ul>
+
+## Programa
+Introdução à linguagem C. Características da linguagem: vantagens, desvantagens e cuidados na sua utilização.<br /><br />Fundamentos de linguagem C. Estrutura sintática de programas. Diretivas, declarações, expressões. Compilação e execução.<br /><br />Tipos básicos (inteiros, virgula flutuante, carateres). Controlo de fluxo. Ciclos. Definição de funções. Entrada e saida formatada.<br /><br />Noções de apontadores. Variáveis indexadas. Cadeias de carateres. Tipos estruturados.<br /><br />Algoritmos elementares (contagem, pesquisa, ordenação, algoritmos numéricos).<br /><br />Recursividade. Resolução de problemas simples usando algoritmos iterativos e recursivos.<br /><br />Desenvolvimento incremental. Deteção e correção de erros. Noçõs de eficiência e correção.
+
+## Métodos de ensino e atividades de aprendizagem
+Exposição teórico-prática, com análise e discussão interativa de problemas e programas.<br /><br />Aulas práticas para resolução de exercícios em computador, com utilização de ferramentas de desenvolvimento e de um sistema de avaliação automática.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 40.0 %
+- Exame: 50.0 %
+- Trabalho laboratorial: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 32.0 horas
+- Frequência das aulas: 24.0 horas
+- Trabalho laboratorial: 25.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final é obtida tendo em conta os seguintes componentes:</p>
+<ul>
+<li><strong>A</strong>: classificação dos exercícios submetidos no sistema de avaliação automática durante as aulas;</li>
+<li><strong>T</strong>: teste prático no final das 6 semanas de aulas;</li>
+<li><strong>E</strong>: exame final escrito.</li>
+</ul>
+<p>A classificação final (<strong>F</strong>) é determinada por <strong>F = A*0.1 + T*0.4 + E*0.5</strong></p>
+<p>Nota: Não existe nota mínima em nenhum componente. Será permitido aos estudantes uma hipótese de melhoria do teste prático antes da época de exames.</p>
+
+## Obtenção de frequência
+Presença em pelo menos 50% das aulas práticas.
+
+## Melhoria de classificação
+Os estudantes podem melhorar a nota do exame final de acordo com os regulamentos gerais.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Programming II
+
+## Curso responsável
+Bachelor in Engineering Physics
+
+## Créditos ECTS
+3
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+The aim is to complement previous knowledge of programming in an interpreted language (Python) with specific training in programming in a compiled, low-level language (C).<br /><br />Emphasis will be placed on practical problem-solving with a focus on notions of algorithms, modularity, structured programming and code quality.
+
+## Resultados de aprendizagem e competências
+At the end of this course, students should be able to:<br /><ul><br /><li>use the syntax and semantics of the fundamental components of the C language;</li><br /><li>write, test and execute programmes to solve simple problems from an informal specification;</li><br /><li>implement some elementary algorithms in C;</li><br /><li>know the concept of pointer and use it to process indexed variables and character strings;</li><br /><li>know and use functions from the standard C language libraries;</li><br /><li>have basic skills in writing structured, correct and efficient code.</li><br /></ul>
+
+## Programa
+Introduction to the C language. Characteristics of the language: advantages, disadvantages and care when using it.<br /><br />C language fundamentals. Syntactic structure of programs. Directives, declarations, expressions. Compilation and execution.<br /><br />Basic types (integers, floating point, characters). Flow control. Cycles. Function definition. Formatted input and output.<br /><br />Notions of pointers. Indexed variables. Character strings. Structured types.<br /><br />Elementary algorithms (counting, searching, sorting, numerical algorithms).<br /><br />Recursion. Solving simple problems using iterative and recursive algorithms.<br /><br />Incremental development. Error detection and correction. Notions of efficiency and correctness.
+
+## Métodos de ensino e atividades de aprendizagem
+Theoretical-practical lectures, with interactive analysis and discussion of problems and programs.<br /><br />Practical classes to solve exercises on the computer, using development tools and an automatic evaluation system.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 40.0 %
+- Exame: 50.0 %
+- Trabalho laboratorial: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 32.0 hours
+- Frequência das aulas: 24.0 hours
+- Trabalho laboratorial: 25.0 hours
+
+## Fórmula de cálculo da classificação final
+The final grade is obtained taking into account the following components:<br /><br /><ul><br /><li><strong>A</strong>: grading of the exercises submitted to the automatic assessment system during the lessons;</li><br /><li><strong>T</strong>: practical test at the end of the 6 weeks of classes;</li><br /><li><strong>E</strong>: final written exam.</li><br /></ul><br />The final grade (<strong>F</strong>) is determined by <strong>F = A*0.1 + T*0.4 + E*0.5</strong><br /><br /><strong>Note:</strong> There is no minimum mark in any component. Students will be allowed one chance to improve the practical test before the exam period.
+
+## Obtenção de frequência
+Attendance to at least 50% of the practical classes.
+
+## Melhoria de classificação
+Students can improve the final exam mark in accordance with the general regulations.
+

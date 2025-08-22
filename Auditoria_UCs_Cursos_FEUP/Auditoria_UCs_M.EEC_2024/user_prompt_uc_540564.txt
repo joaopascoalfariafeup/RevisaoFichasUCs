@@ -1,0 +1,110 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Programação Dinâmica e Aprendizagem para Decisão e Controlo
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Esta UC visa transpor as bases adquiridas em controlo, otimização, sistemas dinâmicos (diferenciais ou com eventos discretos), determinísticos ou estocásticos para a vertente operacional por forma a lidar com a complexidade computacional inerente a processos de optimização e de exploração, utilizando técnicas de aprendizagem máquina, nomeadamente <em>reinforcement learning.</em><br /><br /></p>
+
+## Resultados de aprendizagem e competências
+Aquisição por parte dos estudantes de conhecimentos fundamentais para a conceção e desenvolvimento de sistemas de apoio à gestão e controlo de sistemas dinâmicos tendo como a<br />programação dinâmica como elemento central bem como as diversas abordagens aproximantes, designadas genericamente de &quot;reinforcement learning&quot; que promovem diferentes compromissos entre exploração e optimização. <br />São parte dos sub-objetivos, por um lado, estabelecer a ligação com matérias curriculares oferecidas anteriormente &#8211; essencialmente, sistemas dinâmicos, controlo, otimização, sistemas com variáveis aleatórios, e cadeias de Markov &#8211; e, por outro lado, como fazer a ligação com redes neuronais como<br />forma eficiente de operacionalizar do ponto de vista computacional os métodos apresentados.
+
+## Pré-requisitos e co-requisitos
+<p>Álgebra Linear,  Probabilidades e Estatística, Controlo. Conhecimentos de aprendizagem máquina serão úteis, mas não são pré-requisito essencial.</p>
+
+## Programa
+1. Introdução.<br />Clarificação &#8211; através de exemplos &#8211; como é que os conteúdos desta UC permitem operacionalizar conhecimentos de<br />UCs anteriores, nomeadamente Controlo.<br />2. Revisão e complemento de conhecimentos sobre Cadeias de Markov Controladas.<br />Definição como autómatos estocásticos temporizados. Matriz de Probabilidades de Transição. Regimes transitórios e<br />permanentes. Aplicações ao controlo e otimização. Processos de Decisão de Markov.<br />3. Programação Dinâmica<br />Conceitos básicos gerais nos contextos discreto : função valor (&#8220;cost-to-go&#8221;) e princípio de<br />otimalidade. Métodos de resolução da equação de Bellman. Algoritmos básicos de programação<br />dinâmica para problemas discretos. Exemplo do caso do problema Linear Quadrático. Tipos de problemas de programação dinâmica: Caminho mais curto estocástico, e custo<br />descontado.<br />4. Arquiteturas de redes neuronais e métodos de treino.<br />Arquiteturas para aproximação da função valor através de redes neuronais multinível. Métodos de treino de redes<br />neuronais.<br />5. Algoritmos estocásticos iterativos.<br />Modelo básico. Convergência baseada em função potencial suave. Convergência via propriedades de contração e<br />monotonia. A abordagem da equação diferencial ordinária.<br />6. Métodos de simulação. Avaliação de políticas por simulação Monte Carlo. Método das diferenças temporais. Iteração<br />de políticas otimistas. Iteração do valor por simulação. Aprendizagem Q.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teóricas: exposição da matéria e resolução de exemplos de exercícios<br />Aulas teórico práticas: Resolução de exercícios representativos. Apoio ao estudantes na resolução de problemas propostos na aula, esclarecimento de dúvidas e realização de exercícios práticos, bem como acompanhamento de trabalhos apoiados na utilização do OCTAVE/MATLAB e Python.<br /><br /></p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 50.0 %
+- Participação presencial: 10.0 %
+- Teste: 40.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 40.0 horas
+- Estudo autónomo: 83.0 horas
+- Frequência das aulas: 39.0 horas
+
+## Fórmula de cálculo da classificação final
+A avaliação final tem três componentes:<br />TE -  Teste Escrito na escala de 0 a 20 valores com um peso de 40%<br />MP -  Mini-projeto elaborado em grupo na escala de 0 a 20 valores com um peso de 50%<br />CC - Componente Contínua na escala de 0 a 20 valores com um peso de 10%<br /><br />Classificação Final = 0.4 EF + 0.5 MP +0.1 CC<br /><br />A Componente Contínua é medida  pelo grau de participação da Aula TP.
+
+## Obtenção de frequência
+<p>A frequência é obtida através da participação em pelo menos 75% das aulas PL e pela participação no mini-projecto. <br /><br /></p>
+
+## Melhoria de classificação
+Os estudantes poderão realizar novo teste escrito, substituindo a nota do TE anterior, podendo cumulativamente melhorar o trabalho, de forma individual.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Dynamic Programming and Learning for Decision and Control
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; data-placeholder=&quot;Tradução&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>This UC aims to transpose the acquired bases in control, <br />optimization, dynamic systems (differential or with <br />discrete events), deterministic or stochastic to the <br />operational aspect in order to deal with the computational <br />complexity inherent to optimization and exploration <br />processes, using machine learning techniques, namely reinforcement learning.</span></pre>
+
+## Resultados de aprendizagem e competências
+<pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; data-placeholder=&quot;Tradução&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>Acquisition by students of fundamental knowledge for the <br />design and development of support systems for the management <br />and control of dynamic systems having as dynamic programming <br />as a central element, as well as the various approximating <br />approaches, generically called &quot;reinforcement learning&quot; <br />that promote different trade-offs between exploration and <br />optimization.<br />Part of the sub-objectives are, on the one hand, to <br />establish a link with previously offered curricular <br />subjects &#8211; essentially, dynamic systems, control, <br />optimization, systems with random variables, and Markov <br />chains &#8211; and, on the other hand, how to link with neural <br />networks as an efficient way to operationalize the <br />presented methods from a computational point of view.</span></pre>
+
+## Pré-requisitos e co-requisitos
+<p><span class="HwtZe" lang="en"><span class="jCAhz JxVs2d ChMk0b"><span class="ryNqvb">Linear Algebra, Probabilities and Statistics, Control.</span></span> <span class="jCAhz JxVs2d ChMk0b"><span class="ryNqvb">Knowledge of machine learning will be useful, but is not an essential prerequisite.</span></span></span></p>
+
+## Programa
+<p>1. Introduction.<br />Clarification &#8211; through examples &#8211; how the contents of this UC allow to operationalize knowledge of previous courses, namely Control <br />2. Review and complement of knowledge on Controlled Markov Chains.<br />Definition as stochastic automata timed. Transition Probabilities matrix. Transitional and permanent regimes.<br />Applications to control and optimize. Markov's Decision Processes.<br />3. Dynamic Programming<br />General basic concepts in discrete contexts : cost-to-go function and principle of optimality.<br />Methods of solving the Bellman equation. Basic dynamic programming algorithms for discrete<br />problems. Example of the case of the Quadratic Linear problem.  Types of dynamic programming problems: Shorter stochastic path, and discounted cost.<br />4. Neuronal network architectures and training methods.<br />Architectures for approximation of the value function through multilevel neuronal networks. Training methods of<br />neuronal networks.<br />5. Iterative stochastic algorithms.<br />Basic model. Convergence based on smooth potential function. Convergence via contraction and monotony properties.<br />The approach of the common differential equation.<br />6. Simulation methods. Evaluation of policies by Monte Carlo simulation. Method of temporal differences. Iteration of<br />optimistic policies. Iteration of the value by simulation. Q-Learning.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Exposition classes: Presentation and discussion of the various topics of the curricular unit. Detailed explanation of examples of application of concepts and methods.<br />Exercises solving classes: Practical execises are solved by the students with the support of the teacher by clarifying the issues that they might raise. Follow-up of the work  in the mini projects support by the use of OCTAVE/MATLAB e Python.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 50.0 %
+- Participação presencial: 10.0 %
+- Teste: 40.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 40.0 hours
+- Estudo autónomo: 83.0 hours
+- Frequência das aulas: 39.0 hours
+
+## Fórmula de cálculo da classificação final
+<pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; data-placeholder=&quot;Tradução&quot;><span lang=&quot;en&quot;><br />The final assessment has three components:<br />TE - Written Test on the scale of 0 to 20 values with a weight of 40%<br />MP - Mini-project developed in a group on a scale of 0 to 20 values with a weight of 50%<br />CC - Continuous Component on a scale of 0 to 20 values with a weight of 10%<br /><br />Final Rating = 0.4 EF + 0.5 MP +0.1 CC<br /><br />The Continuous Component is measured by the degree of participation in Class TP.<br /></span></pre>
+
+## Obtenção de frequência
+<pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; data-placeholder=&quot;Tradução&quot;><span lang=&quot;en&quot;>Frequency is obtained through remote participation in at <br />least 75% of the PL classes and through participation in <br />the mini-project. <br /></span></pre>
+
+## Melhoria de classificação
+<pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; data-placeholder=&quot;Tradução&quot;><span lang=&quot;en&quot;>Students will be able to take a new written test, replacing the previous TE grade, being able, in addition, to improve the work, individually.</span></pre>
+

@@ -1,0 +1,108 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Neuroengenharia
+
+## Curso responsável
+Mestrado em Bioengenharia
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<div class=&quot;page&quot; title=&quot;Page 1&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;><br /><p>O objetivo desta UC e&#769; a introduc&#807;a&#771;o de conceitos e transmissa&#771;o de conhecimentos na a&#769;rea da neuro-engenharia.</p><br /></div><br /></div><br /></div>
+
+## Resultados de aprendizagem e competências
+Esta UC pretende contribuir para o desenvolvimento de competências relacionadas com a diferentes aspectos da neuroengenharia, nomeadamente nospricípios biofísicos dos neuro-sinais e neuro-imagens, das interfaces neuronais, dos equipamentos e nas metodologias de análise de sinais do sistema nervoso e de neuro-imagens, bem como nos aspectos da neuro-estimulação.
+
+## Pré-requisitos e co-requisitos
+Esta é ima cadeira de &quot;integração de conhecimentos&quot; de engenharia pelo que os alunos DEVEM possuir já os seguintes conhecimento:<br /><br />Matlab/Octave/Python - conhecimento avançado<br />Processamento Digitais de Sinais (e imagem) - conhecimento avançado<br />instrumentação electrónica - conhecimentos intermédio<br />microcontrolçadores/sistemas embebidos - conhecimentos intermédio<br /><br />Os alunos que não possuam estes conhecimentos prévios não devem inscrever-se.
+
+## Programa
+<div class=&quot;page&quot; title=&quot;Page 1&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;><br /><p>1.Enquadramento e histo&#769;ria da Neuroengenharia</p><br /><p>2.Introduc&#807;a&#771;o ao sistema nervoso central<br />Neurofisiologia do sistema nervoso central.<br /> Neuro&#769;nio e sinapses. <br />Redes neuronais e o ce&#769;rebro <br /><br />3.Me&#769;todos de ana&#769;lise computacional de neuro-sinais e neuro-imagens  Cartografia do ce&#769;rebro<br /> Processamento de sinais de EEG e ECoG<br /> Segmentac&#807;a&#771;o de estruturas do ce&#769;rebro<br /> Fusa&#771;o de dados multimodais<br /> Mapeamento morfo-funcional<br /> Ana&#769;lise estati&#769;stica de imagiologia cerebral<br /><br />4.Introdução à Neurobiologia<br />Gerac&#807;a&#771;o de sinais neuronais<br />Electrofisiologia<br />Descodificação de informação neuronal<br /><br />5. Escala biofísica e circuitos cerebrais.<br />Interfaces neuronais invasivas para registo de sinais e detecção de neurotransmissores<br />Interfaces neuronais ópticas e dispositivos multi-funcionais.</p><br /><p>6.Sistemas de aquisic&#807;a&#771;o de sinais e imagens do ce&#769;rebro   Eletroencefalo&#769;grafo<br />Neuro-sensores e elétrodos<br />Sistemas de Neuroimagiologia (CT, MRI, fMRI, PET/SPECT)<br />Principios de funcionamento<br />Utilização clínica e de investigação<br /> <br /> 7.Modulac&#807;a&#771;o Neuronal<br />Princi&#769;pios da neuro-estimulac&#807;a&#771;o<br />Estimulac&#807;a&#771;o ele&#769;trica do co&#769;rtex e magne&#769;tica trans-craneana Neuro-pro&#769;teses<br />Exemplos de neuro-estimuladores<br /> <br />8. Mini-projeto de Neuroengenharia<br /><br /></p><br /></div><br /></div><br /></div>
+
+## Métodos de ensino e atividades de aprendizagem
+Apresentação de cenceitos teóricos, trabalhos teórico-práticos e elaboração dum mini-projecto.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 45.0 %
+- Participação presencial: 5.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 58.0 horas
+- Estudo autónomo: 16.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho laboratorial: 20.0 horas
+- Trabalho escrito: 16.0 horas
+
+## Fórmula de cálculo da classificação final
+Avaliação: 0.05P + 0.5Proj + 0.45 Ex<br /><br />P- participação<br />Proj- projeto<br />Ex- exame
+
+## Obtenção de frequência
+As componentes de avaliação têm nota mínima de 7/20
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Neuroengineering
+
+## Curso responsável
+Master in Bioengineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<div class=&quot;page&quot; title=&quot;Page 1&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;><br /><p>The objective of the present course unit is to introduce concepts and transmit knowledge in the area o neuro-engineering.</p><br /></div><br /></div><br /></div>
+
+## Resultados de aprendizagem e competências
+This UC intends to contribute to the development of competencies related to different neuroengineering aspects, namely the biophysics of the neuro-signals ans neuroimages, of the used equipments and the analysis methodologies for biosignals of the nervous systems and of the neuroimage, as weel as the ones for neuro-stimulation.
+
+## Pré-requisitos e co-requisitos
+This is an engineering &quot;knowledge integration&quot; course so the students MUST bring the following prior-knowledge: <br /><br />Matlab/Octave/Python - advanced level<br />Digital Signal (and imaging) Processing - advanced level<br />electronic instrumentation - some knowledge<br />microcontrolers/embedded systems - some knowledge<br /><br />Students without these skills should not consider to enrol.
+
+## Programa
+1. Background and history of neuro-engineering<br /><br /> 2. Introduction to the central nervous system<br /> Neurophysiology of the CNS<br />Neurons &amp; synapses<br />Neuro-networks and the brain.<br /><br />3. Computational analysis methods of neuro-signals and neuro-images<br /> Brain Mapping<br /> Signal processing EEG and ECoG<br /> Segmentation of brain structures<br /> Multimodal data fusion<br /> Mapping morpho-functional<br /> Statistical analysis of brain imaging<br /><br /> 4. Introduction to neurobiology<br />Generation of neuronal signals<br />Electrophysiology<br />Decoding neuronal information<br /><br />5.Biophysical scales and processes of brain circuits.<br />Invasive neural interfaces for large-scale recordings and for neurotransmitters detection<br />Optical neural interfaces/neurophotonics and multi-functional devices.<br /><br /> 6. Brain imaging acquisition systems<br /> Electroencephalograph<br /> Neuro-sensors and electrodes<br /> Neuroimaging systems: CT, MRI, fMRI, PET/SPECT<br /><br /> 7. Neuronal modulation<br /> Principles of neurostimulation<br /> Electrical stimulation of the cortex and magnetic trans-cranial<br /> Neuro-prostheses<br /> Examples of neurostimulators<br /><br /> 8. Mini-project in neuro-engineering<br /><strong><em><br /> <br /> </em></strong>
+
+## Métodos de ensino e atividades de aprendizagem
+Theoretical concepts presentations, theoretical-practical work and development of a small project.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 45.0 %
+- Participação presencial: 5.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 58.0 hours
+- Estudo autónomo: 16.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho laboratorial: 20.0 hours
+- Trabalho escrito: 16.0 hours
+
+## Fórmula de cálculo da classificação final
+Evaluation: 0.05P + 0.5Proj + 0.45Ex<br /><br />P - in-class presence<br />proj- project<br />Ex- exam
+
+## Obtenção de frequência
+Evaluation components have a minimal grade of 7/20
+

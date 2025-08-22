@@ -1,0 +1,140 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Teste, Verificação e Validação de Software
+
+## Curso responsável
+Mestrado em Engenharia de Software
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<span style=&quot;font-weight: 400;&quot;>O objetivo desta unidade curricular é: a familiarização com a terminologia usada em testes de software; a sensibilização com as questões relacionadas com a qualidade de software; e exploração e prática de diferentes técnicas de Verificação e Validação (V&amp;V) necessárias para a construção de sistemas de software de qualidade.</span>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-weight: 400;">No final da Unidade curricular os estudantes devem ser capazes de projetar e executar um plano de Verificação e Validação (V&amp;V). Mais especificamente, espera-se que os estudantes sejam capazes de:</span></p>
+<p><span style="font-weight: 400;">- Planear uma estratégia de Verificação e Validação.</span></p>
+<p><span style="font-weight: 400;">- Selecionar as melhores técnicas e ferramentas de teste de software para um determinado contexto.</span></p>
+<p><span style="font-weight: 400;">- Projetar e desenvolver testes em diferentes níveis (e.g., unidade, integração, sistema e aceitação).</span></p>
+<p><span style="font-weight: 400;">- Testar situações excepcionais (e.g., "boundary value analysis").</span></p>
+<p><span style="font-weight: 400;">- Refletir sobre as limitações e qualidade dos testes desenvolvidos.</span></p>
+<p><span style="font-weight: 400;">- Usar métricas para avaliar a qualidade dos testes (e.g., cobertura de instruções).</span></p>
+<span style="font-weight: 400;">- Escrever código de teste sustentável, evitando problemas conhecidos (e.g., </span><em><span style="font-weight: 400;">flakiness</span></em><span style="font-weight: 400;">, ilegível, dependente, </span><em><span style="font-weight: 400;">fat</span></em><span style="font-weight: 400;"> testes, etc.).</span>
+
+## Programa
+1. Introdução à Verificação e Validação de Software<br />2. Teste estático<br />3. Partição em classes de equivalência / &quot;Category Partition&quot;<br />4. Análise de valores fronteira<br />5. Teste Baseado em Modelos<br />6. &quot;Structural Testing (Line e Decision coverage)&quot;<br />7. &quot;Structural Testing (Path coverage) e Logical Coverage (Condition coverage)&quot;<br />8. &quot;Logical Coverage (Modified Condition/Decision Coverage (MC/DC))&quot;<br />9. Teste de mutação<br />10. TDD, BDD, PBT<br />11. Geração automática de testes<br />12. Teste de integração, teste de sistema, teste de aceitação, e teste de regressão<br />13. Gestão e documentação de testes
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-weight: 400;">Esta unidade curricular promove o contínuo envolvimento dos estudantes através do estudo, discussão e aplicação prática dos temas apresentados. De forma a contribuir para uma aprendizagem contínua e autónoma, os estudantes realizam pequenos trabalhos ao longo do semestre. Para além destes trabalhos, os estudantes têm que realizar um projeto onde aplicam os conceitos apresentados, em particular, diferentes estratégias e ferramentas de V&amp;V.</span></p>
+<p><span style="font-weight: 400;">As <strong>aulas teóricas</strong> são usadas para exposição formal dos conceitos e aspetos fundamentais de V&amp;V. Sempre que possível, os conceitos teóricos são acompanhados da apresentação e discussão de casos práticos reais.</span></p>
+<p><span style="font-weight: 400;">As <strong>aulas teórico-práticas</strong> são usadas para realizar pequenos exercícios, aplicar técnicas de V&amp;V, usar/experimentar diversas ferramentas de teste e para apoiar a realização do projeto prático.</span></p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 109.0 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho laboratorial: 20.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><span style="font-weight: 400;">A classificação final é calculada da seguinte forma:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;"> P x 40% + E x 60%</span></li>
+</ul>
+<br />
+<p><span style="font-weight: 400;">P: projeto</span></p>
+<p><span style="font-weight: 400;">E: exame final</span></p>
+
+## Obtenção de frequência
+<p><span style="font-weight: 400;">Para concluir com sucesso esta unidade curricular, os estudantes devem obter:</span></p>
+<ul>
+<li style="font-weight: 400;">nota mínima de 47,5% no projecto (P)</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">nota mínima de 47,5% no exame final (E)</span></li>
+</ul>
+
+## Melhoria de classificação
+- As classificações obtidas no trabalho prático / projeto podem ser melhoradas na edição seguinte da unidade curricular.<br />- A classificação do exame pode ser melhorada em exame de recurso.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Software Testing Verification and Validation
+
+## Curso responsável
+Master in Software Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<span style=&quot;font-weight: 400;&quot;>The objective of this curricular unit is: familiarization with the terminology used in software testing; raising awareness of issues related to software quality; and exploring and practicing different Verification and Validation (V&amp;V) techniques necessary for building quality software systems.</span>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-weight: 400;">At the end of the course, students should be able to design and execute a Verification and Validation (V&amp;V) plan. More specifically, students are expected to be able to:</span></p>
+<p><span style="font-weight: 400;">- Plan a Verification and Validation strategy.</span></p>
+<p><span style="font-weight: 400;">- Select the best software testing techniques and tools for a given context.</span></p>
+<p><span style="font-weight: 400;">- Design and develop tests at different levels (e.g., unit, integration, system and acceptance).</span></p>
+<p><span style="font-weight: 400;">- Test exceptional situations (e.g., boundary value analysis).</span></p>
+<p><span style="font-weight: 400;">- Reflect on the limitations and quality of the tests developed.</span></p>
+<p><span style="font-weight: 400;">- Use metrics to assess test quality (e.g., instruction coverage).</span></p>
+<p><span style="font-weight: 400;">- Write maintainable test code, avoiding known issues (e.g., flakiness, unreadable, dependent, fat testing, etc.).</span></p>
+
+## Programa
+1. Introduction to Software Verification and Software Validation<br />2. Static Testing<br />3. Equivalence Class Partitioning / Category Partition<br />4. Boundary Value Analysis<br />5. Model-based Testing<br />6. Structural Testing (Line and Decision coverage)<br />7. Structural Testing (Path coverage) and Logical Coverage (Condition coverage)<br />8. Logical Coverage (Modified Condition/Decision Coverage (MC/DC))<br />9. Mutation Testing<br />10. TDD, BDD, PBT<br />11. Automatic Test Case Generation<br />12. Integration Testing, System Testing, Acceptance Testing, and Regression Testing<br />13. Test management and documentation
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-weight: 400;">This curricular unit promotes the continuous involvement of students through the study, discussion and practical application of the topics presented. In order to contribute to continuous and autonomous learning, students carry out small assignments throughout the semester. In addition to these works, students have to carry out a project where they apply the concepts presented, in particular, different V&amp;V strategies and tools.</span></p>
+<p><span style="font-weight: 400;"><strong>Theoretical classes</strong> are used to formally explain the concepts and fundamental aspects of V&amp;V. Whenever possible, theoretical concepts are accompanied by the presentation and discussion of real practical cases.</span></p>
+<p><span style="font-weight: 400;"><strong>Theoretical-practical classes</strong> are used to carry out small exercises, apply V&amp;V techniques, use/experiment various testing tools and to support the implementation of the practical project.</span></p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 109.0 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho laboratorial: 20.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><span style="font-weight: 400;">The final ranking is calculated as follows:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">P x 40% + E x 60%</span></li>
+</ul>
+<br />
+<p><span style="font-weight: 400;">P: project</span></p>
+<p><span style="font-weight: 400;">E: final exam</span></p>
+
+## Obtenção de frequência
+<p><span style="font-weight: 400;">To successfully complete this curricular unit, students must obtain:</span></p>
+<ul>
+<li style="font-weight: 400;">minimum grade of 47.5% in the project (P)</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">minimum grade of 47.5% in the final exam (E)</span></li>
+</ul>
+
+## Melhoria de classificação
+- The grades obtained in practical work / project can be improved in the next edition of the course.<br />- The classification of the final exam can be improved in the appeal exame.
+

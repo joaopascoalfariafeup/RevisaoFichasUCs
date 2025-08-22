@@ -1,0 +1,96 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Informática Industrial
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>A disciplina tem por objectivo desenvolver as seguintes competências: <br />- Ser capaz de analisar, estruturar, conceber, implementar e documentar sistemas de controlo e monitorização industriais de média complexidade, com recurso a ferramentas de modelação (GRAFCET) e a linguagens de programação específicas do domínio de aplicação (definidas nas normas IEC 61131-3 e IEC 61499). <br />- Ser capaz de desenvolver interfaces de monitorização e de controlo supervisório de sistemas de controlo industriais (SCADA)<br />- Ser capaz de analisar, estruturar, conceber, e documentar um sistema de informação industrial que siga a norma ISA 95.<br /><br /><br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p>A disciplina tem por objectivo desenvolver as seguintes competências: <br />- Ser capaz de analisar, estruturar, conceber, implementar e documentar sistemas de controlo e monitorização industriais de média complexidade, com recurso a ferramentas de modelação (GRAFCET) e a linguagens de programação específicas do domínio de aplicação (definidas nas normas IEC 61131-3 e IEC 61499). <br />- Ser capaz de desenvolver interfaces de monitorização e de controlo supervisório de sistemas de controlo industriais (SCADA)<br />- Ser capaz de analisar, estruturar, conceber, e documentar um sistema de informação industrial que siga a norma ISA 95.<br /><br />e siga a norma ISA95.</p>
+
+## Programa
+<p>- Programação de sistemas de controlo recorrendo às linguagens de programação IEC 61131-3 (incluindo programação orientada a objetos da versão 3 da norma)<br />- Desenvolvimento de aplicações SCADA.<br />- Padrões de Concepção (Design Paterns) utilizados em ambiente industrial (ISA88 e ISA95) <br />- Conceitos de Industria 4.0 (RAMI). <br />- Tecnologias de integração (OPC, XML, AutomationML, B2MML). <br />- IoT para sistemas Industriais e tecnologias associadas (MQTT, AMQP, CoAP, LwM2M, ...)<br />- Introdução a sistemas distribuidos. Programação distribuída de acordo com a norma IEC 61499.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>&#8226; Aulas teóricas: exposição dos assuntos a tratar, acompanhados pela apresentação e discussão de exemplos práticos.<br /> &#8226; Aulas práticas: Resolução de exercícios práticos e apoio à realização do projecto semestral (sistema de controlo de célula de fabrico flexível).<br /><br /></p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 30.0 %
+- Trabalho laboratorial: 70.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 76.5 horas
+- Estudo autónomo: 40.0 horas
+- Frequência das aulas: 45.5 horas
+
+## Fórmula de cálculo da classificação final
+<p>Nota final é média ponderada das notas obtidas no exame e no projeto.<br /><br />Exame final: peso de 30%<br />Projeto: peso de 70%<br /><br />Para obter aprovação à UC os alunos devem ainda obter uma classificação mínima de 35% em cada uma das componentes de avaliação.<br /><br /></p>
+
+## Obtenção de frequência
+Nota mínima de 50% no projeto
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Industrial Informatics
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p><span class="VIiyi" lang="en"><span class="JLqJ4b ChMk0b" data-language-for-alternatives="en" data-language-to-translate-into="pt" data-phrase-index="1">By the end of the course, students should be capable of:<br />- analysing, structuring, designing, implementing and documenting industrial control systems of medium complexity, using domain specific modelling tools (GRAFCET) and programming languages (IEC 61131-3 and IEC 61499);<br />- develop interfaces for monitoring and supervisory control of industrial control systems;<br />- analysing, structuring, designing, implementing and documenting a manufacturing execution system following the concepts proposed by ISA 95.<br /></span></span></p>
+
+## Resultados de aprendizagem e competências
+<p><span class="VIiyi" lang="en"><span class="JLqJ4b ChMk0b" data-language-for-alternatives="en" data-language-to-translate-into="pt" data-phrase-index="1">By the end of the course, students should be capable of:<br />- analysing, structuring, designing, implementing and documenting industrial control systems of medium complexity, using domain specific modelling tools (GRAFCET) and programming languages (IEC 61131-3 and IEC 61499);<br />- develop interfaces for monitoring and supervisory control of industrial control systems;<br />- analysing, structuring, designing, implementing and documenting a manufacturing execution system following the concepts proposed by ISA 95.</span></span></p>
+
+## Programa
+<p>- Programming industrial control systems using IEC 61131-3 (including object oriented approach supported by version 3 of this standard)<br />- Development of supervisory control applicatons (SCADA)<br />- Desgin Patterns used in Industrial applications (ISA88 and ISA 95). <br />- Industry 4.0 concepts (RAMI). <br />- Industrial integration technologies (OPC, XML, AutomationML, B2MML). <br />- Industrial IoT and related technologies (MQTT, AMQP, CoAP, LwM2M, ...)<br />- Introduction to distributed systems. Distributed programming using IEC 61499.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Lectures: presentation of the themes of the course and discussion of practical examples <br />Lab sessions: Resolution of exercises and supervision of the course project (control of a flexible manufacturing cell)<br /><br /></p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 30.0 %
+- Trabalho laboratorial: 70.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 76.5 hours
+- Estudo autónomo: 40.0 hours
+- Frequência das aulas: 45.5 hours
+
+## Fórmula de cálculo da classificação final
+<p>Final grade is wiegthed average of grades obtained for exam and course project.<br /><br />Final Exam weight 30%<br />Course project weight 70%<br /><br />To obtain a passing grade, students must also achieve a minimum grade of 35% in each of the assessment components.</p>
+
+## Obtenção de frequência
+<p>Minimum grade of 50% in course project</p>
+

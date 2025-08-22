@@ -1,0 +1,124 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Algoritmos e Estruturas de Dados
+
+## Curso responsável
+Licenciatura em Engenharia Aeroespacial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Espera-se cobrir diversos tópicos relacionados com a construção e correção de algortimos, bem com suas complexidades temporais e espaciais. Pretende-se também abordar os principais algoritmos de pesquisa e ordenação, e estruturas de dados avançadas. Deve-se também aprender conceitos avançados de programação na linguagem de programação Python, com focos em algumas das princpais bibliotecas. Por fim, será feita uma introdução à programação de sistemas embarcados na plataforma Arduino com a linguagem de programação C.</p>
+
+## Resultados de aprendizagem e competências
+<p>No final da unidade curricular, os estudantes deverão ter competência para: modelar problemas recorrendo ao paradigma da orientação por objetos; resolver problemas fazendo uso de tipos de dados abstratos e estruturas de dados diversas, escolher e construir algortimos de busca e ordenação, utilizar bibliotecas avançadas como NumPy e Pandas, e criar programas simples em Arduino C.</p>
+
+## Pré-requisitos e co-requisitos
+<p>O estudante deve possuir conhecimentos básicos de programação na linguagem Python.</p>
+
+## Programa
+<p>Conceitos e técnicas básicas: complexidade temporal e espacial de algoritmos; tipos abstratos de dados; análise da correção de algoritmos.<br />Algoritmos de pesquisa e ordenação em tipos de dados diversos. <br />Estruturas de dados hierárquicos e sua implementação.<br />Algoritmos básicos em grafos.<br />Tópicos avançados de programação em Python.<br />Introdução à programa em Arduino C para sistemas embarcados.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas teóricas são usadas para exposição formal da matéria, acompanhada da apresentação de exemplos e sua discussão.</p>
+<p>Nas aulas práticas são resolvidos exercícios, em particular, de programação em Python, sendo os exercícios focados em temas tratados nas aulas teóricas.</p>
+<p>A avaliação é realizada ao longo do semestre, em datas previamente anunciadas, onde os estudantes são continuamente avaliados a nível teórico e prático.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Teste: 90.0 %
+- Participação presencial: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 horas
+- Frequência das aulas: 56.0 horas
+
+## Fórmula de cálculo da classificação final
+<p> </p>
+<p>A classificação final é dada pela seguinte fórmula:</p>
+<p><strong>Classificação final = 0.1 DP + 0.2 &#956;T + 0.7 MT</strong></p>
+<p>onde</p>
+<p><strong>Componente DP = </strong>desempenho nas aulas práticas<strong><br /><br />Componente&#956;T =  0,5 uT1 + 0,5 uT2</strong>, sendo &#956;T1 e&#956;T2 os micro-testes teóricos em sala de aula<br /><br /><strong>Componente MT = 0,5 MT1 + 0,5 MT2</strong>, sendo MT1 e MT2 os minitestes práticos em salas de exame</p>
+
+## Obtenção de frequência
+<p> </p>
+<p><span style="font-weight: 400;">Condições para obtenção de frequência: não exceder o limite de faltas estabelecido nas normas (25% do número de aulas práticas previstas). </span></p>
+<p><span style="font-weight: 400;">Os estudantes com estatuto de trabalhador-estudante ou que tenham obtido frequência no ano letivo anterior estão dispensados de assiduidade às aulas práticas.  No entanto, os estudantes que tenham obtido frequência no ano letivo anterior deverão realizar, no presente ano letivo, as componentes de avaliação abaixo indicadas.</span></p>
+
+## Melhoria de classificação
+<p><span style="font-weight: 400;">Os estudantes que frequentaram esta unidade curricular no presente ano letivo podem fazer melhoria das componentes <strong>MT1</strong> e/ou </span><strong>MT2</strong>, na época de recurso.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Data Structures and Algorithms
+
+## Curso responsável
+Bachelor in Aerospace Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+It is expected to cover various topics related to the construction and correction of algorithms, as well as their time and space complexities. The course also intends to address key search and sorting algorithms and advanced data structures. Advanced programming concepts in the Python programming language will also be covered, with a focus on some of the main libraries. Finally, there will be an introduction to embedded systems programming on the Arduino platform using the C programming language
+
+## Resultados de aprendizagem e competências
+<p>By the end of this course unit, students should be able to: model problems using the object-oriented paradigm; solve problems using abstract data types and various data structures; select and build search and sorting algorithms; utilize advanced libraries such as NumPy and Pandas; and create simple programs in Arduino C.</p>
+
+## Pré-requisitos e co-requisitos
+<p><span id="result_box" lang="en"><span class="hps">Student should</span> <span class="hps">have basic knowledge</span> <span class="hps">of</span> <span class="hps">programming in Python</span>.</span></p>
+
+## Programa
+Basic concepts and techniques: time and space complexity of algorithms; abstract data types; analysis of algorithm correctness.<br />Search and sorting algorithms on various data types.<br />Hierarchical data structures and their implementation.<br />Basic graph algorithms.<br />Advanced programming topics in Python.<br />Introduction to Arduino C programming for embedded systems
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical classes are for formal exposition of the subjects, with the presentation of examples and their analysis and discussion.</p>
+<p>In practical classes exercises are solved, mainly, programming exercises in Python, that focus on topics addressed in the theoretical classes.</p>
+<p>The assessment is carried out throughout the semester, on previously announced dates, where students are continuously evaluated at the theoretical and practical level.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Teste: 90.0 %
+- Participação presencial: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 hours
+- Frequência das aulas: 56.0 hours
+
+## Fórmula de cálculo da classificação final
+<p> </p>
+<p>The final grade is given by the following formula:</p>
+<p><strong>Final Grade = 0.1 DP + 0.2 &#956;T + 0.7 MT</strong></p>
+<p>where</p>
+<p><strong>Component DP</strong> = performance in practical classes</p>
+<p><strong>Component&#956;T = 0.5 &#956;T1 + 0.5&#956;T2</strong>, where &#956;T1 and&#956;T2 are the theoretical micro-tests in the classroom</p>
+<p><strong>Component MT = 0.5 MT1 + 0.5 MT2</strong>, where MT1 and MT2 are the practical mini-tests in examination rooms</p>
+
+## Obtenção de frequência
+<p> </p>
+<p><span style="font-weight: 400;">Conditions to obtain eligibility for exams: do not exceed the absence limit, established in the rules (25% of the total number of estimated practical lessons). </span></p>
+<p><span style="font-weight: 400;">Students with worker-student status or who have obtained attendance in the previous school year are exempt from attendance. However, students who have obtained attendance in the previous school year must perform, in the present school year, all the evaluation components indicated below.</span></p>
+
+## Melhoria de classificação
+<p>The students who attended this course unit in the current academic year may improve their <strong>MT1</strong> and/or <strong>MT2</strong> components during the resit period.</p>
+

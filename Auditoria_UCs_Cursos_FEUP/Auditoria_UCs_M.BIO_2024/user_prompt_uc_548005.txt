@@ -1,0 +1,105 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Competências Transversais: CiênciaVitae - o currículo científico
+
+## Curso responsável
+Competências Transversais: CiênciaVitae - o currículo científico
+
+## Créditos ECTS
+1,5
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>A participação de jovens diplomados em projetos de investigação e inovação no âmbito de unidades de investigação tem um inegável valor formativo e funciona como uma oportunidade de aquisição de competências relevantes para as futuras carreiras profissionais. Nos últimos 2 anos, uma nova ferramenta de gestão curricular assumiu um papel fundamental no que diz respeito aos processos de avaliação de financiamento atribuídos pela maior agência portuguesa de suporte financeiro, a Fundação para a Ciência e Tecnologia. Enquadrado no conceito da cidadania científica (CiênciaID), o CiênciaVitae, sistema nacional de gestão curricular de ciência, assume-se enquanto elemento central no ecossistema de gestão da informação sobre a atividade científica e tecnológica bem como uma ferramenta de suporte à modernização dos processos administrativos suportados por um CV. O desenvolvimento da plataforma respeita as melhores práticas e tem por base o normativo PTCRIS (https://ptcris.pt/sobre-o-ptcris/apresentacao/), sendo integrável com vários sistemas e identificadores nacionais e internacionais. Adicionalmente, sendo o RCAAP (Repositórios Científicos de Acesso Aberto de Portugal) uma peça integrante do ecossistema de gestão de ciência, refere-se a importância da integração deste com os restantes sistemas que constituem o mesmo ecossistema, nomeadamente o CiênciaVitae.</p>
+<p>Esta formação visa assim dar a conhecer aos jovens diplomados uma ferramenta curricular de elevada relevância para o sistema científico nacional, dotando-os de competências adicionais importantes para o desenvolvimento da sua carreira profissional. O principal objetivo desta unidade curricular é que os participantes possam criar o seu currículo no formato CiênciaVitae e com as diretrizes fornecidas, possam concorrer aos concursos individuais de bolsas de doutoramento na FCT ou outras, com sucesso, percebendo como é feita a transmissão do CV na plataforma. Além disso será abordado a importação de bases de dados como o SCOPUS ou ORCID e a disponibilização de publicações no sigarra para garantir o acesso aberto das mesmas.</p>
+
+## Resultados de aprendizagem e competências
+<p>Os estudantes serão dotados de conhecimentos técnicos sobre o preenchimento adequado de um currículo científico. É expectável que adquiram conhecimentos sobre a forma como a informação é integrada na plataforma, dos mecanismos de importação e preenchimento automático dos dados curriculares, assegurando o princípio de reutilização da informação, em direta articulação com o CiênciaID e os programas de financiamento da FCT. Adicionalmente, pretende-se ainda dotar os estudantes de informação sobre as normas de acesso aberto de dados e de conhecimentos específicos para assegurarem o acesso aberto.</p>
+
+## Programa
+<ol><br /><li>Introdução: Conceitos sobre ética na investigação e acesso aberto, apresentação da plataforma do PTCris, importância do CV nos concursos e avaliação dos candidatos;</li><br /><li>Criação/atualização do ORCID e importação via SCOPUS: pesquisa de autores nos Scopus, associação de vários Scopus ID ou pedido de associação de artigos mal atribuídos ao autor, criação do ORCID e sua importância, atualização do ORCID via SCOPUS; </li><br /><li>Criação do Ciência ID e interface FCTsig: Criação do Ciencia ID, associação do Ciência ID ao J (FCTsig), chave de associação;</li><br /><li>Ciência Vitae &#8211; Dados pessoais e formação: importação de informação via FCTsig, importância do Resumo, forma correta de apresentar a formação e afiliação;</li><br /><li>Ciência Vitae - Importação de projetos e publicações via ORCID: importação e sincronização de informação com o ORCID de projetos e publicações. Atividades e distinções; </li><br /><li>Ciência Vitae &#8211; Acessos e permissões: definições de privacidade e CV público, Exportação do CV para pdf, conceder acessos a entidades para concursos, revogar acessos; </li><br /><li>Normas e análise do Guião CiênciaVitae em concursos FCT: guião do CienciaVitae complementar ao guião de candidatura do concurso; regras de permissões e acessos ao CV; recolha de dados via API (o que não é considerado), momento de edição de CV e acesso aos dados pela entidade do concurso, revogação antecipada e suas consequências;</li><br /><li>Acesso aberto de dados: O que é o acesso aberto de dados, plataformas disponíveis para acesso aberto de dados, identificadores e licenças <em>Creative Commons</em>; </li><br /><li>Gestão de publicações no Authenticus e Sigarra: importação de publicações para o Authenticus via ORCID, importação do Authenticus para o Sigarra, criação de publicações no Sigarra; </li><br /><li>Repositório Aberto da Universidade do Porto e RCAAP: depósito de publicações no Repositório, via Sigarra, importância dos períodos de embargo e tipo de documento permitido para depósito.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A metodologia principal é a aprendizagem baseada na exposição de conteúdos com exercícios exemplificativos. Será dada a oportunidade aos estudantes de adquirirem conhecimentos sobre a forma como a informação é integrada na plataforma do CiênciaVitae, dos mecanismos de importação e preenchimento automático dos dados curriculares, assegurando o princípio de reutilização da informação, em direta articulação com o CiênciaID e os programas de financiamento da FCT.  Será dada ainda a oportunidade de conhecerem o processo de inserir uma publicação no sigarra com migração para o RCAAP. A avaliação será realizada através de um caso de estudo: elaboração do CV do estudante. Será avaliado se o CV foi realizado de acordo com as aprendizagens expostas.<br /><strong><br /></strong></p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 90.0 %
+- Participação presencial: 10.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 20.0 horas
+- Estudo autónomo: 6.5 horas
+- Frequência das aulas: 14.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação é realizada na escala de 0 a 20 valores com base na seguinte fórmula:<br /><br />CF = 0,9 x CE + 0,1 x AS, em que,</p>
+<p>CE - caso de estudo constituído pela elaboração do CiênciaVitae pessoal com informação adicional do caso de estudo proposto;<br /><br />AS - Assiduidade das aulas<br /><br /></p>
+<p>A aprovação é dada com avaliação final igual ou superior a 10 valores.</p>
+
+## Obtenção de frequência
+Máximo de 25 % de faltas, segundo as regras em vigor na FEUP.
+
+## Melhoria de classificação
+Os estudantes que pretendam realizar melhoria de classificação poderão apresentar um novo caso de estudo de acordo com as indicações a fornecer pelos docentes da disciplina.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Transferable Skills: CiênciaVitae - the scientific curriculum
+
+## Curso responsável
+Transferable Skills: CiênciaVitae - the scientific curriculum
+
+## Créditos ECTS
+1,5
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+The participation of young graduates in research and innovation projects within research units has an undeniable formative value and works as an opportunity to acquire relevant skills for future professional careers. In the last 2 years, a new curriculum management tool has taken on a fundamental role with regard to the processes for evaluating funding awarded by the largest Portuguese financial support agency, the Foundation for Science and Technology. Framed within the concept of scientific citizenship (CiênciaID), CiênciaVitae, the national science curriculum management system, is a central element in the ecosystem of information management on scientific and technological activity, as well as a support tool for the modernization of administrative processes supported by a CV. The development of the platform respects the best practices and is based on the PTCRIS standard (https://ptcris.pt/sobre-o-ptcris/apresentacao/), being integrated with various systems and national and international identifiers. Additionally, since the RCAAP (Open Access Scientific Repositories of Portugal) is an integral part of the science management ecosystem, the importance of its integration with the other systems that make up the same ecosystem, namely the CiênciaVitae, should be mentioned.<br /><br />This training aims to make young graduates aware of a highly relevant curricular tool for the national scientific system, providing them with additional skills that are important for the development of their professional career. The main objective of this curricular unit is that participants can create their curriculum in the CiênciaVitae format and, with the guidelines provided, can compete for individual competitions for doctoral scholarships at FCT or others, successfully, realizing how the transmission of the CV is done on the platform. In addition, the import of databases such as SCOPUS or ORCID and the availability of publications in sigarra will be addressed to ensure open access to them.
+
+## Resultados de aprendizagem e competências
+Students will be provided with technical knowledge about the proper completion of a scientific curriculum. They are expected to acquire knowledge about how information is integrated into the platform, about import mechanisms and automatic completion of curricular data, ensuring the principle of reusing information, in direct articulation with CiênciaID and FCT's funding programs. Additionally, it is also intended to provide students with information about open  access data standards and specific knowledge to ensure open access.
+
+## Programa
+1. Introduction: Concepts about ethics in research and open access, presentation of the PTCris platform, importance of the CV in competitive calls and candidate evaluation;<br />2. Creation/update of ORCID and import via SCOPUS: search for authors in Scopus, association of several Scopus ID or request for association of articles poorly attributed to the author, creation of ORCID and its importance, update of ORCID via SCOPUS;<br />3. Creation of Ciência ID and FCTsig interface: Creation of Ciencia ID, association of Ciência ID with J (FCTsig), association key;<br />4. Ciência Vitae &#8211; Personal data and education: import of information via FCTsig, importance of the Resume, correct way to present education and affiliation;<br />5. Ciência Vitae - Import of projects and publications via ORCID: import and synchronization of information with ORCID of projects and publications. Activities and distinctions;<br />6. Ciência Vitae &#8211; Access and permissions: privacy settings and public CV, CV export to pdf, grant access to entities for calls, revoke access;<br />7. Rules and analysis of the CiênciaVitae Guide in FCT calls: CienciaVitae guide complementary to the call application guide; CV permissions and access rules; collection of data via API (dismissed information), time for editing the CV and access to data by the evaluation entity, early revocation and its consequences;<br />8. Open access data: What is open access data, available platforms for open access data, identifiers and Creative Commons licenses;<br />9. Management of publications in Authenticus and Sigarra: importing publications to Authenticus via ORCID, importing from Authenticus to Sigarra, creating publications in Sigarra;<br />10. Open Repository of the University of Porto and RCAAP: deposit of publications in the Repository, via Sigarra, importance of the embargo periods and type of document allowed for deposit.
+
+## Métodos de ensino e atividades de aprendizagem
+The main methodology is learning based on exposition of contents with exemplary exercises. Students will be given the opportunity to acquire knowledge about how information is integrated into the CiênciaVitae platform, the import and automatic filling mechanisms of curricular data, ensuring the principle of information reuse, in direct articulation with CiênciaID and the FCT funding programs. They will also be given the opportunity to learn about the process of inserting a publication in sigarra with migration to RCAAP. The evaluation will be carried out through a case study: preparation of the student's CV. It will be evaluated if the CV was carried out in accordance with the exposed learnings.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 90.0 %
+- Participação presencial: 10.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 20.0 hours
+- Estudo autónomo: 6.5 hours
+- Frequência das aulas: 14.0 hours
+
+## Fórmula de cálculo da classificação final
+Final grade is carried out on a scale of 0 to 20 values based on the following formula:<br /><br />CF = 0,9 x CE + 0,1 x AS, where<br /><br />CE - Evaluation of a case study: elaboration of the personal CiênciaVitae with additional information on the proposed case study;<br /><br />AS - Assiduity to the classrooms<br /><br />Approval is given with a final grade equal to or greater than 10 values.
+
+## Obtenção de frequência
+At most 25 % of absences according to current regulations in FEUP.
+
+## Melhoria de classificação
+The students who want to improve their classification may present a new case study in accordance with the instructions provided by the class teachers.
+

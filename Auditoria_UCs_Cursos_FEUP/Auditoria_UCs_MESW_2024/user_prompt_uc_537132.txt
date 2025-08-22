@@ -1,0 +1,100 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Compreensão e Evolução de Software
+
+## Curso responsável
+Mestrado em Engenharia de Software
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<ul><br /><li>Adquirir compete&#770;ncias que permitam lidar com os processos de evoluc&#807;a&#771;o e manutenc&#807;a&#771;o de software, numa fase po&#769;s-projeto;</li><br /><li>Conhecer e aplicar te&#769;cnicas de engenharia reversa, re-engenharia e evoluc&#807;a&#771;o em linhas de produtos de software;</li><br /><li>Identificar os desafios em torno da compreensa&#771;o e evoluc&#807;a&#771;o de software, o seu estado da arte e quais os soluc&#807;o&#771;es preconizadas pela comunidade.</li><br /></ul><br /><p><br /><br /></p>
+
+## Resultados de aprendizagem e competências
+Os estudantes deverão adquirir as seguintes competências:<br /><br /><ul><br /><li>Identificar as necessidades de evolução de um sistema de software.</li><br /><li>Seleccionar/Definir qual o melhor processo de evolução a aplicar.</li><br /><li>Ser capaz de investigar/propor soluções para problemas de compreensão e evolução de software.</li><br /><li>Aplicar técnicas de evolução de software a projetos especificos. </li><br /></ul>
+
+## Programa
+<ul><br /><li>Visão geral sobre os tópicos do dominio da Compreensão e Evolução de Software</li><br /><li>Abordagem e discusão em torno de sub-tópicos, sua aplicabilidade e ferramentas existentes, dentro das áreas de:</li><br /><ul><br /><li>Engenharia Reversa e Extração de Conhecimento.</li><br /><ul><br /><li>Visualização de Software.</li><br /><li>Recuperação de Desenho.</li><br /><li>Compreensão de Programas.</li><br /></ul><br /><li>Desenho de Software com vista à manutenção e evolução.</li><br /><ul><br /><li>Re-estruturação (<em>refactoring</em>).</li><br /><li>Sistemas Legados.</li><br /><li>Re-engenharia.</li><br /></ul><br /><li>Estudos Empíricos sobre a evolução de Software.</li><br /><ul><br /><li>Teste de Ferramentas.</li><br /><li>Métricas de avaliação de resultados.</li><br /><li>Aplicabilidade a sistemas em larga escala.</li><br /></ul><br /><li>Conhecimento em Repositórios de Software.</li><br /><ul><br /><li>Extração de informação relevante.</li><br /><li>Monitorização da evolução da informação.</li><br /><li>Articulação de processos de evolução de software.</li><br /></ul><br /></ul><br /><li>Desenvolvimento de um trabalho/projeto em grupo dentro de uma das quatro áreas supra-citadas. </li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>Abordagem dos to&#769;picos mais relevantes dentro da a&#769;rea da Compreensa&#771;o de Software e respetivas te&#769;cnicas e abordagens e da Evoluc&#807;a&#771;o de Software</li><br /><li>Ana&#769;lise de artigos seminais ou de releva&#770;ncia cienti&#769;fica e respetiva apresentac&#807;a&#771;o e discussa&#771;o critica durante as aulas</li><br /><li>Aplicac&#807;a&#771;o de te&#769;cnicas a projetos reais com objetivos especi&#769;ficos bem definidos e que se pretende que cubram os conceitos mais importantes.</li><br /></ul>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Prova oral: 20.0 %
+- Trabalho prático ou de projeto: 50.0 %
+- Exame: 30.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 70.0 horas
+- Estudo autónomo: 30.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho de investigação: 20.0 horas
+
+## Fórmula de cálculo da classificação final
+A classificação final (CF) terá, por base, a seguinte formula:<br /><br />AP - Apresentação de trabalho de pesquisa<br />TP - Trabalho prático.<br />EX - Exame<br /><br />CF = AP*0,20+TP*0,50+EX*30
+
+## Obtenção de frequência
+Todas as componentes obrigam a uma nota mínima de 40%.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Software Evolution and Program Comprehension
+
+## Curso responsável
+Master in Software Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<ul><br /><li>Acquire skills that enable proficiency with software maintenance and evolution processes, on a post-project stage;</li><br /><li>Acknowledge and apply reverse engineering, re-engineering and evolution techniques in software product lines;</li><br /><li>Identify the issues and challenges within the program comprehension and software evolution domain of knowledge, its state-of-the-art and future trends within the community.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+Students should acquire de following skills:<br /><br /><ul><br /><li>Identify the evolution requirements and needs of a software system.</li><br /><li>Select/define the best evolution process to apply.</li><br /><li>Be able to do research and propose solutions on open issues within the field of Software Comprehension and Evolution.</li><br /><li>Apply evolution techniques and practices to specific projects.</li><br /></ul>
+
+## Programa
+<ul><br /><li>Overview of the major topics on Software Comprehension and Evolution.</li><br /><li>Insight and discussion around sub-topics, its applicability and existing tools, on the following areas:</li><br /><ul><br /><li>Reverse Engineering and Knowledge Discovery.</li><br /><ul><br /><li>Software Visualization.</li><br /><li>Design Recovery.</li><br /><li>Program Comprehension.</li><br /></ul><br /><li>Software Design for Maintenance and Evolution</li><br /><ul><br /><li>Refactoring.</li><br /><li>Legacy Systems.</li><br /><li>Reengineering.</li><br /></ul><br /><li>Empirical Studies on Software Evolution.</li><br /><ul><br /><li>Tool evaluation.</li><br /><li>Results metrics.</li><br /><li>Large-scale system applicability.</li><br /></ul><br /><li>Mining Software Repositories.</li><br /><ul><br /><li>Extracting relevant information.</li><br /><li>Monitoring information change and evolution.</li><br /><li>Articulating software evolution processes.</li><br /></ul><br /></ul><br /><li>Group project development on one of the four above-mentioned area.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>Lecturing of the most relevant topics, practices and techniques within the Software Comprehension and Evolution domain area.</li><br /><li>Presentation, analysis and discussion of scientifically relevante seminal papers during class.</li><br /><li>Application of evolution techniques to specific projects with well defined goals, covering the most important concepts.</li><br /></ul>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Prova oral: 20.0 %
+- Trabalho prático ou de projeto: 50.0 %
+- Exame: 30.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 70.0 hours
+- Estudo autónomo: 30.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho de investigação: 20.0 hours
+
+## Fórmula de cálculo da classificação final
+Final Grade (FG) will be calculated using the following formula:<br /><br />RAP - Research Assigment Presentation<br />PA - Practical Assignment<br />FE - Final Exam<br /><br />FG = RAP*0,20+PA*0,50+FE*0,30
+
+## Obtenção de frequência
+All evaluation components must have a 40% minimum grade.
+

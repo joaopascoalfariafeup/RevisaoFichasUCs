@@ -1,0 +1,98 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Computabilidade e Complexidade
+
+## Curso responsável
+Licenciatura em Ciência de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>Estudo e comparação de vários modelos de computação <br />(Turing-completos), do seu poder computacional e das suas limitações. Estudo das diversas classes de complexidade computacional.<br /> <br />Ao completar este curso espera-se que os alunos <br />- conheçam os modelos de computação clássicos utilizados no estudo da computabilidade de diversos problemas; <br />- saibam provar a equivalência de vários modelos Turing-completos; <br />- conheçam os resultados e métodos mais importantes no estudo da  computabilidade e complexidade; <br />- saibam classificar exemplos concretos de problemas e provar a sua (in)decidibilidade dentro das diversas classes de computabilidade.<br />- saibam classificar elemplos concretos pelas sua complexidade temporal e interpretar essa classificação. </p>
+
+## Resultados de aprendizagem e competências
+<p style="margin-bottom: 0in; line-height: 150%;"><span style="color: #666666;"><span style="font-family: Arial, sans-serif;"><span style="font-size: small;"><em><strong>Os alunos são expostos a vários dos modelos de computação Turing-completos standard, como as máquinas de registo, máquinas de Turing e as funções recursivas. Para além da prova da equivalência dos diferentes modelos, estes são também utilizados para identificar diferentes </strong></em></span></span></span><em style="font-size: 9pt; font-family: Arial, sans-serif; color: #666666; line-height: 150%;"><strong>problemas indecidíveis. São usadas diferentes técnicas, como o método da diagonalização e da redução entre linguagens. Para adquirirem experiência em identificar a complexidade computacional de problemas concretos, faz-se uma introdução às classes P e NP, completude NP e o teorema de Cook, voltando também à técnica da redução.</strong></em></p>
+
+## Pré-requisitos e co-requisitos
+<p>Conhecimentos de alguns modelos de computação como Autómatos finitos, Expressões regulares e Gramáticas independentes. Conhecimentos básicos de Lógica.</p>
+
+## Programa
+<p>Noção de linguagem/problema (semi-)decidível. <br />Revisão de alguns modelos de computação (DFA's, NFA's, CFG's e PDA's) e do seu poder  computacional. <br />Máquinas de Turing. Máquinas de registo. Funções Recursivas. Lambda Calculus. Tese de Church-Turing. <br />Hierarquia de Chomsky. Teorema da Recursão de Kleene. Método da diagonalização e indecidibilidade do problema <br />da paragem. Redução "muitos para um" entre linguagens.<br /> Introdução à teoria de complexidade: classes P e NP; completude em NP; teorema de Cook e outros problemas NP-completos. reduções polinomiais. <br />Classes co-NP, etc.<br />A classe dos problemas PSPACE. </p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teóricas de exposição dos conteúdos programáticos. <br />Aulas práticas de resolução de exercícios propostos semanalmente.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 114.0 horas
+- Frequência das aulas: 48.0 horas
+
+## Fórmula de cálculo da classificação final
+Primeiro teste (50% de peso na nota final).<br />Segunto teste (50% de peso na nota final). <br />Sendo PT a classificação obtida  no teste intercalar e ST a<br />classificação obtida no exame final, então a nota final é dada por:<br />F = PT*(0.5) + ST*(0.5) <br />PT,ST &gt;= 6 e F &gt;= 9.5<br />Não obterão aprovação na avaliação distribuída, os alunos que não obtiverem um mínimo de 6 valores (em 20), em ambos os testes e um mínimo de 9.5 valores de nota final.<br />Para os alunos que não obtiverem aprovação, haverá um exame de recurso, cotado para 20 valores.<br /><br />Adicionalmente poderão ser propostos projectos laboratoriais, sendo o peso desses projectos na classificação final a determinar pelo docente responsável.
+
+## Obtenção de frequência
+Sem critérios de frequência.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computability and Complexity
+
+## Curso responsável
+Bachelor in Computer Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>Study and comparison of different (Turing-complete) models of computation, their computational power and limitations. Study of the various complexity classes of problems.<br /> <br />After completing this course students are expected to <br /> <br />- know the classical models of computation; <br />- be able to prove the equivalence of several Turing-complete models; <br />- know the fundamental results and methods used in the study of computability and complexity; <br />- be able to classify concrete examples of problems and prove their (un)decidability within several classes of computability;<br />- be able to classify concrete problems about their time complessity, and understand the consequences of that classification.</p>
+
+## Resultados de aprendizagem e competências
+<p style="margin-bottom: 0in; line-height: 150%;"><span style="color: #666666;"><span style="font-family: Arial, sans-serif;"><span style="font-size: small;"><span lang="en-US"><em><strong>Students are exposed to different standard Turing-complete models of </strong></em></span></span></span></span><span style="color: #666666;"><span style="font-family: Arial, sans-serif;"><span style="font-size: small;"><em><strong>computation, such as register machines, Turing machines e recursive </strong></em></span></span></span><span style="color: #666666;"><span style="font-family: Arial, sans-serif;"><span style="font-size: small;"><em><strong>functions. Besides proving the equivalence of those models, they also </strong></em></span></span></span><span style="color: #666666;"><span style="font-family: Arial, sans-serif;"><span style="font-size: small;"><em><strong>are used to identify different undecidable problems. For this, </strong></em></span></span></span><span style="color: #666666;"><span style="font-family: Arial, sans-serif;"><span style="font-size: small;"><em><strong>different techniques, such as the diagonalization method and the </strong></em></span></span></span><span style="color: #666666;"><span style="font-family: Arial, sans-serif;"><span style="font-size: small;"><em><strong>reduction between languages are used. In order to gain experience </strong></em></span></span></span><span style="color: #666666;"><span style="font-family: Arial, sans-serif;"><span style="font-size: small;"><em><strong>identifying the computational complexity of concrete problems, </strong></em></span></span></span><span style="color: #666666;"><span style="font-family: Arial, sans-serif;"><span style="font-size: small;"><em><strong>students are introduced to the classes P and NP, the notion of </strong></em></span></span></span><span style="color: #666666;"><span style="font-family: Arial, sans-serif;"><span style="font-size: small;"><em><strong>NP-completeness and Cook&#8217;s theorem, revisiting again the reduction </strong></em></span></span></span><span style="color: #666666;"><span style="font-family: Arial, sans-serif;"><span style="font-size: small;"><em><strong>technique.</strong></em></span></span></span></p>
+
+## Pré-requisitos e co-requisitos
+<p>Knowledge of some models of computation such as Finite Automata, Regular Expressions and Context-free Grammars. Basic notions of Logic.</p>
+
+## Programa
+<p><br />Notion of (semi-)decidable language/problem. Revision of some models of computation (DFA, NFA, CFG and PDA) and their power of computation. Register machines. Turing machines. Recursion theory. Lambda Calculus. Church-Turing thesis. Chomsky hierarchy. Kleene's Recursion Theorem. The diagonalization method and the indecidability of the halting-problem. Reduction &#8220;many to one&#8221; between languages. Introduction to complexity theory: P and NP classes, NP-completeness, Cook&#8217;s theorem and other NP-complete problems. Class co_NP, etc. <br />The PSPACE class. </p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Lectures: exposition of the elements in the syllabus. <br />Lab classes: resolution of exercises proposed each week.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 114.0 hours
+- Frequência das aulas: 48.0 hours
+
+## Fórmula de cálculo da classificação final
+First test (50% of the final mark).<br />Second test (50% of the final mark).<br />If FT is the mark obtained in the first test and ST the mark obtained in second test, then the final mark is given by:<br />F = FT*(0.5) + ST*(0.5)  <br />FT,ST &gt;= 6 and F &gt;= 9.5<br />To get approval in the distributed evaluation, students must obtain a minimum of 6 points (in a total of 20) in each test and a minimum of 9.5 as final mark.<br />The students not obtaining approval, can take a resit exam, with a weight of 100% of the final mark. <br /><br />Additionally there could be lab projects proposed in each module, with the weight of these projects in the final mark to be determined by the teacher.
+
+## Obtenção de frequência
+No specific requirements to attend exams.
+

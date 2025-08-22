@@ -1,0 +1,112 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Computação Móvel
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>A computação móvel tem tido um enorme incremento nos últimos anos com a explosão da utilização de dispositivos móveis de elevadas capacidades de computação, comunicação, armazenamento e interface. As aplicações estendem-se por cada vez mais campos desde o entretenimento e redes sociais até ao trabalho empresarial.<br /> Os objectivos principais desta unidade curricular visam a aquisição de conhecimento e prática dos conceitos essenciais do projecto, arquitectura e implementação de aplicações, principalmente empresariais, em dispositivos móveis, utilizando APIs de grande divulgação corrente.<br /> São problemas e desafios a vencer a grande diversidade de capacidades e formas de interação dos dispositivos móveis atuais.</p>
+
+## Resultados de aprendizagem e competências
+<p>Os estudantes, no final desta unidade curricular, deverão ser capazes de, dada uma especificação de requisitos para aplicações disponíveis 'em qualquer altura e em qualquer lugar':<br />   - escolher uma plataforma móvel, padrão da aplicação, 'framework' de programação, adequação às características dos dispositivos e necessidades de armazenamento e comunicação;<br />   - escolher as tecnologias mais apropriadas, tendo em vista o cenário da aplicação;<br />   - desenvolver e realizar aplicações e serviços locais e remotos necessários, nas principais tecnologias, com interface adequada;<br />   - integrar serviços e aplicações disponíveis, mesmo quando realizados em diferentes tecnologias.</p>
+
+## Pré-requisitos e co-requisitos
+<p>São requisitos indispenssáveis o conhecimento e a prática do desenvolvimento de aplicações de razoável dimensão em ambiente Java e .NET e a integração de serviços remotos.</p>
+
+## Programa
+<p><strong>Conceitos teóricos:</strong><br /> 1. Aplicações para dispositivos móveis<br />   - características adaptadas aos dispositivos móveis<br />   - necessidades e facilidades de comunicação<br />   - armazenamento local<br /> 2. Padrões para aplicações nos dispositivos móveis<br />   - aplicações locais<br />  - 'frameworks' nativos e genéricos<br />   - aplicações ligadas e desligadas<br />   - partilha da lógica de negócio<br />   - necessidade de dados locais e remotos<br />   - caches<br />   - bases de dados locais e sincronização<br /> 3. Utilização de 'frameworks' de programação e desenvolvimento correntes<br />   - Android nativo<br />  - aspectos da construção de interfaces<br />   - utilização de sensores<br />   - comunicações<br />   - acesso a dados locais e remotos<br />  - um 'framework' genérico para Android, Windows Phone e iOS<br /> 4. Aplicações orientadas aos serviços<br />   - acesso a web services<br /> 5. Distribuição e instalação de aplicações nos dispositivos<br /> 6. Alguns aspetos de segurança<br />  <br /> <strong>Prática:</strong><br /> Desenvolvimento de aplicações para dispositivos móveis utilizando 'frameworks' correntes e genéricos.<br /> Utilização de ferramentas de desenvolvimento e emuladores dos dispositivos.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>- Exposição teórica dos conceitos e apresentação de exemplos e demonstrações<br /> - Desenvolvimento prático de diversos tipos de aplicações para dispositivos móveis.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Participação presencial: 0.0 %
+- Trabalho laboratorial: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 14.0 horas
+- Estudo autónomo: 38.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 68.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Classificação = 0.6 Tr + 0.4 Ex<br /> Tr - 2 trabalhos práticos a realizar durante o semestre<br /> Ex - Exame final com consulta</p>
+
+## Obtenção de frequência
+<p>É obrigatória a realização e apresentação dos trabalhos. Exame final com consulta.</p>
+
+## Melhoria de classificação
+<p>Para efeitos de melhoria de classificação final, devido à sua extensão, a componente prática distribuída (trabalhos) será a obtida no final do semestre. O Exame final pode ser melhorado na época de Recurso. A componente prática pode ser oficialmente melhorada na próxima ocorrência da UC.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Mobile Computing
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Mobile Computing had an enormous increment in the last years with the explosion of mobile devices utilization. These devices present increasing capabilities concerning computation power, communication, storage and ease of interface. Applications extend now to incresing areas from entertainment and social networking to enterprise work.<br /> The main ojectives include the acquisition of knowledge and practice of the main concepts of design, architecture and implementation of applications, mainly business, with particular access needs to data and computing in any place and at any time. Emphasis is on the use of current and generic frameworks, taking into account the mobile devices&#8217; specificity.<br /> Problems and challenges to overcome include the existing great diversity of capabilities and interaction ways and interfaces.</p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of the semester, students presented with a complex application requirements description, should be capable of:<br />   - choose a mobile platform, application architecture pattern, programming framework, and adequacy to the device characteristics and communication and storage needs;<br />   - choose the most adequate technologies, taking into account the application scenario and audience;<br />   - implement the local application and needed local and remote services, in the main available technologies, with an adequate user interface;<br />   - integrate applications and services, even if using different technologies.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Important requirements include a good knowledge and practice in the development of reasonably sized applications in the Java and .NET environments. The development, use and integration of remote services (web services) is also very useful.</p>
+
+## Programa
+<p><strong>Theory:</strong><br /> 1. Applications and interfaces for mobile devices<br />   - Mobile devices characteristics<br />   - Communications facilities and needs<br />   - Local storage<br /> 2. Patterns for applications on mobile devices<br />   - Local applications<br />  - Native and generic frameworks<br />   - Disconnected and connected applications<br />   - Local and remote data needs<br />   - Caching<br />   - Local data bases and synchronization<br /> 3. Use of current and generic programming frameworks<br />   - Android and Windows Phone<br />  - User interface design and programming<br />   - Sensors<br />   - Communications<br />   - Local and remote data access<br />  - A generic framework for Android, Windows Phone and iOS<br /> 4. Service-oriented applications<br />   - Use of web services<br /> 5. Installation and deployment of applictions in the mobile devices<br /> 6. Security<br />  <br /> <strong> Practice:</strong><br /> Development of mobile applications using current and generic programming frameworks.<br /> Development tools and the use of mobile device emulators.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>- Theoretical concept exposition, with presentation of examples and demonstrations.<br /> &#8211; Practical development of various types of applications for mobile devices.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Participação presencial: 0.0 %
+- Trabalho laboratorial: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 14.0 hours
+- Estudo autónomo: 38.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 68.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Grade = 0.6 Asgn + 0.4 Ex<br /> Asgn - 2 to 3 Lab assignments<br /> Ex - Open book final</p>
+
+## Obtenção de frequência
+<p>Finalizing and presenting the Lab Assignments. Open book final.</p>
+
+## Melhoria de classificação
+<p>For final grade improvement, the assignments grade is the one obtained at the end of classes (due to its volume). The written final can be improved at the end of the semester. Lab assignments can be improved at the next CU occurence.</p>
+

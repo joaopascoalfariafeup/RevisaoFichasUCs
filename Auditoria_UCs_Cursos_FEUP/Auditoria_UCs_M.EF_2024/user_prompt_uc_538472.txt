@@ -1,0 +1,109 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Óptica Não-Linear e Ultra Rápida
+
+## Curso responsável
+Mestrado em Engenharia Física
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+Formação de base em ótica não-linear, com uma componente de ótica de impulsos ultracurtos (ótica ultrarrápida) adequada a uma compreensão mais abrangente e atual do tema.<br />Este curso não é clássico (sendo lecionado em apenas algumas instituições em todo o Mundo) e o seu tema é um campo muito recente e em rápida evolução, tocando um número crescente de áreas da física, engenharia e ciência não-linear em geral. Em consequência, este será um curso dinâmico, ilustrado com resultados recentes de investigação.
+
+## Resultados de aprendizagem e competências
+<p>a) Conhecimento da origem, descrição e aplicações de propriedades e processos óticos não-lineares;<br /><br />b) capacidade de cálculo analítico de efeitos não-lineares de segunda e terceira ordem (geração do segundo harmónico, amplificação paramétrica, auto-modulação da fase e efeito de Kerr ótico, etc.) para campos monocromáticos;<br /><br />c) conhecimento de ferramentas para o cálculo numérico de processos não-lineares (diferentes processos, materiais e geometrias, feixes gaussianos e impulsos curtos);<br /><br />d) conhecimento e capacidade de explicitar a propagação linear de impulsos ultracurtos nos domínios espectral e temporal e os processos não-lineares com impulsos;<br /><br />e) conhecimento das equações de propagação não-linear e de ferramentas e métodos para a sua resolução numérica;<br /><br />f) cultura científica e conhecimento de técnicas, resultados atuais e temas de investigação e desenvolvimento em ciência e tecnologia ultrarrápidas.</p>
+
+## Pré-requisitos e co-requisitos
+Eletromagnetismo, ótica (preferencialmente incluindo lasers), materiais óticos, e mecânica quântica elementar.
+
+## Programa
+1. Introdução<br />Não-linearidade em física, primórdios da ótica não-linear, geração do segundo harmónico, ajuste de fase (phase matching), considerações de simetria, retificação ótica, efeito Pockels, soma de frequências, diferença de frequências e amplificação paramétrica ótica, processos de terceira ordem, bases teóricas, evolução histórica e tecnológica da ótica não-linear.<br /><br />2. Mistura de frequências<br />Introdução e resumo. Teoria eletromagnética;<br />Geração do segundo harmónico: equações de onda acopladas, aproximação de pequena depleção / baixa eficiência de conversão, relações de Manley-Rowe para a geração do segundo harmónico, comparação com a geração do terceiro harmónico, modelo tipo antena, relações de fase e quasi-ajuste de fase (quasi-phase matching);<br />Processos gerais a três ondas: equações de onda acopladas e relações de Manley-Rowe, variáveis de campo modificadas (normalizadas), soma e diferença de frequências, amplificação paramétrica ótica, sintonia em frequência na amplificação paramétrica ótica, osciladores paramétricos óticos;<br />Feixes focados: feixes Gaussianos e fase de Gouy, geração de harmónicos com feixes Gaussianos, resumo.<br /><br />3. Ótica em cristais (revisão)<br />Resumo. Simetria cristalina;<br />Propagação de luz em meios anisotrópicos: equações de Maxwell, relação constitutiva, elipsóide de índices, ondas ordinária e extraordinária, superfícies de índice, desvio angular (walk-off);<br />Lâminas de atraso de fase (wave plates);<br />Meios biaxiais: características gerais, propagação nos planos principais (eixos óticos), cristais negativos e positivos.<br /><br />4. Ótica não-linear em cristais<br />Introdução e resumo. Susceptibilidade linear;<br />Estrutura dos coeficientes não-lineares: definição formal, simetria de permutação intrínseca, simetria de permutação completa e relações de Manley-Rowe, notação contraída, simetria de Kleinmann;<br />Simetria cristalina. Geração do segundo-harmónico em KDP e em LBO. Efeito Pockels e célula de Pockels. Retificação ótica.<br /><br />5. Processos não-lineares de terceira ordem<br />Processos básicos: definições, considerações de simetria, geração do terceiro harmónico, efeito Kerr DC e célula de Kerr, efeito de Kerr óptico, índice de refracção dependente da intensidade, solitões espaciais, auto-focalização e auto-modulação de fase;<br />Espalhamento Raman Estimulado. Interação de ondas óticas e acústicas. Espalhamento Brillouin estimulado. Conjugação de fase. Geração de supercontínuo.<br />Dispersão e impulsos óticos<br />Introdução e resumo. Dispersão das velocidades de fase e de grupo;<br />Dispersão e chirping de um impulso Gaussiano: análise da propagação, distância de dispersão, teorema da banda, produto tempo-banda, chirp.<br />Perfis temporais do tipo secante hiperbólica. Compressão de impulsos com redes e prismas. Propagação de impulsos.<br /><br />7. Ótica não-linear com impulsos<br />Introdução e resumo. Equação de onda para impulsos curtos. Auto-modulação da fase. Auto-modulação da fase na presença de dispersão: solitões óticos. Self-steepening e formação de ondas de choque. Compressão de impulsos auto-modulados em fase. Dispersão da velocidade de grupo na geração do segundo harmónico. OPCPA. Diagnósticos não-lineares de impulsos curtos. Trens de impulsos em regime de mode-locking e controlo da fase absoluta entre portadora e envolvente (carrier-envelope phase).<br />Tópicos avançados em ótica ultra-rápida (tipicamente 2-3 por ano, dependendo do tempo disponível): compressão de impulsos no regime de poucos ciclos óticos, ótica não-linear em cristais fotónicos, geração de harmónicos elevados, impulsos de atosegundos, ...
+
+## Métodos de ensino e atividades de aprendizagem
+Aulas teóricas, aulas de resolução de problemas (ambas com exemplos e ilustrações), possíveis visitas aos laboratórios de investigação do DFA que desenvolvem e utilizam tecnologia laser ultrarrápida.
+
+## Tipo de avaliação
+Avaliação por exame final
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 120.0 horas
+- Frequência das aulas: 42.0 horas
+
+## Fórmula de cálculo da classificação final
+A avaliação é feita por exame final.<br /><br />Opção facultativa: Os estudantes que o desejem poderão elaborar um trabalho sobre um dos tópicos do curso com peso final de 20 % (~20 páginas A4) (neste caso o exame valerá 80% e não poderá ter uma classificação inferior a 8,0 valores)
+
+## Obtenção de frequência
+Frequência de 3/4 das aulas.
+
+## Melhoria de classificação
+A melhoria da classificação final será apenas relativa à componente de exame final.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Nonlinear and Ultrafast Optics
+
+## Curso responsável
+Master in Engineering Physics
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+Fundamentals of nonlinear optics, with a focus on the optics of ultrashort laser pulses (ultrafast optics) allowing for a more comprehensive and up-to-date approach to the field.<br />This is not a classic course (it is taught only at a few institutions aroung the World) and its subject is a particularly young and rapidly evolving field, encompassing a growing number of areas of physics, engineering and nonlinear science. Therefore, this will be a dynamical course, illustrated with recent and relevant research results.
+
+## Resultados de aprendizagem e competências
+<p>a) Knowledge of the origin, formulation and application of nonlinear optical properties and processes;</p>
+<p>b) analytical calculation skills for second- and third-order nonlinear optical processes (second-harmonic generation, parametric amplification, self-phase modulation and the optical Kerr effect, etc.) for monochromatic laser fields;</p>
+<p>c) knowledge and use of tools for the numerical calculation of nonlinear processes (different effects, materiais, interaction geometries, ultrashort pulses and gaussian beams);</p>
+<p>d) knowledge of the formalism and description of linear ultrashort pulse propagation in the spectral and temporal domains and of nonlinear optical processes with pulses;</p>
+<p>e) knowledge of nonlinear propagation equations and of tools and methods for solving them numerically;</p>
+<p>f) awareness of recent techniques, results and research topics in ultrafast science and technology.</p>
+
+## Pré-requisitos e co-requisitos
+Electromagnetism, optics (preferably including laser physics), optical materials and basic quantum mechanics.
+
+## Programa
+1. Introduction<br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;><br />Nonlinlinearity in physics, early history of nonlinear optics, optical second harmonic generation, phase matching, symmetry considerations, optical rectification, the Pockels effect, sum frequency generation, difference frequency generation and optical parametric amplification, third-order processes, theoretical foundations, the growth of nonlinear optics.<br /><br /></div><br /></div><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;>2. Frequency mixing<br />Introduction and preview. Electromagnetic theory;<br />Second harmonic generation: coupled-wave equations, the low-depletion approximation, Manley&#8211;Rowe relations for second harmonic generation, comparison with third harmonic generation, the antenna picture, phase relationships and quasi-phase matching;<br />General three-wave processes: coupled-wave equations and the Manley&#8211;Rowe relations, modified field variables, sum and difference frequency generation, optical parametric amplification, tuning characteristics, optical parametric oscillators.</div><br /></div><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;>Focused beams: Gaussian beams and the Gouy phase, harmonic generation with Gaussian beam, summary.<br /><br /></div><br /></div><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;>3. Crystal optics (brief review)</div><br /></div><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;>Preview. Crystal symmetry;<br />Light propagation in anisotropic media: Maxwell&#8217;s equations, the constitutive relation, the index ellipsoid, ordinary and extraordinary waves, index surfaces, walk-off;<br />Wave plates;<br />Biaxial media: general features, propagation in the principal planes: the optic axes, positive and negative crystals.<br /><br /></div><br /></div><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;>4. Nonlinear optics in crystals<br />Introduction and preview. The linear susceptibility.<br />Structure of the nonlinear coefficients: formal definition, intrinsic permutation symmetry, full permutation symmetry and the Manley&#8211;Rowe relations, contracted suffix notation, the Kleinmann symmetry condition;<br />Crystal symmetry. Second harmonic generation in KDP. Second harmonic generation in LBO. The Pockels effect and the Pockels cell. Optical rectification.<br /><br /></div><br /></div><br />5. Third-order nonlinear processes<br />Basic third-order processes: definitions, symmetry considerations, third harmonic generation, the DC Kerr effect and the Kerr cell, the optical Kerr effect, intensity-dependent refractive index, spatial solitons, self-focusing, and self-phase modulation;<br />Stimulated Raman scattering. Interaction of optical and acoustic waves. Stimulated Brillouin scattering. Optical phase conjugation. Supercontinuum generation.<br /><br /><br /><div class=&quot;page&quot; title=&quot;Page 9&quot;>6. Dispersion and optical pulses<br />Introduction and preview. Dispersion in the phase and group velocities;<br />Dispersion and chirping of a Gaussian pulse: propagation analysis, characteristic dispersion distance, the bandwidth theorem and the time&#8211;bandwidth product, chirp.<br />Hyperbolic secant profiles. Compression using gratings and prisms. Optical pulse propagation.<br /><br /></div><br />7. Nonlinear optics with pulses<br />Introduction and preview. Wave equation for short pulses. Self-phase modulation. Self-phase modulation with dispersion: optical solitons. Self-steepening and shock formation. Compression of self-phase modulated pulses. Group velocity dispersion in second harmonic generation. Optical parametric chirped pulse amplification (OPCPA). Nonlinear optical diagnosis of short pulses. Mode-locked pulse trains and carrier envelope phase control.<br />Advanced research topics in ultrafast optics (tipically 2-3 per year, time pertimtting): few-cycle pulse compression, nonlinear optics in photonic crystals, high-harmonic generation, attosecond pulses, ...
+
+## Métodos de ensino e atividades de aprendizagem
+Theory classes, problem solving classes (both classes with examples and illustrations), it is possible to visit research laboratories that develop and use ultrafast laser technology.
+
+## Tipo de avaliação
+Evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 120.0 hours
+- Frequência das aulas: 42.0 hours
+
+## Fórmula de cálculo da classificação final
+The assessment is made by final exam:<br /><br />Optional: Students who so wish can prepare a work on one of the topics of the course with a final weight of 20% (~20 A4 pages) (in this case the exam will be worth 80% and cannot have a grade lower than 8.0 values )
+
+## Obtenção de frequência
+3/4 of the classes.
+
+## Melhoria de classificação
+Final examination only.
+

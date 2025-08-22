@@ -1,0 +1,112 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Materiais Estruturais e Juntas para Aeronaves
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<ol><br /><li>Conhecer e selecionar os diferentes tipos de ligas metálicas leves utilizadas em aeronáutica.</li><br /><li>Conhecer e selecionar materiais compósitos avançados e materiais compósitos híbridos.</li><br /><li>Conhecer e saber distinguir as tecnologias materiais emergentes.</li><br /><li>Projetar juntas mecânicas e juntas adesivas.</li><br /></ol>
+
+## Resultados de aprendizagem e competências
+Espera-se que no final do período letivo os estudantes tenham adquirido conhecimentos fundamentais de caracterização e projeto de materiais estruturais e de elementos de ligação para construção aeronáutica.<br /><br /><strong>Competências Computacionais</strong><br />Programação de modelos de análise (e.g., em Python ou Matlab).<br /><br /><strong>Competências Experimentais</strong><br />Capacidade de realizar diferentes tipos de trabalhos experimentais.<br />Realização de pequenos projetos sobre os conteúdos lecionados.<br /><br /><strong>Competências Transversais</strong><br />Capacidade de recolha e interpretação de informação científica e elaboração de relatórios técnicos.<br />Aptidão para a realização de trabalhos práticos em grupo.
+
+## Pré-requisitos e co-requisitos
+<ul><br /><li>Ciência dos Materiais: Conhecimentos sobre ligações químicas, estruturas dos materiais e comportamento mecânico; conhecimentos sobre ligas metálicas quanto aos seus processos tecnológicos e comportamento mecânico; conhecimento sobre polímeros e seus compósitos.</li><br /><li>Mecânica dos Sólidos: Conhecimentos sobre a Teoria da Elasticidade; estado de tensão e estado de deformação; critérios de resistência.</li><br /><li>Método dos elementos finitos.</li><br /><li>Projeto aeronáutico e elementos de ligação.</li><br /><li>Capacidades para recolha de informação científica, recorrendo a diversas fontes (livros, artigos científicos, bases de dados, Internet, visitas técnicas ou entrevistas).</li><br /><li>Programação: e.g., Python e Matlab.</li><br /></ul>
+
+## Programa
+<ol><br /><li><strong>Ligas leves.</strong></li><br /><ol style=&quot;list-style-type: lower-alpha;&quot;><br /><li>Ligas de alumínio para construção aeronáutica. Principais características. Processos tecnológicos.Comportamento mecânico.</li><br /><li>Ligas de titânio. Principais características. Processos tecnológicos. Comportamento mecânico.</li><br /><li>Critérios de cedência.</li><br /><li>Critérios de rotura.</li><br /><li>Comportamento termomecânico.</li><br /></ol><br /><li><strong>Compósitos avançados.</strong></li><br /><ol style=&quot;list-style-type: lower-alpha;&quot;><br /><li>Constituintes.</li><br /><li>Processos de transformação de compósitos.</li><br /><li>Propriedades dos materiais compósitos.</li><br /><li>Compósitos híbridos: Fibre-metal laminates e hibridização de reforços. Processos tecnológicos,propriedades e aplicações.</li><br /><li>Estruturas sanduíche. Propriedades e aplicações.</li><br /><li>Inspeção e reparação de estruturas compósitas.</li><br /></ol><br /><li><strong>Tecnologias materiais emergentes.</strong></li><br /><ol style=&quot;list-style-type: lower-alpha;&quot;><br /><li>Multifuncionalidade e materiais inteligentes. Materiais bio-inspirados e meta-materiais.</li><br /><li>Geração de energia e atuadores.</li><br /><li>Armazenamento de energia. Baterias estruturais.</li><br /><li>Materiais com capacidade de autorregeneração.</li><br /></ol><br /><li><strong>Juntas mecânicas. Juntas adesivas.</strong></li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+A unidade curricular funciona no regime de duas aulas teórico-práticas por semana com uma duração de 1,5h cada uma. Esta tipologia de aulas permite que o docente se dedique em parte à exposição dos conteúdos programáticos, com exemplos práticos, e à orientação dos estudantes na interpretação de informação científica e na resolução de trabalhos práticos de identificação, caracterização e análise de materiais e de projeto de juntas para construção aeronáutica com o objetivo de consolidar os conteúdos teóricos abordados.<br /><br />O atendimento aos estudantes por parte dos docentes é realizado ao longo de todo o semestre para permitir o esclarecimento de dúvidas sobre o conteúdo programático e sobre a revisão de bibliografia e sobre a interpretação e realização de trabalhos práticos.<br /><br />As visitas de estudo e os seminários por especialistas no ramo reforçarão a compreensão e a aquisição de conhecimentos sobre os tópicos abordados.<br /><br />A avaliação consiste na realização de trabalhos práticos (grupos de 2/3 estudantes) de revisão do estado-de-arte, identificação, caracterização e/ou análise de materiais estruturais e juntas para aeronaves (ligas leves &#8211; 15%; compósitos &#8211; 25%; tecnologias materiais emergentes &#8211; 10%; juntas adesivas &#8211; 20%) e um exame no final do semestre para avaliação global dos conhecimentos relativos aos tópicos dos conteúdos programáticos da UC (30%).
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 30.0 %
+- Trabalho prático ou de projeto: 70.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 39.0 horas
+- Estudo autónomo: 24.2 horas
+- Trabalho laboratorial: 10.0 horas
+- Elaboração de projeto: 36.3 horas
+- Trabalho de investigação: 12.0 horas
+
+## Fórmula de cálculo da classificação final
+CF = 0.15×TP1 + 0.25×TP2 + 0.10×TP3 + 0.20×TP4 + 0.30×EF<br /><br /><strong>Legenda</strong><br />CF - Classificação final<br />TP1 - Classificação do 1º trabalho prático: ligas leves (15%)<br />TP2 - Classificação do 2º trabalho prático: compósitos (25%)<br />TP3 - Classificação do 3º trabalho prático: tecnologias materiais emergentes (10%)<br />TP4 - Classificação do trabalho prático sobre juntas adesivas (20%)<br />EF - Classificação do exame final (30%)
+
+## Obtenção de frequência
+Os estudantes obtêm frequência desde que não excedam o número limite de faltas (25% do número de aulas teórico-práticas previstas).<br /><br />Os estudantes só poderão obter aprovação na UC desde que alcancem uma classificação de pelo menos 7 valores em cada uma das componentes.
+
+## Melhoria de classificação
+Apenas a componente &quot;EF - Classificação do exame final&quot; pode ser sujeita a melhoria de classificação. A classificação final será:<br /><br /><strong>CF = (0.15×TP1 + 0.25×TP2 + 0.10×TP3 + 0.20×TP4)</strong> (não sujeito a melhoria) <strong>+ 0.3×EF</strong> (sujeito a melhoria)
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Aircraft Structural Materials and Joints
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<ol><br /><li>Identify and select the different types of light metal alloys used in aeronautics.</li><br /><li>Identify and select advanced composite materials and hybrid composite materials.</li><br /><li>Identify emerging materials technologies.</li><br /><li>Design mechanically fastened and adhesive joints.</li><br /></ol>
+
+## Resultados de aprendizagem e competências
+At the end of the term, it is expected that the students are acquainted with the fundamental concepts of<br />characterization and design of aircraft structural materials and joints.<br /><br /><strong>Computational Competences</strong><br />Implementation of analysis models (e.g., using Python or Matlab).<br /><br /><strong>Experimental Competences</strong><br />Ability to perform different types of experimental activities.<br />Ability to complete small assignments related with the contents of the course, namely material and process selection and identification of mechanical properties.<br /><br /><strong>Transversal Competences</strong><br />Ability to obtain and understand relevant scientific data and to write technical reports.<br />Ability to perform practical assignments and solve problems in groups.
+
+## Pré-requisitos e co-requisitos
+<ul><br /><li>Materials Science: Concepts of chemical bounds, structure of materials and mechanical behaviour; distinguish metallic alloys with respect to their technological processes and mechanical behaviour; distinguish polymers and their composites.</li><br /><li>Solid Mechanics: Elasticity theory; stress and strain state; failure criteria.</li><br /><li>Finite element method.</li><br /><li>Aeronautical design and joint elements.</li><br /><li>Ability to study scientific information using difference sources (books, scientific papers, databases, Internet, technical visits or interviews with specialists).</li><br /><li>Programming skills: e.g., Python and Matlab.</li><br /></ul>
+
+## Programa
+<ol><br /><li><strong>Light alloys.</strong></li><br /><ol style=&quot;list-style-type: lower-alpha;&quot;><br /><li>Aluminium alloys for aeronautical applications. Main characteristics. Technological processes. Physical properties. Mechanical behaviour.</li><br /><li>Titanium alloys. Main characteristics. Technological processes. Physical properties. Mechanical behaviour.</li><br /><li>Yield criteria.</li><br /><li>Failure criteria.</li><br /><li>Thermomechanical behaviour.</li><br /></ol><br /><li><strong>Advanced composites.</strong></li><br /><ol style=&quot;list-style-type: lower-alpha;&quot;><br /><li>Constituents.</li><br /><li>Manufacturing processes.</li><br /><li>Properties of advanced composites.</li><br /><li>Hybrid composites: Fibre-metal laminates and hybridisation of reinforcements. Manufacturing processes, properties and applications.</li><br /><li>Sandwich structures. Properties and applications.</li><br /><li>Composites inspection and repair.</li><br /></ol><br /><li><strong>Emerging materials technologies.</strong></li><br /><ol style=&quot;list-style-type: lower-alpha;&quot;><br /><li>Multifunctionality and smart materials. Bio-inspired materials and metamaterials.</li><br /><li>Energy harvesting and actuators.</li><br /><li>Energy storage. Structural batteries.</li><br /><li>Healing and self-healing materials.</li><br /></ol><br /><li><strong>Mechanically fastened joints and adhesive joints.</strong></li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+The curricular unit is based on two theoretical-practical classes of 1.5 hours each. This type of classes allows that theoretical concepts can be presented at the beginning of the class, followed by demonstrative examples and orientation in the interpretation of scientific information and resolution of the practical assignments of identification, characterisation and analysis of aircraft structural materials and joints, consolidating the theoretical aspects presented during the class.<br /><br />Clarification and explanation of the contents of the syllabus will be possible throughout the term to support the literature review and the interpretation and development of the practical assignments.<br /><br />The visits to institutes and companies and the seminars and lectures from academics and practisers will consolidate the knowledge and contact with state-of-art aircraft structural materials.<br /><br />The evaluation consists of practical assignments (groups of 2/3 students) of state-of-art review, identification, characterisation and/or analysis of aircraft structural materials and joints (light alloys &#8211; 15%; composites &#8211; 25%; emerging materials technologies &#8211; 10%; adhesive joints &#8211; 20%) and a final exam for a global evaluation of the contents of the curricular unit (30%).
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 30.0 %
+- Trabalho prático ou de projeto: 70.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 39.0 hours
+- Estudo autónomo: 24.2 hours
+- Trabalho laboratorial: 10.0 hours
+- Elaboração de projeto: 36.3 hours
+- Trabalho de investigação: 12.0 hours
+
+## Fórmula de cálculo da classificação final
+FG = 0.15×TP1 + 0.25×TP2 + 0.10×TP3 + 0.20×TP4 + 0.30×FE<br /><br /><strong>Legend</strong><br />FG - Final grade<br />TP1 - Grade of the 1st practical assignment: light alloys (15%)<br />TP2 - Grade of the 2nd practical assignment: composites (25%)<br />TP3 - Grade of the 3rd practical assignment: emerging materials technologies (10%)<br />TP4 - Grade of the practical assignment on adhesive joints (20%)<br />FE - Grade of the final exam (30%)
+
+## Obtenção de frequência
+The students are eligible for exams if they attend at least 75% of the planned recitations.<br /><br />Students can only be approved if they obtain at least 7 points on each evaluation component.
+
+## Melhoria de classificação
+Only the grade of final exam (FE) can be considered for classification improvement. The final grade becomes:<br /><br /><strong>FG = (0.15×TP1 + 0.25×TP2 + 0.10×TP3 + 0.20×TP4)</strong> (cannot be improved) +<strong> 0.3×FE</strong> (can be improved)
+

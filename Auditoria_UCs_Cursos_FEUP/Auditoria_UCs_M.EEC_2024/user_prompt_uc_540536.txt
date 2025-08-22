@@ -1,0 +1,108 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Comunicações Industriais
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>O objectivo da unicidade curricular é dotar os alunos de competências ao nível da concepção e desenvolvimento de soluções de comunicações para ambientes industriais.</p>
+
+## Resultados de aprendizagem e competências
+No final desta unidade curricular, os estudantes deverão ser capazes de:<br /><br /><br /><ol><br /><li>Identificar os requisitos de comunicação nos sistemas industriais;</li><br /><li>Identificar as técnicas que estão na base do funcionamento dos protocolos de comunicações industriais e quais as suas características intrínsecas;</li><br /><li>Estabelecer relações entre as técnicas usadas pelos protocolos e o respetivo comportamento temporal;</li><br /><li>Conhecer as principais características dos protocolos de comunicação mais comuns em ambientes industriais;</li><br /><li>Selecionar, configurar e utilizar alguns desses protocolos em contexto de laboratório.</li><br /></ol>
+
+## Pré-requisitos e co-requisitos
+<ul><br /><li>Conhecimentos básicos de redes de comunicação.</li><br /><li>Conhecimentos de programação.</li><br /></ul>
+
+## Programa
+<ol><br /><li>Requisitos das comunicações nos sistemas de automação industriais. Conceitos básicos de redes e de tempo: mensagens, transações e controlo temporal.</li><br /><li>Pilha protocolar em protocolos industriais: conceitos e soluções para camadas física, de ligação de dados e de aplicação.</li><br /><li>Tecnologias de redes industriais: redes de campo (CAN e CANopen, PROFIBUS, etc.), Ethernet e variantes industriais (Modbus, PROFINET, EtherCAT, etc.), redes sem fios (WiFi, ZigBee, WirelessHART, ISA100, etc.) e protocolos de aplicação Máquina-a-Máquina (REST, CoAP. MQTT, etc).</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li><span style=&quot;font-family: arial, helvetica, sans-serif; font-size: small;&quot;>Aulas teóricas: exposição dos assuntos a tratar.</span></li><br /><li><span style=&quot;font-family: arial, helvetica, sans-serif; font-size: small;&quot;>Aulas práticas: realização de 3 trabalhos práticos permitindo aos alunos o contacto com as soluções tecnológicas existentes.</span></li><br /></ul>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Teste: 50.0 %
+- Exame: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 74.0 horas
+- Frequência das aulas: 56.0 horas
+- Trabalho laboratorial: 32.0 horas
+
+## Fórmula de cálculo da classificação final
+Fórmula de cálculo da classificação final (NF):<br /><br /><ul><br /><li>NF = 50% NT + 50% NP</li><br /><li>NT = nota teórica (do exame final) </li><br /><li>NP = nota prática = 35% MT1 + 35% MT2 + 30% MT3</li><br /></ul><br />Notas:<br /><br /><ul><br /><li>MTx = Mini-teste realizado durante o semestre.</li><br /><li>A aprovação à UC está condicionada à nota mínima de 7 valores nas componentes NT e NP.</li><br /></ul>
+
+## Obtenção de frequência
+<ul><br /><li>Para obtenção de &quot;frequência&quot; é necessário ter estado regularmente inscrito, não ter excedido o número limite de faltas estipulado pela regulamentação da FEUP e ter participado em todos os momentos de avaliação.</li><br /><li>Um aluno repetente com frequência poderá optar por ser dispensado de realizar os trabalhos práticos e manter a avaliação prática obtida anteriormente. </li><br /></ul>
+
+## Melhoria de classificação
+<ul><br /><li>A nota do exame da época de recurso substitui, se melhor, a nota do exame da época normal.</li><br /></ul>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Industrial Communications
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>The main goal of this course is to provide students with skills to design and develop communications solutions for industrial environments.</p>
+
+## Resultados de aprendizagem e competências
+At the end of this course unit students should be able to:<br /><br /><br /><ol><br /><li>Identify communication requirements in industrial systems;</li><br /><li>Identify the techniques that underlie the operation of industrial communications protocols and their intrinsic characteristics;</li><br /><li>Establish relationships between the techniques used by the protocols and their temporal behavior;</li><br /><li>Know the main characteristics of the most common communication protocols in industrial environments;</li><br /><li>Select, configure and operate some of those protocols in a laboratory context.</li><br /></ol>
+
+## Pré-requisitos e co-requisitos
+<ul><br /><li>Basic knowledge of communication networks.</li><br /><li>Programming knowleadge.</li><br /></ul>
+
+## Programa
+<ol><br /><li>Communication requirements of industrial automation systems. Basic concepts of networks and time: messages, transactions and temporal control.</li><br /><li>Protocol stack in industrial protocols: concepts and solutions for the physical, data link and application layer.</li><br /><li>Technologies of industrial networks: fieldbuses ((CAN e CANopen, PROFIBUS, etc), Industrial Ethernet (Modbus, PROFINET, EtherCAT, etc), wireless networks (WiFi, ZigBee, WirelessHART, ISA100, etc) and application Machine-to-Machine protocols (REST, CoAP. MQTT, etc).</li><br /></ol><br /><p> </p>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>Lectures: discussion of the topics addressed in the course.</li><br /><li><span style=&quot;font-size: 11px;&quot;>Laboratory: realization of three laboratory assignments to allow the students to contact existing technological solutions.</span><span style=&quot;font-size: 11px;&quot;> </span></li><br /></ul>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Teste: 50.0 %
+- Exame: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 74.0 hours
+- Frequência das aulas: 56.0 hours
+- Trabalho laboratorial: 32.0 hours
+
+## Fórmula de cálculo da classificação final
+Final grade (NF):<br /><br /><ul><br /><li>NF = 50% NT + 50% NP</li><br /><li>NT = theory grade (final exam) </li><br /><li>NP = labs grade = 35% MT1 + 35% MT2 + 30% MT3</li><br /></ul><br />Notes:<br /><br /><ul><br /><li>MTx = Mini-test taken during the semester.</li><br /><li>Passing in this course is subject to a minimum grade of 7 in each mini-test and each component.</li><br /></ul>
+
+## Obtenção de frequência
+<ul><br /><li>To obtain &quot;frequency&quot; a student must have been regularly enrolled in the course, must have not exceeded the maximum number of allowed absences stipulated in FEUP's regulations and must have obtained a minimum laboratory grade of 7 (seven) out of 20.</li><br /><li>A student repeating the course but with frequency may opt to be exempted from the laboratorial work and maintain the laboratory grade obtained previously.</li><br /></ul>
+
+## Melhoria de classificação
+<ul><br /><li>The grade obtained in the recourse exam replaces, if better, the grade obtained in the final exame.</li><br /></ul>
+

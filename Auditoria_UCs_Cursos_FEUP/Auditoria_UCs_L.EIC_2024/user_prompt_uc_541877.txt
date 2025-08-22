@@ -1,0 +1,132 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Bases de Dados
+
+## Curso responsável
+Licenciatura em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p><strong>Enquadramento</strong></p>
+<p>Sistemas de Informação (SI) é uma área fundamental em engenharia informática. Bases de dados são repositórios de dados necessários em qualquer SI. A unidade curricular de bases de dados é uma unidade chave na área de SI. O objetivo principal desta unidade curricular é preparar os estudantes para projetar e desenvolver sistemas de bases de dados que atendam às necessidades dos utilizadores de acordo com os objetivos de gestão organizacionais.</p>
+<p><strong>Objetivos Específicos</strong></p>
+<p>Este é um curso introdutório sobre bases de dados. Aborda o paradigma relacional. Abrange o desenho (modelo UML e normalização relacional), construção (linguagem de definição de dados SQL), consulta (linguagem de manipulação de dados SQL) e gestão (organização física e optimização de SQL) de bases de dados relacionais.</p>
+<p><strong>Distribuição Percentual</strong></p>
+<p>Componente científica: 50%<br /> Componente tecnológica: 50% </p>
+
+## Resultados de aprendizagem e competências
+Após a conclusão desta unidade, o estudante deve ser capaz de:<br /><ul><br /><li>Explicar as principais características de um sistema de gestão de bases de dados;</li><br /><li>Criar um modelo conceptual para uma base de dados num contexto específico;</li><br /><li>Mapear um modelo conceptual para um esquema relacional;</li><br /><li>Identificar dependências funcionais numa relação;</li><br /><li>Diferenciar formas normais em esquemas relacionais;</li><br /><li>Decompor esquemas relacionais para a forma normal Boyce-Codd e 3a forma normal;</li><br /><li>Criar uma base de dados relacional usando a linguagem SQL a partir de um esquema relacional;</li><br /><li>Usar álgebra relacional para interrogar bases de dados;</li><br /><li>Consultar bases de dados relacionais usando a linguagem SQL;</li><br /><li>Compreender a necessidade de índices e identificar o melhor índice a criar numa dada situação;</li><br /><li>Usar transações e concorrência que garantam a integridade dos dados de uma base de dados;</li><br /><li>Identificar as diferenças entre uma base de dados relacional, bases de dados multi-dimensionais e bases de dados NoSQL e qual a mais adequada a uma dada situação.</li><br /></ul>
+
+## Pré-requisitos e co-requisitos
+<p>Conhecimentos básicos de teoria de conjuntos.</p>
+
+## Programa
+<p>Diagrama de classes UML. Esquema relacional, normalização e mapeamento de UML e E-A para relacional. Linguagem de definição de dados SQL e restricões de integridade. Álgebra relacional como linguagem de interrogação. Linguagem de manipulação de dados SQL. Gatilhos. Vistas. Índices. Transacções. Introdução a armazéns de dados e sistemas NoSQL.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Utilizam-se as aulas teóricas para exposição dos assuntos do programa e exemplos de aplicação. As aulas práticas decorrem em salas de computadores, com recurso ao sistema de gestão de bases de dados SQLite. Nas aulas resolver-se-ão exercícios e efectuar-se-ão pequenos desenvolvimentos.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Trabalho laboratorial: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 70.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho laboratorial: 40.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>PROJ - Projeto/Trabalho de grupo<br /> EF - Exame Final</p>
+<p>Nota Final = arredonda (0,25 PROJ + 0,75 EF)</p>
+<p>Nota mínima de 40% (8 valores em 20) em todas as componentes de avaliação: Projeto e Exame.</p>
+<p>O projeto consiste num trabalho de grupo que será avaliado em dois momentos: a primeira entrega vale 40% e a segunda vale 60% da avaliação do projeto.</p>
+<p>Os estudantes que obtiveram frequência na edição imediatamente anterior podem optar por manter a classificação do projeto. Devem, neste caso, informar o docente responsável pela UC até ao final da segunda semana de aulas e não devem inscrever-se nas turmas teórico-práticas.</p>
+<p>O projeto não é alvo de reavaliação.</p>
+
+## Obtenção de frequência
+<p>Para a obtenção de frequência, os estudantes não poderão exceder o limite de faltas às aulas teórico-práticas (25% do número de aulas teórico-práticas).</p>
+
+## Melhoria de classificação
+<p>É permitida a melhoria de classificação de todas as componentes de avaliação por frequência de unidade curricular.</p>
+<p>É possível melhorar a classificação final através de um segundo exame a realizar em época prevista para esse efeito.</p>
+<p>A classificação do projeto não é passível de melhoria no mesmo ano letivo.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Databases
+
+## Curso responsável
+Bachelor in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p><strong>Background</strong></p>
+<p>Information Systems (IS) is a key topic in informatics engineering. Databases are data repositories required in any IS. The database course is a key course in the area of IS. The main objective of this course unit is to prepare students to design and develop database systems that meet the users' needs according to the organizational management goals.</p>
+<p><strong>Specific Aims</strong></p>
+<p>This is an introductory course on databases. It is focused on the relational paradigm. It covers the design (UML model and relational normalization), construction (SQL data definition language), querying (SQL data manipulation language) and management (physical organization and query optimization) of relational databases.</p>
+<p><strong>Percent Distribution</strong></p>
+<p>Scientific component: 50%<br />Technological component: 50% </p>
+
+## Resultados de aprendizagem e competências
+Upon completion of this course, students should be able to:<br /><ul><br /><li>Explain the main features of a database management system;</li><br /><li>Define a high-level database model for a particular context;</li><br /><li>Map a high-level database model to a relation schema;</li><br /><li>Identify the functional dependencies of a relation;</li><br /><li>Differentiate normal forms in relation schemas;</li><br /><li>Decompose relation schemas to the Boyce-Codd normal form and the third normal form;</li><br /><li>Create a relational database in SQL from a relational schema;</li><br /><li>Use relational algebra to query databases;</li><br /><li>Query relational databases in SQL;</li><br /><li>Understand the need for indexes and identify the best index for a given situation;</li><br /><li>Use transactions and competition that guarantee the integrity of data in a database;</li><br /><li>Identify the differences between relational, multi-dimensional, and NoSQL databases and which is most appropriate for a given situation.</li><br /></ul>
+
+## Pré-requisitos e co-requisitos
+<p>Basic knowledge of set theory.</p>
+
+## Programa
+<p>UML class diagram. Relational schema, normalization and mapping from a high-level database model. SQL Data Definition Language and integrity constraints. Relational algebra as a query language. SQL Data Manipulation Language. Views. Indexes. Transactions. Introduction to data warehouses and NoSQL systems.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Lectures introduce the subject topics and include application examples. Practical sessions are held in a computer lab, where students work with the SQLite database management system. During these lab sessions, students will complete hands-on exercises and undertake small development projects.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Trabalho laboratorial: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 70.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho laboratorial: 40.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>PROJ - Project/Group work<br />FE - Final Exam</p>
+<p>Final Grade = round (0.25 PROJ + 0.75 FE)</p>
+<p>Minimum grade of 40% (8 out of 20) in every assessment component: Project and Exam.</p>
+<p>The project is a group work that will be assessed in two moments: the first submission is worth 40% and the second is worth 60% of the project evaluation.</p>
+<p>Students who met the attendance criteria in the immediately preceding edition of the course may opt to retain their project scores. To do so, they must notify the course responsible by the end of the second week of classes and refrain from enrolling in theoretical-practical sessions.</p>
+<p>The project is not subject to appeal assessment.</p>
+
+## Obtenção de frequência
+<p>To be eligible for the final exam, students must not exceed 25% of absences from the theoretical-practical classes.</p>
+
+## Melhoria de classificação
+<p>Improving the classification of all assessment components through course attendance is allowed.</p>
+<p>It is possible to improve the final classification through a second exam to be carried out during the period scheduled for this purpose.</p>
+<p>The classification of the project cannot be improved in the same academic year.</p>
+

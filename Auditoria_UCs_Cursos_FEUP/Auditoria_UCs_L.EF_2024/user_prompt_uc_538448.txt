@@ -1,0 +1,217 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Eletrónica Digital e Microprocessadores
+
+## Curso responsável
+Licenciatura em Engenharia Física
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>A unidade curricular tem dois objetivos de aprendizagem fundamentais:</p>
+<ul>
+<li>Dar a conhecer os fundamentos teóricos e aspetos práticos da análise e síntese de sistemas digitais (combinacionais e sequenciais)</li>
+<li>Dotar os estudantes de competências para projetar e manusear sistemas embutidos baseados em microprocessadores em geral, e na placa ESP32 Pico Kit em particular.</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p>Após ter concluído com sucesso a unidade curricular Eletrónica Digital e Microprocessadores, um estudante deverá ser capaz de:</p>
+<ul>
+<li>Usar diferentes bases (decimal, binária, octal e hexadecimal) para a representação e manipulação de números inteiros (positivos ou negativos) e fracionários, e realizar operações aritméticas simples (em especial a adição e subtração) nessas bases.</li>
+<li>Representar números binários em vírgula flutuante segundo o standard IEEE 754.</li>
+<li>Obter representações formais (tabelas de verdade, expressões lógicas, circuitos lógicos) e efetuar transformações que permitam reduzir a sua complexidade e simplificar os circuitos que as implementam, a partir de descrições informais de funções combinacionais.</li>
+<li>Analisar e projetar circuitos simples com blocos digitais combinacionais básicos, tais como portas lógicas, multiplexadores, descodificadores, somadores e comparadores.</li>
+<li>Compreender o funcionamento de dispositivos digitais bi-estáveis (flip-flops) e a sua utilização na realização de circuitos sequenciais síncronos.</li>
+<li>Obter representações formais de máquinas de estado finitos (FSM), tais como tabelas de estados e diagramas de transição de estados, a partir de descrições informais do funcionamento pretendido.</li>
+<li>Analisar e projetar circuitos sequenciais simples baseados em flip-flops, registos, contadores e registos de deslocamento.</li>
+</ul>
+<p>Adicionalmente os estudantes deverão ser capazes de:</p>
+<ul>
+<li>Recordar as principais funcionalidades (portas I/O, timers, interrupções, ADC, PWM, barramentos de comunicação) presentes em microcontroladores em geral.</li>
+<li>Usar a placa de desenvolvimento ESP32 Pico Kit.</li>
+<li>Usar o ambiente de desenvolvimento "Code With Mu" para escrita e debug de programas em linguagem MicroPython destinados à placa ESP32 Pico kit.</li>
+<li>Desenvolver um mini projeto, incluindo a identificação dos periféricos necessários, a sua interligação ao microcontrolador através das interfaces e barramentos mais apropriados, e a escrita do código que satisfaça os requisitos funcionais apresentados.</li>
+<li>Descrever na forma dum relatório, o trabalho desenvolvido nesse mini projeto.</li>
+</ul>
+
+## Programa
+<p>O programa da disciplina tem duas componentes fundamentais:</p>
+<ul>
+<li>Sistemas digitais</li>
+<li>Microprocessadores</li>
+</ul>
+<p>A primeira componente é constituída por:</p>
+<ul>
+<li>Sistemas de numeração, representação de números positivos e negativos. Aritmética binária. Representação em vírgula flutuante segundo o standard IEEE 754.</li>
+<li>Álgebra Boleana: expressões lógicas, teoremas, manuseamento e simplificação das expressões lógicas, implementação dos circuitos lógicos combinacionais. Síntese de circuitos combinacionais com base em portas lógicas e/ou circuitos funcionais como descodificadores, multiplexadores.</li>
+<li>Circuitos sequenciais: flip-flops, registos, contadores, registos de deslocamento. Análise e síntese de máquinas de estado síncronas e implementação de circuitos sequenciais com base em flip-flops e em blocos funcionais referidos.</li>
+</ul>
+<p>A segunda componente é constituída por:</p>
+<ul>
+<li>Introdução à arquitetura de microprocessadores, conceitos básicos à organização e ao funcionamento: execução de programas, barramentos, periféricos, memórias, endereçamento.</li>
+<li>Estudo das diversas funcionalidades presentes em microcontroladores ESP32, nomeadamente:<br /> - Portas de entrada/saída<br /> - Barramentos de comunicação série (USART, I2C, SPI)<br /> - Contadores/timers<br /> - Interrupções<br /> - Conversor analógico/digital (ADC)</li>
+<li>Programação do processador presente na placa ESP32 Pico Kit usando linguagem MicroPython e o ambiente de desenvolvimento "Code With Mu". Exemplos de aplicação.</li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas teóricas fazem a exposição da matéria com recurso a slides preparados para o efeito. Essa exposição é complementada pela resolução de exercícios presentes num documento fornecido.</p>
+<p>Nas aulas laboratoriais para além da resolução de exercícios são montados pequenos circuitos com o intuito de consolidar os conhecimentos adquiridos. Esses trabalhos são em geral descritos em guiões e/ou páginas Web criados para o efeito.</p>
+<p>Serão ainda indicados outros elementos de estudo na forma de livros, páginas Web ou datasheets de componentes.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 70.0 %
+- Trabalho laboratorial: 30.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 28.0 horas
+- Estudo autónomo: 80.0 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final é determinada por duas componentes (MT e L), avaliando-se nelas a capacidade dos estudantes satisfazerem os objetivos da unidade curricular:</p>
+<ul>
+<li>A componente MT resulta dos dois mini testes (MT1 e MT2).</li>
+<li>A componente L resulta da realização dum pequeno projeto envolvendo o microcontrolador estudado.</li>
+</ul>
+<p>Fórmula: 0,7 x MT + 0,3 x L     onde     MT = 0,6 x Max(MT1, MT2) + 0,4 x Min(MT1, MT2)</p>
+<p>IMPORTANTE: A componente L não poderá exceder a componente MT em mais de 4 valores!</p>
+<p>RECURSO: Estudantes que não obtenham aprovação pela fórmula anterior, poderão efetuar um teste de recurso sobre a matéria de ambos os mini testes, que caso seja positivo permitirá a obtenção duma nota final igual a 10 valores. Para se candidatarem à realização deste teste, os estudantes terão que possuir:</p>
+<ul>
+<li>Componente L de pelo menos 10 valores.</li>
+<li>Componente MT de pelo menos 6 valores.</li>
+</ul>
+
+## Obtenção de frequência
+<p>Para obter frequência é exigida:</p>
+<ul>
+<li>Presença nas aulas laboratoriais de acordo com o estipulado nas Normas Gerais de Avaliação.</li>
+<li>Obtenção de nota positiva na componente laboratorial (L).</li>
+</ul>
+<p>Os estudantes que tenham obtido frequência no ano anterior estão dispensados da avaliação distribuída e podem fazer a unidade curricular por exame.</p>
+
+## Melhoria de classificação
+<p>A melhoria de ambas as componentes pode ser efetuada na época seguinte:</p>
+<ul>
+<li>A componente MT pela realização dum teste que cobrirá a matéria abordada em ambos os mini testes.</li>
+<li>A componente L pela realização dum novo projeto.</li>
+</ul>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Digital Electronics and Microprocessors
+
+## Curso responsável
+Bachelor in Engineering Physics
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>The unit has two key learning objectives:</p>
+<ul>
+<li>Make known the theoretical and practical aspects of the analysis and synthesis of digital systems (combinational and sequential).</li>
+<li>Equip students with skills to design and handle embedded systems based on microprocessors in general, and on ESP32 Pico Kit development board in particular.</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p>After having successfully completed the course Digital Electronics and Microprocessors, a student should be able to:</p>
+<ul>
+<li>Use different bases (decimal, binary, octal and hexadecimal) for the representation and manipulation of integers (positive or negative) and fractional, and perform simple arithmetic operations (especially addition and subtraction) in these bases.</li>
+<li>Represent numbers in binary floating point according to the IEEE 754 standard.</li>
+<li>Obtain written representations (truth tables, logical expressions, logic circuits) and make changes to reduce their complexity and simplify the circuits that implement them, from informal descriptions of combinational functions.</li>
+<li>Analyze and design simple circuits with combinational digital basic blocks such as logic gates, multiplexers, decoders, adders and comparators.</li>
+<li>Understand the functioning of bi-stable digital devices (flip-flops) and its use in performing synchronous sequential circuits.</li>
+<li>Obtain formal representations of finite state machines (FSM), such as state tables and state transition diagrams, from informal descriptions of the desired operation.</li>
+<li>Analyze and design simple sequential circuits based on flip-flops, registers, counters and shift registers.</li>
+</ul>
+<p>Additionally, students should be able to:</p>
+<ul>
+<li>Recall the main features (I/O ports, timers, interrupts, ADC, PWM, communication bus) present on microcontrollers in general.</li>
+<li>Use the ESP32 Pico Kit development board.</li>
+<li>Use the development environment "Code With Mu" for writing and debugging programs in MicroPython language for the ESP32 Pico Kit board.</li>
+<li>Develop a mini project, including identification of necessary peripherals, their interconnection to the microcontroller through the most appropriate interfaces and buses, and writing code that fulfills the functional requirements presented.</li>
+<li>Describe in the form of a report, the work developed in this mini project.</li>
+</ul>
+
+## Programa
+<p>The Syllabus has two key components:</p>
+<ul>
+<li>Digital systems</li>
+<li>Microprocessors</li>
+</ul>
+<p>The first component consists of:</p>
+<ul>
+<li>Numbering systems, representation of positive and negative numbers. Binary arithmetic. Floating-point representation according to the IEEE 754 standard.</li>
+<li>Boolean Algebra: Boolean expressions, theorems, handling and simplification of logical expressions, implementation of combinational logic circuits. Synthesis of combinational circuits based on logic gates and/or functional circuits such as decoders, multiplexers.</li>
+<li>Sequential circuits: Flip-flops, registers, counters, shift registers. Analysis and synthesis of synchronous state machines and implementation of sequential circuits based on flip-flops and these functional blocks.</li>
+</ul>
+<p>The second component consists of:</p>
+<ul>
+<li>Introduction to microprocessor architecture, basics of organization and operation: running programs, buses, peripherals, memory, addressing.</li>
+<li>Study of the several functionalities present in the microcontroller ESP32, namely:<br /> - Input/Output ports <br /> - Serial communication buses (USART, I2C, SPI)<br /> - Counters/timers<br /> - Interrupts<br /> - Analog/digital converter (ADC)</li>
+<li>Programming of the processor present in the ESP32 Pico Kit board using MicroPython language and the development environment "Code With Mu". Application examples.</li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+The theoretical classes expose the subjects using slides prepared for this purpose. This is complemented by solving exercises present in a supplied document.<br /> <br /> In laboratory classes in addition to solving exercises, small circuits are assembled in order to consolidate the acquired knowledge. These tasks are generally described in scripts and/or webpages created for this purpose.<br /> <br /> Other elements of study in the form of books, websites or datasheets, are also pointed out.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 70.0 %
+- Trabalho laboratorial: 30.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 28.0 hours
+- Estudo autónomo: 80.0 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final grade is determined by two components (MT and L), evaluating the ability of students to meet the goals of the course:</p>
+<ul>
+<li>The components MT result from two mini tests (MT1 and MT2).</li>
+<li>The component L result from the realization of a small project involving the studied microcontroller.</li>
+</ul>
+<p>Formula: 0.7 x MT + 0.3 x L     where     MT = 0.6 x Max (MT1, MT2) + 0.4 x Min (MT1, MT2)</p>
+<p>IMPORTANT: The component L cannot exceed MT component in more than 4 values!<br /> <br /> APPEAL ("Recurso"): Students who do not pass by the above formula can perform an appeal test on the subject of both mini tests, which if positive will allow obtaining a final grade equal to 10. To apply for this test, students will need to have:</p>
+<ul>
+<li>Component L of at least 10 values.</li>
+<li>Component MT of at least 6 values.</li>
+</ul>
+
+## Obtenção de frequência
+<p>For achieve eligibility for exams is required:</p>
+<ul>
+<li>Attendance at laboratory classes in accordance with the provisions in the General Evaluation Rules.</li>
+<li>Obtaining positive grade on laboratory component (L).</li>
+</ul>
+<p>Students that achieved eligibility in previous year, are exempt from distributed evaluation and can make the course by exam.</p>
+
+## Melhoria de classificação
+<p>The improvement of both components can be made in the following school season:</p>
+<ul>
+<li>The component MT by performing a test that will cover the all the subjects covered on both minitests.</li>
+<li>The component L for conducting of a new project.</li>
+</ul>
+

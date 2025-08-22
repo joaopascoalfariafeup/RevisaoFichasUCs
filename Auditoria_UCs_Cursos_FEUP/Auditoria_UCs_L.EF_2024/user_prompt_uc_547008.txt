@@ -1,0 +1,116 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Probabilidade e Estatística C
+
+## Curso responsável
+Licenciatura em Engenharia Física
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p>Ao completar esta unidade curricular, o estudante deverá</p>
+<p>- dominar  os conceitos e princípios fundamentais da Estatística, e em particular da Inferência Estatística básica.</p>
+<p>- conhecer as técnicas de inferência estatística mais comuns e sabê-las aplicar a problemas concretos;</p>
+<p>Pretende-se também que o estudante adquira familiaridade com a linguagem de programação R  na  resolução de problemas.</p>
+
+## Resultados de aprendizagem e competências
+<p>Ser capaz de identificar e formular matematicamente um problema, de escolher métodos da estatística adequados e de analisar e interpretar de forma crítica os resultados obtidos</p>
+
+## Programa
+<p>1. Breve introdução aos objetivos e metodologia da Estatística.</p>
+<p>2. Estatística Descritiva e análise exploratória dos dados: conceitos fundamentais, técnicas de sumariação dos dados (tabelas, gráficos, medidas de localização e dispersão),<span class="Apple-converted-space">  </span>conceito de correlação e sua interpretação. Resolução de problemas com recurso ao R.</p>
+<p> 3. Probabilidade: conceitos e propriedades elementares, probabilidade condicional e independência.</p>
+<p>4. Variáveis aleatórias: os casos discreto e contínuo, distribuição, média e variância. Algumas distribuições de probabilidade: distribuições discretas (uniforme, binomial) e contínuas (uniforme, normal, qui-quadrado, t-student e F); teorema do Limite Central.</p>
+<p>5. Distribuições por amostragem (média, variância e proporção amostral).</p>
+<p> 6. Inferência Estatística: estimação pontual (principais conceitos  e propriedades dos estimadores); estimação intervalar (intervalos de confiança para a média, diferença de médias, proporção, diferença de proporções, variância); testes de hipóteses paramétricos.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span lang="EN-US">As horas de contacto estão distribuídas em aulas teóricas e teórico-práticas. Nas primeiras são apresentados os conteúdos do programa, </span><span lang="EN-US">recorrendo-se a exemplos variados para ilustrar os tópicos tratados e motivar e orientar o estudo autónomo dos estudantes. Nas aulas teórico-práticas são resolvidos e discutidos exercícios e problemas. Em particular, são analisados conjuntos de dados, sempre que possível recorrendo ao software R. </span><span lang="EN-US">São disponibilizados  materiais de apoio na página da disciplina.</span></p>
+<p><em><span lang="EN-US"> </span></em></p>
+<p> </p>
+
+## Tipo de avaliação
+Avaliação por exame final
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 89.5 horas
+- Frequência das aulas: 32.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A aprovação à unidade curricular pode ser obtida<span class="Apple-converted-space"> </span></p>
+<p>1) por realização um teste escrito, avaliando toda a matéria dada na uc, a realizar na última semana de Abril (última semana de aulas  desta uc),<br /><br />ou<br /><br />2) por realização de exame  da época normal.</p>
+<p><br />Os estudantes<span class="Apple-converted-space">  </span>que tenham obtido<span class="Apple-converted-space">  </span>aprovação à uc por realização do teste, e não tenham obtido o resultado pretendido, podem realizar o exame da época normal para melhoria de nota. </p>
+<p><span class="Apple-converted-space"> Assim, nota-se  que  não há exame na época de recurso a esta uc.</span></p>
+<p>Os estudantes com classificação final superior ou igual a 17,5 valores<span class="Apple-converted-space">  </span>(obtida no teste ou no exame da época normal) poderão ter que realizar uma prova<span class="Apple-converted-space">  </span>escrita ou oral, para obterem uma nota superior ou igual a 18 valores.</p>
+
+## Obtenção de frequência
+<p>Sem requisitos.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Probability and Statistics C
+
+## Curso responsável
+Bachelor in Engineering Physics
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p><em>Upon completing this course, the student should:</em></p>
+<p><em>- have a good insight of the fundamental concepts and principles of statistics, and in particular those from basic inference statistics.</em></p>
+<p><em>- know the common inference statistical  methods and how to apply them to concrete situations;</em></p>
+<p><em>It is also expected that the student acquires familiarity with the programing language and software environment R, in the framework of problems solving.</em></p>
+
+## Resultados de aprendizagem e competências
+<p>be able to identify and formulate a problem, to choose adequate statistical methods and to analyze and interpret in a critical way the obtained results.</p>
+
+## Pré-requisitos e co-requisitos
+<p><br /><br /><br /><br /><br /><br /><span class="Apple-converted-space"> </span></p>
+
+## Programa
+<p>1. Brief introduction to the objectives and methodology of statistics.<span class="Apple-converted-space"> <br /><br /></span>2. Descriptive Statistics: definition of a statistic, types of observations and measurement scales; techniques for summarizing data (tables, graphs, measures of location and dispersion), outlier definition and the concept of correlation. <br /><br />3. Some probability distributions: discrete distributions (uniform, binomial, and Poisson) and continuous (uniform, normal, exponential, chi-square and t-student. F); de Moivre-Laplace and the Central Limit theorems.<br /><br /></p>
+<p id="tw-target-text" class="tw-data-text tw-text-large XcVN5d tw-ta" dir="ltr" data-placeholder="Translation"><span class="Y2IQFc" lang="en">4. Random variables: discrete and continuous cases, distribution, mean and variance. Some probability distributions: discrete (uniform, binomial) and continuous (uniform, normal, chi-square, t-student and F) distributions; Central Limit theorem.</span></p>
+<p><br /><br /><em>5</em>. Sample distributions.<em><br /><br /></em>5. Statistical inference:point estimation (main concepts and properties of estimators);  interval estimation (confidence intervals for the mean, difference in means, proportion, difference in proportions, variance); hypotheses tests (parametric).</p>
+<em><span lang="EN-GB"><br /></span></em>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span lang="EN-US">Lectures and classes: The contents of the syllabus are presented in the lectures, illustrated with several examples. In the practical classes, exercises and related problems are solved and discussed. Several real data sets will be analyzed using the statistical software R. All resources are available for students at the unit&#8217;s web page.</span></p>
+<p> </p>
+
+## Tipo de avaliação
+Evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 89.5 hours
+- Frequência das aulas: 32.0 hours
+
+## Fórmula de cálculo da classificação final
+<pre class=&quot;tw-data-text tw-text-large tw-ta&quot; dir=&quot;ltr&quot; data-placeholder=&quot;Tradução&quot; data-ved=&quot;2ahUKEwji9brV3POLAxWoBNsEHZ0SAE0Q3ewLegQICBAV&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>Approval for the curricular unit can be obtained <br /><br />1) by taking a written test, evaluating all the material taught at the uc,<br /> to be carried out in the last week of April (last week of classes at this uc).<br /><br />2) by taking a final exam (normal period).<br /><br /><br />Students who have passed the UC by taking the test, and have not obtained the desired result, can take the exam in the normal season to improve their grade.</span></pre><br /><pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot; dir=&quot;ltr&quot; data-placeholder=&quot;Tradução&quot; data-ved=&quot;2ahUKEwjHmcGU4vOLAxW0UMMIHVY3DBQQ3ewLegQICBAV&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>Therefore, it should be noted that there is no exam at the time of this course.</span></pre><br /><pre class=&quot;tw-data-text tw-text-large tw-ta&quot; dir=&quot;ltr&quot; data-placeholder=&quot;Tradução&quot; data-ved=&quot;2ahUKEwji9brV3POLAxWoBNsEHZ0SAE0Q3ewLegQICBAV&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>Students with a final grade greater than or equal to 17.5 values &#8203;&#8203;<br />,obtained in the test or in the </span><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>exam (normal period),</span><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;> may have to take a written or oral test to obtain a grade greater than or equal to 18 values.</span></pre>
+
+## Obtenção de frequência
+<p>No requisites.</p>
+

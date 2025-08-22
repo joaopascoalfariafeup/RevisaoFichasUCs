@@ -1,0 +1,131 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Vibrações Mecânicas
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Objectivos:</p>
+<p>&#8226;Compreensão da fenomenologia das vibrações mecânicas;</p>
+<p>&#8226;Análise, modelização e caracterização do movimeno oscilatório de sistemas mecânicos e das forças associadas;</p>
+<p>&#8226;Determinação dos efeitos da vibração no desempenho e segurança de sistemas mecânicos. </p>
+
+## Resultados de aprendizagem e competências
+<p>No final do período lectivo pretende-se que o estudante:</p>
+<p>&#8226;Conheça os conceitos básicos e a terminologia da teoria das vibrações mecânicas;</p>
+<p>&#8226;Conheça o comportamento tipo de sistemas canónicos;</p>
+<p>&#8226;Seja capaz de estabelecer modelos físicos/matemáticos discretos e contínuos unidimensionais para análise da vibração de sistemas mecânicos;</p>
+<p>&#8226;Saiba aplicar adequados métodos de solução para determinação das características dinâmicas e da resposta de sistemas mecânicos sujeitos a solicitações dinâmicas;</p>
+<p>&#8226;Saiba dimensionar sistemas mecânicos segundo critérios de comportamento dinâmico;</p>
+<p>&#8226;Conheça e saiba dimensionar algumas soluções de controlo de vibrações.</p>
+
+## Pré-requisitos e co-requisitos
+<p>&#8226;Os estudantes devem possuir conhecimentos pévios de Mecânica:<br />-Reacções nos apoios, equilíbrio de corpos rígidos,  geometria de massas;<br />-Cinemática e dinâmica de corpos rígidos, trabalho e energia;<br />-Teoremas vectoriais da dinâmica, Princípio dos Trabalhos virtuais, Princípio da energia mecânica;<br /><br />&#8226;Os estudantes devem possuir conhecimentos prévios de Mecânica dos Sólidos:<br />-Tracção-compressão de barras, torção de veios, flexão de vigas: condições de fronteira, relações constitutivas, relações deformação-deslocamento;<br /><br />&#8226;Os estudantes devem possuir conhecimentos prévios de Análise Matemática e Álgebra:<br />-Equações diferenciais ordinárias e de derivadas parciais;<br /> -Cálculo vectorial e matricial;</p>
+<p>&#8226;Recomenda-se o conhecimento na utilização do ambiente computacional Matlab/Octave.</p>
+
+## Programa
+<p><strong>FUNDAMENTOS das VIBRAÇÕES MECÂNICAS</strong>: Vibração mecânica, Fenomenologia da vibração, Sistema vibratório, Modelo físico, Modelo matemático, Classificação dos sistemas vibratórios, Classificação das vibrações, Movimento harmónico e sua caracterização.</p>
+<p><strong>SISTEMAS COM UM GRAU DE LIBERDADE</strong>: Equação diferencial de movimento, Vibração livre, Frequência natural, Razão de amortecimento, Decremento logarítmico, Vibração forçada, Resposta a uma excitação harmónica activa e passiva, Frequência de ressonância, Transmissibilidade, Resposta ao desequilíbrio, Transdutores de vibrações, Função de resposta em frequência, Resposta a uma excitação periódica, Resposta a uma excitação impulsiva, Função de resposta impulsiva, Resposta a uma excitação transiente, Integral de Duhamel, Espectro de resposta transiente (choque), Integração directa da equação diferencial de movimento.</p>
+<p><strong>SISTEMAS COM N GRAUS DE LIBERDADE</strong>: Coordenadas generalizadas, Energia potencial e cinética, Trabalho, Equações de Lagrange, Equação matricial de movimento e sua caracterização, Vibração livre não amortecida, Frequências e formas naturais de vibração, Modos naturais de vibração, Ortogonalidade dos vectores modais, Resposta a uma perturbação inicial, Quociente de Rayleigh, Resposta a uma excitação harmónica, Resposta a uma excitação genérica, Coordenadas modais/naturais, Análise modal, Amortecimento de Rayleigh.</p>
+<p><strong>CONTROLO DE VIBRAÇÕES</strong>: Isolamento de vibrações, Absorsor de vibrações.</p>
+<p><strong>SISTEMAS CONTÍNUOS</strong>: Vibração transversal de cordas, Equação de onda, Vibração longitudinal de barras, Vibração de torção de veios, Vibração de flexão de vigas, Equação diferencial de movimento, Solução geral, Frequências e formas naturais, Métodos aproximados, Método da energia de Rayleigh, Resposta forçada, Análise modal,</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>&#8226;Aulas teórico-práticas (2x1.5h/semana) de exposição do conteúdo programático e discussão de problemas tipo. As aulas teórico-práticas são obrigatórias.<br /><br /></p>
+
+## Tipo de avaliação
+Avaliação por exame final
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 123.0 horas
+- Frequência das aulas: 39.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>1. A avaliação dos estudantes é do tipo Exame Final: Exame de Época Normal e Exame de Recurso.</p>
+<p>2.1 O exame consiste numa Prova Escrita pontuada de 0 a 20 valores e constituída por uma parte TEÓRICA (VT=6 valores) SEM CONSULTA e uma parte PRÁTICA (VP=14 valores) com consulta do documento de apoio à unidade curricular intitulado ''Apontamentos de Vibrações de Sistemas Mecânicos'' ou de um livro de Vibrações Mecânicas.<br /><br />2.2 A classificação do exame é igual à soma da classificação da parte teórica e da clssificação da parte prática, sendo obrigatória uma classificação mínima da parte teórica igual a 35% (0.35xVT); Se a classificação da parte teórica for menor que 35% (0.35xVT), a classificação do exame será sempre menor ou igual a 9 valores.<br /><br />2.3 A duração máxima do exame é de 180 minutos e os estudantes não podem retirar-se do exame antes dos 30 minutos finais do exame.</p>
+<p>3. A classificação final à unidade curricular é igual à melhor classificação nas 2 provas de avaliação (Normal e Recurso).</p>
+<p>4. A aprovação na unidade curricular verifica-se para uma classificação final igual ou superior a 10 valores (em 20).</p>
+
+## Obtenção de frequência
+<p>Considera-se que um estudante cumpre a assiduidade à unidade curricular se, estando<br />regularmente inscrito, não exceder o número limite de faltas (0.25x2x12=6) correspondentes a 25% das aulas teórico-práticas definidas como obrigatórias.</p>
+
+## Melhoria de classificação
+<p>Por exame, nas épocas previstas (Normas Gerais de Avaliação).</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Mechanical Vibrations
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Objectives<br /><br />-Understanding the phenomenology of mechanical vibrations;<br /><br />-Analysis, modelling and characterisation of the oscillatory motion of mechanical systems and the associated forces;<br /><br />-Determining the effects of vibration on the performance and safety of mechanical systems.
+
+## Resultados de aprendizagem e competências
+<p>By the end of the semester, students should:</p>
+<p>&#8226; be acquainted with the basic principles and terminology related with the theory of mechanical vibrations;</p>
+<p>&#8226; be acquainted with the behaviour of canonical systems;</p>
+<p>&#8226; be capable of establishing physical/mathematical discrete and continuous one-dimensional models to analyse the vibration of mechanical systems;</p>
+<p>&#8226; be capable of adapting suitable solution methods to determine dynamic characteristics and mechanical systems response under dynamic excitations;</p>
+<p>&#8226; be capable of applying some techniques of vibration control.</p>
+
+## Pré-requisitos e co-requisitos
+&#8226;Students should have prior knowledge of mechanics:<br />-Reactions at supports, equilibrium of rigid bodies, geometry of masses;<br />-Kinematics and dynamics of rigid bodies, work and energy;<br />-Vector theorems of dynamics, Principle of virtual work, Principle of mechanical energy;<br /><br />&#8226;Students should have previous knowledge of solid mechanics:<br />-Traction-compression of bars, torsion of shafts, bending of beams: boundary conditions, constitutive relations, deformation-displacement relations;<br /><br />&#8226;Students should have previous knowledge of Mathematics and Algebra:<br />-Ordinary differential equations and partial derivatives differential equations;<br />-Vector and matrix calculus;<br /><br />&#8226;Knowledge of using the Matlab/Octave computing platform is recommended.
+
+## Programa
+<p><strong>Fundaments of vibration</strong>: Generalities, basic concepts, vibration classification, vibration analysis procedure, elements of vibratory systems, harmonic analysis.</p>
+<p><strong>Systems with one degree of freedom</strong>: differential equation of motion, free vibration, natural frequency, logarithmic decrement, forced vibration, response to harmonic excitation, resonance frequency, transmissibility, vibration transducers, frequency response function, response to periodic excitation, response to transient excitation, shock spectrum, direct integration.</p>
+<p><strong>Systems with n degrees of freedom</strong>: generalized coordinates, potential and kinetic energy, Lagrange&#8217;s equations, equations of motionin matricial notation, free undamped vibration, natural frequencies and modeshapes of vibration, orthogonality properties of modal vectors, expansion theorem, response to initial deisplacement and velocity conditions, Rayleigh&#8217;s quotient, response to harmonic excitation, response to generic excitation, natural coordinates, modal analysis, direct integration methods.</p>
+<p><strong>Vibration control</strong>: vibration isolation, vibration absorber.</p>
+<p><strong>Continuous systems</strong>: transverse vibration of strings, wave equation, longitudinal vibration of bars, torsional vibration of shafts, bending vibration of beams, natural frequencies and modeshapes, forced response, modal analysis, approximate methods, Rayleigh&#8217;s energy method.</p>
+<p> </p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>&#8226;Theoretical-practical classes (2 per week x1.5 hour) &#8211; presentation and discussion of themes. Theoretical-practical lessons are mandatory.</p>
+
+## Tipo de avaliação
+Evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 123.0 hours
+- Frequência das aulas: 39.0 hours
+
+## Fórmula de cálculo da classificação final
+1. Students will be assessed by Final Exam: Normal Exam and Retake Exam.<br /><br />2.1 The exam consists of a Written Test scored from 0 to 20 points and made up of a THEORETICAL part (VT=6 points) WITHOUT CONSULTATION and a PRACTICAL part (VP=14 points) with consultation of the supporting document for the course entitled &#8216;Notes on Vibrations of Mechanical Systems&#8217; or a textbook on Mechanical Vibrations.<br /><br />2.2 The exam grade is equal to the sum of the grade for the theoretical part and the grade for the practical part, and a minimum grade for the theoretical part of 35% (0.35xVT) is mandatory; if the grade for the theoretical part is less than 35% (0.35xVT), the exam grade will always be less than or equal to 9 marks.<br /><br />2.3 The maximum duration of the exam is 180 minutes and students may not withdraw from the exam before the final 30 minutes of the exam.<br /><br />3. The final mark for the course is equal to the best mark in the 2 assessment tests (Normal and Retake).<br /><br />4. The course unit is passed with a final mark of 10 or more (out of 20).
+
+## Obtenção de frequência
+<p>A student is considered to have complied with the attendance requirements for the course unit if, being regularly enrolled, the student does not exceed the limit number of absences (0.25x2x12=6) corresponding to 25% of the theoretical-practical classes defined as mandatory.</p>
+
+## Melhoria de classificação
+By exam, at the scheduled dates (Normas Gerais de Avaliação).
+

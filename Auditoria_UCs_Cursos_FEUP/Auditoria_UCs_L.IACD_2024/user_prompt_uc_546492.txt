@@ -1,0 +1,94 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Programação Funcional
+
+## Curso responsável
+Licenciatura em Ciência de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>Introdução à programação funcional usando a linguagem Haskell.</p>
+
+## Resultados de aprendizagem e competências
+<p>No final da disciplina, o(a) aluno(a) deverá ser capaz de: <br />1. Definir funções usando equações com padrões; <br />2. Codificar algoritmos recursivos elementares sobre listas e árvores em Haskell;<br /> 3. Definir novos tipos algébricos para representar dados;<br /> 4. Compor problemas de programação usando funções de ordem superior e lazy evaluation ;<br />5. Provar propriedades elementares de programas usando teoria equacional e indução.</p>
+
+## Programa
+<p>Expressões, valores e tipos básicos. Definições de funções simples; tipos funcionais. Execução passo-a-passo usando substituição. Tipos compostos: listas e tuplos. Algumas funções sobre listas do prelúdio-padrão. Notação de listas em compreensão. Definições recursivas. Polimorfimo paramétrico. Funções de ordem superior. Programas interactivos usando o mónada de I/O. Definição de novos tipos concretos. Estudo de um caso: árvores binárias de pesquisa. Tipos abstractos: pilhas, filas, conjuntos. Especificação usando equações e implementação usando módulos. Classes de tipos e sobrecarga de operadores. Raciocínio sobre programas usando teoria equacional e indução.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas de exposição usando quadro e projeção de slides. Aulas laboratoriais com computador.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 50.0 %
+- Exame: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 114.0 horas
+- Frequência das aulas: 48.0 horas
+
+## Fórmula de cálculo da classificação final
+Teste intercalar (50% de peso na nota final).<br />Exame (50% de peso na nota final). <br />Sendo TI a classificação obtida no teste intercalar e e EX a<br />classificação obtida no exame, então a nota final é dada por:<br />F = TI*(0.5) + EX*(0.5) <br />TI,EX &gt;= 6 e F &gt;= 9.5<br />Não obterão aprovação, os alunos que não obtiverem um mínimo de 6 valores (em 20), em cada componente e um mínimo de 9.5 valores de nota final.<br />O exame de recurso, será cotado para 20 valores.
+
+## Obtenção de frequência
+Os alunos que não obtiverem um mínimo de 6 valores (em 20), no teste intercalar, não poderão realizar o exame de época normal. Todos os alunos poderão realizar o exame de recurso.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Functional Programming
+
+## Curso responsável
+Bachelor in Computer Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>Introduction to functional programming using the Haskell language.</p>
+
+## Resultados de aprendizagem e competências
+<p>After this course the student should be able to: <br />1. define functions using equations and patterns; <br />2. implement simple recursive algorithms over lists and trees; <br />3. define new algebraic data types for encoding data; <br />4. compose programming problems using higher-order functions and lazy evaluation; <br />5. prove elementary properties of programs using equational theory and induction.</p>
+
+## Programa
+<p>Expressions, values and basic types. Defining simple functions; function types. Step by step evaluation using substitution. Compound types: lists and tuples. Some list functions of the standard prelude. Comprehension notation for lists. Recursive definitions. Parametric polymorphism. Higher-order functions. Writting interactive programs using the I/O monad. Defining new concrete data types. Case-study: binary search trees. Abstract types: stacks, queues, sets. Specification using equations and implementation using modules. Type classes and operator overloading. Reasoning about programs using equational theory and induction.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Lectures using whiteboard and overhead projection. Practical classes on computer labs.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 50.0 %
+- Exame: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 114.0 hours
+- Frequência das aulas: 48.0 hours
+
+## Fórmula de cálculo da classificação final
+Midterm test (50% of the final mark).<br />Exam (50% of the final mark).<br />If MT is the mark obtained in the test and EX the mark<br />obtained in the exam, then the final mark is given by:<br />F = MT*(0.5) + EX*(0.5)  <br />MT,EX &gt;= 6 and F &gt;= 9.5<br />To get approval the students must obtain a minimum of 6 points (in a total of 20) in evaluation component and a minimum of 9.5 as final mark.<br />The resit exam, will have a weight of 100% on the final mark.
+
+## Obtenção de frequência
+Students must have a minimum of 6 points (in a total of 20) in the midterm test, to take the final exam. All students can take the resit exam.
+

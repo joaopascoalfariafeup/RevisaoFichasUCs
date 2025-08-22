@@ -1,0 +1,116 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Complementos de Órgãos de Máquinas
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Visa-se reforçar o conhecimento inicial de órgãos de máquinas adquiridos pelos alunos na disciplina 'Órgãos de Máquinas', quer com tópicos novos, quer reforçando certos tópicos abordados mais superficialmente naquela disciplina introdutória.</p>
+
+## Resultados de aprendizagem e competências
+<p>O resultado do sucesso na disciplina é a aquisição de competências no projecto de uma variedade de órgãos de máquinas.</p>
+<p>A Unidade Curricular de Complementos de Órgãos de Máquinas destina-se aos alunos que escolheram o perfil 'Projeto de Máquinas' do Mestrado em Engenharia Mecânica da FEUP. O conteúdo é de natureza mais especializada do que o conteúdo de Órgãos de Máquinas em consonância com as previsíveis necessidades profissionais destes alunos.</p>
+
+## Pré-requisitos e co-requisitos
+<p>'Órgãos de Máquinas'</p>
+
+## Programa
+1. Tensões e deformações:<br /><div>1.1. vigas curvas;</div><br /><div>1.2. cilindros espessos (equações de Lamé); montagens com aperto;</div><br /><div>1.3. cilindros rotativos.</div><br /><br />2. Veios e componentes associados:<br /><div>2.1. volantes de inércia;</div><br /><div>2.2. dimensionamento à fadiga segundo a norma DIN 743.</div><br /><br />3. Juntas soldadas:<br /><div>3.1. introdução e casos práticos;</div><br /><div>3.2. cordões de soldadura tratados como linhas.</div><br /><br />4. Engrenagens cilíndricas:<br /><div>4.1. visão geral sobre engrenagens;</div><br /><div>4.2. tensão no pé do dente; pressão de contacto; particularidades das engrenagens de plástico;</div><br /><div>4.3. eficiência.</div><br /><br />5. Chumaceiras de Rolamento:<br /><div>5.1. tipos de chumaceiras de rolamento; arranjos típicos; folga e rigidez;</div><br /><div>5.2. capacidade de carga estática; vida útil à fadiga; distribuição de Weibull, capacidade de carga dinâmica;</div><br /><div>5.3. eficiência: modelos de Coulomb, Palmgren e SKF;</div><br /><div>5.4. resolução de problemas de elementos de máquinas com software (engrenagens, rolamentos, veios).</div><br /><br />6. Tribologia:<br /><div>6.1. superfícies técnicas; atrito e desgaste (ensaio laboratorial com análise de superfície);</div><br /><div>6.2. embraiagens e freios;</div><br /><div>6.3. chumaceiras hidrodinâmicas: solução numérica pelo método das diferenças finitas;</div><br /><div>6.4. chumaceira hidrodinâmica de comprimento finito: ensaio vs solução numérica;</div><br /><div>6.5. lubrificação e falhas em chumaceiras de rolamento e engrenagens.</div>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teórico-práticas.<br />Seminários por especialistas externos à FEUP.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Trabalho escrito: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 79.5 horas
+- Frequência das aulas: 42.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Classificação final: X</p>
+<p>Classificação do exame: Y</p>
+<p>Classificação do conjunto dos trabalhos: Z</p>
+<p>Cálculo da classificação final: X=0,7Y+0,3Z</p>
+<p>É dada aos estudantes a opção de Z não contar para a classificação final, e nesse caso X=Y<br /><br />O exames de Época Normal e Recurso são constituídos por uma parte Teórica sem consulta (10 valores) e uma parte Prática (10 valores) com consulta.</p>
+
+## Obtenção de frequência
+<p>Frequência de pelo menos 75% das aulas, nos termos do previsto no Regulamento Específico de Avaliação de Discentes da FEUP, e realização de trabalhos propostos.</p>
+
+## Melhoria de classificação
+Segundo regulamento em vigor na FEUP.<br /><br />O exame é constituído por uma parte Teórica sem consulta (10 valores) e uma parte Prática (10 valores) com consulta. A classificação final à unidade curricular é a classificação do exame.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Complements of Machine Elements
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>This course seeks to reinforce the knowledge of the design of machine elements resulting from the introductory course 'Machine Elements', through treatment of new topics but also through deeper analysis of certain topics already discussed.</p>
+
+## Resultados de aprendizagem e competências
+<p>The successful completion of this course leads to the competence to design a variety of machine elements.</p>
+<p>Since this is an optional course, just for students of the Design of Machines stream of the master degree, its content is more specialized, in agreement with the expected future professional path of these students.</p>
+
+## Pré-requisitos e co-requisitos
+<p>'Machine Elements'</p>
+
+## Programa
+1. Stress and strains:<br /><div>1.1. curved beams;<br />1.2. thick cylinders (Lamé equations); interference fits;<br />1.3. rotating cylinders.<br /><br />Shafting and associated parts:<br />2.1. flywheels;<br />2.2. fatigue design according to DIN 743.<br /><br />3. Welded joints:<br />3.1. introduction and practical cases;<br />3.2. welds treated as lines.<br /><br />4. Cylindrical Gears:<br />4.1. gearing overview;<br />4.2. root stress; flank stress; the particularities of plastic gears;<br />4.3. efficiency.<br /><br />5. Rolling Element Bearings:<br />5.1. rolling element bearing types; typical arrangements; clearance and stiffness;<br />5.2. static load rating; fatigue life; Weibull distribution, dynamic load rating;<br />5.3. efficiency: Coulomb, Palmgren and SKF models;<br />5.4. solve machine elements problems with software (gears, rolling bearings, shafts).<br /><br />6. Tribology:<br />6.1. technical surfaces; friction and wear (experiment with surface analysis);<br />6.2. clutches and brakes;<br />6.3. hydrodynamic bearings: numerical solution with the finite differences method;<br />6.4. finite length hydrodynamic bearing: experiment vs numerical solution;<br />6.5. lubrication and failures in rolling bearings and gears.</div>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Lectures and tutorials. <br />Seminars with industry specialists.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Trabalho escrito: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 79.5 hours
+- Frequência das aulas: 42.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Final mark in the course: X</p>
+<p>Examination mark: Y</p>
+<p>Reports of tasks during the semester: Z</p>
+<p>Final mark calculation: X=0,7Y+0,3Z</p>
+<p>Students may choose to have Z disregarded and the final mark is X=Y<br /><br />The exams are composed of a theoretical part without consultation (10 values) and a practical part (10 values) with a consultation.</p>
+
+## Obtenção de frequência
+<p>Attendance of at least 75% of the classes, in accordance with the provisions of the "Regulamento Específico de Avaliação de Discentes da FEUP", and completion of assigned tasks.</p>
+
+## Melhoria de classificação
+According to General Evaluation Rules of FEUP.<br /><br />The exam is composed by a theoretical part without consultation (10 values) and a practical part (10 values) with consultation. The final classification of the course is the classification of the exam.
+

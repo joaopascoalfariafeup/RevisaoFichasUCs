@@ -1,0 +1,140 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Tópicos em Robótica Inteligente
+
+## Curso responsável
+Mestrado em Inteligência Artificial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+Objectivos:<br /><br /><ul><br /><li>Compreender os conceitos básicos de Robótica e o enquadramento da Inteligência Artificial na Robótica.</li><br /><li>Estudar métodos de perceção e interpretação sensorial (com ênfase na visão por computador) que permitam criar estados do mundo precisos e métodos de localização de robôs móveis.</li><br /><li>Estudar os métodos que permitam a robôs móveis navegarem em ambientes conhecidos ou desconhecidos usando algoritmos de Planeamento e Navegação.</li><br /><li>Estudar os fundamentos da interação humano-robô, da aprendizagem para robôes, robótica cooperativa e da construção de equipas de robôs.</li><br /><li>Analisar as principais competições robóticas nacionais e internacionais, os simuladores robóticos mais realistas e as plataformas robóticas mais avançadas disponíveis no mercado.</li><br /><li>Incentivar capacidade de comunicação em tópicos técnicos.</li><br /><li>Incentivar abordagens científicas saudáveis.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<p>Espera-se que, no final da UC, os estudantes sejam capazes de:</p>
+<ul>
+<li>Definir Autonomia em Sistemas Robóticos</li>
+<li>Definir Sistemas Robóticos Inteligentes</li>
+<li>Explicar o enquadramento da Inteligência Artificial em Sistemas Robóticos Inteligentes</li>
+<li>Identificar as aplicações da Robótica Inteligente</li>
+<li>Identificar e utilizar as Arquiteturas clássicas para controlo em Robótica</li>
+<li>Conhecer o Estado da Arte em Sistemas Robóticos Inteligentes</li>
+<li>Conhecer os sensores e atuadores mais comuns utilizados em robótica e métodos de interpretação sensorial</li>
+<li>Avaliar a utilização de sistemas de visão comparativamente a outros métodos</li>
+<li>Aplicar métodos de fusão sensorial, métodos do âmbito da Inteligência Artificial e métodos de processamento de sinal e de visão para construir Estados do Mundo</li>
+<li>Aplicar métodos de localização,  mapeamento, planeamento e navegação em robótica</li>
+<li>Conhecer e utilizar uma ou mais plataformas robóticas e/ou de simulação robótica</li>
+<li>Conhecer e utilizar metodologias de interacção, aprendizagem e cooperação para robótica. </li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+É necessária experiência em programação, qualquer linguagem.<br />Linguagens frequentemente utilizadas na UC são C++ e Python.<br />Conhecimentos básicos de Inteligência Artificial.
+
+## Programa
+<ol><br /><li>Introdução à Robótica Inteligente:<br />Conceitos Básicos de Robótica, Inteligência Artificial em Robótica; Áreas e Aplicações de Robôs Inteligentes; Ciclo Percepção-Decisão-Ação; Arquiteturas para Agentes Robóticos; Competições Robóticas; Simulação e Simuladores Robóticos; História, Evolução e Tendências Atuais em Robótica Inteligente.</li><br /><li>Middleware para Robótica e ROS:<br />Middleware e Middleware para Robótica; Projetos de Middleware em Robótica; Introdução ao ROS - Robot Operating System; Arquitetura ROS; Comandos da Consola ROS; Criação de Pacotes ROS; ROS C++ Client Library; Simulação em ROS; Visualizações e Ferramentas de Interface; ROS Bags.</li><br /><li>Percepção e Interpretação Sensorial:<br />Tipos de Sensores para Robôs Móveis; Proximidade / Sensores de Contato; Sensores de Posição/Movimento; Visão Robótica (Camaras, Sensores de Profundidade, Imagem Digital, Espaços de Cores, Processamento e Análise de Imagem; &#8220;Robot Hearing&#8221;; Análise e Representação de Incerteza; Técnicas de Fusão Sensorial.</li><br /><li>Locomoção e Ação:<br />Atuadores para Robôs Móveis; Modos e Mecanismos de Locomoção; Robôs com Rodas; Robôs com Pernas e Walking Bípede; Manipuladores Robóticos e seu Controle; Cinemática de Robôs Móveis e Controle de Movimento; Simulação de Locomoção e Ação.</li><br /><li>Localização e Mapeamento:<br />Mapas e Estados do Mundo; Mapas Métricos e Mapas Topológicos; Localização de Markov, Gaussian e Grid; Filtros de Kalman e Localização de Filtros de Kalman Estendidos; Filtros de Partículas e Localização de Monte-Carlo; SLAM - Localização e Mapeamento Simultâneos; Métodos para SLAM (EKF-SLAM, FastSLAM e Graph SLAM).</li><br /><li>Planeamento e Navegação:<br />Planeamento de Caminho em Ambientes Conhecidos/Desconhecidos; Decomposição Celular; Visibility Graphs; Diagramas de Voronoi; Algoritmos de Pesquisa, Dijkstra, A * e D *; Método de Campo Potencial; Desvio de Obstáculos; Arquiteturas de Navegação; Métodos de Exploração do Mundo; Planeamento de Alto Nível.</li><br /><li>Interação Humano-Robô (IHR):<br />Noções Básicas de Interação Humano-Computador; Perceção para IHR; Decisão para IHR; Ação para IHR; Cooperação Inteligente Humano-Robô.</li><br /><li>Aprendizagem para Robótica:<br />Introdução e Desafios na Aprendizagem de Robôs; Redução de Dimensionalidade; Aprendizagem Supervisionada; Aprendizagem Evolutiva para Robótica; Aprendizagem por Reforço para Robótica; Otimização e Metaheurísticas para Robótica; Self-Supervised, Imitation e Deep Learning para Robótica; Aprendizagem Multi-Robô.</li><br /><li>Robótica Cooperativa e Equipas Humano-Robô:<br />Cooperação entre Robôs para Trabalho em Equipa; Intenções Conjuntas, TAEMS, Baseada em Papéis, Regras Sociais; Formações Multi-Robô; Comunicação Multi-Robô; Locker-Room, Coordenação Estratégica, Setplays; Swarm Robotics; Equipas Humano-Robô.</li><br /><li>Robótica no Futuro:<br />Inteligência Artificial e Robótica no Futuro; Visões, Ficção Científica e Realidade; Projetos Avançados em Robótica em Portugal, UE, Japão e EUA; Asimov Laws e o seu Futuro; Ética Robótica, Direitos dos Robôs e Robotic Governance; Robôs Industriais, Pessoais, Ubiquos e Cloud; Tendências Futuras e Aplicações em Robótica; A Singularidade?</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>Exposição com interação nas aulas</li><br /><li>Exemplos apresentados relativos a projetos desenvolvidos pelos docentes. </li><br /><li>Possível uso de simuladores para navegação de robôs móveis e robôs Humanoides</li><br /><li>Trabalhos sobre robótica cooperativa</li><br /><li>Exploração de diversas plataformas robóticas móveis</li><br /><li>A avaliação inclui capacidade de pesquisa, trabalho científico e técnico e ainda capacidade de comunicação relativo ao trabalho apresentado. É incentivado pensamento de ordem elevada</li><br /><li>Será dado feedback dos trabalhos intermédios durante a UC para que o melhoramentos possa ser incorporado na apresentação final</li><br /></ul>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 20.0 %
+- Apresentação/discussão de um trabalho científico: 20.0 %
+- Trabalho prático ou de projeto: 40.0 %
+- Trabalho escrito: 20.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 30.0 horas
+- Estudo autónomo: 50.0 horas
+- Frequência das aulas: 42.0 horas
+- Apresentação/discussão de um trabalho científico: 20.0 horas
+- Trabalho de investigação: 10.0 horas
+- Trabalho escrito: 10.0 horas
+
+## Fórmula de cálculo da classificação final
+<ul><br /><li>20% HomeWorks, kahoots and in-class work [Lowest kahoot_in_class is removed from grade]</li><br /><li>30% Basic Robot, Video and article, Presentation</li><br /><li>50% Research project; Video and article, Presentation</li><br /></ul>
+
+## Obtenção de frequência
+Assiduidade e entrega dos Assignments 1 e 2.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Topics in Intelligent Robotics
+
+## Curso responsável
+Master in Artificial Intelligence
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+Objectives:<br /><br /><ul><br /><li>To understand the basic concepts of Robotics and the context of Artificial Intelligence in Robotics.</li><br /><li>To study methods of perception and sensorial interpretation (emphasizing computer vision), which allow creating precise world estates and mobile robots&#8217; localization methods.</li><br /><li>To study the methods which allow mobile robots to navigate in familiar or unfamiliar environments using Planning and Navigation algorithms.</li><br /><li>To study the fundamentals of human-robot interaction, robot learning, cooperative robotics and robot teams construction.</li><br /><li>To analyze the main national and international robotics competitions, the more realistic robot simulators and the more advanced robotic platforms available in the market.</li><br /><li>Improve the ability to communicate regarding scientific and technical issues.</li><br /><li>Promote healthy scientific approach.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<p>At the end of this Curricular Unit, students should be able to:</p>
+<ul>
+<li>Define Autonomy for Robotics</li>
+<li>Define Intelligent Robotic System (IRS)</li>
+<li>Explain relation of Artificial Intelligence (AI) and IRSs</li>
+<li>Identify applications for Intelligent Robotic Systems</li>
+<li>List and use classical Robotic Architectures</li>
+<li>Know the current State of the Art in Robotics</li>
+<li>Know frequently used sensors and actuators and perception interpretation methods for robotics</li>
+<li>Evaluate usage of vision systems compared to other sensors</li>
+<li>Use methodologies from: Data Fusion, AI, data processing and vision processing in order to build perceptions of the world state</li>
+<li>Know and use methods for Localization, Mapping, Planning, and Navigation in robotics</li>
+<li>Know and use one or more robotic systems or simulators</li>
+<li>Know and use interaction, learning and cooperation methodologies for robotics.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Experience in computer language programming is needed.<br />Frequently used languages include C++ and Python.<br />Basic knowledge in Artificial Intelligence.
+
+## Programa
+<ol><br /><li>Introduction to Intelligent Robotics:<br />Basic Concepts of Robotics, Artificial Intelligence in Robotics; Areas and Applications of Intelligent Robots; Perception-Decision-Action Loop; Architectures for Robotic Agents; Robotic Competitions; Simulation and Robotic Simulators; History, Evolution, and Current Trends in Intelligent Robotics.</li><br /><li>Robotics Middleware and ROS:<br />Middleware and Robotics Middleware; Robotics Middleware Projects; Introduction to ROS &#8211; Robot Operating System; ROS Architecture; ROS Console Commands; Creating ROS Packages; ROS C++ Client Library; ROS Simulation; Visualizations and User Interface Tools; ROS Bags.</li><br /><li>Perception and Sensorial Interpretation:<br />Types of Sensors for Mobile Robots; Proximity/Contact Sensors; Position/Movement Sensors; Robot Vision (Cameras, Depth Sensors, Digital Image, Color Spaces, Image Processing, Image Analysis; Robot Hearing; Uncertainty Analysis and Representation; Sensor Fusion Techniques.</li><br /><li>Locomotion and Action:<br />Actuators for Mobile Robots; Locomotion Modes and Mechanisms; Wheeled Mobile Robots; Legged Mobile Robots and Biped Walking; Robot Manipulators and its Control; Mobile Robots Kinematics and Motion Control; Simulation of Robot Locomotion and Action.</li><br /><li>Localization and Mapping: <br />Creation, Representation and Update of Maps and World States; Metric Maps and Topological Maps; Markov, Gaussian and Grid Localization; Kalman Filters and Extended Kalman Filters (EKF) Localization; Particle Filters and Monte-Carlo Localization; SLAM &#8211; Simultaneous Localization and Mapping; Methods for SLAM (EKF-SLAM, FastSLAM and Graph SLAM).</li><br /><li>Planning and Navigation:<br />Path Planning in Known/Unknown Environments; Cellular Decomposition; Visibility Graphs; Voronoi Diagrams; Search, Dijkstra, A* and D* Algorithms; Potential Field Method; Obstacle Avoidance; Navigation Architectures; World Exploration Methods; High-Level Planning.</li><br /><li>Human-Robot Interaction (HRI): <br />Basics of Human-Computer Interaction; Perception for HRI; Decision-Making for HRI; Action for HRI; Human-Robot Intelligent Cooperation.</li><br /><li>Robot Learning:<br />Introduction and Challenges in Robot Learning; Dimensionality Reduction; Supervised Robot Learning; Evolutionary Robot Learning; Reinforcement Learning for Robotics; Optimization and Metaheuristics for Robotics; Self-Supervised, Imitation Learning, Deep Learning for Robotics; Multi-Robot Learning.</li><br /><li>Cooperative Robotics and Human-Robot Teams: <br />Cooperation between Robots for Teamwork; Joint Intentions, TAEMS, Role-Based, Social Rules; Multi-Robot Formations; Multi-Robot Communication and Mutual Modeling; Locker-Room, Strategical Coordination, Setplays; Swarm Robotics; Human-Robot Teams.</li><br /><li>Robotics in the Future: <br />Artificial Intelligence and Robotics in the Future; Visions, Science Fiction and Reality; Advanced Projects in Robotics in Portugal, EU, Japan and USA; Asimov Laws and their Future; Robot Ethics, Robot Rights and Robotic Governance; Industrial, Personal, Ubiquos and Cloud Robots; Robotics Future Trends and Applications; The Singularity?</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>Exposition with interaction in classes</li><br /><li>Examples are taken from projects coordinated/developed by the lecturers. </li><br /><li>Use of simulators for mobile robots navigation and humanoid robots</li><br /><li>Assignments on cooperative robotics</li><br /><li>Exploration of mobile robotic platforms</li><br /><li>Challenge students to higher level learning</li><br /><li>The evaluation includes the ability to search for information, do scientific work, do technical work and disseminate the work done. Higher order thinking skills are encouraged</li><br /><li>Detailed feedback is given to students about the quality of their research work and learning process</li><br /></ul>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 20.0 %
+- Apresentação/discussão de um trabalho científico: 20.0 %
+- Trabalho prático ou de projeto: 40.0 %
+- Trabalho escrito: 20.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 30.0 hours
+- Estudo autónomo: 50.0 hours
+- Frequência das aulas: 42.0 hours
+- Apresentação/discussão de um trabalho científico: 20.0 hours
+- Trabalho de investigação: 10.0 hours
+- Trabalho escrito: 10.0 hours
+
+## Fórmula de cálculo da classificação final
+<ul><br /><li>20% HomeWorks, kahoots and in-class work [Lowest kahoot_in_class is removed from grade]</li><br /><li>30% Basic Robot, Video and article, Presentation</li><br /><li>50% Research project; Video and article, Presentation</li><br /></ul>
+
+## Obtenção de frequência
+Attendance and delivery of assignments 1 and 2.
+

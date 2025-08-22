@@ -1,0 +1,134 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sensores, Atuadores e Controlo
+
+## Curso responsável
+Licenciatura em Bioengenharia
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p><span lang="PT">Esta unidade curricular pretende ampliar os conhecimentos dos estudantes na área de automação, focando-se nas suas componentes principais: elementos de entrada de informação (sensores), processamento de informação (microcontroladores), elementos de saída (atuadores pneumáticos, e motores elétricos), estratégias de controlo (on/off, PID), bem assim como software de aquisição de dados. Esta unidade curricular será suportada por uma forte componente laboratorial, permitindo aos estudantes o contato direto com os componentes e a implementação/teste de sistemas.</span></p>
+
+## Resultados de aprendizagem e competências
+<p><span lang="PT"><strong>Competências técnicas específicas</strong></span></p>
+<ul>
+<li>Capacidade de selecionar os componentes básicos de automação</li>
+<li><span lang="PT">Capacidade de sintonizar um controlador de processo</span></li>
+<li><span lang="PT">Compreender as principais filosofias de controlo de processos</span></li>
+<li><span lang="PT">Compreender o comportamento dinâmico de processos industriais</span></li>
+<li><span lang="PT">Capacidade de reconhecimento da simbologia e terminologia associada à automação</span></li>
+</ul>
+<p><strong>Competências Computacionais</strong></p>
+<ul>
+<li>Programação de sistemas de controlo e aquisição de dados</li>
+<li>Programação de microcontroladores</li>
+</ul>
+<p><strong>Competências Experimentais</strong></p>
+<ul>
+<li>Capacidade de identificar e caracterizar os sensores mais comuns</li>
+<li>Capacidade de conhecer os elementos de pneumática</li>
+<li>Capacidade de montagem de circuitos elétricos, eletrónicos, pneumáticos e electropneumáticos, motores elétricos DC</li>
+</ul>
+<span lang="PT"><strong>Outras competências a desenvolver pelo estudante</strong></span>
+<ul>
+<li><span lang="PT">Capacidade de trabalho em equipa</span></li>
+<li>Capacidade de comunicação escrita, oral e multimédia</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Conhecimentos básicos de programação e de eletrónica.<br /><p> </p><br />
+
+## Programa
+<strong>Sensores</strong><br />    Princípio de funcionamento dos sensores mais comuns<br />    Vocabulário metrológico<br /><br /><strong>Microcontroladores</strong><br />    Introdução aos microcontroladores e à sua programação<br />    Comunicação série com periféricos<br />    Aquisição de dados e controlo com o Arduino<br />    Instrumentação virtual<br /><br /><strong>Introdução ao Controlo Automático</strong><br />    Controlo On/Off e por retroação<br />    Implementação digital de algoritmos PID<br />    Comportamento dinâmico de um sistema em anel fechado<br />    Análise de estabilidade, sintonização de controladores<br /><br /><strong>Introdução aos Atuadores</strong><br />    Produção, reserva e distribuição de ar comprimido<br />    Válvulas e atuadores pneumáticos<br />    Circuitos pneumáticos<br />    Motores elétricos DC<br />
+
+## Métodos de ensino e atividades de aprendizagem
+O método de ensino é baseado na análise sistemática de casos envolvendo equipamentos, conceitos, técnicas, e a sua implementação experimental. A aprendizagem será apoiada por leituras orientadas, pesquisa bibliográfica e trabalhos de grupo. A UC organiza-se em dois tipos de aulas: aulas de exposição teórica, complementadas pela realização de trabalhos laboratoriais envolvendo sensores, controladores, componentes pneumáticos e software de aquisição de dados.<br />
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 40.0 %
+- Exame: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 50.0 horas
+- Estudo autónomo: 40.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho escrito: 20.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação do desempenho será baseada num exame (E), e num trabalho prático (TP).<br />A classificação final (CF) será calculada da seguinte forma:<br />CF = 0,60*E+0,40*TP</p>
+
+## Obtenção de frequência
+<p><span style="font-size: small;">Não exceder o limite máximo de 3 faltas nas aulas laboratoriais e obter a classificação mínima de 10 valores no trabalho de grupo.</span></p>
+
+## Melhoria de classificação
+<p>Os estudantes poderão efetuar melhoria da classificação final submetendo-se um exame escrito. Esta classificação substituirá a do exame da época normal no caso de ser superior.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Sensors, Actuators and Control
+
+## Curso responsável
+Bachelor in Bioengineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p><span lang="EN-US">This course aims to broaden students' knowledge in the field of automation, focusing on its main components: information input elements (sensors), information processing (microcontrollers), output elements (pneumatic actuators, and electric motors), control strategies (on/off, PID) as well as data acquisition software. This curricular unit will be supported by a strong laboratory component, allowing students to have direct contact with the components and the implementation/testing of systems.</span></p>
+
+## Resultados de aprendizagem e competências
+<strong>Specific technical skills</strong><br /><br />     Ability to select the basic automation components<br />     Ability to tune a process controller<br />     Understand the main process control philosophies<br />     Understand the dynamic behavior of industrial processes<br />     Ability to recognize symbology and terminology associated with automation<br /><br /><strong>Computational Skills</strong><br /><br />     Programming control systems and data acquisition<br />     Microcontroller programming<br /><br /><strong>Experimental Skills</strong><br /><br />     Ability to identify and characterize the most common sensors<br />     Ability to know the pneumatic elements<br />     Ability to assemble electrical, electronic, pneumatic and electropneumatic circuits, DC motors<br /><br /><strong>Other skills to be developed by the student</strong><br /><br />     Ability to work as a team<br />     Written, oral and multimedia communication skills<br />
+
+## Pré-requisitos e co-requisitos
+<p>Basic knowledge of programming and electronics.</p>
+<p> </p>
+
+## Programa
+<strong>Sensors</strong><br />     Working principle of the most common sensors<br />     metrological vocabulary<br /><br /><strong>Microcontrollers</strong><br />     Introduction to microcontrollers and their programming<br />     Serial communication with peripherals<br />     Data acquisition and control with Arduino<br />     virtual instrumentation<br /><br /><strong>Introduction to Automatic Control</strong><br />     On/Off and feedback control<br />     Digital implementation of PID algorithms<br />     Dynamic behavior of a closed ring system<br />     Stability analysis, controller tuning<br /><br /><strong>Introduction to Actuators</strong><br />     Production, reserve and distribution of compressed air<br />     Pneumatic valves and actuators<br />     Pneumatic circuits<br />     DC motors<br />
+
+## Métodos de ensino e atividades de aprendizagem
+The teaching method is based on the systematic analysis of cases involving equipment, concepts, techniques, and their experimental implementation. Learning will be supported by guided readings, bibliographical research and group laboratory work. The UC is organized into two types of classes: theoretical lectures, complemented by laboratory work involving sensors, controllers, pneumatic components and data acquisition software.<br /><br /><p> </p><br />
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 40.0 %
+- Exame: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 50.0 hours
+- Estudo autónomo: 40.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho escrito: 20.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Performance evaluation will be based on a exam (E) and practical work (TP).<br />The final classification (CF) will be calculated as follows:<br />CF = 0.60*E+0.40*TP</p>
+
+## Obtenção de frequência
+<p><span style="font-size: small;"><span id="result_box" class="" lang="en"><span class=""><span class="VIiyi" lang="en"><span class="JLqJ4b ChMk0b" data-language-for-alternatives="en" data-language-to-translate-into="pt" data-phrase-index="0">Do not exceed the maximum limit of 3 absences in laboratory classes and obtain a minimum grade of 10 values in the group assignment.</span></span></span></span></span></p>
+
+## Melhoria de classificação
+Students will be able to improve their final classification by performing a written exam that will replace the E assessment component in case of being better.<br />
+

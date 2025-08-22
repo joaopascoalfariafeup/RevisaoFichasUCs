@@ -1,0 +1,113 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise de Dados e Engenharia de Software
+
+## Curso responsável
+Mestrado em Engenharia de Software
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p><strong><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;"><span style="text-decoration: underline;">Enquadramento</span>: <br /></span></strong>Após uma época em que as diferentes empresas/instituições muito investiram na recolha de dados no âmbito da informatização das suas operações (por ex.: sensores, sistemas GPS), e em que muitas e variadas novas fontes de dados surgiram (por ex.: redes sociais), existe agora a necessidade de pôr esses dados ao serviço dessas empresas/instituições. O objetivo é ser capaz de extrair conhecimento desses dados de modo a melhorar a eficiência dos processos e ganhar vantagem competitiva. Uma das áreas em que esse evolução se tem observado de forma mais marcante é a Engenharia de Software. É desta necessidade que surge a Unidade Curricular de Análise de Dados e Engenharia de Software (ADES).</p>
+<p> </p>
+<p><strong><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;"><span style="text-decoration: underline;">Objetivos</span>:<br /></span></strong><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;">O estudante deve ser capaz de: </span><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;">desenvolver projetos simples de data mining (DM) descritivos e preditivos envolvendo as tarefas mais tradicionais: clustering, associação, classificação, e regressão. <br /><br /></span></p>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;">Como resultado da aprendizagem, pretende-se que os estudantes sejam capazes de: <br />1. identificar problemas que podem ser resolvidos com DM; <br />2. seguir uma metodologia adequada para resolver problemas de DM simples; <br />3. compreender superficialmente o comportamento dos métodos envolvidos; <br />4. avaliar resultados, tanto numa perspective técnica como da do domínio da aplicação.<br /></span></p>
+
+## Pré-requisitos e co-requisitos
+<p><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;">Não sendo obrigatório ter frequentado nenhuma UC em concreto, é importante o estudante ter conhecimentos básicos de probabilidades e estatística.</span></p>
+
+## Programa
+<ul><br /><li>Introdução ao data mining (DM).</li><br /><li>Projetos DM: metodologia; Análise exploratória de dados.</li><br /><li>Clustering: introdução; algoritmos.</li><br /><li>Classificação: introdução; medidas de avaliação; estimativa de desempenho; algoritmos baseados em distância e probabilísticos.</li><br /><li>Preparação de dados: métodos de pré-processamento.</li><br /><li>Classificação binária: avaliação; lidar com o desequilíbrio de classe.</li><br /><li>Regressão: introdução; medidas de avaliação; algoritmos básicos.</li><br /><li>Algoritmos baseados em busca e otimização para modelos preditivos; ensembles.</li><br /><li>Frequent pattern matching e sistemas de recomendação.</li><br /><li>AutoML e Metalearning.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas servem para discussão dos tópicos correspondentes e para a realização de exercícios e do projeto.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Participação presencial: 0.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 horas
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 44.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>0.5*Exame + 0.5*Trabalho;<br /> Nota mínima: Exame &gt;= 7.0; Trabalho &gt;= 7.0.</p>
+
+## Obtenção de frequência
+N/A
+
+## Melhoria de classificação
+<p>A melhoria de classificação é possível apenas para o Exame, na época de recurso.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Data Analysis in Software Engineering
+
+## Curso responsável
+Master in Software Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;"><strong><span style="text-decoration: underline;">Background</span></strong>:<br /></span><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;">After a period in which different companies/institutions invested in data collection by digitalization of their operations (e.g. sensors, GPS systems), and in which many and varied new data sources have emerged (e.g. social networks), there is now the need to place such data at the service of those companies. The goal is to be able to extract knowledge from these data in order to improve efficiency in the processes and gain competitive advantage. The Data Analysis and Software Engineering (ADES) course stems from this need .<br /></span></p>
+<p><strong><span style="text-decoration: underline;">Objectives</span>:<br /></strong>The student should be able to: develop simple descriptive and predictive data mining (DM) projects involving the most traditional tasks: clustering, association, classification, and regression.</p>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;">As a learning result,students should be able to: <br />1. identify problems that can be solved with DM; <br />2. follow an appropriate methodology to solve DM simple problems; <br />3. superficially understand the behavior of the methods involved; <br />4. evaluate results, both from a technical and   application domain perspectives. </span></p>
+
+## Pré-requisitos e co-requisitos
+<p><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;">It is not required to have attended any specific course. It, however, important to have some background in probabilities and statistics.</span></p>
+
+## Programa
+<ul><br /><li>Introduction to data mining.</li><br /><li>DM projects: methodology; exploratory data analysis.</li><br /><li>Clustering: introduction; algorithms.</li><br /><li>Classification: introduction; evaluation measures.</li><br /><li>performance estimation; distance-based and probabilistic algorithms.</li><br /><li>Data preparation: preprocessing methods.</li><br /><li>Binary classification: evaluation; dealing with class imbalance.</li><br /><li>Regression: introduction; evaluation measures; basic algorithms.</li><br /><li>Search-based and optimization-based algorithms for predictive models; ensemble learning.</li><br /><li>Frequent pattern mining and Recommender Systems.</li><br /><li>AutoML &amp; Metalearning.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The classes are used to discuss the corresponding topics and to carry out exercises and the project.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Participação presencial: 0.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 hours
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 44.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>0.5*Exam + 0.5*Assignment;<br />Minimum grades: Exam &gt;= 7.0; Assignment &gt;= 7.0.</p>
+
+## Obtenção de frequência
+Required attendance in practical classes.<br />Join a project group.<br />Participate effectively in carrying out the project.
+
+## Melhoria de classificação
+<p>Students may improve their exam grades only, which can be done in the resit exam.</p>
+

@@ -1,0 +1,138 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Bases de Dados
+
+## Curso responsável
+Licenciatura em Ciência de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>Dotar os estudantes da teoria e prática necessária à concepção, construção e análise de bases de dados relacionais.</p>
+
+## Resultados de aprendizagem e competências
+<p>Os estudantes deverão adquirir as seguintes competências:</p>
+<h4><strong>Saber:</strong></h4>
+<ul>
+<li>Caracterizar um sistema de gestão de base de dados;</li>
+<li>Conhecer o modelo de classes UML e o modelo relacional de dados;</li>
+<li>Álgebra relacional como linguagens formal de manipulação de bases de dados relacionais;</li>
+<li>Os fundamentos da linguagem SQL, como linguagem de definição, manipulação, interrogação e controlo de acesso de dados;</li>
+<li>Regras de normalização de bases de dados com base em dependências funcionais e multivalor.</li>
+</ul>
+<h4><strong>Fazer:</strong></h4>
+<ul>
+<li>Modelar uma base de dados de média dimensão em UML e proceder à sua conversão para base de dados relacional;</li>
+<li>Criar e manipular uma base de dados em SQL;</li>
+<li>Criar aplicações com transações e controlo de concorrência.</li>
+</ul>
+
+## Programa
+<p>Introdução aos sistemas de bases de dados.<br />Conceitos Básicos. Características e vantagens da abordagem de base de dados. Funcionalidades típicas de um SGBD. Fases do desenho de uma base de dados. <br /> <br />O modelo de classes UML.<br />Objetos e classes, atributos, associações, agregações, hierarquias. <br /> <br />O modelo relacional.<br />Relações, atributos, domínios e tuplos. Superchaves, chaves primárias e chaves externas. Restrições de integridade. Esquema relacional. Conversão do modelo de classes UML para o relacional. <br /> <br />Álgebra relacional.<br />Projeção, seleção, produto cartesiano, reunião, interseção, diferença, quociente, junção, agregação, renomeação, junção natural, junção externa.<br /><br />A linguagem SQL.<br />A DDL do SQL: administrar tabelas, restrições de integridade e domínios. A DML do SQL: consultas básicas, encadeadas e correlacionadas. Operações de junção, agregação, inserção, remoção e alteração. Vistas. <br /><br />Integridade e segurança<br />Integridade de entidades e referencial. SQL embebido. Asserções e triggers. Segurança e autorizações. Transacções, concorrência e tolerância a falhas.<br /> <br />Normalização <br />Formas normais e normalização de relações. Dependências funcionais, multi-valor e de junção. Decomposição com junção-não-aditiva. Formas normais: 3ª, 4ª e Boyce-Codd.<br /> <br />Organização física dos dados <br />Registos, ficheiros de registos e índices.<br /><br />Introdução às bases de dados não relacionais. <br />Exemplos.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas Teóricas: para exposição e discussão dos conceitos fundamentais da teoria e prática de bases de dados como sistemas de manipulação de grandes quantidades de informação. <br /> <br />Aulas Práticas: para resolução de exercícios ilustrativos dos conceitos introduzidos nas aulas teóricas.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Teste: 20.0 %
+- Trabalho prático ou de projeto: 20.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 78.0 horas
+- Frequência das aulas: 48.0 horas
+- Trabalho laboratorial: 36.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><br />A avaliação compreende os seguintes componentes e respetivos pesos percentuais na nota final:<br /><br /></p>
+<ul>
+<li>projeto de modelação e implementação de bases de dados em grupos de até 3 alunos - 20 %</li>
+<li>teste individual de SQL em ambiente de laboratório - 20 %</li>
+<li>exame final - 60 %, com nota mínima de 40 % (8 valores) para aprovação final.</li>
+</ul>
+<p> <br /><br /></p>
+
+## Obtenção de frequência
+Para obtenção de frequência os alunos têm de frequentar 3/4 das aulas práticas.<br /><br />Estão dispensados deste requisito estudantes ao abrigo do Estatuto de Trabalhador-Estudante ou de outros estatutos especiais que estabeleçam essa dispensa.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Databases
+
+## Curso responsável
+Bachelor in Computer Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>Provide the students with the fundamentals and practice necessary for the design, implementation and analysis of relational databases. </p>
+
+## Resultados de aprendizagem e competências
+<p>The students should acquire the following competences:</p>
+<p>Should know:</p>
+<ul>
+<li>Be able to characterize a database management system;</li>
+<li>Know well the UML classes and relational data models;</li>
+<li>Relational algebra as formal language for relational databases maniputation;</li>
+<li>Fundaments of the SQL language as a language to define and manipulate data;</li>
+<li>Databases normalization rules based on functional and muluvalue dependencies;</li>
+</ul>
+<p>Should be able to do:</p>
+<ul>
+<li>Design an average sized database model in UML class diagram and convert it to a relational database;</li>
+<li>Use the SQL language to create and manipulate the database;</li>
+<li>Develop applications with transactions and concurrency control.</li>
+</ul>
+<p> </p>
+
+## Programa
+<p>Introduction to database systems<br />Basic Concepts. Main characteristics and advantages of using the database approach. Typical DBMS Functionality. The database design process. <br /> <br />The UML class diagram.<br />Objects and classes, attributes, associations, aggregations, hierarchies. <br /> <br />The relational data model <br />Relations, attributes, domains and tuples. Superkeys, primary keys and foreign keys. Integrity Constraints. Relational schema. Mapping UML class diagrams to the relational model. <br /> <br />Relational algebra.<br />Projection selection, cartesian product, reunion, intersection, difference, quotient, join, aggregation, renaming, natural join, external join.<br /> <br />The SQL language.<br />The DDL (Data Definition Language) of SQL: data definition, constraints and domains. The DML (Data Manipulation language) of SQL: simple, nested and correlated queries. Join, aggregate, insert, remove and update operations. Views. <br /><br />Integrity and security<br />Entity and referential integrity. Embedded SQL. Assertions and triggers. Transactions, concurrency and fault tolerance.<br /> <br />Normalization <br />Normal forms and normalization of relations. Functional, multivalued and join dependencies. Non-additive join decomposition. Normal forms: 3rd, 4th and Boyce-Codd.<br /> <br />Physical data organization <br />Basic file structures, hashing and indexing.<br /><br />Introduction to non-relational databases.<br />Examples.<br /><br /></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theory classes and practical classes with practical assignments.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Teste: 20.0 %
+- Trabalho prático ou de projeto: 20.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 78.0 hours
+- Frequência das aulas: 48.0 hours
+- Trabalho laboratorial: 36.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Student valuation components and corresponding weight:<br /><br /></p>
+<ul>
+<li>database modelling and implementation project in groups of up to 3 students - 20 %</li>
+<li>individual test on SQL in a lab environment - 20%</li>
+<li>final exam - 60 % with minimal grade of 40 % (8 valores) for final approval.</li>
+</ul>
+
+## Obtenção de frequência
+Students must attend 3/4 of pratical classes, except  for working students and others with special status.
+

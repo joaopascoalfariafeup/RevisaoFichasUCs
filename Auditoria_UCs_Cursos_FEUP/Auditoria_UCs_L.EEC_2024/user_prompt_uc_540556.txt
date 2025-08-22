@@ -1,0 +1,112 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas e Automação
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+A unidade curricular tem como objetivo dotar os estudantes de competências ao nível da conceção, análise e implementação de controladores para sistemas de eventos discretos (SED), focando-se nos sistemas de automação industriais de baixa / média complexidade.<br /><br />Com esse objetivo estudam-se técnicas de modelação e análise de controladores industriais, implementados em plataformas computacionais (genéricas ou industriais) e respetivas interfaces de E/S com o processo e com os operadores.<br /><br />Para o efeito, o programa está estruturado em 3 secções:<br />- Introdução à automação<br />- Conceção e analise de controladores para sistemas de eventos discretos <br />- Tecnologias dos sistemas de automação<br /><br />Os objetivos de aprendizagem A), B), C), D), G), H), I) , J), K) e L) serão alcançados sobretudo através de aulas teóricas e do estudo realizado pelo estudante fora das aulas. Nas aulas teóricas são expostos assuntos a tratar, acompanhados de exemplos práticos ilustrativos, seguidos de períodos de discussão relacionados com os tópicos apresentados, normalmente feitos em torno de questões colocadas pelo docente. Os exemplos que vão sendo apresentados nas aulas teóricas garantem que os conceitos mais importantes ficam consolidados .<br /><br />O objetivo de aprendizagem E) será alcançado sobretudo nas aulas práticas através da resolução de problemas de modelação. <br /><br />O objetivo de aprendizagem F) e parcialmente os objetivos I), K) e L)  serão alcançados através da realização de 3 trabalhos práticos. Os trabalhos focam-se na modelação de controladores para SED de diferentes complexidades, implementação em plataformas computacionais do tipo autómato programável ou microntrolador, interliação com sensores e atuadores e, num dos casos, o desenvolvimento de uma interface homem-máquina.
+
+## Resultados de aprendizagem e competências
+Ao completar esta unidade curricular o estudante deverá ser capaz de:<br /><br />A) Identificar os principais domínios de aplicação dos sistemas de automação.<br />B) Explicar a arquitetura geral de um sistema automatizado.<br />C) Caracterizar um sistema de eventos discretos (SED).<br />D) Interpretar, construir e verificar modelos baseados em Máquinas de Estado (ME) e Grafcet (GF).<br />E) Modelar o comportamento de um controlador para sistemas de eventos discretos utilizando ME e GF.<br />F) Implementar, a partir de um modelo (ME ou GF), um controlador para um SED numa plataforma computacional genérica (microcontrolador) ou num autómato programável.<br />G) Descrever a estrutura funcional de um autómato programável.<br />H) Caracterizar as interfaces (E/S) de um controlador de um processo industrial.<br />I) Desenvolver aplicações de média complexidade nas linguagens SFC e ST (IEC 61131-3).<br />J) Explicar os princípios de funcionamento de diferentes tipos de sensores industriais.<br />K) Selecionar e utilizar sensores industriais para uma aplicação.<br />L) Desenvolver interfaces homem-máquina de baixa-média complexidade, para supervisão e monitorização de processos industriais.
+
+## Pré-requisitos e co-requisitos
+Frequência de;<br />-- Circuitos (L.EEC003)<br />-- Programação (L.EEC004)<br />-- Sistemas Digitais (L.EEC005)<br />-- Sinais e Sistemas (L.EEC015)<br />-- Eletrónica 1 (L.EEC019)<br />-- Controlo (L.EEC020)
+
+## Programa
+<p><strong>Introdução à automação</strong><br /><br />1) Introdução aos sistemas de automação<br />- Domínios de aplicação.<br />- Arquitetura de um sistema automatizado.<br />- Tipos de indústrias, processos e sistemas de controlo.<br />- Organização dos sistema de automação industriais<br /><br /><strong>Conceção e analise de controladores para sistemas de eventos discretos </strong><br /><br />2) Introdução aos sistemas de eventos discretos (SED)<br />- Taxonomia de sistemas<br />- Conceitos. Propriedades.<br />- Técnicas de modelação<br />- Exemplos.<br /><br />3) Modelação de SED<br />- Máquinas de estados (ME) [revisões] e Grafcet (GF).<br />- Definições. Notação. Regras de evolução.<br />- Propriedades. Métodos de análise e verificação.<br />- Implementação de controladores para SED em plataformas de computacionais genéricas.<br /><br /><strong>Tecnologias dos sistemas de automação</strong><br /><br />4) Autómatos programáveis<br />- Conceito. Arquitetura. Interfaces de entrada e saída. Modelo de funcionamento.<br />- Desenvolvimento de aplicações. Norma IEC 61131-3. Linguagens SFC e ST.<br /><br />5) Sensores industriais<br />- Princípios de funcionamento.<br />- Interfaces elétricas com o controlador.<br />- Domínios de aplicação.<br /><br />6) Sistemas de Supervisão<br />- Funções de supervisão e monitorização de processos.<br />- Conceitos básicos de desenvolvolvimento de interfaces homem-máquina.<br />- Introdução aos sistemas SCADA.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+- Aulas T: exposição dos assuntos a tratar, acompanhados de exemplos práticos ilustrativos.<br /><br />- Aulas PL: problemas de modelação de SED utilizando ME e GF. Realização de 3 trabalhos laboratoriais, por grupos de 2 estudantes, onde se pretende modelar e validar controladores para SED implementados em autómatos programáveis ou microcontroladores.<br /><br />- Realização de micro-testes (quizzes) no Moodle (10-15m) em cada módulo do programa para consolidar os contúdos estudados.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Trabalho prático ou de projeto: 50.0 %
+- Participação presencial: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 70.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho laboratorial: 40.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Componentes de avaliação e respetivos pesos na classificação final:<br /><br /><strong>Componente exame final (CE)</strong> com o seguinte componente:<br />-- Exame final (EX): 40%</p>
+<p><strong>Componente distribuída (CD)</strong> com os seguintes componentes:<br />-- Micro-testes (uT) : 10%<br />-- Trabalho laboratorial (TL): 50%<br /><br />---------------------------------------------------------------------------------------------------------<br /><br /><strong>Micro-testes (uT)<br /></strong>-- 7 questionários (quizzes) de curta duração (10-15m) sobre tópicos de cada módulo do programa e distribuídos ao longo do semestre. Os querstionários são realizados no Moodle, fora do período de aulas e sem necessidade de utilizar salas de exame.<br /><br /><strong>Participação presencial (Q)</strong><br />-- Questões individuais colocodas nas aulas PL.<br /><br /><strong>Trabalho laboratorial (TL)</strong><br />-- PL1 (10%) : modelação de um controlador de um processo com ME e implementação num microcontrolador.<br />-- PL2 (20%) : modelação de um controlador de um processo utilizando GF<br />-- PL3 (20%) : implementação do modelo desenvolvido no PL2 num autómato programável<br /><br /><br /><br />-- A componente CE pode alvo de melhoria de classificação nas épocas de exame normal e/ou recurso.<br />--A componente distribuída (CD) <strong>não é susceptível de melhoria para os exames de recurso, especiais, conclusão de curso ou de qualquer outra natureza especial (*)</strong><br />-- A componente TL é realizada em grupo (2 estudantes). As restantes componentes são individuais.<br /><br />(*) melhoria=o estudante obteve aprovação na componente (nota &gt;=10) e pretender melhorar a nota dessa componente numa outra época<br />---------------------------------------------------------------------------------------------------------<strong><br /></strong><br />Para efeitos da explicação da formula de cálculo final (CF) considere-se o seguinte arranjo entre as componentes individual (I) e de grupo (G):<br /><br />I = (0.40*EX + 0.10*(uT+Q))/0.5<br />G = (0.10*PL1 + 0.20*PL2 + 0.20*PL3) /0.5<br /><br />-- Todas as classificações na escala 0...20.<br /><br />-- Para aprovação à UC é necessário obter uma nota minima de 7.00 valores em ambas componentes: I e G.<br /><br />-- Coerência entre nota de grupo e individual: a nota na componente G não poderá ser 5 (cinco) valores superior à nota da componente I. O contrário não se aplica.<br /><br /><br /><strong>-- Formula de cálculo da classificação final (CF): </strong><br /><br />IF (I&gt;=7.00 AND G&gt;=7.00) THEN<br />       IF (G&gt;I+5) THEN G=I+5<br />       CF = 0.5*I+0.5*G<br />ELSE<br />       CF=RFC /* reprovado por falta de componente */<br />END_IF<br /><br />--------------------------------------------------------------------------------------------------------<br />Situções de fraude<br /><br />-- Anulação do item da avaliação em que fraude foi cometida. Subtração de 2 (dois) valores na nota final.</p>
+
+## Obtenção de frequência
+<p>-- Frequência de 75% das aulas PL (regulamento da UP).<br /><br />-- Realização de pelo menos 2 trabalhos práticos.<br /><br /></p>
+
+## Melhoria de classificação
+<p>Os estudantes aprovados em "Sistemas e Automação" em anos anteriores e que realizam uma nova inscrição para melhoria de classificação têm que realizar <span style="text-decoration: underline;">todos</span> os componentes de avaliação.<br /><br />A componente distribuída (CD) <strong>não é susceptível de melhoria para os exames de recurso, especiais, conclusão de curso ou de qualquer outra natureza especial (*).<br /></strong><br />(*) melhoria=o estudante obteve aprovação na componente (nota &gt;=10) e pretender melhorar a nota dessa componente numa outra época</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Systems and Automation
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+This course aims to provide students with skills in the design, analysis and implementation of controllers for discrete event systems (DES), focusing on industrial automation systems of low/medium complexity.<br /><br />For this purpose, are studied techniques for modeling and analysis of industrial controllers, implemented on computing platforms (general purpose or industrial) and their respective I/O interfaces with the process and operators.<br /><br />For this purpose, the program is structured in 3 sections:<br />- Introduction to automation<br />- Design and analysis of controllers for discrete event systems<br />- Technologies for automation systems<br /><br />Learning objectives  A), B), C), D), G), H), I) , J), K) and L) will be achieved mainly through lectures and out-of-class study by the student. Theoretical classes are for exposition of the syllabus with discussion of illustrative examples, followed by discussion periods related to the topics, usually made around questions posed by the teacher. The examples presented in the lectures ensure that the most important concepts are consolidated.<br /><br />Learning objective E) will be achieved mainly in practical classes through the resolution of GF modeling problems. <br /><br />Learning objective F) and partially objectives I), K) and L) will be achieved by carrying out 3 practical assignments. The assignments focus on modelling controllers for EDS of different complexities, implementing them on computer platforms such as programmable automata or microcontrollers, interfacing them with sensors and actuators.
+
+## Resultados de aprendizagem e competências
+Upon completion of this course the student should be able to:<br /><br />A) Identify the main application domains of automation systems.<br />B) Explain the architecture of an automated system.<br />C) Characterize a discrete event system (DES).<br />D) Interpret, build and verify models based on Finite State Machines (FSM) and Grafcet (GF).<br />E) Modeling the behavior of a controller for discrete event systems using FSM and GF.<br />F) Implement, from a model (FSM or GF), a controller for a SED on a general purpose computing platform (microcontroller) or PLC (programmable logic controller)<br />G) Describe the functional structure of a programmable logic controller (PLC).<br />H) Characterise the interfaces (I/O) of a process controller.<br />I) Develop medium complexity applications using SFC and ST languages (IEC 61131-3).<br />J) Explain the operating principles of different types of industrial sensors.<br />K) Select and use ndustrial sensors for an application.<br />L) Develop man-machine interfaces (low-medium complexity), for supervision and monitoring of industrial processes.
+
+## Pré-requisitos e co-requisitos
+Enrollement in:<br />-- Circuits (L.EEC003)<br />-- Programming (L.EEC004)<br />-- Digital Systems (L.EEC005)<br />-- Sinals and Systems  (L.EEC015)<br />-- Electronics 1 (L.EEC019)<br />-- Control (L.EEC020)
+
+## Programa
+<p class="MsoNormal"><strong>Introduction to automation<br /></strong><br />1) Introduction to automation systems<br />- Application domains.<br />- Architecture of an automated system.<br />- Types of industries, processes and control systems.<br />- Organization of an industrial automation system.<br /><br /><strong>Design and analysis of controllers for discrete event systems</strong><br /><br />2) Introduction to discrete event systems (DES)<br />- Systems Taxonomy.<br />- Concepts. Properties.<br />- Modeling techniques<br />- Examples<br /><br />3) DES Modeling<br />- State Machines (SM) [review of concepts] and Grafcet (GF).<br />- Definitions. Notation. Rules of evolution.<br />- Properties. Methods of analysis and verification.<br />- Implementation of DES controllers in general purpose computing platforms.<br /><br /><strong>Technologies for automation systems</strong><br /><br />4) Programmable logic controllers<br />- Concept. Architecture. Input and output interfaces. Execution model.<br />- Application development. IEC 61131-3 Standard. SFC and ST languages.<br /><br />5) Industrial sensors<br />- Principles of operation.<br />- Electrical interfaces with the controller.<br />- Application domains.<br /><br />6) Supervisory Systems<br />- Supervisory functions and process monitoring.<br />- Basic concepts of human-machine interface development.<br />- Introduction to SCADA systems.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p class="MsoNormal">- T classes (discussion): lectures for exposition of the syllabus, with discussion of illustrative examples.<br /><br />- PL classes (recitations) : DES modeling problems, using FSM and GF. Realization of 3 laboratory assignments, by groups of 2 students, to model and validate controllers for DES implemented in programmable logic controllers or microcontrollers.<br /><br />- Micro-tests (quizzes) on Moodle (10-15m) at each module of the programme to consolidate the content studied.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Trabalho prático ou de projeto: 50.0 %
+- Participação presencial: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 70.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho laboratorial: 40.0 hours
+
+## Fórmula de cálculo da classificação final
+<p class="MsoNormal">Evaluation components and correspondent weights in the final classification:</p>
+<br /><strong>Final exam component (CE)</strong>, with the following weight:<br />-- Final Exam (EX), 40%<br /><br /><strong>Distributed component (DC)</strong> with the following weights:<br />-- Micro-tests (UT) : 10%<br />-- Laboratory work (TL): 50%<br /><br />---------------------------------------------------------------------------------------------------------<br /><strong>Quizzes (UT):</strong><br />-- 7 short quizzes (10-15m) on topics from each module of the program and distributed throughout the semester. The quizzes are taken on Moodle, outside of class time and without the need to use exam rooms.<br /><br /><strong>Questions during class (Q):</strong><br />- Individual questions in PL classes.<br /><br /><strong>Laboratory Work (TL)</strong><br />-- PL1 (10%) : modeling of a process controller with FSM and implementation in a microcontroller.<br />-- PL2 (20%) : modeling of a process controller with GF<br />-- PL3 (20%) : implementation of the model developed in PL2 in a PLC<br /><br />-- The CE component may be subject to grade improvement.<br />-- The CD component is not subject to grade improvement.<br />-- The TL component is carried out in a group (2 students). The other components are individual.<br /><br />---------------------------------------------------------------------------------------------------------<br /><br />For the purpose of explaining the final classification formula consider the following arrangement between the individual (I) and group (G) components:<br /><br />I = (0.40*EX + 0.10*(uT+Q))/0.5<br />G = (0.10*PL1 + 0.20*PL2 + 0.2*PL3) /0.5<br /><br />- All grades on a 0... 20 range.<br /><br />- For approval it is necessary to obtain a minimum grade of 7.00 values in both components I and G.<br /><br />- Consistency between group and individual grades: the grade in component G cannot be 5 (five) higher than the grade of component I. The opposite does not apply.<br /><br /><br /><strong>- Final Classification (CF):</strong><br /><br />IF (I&gt;=7.00 AND G&gt;=7.00) THEN<br />       IF (G&gt;I+5) THEN G=I+5<br />       CF = 0.5*I+0.5*G<br />ELSE<br />       CF=RFC /* reprovado por falta de componente */<br />END_IF<br /><br />--------------------------------------------------------------------------------------------------------<br />Fraud situations<br /><br />-- Cancellation of the assessment item in which fraud was committed. Subtraction of 2 (two) values from the final grade.
+
+## Obtenção de frequência
+<p class="MsoNormal">-- Attendence of 75% of classes (University of Porto regulations).<br /><br />-- Completion of at least 2 practical assignments.</p>
+
+## Melhoria de classificação
+<p>Students approved in previous years and who enrol again to improve their classification must complete all the assessment components.<br /><br />The distributed component (DC)<strong> is not subject to a grade improvement</strong>.<br /><br /><br /></p>
+

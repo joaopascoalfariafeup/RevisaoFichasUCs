@@ -1,0 +1,179 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Métodos Numéricos e Estatísticos
+
+## Curso responsável
+Licenciatura em Bioengenharia
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p>A disciplina visa contribuir para o desenvolvimento de uma visão geral e integrada dos Métodos Numéricos e Estatísticos<br />no contexto profissional em Bioengenharia<br /><br />Oferecer uma visão dos Métodos Numéricos e Estatísticos em  Bioengenharia e a sua importância para a prática profissional<br />em Engenharia;</p>
+<p>Proporcionar conhecimento e compreensão de conceitos, métodos, aplicações e tópicos em Métodos Numéricos e Estatísticos relevantes para a Bioengenharia;</p>
+<p>Apoiar desenvolvimento, no domínio dos Métodos Numéricos e Estatísticos, das competências analíticas, de comunicação e<br />aprendizagem apropriados ao exercício da profissão;</p>
+<p>Desenvolver as capacidades críticas, em especial, na recolha, análise e tratamento de dados.</p>
+
+## Resultados de aprendizagem e competências
+<p><strong>Conhecimento e compreensão</strong></p>
+<p>Princípios, conceitos e técnicas associadas com os Métodos Numéricos e Estatísticos aplicados ao estudo de sistemas em Bioengenharia.</p>
+<p>Possibilidades, limites teóricos e práticos e compromissos inerentes à modelização de sistemas em Bioengenharia.</p>
+<p>Possibilidades, limites teóricos e práticos e compromissos inerentes à recolha e análise de dados em Bioengenharia. </p>
+<p><strong>Competências cognitivas</strong></p>
+<p>Usar uma gama de técnicas e ferramentas informáticas para modelar, prever e avaliar o comportamento de sistemas.</p>
+<p>Desenvolver e aplicar competências numéricas, estatísticas e matemáticas para analisar e descrever sistemas em Bioengenharia.</p>
+<p>Comparar diferentes abordagens no estudo de sistemas em Bioengenharia.</p>
+<p>Interpretar e analisar criticamente a literatura sobre<br />sistemas em Bioengenharia</p>
+<p>Apreciar assuntos de natureza económica, comercial, social e política que podem influenciar a decisão sobre sistemas em Bioengenharia.</p>
+<p><strong>Competências chave</strong></p>
+<p>Comunicar efetivamente acerca da modelação e análise de sistemas em Bioengenharia.</p>
+<p>Melhorar a própria aprendizagem e performance.</p>
+<p><strong>Competências Profissionais e Práticas</strong></p>
+<p>Aplicar os princípios, conceitos e técnicas de modelação e análise de sistemas em Bioengenharia em contexto profissional.</p>
+<p> </p>
+
+## Programa
+<p><strong>Módulo de </strong><strong>Métodos Numéricos</strong></p>
+<p>1. Aritmética computacional. Representação em binário. Vírgula flutuante e erros de arredondamento.</p>
+<p>2. Sistemas de equações lineares. Eliminação de Gauss. Pivotagem. Determinante e inversa de uma matriz.</p>
+<p>3. Equações não lineares. Métodos: ponto fixo, bissecção, secante, Newton. Critérios de paragem. Convergência.</p>
+<p>4. Sistemas de equações não lineares. Método de Newton. Critérios de paragem. Convergência.</p>
+<p>5. Interpolação polinomial. Erros da aproximação. Diferenças divididas. Polinómio interpolador de Newton com diferenças divididas. Erro de truncatura.</p>
+<p>6. Integração numérica. Fórmulas simples: trapézio, Simpson e três oitavos. Erros de truncatura. Fórmulas compostas. Aplicação com intervalos de diferentes<br />amplitudes.</p>
+<p><strong>Módulo de </strong><strong>Métodos Estatísticos</strong></p>
+<p>7. Estatística descritiva. Escalas de medida. Medidas de<br />localização e dispersão. Métodos gráficos. Introdução ao SPSS.</p>
+<p>8. Probabilidades. Independência e probabilidade condicional. Teorema de Bayes.</p>
+<p>9. Variáveis aleatórias discretas e contínuas. Distribuição de probabilidades. Função acumulada. Valor esperado e variância de uma variável aleatória.</p>
+<p>10. Distribuições discretas: uniforme, binomial e de Poisson. Distribuições contínuas: uniforme, normal e exponencial.</p>
+<p>11. Distribuições amostrais. Teorema Limite Central. Intervalos de confiança para a média, diferença de médias, variância e razão de variâncias, proporção e<br />diferença de proporções.</p>
+<p>12. Testes de Hipóteses. Erros de Tipo I e de tipo II. Testes para a média, diferença de médias, variância e razão de variâncias, proporção e diferença de proporções. Função potência de um teste.</p>
+<p>13. Análise da Variância. Planeamento completamente casual. Planeamento factorial. Erros. </p>
+<p>14. Regressão e correlação. Regressão linear simples.  Regressão não linear. Correlação. Regressão linear  múltipla. Erros e medida da qualidade do ajuste.</p>
+<p> </p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Ensino baseado na apresentação dos conceitos teóricos, com resolução de exercícios e com o apoio de software (EXCEL, OCTAVE e SPSS).</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 horas
+- Frequência das aulas: 56.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação terá como componentes:</p>
+<ul>
+<li>Avaialçao Intercalar</li>
+<li>Exame: A realizar na Época Normal.</li>
+</ul>
+<p>Nota= 0.5xI+ 0.5xE</p>
+<p>Em que:</p>
+<ul>
+<li>E &#8211; Exame </li>
+<li>I - Avaliação intercalar</li>
+</ul>
+<p>A aprovação pressupõe que na avaliação intercalar e no exame seja obtida uma nota mínima de 7.5 valores. Os alunos que não obtenham aprovação na época normal, podem submeter-se ao exame de recurso, sendo que este é valorizado em 100%</p>
+<p>Nota= Exame de Recurso</p>
+
+## Obtenção de frequência
+<p>75% das aulas teórico-práticas e práticas<br />A frequência em anos anteriores não releva as faltas no corrente ano letivo.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Numeric and Statistical Methods
+
+## Curso responsável
+Bachelor in Bioengineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p>The course aims to contribute for the development of a general and integrated vision of Numerical and Statistical Methods in the Bioengineering professional context.<br /><br />To offer a vision ofthe Numerical and Statistical Methods in Bioengineering and its importance for the professional practice in Bioengineering;<br /> <br />To provide knowledge and comprehension of concepts, methods and aplications and topics in Numerical and Statistical Methods relevant for Bioengineering;<br /> <br />To support the development, in the context of Numerical and Statistical Methods, of the analytical, communication and learning skills required for the professional exercise;<br /> <br />To develop critical skilss, in particular, in data  collection, analysis and treatment.</p>
+
+## Resultados de aprendizagem e competências
+<p><strong>Knowledge and understanding</strong></p>
+<p>The principles, concepts and techniques associated with Numerical and Statistical Methods applied to the study of Bioengineering systems.</p>
+<p>The possibilities, theoretical and practical limits and compromises inherent in modelling Bioengineering systems.</p>
+<p>The possibilities, theoretical and practical limits and compromises inherent to collect and analyse data in Bioengineering systems.</p>
+<p><strong>Cognitive skills</strong></p>
+<p>Use of a wide range of techniques and computer based tools for modelling, predicting and evaluating the behaviour of systems.</p>
+<p>Develop and apply numerical, statistical and mathematical skills to describe and analyse the behaviour of Bioengineering systems.</p>
+<p>Compare different approaches to fulfilling the requirements of Bioengineering system.</p>
+<p>Interpret and critically analyse literature on Bioengineering systems.</p>
+<p>Appreciate economic, commercial, social and political issues which may influence the decision over systems in Bioengineering.</p>
+<p><strong> Key skills</strong></p>
+<p>Communicate effectively about Bioengineering systems.</p>
+<p>Improve own learning and performance.</p>
+<p><strong>Professional and practical skills</strong></p>
+<p>Apply the principles, concepts and techniques of modelling and analysis bioengineering systems in a<br />professional context.</p>
+
+## Programa
+<p> <strong>Numerical </strong><strong>Methods</strong></p>
+<p>1.Computational arithmetic. Binary representation. Floating point and rounding errors.</p>
+<p>2.System of linear equations. Gaussian elimination. Pivoting. Determinant and inversion of a matrix.</p>
+<p>3. Nonlinear equations. Methods: fixed point, bisection, secant and Newton. Stopping criteria. Convergence.</p>
+<p>4. System of non linear equations. Newton&#180;s method. Stopping criteria. Convergence.</p>
+<p>5. Polynomial interpolation. Approximations errors. Divided differences. Newton&#180;s divided diferences interpolating polynomials. Truncation errors.</p>
+<p>6. Numerical integration. Newton-Cotes formulas: trapezoidal, Simpson and 3/8. Truncation errors. Multiple segments rules. Intervals with unequal  segments.</p>
+<p><strong>Statistical </strong><strong>methods</strong></p>
+<p>7. Descriptive statistics. Scales. Location and dispersion measures. Graphical methods. Introduction to SPSS.</p>
+<p>8. Probability. Independence and conditional probability. Bayes theorem.</p>
+<p>9. Random variables: discrete and continuous. Probability distributions. Cumulative density functions. Expected value and variance of a random variable.</p>
+<p>10. Discrete distributions: uniform, binomial, and Poisson. Continuous distributions: uniform, normal, and exponential.</p>
+<p>11. Sampling distributions. Central Limit Theorem. Confidence intervals: mean, difference of means, variance, ratio of variances, proportion, difference of<br />proportions.</p>
+<p>12. Hypothesis testing. Type I and II Errors. Tests: mean, difference of means, variance, ratio of variances, proportion, difference of proportions.Power of a test.</p>
+<p>13. Analysis of Variance. Experimental design. Completely at random, factorial design. Analysis of errors.</p>
+<p>14. Regression and correlation. Simple linear regression. Non linear regression. Correlation.<br />Multiple linear regression. Analysis of errors.</p>
+<p> </p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Learning based on the presentation of the theoretic concepts and problem solving with EXCEL, OCTAVE and SPSS.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 hours
+- Frequência das aulas: 56.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Evaluation will have the following components:</p>
+<ul>
+<li>Inter Evaluation </li>
+<li>Exam: in the Normal exam period</li>
+</ul>
+<p><br />Classification= 0.5xI + 0.5xE<br /><br />where:<br /><br /></p>
+<ul>
+<li>E &#8211; Exam</li>
+<li>I - Inter evaluation</li>
+<li></li>
+</ul>
+<p>Approval requires that a minimal mark of 7.5 in intyer evaluation and in the exam. Students that do not obtain a pass mark, can applt for Resit Exam but, in this case, it&#180;s weight is 100%.<br /><br />Classfication= Resit Exam</p>
+
+## Obtenção de frequência
+<p>75% of the theoretical and practical lessons.<br />Past attendance of the course does not count for the current year.</p>
+

@@ -1,0 +1,119 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Analítica Empresarial
+
+## Curso responsável
+Mestrado em Engenharia e Gestão Industrial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+Atualmente as empresas têm investido em sistemas capazes de recolher dados que podem ser analisados e transformados em conhecimento relevante para a tomada de decisão. É neste contexto que se integra esta Unidade Curricular de Analítica Empresarial.<br /><br />Objectivos:<br /><br /><ul><br /><li>Dar a conhecer a importância das técnicas de análise de dados no apoio à tomada de decisão;</li><br /><li>Promover o desenvolvimento das competências dos estudantes para usar as técnicas de análise de dados na indústria e nos serviços;</li><br /><li>Promover a utilização de software de apoio ao desenvolvimento de projetos de análise de dados.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+No final da UC, os estudantes deverão ser capazes de:<br /><br /><ul><br /><li>Identificar problemas de apoio à tomada de decisão que podem ser solucionados com recurso às técnicas de análise de dados;</li><br /><li>Conhecer as várias fases do processo de análise de dados e extração de conhecimento;</li><br /><li>Conhecer as principais técnicas de análise de dados e conhecer as suas principais características;</li><br /><li>Usar os referidos métodos em problemas de apoio à decisão;</li><br /><li>Avaliar o resultado de um projeto de análise de dados;</li><br /><li>Utilizar software para desenvolver projetos de análise de dados.</li><br /></ul>
+
+## Pré-requisitos e co-requisitos
+Conhecimentos de estatística e conhecimento básico em bases de dados relacionais.
+
+## Programa
+Esta UC irá focar-se nos temas seguintes:<br /><ul><br /><li>Introdução à Analítica Empresarial (Data mining, the KDD process, aplicações de Data mining, Big data)</li><br /><li>Caracterização dos dados e pré-processamento (Tipos de dados, limpeza dos dados, normalização dos dados e redução da dimensionalidade)</li><br /><li>Visualização como ferramenta de compreensão dos dados</li><br /><li>Data mining não supervisionado (clustering, regras de associação)</li><br /><li>Métodos supervisionados de data mining (classificação, previsão e métricas de avaliação de desempenho)</li><br /><li>Text mining (representação dos dados e exploração)</li><br /></ul><br /><p> </p>
+
+## Métodos de ensino e atividades de aprendizagem
+Esta UC decorrerá com:<br /><br /><ul><br /><li>Aulas teóricas para exposição dos conceitos referidos;</li><br /><li>Sessões laboratoriais para aplicação prática dos conceitos aprendidos.</li><br /></ul>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 55.0 %
+- Trabalho prático ou de projeto: 35.0 %
+- Participação presencial: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 63.0 horas
+- Frequência das aulas: 49.0 horas
+- Elaboração de projeto: 50.0 horas
+
+## Fórmula de cálculo da classificação final
+Nota Final = 0.4 * P + 0.55 * E + 0.05 * PP<br /><br />P: Projeto<br />E: Exame<br />PP: Participação Presencial<br /><br />Para os alunos cuja classificação no projeto exceda em mais de 4 valores a classificação do exame, será atribuída para o cálculo da classificação final uma classificação ao projeto de P = E + 4.<br />Alunos que obtenham menos de 8 valores no exame não obterão aprovação independentemente da classificação obtida no projeto.
+
+## Obtenção de frequência
+Considera-se que um estudante cumpre a assiduidade à unidade curricular se não exceder o número limite de faltas correspondentes a 25% das aulas nas tipologias teórica e teórico-prática, de acordo com o regulamento específico de avaliação de discentes da FEUP, ponto 6.3.
+
+## Melhoria de classificação
+Os estudantes podem repetir o exame na época de recurso. Os estudantes que pretendam obter melhoria de classificação poderão também fazê-lo no ano letivo seguinte, repetindo apenas o exame. As notas dos trabalhos de grupo serão consideradas no caso da repetição de exame no mesmo ano letivo ou no ano letivo seguinte.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Business Analytics
+
+## Curso responsável
+Master in Industrial Engineering and Management
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Currently companies have invested in systems able to collect data that can be analyzed and transformed into useful knowledge to support decision making. It is in this context that arises the Business Analytics course.<br /><br />Objectives:</p>
+<ul>
+<li>Make the students aware of the importance of data analytics techniques to support the decision making process;</li>
+<li><span lang="pt-PT">Promote the development of student's skills to correctly use data analytics techniques in the industry and services sectors;</span></li>
+<li><span lang="pt-PT">Promote the use of software to support the development of data analytics projects.</span></li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<ul><br /><li>At the end of the course, students will be able to:</li><br /><li>Identify decision support problems that can be solved by data analytics techniques;</li><br /><li>Understand the stages of the process of data analytics and knowledge extraction;</li><br /><li>Know the main data analytics techniques and understand their main characteristics;</li><br /><li>Apply these methods to decision support problems;</li><br /><li>Evaluate the result of a data analtycs project;</li><br /><li>Know a software to support the development of data analytics projects.</li><br /></ul>
+
+## Pré-requisitos e co-requisitos
+Knowledge of statistics and basic knowledge on relational databases.
+
+## Programa
+This course will cover the following topics:<br /><ul><br /><li>Introduction to Business Analytics (Data mining, the KDD process, Data mining applications, Big data)</li><br /><li>Data characterization and data preprocessing (Types of data, data cleaning, data normalization and data reduction)</li><br /><li>Visualization as a tool for data understanding</li><br /><li>Non-supervised data mining (clustering analysis, association rules)</li><br /><li>Supervised data mining (classification, prediction, evaluation methods)</li><br /><li>Text mining (data representation and analysis)</li><br /></ul><br /><p> </p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>This course will be composed by:</p>
+<ul>
+<li>Theoretical presentation and discussion of the concepts</li>
+<li>Laboratory sessions for practical application of the concepts learned</li>
+</ul>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 55.0 %
+- Trabalho prático ou de projeto: 35.0 %
+- Participação presencial: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 63.0 hours
+- Frequência das aulas: 49.0 hours
+- Elaboração de projeto: 50.0 hours
+
+## Fórmula de cálculo da classificação final
+Final Grade = 0.45 * P + 0.55 * E + 0.05 * PP<br /><br />P: Project Grade<br />E: Exam Grade<br />PP: Participation in class<br /><br />For students whose project grade exceeds the exam grade by more than 4, the final grade will be given a project grade of P = E + 4.<br />Students who obtain less than 8 points in the exam will not be approved regardless of the grade obtained in the project.
+
+## Obtenção de frequência
+A student is considered to have attended the course if they do not exceed the number of absences corresponding to 25% of the theoretical and theoretical-practical classes, in accordance with FEUP's specific student assessment regulations, point 6.3.
+
+## Melhoria de classificação
+<p>Students may repeat the exam in the appeal period. Students may also improve their classification in the following academic year by repeating the exam. <br /> The classification of the project will be considered in the case of repeating the exam to improve the classification in the appeal period, or in the following academic year.</p>
+

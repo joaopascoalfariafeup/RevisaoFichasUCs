@@ -1,0 +1,108 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas Computacionais
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<ul><br /><li>Expor a diversidade e a composição de sistemas computacionais, desde plataformas simples para aplicações embarcadas até plataformas de alto desempenho com processadores com múltiplos núcleos.</li><br /><li>Apresentar o sistema computacional como um agregado de recursos que têm que ser geridos de forma eficiente para a obtenção de um bom desempenho.</li><br /><li>Transmitir a noção de sistema operativo como camada de mediação entre os recursos físicos do sistema e o respetivo utilizador.</li><br /><li>Apresentar a composição de um sistema operativo, desde o seu núcleo aos seus vários gestores, de memória, de entradas/saídas, de processos, etc, ensinar a utilizá-lo de forma eficaz e a medir o seu desempenho recorrendo a testes padrão (benchmarks).</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<ol><br /><li>Ser capaz de identificar diferentes tipos de sistemas computacionais e explicar as principais características diferenciadoras de cada tipo.</li><br /><li>Conhecer a constituição de sistemas operativos de uso geral.</li><br /><li>Ser capaz de utilizar a API dum sistema operativo.</li><br /><li>Ser capaz de utilizar as primitivas de sincronização e comunicação para execução de programas concorrentes.</li><br /><li>Ser capaz de construir &#8220;device drivers&#8221; para dispositivos de E/S relativamente simples.</li><br /><li>Explicar os mecanismos disponíveis num SO para assegurar proteção e segurança.</li><br /><li>Explicar como a configuração dos componentes dum sistema operativo pode afetar o desempenho de aplicações.</li><br /><li>Ser capaz de avaliar o desempenho dos diferentes componentes dum sistema operativo e conhecer os testes padrão mais comuns para medir o respetivo desempenho.</li><br /></ol>
+
+## Pré-requisitos e co-requisitos
+Programação
+
+## Programa
+<ol><br /><li>Organização dum sistema computacional: Sistemas embarcados, sistemas de uso geral, processadores multi-núcleo e multiprocessadores, servidores e sistemas distribuídos.</li><br /><li>Apresentação dos Sistemas Operativos (SO) como gestores dos recursos dum sistema computacional. Arquitetura do SO e núcleo (&quot;kernel&quot;) do SO. Núcleos monolíticos e micro-núcleos. SOs para fins específicos (ex. RTOS).</li><br /><li>Gestão de processos. Multiprogramação e escalonamento. Comunicação e sincronização entre processos. API para gestão de processos.</li><br /><li>Threads. Concorrência e primitivas de sincronização. API POSIX para threads.</li><br /><li>Gestão de memória. Memória física e virtual. Paginação e segmentação.</li><br /><li>Gestão de entradas/saídas. Dispositivos, controladores, interrupções.&quot;Device drivers&quot;.</li><br /><li>Sistema de ficheiros. Abstrações e sua implementação. API para acesso a ficheiros.</li><br /><li>Segurança em sistemas operativos. Autenticação e autorização. Mecanismos de proteção e de confinamento.</li><br /><li>Avaliação de desempenho e &#8220;benchmarking&#8221;.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>As aulas teóricas são essencialmente expositivas, recorrendo-se a exemplos que ajudem à compreensão dos tópicos apresentados e fomentando alguma interação.</li><br /><li>As aulas laboratoriais são constituídas por três trabalhos realizados em grupo mas avaliados individualmente, nos quais se usam diferentes plataformas de hardware, e.g., Arduino, Raspberry Pi, computador de uso geral, para exercitar os conceitos lecionados nas aulas teóricas.</li><br /></ul>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho laboratorial: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 74.0 horas
+- Frequência das aulas: 56.0 horas
+- Trabalho laboratorial: 32.0 horas
+
+## Fórmula de cálculo da classificação final
+MT1 - Mini-teste abordando o primeiro trabalho de laboratório<br />MT2 - Mini-teste abordando o segundo trabalho de laboratório<br />MT3 - Mini-teste abordando o terceiro trabalho de laboratório<br />NL - Nota de laboratório<br />NE - Nota do exame final<br />NF - Nota final<br /><br />NL = (MT1 + MT2 + MT3) /3 <br /><br />NF = 50% NL + 50% NE<br /><br />A aprovação está condicionada a uma nota mínima de 7 valores nas componentes teórica e de laboratório
+
+## Obtenção de frequência
+Ter frequentado as aulas laboratoriais e obtido pelo menos 7 valores na avalição da componente prática.
+
+## Melhoria de classificação
+O exame de recurso apenas permitirá substituir, se melhor, a nota da componente teórica. A componente laboratorial não poderá ser melhorada em recurso.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computing Systems
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<ul><br /><li>Expose the diversity of computing systems, from simple patforms for embedded applications to high-performance platforms with multi-core processors.</li><br /><li>Present a computing system as a set of resources that must be managed in na efficient way to achieve a good performance.</li><br /><li>Introduce the notion of operating system as a layer mediating the physical resources of a system and its users.</li><br /><li>Present the different subsystems of an operating system, including the different managers of memory, I/O and processes, show how it can be used in an efficient way and how to measure its performance using benchmarks.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<ol><br /><li>Be able to identify different kinds of computational systems and summarize the main differences among them.</li><br /><li>Be able to describe the main components of a general-purpose operating system, as well as the main algorithms and data structures used by these components.</li><br /><li>Be able to use the operating system API.</li><br /><li>Be able to use communication and synchronization primitives in concurrent programs to prevent race conditions.</li><br /><li>Be able to develop a device driver for a simple input/output device.</li><br /><li>Be able to explain the mechanisms available in an OS to ensure protection and security.</li><br /><li>Be able to explain how the configuration of a component of an operating system may affect the performance of applications.</li><br /><li>Be able to use evaluate the performance of the different components of an operating system and list the most common benchmarks used to measure their performance.</li><br /></ol>
+
+## Pré-requisitos e co-requisitos
+Programming
+
+## Programa
+<ol><br /><li>Organization of a computing system: embedded systems, general purpose systems, multi-core processors and multi-processors, servers and distributed systems.</li><br /><li>Role of an operating system (OS) as the manager of the resources of a computing system. Structuring of an OS and its kernel. Monolithic and micro-kernel based OSs. Special purpose OS (e.g. RTOS).</li><br /><li>Process management. Multiprogramming and scheduling. Inter-process communication. Process management API.</li><br /><li>Threads. Concurrency and synchronization primitives. POSIX API for threads.</li><br /><li>Memory management. Pysical and virtual memory. Segmentation and paging.</li><br /><li>Device management. Devices, controllers and interrupts. Device drivers.</li><br /><li>File systems. Abstractions and their implementation. File system API.</li><br /><li>Security and protection. Authentication and authorization. Protection and confinement mechanisms.</li><br /><li>Performance evaluation and &#8220;benchmarking&#8221;.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>The lectures are essentially expository. Whenever appropriate, examples are used to help the understanding of the material being taught, promoting interaciton with the students.</li><br /><li>The lab classes consist of three assignments carried out in group but assessed individually, in which different hardware platforms are used, e.g., Arduino, Raspberry Pi, general purpose computer, to exercize the concepts taught in the lectures.</li><br /></ul>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho laboratorial: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 74.0 hours
+- Frequência das aulas: 56.0 hours
+- Trabalho laboratorial: 32.0 hours
+
+## Fórmula de cálculo da classificação final
+MT1 - Mini-test covering the first lab assignment<br />MT2 - Mini-test covering the second lab assignment<br />MT3 - Mini-test covering the third lab assignment<br />NL - Grade of the laboratory component<br />NE - Grade of the theory component<br />NF - Final grade<br /><br />NL = (MT1 + MT2 + MT3) /3<br /><br />NF = 50% NL + 50% NE<br /><br />Passing is subject to a minimum grade of 7 over 20 in the laboratory (NL) and theory (NE) components
+
+## Obtenção de frequência
+Having attended the laboratory classes and obtained a minimum grade of 7 over 20 in the laboratorial component.
+
+## Melhoria de classificação
+The recourse exam allows replacing, if better, the grade of the theory component, only. The laboratory component cannot be repeated in the recourse.
+

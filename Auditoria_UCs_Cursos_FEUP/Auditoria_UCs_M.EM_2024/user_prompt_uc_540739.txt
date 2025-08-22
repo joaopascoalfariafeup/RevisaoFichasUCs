@@ -1,0 +1,125 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Visão e Sistemas Inteligentes
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+Os objetivos desta UC são dotar os estudantes da capacidade de implementação de sistemas de visão 2D/3D incluindo, software e hardware, bem como a utilização de técnicas de IA para o processamento automático de imagens.
+
+## Resultados de aprendizagem e competências
+<p>No final desta UC espera-se que o estudante seja capaz de:</p>
+<ul>
+<li>Reconhecer e descrever os fundamentos teóricos e os aspetos práticos da Visão por Computador</li>
+<li>Relacionar aspetos de Visão por Computador com aspetos da Visão Humana</li>
+<li>Descrever os fundamentos da formação de imagem (2D/3D)</li>
+<li>Estar familiarizado com as principais técnicas de processamento e análise de imagem</li>
+<li>Estar familiarizado com sistemas inteligentes aplicados à análise de imagem</li>
+<li>Ser capaz de implementar aplicações de Visão por Computador</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Álgebra Linear e Geometria Analítica<br />Cálculo vetorial e matricial<br />Estatística<br />Programação de computadores<br /><br />
+
+## Programa
+<strong>Formação e Aquisição da Imagem</strong><br />Ótica e formação da imagem. O Sistema de Perceção Visual Humano. Sistemas de aquisição digitais de imagem: sensores, amostragem, quantização e ruído; interfaces. Calibração de sistemas de imagem. Luz e sistemas de cor.<br /> <br /><strong>Processamento de Imagem</strong><br />Filtros de imagem. Remoção de ruido. Equalização de iluminação. Operações morfológicas. Remoção de erros geométricos.<br /> <br /><strong>Análise de Imagem</strong><br />Deteção de orlas e contornos. Transformada de Hough. Segmentação da imagem. Extração de características.<br /> <br /><strong>Visão 3D e Movimento</strong><br />Geometria epipolar. Emparelhamento e alinhamento de características. Fusão e correlação de imagem. Fluxo ótico.<br /> <br /><strong>Aprendizagem Automática</strong><br />Seleção de caraterísticas. Classificadores e reconhecimento de objetos e cenas. Métricas de classificação.<br /> <br /><strong>Aplicações de Sistemas de Imagem</strong><br />- Exemplos, bibliotecas e softwares<br />- Reconhecimento de objetos<br />- Reconstrução 3D de objetos e cenas<br />- Análise de movimento/deformação<br />- Inspeção Industrial<br />- Leitura e Identificação de Etiquetas
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas TP de exposição dos conceitos serão complementadas por sessões práticas em laboratório para a experimentação das mesmas em situação real.  <br />A avaliação será feita com base num exame escrito individual (50%), um trabalho prático (10%), e um projeto (40%).<br />O projeto, realizado em grupo, constará da resolução de um desafio de processamento e análise de imagens selecionadas, entrega de um relatório, e a sua apresentação e discussão.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 40.0 %
+- Exame: 50.0 %
+- Trabalho laboratorial: 10.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 20.0 horas
+- Elaboração de relatório/dissertação/tese: 12.5 horas
+- Estudo autónomo: 50.0 horas
+- Frequência das aulas: 39.0 horas
+
+## Fórmula de cálculo da classificação final
+A classificação final (CF) será calculada considerando a nota do exame individual (50%), trabalho de laboratório (10%) e um projeto em grupo (40%).<br />CF= 0.5*Exame + 0.1*Lab + 0.4*Projeto
+
+## Obtenção de frequência
+Não exceder o limite máximo de 3 faltas nas aulas laboratoriais ao longo de todo o semestre
+
+## Melhoria de classificação
+Os alunos poderão efetuar melhoria da classificação final submetendo-se um exame de recurso que substituirá a respetiva componente na classificação final.<br /><br />
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Vision and Intelligent Systems
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+The objectives of this UC are to provide students with the ability to implement 2D/3D vision systems, including software and hardware, as well as the use of AI techniques for automatic image processing.
+
+## Resultados de aprendizagem e competências
+At the end of this UC, the student is expected to be able to:<br /><br /><div><br /><ul><br /><li>Recognize and describe the theoretical foundations and practical aspects of Computer Vision.</li><br /><li>Relate the aspects of Computer Vision to the Eyes of Human Vision.</li><br /><li>Describe the fundamentals of image formation (2D / 3D).</li><br /><li>Be familiar with key techniques of image processing and analysis.</li><br /><li>Be familiar with systems sensitive to image analysis.</li><br /><li>Implement the Computer Vision applications</li><br /></ul><br /></div>
+
+## Pré-requisitos e co-requisitos
+Linear algebra and analytic geometry<br />Vector and Matrix Calculus<br />Statistic<br />Computer programming<br /><br />
+
+## Programa
+<p><strong>FORMATION AND ACQUISITION OF THE IMAGE<br /></strong>Optics and image formation. The Human Visual Perception System. Digital image acquisition systems: sensors, sampling, quantization and noise; interfaces. Calibration of imaging systems. Light and color systems.</p>
+<p><strong>IMAGE PROCESSING<br /></strong>Image filters. Noise removal. Equalization of lighting. Morphological operations. Removal of geometric errors.</p>
+<p><strong>IMAGE ANALYSIS<br /></strong>Detection of edges and contours. Hough transformation. Image targeting. Extraction of characteristics.</p>
+<p><strong>3D VISION AND MOVEMENT<br /></strong>Epipolar geometry. Pairing and aligning features. Image fusion and correlation. Optical flow.</p>
+<p><strong>MACHINE LEARNING<br /></strong>Selection of features. Classifiers and object and scene recognition. Classification metrics.</p>
+<p><strong>APPLICATIONS AND SYSTEMS<br /></strong>Examples, libraries and software<br />Object recognition<br />3D reconstruction of objects and scenes<br />Motion / deformation analysis<br />Industrial Inspection<br />Reading and Identification of Labels</p>
+
+## Métodos de ensino e atividades de aprendizagem
+The concepts and algorithmes will be exposed at TP classes, complemented by practical sessions in the laboratory for hands-on.<br /><br />The assessment will be based on an individual written exam (50%), a lab work (10%), and a project work (40%). The project, will be carried out in group, and consists of solving an image processing and analysis challenge, a report and a presentation.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 40.0 %
+- Exame: 50.0 %
+- Trabalho laboratorial: 10.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 20.0 hours
+- Elaboração de relatório/dissertação/tese: 12.5 hours
+- Estudo autónomo: 50.0 hours
+- Frequência das aulas: 39.0 hours
+
+## Fórmula de cálculo da classificação final
+The final grade will be calculated considering the grade of the individual exam (50%), lab work (10%), and a group project (40%).<br />CF= 0.5*Exam + 0.1*Lab + 0.4*Project
+
+## Obtenção de frequência
+Do not exceed the maximum limit of 3 absences in laboratory classes throughout the semester<br /><br />
+
+## Melhoria de classificação
+Students will be able to improve their final classification by submitting a recourse exam that will replace the respective value in the final classification.<br /><br />
+

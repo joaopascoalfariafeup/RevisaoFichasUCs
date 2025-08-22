@@ -1,0 +1,104 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Probabilidades e Estatística B
+
+## Curso responsável
+Licenciatura em Inteligência Artificial e Ciência de Dados
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<div>Aquisição dos conceitos fundamentais de Probabilidades e Estatística e a sua aplicação a situações concretas.<br /><br /></div><br /><div>Será dada particular atenção à apresentação e compreensão dos conceitos, mantendo o tratamento matemático num nível intermédio.</div>
+
+## Resultados de aprendizagem e competências
+Pretende-se que no final da unidade curricular, o estudante:<br /><br />1. compreenda os conceitos envolvidos num estudo estatístico;  esteja consciente das inúmeras dificuldades que surgem em cada estudo particular; esteja sensibilizado para analisar com sensatez e espítrito crítico as conclusões de um estudo de natureza estatística;<br /><br /><br />2.saiba identificar e aplicar técnicas de Estatística Descritiva adequadas, para organizar e sumarizar um conjunto de dados bem como interpretá-los;<br /><br />3. domine os conceitos fundamentais da teoria das probabilidades e saiba calcular probabilidades associadas aos fenómenos em estudo;<br /><br /><br />4. seja capaz de caracterizar variáveis aleatórias  aleatórios e identificar as respectivas distribuições de probabilidade; <br /><br />5. saiba aplicar técnicas adequadas de estimação pontual e intervalar para inferir sobre os parâmetros/características de uma população (a partir de uma amostra) e interpretar os resultados obtidos.
+
+## Programa
+<div style=&quot;text-align: justify;&quot;> </div><br /><div>1. Introdução aos objetivos e metodologia da Estatística<br />(Variáveis estatísticas; População e amostra; Técnicas de amostragem; Estudos experimentais e observacionais);<br /><br /></div><br /><div>2. Estatística Descritiva e análise exploratória dos dados: definição de estatística, conceitos fundamentais, tipos de observações e escalas de medida, técnicas de sumariação dos dados (tabelas, gráficos, medidas de localização e dispersão), definição de outlier e conceito de correlação. <br /><br /></div><br /><div>3. Teoria das Probabilidades: conceitos fundamentais, interpretações do conceito de probabilidade, independência de acontecimentos e probabilidade condicionada, teoremas de Bayes e da probabilidade total.<br /><br /></div><br /><div>4.Variáveis aleatórias: caracterização, modelos discretos e contínuos, variáveis aleatórias bidimensionais, função de uma variável aleatória; teorema do Limite Central e suas aplicações.  Distribuições por amostragem.</div><br /><div><br /><br />6.Inferência Estatística: propriedades básicas dos estimadores, intervalos de confiança.<br /><br /></div>
+
+## Métodos de ensino e atividades de aprendizagem
+<div>Aulas teóricas:  exposição e discussão dos conceitos teóricos do programa e previamente disponibilizados em formato pdf na página da disciplina.</div><br /><div>Aulas teóricas práticas:  resolução, pelos alunos, de exercícios previamente propostos em fichas de exercícios e referentes a cada uma das secções programáticas.<br /><br />Esclarecimento de dúvidas nos conteúdos teóricos e/ou na resolução de exercícios.<br /><br /><br /></div><br /><div>Todo o material de apoio é disponibilizado na página da uc no MoodleUP.</div>
+
+## Tipo de avaliação
+Avaliação por exame final
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 114.0 horas
+- Frequência das aulas: 48.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Em ambas as épocas de avaliação a classificação será a obtida num exame com a cotação de 20 valores, com a exceção abaixo descrita. <br /><br /><strong>Exceção aplicável a ambas as épocas: </strong>Os estudantes com classificação superior ou igual a 17,5<span class="Apple-converted-space">  </span>valores poderão ter que realizar uma prova escrita ou oral para obterem uma classificação superior ou igual a 18 valores. Caso contrário ficarão com a classificação de 17 valores.</p>
+
+## Obtenção de frequência
+Sem requisitos.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Probability and Statistics B
+
+## Curso responsável
+Bachelor in Artificial Intelligence and Data Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+An Introductory course in Probability and Statistics: a<em>cquisition of basic concepts of Probability and Statistics and their application to concrete situation</em><br />Particular attention is paid to the presentation and understanding of the concepts, keeping the mathematical treatment on an medium level.
+
+## Resultados de aprendizagem e competências
+<p><em>On completing this curricular unit it is expected that the student:<br /><br /><br /></em></p>
+<ol>
+<li><em>can understand the concepts involved in a statistical study and be aware of the various problems that arise in each particular study.</em></li>
+<li><em>can identify and apply appropriate techniques of descritive statistics to organize and summarize data and interpret them;</em></li>
+<li><em>dominates the probability calculus and knows to calculate probabilities associated with the phenomenon under study;</em></li>
+<li><em>be able to characterize random variables/random vectors and identify the respective probability distributions;</em></li>
+<li><em> be able to make inferences on population parameters applying techniques of point and interval estimation.</em></li>
+</ol>
+
+## Programa
+<p><em><br /><br /></em></p>
+<p><em><br />1. Basic concepts in Statistics: Populations and samples; the role of randomization; observational and experiment studies; statistical variables.<br /><br /><br />2. Descriptive Statistics: fundamental concepts and tecniques for summarizing data.<br /><br />3. Probability Theory: fundamental concepts, probability interpretations, independence of events and conditional probability, Bayes&#8217; and total probability theorems.&#8232;&#8232;</em></p>
+<p><em>2. Random Variables: characterization, discrete and continuous models; <em>function of a random variable, moments; Discrete distributions: </em> the uniform, binomial and poisson distributions; the uniform, exponentisal, normal distributions, student's t distribution and  chi-squared distribution.<em> Chebyshev's inequality, central limit theorem.</em></em></p>
+<p><em>4. Statistical Inference: point estimation, estimators properties, maximum likelihood estimators, interval estimation.&#8232;<br /><br /><br /></em></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<div style=&quot;text-align: justify;&quot;> <br /><div>Theoretical lectures with exposition of the course contents.<br /><br /><br /></div><br /><div>Practical classes for solving exercises related to each theorietical topic. Support in clarifying theoretical and/or practical problems.</div><br /></div>
+
+## Tipo de avaliação
+Evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 114.0 hours
+- Frequência das aulas: 48.0 hours
+
+## Fórmula de cálculo da classificação final
+<p class="p1"><span class="s1"><em>In both evaluation periods, the classification will be that obtained in an exam with a score of 20 points, with the exception descreibed below.</em></span></p>
+<div> </div>
+<br />Students with a score greater than or equal to 17.5 values in the final exam must make a complementary written or oral exam in order to obtain a score greater than or equal to 18 values.
+
+## Obtenção de frequência
+No requirements.
+

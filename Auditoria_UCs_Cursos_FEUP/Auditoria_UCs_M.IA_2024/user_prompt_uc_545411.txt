@@ -1,0 +1,100 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Modelação e Simulação
+
+## Curso responsável
+Mestrado em Inteligência Artificial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+A informação constante nesta página é provisória e será atualizada no início do ano letivo.
+
+## Resultados de aprendizagem e competências
+Os objetivos da unidade curricular são: <br /> 1. Apresentar os conceitos básicos de modelação e simulação e as suas áreas de aplicação;<br /> 2. Apresentar as principais fases do ciclo de vida de um projeto de simulação;<br /> 3. Apresentar os principais tipos de modelos e a sua adequação ao tratamento de diferentes problemas;<br /> 4. Apresentar os principais aspetos arquiteturais das ferramentas de modelação e simulação; 5. Introduzir ferramentas de modelação e simulação.<br /> Após concluir a UC o estudante deverá ser capaz de:<br /> 1. Identificar problemas, construir modelos e desenvolver projetos de simulação;<br /> 2. Analisar e aplicar resultados de simulação;<br /> 3. Incluir técnicas de simulação em diferentes áreas de engenharia e investigação;<br /> 4. Demonstrar entendimento das principais áreas de interesse e atuais desafios na área de modelação e simulação;<br /> 5. Utilizar ferramentas de modelação e simulação;<br /> 6. Projetar e implementar ferramentas e ambientes de simulação para fins específicos ou gerais.
+
+## Programa
+1. Revisão e apresentação de conceitos:<br /> a. Simulação como metodologia de engenharia;<br /> b. Modelação (realismo, abstração) e tipos de modelos (normativos, comportamentais, &#8230;);<br /> c. Metáforas de modelação e técnicas de simulação;<br /> d. Preparação e tratamento de dados;<br /> e. Modelação de sistemas complexos e processos estocásticos;<br /> 2. Projetos de simulação:<br /> a. Técnicas básicas de simulação: simulação contínua, discreta e probabilística;<br /> b. O ciclo de vida da simulação: modelação, recolha e preparação de dados, projetos de cenários, teste, calibração e validação de modelos, análise de resultados e implementação;<br /> c. Linguagens e ambientes de simulação;<br /> 3. Tópicos avançados em modelação e simulação:<br /> a. Simulação orientada a objetos;<br /> b. Simulação distribuída;<br /> c. Modelação e simulação interativa visual;<br /> d. Simulação inteligente;<br /> e. Modelação e Simulação baseada em agentes;<br /> f. Ambientes de simulação e simulação de ambientes;<br /> 4. Aplicações avançadas de simulação;<br /> 5. Projeto.
+
+## Métodos de ensino e atividades de aprendizagem
+A metodologia de ensino incluirá:<br /> - Aulas teóricas, para apresentação e discussão de conceitos;<br /> - Aulas práticas em regime tutorial, para realização de projeto;<br /> - Realização de projeto de simulação;<br /> - Escrita de artigo;<br /> - Apresentação oral dos resultados do projeto
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 10.0 %
+- Apresentação/discussão de um trabalho científico: 10.0 %
+- Trabalho escrito: 20.0 %
+- Trabalho prático ou de projeto: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho escrito: 60.0 horas
+
+## Fórmula de cálculo da classificação final
+Avaliação final: AD = 0.1*PE + 0.6*P + 0.2*R + 0.1*D
+
+## Obtenção de frequência
+A obtenção de frequência implica nota &gt;=8,0 em todas as componentes constituintes da avaliação distribuída (AD).
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Modelling and Simulation
+
+## Curso responsável
+Master in Artificial Intelligence
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+The information on this page is temporary and will be updated at the beginning of the academic year.
+
+## Resultados de aprendizagem e competências
+The goals of this course unit are:<br /> 1. to present the basic concepts of modelling and simulation and their areas of application;<br /> 2. to present the different phases of the life cycle of a simulation project;<br /> 3. to present the main types of models and their adequacy to the treatment of different problems;<br /> 4. to present the main architectural aspects of modelling and simulation tools;<br /> 5. to introduce modelling and simulation tools.<br /> After the successful completion of this course, students should be capable of:<br /> 1. Identifying problems, developing models and simulation projects;<br /> 2. Analysing and applying simulation results;<br /> 3. Including simulation techniques in the scientific method of different areas of research;<br /> 4. Showing their knowledge of the main areas of interest and current challenges in the area of modelling and simulation;<br /> 5. Using modelling and simulation tools;<br /> 6. Designing and implementing tools and simulation environments for special or general purposes.
+
+## Programa
+1. Review and presentation of concepts:<br /> a. Simulation as an engineering methodology;<br /> b. Modelling (realism, abstraction) and types of models (normative, behavioural&#8230;.);<br /> c. Modelling metaphors and simulation techniques;<br /> d. Data preparation and treatment;<br /> e. Modelling of complex systems and stochastic processes;<br /> 2. Simulation projects:<br /> a. Basic techniques of simulation: continuous, discrete and probabilistic simulation;<br /> b. Simulation life cycle: data modelling, collection and preparation; test, calibration and validation of models, results analysis and implementation;<br /> c. Languages and environments of simulation.<br /> 3. Advanced topics in modelling and simulation:<br /> a. Object-oriented simulation;<br /> b. Distributed simulation;<br /> c. Visual interactive modelling and simulation;<br /> d. Intelligent simulation;<br /> e. Agent-based modelling and simulation;<br /> f. Simulation environments and simulation of environments;<br /> 4. Advanced applications of simulation;<br /> 5. Project.
+
+## Métodos de ensino e atividades de aprendizagem
+Teaching methodology will include:<br /> - Theory classes, to present and to discuss conceptual aspects;<br /> - Practical tutorial-based classes, to develop a simulation project;<br /> - Development of a simulation project;<br /> - Paper writing-up;<br /> - Oral presentation of project results.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 10.0 %
+- Apresentação/discussão de um trabalho científico: 10.0 %
+- Trabalho escrito: 20.0 %
+- Trabalho prático ou de projeto: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho escrito: 60.0 hours
+
+## Fórmula de cálculo da classificação final
+Final mark: CA = 0.1*SP + 0.6*P + 0.2*R + 0.1*D
+
+## Obtenção de frequência
+To be admitted in the assessment process, students have to reach markings &gt;=8.0 in the continuous assessment (CA) components.
+

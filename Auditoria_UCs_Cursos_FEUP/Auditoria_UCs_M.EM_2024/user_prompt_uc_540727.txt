@@ -1,0 +1,116 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Placas e Cascas
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Aprendizagem de teorias e métodos de solução necessários à análise de problemas de engenharia nos quais componentes do tipo placa ou do tipo casca surjam como elementos fundamentais. Desenvolvimento das capacidades de análise, síntese e crítica através da realização de trabalhos com uso de programação simbólica no Maple ou no MATLAB*, que visam o estudo de placas e cascas. Espera-se que, com o conhecimento adquirido, os\as estudantes sejam capazes de: interpretar literatura publicada sobre o assunto; obter equações fundamentais para alguns problemas envolvendo placas ou cascas; obter soluções analíticas para alguns problemas de placas e cascas; ter uma noção das limitações das teorias utilizadas; ter facilidade em compreender formulações utilizadas para implementar elementos finitos do tipo placa ou casca em códigos comerciais.</p>
+<p>* estudantes que prefiram recorrer a outro software de manipulação simbólica/matemática podem fazê-lo.</p>
+
+## Resultados de aprendizagem e competências
+<p>Visão global das várias teorias disponíveis para análise de placas e cascas. Capacidade para interpretar problemas que envolvam placas e cascas, e para obter soluções adequadas para os mesmos. Desenvolvimento de capacidades de utilização de computação simbólica (Maple ou semelhante). Compreensão dos conceitos fundamentais utilizados em "packages" comerciais para análise por elementos finitos de placas e cascas.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Conhecimentos de Mecânica dos Sólidos, de Análise Matemática e de Álgebra.</p>
+
+## Programa
+<p>Revisão de conceitos fundamentais da Mecânica dos Meios Contínuos. Teoria clássica de flexão de placas. Placas em materiais compósitos. Placas rectangulares e circulares. Teoria de Reissner-Mindlin. Métodos de solução incluindo desenvolvimento em séries, método de Ritz, método de Galerkin, e métodos numéricos. Deformações de membrana em placas e introdução à encurvadura. Introdução à teoria de superfícies. Introdução à teoria geral de cascas; deformações e esforços em cascas. Teoria de membrana de cascas de revolução. Teoria de flexão de cascas cilíndricas.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Exposição, discussão de casos e resolução de alguns problemas elementares no decurso das aulas, com participação das\dos estudantes. Faz-se uso de projector, do quadro e de computadores. São realizados trabalhos práticos que exigem o uso de computador e a programação em Maple (ou semelhante); estes trabalhos são apresentados pelos\as estudantes sobre a forma escrita e oral. As\os estudantes devem também resolver alguns exercícios aplicando métodos analíticos, sem recurso ao computador.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 65.0 %
+- Trabalho escrito: 35.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 53.0 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho escrito: 70.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Se o\a estudante tiver obtido uma classificação igual ou superior a 9 (8.5) valores tanto nos trabalhos como no exame, então a classificação final será igual à média ponderada das classificações do(s) trabalho(s) realizado(s) ao longo do semestre (35%) e da classificação obtida no exame (65%).<br /><br />Se a classificação mínima de 9 (8.5) valores não for atingida nalguma das vertentes da avaliação, então a o\a estudante terá uma classificação final inferior ou igual a nove (9) valores.<br /><br /></p>
+<p>Para obter aprovação, é necessário ter 10 (9.5) ou mais valores de média.<br /><br />Classificações superiores a 18 valores requerem um exame oral.</p>
+
+## Obtenção de frequência
+Inscrição e número de faltas não superior ao máximo permitido pelas normas em vigor na FEUP. Participação activa nas aulas práticas.
+
+## Melhoria de classificação
+<p>A melhoria da classificação obtida no exame da época normal pode ser feita através da realização do exame de recurso.</p>
+<p>O trabalho laboratorial prático, do tipo analítico e computacional, pressupõe a realização efectiva de trabalho pelo\a estudante DURANTE as aulas práticas, com o acompanhamento e supervisão do docente. Não está prevista a entrega de um segundo trabalho, como forma de melhorar a classificação final.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Plates and Shells
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>This course addresses theories and methods that are necessary to understand engineering problems related with plates and shells. It is also intended to develop students&#8217; skills (analysis, summary and critical observation) through assignments using Maple or MATLAB* symbolic programming to study plates and shells.</p>
+<p> </p>
+<p>* the use of alternative software is allowed.</p>
+
+## Resultados de aprendizagem e competências
+<p>By the end of the semester, students should:<br /> - be able to understand the literature and computational codes about plates and shells; <br />- be able to derive fundamental equations to analyse problems involving plates and shells;<br /> - be able to obtain analytical or approximate solutions of problems regarding plates and shells;<br />- have improved their computational skills in symbolic computing environments.</p>
+
+## Pré-requisitos e co-requisitos
+Knowledge on Solid Mechanics is essential, as is knowledge on some topics of Mathematical Analysis and Algebra.
+
+## Programa
+<p>Revision of fundamental concepts of continuum mechanics. Classical bending plate theory. Rectangular and circular plates. Laminated composite plates. Reissner-Mindlin&#8217;s theory. Solution methods based on Fourier series and on general Fourier series, Ritz, Galerkin and numerical methods. Membrane deformations in plates and introduction to buckling. Introduction to the theory of surfaces. Deformations and stresses in shells. Membrane theory for shells of revolution. Bending plus membrane theory for cylindrical shells.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Classes will be based on exposition and discussion of course&#8217;s themes, as well as problem solving. Classes will be given with the support of an overhead projector, whiteboard and computers. Students will be asked to do assignments using software Maple (or similar). These assignments should be presented both in written and oral form.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 65.0 %
+- Trabalho escrito: 35.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 53.0 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho escrito: 70.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Average of assignment (35%) and exam (65%) grades. To pass, it is necessary to achieve concurrently:<br /> - an average mark equal or greater than 9.5;<br /> - a mark equal or greater than 8.5 (9) in the assignments and in the exam.</p>
+<p>Classifications above 18 points require an oral exam.</p>
+<br />
+<p><br /><br /><br /></p>
+
+## Obtenção de frequência
+According to General Evaluation Rules of FEUP, students must attend 75% of the classes. Active participation in the practical classes.
+
+## Melhoria de classificação
+<p>Students can improve their grade in the first written exam by attempting a second written exam. <br /> <br /> On the other hand, a large part of the development and computational work related with the assignments should be performed during the practical classes, under the supervision of the lecturer. Once delivered at a pre-agreed date, the essay is evaluated. Handing in a second essay as a way of improving the final mark is not an option.<br /><br /><br /></p>
+

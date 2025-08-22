@@ -1,0 +1,144 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Projeto de Software
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>No contexto da especificação, desenvolvimento e manutenção de aplicações de software com interface gráfica em arquiteturas cliente/servidor ou baseadas em bases de dados, esta unidade curricular tem por objetivos:</p>
+<ul>
+<li>Promover a aquisição de conceitos, métodos e técnicas de Engenharia de Software e dotar os estudantes da capacidade de os aplicar na conceção e desenvolvimento de sistemas de software.</li>
+<li>Dotar os estudantes de conhecimentos práticos na utilização de ferramentas de desenvolvimento de software adequadas à metodologia a usar e que permitam o acompanhamento do desenvolvimento do produto durante todo o seu ciclo de vida, incluindo a depuração, teste e documentação de código. </li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p>Ao completar esta unidade curricular o estudante deve ser capaz de:</p>
+<ol>
+<li>Identificar e documentar os requisitos de um Sistema de Software utilizando user stories.</li>
+<li>Realizar um protótipo de interface com o utilizador.</li>
+<li>Identificar e documentar os requisitos suplementares.</li>
+<li>Obter o modelo conceptual do domínio utilizando UML.</li>
+<li>Descrever a arquitetura utilizando UML.</li>
+<li>Validar a arquitetura através de um protótipo vertical. </li>
+<li>Modelar a estrutura de classes utilizando UML.</li>
+<li>Modelar o comportamento de objetos utilizando UML.</li>
+<li>Codificar e desenvolver um sistema de software baseado no paradigma de Orientação por Objetos.</li>
+<li>Testar o unitariamente o código.</li>
+<li>Utilizar uma ferramenta de colaborativa de gestão de vida do produto (Application Lifecycle Management).</li>
+<li>Utilizar um IDE (Integrated Development Environment) no desenvolvimento de software.</li>
+<li>Utilizar um sistema de controlo de versões. </li>
+<li>Planear, estimar e gerir um processo ágil de desenvolvimento de software.</li>
+</ol>
+
+## Pré-requisitos e co-requisitos
+Conhecimentos em Programação.
+
+## Programa
+- Programação Orientada por Objectos: sintaxe, conceitos, classes e técnicas.<br />- Conceitos avançados de programação OO: coleções/estruturas, genéricos/templates, interfaces gráficas, I/O, Concorrência.  <br />- Linguagem de modelação UML: conceitos gerais de modelação, diagramas de classes, estados e sequência. Outros diagramas.<br />- Processos de Desenvolvimento de Software: conceitos, metodologias, fases, práticas, ferramentas, artefactos, tecnologias emergentes.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A unidade curricular tem <strong>aulas tutoriais</strong> (1,5 horas por semana) e <strong>aulas laboratoriais</strong> (2 horas por semana por turma) em sala de computadores.</p>
+<p>Os tempos letivos das aulas tutoriais são usados para apresentar sucintamente os tópicos do programa, assim como para debater questões transversais aos estudantes e que advém da aplicação (durante as aulas laboratoriais, e não só) dos conhecimentos adquiridos. Referencias de estudo adicionais serão disponibilizadas.</p>
+<p>Nas aulas laboratoriais os estudantes trabalham, em equipas de 3 ou 4, num projeto de software, assim como na exploração de módulos específicos a determinados tópicos do programa com o objetivo de consolidar os conceitos basilares da Unidade Curricular, ou aprofundar especificidades advindas do projeto de software.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 20.0 %
+- Trabalho prático ou de projeto: 80.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 80.0 horas
+- Estudo autónomo: 36.5 horas
+- Frequência das aulas: 45.5 horas
+
+## Fórmula de cálculo da classificação final
+<p>O projeto (PROJ) será avaliado através da documentação apresentada, da aplicação desenvolvida e do desempenho individual de cada elemento da equipa.</p>
+<p>Os conceitos teóricos serão avaliados através da resposta individual a dois mini-testes (M1 e M2, sem consulta).<br /><br /></p>
+<p>A nota final será calculada usando a fórmula: NOTA = 80% PROJ + 10% M1 + 10% M2</p>
+<p>sendo:</p>
+<p>PROJ = Nota final do projeto.<br />M1 = Nota do primeiro mini-teste.<br />M2 = Nota do segundo mini-teste. </p>
+<p>A classificação da componente prática (PROJ) pode variar entre elementos da mesma equipa, com base na opinião dos docentes (participação presencial) e na autoavaliação e heteroavaliação a realizar internamente por cada equipa.<br /><br />A aprovação na unidade curricular está condicionada à obtenção de 40% em:<br /> - média das avaliações dos mini-testes (M1 + M2)<br /> - avaliação to projeto (PROJ<br /><br /></p>
+
+## Obtenção de frequência
+<p>Esta unidade curricular, dada a sua natureza laboratorial, não é passível de avaliação em momento único, pelo que não poderá ser substituída por exame de recurso.<br /><br />Para obter frequência o estudante deverá cumprir as seguintes condições em simultâneo:<br /> - Comclusão do projeto (i.e. entrega e cumprimento de todas as componentes de avaliação)<br /> - e presença em pelo menos a 60% das aulas laboratoriais </p>
+
+## Melhoria de classificação
+A nota final pode ser melhorada apenas através da frequência de uma nova edição da unidade curricular.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Software Design
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Within the context of the specification, development and maintenance of software applications with graphical user interfaces (<abbr title="Graphical User Interface">GUI</abbr>) using client/server or database-driven architectures, this course aims to:</p>
+<ul>
+<li>Promote the acquisition of software engineering concepts, methods and techniques and enable students to apply them in the design and development of software systems.</li>
+<li>Equip students with practical skills in the use of software development tools appropriate to the specification and development of the product throughout its life-cycle, including debugging, testing and documentation of the Java programming language code.</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<div>After completing this course, the student will be able to:</div><br /><ol><br /><li>Identify and document the requirements of a Software System using &quot;user stories&quot;.</li><br /><li>Implement a prototype of the User Interface.</li><br /><li>Identify and document additional requirements.</li><br /><li>Obtain the conceptual domain model using UML.</li><br /><li>Describe the architecture using UML.</li><br /><li>Validate the architecture through a prototype.</li><br /><li>Modelling the structure of classes using UML.</li><br /><li>Modelling the behaviour of objects using UML.</li><br /><li>Code and develop an Object-oriented software system.</li><br /><li>Unit test the code.</li><br /><li>Use a collaborative Application Lifecycle Management (ALM) tool.</li><br /><li>Use an integrated development environment (IDE) in software development.</li><br /><li>Use a version control system.</li><br /><li>Plan, estimate and manage an agile software development process.</li><br /></ol>
+
+## Pré-requisitos e co-requisitos
+Knowledge of Programming languages.
+
+## Programa
+- Object-Oriented Programming: syntax, concepts, classes and techniques.<br />- Advanced OO programming: collections/data structures, generics/templates, GUIs, I/O, Concurrency.<br />- Unified Modelling Language: modelling concepts; class, state and sequence diagrams. Other diagrams.<br />- Software Development Processes: concepts, methodologies, phases, practices, tools, artefacts, emerging technologies.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Tutorial lectures (1,5 hours per week) will be used to briefly overview the programmatic topics, providing further studying references to openly discuss matters regarding cross-cutting issues around the application of acquired knowledge by the students. <br /><br />In the laboratory classes (2 hours per week), the students will work in teams of three or four people in a software project, as well as in exploring modules regarding specific course topics as means to consolidate the learning outcomes or to tackle specific hurdles from the developing project.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 20.0 %
+- Trabalho prático ou de projeto: 80.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 80.0 hours
+- Estudo autónomo: 36.5 hours
+- Frequência das aulas: 45.5 hours
+
+## Fórmula de cálculo da classificação final
+<p>Practical work (PROJ) will be evaluated through the documentation submitted, the application developed and individual performance by each team member.</p>
+<p>The theoretical concepts are evaluated through the individual response to two tests (M1 and M2, without consultation).<br /><br /></p>
+<p>Final Grade = 80% PROJ + 10% M1 + 10% M2</p>
+<p>where:</p>
+<p>PROJ = Project final grade.<br />M1 = First test grade.<br />M2 = Second test grade.</p>
+<p>The final grade of the practical component (PROJ) may vary from student to student in the same team, based on the opinion of teachers and the self-evaluation to be conducted internally within each team.<br /><br />To pass this course each sstudent must additionally achieve a minimum grade of 40% in:<br /> - the aggregate of (M1 + M2)<br /> - the course project (PROJ).</p>
+
+## Obtenção de frequência
+<p>This course, due to its practical nature, cannot be replaced by taking an exam.<br /><br />To be eligible for exams a student must fulfill all of the following conditions:<br /> - Conclude the course project (i.e. submit all components used for evaluating the course project)<br />  - attend a minimum of 60% of the lab sessions</p>
+
+## Melhoria de classificação
+Improving the classification requires a new enrolment in the course.
+

@@ -1,0 +1,107 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Álgebra
+
+## Curso responsável
+Licenciatura em Engenharia Civil
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Aquisição dos conceitos fundamentais da Álgebra Linear e Matricial. Desenvolvimento da capacidade de cálculo formal algébrico e da formulação e resolução explícita de problemas algébricos, incluindo questões de Geometria Analítica.
+
+## Resultados de aprendizagem e competências
+Operar com matrizes e cálcular determinantes.<br /> Resolver sistemas lineares. <br />Definir espaços vetoriais, bases de espaços (de dimensão finita), transformações lineares, valores e vetores próprios.<br />Definir espaço euclidiano e dominar principais conceitos de geometria analítica.<br />Determinar estas entidades em problemas concretos e resolver problemas que as envolvam e aplicar estes conceitos e as propriedades que envolvem a sua operacionalidade.<br /> Discutir validade de soluções, distinguir problemas com uma ou mais soluções. <br />Formular problemas com componentes algébricas em termos matemáticos. Tirar conclusões a partir dos cálculos realizados ou por aplicação das propriedades ou teorias conhecidas.
+
+## Pré-requisitos e co-requisitos
+O estudante deverá ter conhecimentos sobre trigonometria, cálculo de raízes e factorização de polinómios, funções reais a uma variável real, geometria analítica plana, sistemas de equações lineares e lógica.
+
+## Programa
+1. Matrizes<br /><br />1.1 Operações com matrizes<br />  1.1.1 Adição; multiplicação de uma matriz por um escalar; multiplicação de matrizes<br />  1.1.2 Matriz Transposta, conjugada e transconjugada de uma matriz<br />1.2 Matrizes especiais<br />  1.2.1 Rectangulares e quadradas<br />  1.2.2 Matriz identidade; diagonal; triangular; simétrica;  unitária e ortogonal<br />1.3 Matriz Inversa<br />    1.3.1 Definição<br />   1.3.2 Propriedades <br />1.4 Forma escalonada e escalonada reduzida de uma matriz<br />1.5 Resolução de equações matriciais<br /><br />2. Determinantes<br /><br />2.1 Definição e propriedades<br />2.2 Cálculo de determinantes<br />   2.2.1 Método de condensação de uma matriz<br />   2.2.2 Teorema de Laplace<br />2.3 Menores, menores complementares e complementos algébricos<br />2.4 Definição de matriz adjunta<br />2.5 Cálculo da matriz inversa utilizando determinantes e a condensação<br />2.6 Caraterística de uma matriz<br /><br />3. Sistemas de Equações Lineares<br /><br />3.1 Forma matricial de um sistema linear<br />3.2 Classificação de um sistema linear<br />3.3 Resolução de sistemas pelo Método de Gauss e Método de Gauss-Jordan <br />3.4 Sistema de Cramer e Regra de Cramer<br />3.5 Discussão de sistemas em função de parâmetros reais <br /><br />4. Espaços Vectoriais<br /><br />4.1 Definição e propriedades<br />4.2 Subespaços de um espaço vectorial<br />4.3 Dependência e independência linear<br />4.4 Sistemas de geradores<br />4.5 Conceitos de bases e dimensão<br />4.6 Matriz de mudança de coordenadas entre bases<br /><br />5. Aplicações Lineares<br /><br />5.1 Definição e Propriedades<br />5.2 Exemplos de aplicações lineares: Rotações; simetrias; contrações; dilatações; etc. <br />5.3 Núcleo e imagem de uma aplicação linear<br />5.4 Matriz de uma aplicação linear<br />5.5 Aplicação linear sobrejectiva<br />5.6 Aplicação linear injectiva<br />5.7 Aplicação linear invertível e composição de aplicações lineares<br />5.8 Característica de uma transformação linear<br />5.9 Alguns teoremas relevantes sobre aplicações lineares<br /><br />6. Vectores e Valores Próprios<br /><br />6.1 Definição de vector próprio e valor próprio<br />6.2 Equação característica e polinómio característico<br />6.3 Subespaços próprios<br />6.4 Definição de matriz diagonalizável<br />6.5 Alguns teoremas relevantes sobre a diagonalização de matrizes<br /><br />7. Espaços euclidianos<br /><br />7.1 Definição de Espaço euclidiano real<br />7.2 Norma de um vector e desigualdade de Cauchy Schwarz<br />7.3 Conjunto ortogonal e ortonormal<br />7.4 Base ortonormada em espaços euclidianos de dimensão finita<br />7.5 Projecção ortogonal de um vector num subespaço de um espaço euclidiano de dimensão finita<br />7.6 Processo de Gram-Schmidt<br />7.7 Definição e propriedades dos produtos interno e externo em R^3 <br /><br />8. Geometria Analítica<br /><br />8.1 Rectas e planos no espaço tridimensional<br />8.2 Problemas não métricos: Incidência e paralelismo<br />8.3 Problemas métricos. Distâncias e ângulos
+
+## Métodos de ensino e atividades de aprendizagem
+Unidade curricular essencialmente formativa, coordenando os conhecimentos teóricos fundamentais com desenvolvimentos necessários nas unidades curriculares que se seguem no plano de estudos. A este nível é fomentado o entendimento intuitivo dos conceitos e a capacidade de cálculo. As matérias são expostas de modo claro e objetivo nas aulas teóricas, fazendo uso frequente de exemplos retirados de outras unidades curriculares como a Física, a Mecânica 1, a Mecânica 2 e a Teoria das Estruturas. Nas aulas práticas, o aluno é encaminhado na resolução de problemas de aplicação das matérias lecionadas.<br /><br />DEMONSTRAÇÃO DA COERÊNCIA DAS METODOLOGIAS DE ENSINO COM OS OBJETIVOS DE APRENDIZAGEM DA UNIDADE CURRICULAR:Privilegia-se a coordenação entre os conhecimentos teóricos fundamentais com desenvolvimentos necessários nas unidades curriculares que se seguem no plano de estudos, sendo fomentado o entendimento intuitivo dos conceitos e a capacidade de cálculo. Pretende-se aplicar as matérias abordadas em problemas concretos que as envolvam e aplicar estes conceitos e as propriedades que envolvem a sua operacionalidade. Discutir validade de soluções, distinguir problemas com uma ou mais soluções. Formular problemas com componentes algébricas em termos matemáticos. Tirar conclusões a partir dos cálculos realizados ou por aplicação das propriedades ou teorias conhecidas.<br /><br />Tipo de Avaliação: Avaliação distribuída sem exame final
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 103.5 horas
+- Frequência das aulas: 58.5 horas
+
+## Fórmula de cálculo da classificação final
+Fórmula de avaliação:<br /><p><strong><u>A avaliação será distribuída sem exame final e consiste em 2 provas escritas (obrigatórias) e uma componente de avaliação (opcional) a realizar nas aulas teóricas na plataforma Moodle.<br /></u></strong></p><br /><p dir=&quot;ltr&quot;>CT1 = classificação no 1º teste</p><br /><p dir=&quot;ltr&quot;>CT2 = classificação no 2º teste</p><br />CQ = classificação nas Questões das aulas teóricas<br /><br /><br /><p dir=&quot;ltr&quot;>Resultado da classificação (CF) será<br /> <br />CF = max{ 0,5*CT1+0,5*CT2 ; 0,4*CT1+0,4*CT2+0,2*CQ}.</p><br /><p dir=&quot;ltr&quot;><strong>É requerida a nota mínima de 6 valores em cada teste, CT1 e CT2.</strong></p><br /><strong>A não obtenção dessa nota obriga o estudante a ir ao exame de recurso.</strong><br /><br /><strong>Caso o estudante tenha faltado ou não tenha obtido a nota mínima a um dos testes, no exame de recurso pode optar por realizar apenas esse teste ou realizar um teste global.</strong><br /><br /> NOTA 1: Todos os estudantes inscritos na unidade curricular são classificados de acordo com este método, incluindo exames especiais.<br /> <br />NOTA 2: Os estudantes que cumpriram a frequência da unidade curricular em ano letivo anterior ficam dispensados de a obter neste ano letivo.<br /><br />NOTA 3: Aos estudantes que frequentaram a unidade curricular em anos letivos anteriores não podem ser transferidas  as classificações de partes da avaliação que então realizaram.<br /><br />NOTA 4: Aos estudantes que, no final de uma época de exames, tenham sido avaliados apenas numa das partes será atribuída a menção RFE.
+
+## Obtenção de frequência
+Condições de Frequência: A obtenção de classificação final exige o cumprimento de assiduidade à unidade curricular, conforme estabelecido nas regras de avaliação da LEC. Considera&#8208;se que um estudante cumpre a assiduidade a uma unidade curricular se, tendo estado regularmente inscrito, não exceder o número limite de faltas correspondente a 25% das aulas presenciais previstas.<br /><br /><br /><p>No presente ano letivo (2024/2025) estão dispensados do critério de obtenção de frequência no ano letivo em curso, para todos os efeitos, os estudantes que tenham obtido frequência à UC em ano letivo prévio. </p><br /><p><strong>A partir do próximo ano letivo (2025/2026) serão dispensados do critério de obtenção de frequência no ano letivo em curso, para todos os efeitos, os estudantes que tenham obtido no ano letivo imediatamente anterior uma nota final na UC igual ou superior a 6 valores.</strong></p>
+
+## Melhoria de classificação
+A avaliação de estudantes que requerem exame de melhoria de classificação e que a realizem no exame de recurso segue os mesmos moldes do exame de recurso para os estudantes ainda não aprovados.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Algebra
+
+## Curso responsável
+Bachelor in Civil Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Acquisition of fundamental concepts of Linear Algebra and Matrices. Developing the capacity of formal algebraic calculus, formulation and resolution of explicit algebraic problems, including issues of Analytical Geometry.
+
+## Resultados de aprendizagem e competências
+<p id="tw-target-text" dir="ltr" data-placeholder="Tradução"><span lang="en">Operate with matrices and calculate determinants. Solve linear systems. <br />Define vector spaces, bases of spaces (of finite dimension), linear transformations, values &#8203;&#8203;and eigenvectors. <br />Define Euclidean space and master the main concepts of analytical geometry. <br />Determine these entities in concrete problems and solve problems that involve them and apply these concepts and the properties that involve their operability. <br />Discuss validity of solutions, distinguish problems with one or more solutions. <br />Formulate problems with algebraic components in mathematical terms. <br />Draw conclusions from the calculations carried out or<br /> by applying known properties or theories.</span></p>
+
+## Pré-requisitos e co-requisitos
+<p>The student should have basic knowledge of trigonometry, calculus of roots of polynomials and factorization, real functions of one real variable, analytic geometry in the plane, systems of linear equations and logics.</p>
+
+## Programa
+<p class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tradução"><span class="Y2IQFc" lang="en">1. Matrices <br /><br />1.1 Matrix operations<br />   1.1.1 Addition; multiplication by a scalar; matrix multiplication. <br />   1.1.2 Transposed Matrix, conjugate and transconjugate of a matrix. <br />1.2 Special matrices<br />   1.2.1 Rectangular and square<br />   1.2.2 Identity matrix; diagonal; triangular; symmetrical; unitary and orthogonal. <br />1.3 Inverse matrix<br />   1.3.1 Definition <br />   1.3.2 Properties <br />1.4 Echelon and reduced echelon form of a matrix.<br /> 1.5 Resolution of matricial equations<br /><br />2. Determinants <br /><br />2.1 Definition and properties<br />2.2 Calculation of determinants<br />   2.2.1 Matrix condensation method<br />   2.2.2 Laplace's theorem<br />2.3 Minors, complementary minors and algebraic complements<br />2.4 Definition of an adjoint matrix<br />2.5 Calculation of the inverse matrix using determinants and condensation<br />2.6 Definition of rank matrix<br /><br />3. Systems of Linear Equations. <br /><br />3.1 Matricial form of a linear system<br />3.2 Classification of a linear system<br />3.3 Solving systems using the Gauss Method and Gauss-Jordan Method<br />3.4 Cramer's system and Cramer's rule<br />3.5 Systems discussion<br /><br />4. Vector Spaces <br /><br />4.1 Definition and properties<br />4.2 Subspaces of a vector space<br />4.3 Linear dependence and independence<br />4.4 Generator systems<br />4.5 Concepts of bases and dimension<br />4.6 Matrix of coordinate changes between bases<br /><br />5. Linear Applications <br /><br />5.1 Definition and Properties<br />5.2 Examples of linear applications of R^2 in R^2 and of R^3 in R^3, such as: Rotations; symmetries; contractions; dilations; etc. <br />5.3 Core and image of a linear application<br />5.4 Matrix of a linear application<br />5.5 Surjective linear application<br />5.6 Injective linear application<br />5.7 Invertible linear application and composition of linear applications<br />5.8 Characteristic of a linear transformation<br />5.9 Some relevant theorems about linear applications<br /><br /></span></p>
+<p id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tradução"><span class="Y2IQFc" lang="en">6. Vectors and Eigenvalues<br /><br />6.1 Definition of eigenvector and eigenvalue <br />6.2 Definition of characteristic equation and characteristic polynomial<br />6.3 Proper subspace<br />6.4 Definition of diagonalizable matrix<br />6.5 Some relevant theorems about matrix diagonalization. <br /><br />7. Euclidean spaces<br /><br />7.1 Definition of real Euclidean space<br />7.2 Norm of a vector and Cauchy Schwarz inequality<br /> 7.3 Orthogonal and orthonormal set<br />7.4 Orthonormed basis in finite-dimensional Euclidean spaces<br />7.5 Orthogonal projection of a vector into a subspace of a finite-dimensional Euclidean space<br />7.6 Gram-Schmidt process<br />7.7 Definition and properties of inner and outer product in R^3<br /><br />8. Analytical Geometry<br /><br />8.1 Lines and planes in three-dimensional space<br />8.2 Non-metric problems: Incidence and parallelism<br />8.3 Metric problems. Distances and angles</span></p>
+
+## Métodos de ensino e atividades de aprendizagem
+Essentially lecturing subjects, coordinating basic theoretical knowledge necessary to develop subsequent subjects in the syllabus. At this level intuitive understanding of the concepts is encouraged as well as computational ability. The materials are presented in a clear and objective form in the classroom, making frequent use of examples taken from other disciplines such as Physics, Mechanics I, Mechanics and Theory of Structures II. In practical classes, students are guided in solving problems as applications of materials taught in theoretical classes. <br /><br />DEMONSTRATION OF THE COHERENCE BETWEEN THE TEACHING METHODOLOGIES AND THE LEARNING OUTCOMES: The focus is on coordination between the fundamental theoretical knowledge and the developments required in the following curricular units, being promoted the intuitive understanding of the concepts and calculation capabilities. It is intended to apply these subjects in specific problems that use them as a tool and apply these concepts and properties that are involved in operational aspects. To discuss the validity of solutions, to distinguish problems with one or more solutions. To formulate problems with algebraic components in mathematical terms. To draw conclusions from calculations performed on the basis of mathematical properties or known theories.<br /><br />Type of evaluation: two tests without final exam
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 103.5 hours
+- Frequência das aulas: 58.5 hours
+
+## Fórmula de cálculo da classificação final
+<p class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tradução"><span class="Y2IQFc" lang="en">Evaluation formula: <br /><br /><strong>The assessment will be distributed without a final exam and consists of 2 written tests (mandatory) and an assessment component (optional) to be carried out in theoretical classes on the Moodle platform.<br /><br /></strong> CT1 = classification in the 1st test <br /> CT2 = classification in the 2nd test <br /> CQ = classification in theoretical class questions <br /><br /> Classification result (CF)  will be <br />CF = max{ 0.5*CT1+0.5*CT2 ; 0.4*CT1+0.4*CT2+0.2*CQ}. <br /><br /> <strong>A minimum score of 6 points is required in each test, CT1 and CT2.</strong> <br /><br /> <strong>Failure to obtain this grade forces the student to take the appeal exam.<br /></strong></span></p>
+<p id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tradução"><strong><span class="Y2IQFc" lang="en">If the student has missed or has not obtained the minimum score in one of the tests, in the appeal exam  can choose to take just that test or take a global test.</span></strong></p>
+<p id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tradução"><span class="Y2IQFc" lang="en"><br /> NOTE 1: All students enrolled in the curricular unit are classified according to this method, including special exams. <br /><br />NOTE 2: Students who completed the curricular unit in the previous academic year are exempt from obtaining it this academic year. <br /><br />NOTE 3: Students who attended the curricular unit in previous academic years cannot be transferred the classifications of parts of the assessment they then completed. <br /><br />NOTE 4: Students who, at the end of an exam period, have only been assessed in one of the parts will be awarded the RFE mention.</span></p>
+
+## Obtenção de frequência
+Achieving final classification requires compliance with attendance at the course unit, according to the LEC assessment rules. It is considered that students meet the attendance requirements if, having been regularly enrolled, the number of absences of 25% of presencial classroom lessons.
+
+## Melhoria de classificação
+The students who were approved at the curricular unit and wish to improve their grade can do so by participating in the correspondant appeal exam. They will follow the same grading rules as the students that did not succeed previously.
+

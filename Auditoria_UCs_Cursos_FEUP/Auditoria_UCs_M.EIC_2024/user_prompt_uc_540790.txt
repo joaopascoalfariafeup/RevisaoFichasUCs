@@ -1,0 +1,113 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Engenharia de Software Seguro
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<span style=&quot;font-weight: 400;&quot;>Pretende-se que os estudantes:</span><span style=&quot;font-weight: 400;&quot;><br /></span><span style=&quot;font-weight: 400;&quot;>1. Reconheçam os problemas de segurança do software de sistemas de computação, suas causas e consequências, e conheçam as boas práticas para a sua prevenção, deteção e mitigação&#894;</span><span style=&quot;font-weight: 400;&quot;><br /></span><span style=&quot;font-weight: 400;&quot;>2. Conheçam e sejam capazes de aplicar as boas práticas do desenvolvimento de software seguros nas fases do ciclo de vida do software: captura de requisitos, arquitetura e desenho, implementação, verificação e validação, distribuição, instalação e manutenção&#894;</span><span style=&quot;font-weight: 400;&quot;><br /></span><span style=&quot;font-weight: 400;&quot;>3. Conheçam e sejam capazes de usar processos e ferramentas de engenharia de software direcionados para questões de segurança&#894;</span><span style=&quot;font-weight: 400;&quot;><br /></span><span style=&quot;font-weight: 400;&quot;>4. Conheçam normas relevantes para o desenvolvimento de software seguro.</span><span style=&quot;font-weight: 400;&quot;><br /></span><span style=&quot;font-weight: 400;&quot;>Os conteúdos programáticos incluem as abordagens estado da arte em segurança de software e as técnicas conferentes da capacidade de selecionar de forma crítica os métodos apropriados. Incluem ainda a interpretação e análise do comportamento de algoritmos e resultados, bem como ferramentas &#8216;</span><em><span style=&quot;font-weight: 400;&quot;>off-the-shelf&#8217;</span></em><span style=&quot;font-weight: 400;&quot;>.</span>
+
+## Resultados de aprendizagem e competências
+<span style=&quot;font-weight: 400;&quot;>O conteúdo programático, incidindo nas bases conceptuais, processos da engenharia do software com a inclusão contínua das preocupações de segurança, ameaças e vulnerabilidades frequentes, incluindo problemas na arquitetura das aplicações, código e linguagens de programação em si, identificação e autorização nas aplicações distribuídas e na web, e utilização incorreta ou vulnerável de protocolos de acesso remoto, assim como alguns detalhes e exemplos práticos de análise e desenho, é visivelmente consentâneo com os objetivos da unidade curricular, cujo principal é a aquisição de práticas que conduzam a software e sistemas computacionais seguros.</span>
+
+## Programa
+<p>1) Introdução, conceitos fundamentais e terminologia<br />    (Objetivos, modelação de ameaças e análise de risco, princípios de desenho seguro, segurança no SDLC, o papel da arquitetura)<br />2) Criptografia<br />3) Programação e desenvolvimento de software seguro<br />    (Validação, revisão, ferramentas e teste)<br />4) Identificação e autorização no controlo de acessos<br />5) Segurança nas aplicações distribuídas e da web<br />6) Vulnerabilidades mais comuns na segurança do software e sua exploração<br />7) Utilização de protocolos seguros no controlo de acessos<br />8) Teste de penetração das aplicações</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<span style=&quot;font-weight: 400;&quot;>As aulas terão uma componente de exposição e discussão dos tópicos programáticos, e outra componente de realização de exercícios práticos e pequenos projetos de aplicação dos conceitos e técnicas e experimentação de ferramentas. Será reservada uma ou duas aulas para a apresentação de tópicos e projetos explorados pelos estudantes.</span>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho laboratorial: 30.0 %
+- Trabalho prático ou de projeto: 20.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 horas
+- Estudo autónomo: 40.0 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho laboratorial: 23.0 horas
+
+## Fórmula de cálculo da classificação final
+<span style=&quot;font-weight: 400;&quot;>Fórmula de avaliação: A componente de avaliação contínua (50% da nota final) compreende:</span><span style=&quot;font-weight: 400;&quot;><br /></span><span style=&quot;font-weight: 400;&quot;>Trabalhos práticos (50%) (Projeto prático: 30%&#894;  Trabalho laboratorial: 20%)</span><span style=&quot;font-weight: 400;&quot;><br /></span><span style=&quot;font-weight: 400;&quot;>Exame Final (50% da nota final)<br /><br />Para aprovação é necessário um mínimo de 30% no exame final.</span>
+
+## Obtenção de frequência
+Entrega de todos os elementos de avaliação e exame.
+
+## Melhoria de classificação
+- As classificações obtidas na avaliação contínua podem ser melhoradas na edição seguinte da unidade curricular<br />- A classificação do exame pode ser melhorada em exame de recurso.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Secure Software Engineering
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p><span style="font-weight: 400;">It is intended that students:</span></p>
+<ol>
+<li><span style="font-weight: 400;"> Recognize the security problems computing systems software, their causes, and consequences, and recognize the good s practices for their prevention, detection, and mitigation &#894;</span></li>
+<li><span style="font-weight: 400;"> Know and can apply good practices for developing secure software in the various phases of the software life cycle: requirements capture, architecture and design, implementation, verification and validation, deployment, installation, and maintenance&#894;</span></li>
+<li><span style="font-weight: 400;"> Know and be able to use software engineering processes and tools specially targeted at security issues&#894;</span></li>
+<li><span style="font-weight: 400;"> Know relevant standards for the development of secure software.</span></li>
+</ol>
+<p><span style="font-weight: 400;">The syllabus includes the understanding of state-of-the-art approaches to security as well as specific techniques capable of critically selecting the appropriate methods to use to solve the engineering problem at hand. They also include the ability to interpret and analyze the behavior and performance of algorithms and results and off-the-shelf tools.</span></p>
+
+## Resultados de aprendizagem e competências
+<em><span style=&quot;font-weight: 400;&quot;>The syllabus, focusing on conceptual bases, software engineering processes with embedded security concerns, frequent and common threats and vulnerabilities, including application architecture problems, programming languages and code, identification and authorization in distributed and web applications, and incorrect and vulnerable use remote access protocols, as some details and practical examples of aspects of analysis and design is clearly consistent with the objective of the course, whose main objective is the acquisition of work practices leading to secure applications and secure system software.</span></em>
+
+## Programa
+<p><em>1) Introduction, fundamentals and terminology<br /></em><em>     (Objectives, threat modeling and risk analysis, secure design principles, SDLC security, the architecture role)<br />2) Cryptography<br /></em><em>3) Secure coding<br /></em><em>    (Validation, review, tools, and testing)<br /></em><em>4) Identification and validation in access control<br /></em><em>5) Security in distributed and web applications<br /></em><em>6) Common security vulnerabilities in software and their exploitation<br /></em><em>7) Using secure protocols in access control<br /></em><em>8) Application penetration testing</em></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-weight: 400;">The classes will comprise the presentation and discussion of topics and the development of practical exercises and small projects by the students. Slots will be reserved for the presentation of special topics and projects explored by the students.</span></p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho laboratorial: 30.0 %
+- Trabalho prático ou de projeto: 20.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 hours
+- Estudo autónomo: 40.0 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho laboratorial: 23.0 hours
+
+## Fórmula de cálculo da classificação final
+<span style=&quot;font-weight: 400;&quot;>The formula of evaluation: Continuous assessment (50% of the final grade) comprises:</span><span style=&quot;font-weight: 400;&quot;><br /></span><span style=&quot;font-weight: 400;&quot;>Practical work (50%): (Practical project: 30%&#894; Lab work: 20%)&#894;</span><span style=&quot;font-weight: 400;&quot;><br /></span><span style=&quot;font-weight: 400;&quot;>Final Exam (50% of the final grade).<br /><br />For approval, a minimum grade of 30% in the final exam is required.</span>
+
+## Obtenção de frequência
+<span style=&quot;font-weight: 400;&quot;>Submitting all evaluation elements and exam.<br /></span>
+
+## Melhoria de classificação
+- The marks obtained in continuous assessment can be improved in the next edition of the course <br />- The classification of the exam can be improved in the resit exam.
+

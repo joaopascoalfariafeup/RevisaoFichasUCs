@@ -1,0 +1,146 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Aprendizagem Computacional
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Com a digitalização crescente dos seus processos, as organizações (empresas, governo, etc.) sentem agora a necessidade de extrair conhecimento desses dados, que permita melhorar a eficiência e eficácia desses processos (por ex. para ganhar vantagem competitiva). Para esse fim, as organizações precisam de adquirir competências técnicas, para o desenvolvimento de soluções baseadas em abordagens standard de Aprendizagem Computacional (AC ou machine learning) e Extração de Conhecimento de Dados (ECD ou data mining), mas também de competências científicas para o desenvolvimento de soluções inovadoras para os problemas em que essas abordagens standard não existem. </p>
+<p>Assim, os objetivos desta U.C. são:</p>
+<ul>
+<li>Motivar para a utilização de técnicas de AC/ECD no apoio à decisão.</li>
+<li>Desenvolver a capacidade de utilizar corretamente essas técnicas para análise automática de grandes quantidades de dados.</li>
+<li>Desenvolver a capacidade de realizar investigação científica para desenvolver novas abordagens de AC/ECD.</li>
+</ul>
+<p>Distribuição percentual</p>
+<ul>
+<li>Componente científica: 70%</li>
+<li>Componente tecnológica: 30%</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p>Pretende-se que os estudantes:</p>
+<ul>
+<li>Conheçam os vários tipos de tarefas de aprendizagem computacional e de extração de conhecimento (AC&amp;EC).</li>
+<li>Identifiquem problemas de apoio à decisão que possam ser representados como tarefas de AC&amp;EC.</li>
+<li>Conheçam as fases de um projeto de AC&amp;EC.</li>
+<li>Conheçam os principais métodos/algoritmos para cada tipo de tarefa de AC&amp;EC e compreendam o essencial do seu funcionamento.</li>
+<li>Apliquem esses métodos a problemas de apoio à decisão.</li>
+<li>Avaliem os resultados de um projeto de AC&amp;EC.</li>
+<li>Identifiquem oportunidades de desenvolvimento de novas abordagens de AC/ECD.</li>
+<li>Desenvolvam trabalho científico simples, mas adequado para criação de novas abordagens de AC/ECD.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Não sendo obrigatório ter frequentado nenhuma UC em concreto, é útil o estudante ter conhecimentos básicos de <br /><br /><ul><br /><li>estatística</li><br /><li>algoritmia</li><br /><li>inteligência artificial</li><br /></ul>
+
+## Programa
+<ul><br /><li><strong>Introdução</strong> à Aprendizagem Computacional (Machine Learning) e à Extração de Conhecimento de Dados (Data Mining).</li><br /><li><strong>Projetos de ECD</strong>: metodologias de ECD e preparação de dados.</li><br /><li><strong>Classificação</strong>: introdução, avaliação (medidas e metodologias) e algoritmos (métodos baseados em regras, distâncias e kernels; métodos Bayesianos). Scoring com modelos de classificação: abordagem e avaliação. Questões comuns em classificaç&#259;o (distribuiç&#259;o de classes desequilibrada e custos).</li><br /><li><strong>Regressão</strong>: introdução, avaliação (medidas; compromisso entre viés e variância) e algoritmos.</li><br /><li><strong>Clustering</strong>: Algoritmos de partição (revis&#259;o dos algoritmos K-means, K-medoids), de densidade e hierárquicos. Medidas de avaliação.</li><br /><li><strong>Descoberta de padrões frequentes</strong>: Algoritmos de conjuntos de itens frequentes (APRIORI, Eclat, FP-Growth) e de regras de associação. Medidas de avaliação (Suporte, confiança, lift, ...). Outros tipos de padrões: sequências e grafos.</li><br /><li><strong>Sistemas de recomendação</strong>: introdução, avaliação (medidas e metodologias) e algoritmos (baseados em conteúdos, filtragem colaborativa, sistemas especializados).</li><br /><li><strong>Algoritmos de AC avançados</strong>: ensembles, deep learning. </li><br /><li><strong>Anomaly detection</strong>: introdução, algoritmos.</li><br /><li><strong>Aprendizagem computacional automática</strong> (autoML) e meta aprendizagem. </li><br /></ul><br /><p> </p>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>Aulas teóricas e estudo individual para aquisição dos conceitos.</li><br /><li>Sessões laboratoriais e projeto de ECD para aplicação prática e consolidação dos conceitos aprendidos.</li><br /></ul>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Participação presencial: 0.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 60.0 horas
+
+## Fórmula de cálculo da classificação final
+0,5 * projeto de ECD + 0,5 * exame<br /> <br />Nota mínima em cada componente: 7,0 (sete) valores (em 20).
+
+## Obtenção de frequência
+A avaliação distribuída consiste em:<br /><br /><ul><br /><li>projeto de ECD</li><br /><li>exame</li><br /></ul><br />No caso de falta de uma das componentes da avaliação, a nota respetiva é de 0 (zero) valores.<br /> <br />Os trabalhadores estudantes e equivalentes dispensados das aulas devem, com periodicidade a combinar com os docentes, apresentar a evolução dos seus trabalhos, assim como devem fazer as apresentação calendarizadas simultaneamente com os alunos ordinários.
+
+## Melhoria de classificação
+Pode ser feita melhoria de classificação no exame na época de recurso do ano em que o estudante é aprovado.<br /><br />Para os momentos em que não foi feita melhoria de classificação no ano em que o estudante é aprovado, pode ser feita melhoria em um ou mais dos momentos de avaliação no ano seguinte, na época normal ou de recurso.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Machine Learning
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+With the increasing digitization of their processes, organizations (companies, government, etc.) now feel the need to extract knowledge from this data to improve the efficiency and effectiveness of these processes (eg to gain competitive advantage). To this end, organizations need to acquire technical skills to develop solutions based on standard approaches to Machine Learning (ML) and Data Mining (DM), but also scientific skills for developing innovative solutions to problems where these standard approaches do not exist.<br /><br />Thus, the goals of this course are:<br /><br /><ul><br /><li>Motivate for the use of ML / DM techniques in decision support.</li><br /><li>Develop the ability to properly utilize these techniques for automatic analysis of large amounts of data.</li><br /><li>Develop the ability to undertake scientific research to develop new approaches to ML / DM.</li><br /></ul><br /> <br /><br />Percentage Distribution<br /><br /><ul><br /><li>Scientific component: 70%</li><br /><li>Technological component: 30%</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<p>Students should be able to</p>
+<ul>
+<li>Understand the different types of machine learning &amp; data mining (ML&amp;DM) tasks.</li>
+<li>Identify decision support problems that can be represented as ML&amp;DM tasks.</li>
+<li>Understand the phases of a ML&amp;DM project.</li>
+<li>Know the main methods / algorithms for each ML&amp;DM task type and understand the basics of their behaviour.</li>
+<li>Apply these methods to decision support problems.</li>
+<li>Evaluate the results of a ML&amp;DM project.</li>
+<li>Identify opportunities for developing new approaches to ML / DM.</li>
+<li>Develop simple but appropriate scientific work to create new approaches to ML / DM.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Although no particular course is required, it is useful to have basic knowledge of:<br /><br /><ul><br /><li>statistics</li><br /><li>algorithms</li><br /><li>artificial intelligence</li><br /></ul>
+
+## Programa
+<ul><br /><li><strong>Introduction</strong> to Machine Learning and Data Mining.</li><br /><li><strong>DM Projects</strong>: DM methodologies and data preparation.</li><br /><li>Classification: introduction, evaluation (measures and methodologies) and algorithms (rule-, distance- and kernel-based methods; Bayesian methods). Scoring with classification models: approach and evaluation. Common classification issues (unbalanced class distribution and costs).</li><br /><li><strong>Regression</strong>: introduction, evaluation (measures; compromise between bias and variance) and algorithms.</li><br /><li><strong>Clustering</strong>: Partition (revision of K-means, K -medoids), density and hierarchical algorithms. Evaluation measures.</li><br /><li><strong>Frequent Pattern Discovery</strong>: Frequent item set algorithms (APRIORI, Eclat, FP-Growth) and association rules. Evaluation measures (Support, trust, lift, ...). Other types of patterns: sequences and graphs.</li><br /><li><strong>Recommendation systems</strong>: introduction, evaluation (measures and methodologies) and algorithms (content based, collaborative filtering, specialized systems).</li><br /><li><strong>Advanced ML algorithms</strong>: ensembles, deep learning.</li><br /><li><strong>Anomaly detection</strong>: introduction, algorithms.</li><br /><li><strong>Automated machine learning</strong> (autoML) and meta learning.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>Theoretical classes and individual study for exposition of concepts.</li><br /><li>Laboratory sessions and data mining project for practical application and consolidation of learned concepts.</li><br /></ul>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Participação presencial: 0.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 60.0 hours
+
+## Fórmula de cálculo da classificação final
+0,5 * DM project + 0,5 * exam<br /><br />Minimum grade in each componente: 7.0 (out of 20)
+
+## Obtenção de frequência
+<p>The distributed assessment consists of:</p>
+<ul>
+<li>ECD project</li>
+<li>exam</li>
+</ul>
+<p>In case of a missing component of the  evaluation, the respective grade is 0 (zero) values.<br /><br />Students with worker or equivalent status,  who are exempt from class attendance should, at regular intervals to be defined with the teachers, present the progress of their work, as well as do the scheduled presentations together with the regular students.</p>
+
+## Melhoria de classificação
+Grade improvement may be done for the exam in the special season (<em>recurso</em>) of the year in which the student is approved.<br /><br />For components which no grade improvement has been done in the year in which the student is approved, improvement may be made in one or more of the components in the following year, during the regular or special season.
+

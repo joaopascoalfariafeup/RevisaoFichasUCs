@@ -1,0 +1,110 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sinais e Sistemas
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>1. Descrever e explicar os conceitos, características, propriedades e operações essenciais dos sinais e dos sistemas; 2. Identificar e distinguir sinais e sistemas contínuos/discretos; 3. Definir, explicar, operar e resolver sistemas lineares e invariantes (SLIT), contínuos e discretos, no domínio dos tempos e no domínio das frequências (Fourier); 4. Interpretar e calcular transformada de Laplace, e relacioná-las com SLIT; 5. Decompor sinais e sistemas e ilustrá-lo graficamente; 6. Analisar SLIT, representados no tempo e na frequência.</p>
+
+## Resultados de aprendizagem e competências
+<p>O objetivo principal da unidade curricular de Sinais e Sistemas é fornecer aos alunos formação básica em  sinais e sistemas lineares, contínuos e discretos.Como resultados de aprendizagem os alunos devem adquirir as competências formuladas nos Objetivos da unidade curricular e demonstrar a sua incorporação na sua formação. Assim, devem, designadamente: 1. Descrever e explicar os conceitos e propriedades de sinais contínuos e discretos. 2. Representar sinais e realizar as suas transformações. 3. Descrever e explicar o conceito de sistema, e identificar e distinguir as suas propriedades principais. 4. Compreender, formular e operar a transformação de sinais realizada por <br />sistemas lineares e invariantes no tempo. 5. Incorporar e dominar as noções de análise temporal e frequencial de sinais e sistemas. 6. Equacionar, explicar e resolver problemas práticos de tratamento de sinais por intermédio de sistemas lineares e invariantes.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Conhecimentos básicos de Análise Matemática, Álgebra e Circuitos.</p>
+
+## Programa
+<p>CONTEÚDO <br />Sinais e sistemas, contínuos e discretos. Sistemas lineares e invariantes. Transfromada de Laplace. Análise de sistemas no domínio de Laplace. Análise de Fourier para sinais e sistemas. Resposta em frequência. Amostragem.<br /> <br /><br /><br /></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas Teóricas: <br />Exposição das matérias do programa, ilustração dos métodos por meio da resolução de problemas representativos. <br /> <br />Aulas Teórico-Práticas: <br />Resolução de problemas ilustrativos das matérias leccionadas nas aulas teóricas. Proposta e discussão de trabalhos de casa, resolução de problemas na aula. <br /> <br />Fora das Aulas: <br />Estudo das matérias da disciplina, resolução de problemas propostos (de modo convencional e também fazendo uso do MatLab, disponível na rede FEUP, bem como de outro software livre de apoio).</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Participação presencial: 0.0 %
+- Teste: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Avaliação distribuída (AD) - efectuada por meio da realização de 6 questoes de aula com duração não superior 20 minutos em aula. A classificação da avaliação distribuída consiste na medía das classificações destas questões, retirando as duas pior classificadas. A não realização de uma questão implica a sua avaliação com zero.<br /><br /> Exame final (E) - questões de desenvolvimento e eventualmente de escolha múltipla<br /><br />Classificação F = 0.3 AD + 0.7 EF<br /><br />Melhoria realizada para 20 valores. <br /><br />Notas:<br />-estudantes com AD de 2023/2024 podem manter essa componente se não se inscreverem em turmas TP<br />- estudantes com AD de 2022/2023 ou anteriores rezalizarão exame final para 20 valores, se não se inscreverem em turmas TP<br /><br /></p>
+
+## Obtenção de frequência
+<p>Os alunsos que em ano anterior tenham estados inscritos à UC estão dispensados de obtenção de frequência.</p>
+
+## Melhoria de classificação
+<p>Nos exames de melhoria da classificação, a classificação final será igual ao resultado obtido nesse exame, se melhor do que a classificação anterior. A classificação da avaliação distribuida não será considerada.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Signals and Systems
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>1. To describe and explain essential concepts, characteristics, properties and operations of signals and systems; <br />2. To identify and distinguish continuous/discrete signals and systems; <br />3. To define, explain, operate and solve time invariant linear systems, continuous and discrete, in  time and frequency (Fourier) domains. <br />4. To interpret and calculate Laplace transform and relate it with time invariant linear systems. <br />5. To decompose signals and systems and illustrate them; <br />6. To analyse time invariant linear systems and represent them in time and frequency.</p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of the course the student must be proficient in:<br /><br /></p>
+<p>Describing and explaining the essential concepts, characteristics, properties and operations of signals and systems; <br /><br />Understanding and solving  time invariant linear systems, continuous and discrete, in  time and frequency (Fourier) domains.</p>
+<p><br />Calculating and understanding Laplace transform and relate it with time invariant linear systems.</p>
+
+## Pré-requisitos e co-requisitos
+<p><br />Basic knowledge in mathematical analysis, algebra and circuit theory.</p>
+
+## Programa
+<p>CONTENTS <br /> Continuous and discrete signals and systems. Time invariant linear systems. Laplace transform.<br />Fourier analysis for signals and systems. Frequency response; Sampling.<br /> <br /><br /><br /><br /></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The lectures provide the main ideas and the guiding lines of the course with the help of examples. Details are left to self study and  problem solving, in tutorial sessions.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Participação presencial: 0.0 %
+- Teste: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Two components are taken into account: <br /> <br />- AD: in class questions (6)  (AD)<br />- EF: written Exam &#8211; a final exam, which will not last more than 2h 30m<br />  <br /> <br />The final mark for these students will be calculated by the formula CF = 0.3 AD + 0.7 EF</p>
+
+## Obtenção de frequência
+Students enrolled in this course in previous years, do not need to enroll in tutorial sessions
+
+## Melhoria de classificação
+<p>Students approved in the regular final exam may have optional access to a special designed exam if they wish to raise their final mark. The classification obtained in this exam substitutes the previous one, if it is higher. Note that in this case the continuous assessment is discarded, and the classification is given by the exam alone.</p>
+

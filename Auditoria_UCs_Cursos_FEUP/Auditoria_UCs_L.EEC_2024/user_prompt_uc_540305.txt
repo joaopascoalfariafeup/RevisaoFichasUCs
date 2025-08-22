@@ -1,0 +1,101 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas Digitais
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+A unidade curricular tem como objetivos fundamentais:<br />&#8226; Dar a conhecer os fundamentos teóricos bem como aspetos práticos da análise e síntese de sistemas digitais (combinatórios e sequenciais);<br />&#8226; Proporcionar uma introdução ao projeto de sistemas digitais utilizando ferramentas computacionais para simulação e síntese; <br />&#8226; Introduzir conceitos fundamentais associados ao funcionamento e organização interna de processadores e à sua programação.
+
+## Resultados de aprendizagem e competências
+Após ter concluído com sucesso esta unidade curricular os estudantes deverão ser capazes de:<br />&#8226; Usar diferentes bases (decimal, binária, octal e hexadecimal) para a representação e manipulação de números inteiros e fracionários, com e sem sinal, e realizar operações de adição e subtração nessas bases.<br />&#8226; A partir de descrições informais de funções combinatórias, obter representações na forma de tabelas de verdade, expressões lógicas, somas de termos mínimos (minterms) ou produtos de termos máximos (maxterms), e efetuar transformações que permitam reduzir a sua complexidade e simplificar os circuitos que as realizam.<br />&#8226; Analisar e projetar circuitos simples com blocos digitais combinatórios básicos, tais como portas lógicas, multiplexadores, descodificadores, somadores e comparadores.<br />&#8226; Compreender o funcionamento de dispositivos digitais bi-estáveis (flip-flops) e a sua utilização na realização de circuitos sequenciais síncronos.<br />&#8226; A partir de descrições informais do funcionamento pretendido, obter representações de máquinas de estado finitos (FSM), tais como tabelas de transição de estados e diagramas de transição de estados.<br />&#8226; Analisar e projectar circuitos sequenciais simples baseados em flip-flops, registos, contadores e registos de deslocamento.<br />&#8226; Compreender a organização e o funcionamento do percurso de dados de um processador simples (ALU, registos, multiplexadores e barramentos) e da sua unidade de controlo (descodificação de instruções e sequenciação).<br />&#8226; Desenvolver e analisar programas simples em linguagem simbólica envolvendo operações aritméticas e lógicas, testes e saltos.<br />&#8226; Aprender os princípios básicos da utilização de programas de captura esquemática e simulação (Digital).<br /><br />Nas aulas da unidade curricular é esperado que os estudantes desenvolvam e demonstrem capacidades de comunicação oral e escrita, bem como aptidões pessoais e interpessoais de cooperação e trabalho em grupo.
+
+## Programa
+&#8226; Sistemas de numeração posicional. Representação de números inteiros, com e sem sinal. Aritmética binária.<br />&#8226; Álgebra de Boole: aplicação à simplificação de expressões lógicas. Análise e síntese de circuitos combinatórios utilizando portas lógicas e blocos funcionais mais complexos (tais como, multiplexadores, descodificadores e comparadores). Introdução à descrição estrutural e simulação de circuitos digitais.<br />&#8226; Dispositivos digitais bi-estáveis (flip-flops) e sua utilização na realização de circuitos sequenciais síncronos e máquinas de estados. Análise e síntese de máquinas de estados utilizando contadores e registos de deslocamento.<br />&#8226; Identificação dos principais blocos constituintes de uma arquitetura de processamento, e apresentação da organização e funcionamento de um processador simples e do seu conjunto de instruções.
+
+## Métodos de ensino e atividades de aprendizagem
+Os conceitos e fundamentos sobre os vários conteúdos do programa da unidade curricular são expostos nas aulas teóricas (T), acompanhados de exemplos ilustrativos e de resolução de exercícios.<br /><br />Nas aulas práticas laboratoriais (PL) são resolvidos exercícios e são realizados trabalhos experimentais que introduzem técnicas de análise e projeto de sistemas digitais recorrendo a ferramentas de simulação e síntese. A sequência de trabalhos conduz à realização de um processador elementar capaz de executar sequências de instruções.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 60.0 %
+- Participação presencial: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+A classificação final (CF) é determinada por cinco questionários (Q), a realizar nas aulas PL, e dois testes (T1 e T2). Cada teste cobrirá a matéria apresentada nas aulas T e nos trabalhos laboratoriais realizados nas aulas PL.<br />A classificação final (CF) é calculada pela expressão:<br /><br />CF = 0,4 x Q + 0,3 x T1 + 0,3 x T2<br /><br />Para obterem aprovação na unidade curricular, os estudantes devem satisfazer a condição exigida para obtenção de frequência e conseguir uma classificação final arredondada superior ou igual a 10 valores.<br /><br />Obs.<br /><br />&#8226; Caso o estudante já tenha frequência do ano anterior e opte por não frequentar as aulas PL (não se inscrevendo nas turmas), a sua classificação final (CF) é calculada pela mesma expressão mas com a componente Q obtida na edição anterior (ver documento na página de Conteúdos do Sigarra).<br /><br />&#8226; Na época de recurso os estudantes que tenham obtido frequência podem ainda realizar uma prova de recurso (PR), para efeitos de aprovação ou melhoria da classificação final.
+
+## Obtenção de frequência
+A obtenção de frequência exige que os estudantes se inscrevam em turmas, para participarem nas aulas PL, e não excedam o número limite de faltas, correspondente a 25% das aulas PL previstas, isto é, não tenham mais de 3 faltas.<br /><br /><span style=&quot;text-decoration: underline;&quot;>Inscrição em turmas:</span><br /><br />&#8226; Os estudantes com inscrições anteriores podem ser avaliados sem estarem inscritos em turmas. Por isso, não devem inscrever-se em nenhuma turma. Se o fizerem perdem a frequência obtida anteriormente e ficam sujeitos ao regime de faltas e à componente de avaliação formada por questionários (Q) em aulas PL.<br /><br />&#8226; Ainda assim, estes estudantes são fortemente encorajados a participar de forma regular nas aulas teóricas (T). Se pretenderem voltar a realizar trabalhos laboratoriais poderão fazê-lo fora do horário normal das aulas, com o apoio dos respetivos docentes e dos técnicos de laboratório, com base em marcação e reserva prévia. Podem fazê-lo também no horário das aulas práticas laboratoriais (PL) de uma turma da sua escolha, desde que aceites pelo docente responsável por essa turma e nas condições que indicar.
+
+## Melhoria de classificação
+A melhoria de classificação pode ser efetuada realizando a prova de recurso (PR) ou no ano letivo seguinte.<br /><br />A prova de recurso avalia toda a matéria e tem duas partes: uma sobre a matéria das aulas T e a outra sobre os trabalhos das aulas PL. A classificação obtida em PR, se superior, substitui a média dos testes T1 e T2 no cálculo da classificação final (CF).
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Digital Systems
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+The main objectives for this curricular unit are:<br />&#8226; To explain the theoretical foundations and practical aspects of the analysis and synthesis of digital systems (combinational and sequential);<br />&#8226; To offer an introduction to modern digital system design using tools for simulation and synthesis;<br />&#8226; To introduce the fundamental concepts associated with the internal organization and operation of processors and their programming.
+
+## Resultados de aprendizagem e competências
+<p>Upon successfully completing this curricular unit students will be able to:<br />&#8226; Use different basis (decimal, binary, octal, hexadecimal) to represent and manipulate integer and fractional numbers, both positive and negative, and to realize sums and subtractions in these basis.<br />&#8226; Obtain representations of combinational functions in the form of truth tables, logic expressions, sums of minterms, or products of maxterms, from informal descriptions, and to perform the transformations needed to reduce their complexity and simplify the circuits which implement them.<br />&#8226; Analyze and design circuits with basic digital combinational building blocks like logic gates, multiplexers, decoders, adders and comparators.<br />&#8226; Understand the operation of bistable digital devices (flip-flops) and their use in the realization of synchronous sequential circuits.<br />&#8226; Obtain representations of finite state machines (FSM) such as state transition diagrams and state transition tables, from informal descriptions of their intended behavior.<br />&#8226; Analyze and design simple sequential circuits based on flip-flops, registers, counters and shift-registers.<br />&#8226; Understand the organization and the operation of the data path of a simple processor (ALU, registers, multiplexers and buses) and of its control unit (instruction decoding and sequencing).<br />&#8226; Develop and analyze simple programs in a symbolic language, dealing with arithmetic and logic operations, tests and jumps.<br />&#8226; Aquire basic knowledge in the use of software tools for schematics capture and simulation (Digital).</p>
+<p>In this curricular unit it is expected that the students will develop skills of spoken and written communication as well as personal and inter-personal working aptitudes.</p>
+
+## Programa
+&#8226; Positional number systems. Representation of integer numbers, with and without signal. Binary arithmetic.<br />&#8226; Boolean Algebra: application in the simplification of logic expressions. Analysis and synthesis of combinational circuits using logic gates and higher complexity blocks (multiplexers, decoders and comparators). Introduction to structural description and simulation of digital circuits.<br />&#8226; Bistable digital devices (flip-flops) and their utilization in the realization of synchronous sequential circuits and finite state machines.  Analysis and synthesis of finite state machines using counters and shift-registers.<br />&#8226; <span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b ChMk0b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;0&quot;>Identification of the main building blocks of a processing architecture, and presentation of the</span> <span class=&quot;JLqJ4b ChMk0b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;2&quot;>organization and functioning of a simple processor and its set of instructions.</span> </span>
+
+## Métodos de ensino e atividades de aprendizagem
+Fundamentals and main concepts of the course contents are covered in theoretical classes (T) which also offer illustrative examples and exercises.<br /><br />The practical and laboratory classes (PL) are dedicated to solving exercises and realizing experimental work intended to introduce digital system analysis and design techniques making use of PC based simulation and synthesis tools. <span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b ChMk0b C1N51c&quot;><span class=&quot;Q4iAWc&quot;>The sequence of works leads to the realization of an elementary processor capable of executing sequences of instructions.</span></span></span>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 60.0 %
+- Participação presencial: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b ChMk0b&quot;><span class=&quot;Q4iAWc&quot;>The final grade (CF) is determined by five questionnaires (Q), to be carried out in PL classes, and two tests (T1 and T2).</span></span> <span class=&quot;JLqJ4b ChMk0b&quot;><span class=&quot;Q4iAWc&quot;>Each test will cover the subjects presented in T classes and in the laboratory works carried out in PL classes.</span></span> <span class=&quot;JLqJ4b ChMk0b&quot;><span class=&quot;Q4iAWc&quot;>The final grade (CF) is calculated by the expression:</span></span><br /><br /><span class=&quot;JLqJ4b ChMk0b&quot;><span class=&quot;Q4iAWc&quot;>CF = 0.4 x Q + 0.3 x T1 + 0.3 x T2</span></span></span><br /><br />In order to pass this curricular unit students have to meet the requirements to obtain <em>frequência </em>and have a final <span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b ChMk0b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;0&quot;>rounded </span></span>grade greater than or equal to 10.<br /><br />Obs.<br /><br /><span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b ChMk0b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;2&quot;><span class=&quot;Q4iAWc&quot;>&#8226; If the student has already attended the previous year and chooses not to attend the PL classes (not enrolling in the classes), his final classification (CF) is calculated by the same expression but with the Q component obtained in the previous edition (see document in the Content page of Sigarra).<br /></span><br />&#8226; <span class=&quot;Q4iAWc&quot;>At the appeal season, students who have obtained frequency can also take an exam (PR), for the purposes of approval or improvement of the final grade.</span><br /></span></span>
+
+## Obtenção de frequência
+<p>In order to obtain the <em>frequência</em> status, the students must register for sections (<em>turmas</em>) in order to participate in PL classes, and must not miss more than 25% of total number of planned sessions (i.e.<span id="result_box" class="" lang="en"> not miss more than 3 class meetings)</span>.<br /><br /><span style="text-decoration: underline;">Registering for sections (<em>turmas</em>):</span><br /><br />&#8226; Students who have registered for the course in a previous academic year do not have to register for a section in order to take any of the exams. These students should not register for a section. <span class="VIiyi" lang="en"><span class="JLqJ4b ChMk0b" data-language-for-alternatives="en" data-language-to-translate-into="pt" data-phrase-index="0"><span class="Q4iAWc">If they do it, they lose the frequency obtained previously and are subject to the absence regime and the assessment component formed by questionnaires (Q) in PL classes.</span>.<br /></span></span><br />&#8226; Nevertheless these students are strongly encouraged to attend T classes on a regular basis. They may also perform the laboratory exercises out of the normal class schedule, with the help of the instructors and the lab technicians, on periods agred with them. They may also do this in the time assigned to a PL session of their choice, subject to the acceptance and the rules specified by the instructor of such section.</p>
+
+## Melhoria de classificação
+Classification improvement can be done by taking the &quot;appeal&quot; exam (PR) or in<span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b ChMk0b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;0&quot;> the next academic year.<br /></span></span><br /><span id=&quot;result_box&quot; class=&quot;&quot; lang=&quot;en&quot;><span class=&quot;&quot;>The exam covers all the subjects taught and has two parts: one <span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b ChMk0b&quot;><span class=&quot;Q4iAWc&quot;>evaluates the subjects presented in T classes and the other evaluates the laboratory works carried out in PL classes</span></span></span>. <span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b ChMk0b&quot;><span class=&quot;Q4iAWc&quot;>The classification obtained in PR, if higher, replaces the average of the T1 and T2 tests in the calculation of the final grade (CF)</span></span></span>.<br /><br /><br /></span></span>
+

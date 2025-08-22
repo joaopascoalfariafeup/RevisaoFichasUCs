@@ -1,0 +1,126 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise de Imagem Biomédica
+
+## Curso responsável
+Licenciatura em Bioengenharia
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+Esta é uma UC de introdução aos temas do Processamento e Análise de Imagem, onde serão apresentados conceitos e métodos fundamentais destas áreas.<br /><br />Os objetivos da aprendizagem são essencialmente o desenvolvimento de conhecimentos e capacidades em:<br />. conceitos e metodologias do processamento digital de imagem;<br /> . princípios, conceitos e métodos da física e tecnologias de imagem usados em Biologia e em Medicina (BM).
+
+## Resultados de aprendizagem e competências
+<p>O estudante que conclua com sucesso esta UC deve:<br />- compreender e ser capaz de explicar os conceitos da processamento e análise de imagem e os seus algoritmos fundamentais;<br />- conhecer e ser capaz de selecionar e aplicar esses algoritmos em situações práticas;<br />- ter adquirido conhecimentos que lhe permitam usar uma biblioteca que implemente alguns dos algoritmos estudados;<br />- ser capaz de analisar e compreender artigos científicos selecionados nas áreas do processamento e análise de imagem.<br />- ser capaz de desenvolver sistemas simples de análise de imagem, de acordo com as especificações definidas aplicando as ferramentas tecnológicas mais apropriadas.</p>
+
+## Pré-requisitos e co-requisitos
+Conhecimentos de MatLab.
+
+## Programa
+<p>0. Apresentação da unidade curricular.<br /><br />1. Introdução: O ciclo da Ánalise de Imagem/Visão por Computador.</p>
+<p>2. Imagens Digitais: Introdução. Aquisição e formação de imagens digitais.Imagens  monocromáticas e policromáticas. Breves considerações sobre topologia digital.</p>
+<p>3. Realce de imagem: Transformações de intensidade básicas. Realce de imagem usando operadores locais lineares e não lineares.</p>
+<p>4. Segmentação de Imagem: Introdução. Segmentação baseada em características. Segmentação baseada em imagem (regiões e contornos).<br /><br />5. Deteção de características: Introdução. Deteção de orlas. Deteção de curva. Deteção de cantos. Deteção de regiões salientes. "Matching" de características e de regiões.</p>
+<p>6. Análise quantitativa. Introdução. Etiquetagem de regiões. Medição de características morfológicas, dimensionais e topológicas.</p>
+<p>7. Introdução ao reconhecimento de imagem.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teórico-práticas (TP) de carácter expositivo, complementadas pela apresentação de exemplos ilustrativos.<br /><br /> Aulas Práticas (PL)  em laboratório de computadores. Realização pelos estudantes de problemas de aplicação dos conceitos e métodos apresentados nas aulas teórico-práticas.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 62.0 horas
+- Frequência das aulas: 52.0 horas
+- Elaboração de projeto: 40.0 horas
+- Apresentação/discussão de um trabalho científico: 2.0 horas
+- Trabalho escrito: 6.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação de frequência (CF) de cada estudante é classificação obtida no trabalho de grupo.<br /><br />A nota final (NF) é calculada por NF=0.6*Ex+0.4*CF sendo, Ex a classificação do exame e CF a classificação de frequência.<br /><br />O estudante só obtém aprovação à UC se a sua nota do exame, Ex, for igual ou superior a 8,00 valores.</p>
+
+## Obtenção de frequência
+<p>Condições de Frequência:<br /><br />1. Não ultrapassar o número legal de faltas nas aulas teórico-práticas e laboratoriais (condição necessária); <br />2. Realizar um trabalho em grupo (projeto) em tema a definir; o trabalho deverá ser apresentado pelos membros do grupo numa sessão a realizar nas aulas teórico-práticas.</p>
+
+## Melhoria de classificação
+<p>A melhoria de classificação obtida no exame da 1ª época é realizada no exame de recurso, que incide sobre toda a matéria leccionada. A classificação de frequência também será considerada na época de melhoria de classificação.<br /><br />A classificação de frequência só pode ser melhorada por frequência no ano letivo seguinte.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Biomedical Imaging Analysis
+
+## Curso responsável
+Bachelor in Bioengineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+This is an introductory course on Image Processing and Analysis (IPA), where fundamental concepts and methods of these areas will be presented.<br /><br />The learning objectives are essentially the development of knowledge and skills in:<br />. concepts and methodologies of digital image processing<br />. principles, concepts and methods of physics and imaging technologies used in Biology and Medicine (BM).
+
+## Resultados de aprendizagem e competências
+<p>Students who successfully complete this course should:<br />- understand and be able to explain the concepts of image processing and analysis and their fundamental algorithms;<br />- know and be able to select and apply these algorithms in practical situations;<br />- have acquired the knowledge to use a library that implements some of the algorithms studied;<br />- be able to analyze and understand selected scientific articles in the areas of image processing and analysis.<br />- be able to develop simple image analysis systems, according to the specifications defined, applying the most appropriate technological tools.</p>
+
+## Pré-requisitos e co-requisitos
+Knowledge of MatLab.
+
+## Programa
+<p>0. Presentation of the curricular unit.<br /><br />1. Introduction: The Image Analysis/Computer Vision cycle. Applications.<br /><br />2. Digital Images: Introduction. Acquisition and formation of digital images. Monochrome and polychrome images. Brief considerations on digital topology.<br /><br />3. Image enhancement: Basic intensity transformations. Image enhancement using local linear and non-linear operators.<br /><br />4. Image segmentation: Introduction. Feature-based segmentation. Image-based segmentation (regions and contours).<br /><br />5. Feature detection: Introduction. Edge detection. Curve detection. Corner detection. Salient region detection. "Matching features and regions.<br /><br />6. Quantitative analysis. Introduction. Region labeling. Measuring morphological, dimensional and topological characteristics.<br /><br />7. Introduction to image recognition.</p>
+<!-- [if gte mso 9]><xml>
+<br /> <o:DocumentProperties>
+<br />  <o:Version>14.00</o:Version>
+<br /> </o:DocumentProperties>
+<br /> <o:OfficeDocumentSettings>
+<br />  <o:AllowPNG/>
+<br /> </o:OfficeDocumentSettings>
+<br /></xml><![endif]-->
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Lectures (classes TP) for exposing the main topics of the syllabus, always with illustrative examples. <br /><br />Lab work (classes PL) with the development by the students of application problems of the concepts and methods taught in the theoretical lectures.</p>
+<div id="gt-res-tools"> </div>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 62.0 hours
+- Frequência das aulas: 52.0 hours
+- Elaboração de projeto: 40.0 hours
+- Apresentação/discussão de um trabalho científico: 2.0 hours
+- Trabalho escrito: 6.0 hours
+
+## Fórmula de cálculo da classificação final
+<p style="text-align: justify;"><span class="hps"><span class="hps">The frequency mark (CF) is the mark of the group assignment.<br /><br />The final grade (NF) is calculated by NF=0.6*Ex+0.4*CF where Ex is the exam grade and CF is the frequency gmark.<br /><br />Students can only pass the course if their exam mark , Ex, s equal to or higher than 8.00.<br /></span></span></p>
+
+## Obtenção de frequência
+<p><span class="hps">Conditions for frequency:<br /><br />1. Do not exceed the legal number of absences in the theoretical-practical and laboratory classes (necessary condition);<br />2. To develop a group assignment (project) on a topic to be defined; the assignment must be presented by the members of the group in a session to be held in the theoretical-practical classes.</span></p>
+
+## Melhoria de classificação
+<p>Students have to attend recurso (resit) exam to improve their grades. The exam will cover the entire program. The frequency mark will also be used for calculating the final grade in case of grade improvement exam.<br /><br />The attendance grade can only be improved by attendance in the following year.</p>
+

@@ -1,0 +1,104 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise I
+
+## Curso responsável
+Licenciatura em Física
+
+## Créditos ECTS
+9
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+Adquirir o conhecimento de conceitos, resultados e técnicas básicas de cálculo diferencial e integral de funções reais de uma variável real.
+
+## Resultados de aprendizagem e competências
+<span class=&quot;Apple-style-span&quot;>Os estudantes deverão dominar os conceitos e resultados básicos da análise de funções reais de uma variável real, nomeadamente: sucessões, limites, séries, continuidade, derivação, primitivação, integração, polinómios e séries de Taylor. <br /><br />Pretende-se também que a unidade contribua para que os alunos trabalhem com rigor conceitos atnteriormente usados de modo intuitivo.</span>
+
+## Pré-requisitos e co-requisitos
+N/A
+
+## Programa
+0. O CONJUNTO DOS NÚMEROS REAIS <br /> <br />Estrutura algébrica, ordem e completude. <br /><br />1. LIMITES E CONTINUIDADE<br /><br />Sucessões: definição e unicidade de limite, sucessões monótonas e limitadas, subsucessões. Definição e unicidade de limite de uma função num ponto. Limites laterais e aritmética de limites.  Caraterização de Heine de limite. Limites no infinito, e assíntotas horizontais e oblíquas. Limites infinitos e assíntotas verticais. Frações contínuas.<br /> <br />2. DERIVADAS E PRIMITIVAS <br /> <br />Motivação geométrica e significado físico da noção de derivada de uma função real de variável real num ponto. Definição de derivada e derivadas laterais num ponto. Primitivas. Derivadas e primitivas de funções elementares. Relação entre continuidade e derivabilidade. Teorema do enquadramento de limites. Derivada e primitiva da soma e produto por um escalar. Derivada do produto e do quociente. Derivada da função composta e regra de primitivação associada. Derivada da função inversa. Inversas das funções trigonométricas e correspondentes derivadas. Primitivação por substituição. Primitivação por partes. Primitivação de funções racionais. <br /> <br />3. INTEGRAIS <br /> <br />Conceito de área.  Integral de Riemann de uma função limitada num intervalo. Funções integráveis. Propriedades básicas dos integrais. A função área. Teorema Fundamental do Cálculo e consequências. Cálculo de integrais. Integração por substituição e limites de integração. Integrais impróprios: caso das funções contínuas definidas em intervalos não limitados e caso das funções contínuas não limitadas num intervalo.<br /> <br />4. TEOREMAS FUNDAMENTAIS DO CÁLCULO DIFERENCIAL E APLICAÇÕES <br /> <br />Teoremas de continuidade: permanência do sinal na vizinhança de um ponto de continuidade; Teorema dos Valores Intermédios; Teoremas de Bolzano e de Weierstrass.<br /><br />Teoremas sobre funções deriváveis: anulamento da derivada nos extremos locais (de funções definidas em abertos; Teoremas de Rolle, Lagrange e Cauchy. Aplicações: determinação de extremos de funções; prova de que uma função com derivada nula num intervalo é constante; determinação de intervalos de monotonia e concavidades; classificação dos pontos críticos. Indeterminações. Regra de L'Hôpital. Funções convexas em intervalos fechados. Descontinuidades possíveis de uma função que é derivada de outra num intervalo. Funções de classe C^k. <br /><br />5. APROXIMAÇÃO POLINOMIAL<br /><br />Aproximação polinomial de funções: Polinómio de Taylor; tangência de grau n de uma função ao seu polinómio de Taylor de ordem n num ponto fixado; fórmula de Lagrange para o resto. Aplicação: irracionalidade do número de Neper. Séries de Taylor: intervalo de convergência e fórmula do erro.<br /><br />6. SÉRIES<br /><br />Séries numéricas reais: convergência absoluta e convergência condicional; critérios de convergência. Séries de funções: convergência pontual e convergência uniforme; derivação e integração termo a termo. Séries de potências: intervalo e raio de convergência.<br /><br />7 COMPLEMENTOS SOBRE INTEGRAIS<br /><br />Caso o tempo o permita, poderão ser considerados tópicos como a caraterização das funções integráveis segundo Riemann e o integral de calibre.
+
+## Métodos de ensino e atividades de aprendizagem
+Exposição da matéria realizada pelo docente. Disponibilização dos slides apresentados nas aulas teóricas , além de folhas de exercícios. Haverá indicação antecipada dos exercícios a serem discutidos nas aulas teórico-práticas em cada semana, encorajando o trabalho prévio e autónomo.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 171.0 horas
+- Frequência das aulas: 72.0 horas
+
+## Fórmula de cálculo da classificação final
+A avaliação na época normal consiste de dois testes a realizar durante o semestre,  cada um com o peso de 0,3, sendo o restante peso de 0,4 atribuído ao exame final. A participação nos testes e no exame final é obrigatória, reprovando por falta de componente da avaliação os estudantes que não participem em alguma destas provas.<br /><br />O exame da época de recurso tem peso 1 na nota final dos estudantes que nele se inscrevam. São automaticamente admitidos todos os estudantes insscritos na disciplina que não tenham anteriormente obtido aprovação. São também admitidos os estudantes que, já aprovados, expressamente se inscrevam para melhoris de nota nos termos regulamentares.<br /><br />As notas numéricas obtidas em cada prova podem ser afetadas dum fator de ajuste maior ou igual a 1 face à dificuldade da prova tendo em conta os resultados observados. Elas são convertidas num número entre 0 e 20, de forma linear mas truncada a esse intervalo, e transformadas num inteiro por arredondamento sucessivo às centésimas, às décimas e às unidades.<br /> <br />Em cada época, os estudantes poderão ser convidados a prestar uma prova complementar, que poderá ser oral ou escrita e dependerá da condição de admissão. O convite dirige-se aos estudantes que satisfaçam uma ou mais das seguintes condições: <br /><br /><br /><ol><br /><li>terem obtido classificação inteira de 8 ou 9 valores; neste caso, da aprovação na prova complementar resultará a subida da nota para 10, mantendo-se a nota no caso contrário;</li><br /><li>terem obtido classificação maior ou igual a 18 valores; neste caso, a prova, cuja realização depende de decisão do júri tendo em atenção a dificuldade das provas, destina-se a atribuir classificação maior ou igual a 18 valores;</li><br /><li>terem usado algum estratagema óbvio na resposta a questões do tipo verdadeiro/falso que indicie não terem sequer tentado resolver as questões, tais como a resposta ser independente da questão; neste caso, os estudantes poderão ser chamados a justificarem as suas respostas às questões das provas ou outras semelhantes, sendo retirada a cotação atribuída automaticamente caso não sejam bem sucedidos ou não participem na prova.</li><br /></ol>
+
+## Obtenção de frequência
+Sem condições: todos os estudantes inscritos obtêm frequência.
+
+## Melhoria de classificação
+Aplicam-se as disposições regulamentares.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Analysis I
+
+## Curso responsável
+Bachelor in Physics
+
+## Créditos ECTS
+9
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+To master the basic concepts, results and techniques of the differential and integral calculus on one variable.
+
+## Resultados de aprendizagem e competências
+<span class=&quot;Apple-style-span&quot;>Students are expected to master the basic concepts of analysis of real functions in one real variable, namely: sequences, limits, series, continuity,  the derivative, primitive and integral operators, and Taylor polynomials and series. <br /><br />This course unit is also desinged to provide the adequate environment for students to work rigorously with analytical concepts that previously have only been used at an intuitive level.</span>
+
+## Pré-requisitos e co-requisitos
+N/A
+
+## Programa
+0. THE SET OF REAL NUMBERS <br /> <br />The set of real numbers: algebraic structure, ordering and completeness. <br /><br />1. LIMITS AND CONTINUITY<br /><br />Sequences: definition, limit, uniqueness of its limit, monotone and bounded sequences, subsequences. Definition and uniqueness of the limit of a function at a point.  Heine&#8217;s characterization of limit. Lateral limits and the arithmetic of limits. Limits at infinity, and horizontal and oblique asymptotes. Infinite limits and vertical asymptotes. Continuous functions. <br /> <br />2. DERIVATIVES AND ANTIDERIVATIVES <br /> <br />Geometric motivation and physical meaning of the notion of derivative of a real function at a point. Definition of derivative and lateral derivatives at a point. Anti-derivatives. Derivatives and anti-derivatives of elementary functions. Relationship between continuity and derivability. Squeeze theorem. Derivatives and anti-derivatives of sums and products by a scalar. Derivatives of products and quotients. Chain rule and corresponding anti-derivative rule. Derivative of the inverse function. Inverses of trigonometric functions and corresponding derivatives. Anti-derivative by substitution. Anti-derivative by parts. Anti-derivatives of rational functions. <br /> <br />3. INTEGRALS <br /> <br />Concept of area. Riemann integral of a bounded function over an interval. Integrable functions. Basic properties of integrals. The area function. The Fundamental Theorem of Calculus and its consequences. Computation of integrals. Integration by substitution and integration limits. Improper integrals: the case of continuous functions defined on unbounded intervals and the case of continuous unbounded functions defined on an interval. <br /> <br />4. THE FUNDAMENTAL THEOREMS OF CALCULUS AND APPLICATIONS <br /> <br />Theorems of continuity: the permanence of sign in the neighbourhood of a continuity point; Theorem of Intermediate Values; Theorems of Bolzano and Weierstrass.<br /><br />Theorems on differentiable functions: the derivative is zero in local extreme points (for functions whose domains are open); Mean Value Theorems (Rolle&#8217;s, Lagrange&#8217;s, Cauchy&#8217;s). Applications: determination of extremes of functions; proof that a function defined on an interval with nil derivative is constant; determination of monotonic intervals and concavity; classification of critical points. Indeterminate limits. L&#8217;Hôpital&#8217;s Rule. Convex functions whose domain is a closed interval. Possible discontinuities of a function which is the derivative of another inside an interval. Functions of class C^k. <br /> <br />5. POLYNOMIAL APPROXIMATION <br /> <br />Polynomial approximation of functions: Taylor polynomials; tangent of degree n of a function and its Taylor polynomial of order n at a given point; Lagrange&#8217;s formula for the remainder. Application: irrationality of Neper&#8217;s number. Taylor series: convergence domain and error formula.<br /><br />6 SERIES<br /><br />Series of real numbers: absolute and conditional convergence; convergence criteria. Series of functions: pointwise and uniform convergence; termwise differentiation and integration. Power series: interval and radius of convergence.<br /><br />7. COMPLEMENTARY MATERIAL ON INTEGGRALS<br /><br />Time permitting, further topics such as the characterization of Riemann integrable functions and the gage integral may be considered.
+
+## Métodos de ensino e atividades de aprendizagem
+Presentation of the course material by the teacher. Slides presented in the lectures will be made available to the students, as well as exercise sheets. Exercises will be suggested each week for discussion in the TP-classes so as to encourage autonomous work in advance of classes.<br /><div id=&quot;gt-form-c&quot;><form id=&quot;gt-form&quot; action=&quot;/&quot; enctype=&quot;application/x-www-form-urlencoded&quot; method=&quot;post&quot; name=&quot;text_form&quot;><br /><div id=&quot;gt-text-all&quot;><br /><div id=&quot;gt-main&quot;><br /><div id=&quot;gt-text-c&quot;><br /><div id=&quot;gt-text-top&quot;><br /><div id=&quot;gt-res-c&quot; class=&quot;g-unit&quot;><br /><div id=&quot;gt-res-p&quot;><br /><div id=&quot;gt-res-data&quot;><br /><div id=&quot;gt-res-wrap&quot;><br /><div id=&quot;gt-res-content&quot;><br /><div id=&quot;gt-res-dir-ctr&quot; class=&quot;trans-verified-button-small&quot; dir=&quot;ltr&quot;><span id=&quot;result_box&quot; lang=&quot;en&quot;> </span></div><br /></div><br /></div><br /></div><br /></div><br /></div><br /></div><br /></div><br /></div><br /></div><br /></form></div>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 171.0 hours
+- Frequência das aulas: 72.0 hours
+
+## Fórmula de cálculo da classificação final
+The student assessment in the normal exam period consists in two tests during the semester, each with the weight 0.3, the remaning weight of 0.4 being attributed to the final exam. <br />Participation in the tests and in the final exam is mandatory; <br />students that do not participate in at least one of them fail the course for lack of evaluation component.<br /><br />The remedial exam has weight 1 in the final grade for students that register for it. Registration for this exam is automatic for students registered for the course that have not previously obtained a passing grade. Previously approved students who wish to improve their grade according to the regulations may also register to take the remedial exam.<br /><br /><br /><div>The grades obtained in each evaluation component may be affected by a factor greater than or equal to 1 to adjust for the difficulty of the questions taking into account the observed grades. The grades are then converted to a number between 0 and 20, the conversion being linear but truncated to that interval, and then further converted to an integer value by successively rounding to centesimals, decimals and units.<br /><br />In each exam period, students may be invited to a complementary assessment that may be oral or written and depends on the admission condition. The invitation is addressed to the students to which one or more of the following conditions applies:<br /><br /><ol><br /><li>to have obtained an integer grade of 8 or 9; in this case, the approval in the complementary assessment results in the grade being increased to 10, the original grade being retained otherwise;</li><br /><li>to have obtained a grade of at least 18; in this case, the complementary assessment may or may not take place, depending on the difficulty of the admission tests/exam and serves to attribute a grade of 18 or higher;</li><br /><li>to have used some obvious strategy in answering true/false questions that indicates that no attempt was made to actually solve the questions, such as the answer being independent of the question; in this case, the students may be called to justify their answers to the questions in the exams or to similar questions, the attributed marks being withdrawn in case they are not successful or they do not participate in this assessment.</li><br /></ol><br /></div>
+
+## Obtenção de frequência
+No requirements: all registered students are considered to have followed the course.
+
+## Melhoria de classificação
+The general rules apply.
+

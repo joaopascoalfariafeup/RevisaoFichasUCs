@@ -1,0 +1,128 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Laboratório de Fluidos e Energia
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p> Num mundo de crescente exigência ao nível do desempenho profissional , é necessário que os futuros engenheiros possuam conhecimentos bem alicerçados numa variada gama de áreas científicas. Para esse efeito, as aulas laboratoriais são importantes uma vez que nelas os conceitos teóricos se conciliam com a prática, contribuindo-se assim para consolidar os conhecimentos adquiridos noutras unidades curriculares. OBJETIVOS ESPECÍFICOS:<br />1. Realizar cálculos de análise geral e detalhada de incerteza. <br />2. Escolher os sistemas de medição de temperatura, velocidade e caudal. <br />Competências Computacionais<br />3. Utilizar o programa EES para realizar análises gerais de incerteza e comparando também, sempre que possível, os resultados do modelo matemático com os resultados experimentais. <br />Competências Experimentais (e.g.)<br />4. Determinar experimentalmente algumas características reológicas de um fluido viscoelástico e ajustar modelos Newtonianos generalizados à curva de viscosidade.<br />5. Determinar experimentalmente coeficientes de convecção e de arrasto<br />6. Medir velocidades e caudais utilizando o tubo de Pitot e o método Log-linear, placas orifício e outros caudalímetros. <br />7. Determinar experimentalmente curvas de altura manométrica, de rendimento e potência, de bombas centrífugas a diferentes velocidades de rotação.<br />Competências Transversais<br />8. Escrever relatórios técnicos. <br />9. Realizar trabalhos em grupo<br /><br /><br /><br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p> No final desta unidade curricular, e dependendo ligeiramente dos trabalhos experimentais realizados,  os alunos serão capazes de: -Realizar cálculos de análise de incerteza. -Utilizar o programa EES para realizar análises gerais de incerteza e simular alguns dos fenómenos presentes em trabalhos experimentais. -Escolher os sistemas de medição de temperatura, velocidade e caudal para uma dada aplicação. -Escrever relatórios técnicos. -Determinar experimentalmente algumas características reológicas de um fluido viscoelástico. Ajustar modelos Newtonianos generalizados, como seja o modelo de Carreau-Yasuda de cinco parâmetros, à curva de viscosidade versus taxa de deformação obtida num escoamento de corte simples. -Utilizar medidores de caudal como sejam o venturi, o rotâmetro e a placa orifício possuindo o conhecimento experimental do erro a eles associado, e calcular os respetivos coeficientes de perda de carga experimentais. -Medir velocidades e caudais utilizando o tubo de Pitot standard. -Regular caudais utilizando um variador de frequência, reconhecendo a poupança de energia associada a este método. -Determinar experimentalmente curvas de altura manométrica, de rendimento e potência de bombas centrifugas. -Medir temperaturas por intermédio de termopares utilizando apenas um voltímetro e a curva do termopar. -Determinar experimentalmente coeficientes de convecção, de arrasto e sustentação.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Os estudantes deverão possuir conhecimentos inerentes às seguinte unidades ccurriculares, ou equivalentes: Análise Numérica, Termodinâmica I, Termodinâmica II, Mecânica dos Fluidos I, Mecânica dos Fluidos II, Transferência de Calor.</p>
+
+## Programa
+<p>APRENDIZAGEM AUTO-DIDÁCTICA DOS SEGUINTES CONTEÚDOS (DISPONÍVEIS EM SLIDES e aulas gravadas)<br />ANÁLISE DE INCERTEZAS<br />Conceitos básicos e definições. Incerteza de uma variável medida, análise geral de incertezas, planeamento de experiências. Análise detalhada de incertezas.<br />MEDIÇÕES DE TEMPERATURA<br />Termometria baseada na expansão térmica, RTD, termistores e termopares. <br />MEDIÇÕES DE VELOCIDADE<br />Tubo de Pitot, ultra-sons, Laser Doppler, PIV entre outros.<br />MEDIÇÕES DE CAUDAL POR DIFERENÇAS DE PRESSÃO<br />Perfis de velocidade, placas orifício, venturis e tubeiras etc.<br />MEDIÇÕES DE CAUDAL COM BASE NOUTROS PRINCÍPIOS<br />Electromagnético, de turbina, de vórtices e de fluídica, de área variável, ultrasónicos, de correlação cruzada, entre outros. <br />TRABALHOS EXPERIMENTAIS (e.g.)<br />Ensaio reológico<br />Raio crítico de isolamento <br />Escoamento de ar através de uma placa orifício e Medição de caudais pelo método log-linear<br />Coeficientes de arrasto de esferas<br />Curvas características de uma bomba centrífuga<br />Determinação experimental de coeficientes de arrasto e de sustentação em diferentes geometrias<br />Coeficientes de convecção natural e forçada em corpos 3D</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas decorrerão no laboratório onde serão realizados os trabalhos experimentais. A ficha de resultados, que será objeto de avaliação expedita, tem em vista detetar erros e evitar que estes se repercutam no relatório respetivo.<br />Para incentivar os estudantes a ler previamente o protocolo relativo ao trabalho experimental que vão realizar, bem como estar atentos ao decorrer do trabalho experimental e também estudarem uma parte dos conteúdos da aprendizagem autodidática referida no programa, haverá no final de cada aula um mini teste que avaliará essas referidas componentes.<br />No prazo de quinze dias após a realização do trabalho experimental os estudantes deverão entregar o relatório em formato pdf. <br />A penúltima aula será uma aula teórico-prática para resolver exercícios relativos aos conteúdos da aprendizagem autodidática referida no programa, incidindo na análise de incertezas.<br /><br /></p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 10.0 %
+- Teste: 50.0 %
+- Trabalho laboratorial: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 116.0 horas
+- Frequência das aulas: 18.0 horas
+- Trabalho laboratorial: 28.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Avaliação distribuída sem exame final com as seguintes componentes:<br />Relatórios - 40%;<br />Fichas de resultados (a entregar no final de cada aula laboratorial) &#8211; 10%;<br />Mini testes (a realizar no final de cada aula laboratorial, incidindo sobre o trabalho experimental realizado, 15% e respectivo protocolo bem como sobre uma parte previamente definida dos conteúdos da aprendizagem autodidática referida no programa, 15%) &#8211; 30%;<br />Teste a realizar na última aula ( resolução de exercícios práticos onde se aplica os conhecimentos adquiridos no estudo dos conteúdos da aprendizagem autodidática referida no programa, com predominância  na análise de incertezas) &#8211; 20%;<br />O desempenho dos vários elementos de cada grupo, no trabalho em equipa (elaboração de relatórios), será no final do semestre sujeito à avaliação inter pares. Será descontado 20% à classificação do relatório por cada dia de atraso na entrega do mesmo.<br />Esta UC não é passível de avaliação em momento único.<br /><br /><br /></p>
+
+## Obtenção de frequência
+<p>Terão frequência os alunos regularmente inscritos, que não excedam o número de faltas, de acordo com as regras em vigor, e que tenham obtido uma classificação não inferior a 10 valores no conjunto das componentes de avaliação (A), (B) e (C).</p>
+
+## Melhoria de classificação
+não aplicável
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Laboratory of Fluids and Energy
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p> In a world of growing demand in terms of job performance, it is necessary for the future engineers to have a well grounded knowledge in a wide range of scientific areas. To this objective, the laboratory classes are important because in them the theoretical concepts are reconciled with practice, contributing thus to consolidate the knowledge acquired in other courses. SPECIFIC AIMS: 1. Perform general and detailed uncertainty analysis calculations.<br />2. Choose the most appropriate temperature, velocity and flow measurement system for a given application.<br />Computer Skills<br />3. Use the EES program to carry out general analysis of uncertainty and also comparing, whenever possible, the results of the mathematical model with the experimental results.<br />Experimental Competencies (e.g.)<br />4. Experimentally determine some rheological characteristics of a viscoelastic fluid and adjust generalized Newtonian models to the viscosity curve obtained in a simple  shear flow.<br />5. Experimentally  determine convection and drag coefficients.<br />6. Measure velocities and flow rates using a standard Pitot tube and the  Log-linear method, or orifice plates and other flow meters.<br />7. Experimentally determine the head, efficiency  and power curves, both  dimensional and dimensionless, of centrifugal pumps at different speeds of rotation.<br />Transversal Competencies<br />8. Write technical reports.<br />9. Perform group work<br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of this course, and depending slightly on the experimental work carried out, students shall be able to: -Perform uncertainty analysis calculations. -Use the ESS program to perform general uncertainty analyzes and simulate some of the phenomena present in the experimental studies. -Select temperature, velocity and flow rate measuring systems for a given application. -Write technical reports. -Determine experimentally some rheological characteristics of a viscoelastic fluid. Fit generalized Newtonian models, such as the five parameters Carreau-Yasuda model, to the experimental shear viscosity curve. -Use flow meters such as the venturi, the orifice plate and rotameter and calculate their experimental pressure drop coefficients. -Measure local flow velocities using a standard Pitot tube. -Setting a given flow rate using a frequency inverter, recognizing the energy savings associated with this method. -Determine experimentally curves of head, efficiency and power of centrifugal pumps. -Measure temperatures by means of thermocouples using only a voltmeter and the thermocouple curve. -Experimentally determine convection and drag and lift coefficients.</p>
+
+## Pré-requisitos e co-requisitos
+<p><span id="result_box" lang="en"><span class="hps">Students should</span> <span class="hps">have knowledge</span> <span class="hps alt-edited">inherent to</span> the following curricular units, <span class="hps">or</span> <span class="hps">equivalent:</span></span> Numerical Analysis, Thermodynamics I, Thermodynamics II, Fluid Mechanics I, Fluid Mechanics, Heat Transfer.</p>
+<p> </p>
+
+## Programa
+<p>SELF-DIDACTIC LEARNING OF THE FOLLOWING CONTENTS (AVAILABLE IN SLIDES)</p>
+<p>EXPERIMENTATION AND ANALYSIS OF UNCERTAINTIES</p>
+<p>Basic concepts and definitions. Uncertainty of a measured variable, general uncertainties analysis, planning of experiments. Detailed uncertainties analysis .</p>
+<p>TEMPERATURE MEASUREMENTS</p>
+<p>Thermal expansion, RTD, thermistors and thermocouples.</p>
+<p>VELOCITY  MEASUREMENTS</p>
+<p>Pitot tube, ultrasonic, Laser Doppler and PIV among others.</p>
+<p>FLOW MEASUREMENTS BASED ON PRESSURE DIFFERENCES</p>
+<p>Velocity profiles, orifice plates, venturis and nozzles, among others</p>
+<p>FLOW MEASUREMENTS BASED ON OTHER PRINCIPLES</p>
+<p>Electromagnetic, turbine, vortex and fluidic, variable area, ultrasonic, massic, cross-correlation among others.</p>
+<p>EXPERIMENTAL WORK (e.g.)</p>
+<p>Rheological test</p>
+<p>Radius of insulation</p>
+<p>Flow through an orifice plate and  flowrate  measurement  by the log-linear method</p>
+<p>Drag  coefficients in spheres</p>
+<p>Characteristic curves of a centrifugal pump<br /><br />Experimental determination of drag and lift coefficients in different geometries</p>
+<p>Forced and free convection coefficients in 3D bodies</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The classes will take place in the laboratory where the experimental work will be carried out. A results sheet, which will be subject to an expedited evaluation, pretends  to detect errors and prevent them from being reflected in the respective report.<br />In order to encourage students to read in advance the protocol related to the experimental work they are going to carry out, as well as to be attentive to the experimental work and also to study a part of the contents of the self-taught learning mentioned in the program, there will be at the end of each class a mini test that will evaluate these components.<br />Within fifteen days of the completion of the experimental work, the students must submit the report in pdf format.<br />The penultimate class will be a theoretical-practical class where it will be solved exercises related to the contents of the self-taught learning referred to in the program with predominance in the uncertainties analysis.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 10.0 %
+- Teste: 50.0 %
+- Trabalho laboratorial: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 116.0 hours
+- Frequência das aulas: 18.0 hours
+- Trabalho laboratorial: 28.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Distributed evaluation without final exam with the following components:<br />Reports - 40%;<br />Results sheets (to be delivered at the end of each laboratory class) - 10%;<br />Mini tests (to be done at the end of each laboratory class, focusing on the experimental work performed and its protocol, 15%, as well as on a previously defined part of the contents of self-taught learning referred to in the program, 15%) - 30%;<br />Test to be carried out in the last class ( practical exercises where the knowledge acquired in the study of the contents of the self-taught learning referred to in the program is applied, with predominance in the analysis of uncertainties) - 20%;<br />The performance of the various elements of each group, in teamwork (preparation of reports), will be subject to peer review at the end of the semester. 20% will be deducted to the classification of the report by each day of delay in the delivery of the same.<br />The evaluation in this UC cannot be carried out in a single moment.<br /><span id="result_box" lang="en"><br /></span></p>
+
+## Obtenção de frequência
+<p>Regular enrolled students, not exceeding the number of absences, according to the existing rules, and have obtained a grade not lower than 10 points in all components of evaluation (A), (B) and (C ).</p>
+
+## Melhoria de classificação
+<p>not applicable</p>
+

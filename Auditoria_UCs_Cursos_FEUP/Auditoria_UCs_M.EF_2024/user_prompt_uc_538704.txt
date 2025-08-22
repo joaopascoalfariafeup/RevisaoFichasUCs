@@ -1,0 +1,97 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Processamento Estatístico de Sinal
+
+## Curso responsável
+Mestrado em Engenharia Física
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+Obter conhecimentos em:<br /><br />1. Processamento de sinal de sistemas com incertezas, modelizadas por variáveis aleatórias.<br />2. Modelização de sistemas estocásticos.<br />3. Estimação de estado em sistemas estocásticos.<br />4. Análise espectral para fins de estimação.
+
+## Resultados de aprendizagem e competências
+<div class=&quot;flex max-w-full flex-col flex-grow&quot;><br /><div class=&quot;min-h-[20px] text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words [.text-message+&amp;]:mt-5&quot; dir=&quot;auto&quot; data-message-author-role=&quot;assistant&quot; data-message-id=&quot;fd98ae92-4375-49e1-9fa3-6b4de698d434&quot;><br /><div class=&quot;flex w-full flex-col gap-1 empty:hidden first:pt-[3px]&quot;><br /><div class=&quot;markdown prose w-full break-words dark:prose-invert dark&quot;><br /><div>No fim da UC os estudantes estrão preparados para</div><br /><ol><br /><li><br /><p>explicar, descrever e compreender a noção de um processo aleatório e séries temporais estatísticas;</p><br /></li><br /><li><br /><p>caracterizar processos aleatórios em termos de suas propriedades estatísticas, incluindo as noções de estacionariedade e ergodicidade;</p><br /></li><br /><li><br /><p>definir, descrever e entender a noção de densidade espectral de potência de processos aleatórios estacionários; analisar e manipular densidades espectrais de potência;</p><br /></li><br /><li><br /><p>analisar, tanto no domínio do tempo quanto no da frequência, o efeito de transformações e sistemas lineares sobre processos aleatórios, tanto em termos das funções densidade quanto dos momentos estatísticos;</p><br /></li><br /><li><br /><p>explicar a noção de modelos de sinal paramétricos e descrever modelos de sinal baseados em regressão, em termos de suas características estatísticas e de seus efeitos sobre sinais aleatórios;</p><br /></li><br /><li><br /><p>aplicar estimadores  problemas de processamento de sinais baseados em modelos.  </p><br /></li><br /><li>estimar estado de modelos estocásticos</li><br /><li>Estimar o conteúdo espectral dum série temporal</li><br /></ol><br /></div><br /></div><br /></div><br /></div>
+
+## Programa
+1. Processos estocásticos.<br />a. Definição<br />b. Distribuição dum processo estocástico<br />c. Média e covariância<br />d. Processos estocásticos estacionários<br />e. Processos ergódicos<br />f. Debnsidade espectral<br />g. Previsão linear em processos estocásticos<br />f. Modelos de entrada-saída de processos estocásticos<br />f.1. Modelo de média móvel (MA)<br />f.2. Modelo auto-regressivo (AR)<br />f.3. Modelo auto-regressivo de média móvel (ARMA)<br />h. Filtro branqueador<br />i. Modelos de estado de processos estocásticos<br /><br />2. Estimação de modelos estocásticos<br />a. Método de mínimos quadrados <br />b. Métodos de Máxima verosimilhança<br /><br /><br />3. Filtro de Kalman<br />a. Observadores determinísticos<br />b. Previsor Kalman<br />b.1. Estimação de estado em sistemas com perturbações<br />b.2. Estimação de estado em modelos de estado dtereministico-estocásticos<br />b.3. Previsor de Kalman<br />b.4. Previsor de Kalman estacionário e modelo de inovação<br />c. Filtro de Kalman<br />d. Sintonização do previsor e do Filtro de Kalman<br /><br /><br />4. Estimação espectral <br />a. Métodos não-paramétricos (periodograma, método de Welch)<br />e. Decomposição de modos dominantes (DMD)
+
+## Métodos de ensino e atividades de aprendizagem
+Esta unidade curricular envolverá a apresentação teórica de conteúdos, a discussão/resolução de problemas ilustrativos utilizando o MATLAB, trabalhos práticos implicando programação Matlab.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 75.0 %
+- Trabalho escrito: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 90.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho escrito: 40.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final resulta da soma pesada de:<br />75% - 2 testes (32,5% cada);<br />25%  - 2 Trabalhos práticos (12.5% cada um);<br /><br />C=0.325*T1+0.325*T2+0.125*TP1+0.125*TP2</p>
+<p>C - Classificação final<br />T1 - Teste 1<br />T2 - Teste 2<br />TP1 - Trabalho prático 1<br />TP2 - Trabalho prático 2</p>
+
+## Obtenção de frequência
+É obtida frequência através da satisfação das duas seguintes condições:<br />1. Participação em pelo menos 75% das aulas.<br />2. Obtenção de classificação de 25% ou mais na componente distribuída da avaliação.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Statistical Signal Processing
+
+## Curso responsável
+Master in Engineering Physics
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+Gain knowledge in:<br /><br />1. Signal processing for systems that are subject to uncertainties, modeled by random variables.<br />2. Stocastic systems modeling.<br />3. State estimation in stocastic systems.<br />4. Estimation using spectral analysis.
+
+## Resultados de aprendizagem e competências
+This course will enable students to use techniques and technologies of statistical signal processing in such areas as multimedia signal classification, recognition, interpretation, annotation and recommendation, as well as in other areas involving parameter estimation and machine learning, namely control, communications, and biomedicine. The methodology adopted in the course also fosters the deepening in innovation skills in these areas.
+
+## Programa
+1. Stochastic Processes. <br />a. Definition<br />b. Distribution of a stochastic process<br />c. Mean and covariance<br />d. Stationary stochastic processes<br />e. Ergodic processes<br />f. Spectral density<br />g. Linear prediction in stochastic processes<br />f. Input-output models of stochastic processes<br />f.1. Moving Average (MA) model<br />f.2. Auto-Regressive (AR) model<br />f.3. Auto-Regressive Moving Average (ARMA) model<br />h. Whitening filter<br />i. State models of stochastic processes<br /><br />2.Estimation of stochastic models<br />a. Least squares method<br />b. Maximum likelihood methods<br /><br />3. Kalman Filter<br />a. Deterministic observers<br />b. Kalman predictor<br />b.1. State estimation in systems with disturbances<br />b.2. State estimation in deterministic-stochastic state models<br />b.3. Kalman predictor<br />b.4. Stationary Kalman predictor and innovation model<br />c. Kalman filter<br />d. Tuning the predictor and the Kalman filter<br /><br />3. Spectral estimation<br />a. Non-parametric methods (periodogram, Welch's method)<br />e. Dynamic Mode Decomposition (DMD)
+
+## Métodos de ensino e atividades de aprendizagem
+This course unit will involve the theoretical presentation of content, the discussion/solving of illustrative problems using MATLAB, and practical work involving MATLAB programming.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 75.0 %
+- Trabalho escrito: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 90.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho escrito: 40.0 hours
+
+## Fórmula de cálculo da classificação final
+The final classification results from the weighted sum of:<br />75% - 2  tests (32.5% each test);<br />25%  - 2 Practical assignments (12.5% each practical assignment);<br /><br /><br /><p>C=0.325*T1+0.325*T2+0.125*TP1+0.125*TP2</p><br /><p>C - Final classification<br />T1 - Test 1<br />T2 - Test 2<br />TP1 - Practical assignment 1<br />TP2 - Practical assignment 2</p>
+
+## Obtenção de frequência
+Frequency of this course is obtained through the satisfaction of both the following conditions:<br />1. Participation in at least 75% of the classes.<br />2. Obtention 25% or more in the classification of the distributed evaluation component.
+

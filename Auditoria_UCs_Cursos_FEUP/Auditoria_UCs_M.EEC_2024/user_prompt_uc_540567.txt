@@ -1,0 +1,133 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Eletrónica de Rádio-Frequência
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Fornecer os conceitos fundamentais de engenharia de rádio-frequência com vista à análise, projecto e caracterização de circuitos de microondas  proporcionando aos alunos a aplicação prática destes conceitos através do contacto com um laboratório de electrónica e a possibilidade de realizarem protótipos laboratoriais e projectos de electrónica de RF em condições de autonomia.
+
+## Resultados de aprendizagem e competências
+<p>As competências adquiridas pelos estudantes são: <br />- Compreender as características específicas do projecto de sistemas de rádio-frequência.<br />- Aplicação dos conceitos genéricos de linhas de transmissão ao projecto de circuitos de rádio-frequência e microondas.</p>
+<p>- Conhecimento das fases de desenvolvimento de um receptor de RF e os seus constituintes (filtros, amplificadores, osciladores, optimização e impacto na razão sinal-ruído).</p>
+<p>-Capacidade de projecto e simulação dos vários elementos constituintes de um sistemas de rádio-frequência, seja passivos ou activos.</p>
+<p><br />Munidos dos conhecimento básicos de adaptação de impedância, os estudantes adquirem posteriormente conhecimento do projecto de filtros, amplificadores e osciladores. Por fim adquirem os conhecimento adequados ao projecto de receptores de RF e microondas.</p>
+<p>Os resultados da aprendizagem são a aquisição das competências orientadas para o projeto dos vários elementos de um sistema comunicação de rádio-frequência.</p>
+
+## Pré-requisitos e co-requisitos
+Ondas electromagnéticas
+
+## Programa
+Introdução a sistemas de comunicação de rádio-frequência. Linhas de transmissão e adaptação de impedâncias (revisão). Análise de circuitos de microondas: matriz dos parâmetros-S e diagramas de fluxo. Ruído e distorção de intermodulação. Projeto de filtros e amplificadores de alta frequência. Osciladores e sintetizadores de frequência. Projeto de receptores.
+
+## Métodos de ensino e atividades de aprendizagem
+Aula teórica para exposição da matéria. Aulas práticas de laboratório para a realização de trabalhos de electrónica em grupo e mini-projeto de amplificador de RF.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Participação presencial: 10.0 %
+- Exame: 40.0 %
+- Trabalho laboratorial: 25.0 %
+- Trabalho prático ou de projeto: 25.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 20.0 horas
+- Estudo autónomo: 66.0 horas
+- Frequência das aulas: 56.0 horas
+- Trabalho laboratorial: 20.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Trabalhos laboratoriais:</p>
+<p>- Relatórios (R): 25%</p>
+<p>- Mini-projeto (O): 25%</p>
+<p>- Participação: (P) 10%</p>
+<p>Exame final (E): 40%.<br /><br />Nota final = 0.4*E + 0.25*R + 0.25*O + 0.10*P<br /><br />Aprovação à unidade curricular para uma classificação final maior ou igual a 10 valores.<br /><br /><span class="s1">- Nota mínima na avaliação distribuída de 7 valores em 20.<br /></span><span class="s1">- Nota mínima no exame de 7 valores em 20.</span></p>
+
+## Obtenção de frequência
+A avaliação distribuída inclui os seguintes elementos:<br />- realização dos trabalhos práticos e respetivo relatório que será alvo de avaliação;<br />- Mini-projecto de um amplificador de RF e respetivo relatório.<br />- participação nas aulas.<br /><br />Constitui condição para obtenção de frequência, a presença em pelo menos 75% das aulas práticas, a realização dos trabalhos práticos e mini-projecto incluindo a entrega dos relatórios correspondentes.
+
+## Melhoria de classificação
+Exame escrito para melhoria da nota teórica e exame prático no laboratório para melhoria da componente distribuída.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Radiofrequency Electronics
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+To provide a solid foundation in electronic design for telecommunications, with a focus on RF and Microwave systems, incorporating a practical approach through hands-on laboratory projects.
+
+## Resultados de aprendizagem e competências
+<p>The skills acquired by students are:</p>
+<p>- Understand the specific characteristics of designing radio frequency systems.</p>
+<p>- Application of generic concepts of transmission lines to the design of radio-frequency and microwave circuits.<br /><br /></p>
+<p>- Knowledge of the stages of development of an RF receiver and its components (filters, amplifiers, oscillators, optimization and impact on signal to noise ratio).</p>
+<p>-Capacity to design and simulate the various constituent elements of a radio-frequency systems, either passive or active.</p>
+<p>Armed with basic knowledge of matching impedance, students gain further knowledge on the design of filters, amplifiers and oscillators. Finally they confronted with the design of RF and microwave receivers.</p>
+<p> </p>
+<p>Learning outcomes are the acquisition of skills for the design of the various elements of a communication system radio-frequency.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Electromagnetic waves</p>
+
+## Programa
+Introduction to radio-frequency communication systems. Review of transmission lines and impedance matching. S-Parameters and flow diagrams. Microwave network analysis: S-parameters matrix, signal flow graphs. Noise and intermodulation distortion. Filter design. Design of high-frequency amplifiers. Oscillators and frequency synthesizers. Receiver design.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical lectures and guided laboratory classes where the students are required to write a report of the work carried out and a mini-project of a RF amplifier.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Participação presencial: 10.0 %
+- Exame: 40.0 %
+- Trabalho laboratorial: 25.0 %
+- Trabalho prático ou de projeto: 25.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 20.0 hours
+- Estudo autónomo: 66.0 hours
+- Frequência das aulas: 56.0 hours
+- Trabalho laboratorial: 20.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Laboratory work:</p>
+<p>- Report (R): 25%</p>
+<p>- Mini-project: 25%</p>
+<p>- Work in class (P): 10%</p>
+<p>Final Exam (E): 40%<br /><br />Final grade = = 0.4*E + 0.25*R + 0.25*O + 0.10*P<br /><br />To pass the course, students must achieve a final grade of 10 points or higher.<br /><br />- A minimum score of 7 out of 20 is required in the continuous assessment.<br />- A minimum score of 7 out of 20 is required in the final exam.</p>
+
+## Obtenção de frequência
+The continuous assessment includes the following elements:<br /><br />Completion of practical assignments and corresponding report, which will be evaluated;<br />Mini-project on an RF amplifier and its corresponding report;<br />Participation in classes.<br />A condition for obtaining course credit is attendance in at least 75% of the practical classes, completion of the practical assignments and mini-project, including submission of the corresponding reports.<br />
+
+## Melhoria de classificação
+Students can improve their grade of the theoretical component of the course by attending to a new exam. They can also improve their continuous assessment grade by doing a practical exam.
+

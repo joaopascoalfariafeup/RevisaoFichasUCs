@@ -1,0 +1,100 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise Numérica
+
+## Curso responsável
+Licenciatura em Engenharia de Materiais
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Esta unidade curricular tem dois objectivos fundamentais: por um lado, tratando-se de uma unidade curricular propedêutica tem um carácter didáctico/científico, promovendo o desenvolvimento do raciocínio lógico e de métodos de análise e, por outro, visa introduzir e desenvolver em termos teóricos um conjunto de conceitos que serão ferramentas essenciais para apoio às unidades curriculares mais específicas dos diferentes ramos da Engenharia. <br />Esta unidade curricular pretende garantir a aquisição de sólidos conhecimentos na aplicação de métodos numéricos na resolução de problemas de engenharia, bem como familiarizá-los com os mais variados métodos e sua implementação, vantagens e desvantagens de sua aplicação na resolução de problemas numéricos. Pretende-se que os alunos desenvolvam capacidades de manipulação numérica, bem como um pensamento independente e analítico e a capacidade de aplicar conceitos matemáticos para resolver problemas práticos. Os alunos deverão conhecer os métodos de resolução numérica mais aplicáveis e mais eficientes, para cada problema base de análise numérica, bem como as condições de aplicabilidade e teoremas de convergência destes métodos. <br />Espera-se que executem testes de aplicação prática, discutindo os resultados obtidos, <br />O estudante deverá ter conhecimentos Álgebra Linear e Geometria Analítica, Análise Matemática. <br /> <br />Componente científica: 100% <br /> <br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p>No final, o aluno deve ser capaz de: <br />- Listar as condições de aplicabilidade dos métodos e enunciar os respetivos teoremas de convergência. <br />- Aplicar os métodos, fórmulas e algoritmos ensinados a problemas simples; <br />- Descrever o funcionamento dos métodos dados, traduzi-los em algoritmos testá-los sobre exemplos, comparando e analisando os resultados; <br />- Explicar as demonstrações dos teoremas dados, e aplicar as técnicas ai descritas a outras situações relacionadas. <br />- Resolver problemas novos com as ferramentas numéricas dadas e comparar o desempenho de vários métodos numéricos quando á velocidade e fiabilidade. </p>
+
+## Programa
+<p>1. Erros de arredondamento e sua propagação; possível instabilidade dos métodos numéricos; origem dos erros de arredondamento, sistemas de numeração em computadores: sistemas de vírgula fixa e flutuante. <br /> <br />2. Sistemas de equações lineares: método de eliminação de Gauss. Erros de arredondamento e possível instabilidade dos métodos numéricos; técnicas pivotagem. Resolução de sistemas tringulares. Sistemas tridiagonais. Fatorização LU. Aplicação ao cálculo de determinantes e da inversa de uma matriz. <br />Métodos iterativos: Jacobi, Gauss-Seidel e SOR, teoremas de convergência. Definição de erro de truncatura, estimativa dos erros de truncatura dos métodos anteriores. <br /> <br />3. Aproximação polinomial no sentido dos mínimos quadrados; polinómios ortogonais. Sistemas de equações lineares sobre determinados. <br /> <br />4. Equações não lineares: condições gerais para a resolução, critérios de paragem dos métodos iterativos; métodos de cálculo: bissecções, Newton, secante, iterativo simples (ponto fixo). Teoremas de convergência, estimativa e majoração dos erros de truncatura ordem de convergência. <br /> <br />5. Interpolação polinomial: diferenças divididas; métodos de Newton e de Lagrange; erro de interpolação. <br /> <br />6. Integração Numérica: fórmulas de Newton-Cotes (ex: Trapézios e Simpson); fórmulas compostas; erros de integração numérica. Quadratura de Gauss. <br /> <br />7. Equações diferenciais ordinárias: método de Euler para equações diferenciais de 1ª ordem. Métodos de Taylor. Ordem de um método de resolução de equações diferenciais de 1ª ordem. Métodos de Runge-Kutta.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Nas aulas são apresentados conceitos e resultados importantes associados, dando ênfase às interpretações e às aplicações práticas dos mesmos. No intuito de clarificar as definições e métodos apresentados, são dadas demonstrações sempre que estas possam ajudar a atingir tal objectivo e são resolvidos exercícios ilustrativos de aplicações. Procura-se, sempre que possível, a participação dos alunos, não só na resolução dos exercícios, mas também na introdução de novos conceitos.Há ainda que realçar a resolução individual de exercícios bem como a orientação conveniente no estudo da disciplina e no esclarecimento de dúvidas que possam surgir na resolução de exercícios propostos.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 0.0 %
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Para obter classificação final à UC o estudante tem que ter frequência ou estar dispensado dessa. Nestas condições, qualquer estudante pode escolher obter aprovação na UC por testes ou exame final de recurso (E). Caso um estudante não obtenha aprovação por testes, pode ainda realizar o exame de recurso. <br /> <br />A classificação final da unidade curricular corresponderá (numa escala de 0 a 20): <br />- à média aritmética das classificações obtidas em T1 e T2; <br />- à classificação do exame de recurso (E), cotado para 20 valores.</p>
+
+## Obtenção de frequência
+<p>Obtém frequência a esta UC, no presente ano lectivo, todo o aluno: - regularmente inscrito na UC e que não exceda o número limite de faltas. Todos os alunos devidamente inscritos na UC, poderam realizar os testes e exames que lhe são propostos e que servem de base à avaliação.<br />Quanto à avaliação existem três momentos distintos, sendo eles os seguintes:<br />1) Primeiro Teste (T1) (ponto 1, 2 e 4 do programa);<br />2) Segundo Teste (T2) (pontos 3, 5, 6 e 7 do programa);<br />3) Exame de recurso (E) (toda a matéria) - a marcar pelos serviços.<br />Observações:<br />a) as classificações dos testes não são repescadas.<br />b) caso um estudante falte a um dos testes, a classificação atribuída a esse teste, para o cálculo da classificação final, é de zero valores.</p>
+
+## Melhoria de classificação
+<p>Os alunos que que pretendam realizar melhoria de classificação poderão sujeitar-se-ão à avaliação definida para a unidade curricular e de acordo com os regulamentos existentes.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Numerical Analysis
+
+## Curso responsável
+Bachelor in Materials Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>The promotion of logical reasoning, methods of analysis and the theoretical development of mathematical concepts is fundamental to support the study of the majority of course units along this programme of studies. <br />This UC aims to ensure the acquisition of solid knowledge in numerical techniques for solving engineering problems, which are of vital importance, as well as to familiarize them with the most varied methods and their implementation, advantages and disadvantages of its application in solving numerical problems. It is intended that students develop numerical manipulation capabilities as well as independent and analytical thinking and ability to apply mathematical concepts to solve practical problems. The students will be able to choose the most efficient methods for the solution of each basic Numerical Analysis problem. The students are expected to understand the theorems and convergence conditions of each of the methods described, to be able to program them, to test them effectively and discuss the results obtained. <br />The students are supposed to know the subjects taught in Linear Algebra and Mathematical Analysis. <br /> <br />The scientific component is 100%. <br /> <br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of this, students should be able to: <br />- List the applicability conditions of the numerical methods and state the corresponding theorems of convergence; <br />- Apply the methods, formula and algorithms taught to simple problems; <br />- Describe the behavior of the methods, translate them into algorithms as well as test them on examples comparing and analyzing the results; <br />- Explain the proofs of the theorems given and apply the proof techniques involved to other related situations; <br />- Solve new problems with the numerical tools here taught and compare the performance of the various numerical methods in terms of speed and accuracy.</p>
+
+## Programa
+<p>1. Number systems and errors ; number systems on computers; representation of integers and floating point arithmetic; round-off error; absolute error and relative error, significant digits, Taylor's formula and error estimation; error analysis. <br /> <br />2. Linear systems of equations: Gaussian elimination. Round off errors and possible instability of the numerical methods, pivoting strategies. Solution of triangular systems. Tridiagonal systems. LU factorization; application to the computation of determinants and to the inversion of matrices. <br />Iterative methods: Jacobi and Gauss-Seidel; convergence theorems and algorithms. solution of triangular systems. <br /> <br />3. Least squares approximation. Orthogonal polynomials. Curve fitting. Over-determined systems of equations. <br /> <br />4. Non linear equations: general conditions for the solution, stopping criteria for iterative methods; some iterative methods: successive bisection, fixed point iteration, Newton's method, secant method. Convergence theorems and algorithms; polynomial equations. <br /> <br />5. Numerical integration: Newton-Cotes formulae (ex: Trapezoidal and Simpson rules); composite rules; numerical quadrature errors. Gaussian quadrature. <br /> <br />6. Polynomial interpolation: finite differences; methods of Newton and Lagrange; error of the interpolating polynomial. <br /> <br />7. Ordinary Differential equations: Euler s method for ODE of order 1; Taylor methods. Order of a method for ODE of order1. Runge-Kutta methods.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>In class concepts are presented and important results associated with an emphasis on geometric interpretations and practical applications. In order to clarify the definitions and theorems presented, several exercises are solved and illustrative applications are presented. The aim is to, whenever possible, the participation of students, not only in solving the exercises, but also in introducing new concepts. It remains to enhance the resolution of individual exercises and the guidance should be in the study of discipline and clarify questions that may arise in proposal exercises.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 0.0 %
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>For the final grade of the UC student must have or be exempt from such frequency. In these conditions, any student can choose to get approved by tests or final exam resource (E). If a student does not obtain approval for tests, he can still do the test resource. <br /> <br />The final grade of UC is (scale 0-20): <br />- Arithmetic average of T1 and T2; <br />- The grade of the exam recourse (E).</p>
+
+## Obtenção de frequência
+<p>Gets frequency to this UC, in the current school year, every student that: - Regularly registered in UC and does not exceed the maximum number of absences. All students duly registered in UC, can perform the tests and examinations that are proposed and used for evaluation.<br />Regarding the assessment there are three different times, and they were the following:<br />1) First Test (T1) (Item 1, 2 and 3 of the program);<br />2) Second Test (T2) (3, 5, 6, and 7 of the program);<br />3) Exam resource (E) (all matter) - to be marked.<br />Remarks:<br />a) classifications of tests from previous years are not considered.<br />b) if a student misses one test, the rating assigned to this test, to calculate the final average, is zero values.</p>
+
+## Melhoria de classificação
+<p>Students wishing to undertake improvement of classification may submit the evaluation defined for the UC according with existing regulations</p>
+

@@ -1,0 +1,121 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise Quantitativa de Risco Ambiental
+
+## Curso responsável
+Mestrado em Engenharia do Ambiente
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Aplicação: Seleccionar em situações paradigmáticas os principais mecanismos de libertação de contaminantes, o seu transporte, a sua transferência multi-compartimental, e a exposição de populações e risco ambiental (toxicológico) associado. Desenvolvimento de soluções utilizando ferramentas do Matlab.</p>
+<p>Análise: Elaborar Análises de Risco quantitativas;</p>
+<p>Síntese: Estabelecer uma metodologia apropriada relativamente a situações transitórias e permanentes de contaminação em vários compartimentos ambientais analisando os mecanismos de libertação, transporte, transferência, exposição e risco.</p>
+<p>Compreensão: Identificar, reconhecer e caracterizar quantitativamente situações de risco ambiental resultantes de libertações ou de emanações de contaminantes.<br /><br /><br /><br /></p>
+
+## Resultados de aprendizagem e competências
+- Identificar os mecanismos de libertação de contaminantes em diferentes compartimentos ambientais.<br />- Compreender e aplicar os modelos matemáticos de transporte e dispersão de contaminantes.<br />- Implementar computacionalmente os modelos aplicáveis a cada caso prático.<br />- Interpretar os resultados obtidos pelos modelos de transporte e dispersão de contaminantes através de uma análise de sensibilidade.<br />- Estabelecer cenários de risco para uma potencial população exposta.<br />- Calcular as doses por inalação, ingestão e contato dérmico da população exposta e,<br />- Quantificar o risco com recurso à consulta às bases de dados toxicológicas, nomeadamente: dose de referência, concentração de referência e fator de potência cancerígena.<br />- Relacionar os casos de estudo com os Objetivos do Desenvolvimento Sustentável.
+
+## Pré-requisitos e co-requisitos
+Química ambiental; equílibrios multifásicos; toxicologia ambiental.
+
+## Programa
+- Ecotoxicologia e análise de risco; Farmacocinética; Relações Dose-Resposta.<br />- Geometria dos compartimentos ambientais: Atmosfera, Hidrosfera, Solo e Biota Terrestre. Conceitos sobre equilíbrios<br />multi-fásicos: Fugacidade; Modelos multi-compartimentais. - Modelos de transporte atmosférico: Estabilidade<br />atmosférica; Modelos Gaussianos. <br />- Contaminações em lagos e reservatórios; Modelo de Permuta Água-Sedimentos.<br />- Contaminações em cursos de água superficiais: Transporte convectivo e difusional (1D, 2D e 3D): fontes contínuas e<br />pontuais. Efeitos dos resíduos orgânicos nos cursos de água: OD e CBO em cursos de água; Modelos de Streeter<br />Phelps.<br />- Transporte e destino no subsolo: Transporte Advectivo-Dispersivo (1D, 2D e 3D) para fontes contínuas e pontuais.<br />- Modelos de transferência para a flora e cadeia alimentar. <br />- Avaliação da Exposição; Avaliação da Toxicidade; Dados<br />Toxicológicos e Concentrações Básicas de Risco.
+
+## Métodos de ensino e atividades de aprendizagem
+<p> As aulas compreendem exposições teóricas e aplicações práticas feitas utilizando ferramentas informáticas simples.<br />As exposições teóricas versam sobre os modelos matemáticos de libertação, transporte, destino e transferência<br />ambiental de contaminantes, deduzindo-os a partir de pressupostos convenientemente explicitados. Para situações<br />paradigmáticos os alunos desenvolverão a implementação algorítmica dos modelos estudados. Numa fase avançada<br />acrescentar-se-á cenários padronizados de exposição da população e calcular-se-á o risco quantitativo numa base<br />toxicológica.<br />Avaliação distribuída com exame final.<br />A componente de avaliação distribuída é constituída por um trabalho versando uma situação de contaminação<br />específica. Os modelos a aplicar incidem sobre situações multi-compartimentais paradigmáticas e exigem para a sua<br />resolução que o aluno faça um programa em Matlab. Classificação Final: Exame Final &#8211; 60% Avaliação Distribuída &#8211;<br />40%.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Apresentação/discussão de um trabalho científico: 15.0 %
+- Exame: 60.0 %
+- Trabalho prático ou de projeto: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 64.0 horas
+- Frequência das aulas: 45.5 horas
+- Trabalho de investigação: 37.5 horas
+- Apresentação/discussão de um trabalho científico: 7.0 horas
+- Trabalho escrito: 8.0 horas
+
+## Fórmula de cálculo da classificação final
+Classificação Final: Exame Final &#8211; 60% Avaliação Distribuída &#8211;<br />40%.
+
+## Obtenção de frequência
+<p>Para obter frequência os alunos terão que estar presentes em pelo menos 75% das aulas teórico-práticas e práticas leccionadas e realizar obrigatoriamente a componente de avaliação distribuída. </p>
+
+## Melhoria de classificação
+<p>Só é passível de melhoria a componente de exame final em época apropriada.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Environmental Quantitative Risk Analysis
+
+## Curso responsável
+Master in Environmental Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Application: Select in paradigmatic situations the main mechanisms of release of contaminants, their transport, their multi-compartmental transfer, and the exposure of populations and associated environmental (toxicological) risk. Development of solutions using Matlab tools.</p>
+<p>Analysis: Develop quantitative risk analysis;</p>
+<p>Synthesis: Establish an appropriate methodology for transient and permanent contamination situations in various environmental compartments by analyzing the mechanisms of release, transport, transfer, exposure and risk.</p>
+<p><span lang="EN-US">Comprehension: Identify, recognize and quantitatively characterize situations of environmental risk resulting from releases or emanations of contaminants.<br /></span></p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+- Identify the mechanisms by which contaminants are released into different environmental compartments.<br />- Understand and apply mathematical models of contaminant transport and dispersion.<br />- Computationally implement the models applicable to each practical case.<br />- Interpret the results obtained by contaminant transport and dispersion models through sensitivity analysis.<br />- Establish risk scenarios for a potential exposed population.<br />- Calculate the doses by inhalation, ingestion and dermal contact of the exposed population e,<br />- Quantify the risk by consulting toxicological databases, namely: reference dose, reference concentration and carcinogenic potency factor.<br />- To relate the case studies to the Sustainable Development Goals.
+
+## Pré-requisitos e co-requisitos
+Environmental chemistry; Multi-phase equilibrium; environmental toxicology.
+
+## Programa
+- Ecotoxicology and risk analysis; Pharmacokinetics; Dose-Response Relationships.<br />- Geometry of environmental compartments: Atmosphere, Hydrosphere, Soil and Terrestrial Biota.<br />Concepts about multiphase balances: Fugacity; Multi-compartmental models.<br />- Atmospheric transport models: Atmospheric stability; Gaussian models.<br />- Contamination in lakes and reservoirs; Water-Sediment exchange model.<br />- Contamination in surface watercourses: Convective and diffusional transport equation (1D, 2D and 3D) for continuous<br />and point sources.<br />Effects of organic waste on streams: OD and BOD on watercourses; Streeter Phelps models.<br />- Subsoil Transport and Destination: Advective-Dispersive Transport Model (uni, bi and 3D) for continuous and point<br />sources.<br />- Transfer models for the flora and food chain.<br />- Exposure Assessment; Toxicity assessment; General toxicological data and basic risk concentrations.
+
+## Métodos de ensino e atividades de aprendizagem
+Classes include lectures and practical applications made using simple computer tools. Theoretical expositions deal<br />with the mathematical models of release, transport, fate and environmental transference of contaminants, deducing<br />them from properly stated assumptions. For paradigmatic situations students will develop the algorithmic<br />implementation of the models studied. At an advanced stage standard population exposure scenario will be added and<br />the quantitative risk calculated on a toxicological basis.<br />Distributed assessment with final exam.<br />The distributed evaluation component consists of a work dealing with a specific contamination situation. The models<br />to be applied focus on paradigmatic multi-compartmental situations and require for their resolution that the student<br />make a program in Matlab. Final Grade: Final Exam - 60% Distributed Evaluation - 40%.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Apresentação/discussão de um trabalho científico: 15.0 %
+- Exame: 60.0 %
+- Trabalho prático ou de projeto: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 64.0 hours
+- Frequência das aulas: 45.5 hours
+- Trabalho de investigação: 37.5 hours
+- Apresentação/discussão de um trabalho científico: 7.0 hours
+- Trabalho escrito: 8.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Final Grade: Final Exam - 60% Distributed Evaluation - 40%.</p>
+
+## Obtenção de frequência
+<p>Students are obligied to attend at least 75% of the lectures and also perform the specific work.</p>
+
+## Melhoria de classificação
+<p>Only through the final exam component.</p>
+

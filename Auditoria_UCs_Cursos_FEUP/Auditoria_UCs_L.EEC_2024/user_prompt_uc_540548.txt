@@ -1,0 +1,129 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Métodos Numéricos
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Oferecer um leque abrangente de conhecimentos de base na área de métodos numéricos. <br />Dotar os estudantes com a capacidade de aplicar criteriosamente técnicas numéricas para a resolução de problemas de engenharia, o que requer a compreensão dos fundamentos dos métodos e o saber aplicar os métodos, recorrendo a  aplicações computacionais.</p>
+<p>No fim desta UC o estudante terá adquirido uma base sólida de conhecimentos técnicos na área de métodos numéricos. Terá desenvolvido a capacidade de, dada uma situação, saber escolher o(s) método(s) a aplicar e como adaptar ao problema em questão as várias ferramentas estudadas durante o semestre, incluindo a determinação de estimativas dos erros associados e condições de paragem de métodos iterativos para obter a precisão imposta.</p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>No fim desta UC o aluno terá adquirido uma sólida base de conhecimentos técnicos na área de métodos numéricos. Terá desenvolvido a capacidade de, dada uma situação, saber escolher o(s) método(s) a aplicar e como adaptar ao problema em questão as várias ferramentas  estudadas durante o semestre, incluindo determinar quantas iterações são necessárias para obter a precisão imposta.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Álgebra e Análise Matemática 1 e 2</p>
+
+## Programa
+<p>1. Erro absoluto e erro relativo; Propagação de erros no cálculo de funções; erro de truncatura em séries.</p>
+<p>2. Métodos iterativos para resolução de equações não lineares.</p>
+<p>3. Métodos iterativos para resolução de sistemas de equações não lineares.</p>
+<p>4. Métodos diretos e iterativos para sistemas de equações lineares.</p>
+<p>5. Aproximação de funções: método dos mínimos quadrados.</p>
+<p>6. Interpolação polinomial.</p>
+<p>8. Integração numérica.</p>
+<p>9. Integração numérica de equações diferenciais e sistemas de equações diferenciais.</p>
+<p> </p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teóricas (T): Exposição dos temas programáticos ilustrada por exemplos que permitem clarificar os conceitos e resultados apresentados. Proposta de exercícios a serem resolvidos antes das aulas TP.</p>
+<p>Aulas teórico-práticas (TP): Discussão de questões encontradas na  resolução prévia dos exercícios e sobre os códigos computacionais usados na resolução.  Discussão critica sobre resultados. Os métodos numéricos serão  implementados computacionalmente salvo raras exceções. Ferramentes computacionais usadas Matlab ou Octave e Excel durante todo o semestre. <br /><br />A avaliação requer o uso destas ferramentas computacionais. </p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Teste: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 82.5 horas
+- Frequência das aulas: 39.0 horas
+
+## Fórmula de cálculo da classificação final
+<p style="text-align: left;">A nota final (N) será baseada na nota obtida num teste intermádio (T1) e na nota do exame final (E) de acordo com:  <br />N = 0.3 * T1 + 0.7 * E<br />Aprovação à UC obriga à obtenção de  mínimo global de 9.5 de nota  final. <br />As diferentes componentes de avaliação encontram-se na escala de 0 a 20 valores.<br /><br /><br /><br /></p>
+
+## Obtenção de frequência
+<p>Estudantes que frequentam pela 1ª vez, para obter frequência (= ser admitido ao exame final) não podem exceder o limite de faltas às aulas TP.</p>
+<p>Estudantes que já obtiveram frequência estão isentos das aulas TP e NÃO se devem registar em turma neste semestre. <br />Contudo, classificação obtida em teste intermédio de anos passados não conta para este ano letivo. <br /><br /><br /></p>
+
+## Melhoria de classificação
+Por prova escrita, como estabelecido nos estatutos do curso.<br />Componetes distribuídas não são tido em conta.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Numerical Methods
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Provide a comprehensive range of fundamental knowledge in numerical methods. <br />To provide students with the ability to carefully apply numerical methods to solve engineering problems, which requires an understanding of the fundamentals of the methods and knowledge of how to apply the methods using computational applications.</p>
+<p>By the end of this course, students will have acquired a solid base of technical knowledge in the field of numerical methods. They will have developed the ability, given a situation, to know how to choose the method(s) to be applied and how to adapt to the problem in question, using the various tools studied during the semester, including determining the estimates of the associated errors and conditions of stopping iterative methods to obtain the imposed precision.</p>
+<p><br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p>After attending this course the student will have acquired a solid technical base of numerical methods. Developed will be the capacity of, given a specific situation, knowing which method(s) to apply and how to adapt the various tools, studied during the semester, to the problem at hand, including knowing the number of iterations needed to achieve a pre-established precision.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Algebra and Calculus 1 and 2</p>
+
+## Programa
+<p>1. Absolute error and relative error. Error propagation. Truncation error in infinite series.</p>
+<p>2. Iterative methods for nonlinear equations.</p>
+<p>3. Iterative methods for systems of nonlinear equations.</p>
+<p>4. Direct and iterative methods for systems of linear equations.</p>
+<p>5. Function approximation: least squares.</p>
+<p>6. Poliynomial interpolation.</p>
+<p>8. Numerical integration.</p>
+<p>9. Numerical integration of differential equations and systems of differential equations</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical lessons (T): Explanation of the programmatic themes illustrated by examples that allow to clarify the concepts and results presented. Proposal of a list of problems to be solved before the theoretical-practical classes.</p>
+<p>Theoretical-practical classes: Discussion of any questions the students may have had while solving  problems from the list proposed at T- classes. This includes discssion of codes used. Numerical methods will be implemented computationally with rare exceptions. Computational tools used during all the semester: Matlabor Octave and Excel. <br /><br />Evaluation will require the use of such computational tools.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Teste: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 82.5 hours
+- Frequência das aulas: 39.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final grade (N) will be based on the grade obtained in the mid-semester test (T1) and in the final exam (E): <br />N = 0.3 * T1 + 0.7 * E<br />To passa the course, a global minimum of 9.5 is required.<br />The different component grades are on a 0 to 20 scale.<br /><br /><br /></p>
+
+## Obtenção de frequência
+<p>Students enrolled  for the 1st time in the course:To be entotled to  access to the final examination the student must not exceed the maximum allowed number of absences to the TP classes  </p>
+<p>Students with previous enrollment in the course are exempt from attending the  TP  classes and should NOT register in any TP class . However, any marks obtained in previous years are not considered this year.<br /><br /></p>
+
+## Melhoria de classificação
+Per written exam, as established by the program rules.
+

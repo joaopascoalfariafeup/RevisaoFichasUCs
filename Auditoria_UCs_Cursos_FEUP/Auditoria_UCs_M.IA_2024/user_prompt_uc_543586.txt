@@ -1,0 +1,106 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Tópicos Avançados em Inteligência Artificial
+
+## Curso responsável
+Mestrado em Inteligência Artificial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Proporcionar aos alunos conhecimentos sobre os novos desenvolvimentos em IA que envolvem avanços em áreas tão díspares como lógica, estatística e investigação operacional.<br /><br />Enfase será colocada em:<br />  - pesquisa probabilistica, com foco em Monte Carlo Tree Search<br />  - modelos gráficos probabilísticos, dirigidos e não dirigidos, incluindo inferência e aprendizagem de parâmetros e de estrutura; ligação â classificadores lineares e redes neuronais<br /> - representacão lógica: Lógica de primeira ordem (FOL) e Datalog para representação de estrutura; aprendizagem de programas lógicos em Programação Lógica Indutiva (ILP).<br />- integração: Aprendizagem relacional estatística (SRL) e redes neuronais-lógicas (NeSy).<br /><br />O curso requer competências adquiridas em Desenho e Análise de Algoritmos, Inteligência Artificial e Data Mining.<br /><div id=&quot;gtx-trans&quot; style=&quot;position: absolute; left: 293px; top: 170.4px;&quot;> </div>
+
+## Resultados de aprendizagem e competências
+Desenvolver a capacidade de utilização de técnicas de inteligência artificial e algoritmos de pesquisa em situações práticas em que parte do conhecimento resida em bases de dados.
+
+## Pré-requisitos e co-requisitos
+Desenho e Análise de Algoritmos, Inteligência Artificial, Data Mining I
+
+## Programa
+Esta UC funcionará em 3 módulos, como segue:<br /><br /><strong>Módulo 1:</strong> Monte Carlo Tree Search<br />1.1. Introdução à Aprendizagem por Reforço::<br /> - Coneitos gerais<br /> - Processos de decisão de Markov (MDPs)<br /> - Exploration vs. exploitation<br />1.2. Bandit Algorithms:<br /> - Multi-armed bandit problem<br /> - Epsilon-greedy, UCB, Thompson sampling<br /> - Contextual bandits<br /> -Aplicações selecionadas<br />1.3. Monte Carlo Tree Search:<br /> - Fundamentos de MCTS<br /> - Políticas de árvore e políticas padrão<br /> - Limite superior de confiança para árvores (UCT)<br /> - Aplicações (jogos, robótica)<br />1.4.Tópicos Avançados:<br /> - Aprendizagem profunda por reforço<br /> - Aplicações em domínios selecionados<br /><br /><strong>Módulo 2: </strong>Representação em Lógica de primeira ordem e modelação<br />2.1 Introdução à programação lógica probabilística<br />    - breve revisão de programação lógica<br />    - representação do conhecimento usando programação lógica<br />    - representação do conhecimento usando programação lógica probabilística<br />    - sintaxe e semântica de programação lógica probabilística utilizando ProbLog e CLP(BN)<br />2.2 Aprendizagem de Programas em Lógica Probabilística <br />    - introdução à programação lógica indutiva (ILP)<br />    - algoritmos e sistemas para ILP<br />    - limitações<br />    - aprendendo regras probabilísticas lógicas de primeira ordem<br />        - algoritmos e complexidade<br />        - cálculos de probabilidade exatos e aproximados<br />        - combinando inferência probabilística com inferência lógica<br />2.3 Argumentação Bipolar (se o tempo permitir)<br /><br /><strong>Módulo 3:<br /></strong>3.1 ILP revisitado:<br />- lidar com grandes  data-sets<br />- Exemplos<br />- Inducão como Abdução.<br />3.2 SRL e NeSy<br />  - From Problog to NNs: it's all about layers<br />  - From TensorLog to GNNs: it's all about matrixes<br />  - Experimental Evaluation<br />3.3 Generative Models<br />    -  Does Logic Programming need attention?<br />    -  Meliad and AlphaProof<br />    - Tanenbaum's ToW<br />3.4 Where do you go from here?<br />     - Discussion with free-ring-your-favorite-paper!<br /><strong><br /></strong>
+
+## Métodos de ensino e atividades de aprendizagem
+Exposição teórica com discussão da aplicação em inteligência artifical. <br />Resolução de exercícios.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Teste: 75.0 %
+- Exame: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 horas
+- Frequência das aulas: 56.0 horas
+
+## Fórmula de cálculo da classificação final
+Classificação final = T1 + T2 + T3 + E<br />T1 = classificação do 1º teste, com cotação de 5 valores<br />T2 = classificação do 2º teste, com cotação de 5 valores<br />T3 = classificação do 2º teste, com cotação de 5 valores<br />E = classificação do exame final, com cotação de 5 valores<br /><br />Nota: alunos com média de 75% ou superior nos testes estão dispensados do exame final.
+
+## Obtenção de frequência
+<div id=&quot;v1replybody1&quot;><br /><p>Frequência obrigatória às aulas, de acordo com o regulamento da U.P.</p><br /></div>
+
+## Melhoria de classificação
+Exame final.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Advanced Topics in Artificial Intelligence
+
+## Curso responsável
+Master in Artificial Intelligence
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<span class=&quot;&quot; data-language-for-alternatives=&quot;&quot; data-language-to-translate-into=&quot;&quot; data-phrase-index=&quot;&quot;>Provide students with knowledge about new AI developments that involve advances in areas as diverse as logic, statistics and operations research.</span><br /><br /><span class=&quot;&quot; data-language-for-alternatives=&quot;&quot; data-language-to-translate-into=&quot;&quot; data-phrase-index=&quot;&quot;>Emphasis will be placed on:<br />  - probabilistic search with focus on Monte Carlo Tree Search</span><br /><span class=&quot;&quot; data-language-for-alternatives=&quot;&quot; data-language-to-translate-into=&quot;&quot; data-phrase-index=&quot;&quot;>- directed and non-directed probabilistic graphical models, including inference and learning of parameters and structure;</span> <span class=&quot;&quot; data-language-for-alternatives=&quot;&quot; data-language-to-translate-into=&quot;&quot; data-phrase-index=&quot;&quot;>connection to linear classifiers and neural networks</span><br /><span class=&quot;&quot; data-language-for-alternatives=&quot;&quot; data-language-to-translate-into=&quot;&quot; data-phrase-index=&quot;&quot;>- logical representation: First order logic (FOL) and Datalog for structure representation;</span> <span class=&quot;&quot; data-language-for-alternatives=&quot;&quot; data-language-to-translate-into=&quot;&quot; data-phrase-index=&quot;&quot;>learning logical programs in Inductive Logic Programming (ILP).</span><br /><span class=&quot;&quot; data-language-for-alternatives=&quot;&quot; data-language-to-translate-into=&quot;&quot; data-phrase-index=&quot;&quot;>- integration: Statistical relational learning (SRL) and neural-logical networks (NeSy).</span><br /><br /><span class=&quot;&quot; data-language-for-alternatives=&quot;&quot; data-language-to-translate-into=&quot;&quot; data-phrase-index=&quot;&quot;>The course requires skills acquired in Design and Analysis of Algorithms, Artificial Intelligence and Data Mining.</span>
+
+## Resultados de aprendizagem e competências
+Students will develop competences on the usage of artificial intelligence and search / optimization methods in practical situations, in which a part of the knowledge is available in data sets or databases.
+
+## Pré-requisitos e co-requisitos
+PAlgorithm Design and Analysis, Artificial Intelligence, Data Mining I
+
+## Programa
+<span id=&quot;result_box&quot; class=&quot;&quot; lang=&quot;en&quot;>This UC will function in 3 modules, as follows:<br /><br /><strong>Module 1:</strong> Monte Carlo Tree Search<br />1.1. Introduction to Reinforcement Learning:<br />- Overview of reinforcement learning concepts<br />- Markov decision processes (MDPs)<br />- Exploration vs. exploitation trade-off<br />1.2. Bandit Algorithms:<br />- Multi-armed bandit problem<br />- Epsilon-greedy, UCB, Thompson sampling<br />- Contextual bandits<br />- Selected applications<br />1.3. Monte Carlo Tree Search:<br />- Basics of MCTS<br />- Tree policies and default policies<br />- Upper confidence bound for trees (UCT)<br />- Applications (game playing, robotics)<br />1.4. Advanced Topics:<br />- Deep reinforcement learning<br />- Applications in selected domains<br /><br /><strong>Módulo 2: </strong>Logic Representation and Modeling<br />2.1 Introduction to Probabilistic Logic Programming<br />    - brief review of logic programming<br />    - knowledge representation using logic programming<br />    - knowledge representation using probabilistic logic programming<br />    - syntax and semantics of probabilistic logic programming using ProbLog and CLP(BN)<br />2.2 Learning Probabilistic Logic Programs<br />    introduction to inductive logic programming (ILP)<br />    algorithms and systems for ILP<br />    limitations<br />    learning first order logic probabilistic rules<br />        algorithms and complexity<br />        exact and approximate probability calculations<br />        combining probabilistic inference with logical inference<br />2.3  Bipolar Argumentation (if time allows)<br /><br /><strong>Module 3: <br /></strong>3.1. Learning in Logic Revisited.<br /> - Can ILP scale?<br /> - Dataset cxamples<br /> - From Abduction to Induction<br />3.2. SRL and Nesy Revisited<br />  - From Problog to NNs: it's all about layers<br />  - From TensorLog to GNNs: it's all about matrixes<br />   - Experimental Evaluation<br />3.3 Generative Models<br />    -  Does Logic Programming need attention?<br />    -  Meliad and AlphaProof<br />     - Tanenbaum's ToW<br />3.4 Where do you go from here?<br />     - Discussion with free-ring-your-favorite-paper!<br /><br /></span>
+
+## Métodos de ensino e atividades de aprendizagem
+Lectures: presentation of the program topics and discussion of aplications in artificial intelligence. <br />Labs: problem solving.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Teste: 75.0 %
+- Exame: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 hours
+- Frequência das aulas: 56.0 hours
+
+## Fórmula de cálculo da classificação final
+Final classification = T1 + T2 + T3 + E<br />T1 = classification of the 1st test, with a score of 5 values<br />T2 = classification of the 2nd test, with a score of 5 values<br />T3 = classification of the 2nd test, with a score of 5 values<br />E = classification of the final exam, with a score of 5 values<br /><br />Note: Students who average 75% or higher on the tests are exempt from the final exam.
+
+## Obtenção de frequência
+<p>Mandatory attendance at classes, in accordance with U.P. rules.</p>
+
+## Melhoria de classificação
+Final exam.
+

@@ -1,0 +1,144 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Inteligência Artificial
+
+## Curso responsável
+Mestrado em Engenharia e Ciência de Dados
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Esta unidade curricular apresenta um conjunto de assuntos nucleares para a área da Inteligência Artificial e dos Sistemas Inteligentes.</p>
+<p>Os objetivos principais são:</p>
+<ul>
+<li>Caraterizar e distinguir a Inteligência Artificial (IA) e a sua aplicabilidade.</li>
+</ul>
+<ul>
+<li>Mostrar como Representar, Adquirir, Manipular e Aplicar Conhecimento usando Sistemas e Algoritmos Computacionais.</li>
+</ul>
+<ul>
+<li>Desenvolver projetos simples, mas completos, usando técnicas de IA.</li>
+</ul>
+<p>Distribuição Percentual: Componente científica: 50%; Componente tecnológica: 50%</p>
+
+## Resultados de aprendizagem e competências
+<p>Os estudantes que concluírem com sucesso esta UC, deverão ser capazes de:</p>
+<ul>
+<li>Compreender os fundamentos da Inteligência Artificial e dos Sistemas Inteligentes, o que os caracteriza e distingue, qual a sua aplicabilidade e onde os encontramos no nosso quotidiano.</li>
+<li>Compreender a noção de Agente computacional e de Sistema Multi-Agente e ser capazes de projetar e implementar Agentes e Sistemas Multi-Agente para resolver diferentes problemas.</li>
+<li>Aprender métodos e algoritmos heurísticos e sistemáticos de Resolução de Problemas, com e sem Adversários, utilizando o Conhecimento na resolução de problemas complexos.</li>
+<li>Aprender métodos básicos de Representação do Conhecimento e Raciocínio utilizando diferentes formalismos.</li>
+<li>Compreender tópicos avançados em Inteligência Artificial e ser capaz de formular uma visão sobre o futuro da IA e as suas aplicações práticas agora e no futuro.</li>
+</ul>
+
+## Programa
+<ul><br /><li>Introdução à Inteligência Artificial (IA): Fundamentos; Âmbito; História; Problemas e Abordagens.</li><br /><li>Agentes Inteligentes e Sistemas Multi-Agente (SMA): Agentes; Ambientes; Arquiteturas de Agentes; SMA (Arquiteturas, Comunicação e Coordenação).</li><br /><li>Resolução de Problemas: Formulação de Problemas; Espaço de Estados; Pesquisa Não Informada: Primeiro em Largura, Primeiro em Profundidade, Aprofundamento Iterativo, Bidirecional; Pesquisa Inteligente: Gulosa, Algoritmo A*; Pesquisa com Adversários: Jogos, Minimax, Cortes Alfa-Beta. Optimização e Meta-heurísticas.</li><br /><li>Representação do Conhecimento e Raciocínio: Lógica Proposicional e de Predicados; Programação em Lógica e com Restrições; Engenharia do Conhecimento.</li><br /><li>Tópicos Avançados de IA: Planeamento e Escalonamento; Robótica e Simulação; IA fraca/forte; Futuro da IA; Problemas &#8220;Hard&#8221;; IA e a Sociedade; Aplicações de IA.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A UC introduz a Inteligência Artificial (IA) e a investigação nesta área, com o objetivo de primeiro ensinar o estado da arte em IA e, depois, permitir aos estudantes realizar um projeto, simples, mas completo, sobre uma determinada área em IA. Como resultado final da UC os estudantes devem realizar um projeto que permita escrever um artigo com qualidade suficiente para ser publicado numa conferência/revista internacional (o que constitui uma excelente preparação para a realização da dissertação de mestrado final do ciclo de estudo). A avaliação é baseada no projeto realizado pelos estudantes (90%) e na participação ativa nas aulas (10%).</p>
+<p>As principais técnicas de ensino serão focadas em desafiar os estudantes para &#8220;high level learning&#8221;, como é apropriado num mestrado numa área deste tipo, e no uso do paradigma da aprendizagem ativa. Feedback detalhado será também dado aos estudantes sobre a qualidade do seu trabalho de investigação e processo de aprendizagem.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 40.0 %
+- Trabalho laboratorial: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 40.0 horas
+- Estudo autónomo: 30.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho de investigação: 20.0 horas
+- Trabalho laboratorial: 30.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Avaliação distribuída sem exame final.</p>
+<p>Participação ativa nas Aulas, Kahoots, Exercícios, Mini-Teste (40%)</p>
+<p>Trabalho/Projeto (60%)</p>
+
+## Obtenção de frequência
+<p>Não exceder o número limite de faltas e obter nota &gt;=7.5 (em 20) em todas as componentes.</p>
+
+## Melhoria de classificação
+A melhoria de classificação será efetuada através da realização de um projeto individual a entregar na época de exames.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Artificial Intelligence
+
+## Curso responsável
+Master in Data Science and Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>This course provides a set of subjects (topics) that are the core of the Artificial Intelligence and Intelligent System area.</p>
+<p>The main objectives are:</p>
+<ul>
+<li>To know what characterizes and distinguishes AI and how to apply it.</li>
+<li>To know how to automatically represent, acquire, manipulate and apply knowledge using Computational Algorithms and Systems.</li>
+<li>To develop small projects using AI techniques.</li>
+</ul>
+<p>Percentual Distribution: Scientific component: 50%; Technological component: 50%</p>
+
+## Resultados de aprendizagem e competências
+<p>Students who successfully complete this unit should be able to:</p>
+<ul>
+<li>Understand the fundamentals of Artificial Intelligence and Intelligent Systems, what characterizes and distinguishes them, their applicability and where we find them in our daily lives.</li>
+<li>Understand the notion of Agent and Multi-Agent System and be able to design and implement Agents and Multi-Agent Systems to solve different problems.</li>
+<li>Learn methods and problem solving algorithms, with and without adversaries, using knowledge, for solving complex problems.</li>
+<li>Learn basic methods of Knowledge Representation and Reasoning using different formalisms.</li>
+<li>Understand some Advanced Topics in Artificial Intelligence and be able to formulate a vison about the future of AI and its practical applications now and in the future.</li>
+</ul>
+
+## Programa
+<ul><br /><li>Introduction to Artificial Intelligence (AI): Foundations; Scope; History; Problems and Approaches of AI.</li><br /><li>Intelligent Agents and Multi Agent Systems (MAS): Agent Concept; Environments; Agent Types; MAS: (Architectures, Communication, Coordination).</li><br /><li>Problem Solving: Problem Formulation; State Space; Uninformed Search: Breadth First, Depth First, Iterative Deepening, Bidirectional; Informed/Intelligent Search: Greedy Search, A * Algorithm. Adversarial Search: Games, Minimax, Alpha-Beta Cuts. Optimization and Metaheuristics.</li><br /><li>Knowledge Representation and Reasoning: Propositional Logic and Predicate Logic; Logic Programming and Constraint Programming; Knowledge Engineering.</li><br /><li>Advanced Topics in AI: Planning and Scheduling; Intelligent Robotics and Simulation; Weak AI/Strong AI. Future of AI. &quot;Hard&quot; Problems. AI and the Society. Applications of AI.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The course introduces Artificial Intelligence (AI) and the research in this area, with the aim of first teaching the state of the art in AI and then allowing students to carry out a simple but complete project on a particular area of AI. As the final result of the UC, students must carry out a project that allows them to write a paper/report with sufficient quality to be published in an international conference/journal (which constitutes a very good preparation for the completion of the final master's thesis of the study cycle). The evaluation is based on the project carried out by the students (90%) and active participation in the classes (10%).</p>
+<p>The main teaching techniques will be focused on challenging students to &#8220;high level learning," as is appropriate in a master's degree in an area of this type and in the use of the active learning paradigm. Detailed feedback will also be given to students on the quality of their research work and learning process.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 40.0 %
+- Trabalho laboratorial: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 40.0 hours
+- Estudo autónomo: 30.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho de investigação: 20.0 hours
+- Trabalho laboratorial: 30.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Distributed evaluation without final exam.</p>
+<p>Active participation in classes, Kahoots, Exercises, and Mini-Exam (40%)</p>
+<p>Work/Project (60%)</p>
+
+## Obtenção de frequência
+<p>Do not exceed the limit number of absences and obtain a grade &gt;= 7.5 (out of 20) in all components.</p>
+
+## Melhoria de classificação
+<p>The improvement of the grade will be carried out through a single individual project to be delivered during the exam period.</p>
+

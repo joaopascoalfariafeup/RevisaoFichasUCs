@@ -1,0 +1,145 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Codificação de Informação Multimédia
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Pretende-se nesta unidade curricular motivar e dotar os estudantes de conhecimentos e competências de aplicação de técnicas e tecnologias relevantes para a codificação de sinais multimédia, com particular ênfase para os sinais de fala, de áudio, imagem e vídeo. Contemporaneamente, os estudantes irão consolidar conhecimento prévio sobre processamento de sinal e redes de computadores aplicado ao domínio multimédia, permitindo-lhes assim adquirir competências para projetar, implementar e gerir aplicações e serviços multimédia com diferentes requisitos e disponibilidade de recursos. É dado enfoque especial a aspetos de geração e perceção sinais audiovisuais, assim como às possibilidades de representação comprimida desses sinais de acordo com as normas internacionais relevantes de codificação.</p>
+
+## Resultados de aprendizagem e competências
+<p>A conclusão bem sucedida desta unidade curricular permitirá aos estudantes:</p>
+<p>-conhecer a natureza dos diferentes tipos de informação multimédia e respetivos formatos de representação,</p>
+<p>-compreender a natureza dos sistemas humanos de audição e visão, assim como a importância da sua modelização para os objetivos de representação e comunicação eficiente de sinais de fala, áudio, imagem e vídeo,</p>
+<p>-explicar os fundamentos das principais técnicas genéricas de codificação de fonte, com e sem perdas,</p>
+<p>-identificar as principais normas internacionais de representação e comunicação eficiente de sinais e fala e áudio, explicando a pertinência da estrutura algorítmica subjacente e compreendendo a sua evolução histórica e contextos de aplicação,</p>
+<p>-identificar as principais normas internacionais de representação e comunicação eficiente de sinais e imagem e vídeo, explicando a pertinência da estrutura algorítmica subjacente e compreendendo a sua evolução histórica e contextos de aplicação,</p>
+<p>-aplicar técnicas de processamento digital a sinais de fala, áudio, imagem e vídeo com objetivos de conversão ou transformação dos sinais, extração de características, melhoramento (enhancement) e compressão,</p>
+<p>-identificar requisitos e projetar sistemas de acesso e comunicação de informação multimédia, desde a sua aquisição até aspetos de interoperabilidade de sistema.</p>
+<p> </p>
+
+## Pré-requisitos e co-requisitos
+Processamento de sinal.
+
+## Programa
+<p>1-Introdução à informação multimédia incluindo aspetos de amostragem, quantização e reconstrução de sinais</p>
+<p>2-Geração e perceção de informação audiovisual com destaque para fala, áudio, música, imagem e vídeo</p>
+<p>3-Técnicas, normas e tecnologias para a representação codificada de fala e áudio</p>
+<p>4- Técnicas, normas e tecnologias para a representação codificada de imagem e vídeo</p>
+5- Aspetos de avaliação de qualidade e desempenho dos algoritmos de codificação multimédia
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A metodologia de ensino baseia-se em aulas teóricas e aulas de prática laboratorial. Nas aulas teóricas é realizada a exposição dos conteúdos da unidade curricular, com ilustração e análise de casos concretos, podendo incluir também a sua demonstração.</p>
+<p>Nas aulas de prática laboratorial é incentivada a resolução de exercícios para aplicação prática dos conhecimentos adquiridos. Nestas aulas, são também propostos, ao longo do semestre, vários trabalhos obrigatórios, para grupos de estudantes, de desenvolvimento em ambiente Matlab, incidindo sobre o desenvolvimento e experimentação de algoritmos de processamento e codificação de sinais multimédia.</p>
+<p>Estes trabalhos têm por objetivo promover a consolidação aplicada dos conteúdos da unidade curricular, assim como estimular a autonomia no desenvolvimento de competências de projeto.<br /><br />A avaliação nesta unidade curricular apoia-se em avaliação distribuída com exame final. A avaliação distribuída decorre da avaliação dos trabalhos obrigatórios desenvolvidos nas aulas práticas laboratoriais e também em regime extra-aula. A classificação final na unidade curricular é obtida através de ponderação a 50% da avaliação distribuída, e 50% da classificação obtida em exame final.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 66.5 horas
+- Frequência das aulas: 45.5 horas
+- Trabalho laboratorial: 38.0 horas
+- Trabalho escrito: 12.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>O exame final consta de uma prova escrita com a duração não superior a 90 minutos.</p>
+<p>A classificação final (C) será obtida com base na classificação dos trabalhos práticos (P) e na classificação de exame (E), através da fórmula:</p>
+<p>C = 0.5×P + 0.5×E. Para aprovação é exigido que a classificação de exame (E) não seja inferior a 7 valores.</p>
+<p> </p>
+<p class="MsoNormal" style="margin: 0mm 0mm 0pt; background: white; vertical-align: top;"><span style="font-family: 'Trebuchet MS'; font-size: 9pt;">Todas as classificações referem-se à escala [0, 20] valores.<br /></span></p>
+
+## Obtenção de frequência
+<p><span style="font-family: 'Trebuchet MS'; font-size: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: PT; mso-fareast-language: PT; mso-bidi-language: AR-SA;">A classificação de frequência é dada a todos os estudantes que não excedam o limite permitido de faltas de acordo com os regulamentos em vigor na FEUP e obtenham pelo menos 50% no conjunto das classificações obtidas nos trabalhos práticos realizados ao longo do semestre e enquadrados na avaliação distribuída.<br /></span></p>
+
+## Melhoria de classificação
+<p><span style="font-family: 'Trebuchet MS'; font-size: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: PT; mso-fareast-language: PT; mso-bidi-language: AR-SA;">A melhoria de classificação segue as regras da FEUP e aplica-se apenas à componente de exame final.</span></p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Coding of Multimedia Information
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+This course unit aims to motivate and provide students with knowledge and skills allowing them to apply techniques and technologies that are relevant to the coding of multimedia signals, with particular emphasis on speech, audio, image and video signals. Meanwhile, students will be able to consolidate previous generic knowledge on signal processing and computer networks, which, together, will enable them to design, implement and manage multimedia applications and services according to different requirements and purposes, as well as under distinct resources availability. A special focus is given to aspects of audio-visual signal generation and perception, as well as to the possibilities of compressed representation of these signals in accordance with relevant international coding standards.
+
+## Resultados de aprendizagem e competências
+<p>Successful completion of this course will allow students to:</p>
+<p>-know the nature of different types of multimedia information and corresponding representation formats,</p>
+<p>-understand the nature of human systems of hearing and vision, as well as the importance of their characterization and modeling for the purposes of representation and efficient communication of speech signals, audio, image and video,</p>
+<p>-explain the fundamentals of the main techniques of generic source coding, both lossless and lossy,</p>
+<p>-identify the main international standards for the efficient representation and communication of speech and audio signals, and to explain the relevance of the underlying algorithmic structure, and understand its historical evolution and application contexts,</p>
+<p>-identify the main international standards for the efficient representation and communication of image and video signals, and to explain the relevance of the underlying algorithmic structure, and understand its historical evolution and application contexts,</p>
+<p>-apply digital processing techniques to speech, audio, image and video signals serving purposes of signal conversion or transformation, feature extraction, enhancement and compression,</p>
+<p>-identify requirements and design systems allowing the access and communication of multimedia information, including all aspects from acquisition to system interoperability.</p>
+<br />
+<p> </p>
+
+## Pré-requisitos e co-requisitos
+Signal processing.
+
+## Programa
+<p>1-Introduction to multimedia information including aspects of sampling, quantization and reconstruction of signals<br /><br />2-Generation and perception of audio-visual information with an emphasis on speech, audio, music, image and video</p>
+<p>3-Techniques, standards and technologies for the coded representation of speech and audio</p>
+<p>4- Techniques, standards and technologies for the coded representation of image and video</p>
+5- Aspects of quality evaluation and coding performance of multimedia coding algorithms
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The teaching methodology is based on lectures and laboratory classes. Lectures are devoted to the explanation of the topics of the course unit, with illustration and analysis of specific cases, which may also include demonstration.</p>
+In laboratory classes, the resolution of exercises is motivated aiming at the practical application of the acquired knowledge. In these classes and during the semester, several mandatory Matlab-based work assignments are also proposed to be developed by groups of students, and that focus on the development and experimentation of multimedia processing and coding algorithms.<br /><br />These assignments aim to promote the applied consolidation of the course topics, as well as to stimulate autonomy in the development of design skills.<br /><br />The assessment in this course is based on distributed evaluation with final exam. The distributed evaluation results from the evaluation of the mandatory assignments that are developed in the laboratory classes and also in an extra-class regime. The final grade in the course unit is obtained by weighting 50% of the distributed evaluation and 50% of the grade obtained in the final exam.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 66.5 hours
+- Frequência das aulas: 45.5 hours
+- Trabalho laboratorial: 38.0 hours
+- Trabalho escrito: 12.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The Final Exam consists of a written test that lasts less than 90 minutes.</p>
+<p>The Final Grade (FG) will be based on the grade of the practical assignments (P) and on the grade of the written exam (E) using the following formula:</p>
+<p>FG= 0.5×P + 0.5×E, all components will be graded from 0 to 20. Approval in the course requires that the exam grade (E) is not less than 7 points.</p>
+<p> </p>
+<p><span id="result_box" class="" lang="en"><span class="">All grades refer to the scale [0, 20] points.<br /></span></span></p>
+
+## Obtenção de frequência
+<p>In order to obtain attendance in the UC, students cannot miss more classes than the maximum allowed by the applicable FEUP rules. In addition, students have to reach a minimum grade of 50% in the set of grades related to the assignments given throughout the semester and that represent the distributed evaluation.</p>
+
+## Melhoria de classificação
+<p>Improvement of final grade complies with the FEUP rules and it applies only to the final exam component.</p>
+

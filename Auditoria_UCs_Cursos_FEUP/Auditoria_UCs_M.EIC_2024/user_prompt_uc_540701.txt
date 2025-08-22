@@ -1,0 +1,247 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Visão por Computador
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>A visão por computador é uma área da ciência da computação focada na extracção de "informação útil" de imagens e vídeos. O objectivo da visão por computador é "descobrir a partir de imagens o que está presente no mundo, onde estão localizadas as coisas, que acções estão a ser executadas" (Marr,1982). Exemplos de "informação útil" incluem, por exemplo, o cálculo da geometria 3D de um objecto presente numa imagem, a detecção e identificação de faces ou de gestos humanos, o seguimento de pessoas ou de veículos numa sequência de vídeo. Os algoritmos da visão por computador têm imensas aplicações em muitas áreas, desde a industrial, militar ou médica até à sempre crescente área do entretenimento.</p>
+<p>Este curso é uma introdução aos conceitos e métodos da visão por computador, adaptada aos estudantes do MIEIC que pretendam prosseguir investigação nesta área. Os principais tópicos a tratar incluem: o processo de formação de imagens, métodos básicos de processamento e análise de imagem, bem como métodos mais avançados de reconstrução 3D de uma cena, análise de movimento, aprendizagem automática / deep learning e reconhecimento de objectos. </p>
+
+## Resultados de aprendizagem e competências
+<p>Os estudantes que concluírem este curso com sucesso deverão:</p>
+<ul>
+<ul>
+<li>compreender e ser capazes de explicar os conceitos da visão por computador e os algoritmos fundamentais de manipulação de imagens e sequências de vídeo; </li>
+</ul>
+</ul>
+<ul>
+<ul>
+<li>conhecer e ser capazes de aplicar esses algoritmos em situações práticas;</li>
+</ul>
+</ul>
+<ul>
+<ul>
+<li>adquirir conhecimentos que lhes permitam usar uma biblioteca, como a OpenCV, que implementa alguns dos algoritmos estudados, e implementar novos algoritmos descritos na literatura;</li>
+</ul>
+</ul>
+<ul>
+<ul>
+<li>ser capazes de analisar e compreender artigos científicos seleccionados nas áreas de processamento e análise de imagem e de visão por computador.</li>
+</ul>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>Recomenda-se a frequência com aproveitamento de Programação, Algoritmos e Estruturas de Dados, e Álgebra.</p>
+
+## Programa
+<p>Introdução à visão por computador</p>
+<p>Aquisição de imagens digitais</p>
+<ul>
+<li>imagens de intensidade (2D) e de distância/posição (3D)</li>
+<li>modelo geométrico e radiométrico de uma câmara</li>
+</ul>
+<p>Processamento e análise de imagens de intensidade</p>
+<ul>
+<li>filtragem</li>
+<li>extracção de características</li>
+<li>segmentação</li>
+</ul>
+<p>Movimento</p>
+<ul>
+<li>estimação de movimento</li>
+</ul>
+<p>Reconhecimento de objetos</p>
+<ul>
+<li>selecção de características</li>
+<li>descrição baseada em características locais invariantes</li>
+<li>estabelecimento de correspondência</li>
+</ul>
+Deep Learning<br />
+<ul>
+<li>conceitos fundamentais de Aprendizagem automática</li>
+<li>redes neuronais</li>
+</ul>
+Convolutional neural networks (CNNs)
+<ul>
+<li>conceitos e arquitecturas</li>
+<li>deteçao e segmentação (modelos R-CNN e YOLO)</li>
+<li>visualização de CNNs</li>
+</ul>
+Geração de imagens<br />
+<ul>
+<li>modelos GAN</li>
+<li>modelos de difusão</li>
+</ul>
+Modelos baseados em atenção <br />
+<ul>
+<li>conceito de atenção</li>
+<li>transformers</li>
+<li>modelos visão-linguagem</li>
+</ul>
+Estudo de casos
+
+## Métodos de ensino e atividades de aprendizagem
+<p>&#8226; Aulas Teórico-Práticas: Exposição e discussão das matérias do programa, acompanhada pela resolução de exercícios.</p>
+<p>&#8226; Trabalhos práticos: Desenvolvimento de projectos de aplicação das técnicas de visão por computador estudadas.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho laboratorial: 50.0 %
+- Teste: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 70.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 50.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Avaliação distribuída, incluindo projeto (PR) e miniteste (MT)</p>
+<p>PR - Durante o semestre, será apresentado um projecto de grupo que os estudantes desenvolverão tanto nas aulas teórico-práticas, como fora das aulas. Cada grupo apresentará um pequeno relatório, em formato de artigo, e o projecto será apresentado oralmente.<br /><br />MT - Será realizado um miniteste escritos, que aborda a parte teórica da matéria abordada nas aulas.</p>
+<p>PR e MT são especificadas numa escala de 0 a 20 valores.</p>
+<p>Classificação = PR * 0.5 + MT * 0.5</p>
+<p>Prova oral: sempre que a equipa docente achar necessário, o estudante poderá ser submetido a uma prova oral. Nesta situação, a classificação final será dada pela média aritmética da classificação calculada pela fórmula anterior e da classificação da prova oral<br /><br />Observação: É condição de aprovação a obtenção de uma classificação mínima de 40% na componente MT.<br /><br />Exame de recurso: o exame de recurso substitui apenas a nota da componente MT.</p>
+
+## Obtenção de frequência
+<p>Condições para obtenção de frequência: Não exceder o limite de faltas estabelecido pelas Normas e obter uma classificação mínima de 40% na avaliação distribuída.</p>
+
+## Melhoria de classificação
+<p>A classificação de frequência pode ser melhorada na ocorrência seguinte desta unidade curricular. A classificação de minitestes escritos pode ser melhorada nas épocas legalmente previstas.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computer Vision
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Computer vision is a subfield of computer science that focuses on extracting "useful information" from images and videos. The goal of computer vision is to "discover from images what is present in the world, where things are located, what actions are taking place" (Marr, 1982). Examples of "useful information" include, for example, recovering the 3D geometry of objects in an image, detection and identification of human faces and gestures, and tracking moving people or vehicles in a video sequence. Computer vision algorithms have found a wide range of applications in the industrial, military and medical fields, as well as in the ever-growing entertainment field.</p>
+<p>This course is an introduction to basic concepts and methods in computer vision. It is mainly suited for MIEIC students who are interested in following research in this area. The covered topics include: image formation, basic image processing and analysis methods, as well as more advanced methods like 3D scene reconstruction, motion analysis, machine learning / deep learning, and object recognition. </p>
+
+## Resultados de aprendizagem e competências
+<p>Upon completion of this course, students will:</p>
+<ul>
+<ul>
+<li>understand and be able to explain the basic concepts of computer vision and the fundamental algorithms for the manipulation of images and video sequences;</li>
+</ul>
+</ul>
+<ul>
+<ul>
+<li>have knowledge of existing methods for visual data analysis and be able to apply them in practical situations;</li>
+</ul>
+</ul>
+<ul>
+<ul>
+<li>acquire skills to use a library, like OpenCV, that implements some of the analyzed algorithms and to implement novel algorithms described in the literature;</li>
+</ul>
+</ul>
+<ul>
+<ul>
+<li>be able to analyze and understand selected scientific papers in image processing and analysis, and computer vision.</li>
+</ul>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>Approval in the Programming, Algorithms and Data Stuctures, and Algebra courses (or equivalent) is advisable.</p>
+
+## Programa
+<p>Introduction to Computer Vision</p>
+<p>Image acquisition</p>
+<ul>
+<li>intensity images (2D) and distance/position images (3D)</li>
+<li>geometric and radiometric model of a camera</li>
+</ul>
+<p>Processing and analysis of intensity images</p>
+<ul>
+<li>filtering</li>
+<li>feature extraction</li>
+<li>segmentation</li>
+</ul>
+<p>Motion</p>
+<ul>
+<li>motion estimation</li>
+</ul>
+<p>Recognition</p>
+<ul>
+<li>feature selection</li>
+<li>description using local invariant features</li>
+<li>matching of features</li>
+</ul>
+Deep Learning<br />
+<ul>
+<li>fundamental concepts of Machine learning</li>
+<li>neural networks</li>
+</ul>
+Convolutional neural networks (CNNs)
+<ul>
+<li>concepts and architectures</li>
+<li>detection and segmentation (R-CNN and YOLO models)</li>
+<li>visualization of CNNs</li>
+</ul>
+Image generation<br />
+<ul>
+<li>GAN models</li>
+<li>diffusion models</li>
+</ul>
+Attention-based models<br />
+<ul>
+<li>concept of attention</li>
+<li>transformers</li>
+<li>vision-language models</li>
+</ul>
+<p>Case studies</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>&#8226; Lectures: Presentation and discussion of the course topics, and resolution of exercises.</p>
+<p>&#8226; Practical assignments: Development of projects where the studied computer vision methods must be applied.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho laboratorial: 50.0 %
+- Teste: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 70.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 50.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Distributed evaluation, including project (PR) and minitest (MT)</p>
+<p>PR - A group project will be developed during the semester that is developed both during classes and at home. Each group will deliver a small report (in a scientific paper format) and do an oral presentation of the project.<br /><br />MT - A written minitest will be done, covering the theoretical concepts presented during the course lectures.<br /><br />PR and MT are specified on a 0 to 20 scale.</p>
+<p>Final Classification = PR * 0.5 + MT * 0.5</p>
+<p>Oral examination: whenever needed, according to a decision of the teaching team, students may be submitted to an oral exam. In this situation the final classification will be given by the average of the classification calculated with the previous formula and the classification of the oral exam.<br /><br />Observation: A minimum of 40% on the MT evaluation component is required to be approved in the course.<br /><br />Second season exam: the second season exam replaces only the grade corresponding to the MT component.</p>
+
+## Obtenção de frequência
+<p>Do not exceed the absence limit and obtain a minimum of 40% in the distributed evaluation classification.</p>
+
+## Melhoria de classificação
+<p>Students can only improve the mark of the distributed evaluation component in the following year. Students can improve the mark of the written minitests at the corresponding seasons (according to the rules).</p>
+

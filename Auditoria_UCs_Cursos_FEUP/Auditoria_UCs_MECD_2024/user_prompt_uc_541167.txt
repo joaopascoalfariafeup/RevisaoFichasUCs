@@ -1,0 +1,170 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas Analíticos de Apoio à Decisão
+
+## Curso responsável
+Mestrado em Engenharia e Ciência de Dados
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>O objetivo é introduzir os estudantes a duas das principais ferramentas para a resolução exata de problemas de otimização:</p>
+<ul>
+<li>Programação matemática &#8211; ideal para problemas com decisões contínuas e combinatórias;</li>
+<li>Programação por restrições &#8211; ideal para problemas combinatórios, especialmente quando o espaço de soluções é reduzido.</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p>Pretende-se que os estudantes adquiram competências que lhes permitam:</p>
+<ul>
+<li>identificar, analisar e estruturar problemas de otimização;</li>
+<li>construir modelos para problemas de otimização;</li>
+<li>obter soluções para problemas de programação linear contínua usando o método simplex e teoria da dualidade;</li>
+<li>analisar a robustez das soluções de problemas de programação linear contínua usando análise de sensibilidade;</li>
+<li>encontrar soluções para problemas de programação mista ou binária usando algoritmos de pesquisa em árvore;</li>
+<li>usar CPLEX através da interface Python para resolver problemas de otimização e para obter informações adicionais sobre as soluções;</li>
+<li>usar o ILOG Solver para resolver problemas combinatórios usando programação com restrições.</li>
+</ul>
+
+## Programa
+<p>Formulações de programação linear para problemas de otimização linear contínua.</p>
+<p>Análise geométrica de problemas de otimização.</p>
+<p>Formulações de programação inteira.</p>
+<p>Resolução de problemas de programação linear, o Algoritmo Simplex.</p>
+<p>Análise de sensibilidade.</p>
+<p>Dualidade em programação linear.</p>
+<p>Programação não-linear.</p>
+<p>Resolução de problemas de programação inteira.</p>
+<p>Utilização de IBM ILOG CPLEX Optimization Studio.</p>
+Programação por restrições.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Antes de cada uma das aulas os estudantes devem estudar o capítulo correspondente do livro.</p>
+<p>Cada aula consiste na discussão do capítulo relativo à aula e serão propostos alguns exercícios para resolução durante a aula.</p>
+<p>O processo de aprendizagem será consolidado através de dois trabalhos que se basearão na utilizarão do software para resolução de problemas lineares (CPLEX) e problemas de programação com restrições (ILOG Solver) que serão apresentados individualmente em sala de aula.</p>
+Os testes têm uma ponderação de 50%, enquanto os trabalhos contemplam os restantes 50% (15% para o primeiro, 20% para o segundo e 15% para uma apresentação final).
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Apresentação/discussão de um trabalho científico: 15.0 %
+- Teste: 50.0 %
+- Trabalho prático ou de projeto: 35.0 %
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 3.0 horas
+- Elaboração de projeto: 60.0 horas
+- Estudo autónomo: 63.0 horas
+- Frequência das aulas: 42.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final será obtida da seguinte forma:</p>
+<ul>
+<li>3 testes com consulta dos quais serão escolhidas as 2 melhores classificações (2 x 25%);</li>
+<li>1 trabalho (35%);</li>
+<li>1 apresentação (15%).</li>
+</ul>
+<p>Todas as componentes estão sujeitas a uma nota mínima de 40%.</p>
+
+## Obtenção de frequência
+Não aplicável.
+
+## Melhoria de classificação
+<p>A nota dos testes é passível de ser melhorada em época de recurso.</p>
+<p>O trabalho apenas poderá ser melhorado na edição seguinte.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Analytical decision support systems
+
+## Curso responsável
+Master in Data Science and Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>The objective is to introduce the students to two major tools for the exact resolution of optimization problems:</p>
+<ul>
+<li>Mathematical programming &#8211; suitable to problems with continuous and combinatorial decisions;</li>
+<li>Constraint programming &#8211; suitable to combinatorial problems, especially when the solution space is small.</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p>It is expected to endow the students with skills to:</p>
+<ul>
+<li>identify, analyse and structure optimization problems;</li>
+<li>build models for optimization problems;</li>
+<li>obtain solutions for continuous linear optimization problems using the simplex method and duality theory;</li>
+<li>analyse the robustness of solutions of continuous linear optimization problems using sensitivity analysis;</li>
+<li>build solutions for mixed integer and binary optimization problems using tree-search algorithms;</li>
+<li>use CPLEX through Python interface to solve optimization problems and get insights on the solutions;</li>
+<li>use ILOG Solver to solve constraint programming models for combinatorial problems.</li>
+</ul>
+
+## Programa
+<p>Linear programming formulations for continuous linear optimization problems.</p>
+<p>Geometrical analysis of optimization problems.</p>
+<p>Integer programming formulation.</p>
+<p>Solving Linear Programs, the Simplex Algorithm.</p>
+<p>Sensitivity analysis.</p>
+<p>Duality in Linear Programming.</p>
+<p>Non-Linear Programming.</p>
+<p>Solving Integer Programming.</p>
+<p>Using IBM ILOG CPLEX Optimization Studio.</p>
+Constraint Programming.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Before each one of the classes the students should study the corresponding chapter in the book.</p>
+<p>Each class consists of discussing the corresponding chapter and some exercises will be solved in class.</p>
+<p>The learning process will be consolidated through two assignments that will be based on the use of software for solving linear problems (CPLEX) and constraint programming problems (ILOG Solver) that will be presented in class.</p>
+The quizzes have a total weight of 50%, whereas the assignments account for the remaining 50% (15% for the first, 20% for the second and 15% for the final presentation).
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Apresentação/discussão de um trabalho científico: 15.0 %
+- Teste: 50.0 %
+- Trabalho prático ou de projeto: 35.0 %
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 3.0 hours
+- Elaboração de projeto: 60.0 hours
+- Estudo autónomo: 63.0 hours
+- Frequência das aulas: 42.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final score will be calculated according to the following:</p>
+<ul>
+<li>3 tests (open book), from which the best 2 are chosen (2 x 25%);</li>
+<li>1 assignment (35%);</li>
+<li>1 presentation (15%).</li>
+</ul>
+<p>All components are subject to a minimum grade of 40%.</p>
+
+## Obtenção de frequência
+Not applicable.
+
+## Melhoria de classificação
+<p>The test grades can be improved in the second exam season ('<em>época de recurso</em>').</p>
+<p>The assignment can only be improved in the next edition of the course.</p>
+

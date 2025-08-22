@@ -1,0 +1,136 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Arquitetura de Computadores
+
+## Curso responsável
+Licenciatura em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p><strong>ENQUADRAMENTO</strong></p>
+<p>A arquitetura de um computador reflete o avanço tecnológico atual, mas também estabelece os limites das suas capacidades e do seu desempenho.  Tanto a arquitetura do sistema como o conjunto de instruções têm um impacto profundo na prática diária dos engenheiros informáticos.</p>
+<p><strong>OBJETIVOS ESPECÍFICOS </strong></p>
+<p>A unidade curricular "Arquitetura de Computadores" tem por objetivo desenvolver, combinar e aplicar de forma integrada conceitos das áreas de Arquitetura de Computadores e de Linguagens de Programação.  Assim, a unidade curricular explora os mecanismos de apoio à execução eficiente de programas, como memórias "cache", encadeamento de instruções e predição de saltos. Reconhecendo que a arquitetura de computadores vai muito para além da arquitetura do CPU, a unidade curricular abordará também os subsistemas de memória, armazenamento e periféricos. Após a conclusão com sucesso desta unidade curricular, o estudante terá adquirido a capacidade de identificar e descrever a arquitetura das plataformas computacionais em uso atualmente, bem como a capacidade de aplicar as técnicas de programação "assembly" na implementação de algoritmos.</p>
+<p><strong>DISTRIBUIÇÃO PERCENTUAL </strong></p>
+<ul>
+<li>Componente científica: 60%</li>
+<li>Componente tecnológica: 40%</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p>Após frequentar esta unidade curricular, o estudante deve ser capaz de:</p>
+<ol>
+<li>Descrever organizações de memória &#8220;cache&#8221; e explicar o seu uso para melhorar o desempenho.</li>
+<li>Explicar &#8220;pipelining&#8221; básico no nível das instruções e o seu efeito no desempenho.</li>
+<li>Explicar os mecanismos para lidar com dependências de dados e de controlo.</li>
+<li>Descrever arquiteturas superescalares (emissão simultânea de instruções; execução fora de ordem).</li>
+<li>Descrever instruções SIMD/vetoriais e aplicá-las em sub-rotinas de elevado desempenho.</li>
+<li>Discutir as limitações de desempenho dos processadores de núcleo único.</li>
+<li>Descrever a organização básica de um multiprocessador simétrico (com vários núcleos e memória partilhada).</li>
+<li>Explicar a interação do processador com os dispositivos de entrada / saída (E/S).</li>
+<li>Avaliar as diferentes abordagens à gestão de E/S (varrimento, interrupções, DMA)</li>
+<li>Descrever as características das atuais tecnologias de armazenamento secundário e avaliar o seu impacto sobre o desempenho.</li>
+</ol>
+
+## Pré-requisitos e co-requisitos
+<p>Pré-requisito:</p>
+<p>- Fundamentos de sistemas computacionais (L.EIC004) : princípios da programação em linguagem "assembly" (RISC-V) e de organização de computadores.</p>
+
+## Programa
+<ol><br /><li>Introdução às plataformas computacionais: design for performance.</li><br /><li>Organizações comuns de memórias cache; seu impacto no desempenho.</li><br /><li>Paralelismo ao nível de instruções: &#8220;pipelining&#8221;; limitações; gestão de dependências de dados e de controle. Predição de saltos.</li><br /><li>Instruções SIMD/vetoriais para paralelismo explícito de dados.</li><br /><li>Introdução às arquiteturas superescalares: emissão de múltiplas instruções; execução fora de ordem.</li><br /><li>Limitações de processadores de núcleo único; limitações de frequência e potência.</li><br /><li>Organização básica de um processador &#8220;multicore&#8221;.</li><br /><li>Interface com periféricos: &#8220;polling&#8221;, interrupções, DMA. Subsistemas de armazenamento de dados. Estimação de desempenho de tarefas que envolvem atividade E/S significativa.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A unidade curricular tem uma componente teórica baseada em aulas de exposição dos diversos temas acompanhados da apresentação de exemplos e respetiva discussão. As aulas teórico-práticas incluem a apresentação, análise e resolução de um conjunto de questões e de casos de estudo.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 horas
+- Frequência das aulas: 56.0 horas
+
+## Fórmula de cálculo da classificação final
+<p style="text-align: left;">Para obter aprovação à UC é necessário cumprir as condições de frequência.<br /><br />A frequência de ocorrências anteriores<strong> não é considerada</strong>.<br /><br />A avaliação distribuída é composta por dois testes (1h30 cada)</p>
+<p style="text-align: left;">A nota final é dada por: <br />NF = T1 <span lang="en" xml:lang="en">×</span> 0,5 + T2 <span lang="en" xml:lang="en">×</span> 0,5<br />em que T1 e T2 são as notas dos 1.º e 2.º testes, respetivamente (escala 0-20).</p>
+<p style="text-align: left;">O recurso para<strong> obtenção de aprovação </strong>pode ser global (prova de 2H00) ou parcial (T1 ou T2, 1H30 cada).</p>
+
+## Obtenção de frequência
+Para obter aprovação à UC é necessário cumprir as condições de frequência, i.e., não exceder o limite de faltas às aulas TP (3).
+
+## Melhoria de classificação
+<p>A classificação pode ser <strong>melhorada</strong> através da realização de uma prova sobre toda a matéria (2h00).</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computer Architecture
+
+## Curso responsável
+Bachelor in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p><strong>BACKGROUND</strong></p>
+<p>The architecture of a computer reflects the current technological advancement, but also sets the limits of its capabilities and performance. Both the system architecture and the instruction set have a profound impact on the daily practice of computer engineers.engineers.</p>
+<p><strong>SPECIFIC AIMS</strong></p>
+<p>The curricular unit "Computer Architecture" aims to develop, combine and apply in an integrated way concepts from the areas of Computer Architecture and Programming Languages. Thus, the curricular unit explores the mechanisms to support efficient program execution, such as cache memories,  instruction pipelining and jump prediction, will also be addressed. Recognizing that computer architecture goes far beyond the CPU architecture, the curricular unit will also address memory, storage and peripheral subsystems. Upon successful completion of this curricular unit, the student will have acquired the ability to identify and describe the architecture of computing platforms currently in use, as well as the ability to apply assembly programming techniques in the implementation of algorithms.</p>
+<p><strong>PERCENT DISTRIBUTION</strong></p>
+<ul>
+<li>Scientific component: 60%</li>
+<li>Technological component: 40%</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+After successfully completing this curricular unit, the student should be able to:<br /><br /><ol><br /><li>Describe cache memory organizations and explain their use to improve performance.</li><br /><li>Explain basic instruction-level pipelining and its effect on performance.</li><br /><li>Explain the mechanisms for handling data and control dependencies.</li><br /><li>Describe superscalar architectures (multi-issue operation, and in-order and out-of-order execution).</li><br /><li>Describe SIMD/vector instructions and apply them in high-performance subroutines.</li><br /><li>Discuss the performance limitations of single-core processors.</li><br /><li>Describe the basic organization of a symmetric multiprocessor (with multiple cores and shared memory).</li><br /><li>Explain the processor's interaction with input/output (I/O) devices.</li><br /><li>Evaluate the various approaches to I/O management (polling, interrupts, DMA).</li><br /><li>Describe the characteristics of current secondary storage technologies and assess their impact on performance.</li><br /></ol>
+
+## Pré-requisitos e co-requisitos
+Prerequisite:<br /><br />- Fundamentals of computer systems (L.EIC004): principles of assembly language programming (RISC-V) and computer organization.
+
+## Programa
+<ol><br /><li>Introduction to computing platforms: arquiteturas orientadas ao desempenho.</li><br /><li>Common cache memory organizations and their impact on performance.</li><br /><li>Instruction level parallelism: &#8220;pipelining&#8221;; limitations; management of data and control dependencies.</li><br /><li>SIMD/vector instructions for explicit data parallelism.</li><br /><li>Introduction to superscalar architectures: multiple instruction issue and out-of-order execution.</li><br /><li>Limitations of single-core processors; frequency and power walls.</li><br /><li>Basic organization of a &#8220;multicore&#8221; processor; cache coherence and synchronization.</li><br /><li>Interfacing with peripherals: polling, interrupts, DMA. Data storage subsystem. Performance estimation of tasks that involve significant I/O activity.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b ChMk0b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;0&quot; data-number-of-phrases=&quot;8&quot;>The curricular unit has a theoretical component based on lectures about the different themes accompanied by the presentation of examples and respective discussion.</span> <span class=&quot;JLqJ4b ChMk0b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;1&quot; data-number-of-phrases=&quot;8&quot;>Theoretical-practical sessions include the presentation, analysis and resolution of a set of questions and case studies.</span></span>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 hours
+- Frequência das aulas: 56.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>To pass the course, the attendance requirements must be met.<br /><br />Frequency grades from previous years <strong>are not taken into consideration</strong>.<span class="VIiyi" lang="en"><span class="JLqJ4b ChMk0b" data-language-for-alternatives="en" data-language-to-translate-into="pt" data-phrase-index="0" data-number-of-phrases="1"><br /><br />The final grade (NF) is given by: <br />NF = T1 <span lang="en" xml:lang="en">×</span> 0.5 + T2 <span lang="en" xml:lang="en">×</span> 0.5 <br />where T1 and T2 are the 1st and 2nd test scores, respectively (scale 0-20). <br /></span></span></p>
+<p><span class="VIiyi" lang="en"><span class="JLqJ4b ChMk0b" data-language-for-alternatives="en" data-language-to-translate-into="pt" data-phrase-index="0" data-number-of-phrases="1">The retake exam<strong> for approval</strong> can be global (test of 2H00) or partial (T1 or T2, 1H30 each).</span></span></p>
+
+## Obtenção de frequência
+<p>To pass the course, you must meet the attendance requirements, i.e. not exceed the limit of absences from TP classes (3).</p>
+
+## Melhoria de classificação
+<p><span class="VIiyi" lang="en"><span class="JLqJ4b ChMk0b" data-language-for-alternatives="en" data-language-to-translate-into="pt" data-phrase-index="0" data-number-of-phrases="1">The course grade can be <strong>improved</strong> by taking a test on the whole subject (2h00).<br /></span></span></p>
+

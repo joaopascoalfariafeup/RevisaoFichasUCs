@@ -1,0 +1,96 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Métodos de Aproximação em Engenharia
+
+## Curso responsável
+Mestrado em Mecânica Computacional
+
+## Créditos ECTS
+7,5
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>A disciplina visa introduzir os conceitos essenciais e uma base unificadora dos métodos numéricos mais utilizados em modelos computacionais na Mecânica dos Sólidos e dos Fluidos.</p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>Pretende-se que o aluno adquira um conceito mais abrangente da natureza e aplicabilidade desses métodos e, consequentemente, alguma desenvoltura para abordar problemas diferentes daqueles por ele já estudados mas que podem ser tratados com os mesmos métodos.</p>
+
+## Programa
+<p>Método das diferenças finitas na solução de equações diferenciais e de derivadas parciais. Equações elípticas, parabólicas e hiperbólicas de derivadas parciais. Problemas de convecção/difusão. Método dos Resíduos Ponderados. Métodos de Galerkin, da colocação pontual e do subdomínio. Formulações fracas. Problemas de convecção/difusão: método de Petrov-Galerkin. Integração numérica no tempo de equações parabólicas e hiperbólicas. Método dos Elementos Finitos: breve introdução. Elementos lineares e quadráticos. Coordenadas naturais. Elementos isoparamétricos. Derivação e integração. Integração numérica. Método dos Volumes Finitos: breve introdução. Problemas de convecção/difusão.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas que consistem na exposição detalhada do programa da disciplina ilustrada com a resolução de exemplos de aplicação a problemas de engenharia. Resolução de alguns problemas com auxílio do MATLAB.</p>
+<p>Tipo de Avaliação: Avaliação distribuída com trabalhos práticos.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho escrito: 100.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 70.0 horas
+- Trabalho escrito: 132.5 horas
+
+## Fórmula de cálculo da classificação final
+<p>Fórmula de avaliação: Na classificação final a componente da avaliação distribuída tem um peso de 100%.</p>
+
+## Obtenção de frequência
+Participação nas aulas.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Approximation Methods in Engineering
+
+## Curso responsável
+Master in Computational Mechanics
+
+## Créditos ECTS
+7,5
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>The discipline aims to introduce the essential concepts and an unifying basis of the most widely used numerical methods in computational models in Solid and Fluid Mechanics. </p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>It is expected that the student acquires a broader view of the nature and applicability of these methods and consequently, a more positive attitude to deal with different problems of those previously studied but that may be addressed with the same methods.</p>
+
+## Programa
+<p>Finite Difference Method in the solution of differential and partial differential equations. Elliptic, parabolic and hyperbolic partial differential equations. Convection /diffusion problems. Weighted Residual Method. Galerkin Method. Point Collocation Method. Sub-domain Method. Weak forms. Convection /diffusion problems: Petrov-Galerkin Method.  Finite Element Method: brief introduction. Linear and quadratic elements. Natural coordinates. Isoparametric elements. Derivatives and integration. Numerical integration. Finite Volume Method: brief introduction Convection /diffusion problems.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical classes consisting on the detailed exposition of the program of the discipline, illustrated with the resolution of engineering application examples. Solution of some problems using MATLAB.</p>
+<p>Type of evaluation: Distributed evaluation with practical assignments.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho escrito: 100.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 70.0 hours
+- Trabalho escrito: 132.5 hours
+
+## Fórmula de cálculo da classificação final
+<p>Evaluation formula: The component of distributed evaluation has a 100% weight on the final classification.</p>
+
+## Obtenção de frequência
+Participation in the classes.
+

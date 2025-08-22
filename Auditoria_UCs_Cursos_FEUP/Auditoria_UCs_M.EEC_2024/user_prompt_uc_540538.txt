@@ -1,0 +1,131 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Arquiteturas de Computação Embarcada
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Os sistemas embarcados apresentam duas características, ubiquidade e invisibilidade. Ubiquidade porque estão presentes em quase todos os dispositivos eletrónicos e invisibilidade pois a sua presença não é anunciada. Normalmente, não fazem parte das características que distinguem o dispositivo.<br /><br />Esta unidade curricular tem como objectivo aprender a projetar, implementar, connectar e programar sistemas embarcados.</p>
+
+## Resultados de aprendizagem e competências
+<p>Identificar e compreender diversas topologias de plataformas de computação existentes atualmente, avaliando o seu potencial desempenho.</p>
+<p>Selecionar a plataforma de computação em função dos requisitos da aplicação: custo, rapidez, consumo de  energia, flexibilidade, disponibilidade e ferramentas de desenvolvimento associadas.</p>
+<p>Identificar, avaliar, selecionar, programar e testar</p>
+<p>- interfaces digitais síncronas e assíncronas para comunicação entre sub-sistemas de computação e periféricos.</p>
+<p>- dispositivos e circuitos para interface com sinais externos analógicos e digitais.<br /><br />- sistemas embarcados completos.</p>
+
+## Pré-requisitos e co-requisitos
+- representações numéricas: inteiro, vírgula fixa e vírgula flutuante com diferentes números de bits, incluindo formatos não convencionais.<br /><br />- eletrónica digital e circuitos lógicos, famílias de integrados lógicos.<br /><br />- modelos dos componetes eletrónicos básicos:  Díodos, Transistores Bipolares e MosFet<br /><br />- máquinas de Estados e as suas técnicas de implementação.
+
+## Programa
+- Analise das características diferenciadoras das plataformas baseadas em: CPUs, MCUs, DSPs convencionais, GPUs, e plataformas baseadas em FPGAs.<br /><br />- Interfaces digitais síncronas e assíncronas para comunicação entre sub-sistemas de computação e periféricos: Digital I/O, UART, USART, I2C, SPI, CAN, USB, PCIe e Ethernet.<br /><br />- Dispositivos e circuitos para interface com sinais externos digitais: Adaptação de níveis lógicos, isolamento galvânico, filtragem com histerese, prevenção de ressalto (&#8220;debouncing&#8221;).<br /><br />- Mecanismo de interupções, sincronismo de tarefas e coerência dos dados.<br /><br />- Configração e programação dos sistemas presentes num sistema embarcado:<br />  Relógio<br />  Periféricos<br />  Comunicação<br />  AD e DA<br /><br />- Depuração e validação dos sistema implementado.
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-weight: 400;">As aulas são divididas em aulas de exposição e aulas laboratoriais. Nas aulas de exposição são apresentados os tópicos do programa recorrendo sempre possível à análise das folhas de características, manuais técnicos e notas de aplicação de diversos componentes comerciais atuais. Nas aulas laboratoriais são estudados e  resolvidos exercícios ilustrativos e são apresentados os trabalhos práticos a desenvolver pelos estudantes.</span></p>
+<p> </p>
+<p> </p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 40.0 %
+- Trabalho laboratorial: 20.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 40.0 horas
+- Estudo autónomo: 52.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho escrito: 9.0 horas
+- Trabalho laboratorial: 9.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Classificação final:</p>
+<ul>
+<li><strong id="tinymce" class="mce-content-body " contenteditable="true" spellcheck="false" data-id="pv_for_avaliacao">CF = 0,4xMT + 0,2xTL + 0,4xPF</strong></li>
+<li><strong>Limitada a MT+4 valores (em 20)</strong></li>
+</ul>
+<p><br />Onde:</p>
+<ul>
+<li>CF representa a classificação final</li>
+<li>MT é a média pesada entre o melhor miniteste (60%) e o pior (40%)</li>
+<li>TL é a média dos trabalhos de laboratório</li>
+<li>PF é a média pesada do projeto final (80%) e do relatório escrito (20%)</li>
+</ul>
+
+## Obtenção de frequência
+O estudante deve apresentar todos os trabalho práticos propostos.
+
+## Melhoria de classificação
+Realização dos minitestes e de um projecto individual com entrega do respetivo relatório e demonstração prática do trabalho realizado.<br /><br />Classificação de melhoria: 0,4xMT + 0,6xPF
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Embedded Computing Architectures
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Embedded systems have two characteristics, ubiquity and invisibility. Ubiquity because they are present in almost all electronic devices and invisibility because their presence is not announced. They are usually not part of the distinguishing features of the device.<br /><br />This course aims to learn how to design, implement, connect and program embedded systems.
+
+## Resultados de aprendizagem e competências
+Identify and understand various topologies of currently existing computing platforms, evaluating their potential performance.<br /><br />Select computing platform based on application requirements: cost, speed, power consumption, flexibility, availability and associated development tools.<br /><br />Identify, evaluate, select, program and test<br /><br />- synchronous and asynchronous digital interfaces for communication between computing subsystems and peripherals.<br /><br />- devices and circuits for interfacing with external analog and digital signals.<br /><br />- complete embedded systems.
+
+## Pré-requisitos e co-requisitos
+- numeric representations: integer, fixed point and floating point with different numbers of bits, including non-conventional formats.<br /><br />- digital electronics and logic circuits, logic families in digital electronics.<br /><br />- models of basic electronic components: Diodes, Bipolar Transistors and MosFet<br /><br />- State machines and their implementation techniques.
+
+## Programa
+- Analysis of the differentiating characteristics of platforms based on: CPUs, MCUs, conventional DSPs, GPUs, and platforms based on FPGAs.<br /><br />- Synchronous and asynchronous digital interfaces for communication between computing subsystems and peripherals: Digital I/O, UART, USART, I2C, SPI, CAN, USB, PCIe and Ethernet.<br /><br />- Devices and circuits for interfacing with digital external signals: Adaptation of logic levels, galvanic isolation, hysteresis filtering, debouncing prevention.<br /><br />- interrupt mechanism, task synchronism and data coherence.<br /><br />- configuration and programming of systems present in an embedded system:<br /> Clock<br /> Peripherals<br /> Communication<br /> AD and AD<br /><br />- debugging and validation of the implemented system.
+
+## Métodos de ensino e atividades de aprendizagem
+Classes are divided into exposure classes and laboratory classes. In the exposition classes, the topics of the program are presented, resorting, whenever possible, to the analysis of the characteristics sheets, technical manuals and application notes of several current commercial components. In laboratory classes, illustrative exercises are studied and solved and practical work to be developed by students is presented.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 40.0 %
+- Trabalho laboratorial: 20.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 40.0 hours
+- Estudo autónomo: 52.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho escrito: 9.0 hours
+- Trabalho laboratorial: 9.0 hours
+
+## Fórmula de cálculo da classificação final
+<div class=&quot;FFpbKc&quot;><br /><div class=&quot;ZTPlmc&quot;><br /><p>Classificação final:</p><br /><ul><br /><li><strong id=&quot;tinymce&quot; class=&quot;mce-content-body &quot; contenteditable=&quot;true&quot; spellcheck=&quot;false&quot; data-id=&quot;pv_for_avaliacao&quot;>CF = 0,4xMT + 0,2xTL + 0,4xPF</strong></li><br /><li><strong>Limitada a MT+4 valores (em 20)</strong></li><br /></ul><br /></div><br /></div><br /><div class=&quot;dePhmb&quot;><br /><div class=&quot;eyKpYb&quot; data-language=&quot;en&quot; data-original-language=&quot;pt&quot; data-result-index=&quot;0&quot;><br /><div class=&quot;J0lOec&quot;><span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b ChMk0b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;6&quot;>Where:</span> <br /></span></span><br /><ul><br /><li>CF represents the final classification</li><br /><li>MT is the weighted average between the best minitest (60%) and the worst (40%)</li><br /><li>TL is the average of laboratory work</li><br /><li>PF is the weighted average of the final project (80%) and the written report (20%)</li><br /></ul><br /></div><br /></div><br /></div>
+
+## Obtenção de frequência
+The student must present all the proposed practical work.
+
+## Melhoria de classificação
+Conducting mini-tests and an individual project with delivery of the respective report and practical demonstration of the performed work.<br /><br />Classification improvement: 0.4xMT + 0.6xPF
+

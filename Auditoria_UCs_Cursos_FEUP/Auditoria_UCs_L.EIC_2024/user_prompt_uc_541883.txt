@@ -1,0 +1,164 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Laboratório de Computadores
+
+## Curso responsável
+Licenciatura em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p>1- Enquadramento</p>
+<p> Os dispositivos periféricos são uma parte fundamental dum computador, sem a qual a utilidade ou a facilidade de uso dos computadores seriam significativamente inferiores. A importância destes dispositivos em sistemas baseados em computadores tem crescido desde os primórdios dos computadores (cerca de 1950) e continua com a difusão cada vez maior de sistemas embebidos. Contudo, a programação dos dispositivos periféricos usando a sua interface programática, i.e. a interface de "hardware", requer conhecimentos e técnicas específicas.<br /> <br />2- Objetivos Específicos<br /><br />Os objetivos da unidade curricular são dotar os estudantes com conhecimentos essenciais para serem capazes de:</p>
+<ul>
+<ul>
+<li>usar a interface de "hardware" de periféricos comuns;</li>
+<li>desenvolver "software" de baixo nível, p.ex. "device drivers", e de "software" embebido;</li>
+<li>usar a linguagem de programação C de modo estruturado;</li>
+<li><span style="font-weight: 400;">desenvolver programas codificados em C e em &#8220;assembly&#8221;</span></li>
+<li><span style="font-weight: 400;"> fazer &#8220;debugging&#8221; de forma sistemática (com base no método experimental científico)</span></li>
+<li>utilizarem várias ferramentas de desenvolvimento de software <span style="font-weight: 400;">(compiladores e compiladores cruzados, &#8220;assemblers&#8221;, &#8220;linkers&#8221;, "build automation tools", sistemas de controlo de versões)</span></li>
+</ul>
+</ul>
+<p>3- Distribuição Percentual</p>
+<p>Científica: 30%<br />Tecnológica: 70%</p>
+
+## Resultados de aprendizagem e competências
+<p>Todos os estudantes que terminarem a unidade curricular com sucesso deverão compreender os principais modelos de acesso a dispositivos periféricos e ser capazes de os aplicar em programas de alto nível relativamente complexos.</p>
+<p> </p>
+
+## Pré-requisitos e co-requisitos
+<p>Considera-se como essencial para alcançar os objetivos acima enunciados, a aprovação a unidades curriculares (UC) cujo conteúdo é o das UCs:</p>
+<ul>
+<ul>
+<li>Programação</li>
+<li>Arquiteturas de Computadores</li>
+<li>Sistemas Operativos</li>
+</ul>
+</ul>
+
+## Programa
+<p>Periféricos de entrada/saída e seus modos de funcionamento. Mapeamento direto no espaço de endereçamento de memória.  Acesso a periféricos no modo "polled" e por interrupção. Interrupções nos processadores IA-32 e ARM e respetivos controladores de interrupções do PC, escrita de rotinas de interrupção. </p>
+<p>Periféricos típicos de um PC e de plataformas embebidas. <br /><br />Programação na linguagem C: principais diferenças em relação à linguagem C++, métodos para estruturação do código. Organização da memória dum processo. Funções: mecanismo de chamada, passagem de parâmetros, armazenamento local e retorno de valores. Programação baseada em eventos. Máquinas de estados.</p>
+<p>Criação e utilização de bibliotecas. Ligação estática de código objecto. <span style="font-weight: 400;"> Programação combinada em C e "assembly". Técnicas sistemáticas para &#8220;debugging&#8221; baseadas no método científico experimental.<br /><br />Criação e utilização de bibliotecas. Ligação estática de código objeto.</span></p>
+<p>Utilização de ferramentas de desenvolvimento de software: cc, make, ar, diff, patch, Git, doxygen.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-weight: 400;">"Aprender fazendo". Nas primeiras 10 das aulas laboratoriais os estudantes realizam em grupos de 2 estudantes  pequenos trabalhos práticos sobre periféricos comuns do PC ou em plataformas computacionais para sistemas embebidos e aplicando técnicas de programação específicas. Nas restantes aulas laboratoriais será realizado um projeto proposto pelos estudantes que deverá integrar a maioria dos periféricos e técnicas estudadas.<br /></span><br /><span style="font-weight: 400;">Nas aulas teóricas faz-se a exposição dos conceitos, tendo sempre em vista a sua aplicação prática, e discute-se os pormenores necessários à realização dos trabalhos práticos e do projeto.</span></p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 40.0 %
+- Trabalho laboratorial: 60.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 30.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho laboratorial: 80.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Nota final = 0,4*T + 0,6*Proj</p>
+<p>onde:<br /><br />T = (T1+T2)/2<br /><br />T1, T2 - classificação do primeiro e do segundo teste respectivamente<br /><br />Proj - classificação do projeto<br /> <br />Embora o projeto seja realizado em grupos de 4 estudantes, excecionalmente de 3 estudantes, membros do mesmo grupo podem ter classificações diferentes dependendo da sua contribuição.<br /><br />Para obter aprovação é necessário obter no mínimo 8.0 valores à componente T (média dos testes). </p>
+
+## Obtenção de frequência
+<p>Para a obtenção de frequência os estudantes deverão não exceder o limite de faltas (25% das aulas previstas).<br /><br /><br /></p>
+
+## Melhoria de classificação
+<p>A classificação dos testes pode ser melhorada (para cumprir requisitos de aprovação ou melhorar a nota) por realização duma prova única semelhante durante o período de recurso dos exames. Para aceder a esta prova é necessário ter frequência.<br /><br /></p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computer Laboratory
+
+## Curso responsável
+Bachelor in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p>1- Introduction</p>
+<p>I/O devices are an integral part of a computer, without which the usefulness or the ease of use of a computer would be significantly lower. The importance of I/O devices in computer-based systems has increased since the first generation of computers, and it continues up to these days with the ever increasing use of computers in embedded systems. However, programming of I/O devices using their programatic interface requires specific knowledge and techniques.</p>
+<p>2- Specific Objectives</p>
+<p>This course unit aims to endow students with the knowledge and the skills required to:</p>
+<ul>
+<ul>
+<li>use the hardware interface offered by I/O devices</li>
+<li>develop low level software, e.g. device drivers, and embedded software;</li>
+<li>program in the C language (using C++ as a reference);</li>
+<li>developp programs combining C and "assembly"</li>
+<li>apply systematic debugging techniques (i.e. based on the experimental scientific method)</li>
+<li>use various tools of software development (compilers and cross-compilers, assemblers, linkers, build automation tools and version control systems).</li>
+</ul>
+</ul>
+<p>3- Percentual Distribution</p>
+<p>Scientific: 30%<br />Tecnological: 70%</p>
+
+## Resultados de aprendizagem e competências
+<p>Students, who successfully complete this course unit, should understand the main models of hardware access and be able to apply them in the development of relatively large programs.</p>
+<p> </p>
+
+## Pré-requisitos e co-requisitos
+<p>Students should have the knowledge and have acquired the competencies expected from approval in the courses:</p>
+<ul>
+<ul>
+<li>Programming</li>
+<li>Computer Architectures</li>
+<li>Operating Systems</li>
+</ul>
+</ul>
+
+## Programa
+<p><span style="font-weight: 400;">Input/Output peripherals and their operation. Device drivers. Direct mapping in a process address space. Access to peripherals in polled mode and by interrupt. Processor interrupts in the IA-32 and ARM architectures and respective interrupt controllers. Interrupt service routines in Assembly and in C. </span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br />Study of typical personal computer and embedded systems I/O devices.</span></p>
+<p><span style="font-weight: 400;">Programming in the C programming language: main differences with respect to C++ language; structured programming in C. Memory layout of a process. Function calls: mechanisms, parameter passing, storage of local variables, and return values. Event-based programming. State machines. Combined programming in C and assembly. Systematic debugging techniques based on the experimental scientific method.</span><br /><br /></p>
+<br />
+<p>Creation and use of libraries. Static linking of object code.</p>
+<p> Use of software development tools: cc, make, ar, diff, patch, Git, and doxygen.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-weight: 400;">A "learn by doing" approach is used. In the first 10 lab classes, students carry out lab assignments about some of the most common PC peripherals or the I/O devices of an embedded systems platform.  In the remaining weeks, students will develop a small integration project using several peripherals and the techniques previously studied. Students work both on the lab assignments in groups of 2 students. </span><br /><br /><span style="font-weight: 400;">Lecture classes will be used to present the concepts, taking into account their application in the lab assignments, and to discuss the details of the lab assignments and the project.</span></p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 40.0 %
+- Trabalho laboratorial: 60.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 30.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho laboratorial: 80.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Final grade = 0,4*T + 0,6*Proj</p>
+<p>where:<br /><br />T = (T1+T2)/2</p>
+<p><br />T1 and T2  are the grades of the first and of the second tests, respectively<br /><br />Proj is the project's grade</p>
+<p>Although the project will be done in groups of 3 or 4 students, members of the same group may have different grades depending on their contribution<br /><br /></p>
+<p>To pass this subject, students are required to get a minimum of 8.0 for the T component (average of the classification of the two tests). </p>
+
+## Obtenção de frequência
+<p>In order to obtain "frequência" students must attend at least 75% of the scheduled classes.</p>
+
+## Melhoria de classificação
+<p>Students can improve the grade of the tests, by taking a second-chance test during the exam season.<br /><br /></p>
+

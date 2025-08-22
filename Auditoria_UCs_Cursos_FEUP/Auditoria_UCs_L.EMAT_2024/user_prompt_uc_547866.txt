@@ -1,0 +1,108 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Competências transversais: aquisição automatizada de dados laboratoriais
+
+## Curso responsável
+Competências Transversais: aquisição automatizada de dados laboratoriais
+
+## Créditos ECTS
+1,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+Esta formação visa promover competências transversais na área da automação da aquisição de dados, envolvendo a ligação de instrumentos a sistemas de conversão analógica/digital e o desenvolvimento de software para monitorização e armazenamento dos dados adquiridos a partir desses instrumentos.
+
+## Resultados de aprendizagem e competências
+<p>Após concluírem a formação, os estudantes deverão ser capazes de:</p>
+<p>- Identificar as características de um medidor que são relevantes para implementação da aquisição de dados.</p>
+<p>- Identificar as caraterísticas do sistema de conversão analógica/digital mais adequado para as necessidades.</p>
+<p>- Efetuar corretamente as ligações elétricas entre os instrumentos de medição e o sistema de conversão analógica/digital.</p>
+- Desenvolver um programa de monitorização e armazenamento de dados adquiridos através do sistema de conversão analógica/digital, incluindo algum processamento básico desses dados.
+
+## Programa
+<p>1. Sistemas de aquisição de dados</p>
+<p><br />Sinais elétricos analógicos e digitais<br />Caraterísticas básicas de sistemas de aquisição de dados<br />Conversão A/D e D/A &#8211; resolução da conversão<br />Condicionamento de sinal<br />Multiplexação<br />Taxa de amostragem<br />Medição de sinais analógicos em tensão<br />Interpretação de folhas de especificação de um medidor<br /><br /></p>
+<p>2. Programação para aquisição de dados<br /><br />Introdução à programação em LabVIEW<br />Estrutura de um programa de aquisição de dados<br />Configuração e temporização da aquisição<br />Implementação de leitura e armazenamento de dados recolhidos de sensores</p>
+<p> </p>
+<p> </p>
+
+## Métodos de ensino e atividades de aprendizagem
+Será usada uma combinação dos métodos expositivo e ativo, de forma a transmitir aos formandos uma combinação equilibrada de conceitos teóricos e experiência prática. Os módulos introdutórios serão lecionados em sala. O módulo de prática laboratorial será lecionado em sala de computadores, envolvendo programação em computador e interação com equipamentos, com todas as atividades executadas pelos próprios estudantes.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho laboratorial: 60.0 %
+- Teste: 40.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 12.0 horas
+- Trabalho laboratorial: 28.5 horas
+
+## Fórmula de cálculo da classificação final
+Classif Final = 0.6 x trabalho prático + 0.4 x teste
+
+## Obtenção de frequência
+Máximo de 25 % de faltas, segundo as regras em vigor na FEUP.
+
+## Melhoria de classificação
+Realização de exame prático com ponderação de 100 %.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Transferable skills: automated laboratory data acquisition
+
+## Curso responsável
+Transferable Skills: automated laboratory data acquisition
+
+## Créditos ECTS
+1,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+To promote competences on automation and data acquisition.
+
+## Resultados de aprendizagem e competências
+Students should become able to:<br />- Identify the relevant characteristics of a measurement device <br />- Indentify the relevant characteristics of a analog/digital conversion system<br />- Properly connect mesurement devices to analog/digital conversion systems<br />- Develop a data acquisition program
+
+## Programa
+Introduction<br />1. Measuement devices<br />2. Data acquistion systems<br />3. Data acquisition programming<br /><br />Lab practice<br />Introduction to programming with LabVIEW <br />Creation of a data acquisition program <br />Implementation of data reading and storage <br />Creation of a serial RS-232 communication program <br />Implementation of serial communication
+
+## Métodos de ensino e atividades de aprendizagem
+Expositive and active methods will be used. Introductory modules will be given in classroom. Laboratory practice will be performed in a computer room.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho laboratorial: 60.0 %
+- Teste: 40.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 12.0 hours
+- Trabalho laboratorial: 28.5 hours
+
+## Fórmula de cálculo da classificação final
+Final Grade = 0.6 x practical work + 0.4 x test
+
+## Obtenção de frequência
+Faximum 25 % absence, according to FEUP's regulations.
+
+## Melhoria de classificação
+Practical exam with 100 % weight.
+

@@ -1,0 +1,112 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Processos Avançados de Ligação
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+A tecnologia de ligação está em constante desenvolvimento. Neste curso, pretende-se apresentar os desenvolvimentos recentes mais importantes associados a cada tecnologia: soldadura, conformação plástica e adesivos. Os conteúdos incluem todos os métodos de ligação disponíveis: térmico, mecânico e químico. Em geral, esses assuntos são tratados separadamente, mas estão sendo cada vez mais usados simultaneamente em muitas estruturas, e é importante que o estudante de mestrado tenha todas as informações necessárias num único curso. Os conteúdos estão sobretudo centrados na produção com uma exposição teórica e uma prática laboratorial, mas incluem também uma parte de projeto com recurso à simulação numérica.<br /><br />Ligação por soldadura:<br /><br />1- Conhecer as etapas de fabrico dos processos avançados de soldadura (por fricção, por explosão, ultrassónica, laser e por feixe de eletrões).<br />2- Aprender as vantagens e desvantagens relativas de cada método de soldadura e as aplicações mais adequadas para cada um destes processos<br />3- Aprender os processos de projecto de ligações soldadas, incluindo os métodos normalizados (por ex: Eurocódigo) e métodos numéricos (fontes de calor, modelos de interação entre microestrutura e resistência mecânica).<br /><br />Ligações adesivas:<br /><br />1- Compreender o fenómeno da adesão e compreender os parametros que controlam o nível da adesão.<br />2- Conhecer as etapas de fabrico das ligações adesivas.<br />3- Compreender as diferenças entre os diferentes tipos de adesivos. estruturais e não estruturais.<br />4- Conhecer as condiçoes que governam a durabilidade de juntas e adesivas e aprender métodos para prever a sua rotura.<br />5- Aprender a projectar juntas adesivas para condições diversas, recorrendo a métodos numéricos e não numéricos.<br /><br />Ligações por conformação plástica:<br /><br />1- Conhecer as etapas de fabrico dos processos de união por conformação plástica.<br />2- Aprender as vantagens e desvantagens relativas de cada método de união por conformaçáo plástica e as aplicações mais adequadas para cada um destes processos<br />3- Saber modelar numéricamente o processo de ligação por conformação plástica, utilizando modelos elastoplásticos e de dano adequados.<br /><br /><br /><br /><br /><br /><br /><div class=&quot;page&quot; title=&quot;Page 53&quot;><br /><div class=&quot;section&quot;><br /><div class=&quot;section&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;><br /><p> </p><br /></div><br /></div><br /></div><br /></div><br /></div>
+
+## Resultados de aprendizagem e competências
+<div class=&quot;page&quot; title=&quot;Page 52&quot;><br /><div class=&quot;section&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;><br /><p>Aptidões<br />1- Descrever as principais fases dos processos.<br />2- Identificar as principais condições e parâmetros que devem ser controlados de modo a reduzir ou evitar defeitos e promover a estrutura metalúrgica e as propriedades mecânicas desejadas.<br />3- Aplicar estes conhecimentos para produzir esboços e criticar o design de peças a obter por estas tecnologias<br /><br />Competências Computacionais<br />Projeto de construções soldadas usando o método dos elementos finitos.<br />Projeto de juntas adesivas usando o método dos elementos finitos e o software JOINTDESIGNER<br /><br />Competências Experimentais<br />Fabricação de juntas e análise de resultados experimentais<br /><br />Competências Transversais<br />Relatórios sobre os trabalhos experimentais</p><br /></div><br /></div><br /></div><br /></div>
+
+## Pré-requisitos e co-requisitos
+<div class=&quot;page&quot; title=&quot;Page 52&quot;><br /><div class=&quot;section&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;><br /><p>Ciência e engenharia dos materiais</p><br /><p>Processos básicos de soldadura e conformação plástica<br /><br />Mecânica dos sólidos<br /><br />Método dos elementos finitos</p><br /></div><br /></div><br /></div><br /></div>
+
+## Programa
+<div class=&quot;page&quot; title=&quot;Page 53&quot;><br /><div class=&quot;section&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;><br /><p>1 - SOLDADURA<br />Introdução<br />Soldadura por fusão<br />Soldadura por fricção <br />Soldadura por explosão e ultrassónica<br /> Laser e feixe de eletrões<br />Projeto de estruturas soldadas</p><br /><p>2 - LIGAÇÕES ADESIVAS<br />Introdução<br />Teoria da adesão<br />Familias de adesivos e seleção<br />Fabrico<br />Controlo<br />Segurança<br />Projeto<br />Durabilidade<br /><br />3- CONFORMAÇÃO PLÀSTICA<br />Introdução<br />Mecanismos de conformação<br />União por conformação de componentes tubulares<br />União por conformação de componentes planos</p><br /></div><br /></div><br /></div><br /></div>
+
+## Métodos de ensino e atividades de aprendizagem
+<div class=&quot;page&quot; title=&quot;Page 54&quot;><br /><div class=&quot;section&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;><br /><p>A unidade curricular funciona no regime de uma aula teórico-prática (2h) e uma aula de prática laboratorial (1h) por semana. Esta tipologia de aulas permite que o docente se dedique na parte inicial à exposição de matéria teórica, logo seguida de um exemplo prático de aplicação resolvido pelo docente. Na aula de prática laboratorial, será proposto aos estudantes fabricar e testar juntas. Esta tipologia de aulas apresenta a vantagem da inexistência de hiatos entre a apresentação dos conceitos teóricos e a sua aplicação na resolução de problemas práticos e na demonstração de laboratorial.</p><br /><div class=&quot;page&quot; title=&quot;Page 54&quot;><br /><div class=&quot;section&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;><br /><p>Os estudantes são convidados a elaborar relatórios que consistem na descrição da experiência laboratorial, no tratamento dos dados obtidos na experiência, na previsão do comportamento mecânico usando o método dos elementos finitos e o programa ABAQUS e na discussão dos resultados. Este esquema promove uma melhor ligação dos estudantes à unidade curricular, evitando uma preparação exclusivamente centrada na época de testes.</p><br /><p>O uso do software ABAQUS permite projetar juntas estruturais de um modo muito detalhado, usando elementos coesivos para prever o modo de falha de ligações adesivas e modelos elasto-plásticos para prever a deformação e rotura de metais em juntas soldadas e unidas por deformação plástica.<br /><br />O atendimento aos estudantes por parte dos docentes existe ao longo de todo o semestre em horário pré- estabelecido. Nas épocas de testes os docentes disponibilizam nos dias antecedentes períodos de atendimento mais prolongados.</p><br /></div><br /></div><br /></div><br /></div><br /><p><br /><br /></p><br /></div><br /></div><br /></div><br /></div>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Apresentação/discussão de um trabalho científico: 10.0 %
+- Teste: 80.0 %
+- Trabalho escrito: 10.0 %
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 30.0 horas
+- Estudo autónomo: 63.0 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho escrito: 30.0 horas
+
+## Fórmula de cálculo da classificação final
+<br />A avaliação consiste num teste, que avalia toda a matéria e em trabalhos práticos, sendo exigida uma classificação mínima de 7.0 valores em cada um deles.<br /><br />São ainda propostos trabalhos com um peso de 20% na classificação final.<br /><br />Fórmula = 0,8 x teste + 0,2 x trabalhos práticos.<br /><br />Os estudantes que:<br />&#8226; não obtiverem a média de 10 valores<br />&#8226; tendo obtido média de 10 valores mas não cumpram os requisitos da classificação mínima<br />&#8226; tenham faltado a pelo menos uma das avaliações<br />poderão aceder ao Recurso (peso de 80%) que avaliará o programa integral da UC.
+
+## Obtenção de frequência
+Terão frequência os alunos regularmente inscritos que não excedam o número de faltas conforme as normas de avaliação em vigor (3 faltas em 12 aulas PL).
+
+## Melhoria de classificação
+Aplicam-se as mesmas regras da avaliação em época de recurso.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Advanced Joining Processes
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Joining technology is a constantly developing. This course aims to present the most important recent developments associated with each technology: welding, joining by forming and adhesive bonding. The contents include all available joining methods, based on thermal, mechanical and chemical principles. In general, these subjects are dealt with separately, but they are increasingly being used simultaneously in many structures. Thus, it has become important for the master's student to have all the necessary information in a single course. The contents are mainly focused on production with theoretical exposition and laboratory practice, but also include a signifcant design component, supported using numerical simulation.<br /><br />Welding:<br /><br />1- Learn the manufacturing stages of advanced welding processes (friction, explosion, ultrasonic, laser and electron beam).<br />2- Learn the relative advantages and disadvantages of each welding method and the most suitable applications for each of these processes<br />3- Learn the processes for designing welded connections, including standardized methods (e.g. Eurocode) and numerical methods (heat sources, interaction models between microstructure and mechanical strength).<br /><br />Adhesive bonding:<br /><br />1- Understand the phenomenon of adhesion and the parameters that control the level of adhesion.<br />2- Know the manufacturing stages of adhesive bonds.<br />3- Understand the differences between the different types of adhesives: structural and non-structural.<br />4- Know the conditions governing the durability of bonded  joints and learn about the methods available for predicting their failure.<br />5- Learn to design adhesive joints, using numerical methods (cohesive elements).<br /><br />Joining by forming:<br /><br />1- Know the manufacturing stages of joining by forming processes.<br />2- Learn the relative advantages and disadvantages of each plastic forming joining method and the most suitable applications for each of these processes<br />3- Know how to model the plastic forming joining process numerically, using appropriate elastoplastic and damage models.
+
+## Resultados de aprendizagem e competências
+<div class=&quot;page&quot; title=&quot;Page 53&quot;><br /><div class=&quot;section&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;><br /><p> </p><br /><p>Skills<br />1- Describe the main phases of the processes.<br />2- Identify the main conditions and parameters that must be controlled in order to reduce or avoid defects and to promote a proper metallurgical structure and the desired mechanical properties.<br />3- Apply this knowledge to produce and design of parts to be obtained by these technologies.</p><br /><p>Computer Skills<br />Design of welded constructions using the finite element method.<br />Design of adhesive joints using the finite element method and JOINTDESIGNER software.</p><br /><p>Experimental Skills<br />Manufacture of joints and static testing.</p><br /><p>Soft skills<br />Reports on experimental work.</p><br /></div><br /></div><br /></div><br /></div>
+
+## Pré-requisitos e co-requisitos
+<div class=&quot;page&quot; title=&quot;Page 52&quot;><br /><div class=&quot;section&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;><br /><p>Materials science and engineering materials<br /><br />Basic processes of welding and plastic forming<br /><br />Mechanics of solids<br /><br />Finite element method</p><br /></div><br /></div><br /></div><br /></div>
+
+## Programa
+<div class=&quot;page&quot; title=&quot;Page 53&quot;><br /><div class=&quot;section&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;><br /><p>1 - WELDING<br />Introduction<br />Fusion welding<br />Friction welding<br />Explosive and ultrasonic welding<br />Laser and electron beam<br />Design of welded structures</p><br /><p>2 - ADHESIVE BONDING <br />Introduction<br />Theory of adhesion<br />Surface preparation<br />Adhesive familes and adhesive selection<br />Fabrication<br />Control<br />Safety<br />Design<br />Durability<br /><br />3 - JOINING BY FORMING<br />Introduction<br />Forming mechanisms<br />Joining by forming of tubular components<br />Joining by forming of planar components</p><br /></div><br /></div><br /></div><br /></div>
+
+## Métodos de ensino e atividades de aprendizagem
+The curricular unit consists of one theoretical-practical lesson (2 hours) and one practical laboratory lesson (1 hour) per week. This type of class allows the teacher to dedicate the initial part to theoretical exposition, followed by a practical application example solved by the teacher. In the laboratory class, students will be asked to make and test joints. This type of class has the advantage of ensuring that there are no gaps between the presentation of theoretical concepts and their application in solving practical problems and in laboratory demonstrations.<br /><br />Students are asked to prepare reports consisting of a description of the laboratory experiment, processing of the data obtained in the experiment, prediction of mechanical behavior using the finite element method and the ABAQUS program, and discussion of the results. This scheme promotes a better connection between the students and the course, avoiding preparation exclusively focused on the test period.<br /><br />The use of the ABAQUS software makes it possible to design structural joints in great detail, using cohesive elements to predict the failure mode of adhesive bonds and elasto-plastic models to predict the deformation and failure of metals in welded joints and joints joined by plastic deformation.<br /><br />Teachers ara available to recieve students throughout the semester at pre-established times. During test periods, the lecturers make the following available on the days before the period
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Apresentação/discussão de um trabalho científico: 10.0 %
+- Teste: 80.0 %
+- Trabalho escrito: 10.0 %
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 30.0 hours
+- Estudo autónomo: 63.0 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho escrito: 30.0 hours
+
+## Fórmula de cálculo da classificação final
+<div class=&quot;page&quot; title=&quot;Page 54&quot;><br /><div class=&quot;section&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;><br /><p>The evaluation consists in a test covering all the contents, being required a minimum classification of 7.0 values in each of the components.<br /><br />Also practical works are proposed with a weight of 20% in the final classification.<br /><br />Formula = 0,8 x test + 0,2 x practical works.<br /><br />Students who:<br />&#8226; do not get the average of 10 values;<br />&#8226; having obtained an average of 10 values but not meeting the requirements of the minimum classification;<br />&#8226; have missed at least one of the evaluations;<br />can access the Resit exam (weight of 80%) that will evaluate the full program of the curricular unit.</p><br /></div><br /></div><br /></div><br /></div><br /><pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; data-placeholder=&quot;Tradução&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;> </span></pre>
+
+## Obtenção de frequência
+All students duly registered will obtain frequency if attaining the minimum legal number of presences in the classes (3 failures to attend in 12 pratical and laboratory sessions).
+
+## Melhoria de classificação
+Same as for the resit exam.
+

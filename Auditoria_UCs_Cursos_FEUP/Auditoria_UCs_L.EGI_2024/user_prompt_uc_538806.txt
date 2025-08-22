@@ -1,0 +1,151 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Desenho Assistido por Computador
+
+## Curso responsável
+Licenciatura em Engenharia e Gestão Industrial
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p class="MsoNormal">Os objetivos principais da Unidade Curricular incluem:</p>
+<p class="MsoNormal"><span style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">I) Transmitir aos estudantes a capacidade de manusear informação geométrica e não geométrica, na área da produção.</span></p>
+<p class="MsoNormal"><span style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">II) Desenvolver conceitos relativos à normalização em desenho de construção mecânica. Abordar o desenho de conceção. Introduzir a análise funcional de mecanismos, a partir da leitura de desenhos de conjunto em representação ortográfica, com a execução de desenhos de definição de produto acabado de alguns dos seus elementos componentes.</span></p>
+<p class="MsoNormal"><span style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">III) Identificar e utilizar as diversas características inerentes aos programas computacionais de desenho (CAD), de simulação e de máquinas de controlo numérico (CNC).</span></p>
+<p><span style="font-family: Verdana, sans-serif; font-size: 7.5pt; line-height: 115%;">IV) Implementar programas computacionais que permitam o processamento de informação de sistemas CAD/CAM.</span></p>
+
+## Resultados de aprendizagem e competências
+<p class="MsoNormal"><span style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">No final do semestre, os estudantes deverão ser capazes de:</span></p>
+<p class="MsoNormal"><span style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">1) Conhecer os sistemas CAD/CAM mais usuais, bem como saber utilizar as funções disponibilizadas pelos mesmos;</span></p>
+<p class="MsoNormal"><span style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">2) Perceber conceitos relativos à normalização em desenho de construção mecânica;</span></p>
+<p class="MsoNormal"><span style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">3) Analisar funcionalmente mecanismos a partir da leitura de desenhos de conjunto em representação ortográfica;</span></p>
+<p class="MsoNormal"><span style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">4) Executar adequadamente um desenho de definição ou de conjunto usando sistemas CAD;</span></p>
+<p class="MsoNormal"><span style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">5) Modelar tridimensionalmente componentes de sistemas mecânicos bem como proceder à sua montagem usando sistemas CAD;</span></p>
+<p class="MsoNormal"><span style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">6) Obter automaticamente desenhos de definição e de conjunto de sistemas mecânicos previamente modelados ou de um dos seus componentes usando sistemas CAD;</span></p>
+<p class="MsoNormal"><span style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">7) Conhecer os princípios base de sistemas de comando numérico (CNC) e de máquinas ferramenta associadas; </span></p>
+<p class="MsoNormal"><span style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">8) Desenvolver programas de comando numérico (CNC) para operações de maquinagem em torno e fresadora;</span></p>
+<p><span style="font-family: Verdana, sans-serif; font-size: 7.5pt; line-height: 115%;">9) Desenvolver programas computacionais para processar informação de sistemas CAD/CAM.</span></p>
+
+## Pré-requisitos e co-requisitos
+<p><span style="font-size: 11.0pt; line-height: 115%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: PT; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">É recomendado que os estudantes desta Unidade Curricular tenham conhecimentos de Desenho Técnico e de Programação de Computadores.</span></p>
+
+## Programa
+<p class="MsoNormal"><span style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">O programa previsto para a Unidade Curricular é o seguinte:</span></p>
+<p class="MsoNormal"><span style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">1) Sistemas CAD, sua descrição e classificação. Utilização de sistemas de desenho assistido por computador CAD 2D e de conceção 3D, desenho paramétrico. Editores de modelação sólida 3D.</span></p>
+<p class="MsoNormal"><span style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">2) Normalização em desenho de construção mecânica. Especificação geométrica de produtos: toleranciamento geométrico, tolerâncias gerais, indicação dos estados de superfície, especificação e interpretação de tolerâncias geométricas. Sistemas e componentes mecânicos normalizados de utilização geral: roscas, parafusos, porcas, anilhas, pinos, anéis elásticos, rebites, soldadura, pontas de veio, chavetas e escatéis, acoplamentos por estrias, rolamentos, juntas de vedação para aplicação dinâmica, molas e engrenagens. Desenhos de conjunto e desenhos de definição.</span></p>
+<p class="MsoNormal"><span style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">3) Programação manual e automática de máquinas CNC. </span></p>
+<p><span style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">4) Interfaces Desenho-Conceção, Desenho-Análise e Desenho-Fabrico.</span></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p class="MsoNormal">O funcionamento previsto para a Unidade Curricular é o seguinte:</p>
+<p class="MsoNormal">- Apresentação dos temas abordados na Unidade Curricular durante as aulas teóricas com análise de exemplos de aplicação.</p>
+<p class="MsoNormal">- Nas aulas práticas, são apresentadas algumas particularidades e propostos exercícios para aplicação dos conceitos apresentados nas aulas teóricas.</p>
+<p class="MsoNormal">- Durante as primeiras aulas da Unidade Curricular são propostos diversos temas possíveis para os trabalhos práticos a realizar pelos estudantes durante o semestre.</p>
+<p><span style="font-size: 11.0pt; line-height: 115%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: PT; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">- As últimas aulas da Unidade Curricular são destinadas a um apoio mais intenso aos trabalhos práticos bem como a sua análise de discussão.<br /><br /><br /><br /></span></p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Teste: 50.0 %
+- Trabalho escrito: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 42.0 horas
+- Elaboração de relatório/dissertação/tese: 4.0 horas
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 56.0 horas
+
+## Fórmula de cálculo da classificação final
+A nota final da Unidade Curricular resulta da média pesada das classificações obtidas em cada uma das componentes da avaliação, com os seguintes pesos:<br /><br />- Exame escrito: 50%, sendo necessário uma classificação mínima de 30/100%.<br /><br />- Trabalho prático: 50%.
+
+## Obtenção de frequência
+A obtenção de frequência à Unidade Curricular implica que o número limite de faltas (25% do número de aulas previstas) não deve ser excedido.<br /><br />Cada estudante deve também, obrigatoriamente, submeter-se à avaliação em todas as suas componentes: exame escrito (Sistemas de CAD 2D/3D + Sistemas e Componentes Mecânicos Normalizados de utilização Geral+ Programação CNC + Desenvolvimento de Aplicações de Interface CAD/CAM/CNC), entrega do trabalho prático e sua eventual discussão.
+
+## Melhoria de classificação
+A melhoria de classificação será realizada de acordo com as Normas Gerais de Avaliação da FEUP.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computer Aided Design
+
+## Curso responsável
+Bachelor in Industrial Engineering and Management
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p class="MsoNormal"><span lang="EN-US">The main objectives of this course are:</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">I) To transmit to the students the capacity to handle geometric and non-geometric information in the production area.</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">II) The development of standardization concepts in Mechanical Engineering Drawing: First approach to conception drawing and introduction to the functional analysis of mechanical systems, through the study of their assembly drawings and the detail drawing of some of their components.</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">III) To identify and use the diverse characteristics inherent to drafting programs (CAD), numerical controlled machines (CNC) and manufacturing systems (CAM).</span></p>
+<p><span style="font-family: Verdana, sans-serif; font-size: 7.5pt; line-height: 115%;">IV) To implement computer programs that allow the processing of the information retrieved from CAD/CAM/CNC software. </span></p>
+
+## Resultados de aprendizagem e competências
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">By the end of the semester, the students should:</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">1) Be acquainted with CAD/CAM/CNC systems;</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">2) To know concepts on standardization in Mechanical Engineering Drawing;</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">3) To understand of the functional work of mechanisms from the study of their assembly drawings;</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">4) Be capable of design a definition drawing or an assembly drawing using CAD systems;</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">5) Be able to create three-dimensional components of mechanical systems and be capable of assembling them using CAD systems;</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">6) Be able to obtain definition and assembly drawings from mechanical systems, or one of their components, previously created using CAD systems;</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">7) Be acquainted with the main concepts of numerical command systems (CNC) and associated machine tools;</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">8) Know how to develop numerical command programs for milling and turning (CNC) machines;</span></p>
+<p><span style="font-family: Verdana, sans-serif; font-size: 7.5pt; line-height: 115%;">9) Know how to develop computer programs to process information of CAD/CAM systems.</span></p>
+
+## Pré-requisitos e co-requisitos
+<p><span lang="EN-US" style="font-size: 11.0pt; line-height: 115%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">It is recommended for this course that students have knowledge of Technical Drawing and Computer Programming.</span></p>
+
+## Programa
+<p class="MsoNormal"><span lang="EN-US">The agenda of this course is:</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">1) CAD systems: their description and classification, their use in drafting and design, parametric drafting, 3D modelling.</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">2) Standardization in mechanical engineering drawing. Geometrical product specification: geometrical tolerancing, general tolerances; indication of surface texture, specification and interpretation of geometrical tolerances. Mechanical systems and components for general use: screw threads, bolts, screws and nuts, washers, pins, circlips and retaining rings, rivets, welding, shafts, splines, keys and keyways, rolling bearings, seals for dynamic application, springs and gears. Assembly drawings and detail drawings.</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">3) Computer aided manufacturing systems (CAM): basic principles, manual and automatic programming of Numeric Controlled (CNC) machine tools.</span></p>
+<p><span style="font-family: Verdana, sans-serif; font-size: 7.5pt; line-height: 115%;">4) Drawing-design, drawing-analysis and drawing-manufacturing computer interfaces.</span></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;">The expected functioning of the course is as follows:</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;">- Exposition of the different themes in the theoretical classes with the analysis of several examples. During these classes, several possibilities will be suggested for the practical assignments to be developed by the students.</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;">- In the practical classes, some particularities will be presented and practical exercises suggested in order to apply the concepts presented in the theoretical classes.</span></p>
+<p><span style="font-family: Verdana, sans-serif; font-size: 7.5pt;">- The last classes of the course are reserved for a more intense support to the practical assignments as well as their analysis and discussion.<br /></span></p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Teste: 50.0 %
+- Trabalho escrito: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 42.0 hours
+- Elaboração de relatório/dissertação/tese: 4.0 hours
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 56.0 hours
+
+## Fórmula de cálculo da classificação final
+The final classification of the course results from the grades obtained in each of the evaluation components, using the following weights:<br /><br />- Written exam: 50%, a classification superior or equal to 30/100% is required.<br /><br />- Practical Assignment: 50%.
+
+## Obtenção de frequência
+To complete this course, the students must attain the required frequency of the practical classes.<br /><br />The students must also undergo all evaluation components: written exam (CAD2D/3D + Geometrical product specification + Mechanical systems and components for general use + CNC + CAD/CAM interfaces programming), delivery of the practical assignment, and possibly make its presentation and discussion.
+
+## Melhoria de classificação
+Grade improvement will be carried out following FEUP's General Assessment Rules.
+

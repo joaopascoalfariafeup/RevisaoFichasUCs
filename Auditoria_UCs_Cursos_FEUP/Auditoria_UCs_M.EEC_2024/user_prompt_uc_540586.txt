@@ -1,0 +1,111 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Aprendizagem Computacional
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Esta Unidade Curricular tem por objetivo apresentar alguns dos tópicos centrais em aprendizagem computacional, dos fundamentais ao estado da arte. Será colocado especial ênfase nos conceitos teóricos e em exemplos práticos e projetos laboratoriais. Cada exercício será cuidadosamente escolhido para reforçar os conceitos explicados nas aulas teóricas e desenvolver e generalizá-los em diversas direções. Os estudantes que concluam com sucesso devem ter a capacidade de:</p>
+<p>-Conhecer os fundamentais das técnicas de aprendizagem;<br /><br />-Analisar e sintetizar conhecimento;</p>
+<p>-Desenvolver sistemas simples de aprendizagem computacional de acordo com as necessidades existentes e aplicar as ferramentas tecnológicas mais apropriadas;</p>
+<p>-Trabalhar em equipa, organização e planeamento;</p>
+<p>-Adquirir capacidades de aprendizagem que permitam continuar a estudar de uma forma autónoma.</p>
+
+## Resultados de aprendizagem e competências
+<em>Aquisição de um corpo de conhecimento fundamental e a transmissão do próprio processo de construção do conhecimento. Pretende-se fornecer uma sólida preparação matemática em machine learning e preparar competências e engenho em técnicas de machine learning fundamentais para nos processos de modelação e uso de Informação.</em>
+
+## Programa
+1. Introdução à Teoria da aprendizagem.<br />Conceitos matemáticos relevantes.<br />2. Modelos Lineares para Regressão (Critérios; equações normais; processos de optimização iterativos; regressão Ridge e Lasso;<br />Kalman filtering. Online learning.<br />3. Modelos generativos para classificação (decisão ótima Bayesiana; Análise discriminante linear; independência condicional e classificador Naïve Bayes; estimação não paramétrica de densidade: método das janelas de parzen)<br />4. Classificadores não generativos [regressão logística; discriminante de fisher]<br />Aplicações em Eng Electrotecnica.<br />5. Seleção e avaliação de modelos<br />6. Introdução às redes neuronais e redes neuronais profundas.<br />7. Introdução às redes neuronais convolucionais.<br />Aplicações em Eng Electrotecnica.<br />8. Aprendizagem não-supervisionada &#8211; Clustering [algoritmos de Clustering; Kmeans, kmedoids, soft kmeans; mistura de Gaussianas; aprendizagem de Manifolds (PCA, MDA, ISOMAP and LLE)]<br />Aplicações em Eng Electrotecnica.
+
+## Métodos de ensino e atividades de aprendizagem
+As aulas teóricas consistirão na exposição dos conteúdos e discussão de exemplos ilustrativos dos conceitos apresentados. As aulas teórico-práticas são focadas nos trabalhos de aplicação e realização de exercícios práticos apoiados na utilização de ferramentas computacionais.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 40.0 horas
+- Estudo autónomo: 83.0 horas
+- Frequência das aulas: 39.0 horas
+
+## Fórmula de cálculo da classificação final
+A avaliação final tem duas componentes:<br />- parte teórica T = 0.6 média dos mini-testes<br />- parte prática P = 0.4 min(média dos trabalhos práticos, T+3)<br /><br />Nota final = T + P<br /><br />Obs: Existe um exame de recurso para a parte teórica para quem não obteve aprovação.
+
+## Obtenção de frequência
+Não exceder o limite de faltas e entregar todos os trabalhos práticos.
+
+## Melhoria de classificação
+Realização do exame de recurso (para melhorar a componente T).
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Machine Learning
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>The aim of the course is to present some of the topics which are at the core of modern Machine Learning, from fundamentals to state-of-the-art methods. Emphasis will be put both on the essential theory and on practical examples and lab projects. Each exercise has been carefully chosen to reinforce concepts explained in the lectures or to develop and generalize them in significant ways. Upon the successful conclusion of the course, students should have the ability to:</p>
+<p><em>-Knowledge of the fundamentals of machine learning;</em></p>
+<p><em>-Analyze and synthesize knowledge;</em></p>
+<p><em>-Develop simple machine learning systems depending on existing needs and apply the most appropriate technological tools;</em></p>
+<p><em>-</em>W<em>ork in team, organization and planning;</em></p>
+<p> <em>-Acquire the learning skills that allow continuing studying in a way that will be largely self-directed or autonomous.</em></p>
+
+## Resultados de aprendizagem e competências
+<p>Acquisition of a body of basic knowledge and the transmission of the very process of knowledge construction. The aim is to provide a solid preparation in mathematics skills in machine learning and prepare competencies in modeling techniques fundamental for the processes of acquisition, processing and use of information.</p>
+
+## Programa
+<p>1. Introduction to Learning Theory [Data driven process; Overfitting and generalization;<br />Taxonomy of the Learning Settings; Taxonomy of the Learning Tools; Representation, Evaluation,<br />Optimization]<br />Refresher on algebra, probabilities and statistics<br />2. Introduction to Linear Regression [Criterion (Evaluation); Normal Equation; The Least-Mean-<br />Square (LMS) method; Steepest descent; Ridge and Lasso regression]<br />Time-varying statistics: Kalman filtering.<br />Online learning.<br />3. Generative Classifiers [Optimal Bayes decision; Gaussian based classifier (linear and<br />quadratic);<br />Conditional Independence and Naïve Bayes classifier; Non-parametric density estimation:<br />Parzen window method]<br />4. Non-Generative Classifiers [Logistic regression]<br />Applications in ECE<br />5. Model Selection and evaluation<br />6. Introduction to Neural Networks<br />7. Introduction to Deep Neural Networks. Introduction to Convolutional Neural Networks.<br />8. Unsupervised Learning &#8211; Clustering [Clustering algorithms; Kmeans, kmedoids, soft kmeans; Mixture of Gaussians; Manifold Learning (PCA, MDA, ISOMAP and LLE)]</p>
+
+## Métodos de ensino e atividades de aprendizagem
+Theoretical classes will consist of exposition of the contents and discussion of illustrative examples of the concepts presented. Theoretical-practical classes are focused on application work and practical exercises supported by the use of computational tools.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 40.0 hours
+- Estudo autónomo: 83.0 hours
+- Frequência das aulas: 39.0 hours
+
+## Fórmula de cálculo da classificação final
+The final assessment has two components:<br />- theoretical part T = 0.6 average of the mini-tests<br />- practical part P = 0.4 min(average of practical work, T+3)<br /><br />Final grade = T + P<br /><br />Note: There is a supplementary exam for the theoretical part for those who did not pass.
+
+## Obtenção de frequência
+Do not exceed the absence limit and submit all practical assignments.
+
+## Melhoria de classificação
+Performing the supplementary exam (to improve the T component).
+

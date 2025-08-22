@@ -1,0 +1,209 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Agentes e Sistemas Multi-Agente
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>A unidade curricular assume-se como de Engenharia (evidenciando apenas a teoria essencial para se entender as aplicações práticas) e proporciona uma perspetiva global das técnicas associadas à computação baseada em agentes, explorando, por um lado, a modelação e simulação de sistemas complexos baseadas em agentes computacionais, e também o desenvolvimento de aplicações de agentes inteligentes e de sistemas multi-agente com capacidade de adaptação.<br />A Programação e a Engenharia de Software Orientada a Agentes são apresentadas como uma nova metáfora para a descrição e programação de sistemas computacionais distribuídos. <br /><br />Os conhecimentos adquiridos serão consolidados através da utilização de ferramentas de software apropriadas, com as quais os estudantes são incentivados a elaborar pequenos projetos de desenvolvimento. O objetivo principal é que os estudantes saibam especificar e implementar sistemas complexos, adaptativos, distribuídos e descentralizados usando o paradigma dos sistemas multi-agente.</p>
+
+## Resultados de aprendizagem e competências
+<p>No final da unidade curricular, os estudantes deverão ser capazes de:</p>
+<ul>
+<li>Modelar sistemas complexos recorrendo a agentes computacionais</li>
+<li>Projetar sistemas distribuídos e descentralizados seguindo o paradigma dos sistemas multi-agente</li>
+<li>Desenvolver agentes de software inteligentes, seguindo diferentes arquiteturas</li>
+<li>Avaliar a execução de uma simulação baseada em agentes ou de um sistema multi-agente distribuído</li>
+<li>Desenvolver sistemas multi-agente com mecanismos de adaptabilidade</li>
+</ul>
+<p> </p>
+
+## Pré-requisitos e co-requisitos
+<p>É útil o conhecimento de técnicas de Inteligência Artificial.</p>
+
+## Programa
+<p>1. Computação baseada em agentes</p>
+<ul>
+<li>Objetivos e enquadramento</li>
+<li>Simulação baseada em agentes vs sistemas multi-agente</li>
+<li>Ferramentas para desenvolvimento de sistemas multiagente e para simulação baseada em agentes: JADE e Repast</li>
+</ul>
+2. Agentes inteligentes<br />
+<ul>
+<li>Definições</li>
+<li>Agentes e ambientes</li>
+<li>Tipos básicos de agentes</li>
+<li>Arquiteturas de agentes. Raciocício dedutivo. Raciocínio prático: agentes BDI. Agentes reativos: arquitetura de subsumpção.</li>
+</ul>
+3. Sistemas multi-agente<br />
+<ul>
+<li>Definições</li>
+<li>Comunicação. Atos de discurso. ACL. Standards FIPA. Protocolos de interação. JADE.</li>
+<li>Engenharia de Software Orientada a Agentes</li>
+</ul>
+4. Tomada de decisão multiagente<br />
+<ul>
+<li>Teoria de jogos. Utilidades e preferências. Estratégias dominantes. Equilíbrio de Nash. Ótimo de Pareto. Incerteza. Jogos cooperativos.</li>
+<li>Desenho de mecanismos. Teoria da escolha social.</li>
+<li>Leilões. Protocolos de leilão. Leilões combinatórios. Leilões duplos.</li>
+<li>Negociação. Attributos da negociação. Táticas de negociação:tempo e comportamento. Negociação para alocação de tarefas. Acordos e utilidades. Acordos Pareto-ótimos e individualmente racionais. Protocolo de concessão monótona. Negociação na alocação de recursos.</li>
+</ul>
+<p>5. Introdução à simulação baseada em agentes</p>
+<div>
+<ul>
+<li>Modelação e simulação baseada em agentes (ABMS).</li>
+<li>Modelos baseados em agentes e systemas complexos adaptativos.</li>
+<li>Elementos de uma ferramenta ABMS.</li>
+<li>Repast: componentes de um modelo, escalonador, coleção e visualização de dados, visualização do ambiente.</li>
+</ul>
+<div> </div>
+</div>
+6. Aprendizagem por reforço<br />
+<ul>
+<li>Aprendizagem por reforço. Políticas, reforço e função de valor.</li>
+<li>Bandit problems. Seleção de ações.</li>
+<li>Processos de decisão de Markov. Tarefas episódicas e contínuas.</li>
+<li>Aprendizagem por diferença temporal. Sarsa e Q-learning.</li>
+<li>Métodos de gradiente de política. Aprendizagem por reforço profunda.</li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Exposição com interação nas aulas teóricas. Exploração de ferramentas nas aulas teorico-práticas.<br />Acompanhamento da realização dos trabalhos práticos. Aprendizagem orientada por projetos.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 30.0 %
+- Trabalho laboratorial: 70.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 42.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 78.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Nota Final = 70% * Avaliacao Distribuida + 30% * Exame<br />Avaliacao Distribuida = 70% * Trabalho1 + 30% * Trabalho2<br /><br />Para obter aprovação, aplicam-se as seguintes classificações mínimas:<br />- Trabalho1: 10.0 valores em 20<br />- Trabalho2: 10.0 valores em 20<br />- Exame: 8.0 valores em 20</p>
+
+## Obtenção de frequência
+<p>Um aluno inscrito obtém frequência se cumprir a assiduidade às aulas teórico-práticas (máximo de faltas permitido corresponde a 25% das aulas previstas).</p>
+
+## Melhoria de classificação
+<div id=&quot;envolvente&quot;><br /><div id=&quot;conteudo&quot;><br /><div id=&quot;conteudoinner&quot;><br /><p>A melhoria da classificação nas componentes de avaliação distribuída só pode ser obtida na edição seguinte da Unidade Curricular.</p><br /></div><br /></div><br /></div>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Agents and Multi-Agent Systems
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>This course has an engineering bias and proposes a global perspective on the techniques associated with agent-based computing, exploring, on one hand, agent-based complex systems modeling and simulation, and the development of intelligent agents and multi-agent system applications.<br /><br />Agent-Oriented Programming and Software Engineering are presented as a new metaphor to describe and program distributed computational systems.<br /><br />The acquired knowledge is consolidated through the use of appropriate software tools, with which students are incentivized to work on the development of small projects. The main goal is that students are able to specify and implement complex, adaptive, distributed, and decentralized systems using the multi-agent systems paradigm.</p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of the course, the student is expected to be able to:</p>
+<ul>
+<li>Model complex systems through computational agents</li>
+<li>Project distributed and decentralized systems following the multi-agent systems paradigm</li>
+<li>Develop intelligent software agents, using different architectures</li>
+<li>Evaluate the execution of an agent-based simulation or a distributed multi-agent system</li>
+<li>Develop multiagent systems with adaptability mechanisms</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>Knowledge of Artificial Intelligence techniques.</p>
+
+## Programa
+<p>1. Agent-based computing</p>
+<ul>
+<li>Motivation and goals</li>
+<li>Agent-based simulation vs multi-agent systems</li>
+<li>Tools for MAS development and agent-based simulation: JADE and Repast</li>
+</ul>
+2. Intelligent agents<br />
+<ul>
+<li>Definitions</li>
+<li>Agents and environments</li>
+<li>Basic kinds of agent programs</li>
+<li>Agent architectures. Deductive reasoning agents. Practical reasoning: BDI agents. Reactive agents: the subsumption architecture</li>
+</ul>
+3. Multi-agent systems<br />
+<ul>
+<li>Definitions.</li>
+<li>Communication. Speech acts. ACL. FIPA standards.</li>
+<li>Interaction protocols. JADE.</li>
+<li>Agent-Oriented Software Engineering</li>
+</ul>
+<p>4. Multi-agent decision making</p>
+<ul>
+<li>Game theory. Utilities and preferences. Dominant strategies. Nash equilibria and Pareto-efficiency. Uncertainty. Cooperative game theory.</li>
+<li>Mechanism design. Social choice theory.</li>
+<li>Auctions. Auction protocols. Combinatorial auctions. Double-sided auctions.</li>
+<li>Negotiation. Negotiation attributes. The alternating offers protocol. Negotiation tactics: time and behavior. Negotiation for task allocation. Deals and utilities. Dominance. Pareto optimal and individual rational deals. The monotonic concession protocol.  Negotiation in resource reallocation.</li>
+</ul>
+5. Introduction to agent-based simulation<br />
+<div>
+<ul>
+<li>Agent-based modeling and simulation (ABMS)</li>
+<li>Agent-based models and complex adaptive systems</li>
+<li>Elements of an ABMS tool</li>
+<li>Repast: model constructs, scheduler, data collection and visualization, environment displays</li>
+</ul>
+</div>
+6. Reinforcement Learning<br />
+<ul>
+<li>Reinforcement learning. Policies, rewards, and value functions.</li>
+<li>Bandit problems. Action selection.</li>
+<li>Markov decision processes. Episodic and continuing tasks.</li>
+<li>Temporal-difference learning. Sarsa and Q-learning.</li>
+<li>Policy gradient methods. Deep reinforcement learning.</li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Oral presentation of the themes of the course in theoretical classes, with interaction with students. Tool experimentation and exploration in the practical classes.<br />Practical classes will be based on the supervision of assignments. Project-oriented learning.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 30.0 %
+- Trabalho laboratorial: 70.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 42.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 78.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Final Grade = 70% * Assignment + 30% * Exam<br />Assignment = 70% * Assigment1 + 30% * Assignment2<br /><br />In order to obtain approval in the course, the following minimum scores apply:<br />- Assignment1: 10.0 values out of 20<br />- Assignment2: 10.0 values out of 20<br />- Exam: 8.0 values out of 20</p>
+
+## Obtenção de frequência
+<p>Enrolled students are admitted to the exam if they do not exceed the allowed number of non-attendance to lab classes (maximum 25% of non-attendance).</p>
+
+## Melhoria de classificação
+<div id=&quot;envolvente&quot;><br /><div id=&quot;conteudo&quot;><br /><div id=&quot;conteudoinner&quot;><br /><p>The improvement of classification in the assignement component can only be obtained in the next edition of the course.</p><br /></div><br /></div><br /></div>
+

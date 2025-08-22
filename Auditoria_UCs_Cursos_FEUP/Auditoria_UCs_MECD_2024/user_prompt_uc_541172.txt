@@ -1,0 +1,132 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Laboratório de Ciência e Engenharia de Dados
+
+## Curso responsável
+Mestrado em Engenharia e Ciência de Dados
+
+## Créditos ECTS
+12
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>O objetivo é consolidar as competências adquiridas no 1º ano do mestrado. Este objetivo será atingido através do desenvolvimento, em grupo, de num projeto, no âmbito de uma organização real, e desenvolvido em contacto com colaboradores dessa organização.</p>
+
+## Resultados de aprendizagem e competências
+<p>No final da Unidade Curricular os estudantes deverão ser capazes de:</p>
+<ul>
+<li>Identificar problemas de Ciência e Engenharia dos Dados (CED) num contexto real.</li>
+<li>Discutir e explicar algoritmos de CED.</li>
+<li>Configurar e utilizar tecnologias de CED na resolução de problemas realistas.</li>
+<li>Tratar de forma estatisticamente correta os resultados.</li>
+<li>Interpretar os resultados na perspetiva do domínio de aplicação.</li>
+<li>Aplicar, ajustando às especificidades do problema, uma metodologia de CED.</li>
+<li>Desenvolver um projeto de CED no âmbito de um problema real de uma organização.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>O estudante deve ter concluído com sucesso todas as UC relevantes para o projeto que irá desenvolver.</p>
+
+## Programa
+<ol><br /><li>GESTÃO DE PROJETOS</li><br /></ol><br /><p>CP1.1. Arranque do projeto;</p><br /><p>CP1.2. Planeamento do projeto: levantamento de requisitos, estimação de esforços, afetação de recursos, calendarização, documentação;</p><br /><p>CP1.3. Monitorização e controlo do projeto: medição do progresso do projeto, reporte periódico, replaneamento;</p><br /><p>CP1.4. Fecho do projeto: relatório de fecho, lições aprendidas.</p><br /><ol start=&quot;2&quot;><br /><li>TRABALHO EM EQUIPA E COM O CLIENTE</li><br /></ol><br /><p>CP2. Grupo de trabalho, equipa, estilos de gestão e organização de equipas, liderança e <em>coaching</em>, comunicação pessoal, gestão de reuniões, negociação e gestão de conflitos.</p><br /><ol start=&quot;3&quot;><br /><li>METODOLOGIAS E FERRAMENTAS</li><br /></ol><br /><p>CP3.1. Metodologias para gestão de projetos e organização de equipas de ciência e engenharia de dados;</p><br /><p>CP3.2. Ferramentas para gestão de projetos e trabalho em equipa.</p><br /><ol start=&quot;4&quot;><br /><li>REALIZAÇÃO DE PROJETOS</li><br /></ol><br /><p>CP4.1. Discussão de casos de estudo reais, com apoio de peritos da indústria;</p><br /><p>CP4.2. Desenvolvimento de projeto concreto, realizado por equipa de média dimensão, usando os métodos, técnicas e formas de trabalho apresentados nesta e noutras U.C.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A metodologia de envido e aprendizagem baseia-se na combinação de:</p>
+<ul>
+<li>Exposição de conteúdos pelos docentes nas aulas.</li>
+<li>Seminários de colaboradores de organizações externas nas aulas.</li>
+<li>Apresentação final dos projetos.</li>
+</ul>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 5.0 %
+- Defesa pública de dissertação, de relatório de projeto ou estágio, ou de tese: 20.0 %
+- Trabalho laboratorial: 75.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 100.0 horas
+- Frequência das aulas: 78.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>0.75 * Projeto + 0.20 * Participação nas apresentações periódicas + 0.05 * Participação nas aulas<br /> <br /> A classificação de cada estudante terá como base a classificação global do grupo, podendo variar de acordo com a avaliação dos pares e com os resultados do acompanhamento feito pelos docentes.</p>
+
+## Obtenção de frequência
+<p>Presença nas aulas de acordo com as "Normas Gerais de Avaliação" do Conselho Pedagógico da FEUP.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Data science & engineering lab
+
+## Curso responsável
+Master in Data Science and Engineering
+
+## Créditos ECTS
+12
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>The objective is to consolidate the skills acquired in the 1st year of the master's degree. This objective will be achieved through the development, in groups, of a project, within the scope of a real organization, and developed in contact with employees of that organization.</p>
+
+## Resultados de aprendizagem e competências
+<p>In the end of this course, students should be able to:</p>
+<ul>
+<li>Identify problems of Data Science and Engineering (DSE) in a realistic context.</li>
+<li>Discuss and explain DSE algorithms.</li>
+<li>Configure and use DSE technologies to solve realistic problems.</li>
+<li>Analyse results in a statistically correct way.</li>
+<li>Interpret the results from the perspective of the application domain.</li>
+<li>Apply a DSE methodology, adapting it to the specificities of the problem at hand.</li>
+<li>Develop an DSE project for a real problem of an organization.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>The student must have successfully completed all relevant courses for the project that will be developed.</p>
+
+## Programa
+<ol><br /><li><em> PROJECT MANAGEMENT</em></li><br /></ol><br /><p><em>CP1.1. Project kick-off;</em></p><br /><p><em>CP1.2. Project planning: requirement analysis, estimation of effort, allocation of resources, scheduling, documentation;</em></p><br /><p><em>CP1.3. Project monitoring and control: measuring project progress, periodic reporting, replanning;</em></p><br /><p><em>CP1.4. Project closing: closing report, lessons learned.</em></p><br /><p><em> </em></p><br /><ol start=&quot;2&quot;><br /><li><em> TEAM AND CUSTOMER WORK</em></li><br /></ol><br /><p><em>CP2. Group work, team, management styles and team organization, leadership and coaching, personal communication, management of meetings, negotiation and conflict management.</em></p><br /><p><em> </em></p><br /><ol start=&quot;3&quot;><br /><li><em> METHODOLOGIES AND TOOLS</em></li><br /></ol><br /><p><em>CP3.1. Methodologies for project management and organization of data science and engineering teams;</em></p><br /><p><em>CP3.2. Tools for project management and teamwork.</em></p><br /><p><em> </em></p><br /><ol start=&quot;4&quot;><br /><li><em> PROJECT ACHIEVEMENT</em></li><br /></ol><br /><p><em>CP4.1. Discussion of true case studies, supported by industry experts;</em></p><br /><p><em>CP4.2. Development of a concrete project carried out by a medium-sized team, using the methods, techniques and work methods presented in this and other U.C.</em></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Teaching methodology is based on a combination of:</p>
+<ul>
+<li>Exposition of relevant concepts by the professors</li>
+<li>Seminars by employees of external organizations</li>
+<li>Final presentation of the projects</li>
+</ul>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 5.0 %
+- Defesa pública de dissertação, de relatório de projeto ou estágio, ou de tese: 20.0 %
+- Trabalho laboratorial: 75.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 100.0 hours
+- Frequência das aulas: 78.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>0.75 * Project + 0.20 * Participation in periodic presentations + 0.05 * Participation in classes</p>
+<p> </p>
+<p>The classification of each student will be based on the global classification of the group, which may vary according to the peer evaluation and the results of the monitoring carried out by the teachers.</p>
+
+## Obtenção de frequência
+<p>Students have to attend classes according to the "General Evaluation Rules" of FEUP Pedagogical Council.</p>
+

@@ -1,0 +1,121 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise e Visualização de Dados
+
+## Curso responsável
+Mestrado em Ciência da Informação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<span style=&quot;text-decoration: underline;&quot;>Enquadramento: </span><br />Após uma época em que as diferentes empresas/instituições muito investiram na recolha de dados no âmbito da informatização das suas operações (por ex.: sensores, sistemas GPS), e em que muitas e variadas novas fontes de dados surgiram (por ex.: redes sociais), existe agora a necessidade de pôr esses dados ao serviço dessas empresas/instituições. O objetivo é ser capaz de extrair conhecimento desses dados de modo a melhorar a eficiência e ganhar vantagem competitiva. É desta necessidade que surge a Unidade Curricular de Análise e Visualização de Dados (AVD).<br /> <br /><span style=&quot;text-decoration: underline;&quot;>Objetivos:</span><br />O estudante deve ser capaz de: <br />(1) Utilizar adequadamente estatística descritiva para descrição de dados; <br />(2) Utilizar ferramentas OLAP para análise de dados; <br />(3) Saber descrever as diferentes fases do processo de descoberta de conhecimento CRISP; <br />(4) Saber utilizar e analisar os resultados de alguns dos principais métodos interpretáveis de classificação e de regressão; <br />(5) Saber utilizar e interpretar métodos de análise de aglomerados; <br />(6) Saber utilizar e interpretar métodos de regras de associação; <br />(7) Saber analisar dados espaço-temporais;<br />(8) Saber avaliar métodos de análise e visualização de dados.<strong><span style=&quot;font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;&quot;><br /></span></strong>
+
+## Resultados de aprendizagem e competências
+<p>Como resultado da aprendizagem, pretende-se que os estudantes:</p>
+<p>- Conheçam os vários tipos de tarefas de AVD;</p>
+<p>- Identifiquem problemas de apoio à decisão que possam ser representados como tarefas de AVD;</p>
+<p>- Conheçam os principais métodos para cada tipo de tarefa de AVD e compreendam o essencial do seu funcionamento;</p>
+<p>- Apliquem esses métodos a problemas de apoio à decisão;</p>
+<p>- Avaliem os resultados de um projeto de AVD.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Não sendo obrigatório ter frequentado nenhuma UC em concreto, é útil o estudante ter frequentado alguma UC de introdução à estatística.</p>
+
+## Programa
+<p>(1) Análise e Visualização de Dados no contexto da Ciência da Informação;<br />(2) O processo de descoberta de conhecimento; <br />(3) Ferramentas OLAP<br />(4) Estatística descritiva;<br />(5) Qualidade e pré-processamento de dados<br />(6) Métodos de análise de aglomerados; <br />(7) Regras de associação; <br />(8) Métodos de classificação e de regressão;<br />(9) Análise e visualização de dados variáveis em função do tempo e do espaço.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas teóricas decorrem com a exposição das matérias seguidas de excercícios práticos.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 0.0 %
+- Teste: 60.0 %
+- Trabalho laboratorial: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 60.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>MT1 - Miniteste 1<br />MT2 - Miniteste 2<br />PROJ - Trabalho prático (em grupo)<br /><br />Nota final: 0.3 × MT1 + 0.3 × MT2 + 0.4 × PROJ;<br /><br /> Notas mínimas: 0.5 × MT1 + 0.5 × MT2 &#8805; 7.0.<br /><br />A componente PROJ consiste na avaliação de um trabalho faseado, com entregas em dois momentos, cada uma valendo 50% da avaliação do projeto. O trabalho deve ser elaborado por grupos de 2 a 3 pessoas. Esta classificação pode ser diferente para os diferentes elementos do grupo.</p>
+
+## Obtenção de frequência
+N/A
+
+## Melhoria de classificação
+Os testes podem ser melhorados em época de recurso, através de uma prova individual única. O trabalho prático não é passível de melhoria no mesmo ano letivo, podendo, porém, ser melhorado na edição seguinte da unidade curricular.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Data Analysis and Visualization
+
+## Curso responsável
+Master in Information Science
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p><span style="text-decoration: underline;">Background:</span><br />After a season in which different companies/institutions very invested in data collection by computerizing its operations (e.g. sensors, GPS systems), and in which many and varied new data sources have emerged (e.g. social networks), there is now the need to place such data at the service of those companies. The goal is to be able to extract knowledge from these data in order to improve efficiency and gain competitive advantage. From this need arises the Curricular Unit  (UC) of Data Analysis and Visualization (AVD).</p>
+<p><span style="text-decoration: underline;">Objectives:</span><br />The student should be able to: <br />(1) Use adequately descriptive statistics for data description; <br />(2) Use OLAP tools for analysis of data;<br /> (3) To describe the different stages of the process of knowledge discovery CRISP; <br />(4) to use and analyze the results of some of the main interpretable methods of classification and regression; <br />(5) to use and interpret cluster analysis methods; <br />(6) to use and interpret methods of association rules; <br />(7) To analyze spatio-temporal data;<br /> (8) To evaluate methods of analysis and data visualization.</p>
+
+## Resultados de aprendizagem e competências
+<p>As a learning result, it is intended that students:</p>
+<p>- Know the different types of AVD tasks.</p>
+<p>- Identify issues for decision support that can be represented as AD tasks.</p>
+<p>- Know the main methods for each AVD task type and understand its essential function.</p>
+<p>- Apply these methods to problems in decision support.</p>
+<p>- Evaluate the results of an AVD project.</p>
+
+## Pré-requisitos e co-requisitos
+<p>It is not required to have attended any specific course. It, however, very useful to have some background in basic statistics.</p>
+
+## Programa
+<p>(1) Analysis and visualization of data in the context of information science;<br />(2) The process of knowledge discovery;<br />(3) Ferramentas OLAP<br />(4) Descriptive statistics;<br />(5) Data quality and pre-processing<br />(6) Clustering methods; <br />(7) Association rules; <br />(8) Methods of classification and regression; <br />(9) Analysis and visualization of data variables in function of time and space.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical classes are based on the presentation of course unit themes followed by practical exercices.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 0.0 %
+- Teste: 60.0 %
+- Trabalho laboratorial: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 60.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>MT1 - Minitest 1<br />MT2 - Minitest 2<br />PROJ - Group project<br /><br />Final mark: 0.3 × MT1 + 0.3 × MT2 + 0.4 × PROJ;<br /><br />Minimum grade: 0.5 × MT1 + 0.5 × MT2 &#8805; 7.0.<br /><br />The PROJ compoment is based on the assessment of a project that will have two different deliveries, each of them being worth 50% of the project mark. The project should be developed by groups of 2 to 3 students. The project grades may differ by group element.</p>
+
+## Obtenção de frequência
+N/A
+
+## Melhoria de classificação
+<p>Students may improve their test grades by attending an exam with the same format as the tests. The grade of the group project may only be improved in the next edition of this course.</p>
+

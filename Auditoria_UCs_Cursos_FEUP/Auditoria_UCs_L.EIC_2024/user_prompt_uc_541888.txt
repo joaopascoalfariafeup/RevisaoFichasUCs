@@ -1,0 +1,186 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Laboratório de Bases de Dados e Aplicações Web
+
+## Curso responsável
+Licenciatura em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>A unidade curricular de LBAW tem como objetivo sedimentar as matérias expostas nas unidades curriculares de Bases de Dados e Linguagens e Tecnologias Web. Esta unidade curricular oferece uma perspetiva prática sobre duas áreas centrais da engenharia informática.</p>
+<p>Nesta unidade curricular pretende-se dotar os estudantes da capacidade de projetar e desenvolver sistemas de informação baseados em tecnologias web e suportados por sistemas de gestão de bases de dados relacionais.</p>
+
+## Resultados de aprendizagem e competências
+<p>Ao completar esta unidade curricular, o estudante deve ser capaz de projetar e implementar um sistema de informação baseado em tecnologias web e suportado por um sistema de gestão de base de dados relacional. Em particular, o estudante deve ser capaz de:</p>
+<ol>
+<li>Especificar os requisitos;</li>
+<li>Desenhar a arquitetura de informação, as interfaces com o utilizador, e os fluxos de navegação;</li>
+<li>Desenhar o modelo conceptual de dados;</li>
+<li>Obter e validar o esquema lógico relacional da base de dados;</li>
+<li>Obter o esquema físico da base de dados e afinar o esquema lógico relacional;</li>
+<li>Desenhar e implementar interrogações para acesso à base de dados em SQL;</li>
+<li>Desenhar e implementar mecanismos para a manutenção da integridade dos dados;</li>
+<li>Desenhar e especificar os recursos web para suportar a interação com o utilizador e a lógica de negócio;</li>
+<li>Implementar os componentes web do sistema com recurso a tecnologias web, baseadas no servidor e no cliente;</li>
+<li>Assegurar que as interfaces com o utilizador estão de acordo com as normas e boas práticas de acessibilidade e usabilidade web.</li>
+</ol>
+
+## Pré-requisitos e co-requisitos
+<p>Bases de Dados: modelação de dados em UML, Modelo Relacional, linguagem SQL.</p>
+<p>Linguagens e Tecnologias Web: protocolo HTTP, paradigma REST, linguagens HTML, CSS e JavaScript.</p>
+
+## Programa
+<ul><br /><li>Desenvolvimento de uma aplicação web suportada por uma base de dados: levantamento de requisitos, conceção, modelação, implementação e documentação;</li><br /><li>Projeto de bases de dados relacional com recurso a linguagens de modelação de dados (UML), à linguagem SQL, à utilização de índices de desempenho e de pesquisa, de transações, e de extensões procedimentais à linguagem SQL;</li><br /><li>Identificação e manutenção de regras de negócio: na interface; na lógica de negócio e na base de dados (triggers);</li><br /><li>Projeto de aplicação web com recurso a linguagens de programação e frameworks web, centradas no servidor; aprofundamento de conceitos relacionados com a arquitetura de aplicações web;</li><br /><li>Desenho de interação com o utilizador: arquitetura de informação, usabilidade e acessibilidade web.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas teóricas serão usadas para apresentação dos guiões de trabalho, para a discussão de exemplos representativos, para análise das avaliações efetuadas e para apresentar breves introduções às tecnologias e conceitos a utilizar.</p>
+<p>As aulas práticas laboratoriais serão usadas para o desenvolvimento do projeto, em grupo, tendo o docente como consultor. Em cada aula prática, os componentes produzidos pelo grupo são avaliados e discutidos.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Trabalho laboratorial: 80.0 %
+- Exame: 20.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 110.0 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A nota final será calculada usando a fórmula:</p>
+<p><strong>Nota Final = 20% Exame + 80% Projeto</strong></p>
+<p>sendo:</p>
+<p><strong>Nota Projeto = 10% ER + 25% EBD + 25% EAP + 40% PA</strong></p>
+<p>Componentes do Projeto:</p>
+<ul>
+<li>ER &#8211; Especificação de Requisitos</li>
+<li>EBD &#8211; Especificação da Base de Dados</li>
+<li>EAP &#8211; Especificação da Arquitetura e Protótipo Vertical</li>
+<li>PA &#8211; Produto e Apresentação</li>
+</ul>
+<p>O trabalho prático é avaliado durante as aulas laboratoriais e através da entrega dos componentes previstos.</p>
+<p>Os conceitos teóricos são avaliados através de um exame individual com perguntas de escolha múltipla.</p>
+<p>A aprovação na unidade curricular está condicionada à obtenção de 40% no exame e de 50% em cada uma das componentes da avaliação prática.</p>
+<p>A obtenção de aprovação no projeto requer a participação, de cada estudante, em todas as fases do projeto, nomeadamente na seleção das tecnologias, na identificação e caraterização do problema, no desenho e implementação da solução, na escrita do relatório final, e na apresentação final.</p>
+<p>Salienta-se o facto de um estudante, por ter uma participação menor num componente de avaliação, poder ter classificação diferente nessa componente daquela do grupo a que pertence.</p>
+<p>A classificação final da componente prática (Nota Projeto) pode variar de elemento para elemento do mesmo grupo, em mais ou menos 3 valores, com base na opinião dos docentes e na autoavaliação e heteroavaliação a realizar internamente em cada grupo.</p>
+<p>A classificação final individual depende da classificação obtida no exame, não podendo ser superior a até mais 5 valores da classificação individual obtida no exame.</p>
+
+## Obtenção de frequência
+<p>As condições para obtenção de frequência são as seguintes:</p>
+<ol>
+<li>não exceder o número limite de faltas às aulas práticas (25% do número de aulas práticas do semestre);</li>
+<li>realizar a inscrição num grupo de trabalho dentro do período definido;</li>
+<li>participar em cada um dos quatro componentes do projeto;</li>
+<li>participar na apresentação e defesa final do projeto.</li>
+</ol>
+<p>A participação no desenvolvimento do projeto (ponto 3) é aferida através das evidências produzidas pelo estudante (código e documentação), da avaliação dos docentes durante as aulas práticas, e da autoavaliação e heteroavaliação realizada no contexto do grupo.</p>
+
+## Melhoria de classificação
+<p>Não é possível a melhoria da classificação obtida no projeto.</p>
+<p>É possível a melhoria da classificação do exame, mantendo a classificação obtida no projeto na inscrição anterior.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Database and Web Applications Laboratory
+
+## Curso responsável
+Bachelor in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>The LBAW course aims to consolidate the subjects covered in the Database and the Web Languages and Technologies courses. This course offers a practical perspective on two central areas of informatics engineering.</p>
+<p>The goal of this course is to equip students with the ability to design and develop information systems based on web technologies and supported by relational database management systems.</p>
+
+## Resultados de aprendizagem e competências
+<p>Upon completing this course, the student should be able to design and implement an information system based on web technologies and supported by a relational database management system. In particular, the student should be able to:</p>
+<ol>
+<li>Specify the requirements;</li>
+<li>Design the information architecture, user interfaces, and navigation flows;</li>
+<li>Design the conceptual data model;</li>
+<li>Obtain and validate the relational database's logical schema;</li>
+<li>Obtain the physical database schema and optimize the relational logical schema;</li>
+<li>Design and implement queries for database access in SQL;</li>
+<li>Design and implement mechanisms to maintain data integrity;</li>
+<li>Design and specify the web resources to support user interaction and business logic;</li>
+<li>Implement the system's web components using server- and client-side web technologies;</li>
+<li>Ensure that user interfaces comply with accessibility and web usability standards and best practices.</li>
+</ol>
+
+## Pré-requisitos e co-requisitos
+<p>Databases: data modeling in UML, Relational Model, SQL language.</p>
+<p>Web Languages &#8203;&#8203;and Technologies: HTTP protocol, REST paradigm, HTML, CSS and JavaScript languages.</p>
+
+## Programa
+<ul><br /><li>Development of a web application supported by a database: requirements gathering, design, modeling, implementation, and documentation;</li><br /><li>Design of a relational database using data modeling languages (UML), SQL language, performance and search indexing, transactions, and procedural extensions to SQL;</li><br /><li>Identification and maintenance of business rules: in the interface, in business logic, and in the database (triggers);</li><br /><li>Design of a web application using programming languages and web frameworks, focused on the server side; deepening concepts related to the architecture of web applications;</li><br /><li>User interaction design: information architecture, web usability, and accessibility.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The theoretical classes will be used to present the work guidelines, discuss representative examples, analyze completed evaluations, and provide brief introductions to the technologies and concepts to be used.</p>
+<p>The practical laboratory classes will be used for project development in groups, with the instructor acting as a consultant. In each practical class, the components produced by the group are evaluated and discussed.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Trabalho laboratorial: 80.0 %
+- Exame: 20.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 110.0 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final grade will be calculated using the following formula:</p>
+<p><strong>Final Grade = 20% Exam + 80% Project</strong></p>
+<p>where:</p>
+<p><strong>Project Grade = 10% ER + 25% EBD + 25% EAP + 40% PA</strong></p>
+<p>Project Components:</p>
+<ul>
+<li>ER &#8211; Requirements Specification</li>
+<li>EBD &#8211; Database Specification</li>
+<li>EAP &#8211; Architecture Specification and Vertical Prototype</li>
+<li>PA &#8211; Product and Presentation</li>
+</ul>
+<p>The practical work is assessed during laboratory sessions and through the submission of the required components.</p>
+<p>Theoretical concepts are assessed through an individual exam with multiple-choice questions.</p>
+<p>Passing the course is conditional on obtaining 40% on the exam and 50% in each of the practical evaluation components.</p>
+<p>Approval of the project requires each student to participate in all phases of the project, including the selection of technologies, the identification and characterization of the problem, the design and implementation of the solution, the writing of the final report, and the final presentation.</p>
+<p>It is important to note that a student may receive a different grade from their group for a specific evaluation component if they have had less participation in that component.</p>
+<p>The final grade for the practical component (Project Grade) may vary by up to 3 points for each member of the same group, based on the instructors' opinion and the self-assessment and peer evaluation conducted within the group.</p>
+<p>The individual final grade depends on the exam grade and cannot exceed more than 5 points above the individual's exam grade.</p>
+
+## Obtenção de frequência
+<p>The conditions for obtaining course attendance are as follows:</p>
+<ol>
+<li>not exceeding the maximum number of absences in practical classes (25% of the total number of practical classes in the semester);</li>
+<li>registering in a work group within the defined period;</li>
+<li>participating in each of the four components of the project;</li>
+<li>participating in the final presentation and defense of the project.</li>
+</ol>
+<p>Participation in the project development (point 3) is assessed through the evidence produced by the student (code and documentation), the evaluation by instructors during practical classes, and self-assessment and peer evaluation conducted within the group.</p>
+
+## Melhoria de classificação
+<p>It is not possible to improve the grade obtained for the project.</p>
+<p>It is possible to improve the exam grade while maintaining the project grade from the previous enrollment.</p>
+

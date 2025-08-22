@@ -1,0 +1,103 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Investigação Operacional
+
+## Curso responsável
+Licenciatura em Engenharia Civil
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p>Com a unidade curricular de Investigação Operacional espera-se contribuir para que os estudantes desenvolvam capacidades (métodos) de resolução de problemas concretos (processos de tomada de decisão).<br />Espera-se ainda dotar e desenvolver nos estudantes competências para identificar e abordar de forma hábil e estruturada problemas de decisão, construir modelos de problemas de decisão, usar métodos quantitativos na obtenção de soluções para os problemas construídos, como suporte para decisões fundamentadas, bem como usar a informação extraída dos modelos para induzir e motivar mudanças nos processos.</p>
+
+## Resultados de aprendizagem e competências
+<p>Conhecimento: Conhecer a metodologia de resolução de problemas e dominar técnicas matemáticas correntemente utilizadas como suporte a processos de tomada de decisões.<br /><br />Aptidão: Ser capaz de aplicar ferramentas analíticas da investigação operacional à abordagem, estruturação e resolução racional de problemas de decisão.<br /><br />Compreensão: Compreensão dos processos de tomada de decisões e da fundamentação matemática e visualização geométrica dos métodos de resolução de problemas de programação linear, análise de sensibilidade e análise pós-ótimo, problemas de transportes, problemas de afetação, problemas de otimização em redes, problemas de filas de espera, problemas de teoria dos jogos e teoria da decisão.<br /><br />Competências: Manusear diferentes metodologias de apoio à decisão, identificando claramente quais as metodologias mais apropriadas no apoio à decisão em diferentes tipos de situações. Desenvolver capacidades de implementação das decisões.</p>
+
+## Programa
+<p>1 Introdução à Investigação Operacional:<br />1.1 Natureza e Metodologia da Investigação Operacional. Modelação: objetivos, características e técnicas<br />1.2 Casos de Estudo: abordagem metodológica, estruturação do problema, e conclusões<br />1.3 Importância da Investigação Operacional no processo de tomada de decisão.<br />2 Método de resolução de problemas em Investigação Operacional<br />2.1 Formulação do problema<br />2.2 Construção do modelo<br />2.3 Validação do modelo<br />2.4 Teste de solução<br />2.5 Implementação da solução.<br />3 Técnicas Matemáticas <br />3.1 Problemas de Programação Linear. Formulação e métodos de resolução.<br />3.2 Método Simplex.<br />3.3 Dualidade.<br />3.4 Problema de transportes e afetação.<br />3.5 Problemas de Redes e Planeamento de Projetos (CPM e PERT).<br />3.6 Programação inteira e/ou multiobjectivo.<br />3.7 Filas de espera: decisão sob incerteza, formulação de problemas, modelação de sistemas de espera, regime estacionário e congestionamento, medidas de desempenho.<br /><br /><br /><strong>Demonstração da coerência dos conteúdos programáticos com os objetivos de aprendizagem da unidade curricular:</strong><br />Os conteúdos programáticos cobrem uma parte de conceitos metodológicos de resolução de problemas e implementação de soluções dando-se particular ênfase na necessidade de dominar os processos de funcionamento através da construção de modelos específicos, com conhecimento construído a partir das matemáticas lecionadas em anos anteriores e complementados com as técnicas lecionadas nesta unidade curricular, aplicadas ao contexto de resolução de problemas de decisão.<br />Sendo a área científica da engenharia civil existe a preocupação dos exemplos e os exercícios serem relacionados com problemas concretos com que os estudantes venham a ser confrontados no futuro.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Em parte das aulas teóricas são apresentados os conceitos e resultados relevantes dos diversos  assuntos tratados (domínio dos processos, metodologia de resolução de problemas e teoria da decisão), realçando a sua importância na futura atividade profissional de engenharia civil, e  recorrendo a exemplos elucidativos e a estudos de caso.<br />Outra parte das aulas teóricas e as aulas teórico-práticas são dedicadas às técnicas matemáticas de investigação operacional para estruturar o raciocínio na resolução de tipos de  problemas concretos frequentes na engenharia.<br />A avaliação é feita pela resolução de um trabalho em grupo (30%) e por um teste (70%).<br /><br /><strong>Demonstração da coerência das metodologias de ensino com os objetivos de aprendizagem da unidade curricular:</strong><br />As metodologias de ensino permitem a aplicação das ferramentas analíticas da investigação operacional à abordagem, estruturação e resolução racional de problemas de decisão, analisar problemas concretos que requerem a tomada de decisões, com diferentes graus de complexidade, diferentes tipos e origens de informação e diferentes modos de abordagem, estruturando-os e formulando-os sob a forma de modelos (determinísticos ou estocásticos), nos quais são claramente identificados os objetivos, as variáveis de decisão e os diferentes tipos de restrições (físicas, económicofinanceiras, regulamentares, etc.), e nos quais se fundamentam as decisões mais adequadas a tomar. Análise pós-ótima de modelos de forma a ajustar convenientemente as suas condições de aplicabilidade à evolução das suas condicionantes externas e internas (à empresa e aos processos).<br />A avaliação será realizada por teste e trabalho em grupo. A avaliação por um trabalho em grupo, um problema mal estruturado sempre num tema em que têm pouco conhecimento, permite que os estudantes desenvolvam competências no processo de resolução de problemas de qualquer natureza, partindo das fases inicias de recolha de informação para ganharem conhecimento em relação à problemática em questão, passando pela construção do modelo que representa o processo de funcionamento e acabe numa avaliação da decisão relacionada com o resultado do modelo. Este trabalho tem por objetivo que os estudantes experimentem de forma concreta, através de uma experiência prática, a metodologia de resolução de problemas.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Trabalho escrito: 30.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 45.5 horas
+- Trabalho escrito: 17.0 horas
+- Estudo autónomo: 99.5 horas
+
+## Fórmula de cálculo da classificação final
+<p> 70% Teste + 30% Trabalho de Grupo</p>
+<p> </p>
+
+## Obtenção de frequência
+<p>A obtenção de classificação final exige o cumprimento de assiduidade à unidade curricular, conforme estabelecido nas regras de avaliação: considera&#8208;se que um estudante cumpre a assiduidade a uma unidade curricular se, tendo estado regularmente inscrito, não exceder o número limite de faltas correspondente a 25% de cada um dos tipos de aulas previstos. Além disso, é obrigatória a realização do trabalho de grupo para a obtenção de frequência.<br /><br />Estão dispensados da obtenção de frequência os casos previstos na avaliação da FEUP (sigarra&gt;estudantes&gt;estatutos especiais)<br /><br />No presente ano letivo (2024/2025) estão também dispensados do critério de obtenção de frequência no ano letivo em curso, para todos os efeitos, os estudantes que tenham obtido frequência no ano letivo prévio.<br /><br />A partir do próximo ano letivo (2025/2026) serão dispensados da obtenção de frequência no ano letivo em curso, para todos os efeitos, os estudantes que tenham obtido no ano letivo imediatamente anterior uma nota final igual ou superior a 6 valores.</p>
+
+## Melhoria de classificação
+Nos termos do Artigo 10º das Normas Gerais de Avaliação. Os estudantes que tenham sido aprovados à unidade curricular e pretendam melhorar a sua classificação, podem requerer acesso ao exame de recurso. Se a classificação de exame de recurso for inferior, prevalecem as classificações da avaliação distribuída.<br />A melhoria de classificação incide apenas sobre a avaliação individual (70% da nota final), permanecendo a componente de 30% da classificação obtida anteriormente no trabalho de grupo (não é possível melhorar a nota do trabalho de grupo).
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Operational Research
+
+## Curso responsável
+Bachelor in Civil Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p>This course aims to acquaint students with skills (methods) on problem solving (processes and decision making).<br />This course also aims to develop students&#8217; skills to identify and to have a structured approach to solve problems, to construct models of problems of decision, to use quantitative methods to obtain solutions, as a support to reasoned decisions, as well as to know how to use information from models to introduce changes in the processes.</p>
+
+## Resultados de aprendizagem e competências
+<p>Knowledge: To be acquainted with the methodology of problem solving and dominate research techniques used as a support of decision making processes.<br /><br />Skills: To apply the analytical tools of operational research to the approach, structure and rational resolution of decision problems.<br /><br />Understanding: To understand decision making and mathematical reasoning processes and geometrical visualization of methods of resolution problems of linear programming, sensitivity and post-optimal analysis, problems of transportation, allocation problems, network optimization problems, problem of , game theory and decisions problem theory.<br /><br />Competencies: To handle different methodologies of decision support, by clearly identifying which are the most appropriate methodologies in decision in different types of situation. To develop skills on decision making.</p>
+
+## Programa
+<p>1 Introduction to Operational Research:<br />1.1 Nature and Operational Research Methodology. Modelling: objectives, characteristics and techniques<br />1.2 Cases of Study: methodological approach, structuring of the problem, and conclusions<br />1.3. Importance of Operational Investigation in the decision-making process.<br />2 OR method<br />2.1 Problem formulation, <br />2.2 Construction of the model<br />2.3 Validation of the model<br />2.4 Testing of solution<br />2.5 Implementation of the solution.<br />3 Mathematical Techniques <br />3.1 Linear Programming. Formulation of a linear programming problem<br />3.2 Simplex Method<br />3.3 Duality<br />3.4 The Transportation problem and the Assignment problem<br />3.5 Network Analysis and Project Planning (PERT/ CPM)<br />3.6 Entire programming and/or multipurpose<br />3.7 Queueing Theory: decision under uncertainty, problem formulation, modelling of waiting systems, stationary regime and congestion, performance measures<br /><br /><br /><strong>Evidence of the syllabus coherence with the curricular unit&#8217;s intended learning outcomes:</strong><br />The program covers methodological concepts of problem solving and implementation of solutions stressing the need to dominate the processes through the construction of specific models from previous knowledge in mathematics complemented with techniques taught in the discipline, applied in the context of problem solving.<br />Being a course in civil engineering the examples and the exercises presented are related to applied situations that the students might face in the future.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Part of the theoretical classes will be based on the presentation of concepts and relevant results of the subjects that are being covered (processes, methodology of problem solving and theory of decision), as well as its importance on civil engineering, thorough the presentation of examples and case studies.<br />Other theoretical classes and theoretical-practical classes will cover the mathematical techniques of operational research to solve types of problems frequent in engineering.<br />The evaluation is realized by a work in group (30%) and by an exam (70%).<br /><br /><strong>Evidence of the coherence between the teaching methodologies and the intended learning outcomes:</strong><br />The teaching methodologies permit to apply the analytical tools of operational investigation to the approach, structure and rational resolution of decision problems, to analyse real problems that need a decision with different levels of complexity, different types and sources of information and different approaches. To organize them in models (deterministic and stochastic), where the objectives, decision variables and the different types of restrictions (physical, economic-financial, regulation, etc.) are easily identified, in which the adequate decisions are reasoned. Post-optimal analysis of models to adjust their applicability conditions to the evolution of their external and internal constraints (company and processes).<br />The evaluation will be carried out through written exam and work in groups. Evaluation in a work in group, a problem that is always poorly structured in a theme in which they have little knowledge, allows students to develop skills in the problem-solving process of any nature, starting from the initial stages of collection of information to gain knowledge of the problem in question, through the construction of the model that represents the operating process and ends in an assessment of the decision related to the result of the model. This work aims to try the problem-solving methodology in a concrete way through practical experience.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Trabalho escrito: 30.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 45.5 hours
+- Trabalho escrito: 17.0 hours
+- Estudo autónomo: 99.5 hours
+
+## Fórmula de cálculo da classificação final
+<p>  70% Exam + 30% Group Work</p>
+
+## Obtenção de frequência
+<p>Achieving final classification requires compliance with attendance at the course unit, according to the assessment rules: it is considered that students meet the attendance requirements if, having been regularly enrolled, the number of absences of 25% for each of the classes&#8217; types is not exceeded. In addition, group work is compulsory to obtain attendance.<br /><br />The cases mentioned in FEUP&#180;s rules (sigarra&gt;students&gt;special status and conditions) are exempt from complying with attendance requirements.<br /><br />In current academic year (2024/2025), students who have taken the course and complied with the attendance rules in the previous academic year are also exempt from the criterion of obtaining attendance in the academic year.<br /><br />from the next academic year (2025/2026), only students that have obtained a final mark of 6 or more in the immediatelly preceding academic year will be exempt from the criterion of obtaining attendance in the academic year. </p>
+
+## Melhoria de classificação
+In accordance to Article 10th of the of the General Standards of Evaluation (Artigo 10º das Normas Gerais de Avaliação), the students who were approved at the curricular unit and wish to improve their grade, they can do so by participating in the respective appeal exam. If the appeal examination mark is lower, the marks for the distributed assessment take precedence.<br />The grade improvement only applies to the individual assessment (70 per cent of the final grade), with the 30 per cent component of the grade obtained previously in the group work remaining (it is not possible to improve the grade for the group work).
+

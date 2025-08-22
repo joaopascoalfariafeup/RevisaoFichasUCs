@@ -1,0 +1,104 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Técnicas Avançadas de Construção de Software
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+Este curso capacita os estudantes com habilidades avançadas na construção de software, focando na engenharia dirigida por modelos, metaprogramação e reflexão para criar código reutilizável. Aborda o uso de plataformas low-code/no-code, IA generativa para automação de código e geração de código a partir de especificações de alto nível. Através de aplicações práticas e projetos reais, os estudantes aprenderão a implementar e avaliar eficazmente estas técnicas modernas em sistemas de software complexos.
+
+## Resultados de aprendizagem e competências
+<ul><br /><li><strong>Aplicar princípios de engenharia guiada por modelos</strong> no desenho de software.</li><br /><li><strong>Criar e transformar modelos</strong> em código executável usando EMF e ferramentas relacionadas.</li><br /><li><strong>Implementar metaprogramação e reflexão</strong> para escrever código genérico e reutilizável.</li><br /><li><strong>Projetar e implantar aplicações</strong> usando plataformas low-code/no-code.</li><br /><li><strong>Usar IA generativa</strong> para geração de código e testes, compreendendo &quot;prompt engineering&quot;, benefícios e limitações.</li><br /><li><strong>Gerar código automaticamente</strong> a partir de especificações de alto nível usando síntese de programas.</li><br /><li><strong>Integrar e avaliar técnicas avançadas de construção de software</strong> em projetos reais.</li><br /></ul>
+
+## Programa
+<ul><br /><li>Engenharia de software guiada por modelos (6 semanas)</li><br /><ul><br /><li>Modelos, metamodelos e meta-metamodelos</li><br /><li>Linguagens de modelação para domínios específicos</li><br /><li>Metamodelação</li><br /><li>Transformação de modelos</li><br /><li>Geração de código-fonte a partir de modelos</li><br /><li>Interpretação de modelos em tempo de execução</li><br /><li>Ferramentas (EMF, etc.)</li><br /><li>Casos práticos</li><br /></ul><br /><li>Meta-programação e reflexão (2 semanas)</li><br /><ul><br /><li>Meta-programação com templates e macros</li><br /><li>Utilização de anotações no código e reflexão para escrita de código genérico</li><br /><li>Casos práticos (em Java, C++, Rust, etc.)</li><br /></ul><br /><li>Plataformas &quot;low-code&quot; e &quot;no-code&quot; (2 semanas)</li><br /><ul><br /><li>Conceito e exemplos (Outsystems, Power Apps, Mendix, etc.)</li><br /><li>Funcionalidades e arquitetura</li><br /><li>Desempenho, escalabilidade e desafios</li><br /><li>Casos práticos</li><br /></ul><br /><li>Geração automática de código com assistentes inteligentes (1 semana)</li><br /><ul><br /><li>Geração de código e casos de testes com assistentes de IA generativa</li><br /><li>&quot;Prompt engineering&quot;</li><br /><li>Exemplos práticos, benefícios e limitações</li><br /></ul><br /><li>Geração automática de código a partir de especificações (1 semana)</li><br /><ul><br /><li>Especificações de alto nível</li><br /><li>Síntese e derivação de programas</li><br /></ul><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+A unidade curricular irá decorrer em modo de aula invertida, onde os estudantes terão de estudar os tópicos de cada aula de forma autónoma, seguindo as indicações do docente. <br /><br />As aulas teórico-práticas terão uma primeira parte de discussão de cada matéria pré-estudada pelos alunos, onde serão discutidos pontos relevantes e potenciais dúvidas. Numa segunda parte, os alunos dedicar-se-ão a um projeto prático. Esse projeto crescerá incrementalmente e resultará num sistema baseado em metamodelos com uma linguagem específica de domínio executável, primeiro por técnicas simples de interpretação e finalmente geração de código. Os estudantes realizarão ainda pequenos exercícios e trabalhos de exploração das várias técnicas estudadas.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 10.0 %
+- Teste: 30.0 %
+- Trabalho prático ou de projeto: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 90.0 horas
+- Frequência das aulas: 36.0 horas
+- Estudo autónomo: 36.0 horas
+
+## Fórmula de cálculo da classificação final
+F = 0.1 * A + 0.3 * T + 0.6 * P<br /><br />F - Nota final<br />A - Participação ativa nas aulas<br />T - Teste final<br />P - Projeto em equipa<br /><br />Todas as componentes têm uma classificação mínima de 40%.
+
+## Obtenção de frequência
+<p>Frequência a pelo menos 75% das aulas (exceto estudantes com estatuto que dispensa assiduidade) e participação no projeto em equipa.  </p>
+
+## Melhoria de classificação
+Na época de recurso pode ser melhorada apenas a classificação obtida no teste final.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Advanced Software Construction Techniques
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+This course equips students with advanced software construction skills, focusing on model-driven engineering, metaprogramming, and reflection for creating reusable code. It covers the use of low-code/no-code platforms, generative AI for code automation, and code generation from high-level specifications. Through practical applications and real-world projects, students will learn to effectively implement and evaluate these modern techniques in complex software systems.
+
+## Resultados de aprendizagem e competências
+<ul><br /><li><strong>Apply model-driven engineering principles</strong> in software design.</li><br /><li><strong>Create and transform models</strong> into executable code using EMF and related tools.</li><br /><li><strong>Implement metaprogramming and reflection</strong> for writing generic, reusable code.</li><br /><li><strong>Design and deploy applications</strong> using low-code/no-code platforms.</li><br /><li><strong>Use generative AI</strong> for code and test generation, with an understanding of prompt engineering, benefits and limitations.</li><br /><li><strong>Automatically generate code</strong> from high-level specifications using program synthesis.</li><br /><li><strong>Integrate and evaluate advanced software construction techniques</strong> in real-world projects.</li><br /></ul>
+
+## Programa
+<ul><br /><li>Model-driven software engineering (6 weeks)</li><br /><ul><br /><li>Models, metamodels and meta-metamodels</li><br /><li>Domain-specific modelling languages</li><br /><li>Metamodeling</li><br /><li>Model transformations</li><br /><li>Source-code generation from models</li><br /><li>Run-time interpretation of models</li><br /><li>Tooling (EMF, etc.)</li><br /><li>Practical applications</li><br /></ul><br /><li>Metaprogramming and reflection (2 weeks)</li><br /><ul><br /><li>Metaprogramming with macros and templates</li><br /><li>Using code annotations and reflection for writing generic code </li><br /><li>Practical applications (in Java, C++, Rust, etc.)</li><br /></ul><br /><li>Low-code and no-code platforms (2 weeks)</li><br /><ul><br /><li>Concept and examples (Outsystems, Power Apps, Mendix, etc.)</li><br /><li>Features and architecture </li><br /><li>Performance, scalability and challenges </li><br /><li>Hands-on experience and case studies</li><br /></ul><br /><li>Automatic programming with intelligent assistants (1 week) </li><br /><ul><br /><li>Code and test case generation with generative AI assistants</li><br /><li>Prompt engineering</li><br /><li>Practical examples, benefits and limitations</li><br /></ul><br /><li>Automatic code generation from specifications (1 week)</li><br /><ul><br /><li>High-level specifications</li><br /><li>Program synthesis and program derivation</li><br /></ul><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+The course will take place in a flipped classroom mode, where students will have to study the topics of each class independently, following the instructions of the teacher.<br /><br />The theoretical-practical classes will have a first part of discussion of each subject pre-studied by the students, where relevant points and potential doubts will be discussed. In a second part, students will dedicate themselves to a practical project. This project will grow incrementally and will result in a system based on metamodels with a domain-specific executable language, first through simple interpretation techniques and finally code generation. Students will also engage in small exercises and exploratory assignments to apply the various techniques studied.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 10.0 %
+- Teste: 30.0 %
+- Trabalho prático ou de projeto: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 90.0 hours
+- Frequência das aulas: 36.0 hours
+- Estudo autónomo: 36.0 hours
+
+## Fórmula de cálculo da classificação final
+F = 0.1 * C + 0.3 * T + 0.6 * P<br /><br />F - Final classification<br />A - Active participation in classes<br />T - final test<br />P - Group project<br /><br />All components have a minimum rating of 40%.
+
+## Obtenção de frequência
+Attendance of at least 75% of the classes (except students with status that exempts attendance)  and participation in the group project.
+
+## Melhoria de classificação
+In the appeal epoch, only the classification obtained in the normal exam can be improved.
+

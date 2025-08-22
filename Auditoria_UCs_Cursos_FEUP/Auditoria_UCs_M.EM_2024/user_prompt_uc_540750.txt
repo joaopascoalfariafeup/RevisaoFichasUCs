@@ -1,0 +1,110 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Segurança de Máquinas
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+O principal objectivo desta unidade curricular é proporcionar aos estudantes conceitos fundamentais de segurança e projeto de máquinas. Para o conseguir, a unidade curricular começa com dois tópicos que cobrem os fundamentos da filosofia de segurança e as metodologias fundamentais de apreciação e redução de riscos. Na segunda parte, dois tópicos introduzem os dispositivos de segurança e sistemas de comando que proporcionarão ao aluno as ferramentas fundamentais para o projeto de máquinas seguras. O tópico final aborda requisitos de segurança para máquinas particulares.
+
+## Resultados de aprendizagem e competências
+<div>No final da unidade curricular o estudante deverá ser capaz de:</div><br />- Identificar riscos associados a máquinas e minimizá-los;<br />- Descrever as regulamentações mais utilizadas em segurança máquina, compreendendo as que se aplicam aos fabricantes e aos utilizadores dos equipamentos;<br />- Desenvolver a capacidade de identificar perigos, desenvolver a apreciação do risco e determinar as medidas para redução do risco para diferentes tipos de máquinas;<br />- Através de métodos de projeto sistemáticos, converter um requisito inicial para uma função de comando de segurança num projeto prático em conformidade com a regulamentação;<br />- Compreender os fundamentos de paragem funcional, paragem de emergência, os princípios básicos dos relés de segurança e os circuitos essenciais para atender às categorias de segurança;<br />- Compreender os conceitos fundamentais dos PLC&#8217;s de segurança e das comunicações industriais para dispositivos de segurança, e ser capaz de as utilizar no desenvolvimentos de máquinas.
+
+## Pré-requisitos e co-requisitos
+Os estudantes com estatuto especial podem optar por frequentar a Unidade Curricular como se fossem estudantes ordinários, submetendo-se às normas da avaliação destes. Em alternativa, os estudantes com estatuto especial deverão realizar uma prova global constituída por uma prova escrita (50%) e uma prova oral (50%).
+
+## Programa
+1. Enquadramento legal e normativo da segurança de máquinas na União Europeia<br />- Evolução da legislação sobre segurança na União Europeia<br />- Legislação e normalização europeia sobre segurança de máquinas<br />- Marcação CE - Diretiva &#8220;Máquinas&#8221;<br />- Diretiva &#8220;Equipamentos de Trabalho&#8221;<br /><br />2. Princípios e metodologia para a integração de segurança<br />- Apreciação do risco<br />- Análise do risco<br />- Avaliação do risco<br />- Medidas para redução do risco<br />- Medidas de prevenção intrínseca<br />- Medidas de proteção - Informação para utilização<br />- Requisitos essenciais de segurança e saúde<br /><br />3. Protetores e dispositivos de segurança<br />- Tipos e características dos protetores e dispositivos de segurança<br />- Distâncias de segurança<br /><br />4. Circuitos de comando associados a funções de segurança<br />- Identificação das funções de segurança<br />- Determinação do nível de desempenho requerido (PLr)<br />- Parâmetros para determinação do nível de desempenho PL<br />- Determinação do nível de desempenho (PL)<br />- Validação da função de segurança<br /><br />5. Requisitos de segurança em máquinas especificas<br />- Máquinas ferramenta<br />- Equipamentos para elevação de cargas<br />- Equipamentos para elevação de pessoas<br />- Robots
+
+## Métodos de ensino e atividades de aprendizagem
+O horário de contato do curso será realizado em 2 aulas teórico-práticas de 1,5 horas que abordarão o programa do curso  com a combinação de (1) exposição de conteúdos teóricos com recurso a suporte audiovisual, (2) exercícios teórico práticos que permitirão a consolidação dos conhecimentos leccionados, (3) demonstrações laboratoriais com a utilização de equipamento e software industrial. Dada a natureza dos pontos 2 e 3 do programa da disciplina, que incidem respectivamente sobre a apreciaçao do risco e sobre as técnicas e sistemas de protecção, serão primordialmente utilizados exercícios teórico praticas. O ponto 4 do programa da disciplina incide fundamentlmente sobre aplicações de software para sistemas de segurança, pelo que serão utilizadas aulas de demonstração/experimentação de sistemas em ambiente laboratorial relevante. No ponto 5 do programa da disciplina será proposto aos alunos a realização de um trabalho para o dimensionamento e análise de segurança de alguns equipamentos industriais. Este trabalho fundamentalmente em autonomia e decorrerá ao longo de 4 semanas, sendo que neste periodo são reservadas 3 aulas TP para o acompanhamento do trabalho pelo docente. Através da plataforma SIGARRA são disponibilizados os conteúdos os elementos de estudo e suporte das aulas TP. São também disponibilizados um conjunto de documentos com informação tecnológica de distintos fabricantes que cobrem os diversos temas abordados.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Apresentação/discussão de um trabalho científico: 50.0 %
+- Exame: 50.0 %
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 1.5 horas
+- Elaboração de projeto: 34.0 horas
+- Estudo autónomo: 47.0 horas
+- Frequência das aulas: 39.0 horas
+
+## Fórmula de cálculo da classificação final
+A classificação final dos alunos ordinários é feita com base numa prova escrita (PE) e um trabalho de projeto (TRB). Estas componentes são avaliadas de 0 a 20 e têm os seguintes pesos:  PE &#8211; Prova escrita individual a realizar na época de exames &#8211; 50% da classificação final; TRB &#8211; Trabalho de projeto e pesquisa com apresentação e discussão a realizar na última semana de aulas  &#8211; 50% da classificação final. A prova PE é realizadas sem consulta e com a cotação de cada questão previamente definida. A classificação da trabalho TRB fundamenta-se no relatório produzido e na apresentação e discussão do mesmo efetuada com todos os elementos do grupo de trabalho.<br /><br />Classificação final=0,5*PE+0,5*TRB<br /><br />NOTAS IMPORTANTES: - A aprovação à disciplina requer nota mínima de 7,0 valores na PE. Assim, aos alunos cujas provas resultem em classificações iguais ou superiores a 9,5 valores mas não cumpram esta nota mínima será atribuída a classificação final de 9,0 valores.<br />A não comparência a uma avaliação escrita corresponde a nota de 0 valores para efeito do cálculo da classificação global acima referida.<br />A não realização do trabalho de projeto corresponde uma nota de 0 valores para efeito do cálculo da classificação global acima referida.<br /><br />O acesso às provas de avaliação PE bem como a realização do trabalho de projeto (TRB) requer frequência da disciplina (excepto para os alunos que, de acordo com as regras da FEUP, gozem de estatuto especial que os dispense da frequência das aulas).
+
+## Obtenção de frequência
+Condições de frequência: É concedida frequência aos alunos regularmente inscritos que não excedam o número limite de faltas a cada um dos tipos de aulas, de acordo com o estabelecido na FEUP.
+
+## Melhoria de classificação
+Os estudantes que pretendam obter melhoria de classificação poderão fazer na época de recurso uma prova escrita (PER) sobre a matéria global da UC, que substituirá a componente PE. A nota final é obtida de acordo com:<br /><span style=&quot;color: black; font-family: 'Verdana','sans-serif'; font-size: 7.5pt;&quot;>Classificação final (melhoria)= 0.5*PER+0.5*TRB<br />Sendo mantida a classificação do trabalho TRB efetuado</span>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Machinery Safety
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+The main objective of this curricular unit is to provide the students with the fundamental concepts of machinery safety and design. To achieve this the curricular unit starts with two topics that cover the fundamentals of safety philosophy and the fundamental methodologies of risk assessment and reduction. In the second part two topics introduce safety devices and control systems which will give the student the fundamental tools for safety machinery design. The final topic addresses safety design approaches for reference machinery.
+
+## Resultados de aprendizagem e competências
+Learning outcomes and competences:<br /><br /><ol><br /><li>Identify common hazards that occur with machinery and make them safe.</li><br /><li>Describe the typical and widely used regulations for Safe Machinery use and understand the Regulations that apply to manufacturers and users of equipment.</li><br /><li>Develop the ability to check for hazards, conduct risk assessments and determine the risk reduction requirements for any machinery problem.</li><br /><li>Through systematic design methods, convert the initial requirement for a safety control function into a practical design compliant with the standards.</li><br /><li>Understand the basics of functional stops, E-stops, basic principles of safety relays and the essential circuits arrangements for meeting safety categories.</li><br /><li>Understand the basics of Safety PLC&#8217;s and Safety industrial communications and know how to use them in machinery design.</li><br /></ol>
+
+## Pré-requisitos e co-requisitos
+Students with special status may choose to attend the Course as if they were ordinary students, by submitting themselves to the norms of their evaluation.<br />Alternatively, students with special status must complete a global test consisting of a written test (50%) and an oral test (50%).
+
+## Programa
+<ol><br /><li>Legal and standard framework for safety of machinery in the European Union</li><br /><ul><br /><li>Development in safey legislation in the European Union</li><br /><li>European legislation and standardisation on safety of machinery</li><br /><li>CE marking</li><br /><li>Machine Directive</li><br /><li>Work Equipment Directive</li><br /></ul><br /></ol><br /><div style=&quot;padding-left: 30px;&quot;>2. Principles and methodology for safety integration</div><br /><ul><br /><ul><br /><li>Risk assessment</li><br /><ul><br /><li>Risk analysis</li><br /><li>Risk evaluation</li><br /></ul><br /><li>Risk reduction</li><br /><ul><br /><li>Inherently safe design measures</li><br /><li>Safeguardind</li><br /><li>Information for use</li><br /></ul><br /><li>Health and safety essential requirememts</li><br /></ul><br /></ul><br /><div style=&quot;padding-left: 30px;&quot;>3. Guards and safety devices<br /><br /><ul style=&quot;list-style-type: circle;&quot;><br /><li>Types and features of safety guards and devices</li><br /><li>Safety distances</li><br /></ul><br />4. Control circuits associated with safety functions<br /><br /><ul style=&quot;list-style-type: circle;&quot;><br /><li>Identification of safety functions</li><br /><li>Determining the required performance level (PLr)</li><br /><li>Parameters for determining the Performance Level, PL</li><br /><li>Determining the performance level (PL) </li><br /><li>Validation of safety function</li><br /></ul><br />5. Safety on specific machines<br /><br /><ul style=&quot;list-style-type: circle;&quot;><br /><li>Machine tools</li><br /><li>Lifting equipment</li><br /><li>Equipment for lifting people</li><br /><li>Robots</li><br /></ul><br /></div>
+
+## Métodos de ensino e atividades de aprendizagem
+<em>The contact time of the course will be held in 2 theoretical-practical classes of 1.5 hours that will address the course program with the combination of (1) exposure of theoretical content using audiovisual support, (2) practical  exercises that will allow the consolidation of the knowledge taught, (3) laboratory demonstrations using industrial equipment and software. Given the nature of points 2 and 3 of the discipline's program, which focus on risk analysis, protection techniques and systems respectively, theoretical and practical exercises will be primarily used. Point 4 of the course's program is focused on software applications for security systems, so classes of demonstration / experimentation of systems in relevant laboratory environment will be used. In point 5 of the course program, students will be asked to carry out work for the design and safety analysis of  industrial equipments. This work is mostly performed autonomously  in groups and will take place over 4 weeks, during which 3 TP classes are reserved for the monitoring of the work by the lecturer. Through the SIGARRA platform, the contents of the study elements and support of TP classes are made available. A set of documents with technological information from different manufacturers are also available, covering the various topics covered.</em>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Apresentação/discussão de um trabalho científico: 50.0 %
+- Exame: 50.0 %
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 1.5 hours
+- Elaboração de projeto: 34.0 hours
+- Estudo autónomo: 47.0 hours
+- Frequência das aulas: 39.0 hours
+
+## Fórmula de cálculo da classificação final
+<span title=&quot;&quot;>The final classification of ordinary students is based on one written test (PE) and a research project (TRB). </span><span title=&quot;&quot;>These components are evaluated from 0 to 20,  with the following weights: (50%)</span><span title=&quot;&quot;>PE - Individual written test, without consultation, to be carried out </span><span title=&quot;&quot;>at the time of examinations</span><span title=&quot;&quot;>. (50%) </span><span title=&quot;&quot;>TRB - Research Project with presentation and discussion to be carried out on the last week of classes. The final classification of the research work (TRB) is based on the produced report, and the final presentation and discussion to be carried out with all the elements of the research project group.<br /><br />Final Classification=0,5*PE+0,5*TRB<br /><br />Important remark: Students must achieve a minimum grade of 7 out of 20 in PE. Even if students achieve a grade of 9,5 out of 20 on the final classification, but don&#8217;t achieve 7 out of 20 on PE, they will earn a grade of 9 out of 20. - If students miss one of the written exams, they will earn a 0 out of 20. - If students don&#8217;t accomplish the research project, they will earn a 0 out of 20. - Students can only attend the final exams (PE) and to the research project if they attend to classes (except students with a special status &#8211; according to General Evaluation Rules of FEUP) </span>
+
+## Obtenção de frequência
+To be admitted to exams, students have to be enrolled in the course and not exceed the absence limit allowed in the General Evaluation Rules of FEUP.
+
+## Melhoria de classificação
+Students wishing to obtain an improvement in grading may, at the time of appeal, submit a written test (PER) on the overall subject of the UC that will replace PE. The final grade is obtained according to:<br />Final grade (improvement) = 0.5 * PER + 0.5 * TRB<br />The classification of the TRB work performed is maintained.
+

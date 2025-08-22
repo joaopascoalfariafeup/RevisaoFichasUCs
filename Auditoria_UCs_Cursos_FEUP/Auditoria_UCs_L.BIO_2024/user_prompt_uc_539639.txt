@@ -1,0 +1,98 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Controlo de Processos e Instrumentação
+
+## Curso responsável
+Licenciatura em Bioengenharia
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>Esta UC tem como objetivo fundamental o desenvolvimento de competências de&nbsp;<span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;" data-mce-style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;">modelação, análise e projeto de sistemas de controlo automático de processos físicos</span><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;" data-mce-style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;">/químicos/biológicos. Em complemento, pretende-se que os estudantes adquiram conhecimentos básicos quanto à instrumentação associada à implementação do controlo automático -&nbsp; medidores, controladores elementos finais de controlo - e aos conceitos de automação industrial.</span></p>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;" data-mce-style="font-size: 7.5pt; font-family: Verdana, sans-serif;">Um estudante que conclua com sucesso esta UC deverá ser capaz de:</span></p><ul><li>Projetar e s<span style="font-family: Verdana, sans-serif; font-size: 7.5pt;" data-mce-style="font-family: Verdana, sans-serif; font-size: 7.5pt;">intonizar controladores clássicos de acordo com determinadas especificações de desempenho.</span></li><li><span style="font-size: 7.5pt;" data-mce-style="font-size: 7.5pt;">Projetar e s</span><span style="font-family: Verdana, sans-serif; font-size: 7.5pt;" data-mce-style="font-family: Verdana, sans-serif; font-size: 7.5pt;">intonizar algumas estratégias de controlo avançadas, fazendo a análise crítica da sua pertinência.</span></li><li>Identificar os principais&nbsp;instrumentos usados em controlo de processos físicos/químicos/biológicos e fazer a análise crítica da sua relevância.</li><li>Reconhecer os diferentes tipos de comunicações industriais e níveis de automação industrial.</li></ul>
+
+## Programa
+<p><span style="font-family: 'Trebuchet MS', Arial, sans-serif;" data-mce-style="font-family: 'Trebuchet MS', Arial, sans-serif;"><span style="font-size: 12px;" data-mce-style="font-size: 12px;">Os principais tópicos que constituem a UC são:<br></span></span></p><ol><li>Revisão do conceito de função de transferência e da sua relevância na modelação de sistemas dinâmicos.</li><li><span style="font-family: Verdana, sans-serif; font-size: 7.5pt;" data-mce-style="font-family: Verdana, sans-serif; font-size: 7.5pt;">Controlo em anel fechado (retroação). Algoritmos on-off e PID.</span></li><li><span style="font-family: Verdana, sans-serif; font-size: 7.5pt;" data-mce-style="font-family: Verdana, sans-serif; font-size: 7.5pt;">Comportamento dinâmico de um sistema em anel fechado. Análise de estabilidade.</span></li><li><span style="font-family: Verdana, sans-serif; font-size: 7.5pt;" data-mce-style="font-family: Verdana, sans-serif; font-size: 7.5pt;">Sintonização de controladores: critérios e métodos.</span></li><li><span style="font-family: Verdana, sans-serif; font-size: 7.5pt;" data-mce-style="font-family: Verdana, sans-serif; font-size: 7.5pt;">Projeto de controladores baseado em modelos:&nbsp;Método de Síntese Direta.&nbsp;</span></li><li><span style="font-family: Verdana, sans-serif; font-size: 7.5pt;" data-mce-style="font-family: Verdana, sans-serif; font-size: 7.5pt;">Controlo por antecipação baseado em modelos dinâmicos e&nbsp; em modelos de estado estacionário.</span></li><li><span style="font-family: Verdana, sans-serif; font-size: 7.5pt;" data-mce-style="font-family: Verdana, sans-serif; font-size: 7.5pt;">Controlo de razão.</span></li><li><span style="font-family: Verdana, sans-serif; font-size: 7.5pt;" data-mce-style="font-family: Verdana, sans-serif; font-size: 7.5pt;">Estratégias avançadas de controlo: controlo em cascata, controlo com compensação de atraso de tempo e controlo por separação do intervalo de sinal.</span></li><li><span style="font-family: Verdana, sans-serif; font-size: 7.5pt;" data-mce-style="font-family: Verdana, sans-serif; font-size: 7.5pt;">Instrumentação industrial para controlo de processos: medidores, controladores, elementos finais de controlo.&nbsp;</span></li><li><span style="font-family: Verdana, sans-serif; font-size: 7.5pt;" data-mce-style="font-family: Verdana, sans-serif; font-size: 7.5pt;">Representação de sistemas de controlo em diagramas P&amp;I.</span></li><li><span style="font-family: Verdana, sans-serif; font-size: 7.5pt;" data-mce-style="font-family: Verdana, sans-serif; font-size: 7.5pt;">Automação industrial.</span></li></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;" data-mce-style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;">O ensino será baseado em aulas de exposição e discussão&nbsp;</span><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;" data-mce-style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;">de conceitos e</span><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;" data-mce-style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;">&nbsp;casos de estudo. Serão utilizadas aplicações computacionais para o ensino assistido por computador. Serão realizados de exercícios práticos com sistemas reais de controlo PID.</span></p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Teste: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;" data-mce-style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;">A classificação final, CF, é dada por:&nbsp;</span><br style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;" data-mce-style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;"><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;" data-mce-style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;">CF = 0.25 x&nbsp;AD + 0.75 x EX&nbsp;</span><br style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;" data-mce-style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;"><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;" data-mce-style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;">em que AD é a nota média&nbsp;da avaliação distribuída&nbsp;e EX é a nota do exame.&nbsp;<br>Se um estudante não poder comprecer a um momento de avaliação distribuída,&nbsp;terá uma nota de 0, exceto se enviar ao docente uma justificação válida, até 5 dias após a falta. Nese caso, o momento de avaliação será removido do cálculo da nota final.</span></p>
+
+## Obtenção de frequência
+Realização dos trabalhos de avaliação&nbsp;distribuída e presença num dos exames finais.
+
+## Melhoria de classificação
+<p>Cada estudante poderá optar por realizar o exame de recurso para melhorar apenas a classificação do exame de época normal, mantendo a classificação de avaliaçáo distribuída, ou melhorar&nbsp;todas&nbsp; as classificações, permitindo então que a classificação final seja a do exame de recurso.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Instrumentation and Process Control
+
+## Curso responsável
+Bachelor in Bioengineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>The fundamental objective of this course is to develop competences on modeling, analysys and design of automatic control systems for physical/chemical/biological processes. As a complement, it is exepected that the students will gain basic knowledge on instrumentation associated to automatic control -&nbsp; sensors, &nbsp;controllers, and final control elements - and on concpets of industrial automation.</p>
+
+## Resultados de aprendizagem e competências
+<p>A student, after successfully concluding this course, should be able to:</p><ul><li>Design and tune classic controllers according to given performance criteria.</li><li>Design and tune some advanced control strategies, performing a critical analysis of their pertinence.</li><li>Identify the main instrumentation used in process control of&nbsp;physical/chemical/biological processes.</li><li>Recognize the different types of idustrial communications and levels of industrial automation.</li></ul>
+
+## Programa
+<p>The main topics in this course are:</p><ol><li>Review of transfer function concept.</li><li>Closed loop control (feedback).</li><li>Dynamic behavior of closed loop control. Stability analysis.</li><li>Controler tuning; criteria and methods.</li><li>Controller design based on internal model control.</li><li>Feedforward control based on dynamic and steady state models.</li><li>Ratio control.</li><li>Advanced control startegies: cascade control, time delay compensation control and split-range control.</li><li>Representation of control systems using P&amp;I diagrams.</li><li>Industrial instrumentations for process control: sensores and transmiters, controllers, final control elements.&nbsp;</li><li>Industrial automation.</li></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;" data-mce-style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;">Teaching will be based on presential classes for presentation and discussion of concepts and study cases. Software tools will be used for computer-based learning. Pratical exercises will take place using real PID control systems.</span></p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Teste: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 hours
+
+## Fórmula de cálculo da classificação final
+<pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot; dir=&quot;ltr&quot; data-placeholder=&quot;Translation&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>The final classification, CF, is given by:<br />CF = 0.25 x AD + 0.75 x EX<br />where AD is the average score of the evaluation tests along the semester and EX is the exam score.<br /><br></span></pre>
+
+## Obtenção de frequência
+Do the works or tests along the semester and be present at one of the final exams.
+
+## Melhoria de classificação
+<p>Each student may choose between doing the second exam ("recurso") in order to improve only the grade of the first exam, keeping the grade for the&nbsp;distributed evaluation, ou improve&nbsp;all grades, so that the final grade will be that of the second exam.</p>
+

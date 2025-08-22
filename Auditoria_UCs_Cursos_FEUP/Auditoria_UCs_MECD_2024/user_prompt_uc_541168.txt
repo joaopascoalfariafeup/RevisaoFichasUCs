@@ -1,0 +1,133 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Visualização e Preparação de Dados
+
+## Curso responsável
+Mestrado em Engenharia e Ciência de Dados
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Esta unidade curricular tem dois objetivos principais, preparar os estudantes para: <br /><br />(i) utilizar os princípios e técnicas pré-processamento e preparação de dados de forma a obter um conjunto de dados com qualidade para ser analisado, que permita obter resultados com qualidade <br /><br />(ii) e utilizar métodos de representação visual de dados que permitam melhorar a compreensão de dados complexos.</p>
+
+## Resultados de aprendizagem e competências
+<p>No final da unidade curricular os estudantes deverão ser capazes de:</p>
+<p>- aplicar técnicas pré-processamento para melhorar a qualidade de um conjunto de dados;</p>
+<p>- desenhar visualizações de dados efetivas que permitam apreender a informação de um conjunto de dados;</p>
+<p>- utilizar as ferramentas R, ggplot2 e tableau para a preparação e visualização de dados.</p>
+
+## Programa
+<p>Pré-processamento de dados: Tipos de dados; Integração de dados; Discretização de variáveis contínuas; Tratamento de Outliers; Tratamento de Missing values; Técnicas de redução de dados, de seleção de atributos e de criação de novas variáveis; Amostragem.</p>
+<p>Visualização de dados: Fundamentos de visualização de dados; Perceção na visualização de dados; Utilização da Cor; Codificação visual de variáveis discretas e contínuas; A gramática para construção de gráficos; Visualização Interativa.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A lecionação desta unidade curricular baseia-se nas seguintes atividades complementares de ensino e aprendizagem, e correspondente avaliação:</p>
+<p>- A exposição de noções teóricas feita nas aulas deverá ser apreendida pelos estudantes através de atividades de estudo e conceptualização.</p>
+<p>- A exposição de casos e respetivas resoluções realizadas nas aulas deverá ser objeto de estudo, conceptualização e experimentação com novos problemas por parte dos estudantes.</p>
+<p>- A apresentação nas aulas dos métodos disponíveis em pacotes do R para preparação de dados, da ferramenta Tableau para análise exploratória de dados e da linguagem ggplot2 para criação de novas formas de visualização, deverá conduzir à exploração e experimentação autónoma pelos estudantes.</p>
+<p>- Realização de um projeto em grupo com o objetivo de possibilitar a experiência prática de conceber e implementar uma solução para um problema concreto de visualização</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 55.0 %
+- Trabalho escrito: 45.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 40.0 horas
+- Elaboração de relatório/dissertação/tese: 0.0 horas
+- Estudo autónomo: 70.0 horas
+- Frequência das aulas: 40.0 horas
+- Trabalho de investigação: 12.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>P1: Projecto ggplot2 (45%) <strong>(É necessária uma nota mínima de 10 em 20)</strong></p>
+<p>P2: Mini-teste (55%) <strong>(É necessária uma nota mínima de 8 em 20)</strong></p>
+<p> </p>
+<p>Nota Final: 0.45 x P1 + 0.55 x P2</p>
+
+## Obtenção de frequência
+<p>É necessário obter as classificações mínimas indicadas para ter frequência na disciplina e não exceder o número limite de faltas (cf. definição de frequência, &#8220;Normas Gerais de Avaliação&#8221;, Conselho Pedagógico da FEUP).</p>
+<p>As provas escritas serão sem consulta, sendo fornecidas as principais fórmulas eventualmente necessárias.</p>
+<p>A avaliação terá também em conta a apresentação, correção e qualidade do português utilizado.</p>
+
+## Melhoria de classificação
+<p>A componente de avaliação P2 (Mini-teste) poderá ser melhorada na época de exames.  A componente P1 (projeto) poderá ser melhorada mediante inscrição na disciplina no ano seguinte.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Data Preparation and Visualization
+
+## Curso responsável
+Master in Data Science and Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>This curricular unit has two main objectives, prepare students to: <br /><br />(i) use the principles and techniques for pre-processing and prepare a data in order to obtain a dataset with quality to be analyzed, in order to obtain results with quality <br /><br />(ii) and to use methods for visual representation of data that improves understanding and gain new insights on complex data.</p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of the course unit students should be able to:</p>
+<p>- apply pre-processing techniques to improve the quality of a data set;</p>
+<p>- design effective data visualizations that allow you to capture information from a data set;</p>
+<p>- use the R, ggplot2 and tableau tools for data preparation and visualization.</p>
+
+## Programa
+<p>Data Pre-processing: Data types; Data integration; Discretization of continuous variables; Treatment of Outliers; Treatment of Missing values; Data reduction, feature selection and feature engineering. Sampling.</p>
+<p>Data visualization: Fundamentals of data visualization; Perception in data visualization; Color Usage; Visual encoding of discrete and continuous variables; The Grammar of Graphics; Interactive Visualization.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The curricular unit is based on the following complementary activities that involve teaching and learning, and associated assessment:</p>
+<p>- The theoretical concepts taught during theoretical classes should be learnt by study activities and conceptualization.</p>
+<p>- Students should study test cases and solutions presented by lecturers in classes, and practice with new problems.</p>
+<p>- The presentation in the classes of: methods available in R packages for data preparation; the Tableau tool for exploratory data analysis and the ggplot2 language for creating new ways for visualizing data, should lead to autonomous exploration and experimentation by students.</p>
+<p>- Realization of a group project with the objective of providing the practical experience of designing and implementing a solution to a concrete visualization problem</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 55.0 %
+- Trabalho escrito: 45.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 40.0 hours
+- Elaboração de relatório/dissertação/tese: 0.0 hours
+- Estudo autónomo: 70.0 hours
+- Frequência das aulas: 40.0 hours
+- Trabalho de investigação: 12.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>P1: Project with ggplot2 (45%) <strong>(A minimum mark of 10 out of 20 is required)</strong></p>
+<p>P2: Mini-test (55%) <strong>(A minimum mark of 8 out of 20 is required)</strong></p>
+<p> </p>
+<p>Final Mark: 0.45 x P1 + 0.55 x P2</p>
+
+## Obtenção de frequência
+<p>Students can only complete this course if they achieve a minimum grade indicated and if they do not exceed the limit for absences to classes according to the General Evaluation Rules of FEUP.</p>
+<p>The tests will be closed book (the most important formulas will be provided if needed).</p>
+<p>The evaluation will also take into account the presentation, correction and quality of the language used.</p>
+
+## Melhoria de classificação
+<p>Students may improve the mark of the component P1 (project) in the following academic year.</p>
+<p>Students may improve the mark of the component P2 (Mini-test) in the exam season.</p>
+

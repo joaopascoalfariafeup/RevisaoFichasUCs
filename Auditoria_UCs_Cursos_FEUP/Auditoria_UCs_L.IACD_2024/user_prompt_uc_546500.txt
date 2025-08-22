@@ -1,0 +1,118 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Inteligência Artificial
+
+## Curso responsável
+Licenciatura em Ciência de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>Objectivos: Estudo dos conceitos fundamentais e técnicas de uso mais generalizado da Inteligência Artificial. <br /> <br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p>Competências: <br />- capacidade para escolha criteriosa de técnicas de Inteligência Artificial para uso em aplicações concretas, <br />- capacidade para implementar aplicações com base nessas técnicas.</p>
+
+## Pré-requisitos e co-requisitos
+É fortemente recomendado que o estudante tenha cursado pelo menos a disciplina de Estruturas de Dados.
+
+## Programa
+<p>1. Técnicas de procura: árvores e grafos, algoritmos de procura em profundidade, em largura, aprofundamento iterativo. Algoritmos de busca informada: busca gulosa, A* e A* com limitação de memória. Heurísticas. Algoritmos de melhoramento iterativo: subida mais rápida (hill-climbing e random-restart hill-climbing), arrefecimento simulado (``simulated annealing''). Problemas de Satisfação de restrições: consistência de arcos (arc-consistency). Algoritmos para jogos: minimax e corte alfa-beta; e MCTS. <br /> <br />2. Sistemas baseados em conhecimento: manipulação e representação de conhecimentos, lógica proposicional e de primeira ordem, cálculo de situações. Inferência em lógica de primeira ordem: "backward chaining" e "forward chaining", resolução por refutação. Sistemas dedutivos. <br /><br />3. Geração de Planos e Robótica Inteligente. Algoritmos POP.<br /> <br />4. Aprendizagem de máquina: sistemas indutivos. Árvores de decisão, ganho de informação. Raciocínio probabilístico. Redes de crenças. Aprendizagem de redes de crenças. Modelos de Markov ocultos.<br /> <br />5. Modelos de inspiração biológica: redes neuronais e algoritmos genéticos.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teóricas e teórico-práticas expositivas.<br />Aulas práticas no laboratório.<br />Trabalhos práticos no laboratório.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Trabalho prático ou de projeto: 30.0 %
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 15.0 horas
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 48.0 horas
+- Trabalho escrito: 11.0 horas
+- Trabalho laboratorial: 28.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A nota final será dada por:<br /><br />F = 0.7*E + 0.3*P<br /><br />F: nota final<br />E: Exame<br />P:Trabalhos práticos<br /><br />Existem 2 trabalhos práticos. Cada um vale 3 valores.<br />Para serem aprovados, os alunos devem ter nota superior a 1,2 valores em cada trabalho prático.<br />Para serem aprovados, os alunos devem ter nota superior a 8 valores no exame.</p>
+
+## Obtenção de frequência
+<p>Todos os estudantes podem ir à exame. Há nota mínima em cada parte da avaliação (ver no cálculo da avaliação final).</p>
+
+## Melhoria de classificação
+No exame final (época normal) ou no exame de recurso.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Artificial Intelligence
+
+## Curso responsável
+Bachelor in Computer Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p><span id="result_box" lang="en"><span class="hps">Objectives</span>: <span class="hps">Study</span> <span class="hps">fundamental</span> <span class="hps">concepts and techniques</span> <span class="hps">of</span> <span class="hps">general</span><span class="hps"> use</span> <span class="hps">for Artificial Intelligence</span>.</span></p>
+
+## Resultados de aprendizagem e competências
+<p><span id="result_box" lang="en"><span class="hps">skills:</span> <br /><span class="hps">-</span> <span class="hps">Capacity</span> <span class="hps">for</span> <span class="hps">judicious</span> <span class="hps">choice of</span> <span class="hps">Artificial Intelligence techniques</span> <span class="hps">for use in</span> <span class="hps">concrete applications</span>, <br /><span class="hps">-</span> <span class="hps">Ability</span> <span class="hps">to deploy applications</span> <span class="hps">based on these</span> <span class="hps">techniques</span>.</span></p>
+
+## Pré-requisitos e co-requisitos
+It is strongly recommended that the student has attended at least the Data Structures discipline.
+
+## Programa
+<p><span id="result_box" lang="en"><span title="1.">1. </span><span title="Técnicas de procura: árvores e grafos, algoritmos de procura em profundidade, em largura, aprofundamento iterativo.">Search techniques : trees and graphs, search algorithms: depth-first , breadth-first, iterative deepening. </span><span title="Algoritmos de busca informada: busca gulosa, A* e A* com limitação de memória.">Informed search algorithms: greedy search, A* and A* with limited memory. </span><span title="Heurísticas.">Heuristics. </span><span title="Algoritmos de melhoramento iterativo: subida mais rápida (hill-climbing e random-restart hill-climbing), arrefecimento simulado (&#96;&#96;simulated annealing'').">Iterative improvement algorithms: hill-climbing and random -restart hill-climbing, simulated annealing. </span><span title="Problemas de Satisfação de restrições: consistência de arcos (arc-consistency)."><span id="result_box" lang="en"><span title="Problemas de Satisfação de restrições: consistência de arcos (arc-consistency).">Constraint</span></span> Satisfaction <span id="result_box" lang="en"><span title="Problemas de Satisfação de restrições: consistência de arcos (arc-consistency).">Problems</span></span>: arc-consistency methods.</span><span title="Métodos de forward checking e lookahead."> </span><span title="Algoritmos para jogos: minimax e corte alfa-beta.
+
+">Adversarial search: minimax and alpha -beta cut, and MCTS.<br /><br /></span><span title="2.">2 . </span><span title="Sistemas baseados em conhecimento: manipulação e representação de conhecimentos, lógica proposicional e de primeira ordem, cálculo de situações.">Knowledge-based systems: representation and manipulation of knowledge, propositional and first order logic, situation calculus. </span><span title="Inferência em lógica de primeira ordem: ">Inference in first order logic: backward chaining and forward chaining, resolution, refutation. </span><span title="Sistemas dedutivos.
+
+">Deductive systems.<br /><br />3. Planning and Intelligent Robotics. POP algorithms.<br /><br /></span><span title="3.">4 . </span><span title="Aprendizagem de máquina: sistemas indutivos.">Machine learning: inductive systems. </span><span title="Árvores de decisão, ganho de informação.">Decision trees, information gain. </span><span title="Análise de dados.
+
+">Probabilistic reasoning. Belief networks. Learning belief networks. Hidden Markov models.<br /><br /></span><span title="4.">5 . </span><span title="Modelos de inspiração biológica: redes neuronais e algoritmos genéticos.">Biologically inspired models: neural networks and genetic algorithms.</span></span></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical and theoretical-practical lectures.<br />Practical classes in the lab.<br />Practical assignments in the lab.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Trabalho prático ou de projeto: 30.0 %
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 15.0 hours
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 48.0 hours
+- Trabalho escrito: 11.0 hours
+- Trabalho laboratorial: 28.0 hours
+
+## Fórmula de cálculo da classificação final
+The final grade will be given by:<br /><br />F = 0.7*E + 0.3*P<br /><br />F: final grade<br />E: Exam<br />Q: Practical work<br /><br />There are 2 practical assignments. Each one is worth 3 values.<br />To be approved, students must have a grade higher than 1.2 in each practical work.<br />To be approved, students must have a score higher than 8 points in the exam.
+
+## Obtenção de frequência
+All students can attend the final exam. The student needs to achieve minimum score in each part (for more information, please, see the calculation used for the final evaluation).
+
+## Melhoria de classificação
+Final examination (regular season) or appeal season (Recurso).
+

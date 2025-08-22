@@ -1,0 +1,99 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise Matemática I
+
+## Curso responsável
+Licenciatura em Engenharia Aeroespacial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<ol><br /><li>Saber as regras da derivação e calcular diferenciais de funções de uma variável.</li><br /><li>Saber os conceitos fundamentais de integrais indefinidos</li><br /><li>Usar os Teoremas Fundamentais do Cálculo como elo entre integral definido, integral indefinido e primitiva.</li><br /><li>Calcular integrais por substituição e por partes.</li><br /><li>Calcular primitivas de frações racionais algébricas e expressões racionais trigonométricas.</li><br /><li>Calcular primitivas de expressões irracionais por substituição trigonométrica.</li><br /><li>Calcular áreas em coordenadas cartesianas e polares.</li><br /><li>Calcular volumes por integração.</li><br /><li>Calcular integrais impróprios.</li><br /><li>Analisar a convergência de séries numéricas.</li><br /><li>Obter a aproximação polinomial de funções reais de variável real pelos Polinómios de Taylor c/ noção do erro cometido.</li><br /><li>Construir as séries de Taylor a partir do polinómio respetivo.</li><br /><li>Resolver equações diferenciais de primeira ordem.</li><br /></ol>
+
+## Resultados de aprendizagem e competências
+1) Aplicar corretamente técnicas matemáticas incluídas no programa da UC.<br />2) Selecionar ferramentas matemáticas apropriadas para a resolução de problemas propostos.<br />3) Expor com clareza raciocínios e técnicas envolvidas na resolução dos problemas.<br />4) Analisar e criticar resultados obtidos na resolução dos problemas. CDIO: 1.1, 2.4
+
+## Programa
+<ol><br /><li>Cálculo diferencial em R: Definição de derivada, regras de derivação da função composta e da função inversa. Aplicações. Teorema dos Acréscimos Finitos (Lagrange). Diferenciais de funções de uma variável. Regras de cálculo. Aproximação Polinomial. Polinómios de Taylor e fórmula de Taylor com resto; aplicações. Série de Taylor como limite dos polinómios de Taylor. Séries numéricas: propriedades das séries, critérios de convergência, séries alternadas. Breve referência às séries de funções. Intervalo de convergência.</li><br /><li>Integral de Riemann em R, sua definição para funções reais de variável real e propriedades. Teoremas do valor médio para integrais. Teoremas Fundamentais do Cálculo. Conceito de Primitiva. Primitivação por substituição e por partes. Aplicações do integral ao cálculo de áreas em coordenadas cartesianas e polares e ao cálculo de volumes. Primitivação de frações racionais algébricas. Primitivação de expressões racionais trigonométricas.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+Aulas apoiadas em diapositivos do conteúdo. Exemplos por tópico. Nas TPs os estudantes resolvem exercícios propostos. Carga semanal: 4,5h (T:3h +TP:1,5h); Horas totais:58,5h; Estudo:65 h; Preparação p/  Atendimento: horário a indicar.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 103.5 horas
+- Frequência das aulas: 58.5 horas
+
+## Fórmula de cálculo da classificação final
+<p>Classificação final (CF): (T1+T2)/2 desde que T1>=6 e T2>=6 ou CF=EF ou CF=ER</p>
+
+## Obtenção de frequência
+1º teste (T1), obrigatório, com peso de 50% na nota final; 2º teste (T2) exclusivo para estudantes c/ nota T1&gt;=6 val, só inclui a matéria posterior a T1, com peso de 50%; exame final (EF) toda a matéria, simultâneo c/ T2, obrigatório p/ estudantes c/ &lt; 6 val. em T1; qualquer estudante pode optar por EF. Exame recurso (ER) sobre toda a matéria, para estudantes sem 10 val., T1 ou T2, ou sem média de 10 val. ou no EF. Provas de 2 h.
+
+## Melhoria de classificação
+Exame final sobre toda a matéria cotado para 20 valores (época de recurso)<br /><br /><br /><br /><br /><br />
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Mathematical Analysis I
+
+## Curso responsável
+Bachelor in Aerospace Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<ol><br /><li>Know the rules of derivatives and differentials of functions of a variable.</li><br /><li>Know the fundamental concepts about indefinite integrals</li><br /><li>Use the Fundamental Theorems of Calculus as the link between definite integral, indefinite integral and primitive.</li><br /><li>Calculate integrals by substitution and by parts.</li><br /><li>Calculate primitives of rational algebraic fractions and rational trigonometric expressions.</li><br /><li>Calculate primitives of rational algebraic fractions and rational trigonometric expressions.</li><br /><li>Calculate areas in Cartesian and polar coordinates.</li><br /><li>Calculate volumes by integration.</li><br /><li>Calculate improper integrals.</li><br /><li>Analyze the convergence of the numerical series.</li><br /><li>Obtain the polynomial approximation of real functions with a variable by Taylor Polynomials with the notion of the error.</li><br /><li>Construct the Taylor series from the respective polynomial.</li><br /><li>Solve first order ordinary differential equations.</li><br /></ol>
+
+## Resultados de aprendizagem e competências
+1) Correctly apply the mathematical techniques included in the programme of the CU.<br />2) Select appropriate mathematical tools for the solution of the proposed problems.<br />3) Clearly show the rationale and techniques used to solve the proposed problems.<br />4) Analyse and assess the results obtained in the solution of the problems. CDIO: 1.1, 2.4
+
+## Programa
+<div>Differential Calculus in R: Definition of derivatives, chain rule and derivative of inverse function. Review of fundamentals of differentiation.<br />The mean-value theorem for derivatives. Polynomial approximations to functions: Taylor's polynomials and Taylor's formula with remainder. The Taylor series. Numerical series: properties, convergence criteria, alternating series. Reference of functional series and convergence interval.</div><br /><br />Integral Calculus in R: Riemann sums and the integral: Definition and properties. Mean-value theorem for integrals. Fundamental theorems of calculus. Primitive functions and integration by substitution and by parts. Areas of plane regions by integrals calculation. Polar coordinates and area calculation. Volume calculations by the method of cross sections. Integration by rational partial fractions. Rational trigonometric integrals.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Lectures supported by slides on the content of the course (UC). The presentation of each chapter includes examples of application. In practical classes, exercises are solved.</p>
+Lessons p/ week- 4,5h TP; Scheduled total:58,5h; Study:65h; Exam preparation:38,5h; Class hours.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 103.5 hours
+- Frequência das aulas: 58.5 hours
+
+## Fórmula de cálculo da classificação final
+<p>Final grade (CF): (Tl+T2)/2 if T1>=6 and T2>=6 or CF=EF or CF=ER</p>
+
+## Obtenção de frequência
+1st test (T1), mandatory and weighting 50% final grade and UC content; 2nd test (T2) only for students with grade T1>=6 (20), weighting 50%;<br />Final Exam (FE) on whole content, simultaneously with T2, mandatory for students with T1<6 (20); Recursive Exam (ER) on whole content, for students without minimum grade in T1 or T2, or without averaging 10 values in both tests or in EF.<br /><br /><br /><br /><br /><br />
+
+## Melhoria de classificação
+<br /><br /><br /><br /><br /><br />
+

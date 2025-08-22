@@ -1,0 +1,121 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Álgebra Linear e Geometria Analítica
+
+## Curso responsável
+Licenciatura em Engenharia Informática e Computação
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Esta unidade tem dois objetivos fundamentais: por um lado, tratando-se de uma disciplina propedêutica tem um carácter didático/científico, promovendo o desenvolvimento do raciocínio lógico e de métodos de análise e, por outro, visa introduzir e desenvolver em termos teóricos um conjunto de conceitos que serão ferramentas essenciais para apoio às disciplinas mais específicas da Engenharia. </p>
+
+## Resultados de aprendizagem e competências
+<p>A unidade visa desenvolver ferramentas matemáticas usadas em Engenharia.</p>
+<p>O estudante deverá dominar conceitos de cálculo vetorial em R^n, especialmente R^2 e R^3. Deve ser capaz de usar propriedades de matrizes, determinantes, espaços vetoriais e aplicações lineares.</p>
+<p>Em particular, o estudante deve ser capaz de:</p>
+<p>- reconhecer espaços e subespaços vetoriais reais, determinar suas bases, calcular sua dimensão e coordenadas de vetores numa base;</p>
+<p>- reconhecer aplicações lineares e as suas principais propriedades;</p>
+<p>- efetuar operações com matrizes e usá-las para resolver sistemas de equações lineares e discuti-los, operar com matrizes associadas a aplicações lineares, determinar vetores e valores próprios, diagonalizar (se possível) uma matriz, e (caso o tempo permita) identificar cônicas e quádricas usando matrizes e valores próprios;</p>
+<p>- calcular determinantes, aplicar as suas propriedades e sua interpretação em termos de áreas e volumes.</p>
+<p> </p>
+
+## Programa
+Matrizes: operac&#807;o&#771;es com matrizes; determinante de uma matriz quadrada.<br /><br />Sistemas de equac&#807;o&#771;es lineares reais e matrizes: Método de Gaus; Regra de Cramer.  <span style=&quot;background-color: #3598db;&quot;><br /></span><br />O espac&#807;o euclidiano R^n: independência linear, base, dimensa&#771;o e coordenadas. Produto vetorial e produto misto em R^3. Aplicações a sistemas de equações lineares, retas e planos. Interpretação geométrica do determinante de matrizes quadradas de ordens 2x2 e 3x3.<br /><br />Aplicac&#807;o&#771;es lineares em R^n. Bases e matrizes de mudanc&#807;a de bases.<br /><br />Vetores pro&#769;prios e valores pro&#769;prios de um endomorfismo linear e de uma matriz; endomorfismo linear e matriz diagonaliza&#769;vel; matrizes sime&#769;tricas.<br /><br />(Opcional, caso haja tempo) Teorema espectral para matrizes simétricas e sua aplicação na identificação de cónicas e quádricas.<br /><br /><p><br /><br /><br /></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As horas de contato estão distribuídas em aulas teóricas e teórico-práticas. Nas primeiras são apresentados os conteúdos do programa, recorrendo-se a exemplos para ilustrar os conceitos tratados e orientar os estudantes. Nas aulas teórico-práticas são resolvidos exercícios e problemas, previamente indicados. São disponibilizados materiais de apoio na página da disciplina. Para além das aulas, há períodos de atendimento semanais onde os estudantes têm oportunidade de esclarecer dúvidas.</p>
+<p>A avaliação será distribuída sem exame final. A avaliação distribuída consistirá na realização de dois testes escritos. <br /><br /></p>
+<p><br /><br /></p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 82.5 horas
+- Frequência das aulas: 39.0 horas
+
+## Fórmula de cálculo da classificação final
+<p> </p>
+<p>(i) Serão realizados dois testes, cada um valendo 10 valores, sendo que a classificação final será obtida através da soma das respetivas classificações.<br /><br />(ii) Qualquer estudante pode optar por não participar na avaliação contínua e obter a sua nota final realizando o exame de recurso.<br /><br />(iii) Os estudantes podem realizar o exame de recurso tanto para passar à disciplina como para melhorar a classificação. O exame de recurso consiste em duas partes independentes: a Parte I corresponde ao primeiro teste, e a Parte II ao segundo. Os estudantes que pretendam aprovação podem optar por realizar ambas as partes ou apenas uma, mantendo a classificação da outra parte.<br /><br />(iv) A nota final será a soma das classificações obtidas.</p>
+<p><br /><br /> </p>
+
+## Obtenção de frequência
+<p>Não é exigida nenhuma condição para obtenção de frequência.</p>
+
+## Melhoria de classificação
+<p style="font-weight: 400;">Os estudantes que pretendam melhorar a sua classificação devem realizar ambas as partes do exame de recurso.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Linear Algebra and Analytical Geometry
+
+## Curso responsável
+Bachelor in Informatics and Computing Engineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>This course has two main objectives: the promotion of logical reasoning and methods of analysis and the introduction and theoretical development of a set of concepts that will be fundamental to support the study of other disciplines along this course of studies.</p>
+
+## Resultados de aprendizagem e competências
+<p>The course aims developing mathematical tools used in Engineering.</p>
+<p>The student should master the main concepts of vector algebra in R^n, with special emphasis on R^2 and R^3. Students must be able to use the main properties of the concepts of matrix, determinant, vector space and linear map.</p>
+<p>In particular, the student should be able to:</p>
+<p>- recognize real vector spaces and subspaces, determine their bases, compute their dimension and coordinates of vectors on a basis;</p>
+<p>- recognize linear maps, and their main properties;<br /><br /></p>
+<p>- work with matrix operations and use them to solve systems of linear equations and to discuss them, operate with matrices associated with linear maps; determine eigenvectors and eigenvalues, diagonalize a matrix (if possible), and if time permits, identify conics and quadrics using matrices and eigenvalues;</p>
+<p>- compute determinants, apply their properties and their geometric interpretation as area and volume.</p>
+
+## Programa
+<p>Matrices: matrix operations; determinant of a square matrix.<br /><br />Systems of real linear equations and matrices: Gauss Method; Cramer Rule.</p>
+<p><br />The Euclidian space R^n: linear independence, basis, dimension, coordinates. Cross product and scalar triplet product. Applications to systems of real linear equations, lines and planes. Geometric interpretation of 2x2 and 3x3 matrices determinant.</p>
+<p>Linear maps in R^n. Basis and change of bases matrices.</p>
+<p>Eigenvectors and eigenvalues of a linear endomorphism and of a matrix; diagonalizable linear endomorphism and matrix; symmetric matrices.</p>
+(Optional, if time permits) Spectral Theorem for symmetric matrices and its application to identify conics and quadrics.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Lectures and example classes: The contents of the syllabus are presented in the lectures, where examples are given to illustrate the concepts. There are also practical lessons, giving the solution to previously indicated exercises and problems. All resources are available for students at the unit&#8217;s web page. The lecturer(s) have weekly office hours for discussion of difficulties with students.</p>
+<p>Evaluation: continuous evaluation without final exam. The continuous evaluation will include two written tests.</p>
+<p><br /><br /><br /></p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 82.5 hours
+- Frequência das aulas: 39.0 hours
+
+## Fórmula de cálculo da classificação final
+<div><br /><p>(i) Two tests will be conducted during the semester, each worth 10 points, with the final grade determined by the sum of the scores.</p><br /></div><br /><div><br /><p>(ii) Any student may choose not to participate in the continuous assessment and obtain their final grade by taking the exam during the Resit Period.</p><br /></div><br /><div><br /><p>(iii) Students can take the Resit Period exam either to pass the course or to improve their grade. The Resit Period exam consists of two independent sections: Part I corresponds to the first test, and Part II to the second. Students aiming for approval may choose to take both parts or only one, while keeping the score of the other part.</p><br /></div><br />(iv) The final grade will be the sum of the obtained scores.<br /><br /><p><br /><br /></p>
+
+## Obtenção de frequência
+<p>No condition is required to obtain frequency.</p>
+
+## Melhoria de classificação
+<p style="font-weight: 400;">Students aiming to improve their grade must take both parts of the resit exam.</p>
+

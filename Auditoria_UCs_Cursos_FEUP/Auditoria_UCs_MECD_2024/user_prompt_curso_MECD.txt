@@ -1,0 +1,327 @@
+# Curso a analisar
+Mestrado em Engenharia e Ciência de Dados
+
+## Descrição
+Acreditação
+O ciclo de estudo encontra-se acreditado pela Agência de Avaliação e Acreditação do Ensino Superior (A3ES). Mais informação pode ser encontrada nos
+relatórios produzidos pela A3ES
+.
+O MECD visa oferecer uma formação científica e profissional avançada em
+Engenharia e Ciência de Dados
+. O curso é direcionado tanto para profissionais que desejam atualizar suas competências quanto para aqueles que buscam adquirir novos conhecimentos e competências em áreas atuais da
+Engenharia e  Ciência de Dados
+.
+Objetivos
+O objetivo do MECD é promover a excelência na formação em aspectos avançados e essenciais da
+Engenharia e Ciência de Dados
+(ECD), desde os fundamentos teóricos até a aplicação prática de tecnologias informáticas nas organizações. Os estudantes aprenderão a:
+Trabalhar de forma eficaz em equipes de projeto como
+engenheiros
+e
+cientistas de dados
+, desenvolvendo soluções de alta qualidade;
+Projetar soluções de
+ECD
+que atendam a restrições éticas, sociais, legais, tecnológicas e econômicas;
+Aprender e aplicar novos modelos, técnicas e tecnologias de
+desenvolvimento
+de
+ECD
+;
+Analisar criticamente os pontos fortes e fracos das tecnologias de
+desenvolvimento
+de
+ECD
+, impulsionando mudanças nas organizações;
+Liderar projetos na área de
+ECD
+, promovendo inovação e eficiência;
+Compreender e valorizar a análise de viabilidade, negociação, práticas de trabalho eficientes, liderança, comunicação e aprendizado contínuo.
+Competências Profissionais
+O
+MECD
+define um conjunto de objetivos de aprendizagem descritos e estruturados com base nos Descritores de Dublin e no referencial
+EUR-ACE
+:
+Conhecer e compreender de forma crítica e aprofundada os princípios, metodologias e técnicas centrais da
+Engenharia e Ciência dos Dados
+(ECD) designadamente as envolvidas em problemas de complexidade e dimensão elevadas;
+Ser capaz de conceber, projetar e implementar soluções e produtos novos e complexos de
+ECD
+usando conhecimento de vanguarda na área;
+Ser capaz de julgar de modo crítico novas soluções tecnológicas e promover a busca e a aplicação de métodos e soluções inovadoras, apelando à curiosidade, criatividade e rigor;
+Ser capaz de comunicar o seu raciocínio técnico e avançado a públicos diversos, de forma oral e escrita, em contextos nacionais e internacionais;;
+Ser capaz de prosseguir a sua formação em
+ECD
+de forma autónoma e ao longo da vida;
+Ser capaz de pesquisar  informação de forma crítica para a resolução de problemas de
+ECD
+complexos.
+Saídas Profissionais
+O currículo do Mestrado em Engenharia e Ciência de Dados (MECD) está fundamentado em problemas do mundo real, com uma forte componente de projetos práticos na área de
+Engenharia e Ciência de Dados
+. O MECD visa formar profissionais altamente especializados, capazes de liderar projetos complexos e de grande escala em
+Engenharia e Ciência de Dados
+, atendendo a elevados padrões de qualidade.
+Informações
+Modo de Funcionamento
+As aulas são presenciais, em Inglês, e têm lugar às sextas-feiras (o dia inteiro) e aos sábados até às 14:00.
+A maioria das unidades curriculares segue um formato modular, ou seja, a sua realização é concentrada em períodos de 3 a 4 semanas. ( see
+Operating Schedule
+)
+Informação sobre o valor das propinas está disponível na seguinte página:
+Valores anuais de propinas 2025/2026 - Mestrados
+Contactos
+Secretariado da MECD
+E-mail:
+mecd@fe.up.pt
+Localização:
+Faculdade de Engenharia da Universidade do Porto
+Sala I 012A
+Departamento de Engenharia Informática
+Rua Dr. Roberto Frias, s/n
+4200-465 Porto, Portugal
+Horário de atendimento:
+Segunda a sexta | 10h00 - 12h00 / 14h30 - 16h30
+Telefone:
++351 22 5082134| +351 22 0413905
+Contactos
+mecd@fe.up.pt
+
+# Unidade curricular: Visão por Computador
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p>A visão por computador aborda a extração de informação útil de imagens e vídeos. Exemplos incluem, por exemplo, a deteção e identificação de faces ou de gestos humanos, o seguimento de pessoas ou de veículos numa sequência de vídeo. Os algoritmos da visão por computador têm imensas aplicações em muitas áreas, desde a industrial, militar e médica. Esta UC é uma introdução aos conceitos e métodos da visão por computador. Os estudantes que concluírem esta UC com sucesso deverão:</p>
+<p>-compreender e serem capazes de explicar os conceitos da visão por computador e os algoritmos fundamentais de manipulação de imagens e sequências de vídeo;</p>
+<p>-conhecer e serem capazes de aplicar esses algoritmos em situações práticas;</p>
+<p>-adquirir conhecimentos que lhes permitam usar uma biblioteca, como a OpenCV, que implementa alguns dos algoritmos estudados, e implementar novos algoritmos descritos na literatura;</p>
+-ser capazes de analisar e compreender artigos científicos selecionados nas áreas de visão por computador.
+
+## Resultados de aprendizagem: <p>As metodologias de ensino e de aprendizagem visam o desenvolvimento integrado nos estudantes dos conhecimentos referidos nos conteúdos programáticos e a concretização dos objetivos e competências estabelecidos. A diversidade de metodologias propostas tem por objetivo potenciar as capacidades e competências estabelecidas, procurando evidenciar diferentes níveis de análise, fomentando a integração de saberes. Os métodos e estratégias propostos pretendem desenvolver nos estudantes conhecimentos, compreensão e competências ao nível das técnicas de visão computacional.</p>
+<p>As competências genéricas de trabalho em equipa, organização, etc. irão ser trabalhadas no projeto em grupo.</p>
+<p>De igual forma, as capacidades de desenvolver sistemas de visão computacional de acordo com as necessidades existentes e aplicar as ferramentas tecnológicas mais apropriadas, conhecer, aplicar e avaliar modelos avançados de visão computacional irão ser trabalhadas nos exercícios semanais e projeto de grupo.</p>
+As competências específicas em técnicas de visão computacional irão sendo trabalhadas durante o semestre, nas aulas teórico-práticas.
+
+## Pré-requisitos e co-requisitos: Prática de programação.
+
+# Unidade curricular: Tópicos Avançados de Apoio à Decisão
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: Dotar os alunos de uma visão alargada, mas ao mesmo profunda, dos métodos de otimização por pesquisa em espaços de soluções, que são aplicáveis na resolução de problemas de decisão em múltiplas áreas disciplinares, num enquadramento de apoio à decisão.
+
+## Resultados de aprendizagem: Espera-se desenvolver nos estudantes competências para:<br />- identificar problemas de otimização e abordá-los de uma forma estruturada;<br />- construir modelos de otimização para estes problemas;<br />- definir o nível de abstração mais adequado para modelizar problemas de otimização para uma abordagem algorítmica à sua resolução.<br />- identificar as técnicas algorítmicas mas adequadas para resolver um dado problema de otimização;<br />- usar métodos heurísticos e meta-heurísticos e matheur+isticos para obter soluções para os problemas;<br />. implementar, testar e validar métodos de pesquisa para resolver diferentes classes de problemas de otimização.
+
+# Unidade curricular: Tópicos Avançados de Sistemas Inteligentes
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: Esta unidade curricular tem por objetivo transmitir aos estudantes ferramentas e metodologias necessárias no projeto, simulação e análise de sistemas inteligentes.
+
+## Resultados de aprendizagem: <div class=&quot;page&quot; title=&quot;Page 41&quot;><br /><div class=&quot;section&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;><br /><p>Os estudantes após esta unidade curricular deverão ser capazes de criar e a analizar modelos de sistemas inteligentes, utilizar técnicas de simulação, análise e projeto de sistemas inteligentes que cobrem um vasto número de aplicações tais como sistemas ciber-físicos, económicos, biológicos, sistemas de manufactura e sistemas de redes de computação e de comunicação.</p><br /></div><br /></div><br /></div><br /></div>
+
+# Unidade curricular: Inteligência Artificial
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: <p>Esta unidade curricular apresenta um conjunto de assuntos nucleares para a área da Inteligência Artificial e dos Sistemas Inteligentes.</p>
+<p>Os objetivos principais são:</p>
+<ul>
+<li>Caraterizar e distinguir a Inteligência Artificial (IA) e a sua aplicabilidade.</li>
+</ul>
+<ul>
+<li>Mostrar como Representar, Adquirir, Manipular e Aplicar Conhecimento usando Sistemas e Algoritmos Computacionais.</li>
+</ul>
+<ul>
+<li>Desenvolver projetos simples, mas completos, usando técnicas de IA.</li>
+</ul>
+<p>Distribuição Percentual: Componente científica: 50%; Componente tecnológica: 50%</p>
+
+## Resultados de aprendizagem: <p>Os estudantes que concluírem com sucesso esta UC, deverão ser capazes de:</p>
+<ul>
+<li>Compreender os fundamentos da Inteligência Artificial e dos Sistemas Inteligentes, o que os caracteriza e distingue, qual a sua aplicabilidade e onde os encontramos no nosso quotidiano.</li>
+<li>Compreender a noção de Agente computacional e de Sistema Multi-Agente e ser capazes de projetar e implementar Agentes e Sistemas Multi-Agente para resolver diferentes problemas.</li>
+<li>Aprender métodos e algoritmos heurísticos e sistemáticos de Resolução de Problemas, com e sem Adversários, utilizando o Conhecimento na resolução de problemas complexos.</li>
+<li>Aprender métodos básicos de Representação do Conhecimento e Raciocínio utilizando diferentes formalismos.</li>
+<li>Compreender tópicos avançados em Inteligência Artificial e ser capaz de formular uma visão sobre o futuro da IA e as suas aplicações práticas agora e no futuro.</li>
+</ul>
+
+# Unidade curricular: Fundamentos de Ciência e Engenharia dos Dados
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 12.0
+## Objetivos: <p><span style="font-weight: 400;">Pretende-se garantir que os estudantes tenham os conhecimentos fundamentais para a realização das restantes UCs do CE em quatro áreas de base: Estatística, Processamento de Sinal, Base de Dados e Programação. </span></p>
+<p><span style="font-weight: 400;">Ao nível da Estatística pretende-se que tenham uma visão integrada da área e da sua utilidade, de forma a torná-los utilizadores proficientes da Estatística Descritiva e da Inferência Estatística.</span></p>
+<p><span style="font-weight: 400;">Pretende-se que adquiram conceitos fundamentais, técnicas e ferramentas de análise e projeto na área do Processamento de Sinal. </span></p>
+<p><span style="font-weight: 400;">Ao nível das Bases de Dados devem ser capazes de descrever e analisar os requisitos de um SI, representá-los por um modelo UML e transformá-lo num modelo relacional e usar a linguagem SQL para criar, manipular e interrogar bases de dados.<br /><br />Finalmente, pretende-se que na área da Programação os estudantes adquiram e apliquem conhecimentos sobre programação usando a linguagem Python como ferramenta.<br /></span></p>
+
+## Resultados de aprendizagem: Como objetivos de aprendizagem ao nível da Estatística espera-se que os estudantes tenham uma visão integrada sobre a Estatística e a sua utilidade e sejam utilizadores proficientes da Estatística Descritiva e da Inferência Estatística. Competências a obter através sessões de trabalho onde os conceitos teóricos são demonstrados através da resolução de exercícios e pela realização de um mini-projeto.<br /><br />Adquiram conceitos fundamentais, técnicas e ferramentas de análise e projeto na área do Processamento de Sinal, competências a obter através sessões de trabalho onde os conceitos teóricos são demonstrados através da resolução de exercícios e pela realização de um mini-projeto.<br /><br />Na área das Base de Dados devem ser capazes de descrever e analisar os requisitos de um SI, representá-los por um modelo UML e transformá-lo num modelo relacional e ser capazes de usar a linguagem SQL para criar, manipular e interrogar bases de dados. Competências a obter através sessões de trabalho onde os conceitos teóricos são demonstrados através da resolução de exercícios e pela realização de um mini-projeto.<br /><br />Devem adquirir conhecimentos sobre Programação e ser capazes de desenvolver programas, usando a linguagem Python como ferramenta para resolver problemas de análise de dados. Competências a obter através de sessões de trabalho e pela realização dos mini-projetos anteriores.
+
+# Unidade curricular: Engenharia de Grandes Dados
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: A extração de informação a partir de grandes conjuntos de dados -- chamados &#8220;big data&#8221; -- tem sido o motor de várias empresas grandes e pequenas nos últimos anos e impõe um conjunto de desafios próprios, que esta UC aborda. O objetivo desta UC é dar a conhecer ao estudante os principais paradigmas, desafios, e abordagens de desenvolvimento de sistemas e aplicações big data.
+
+## Resultados de aprendizagem: No final desta unidade curricular, o estudante deverá:<br />1) conseguir distinguir os diferentes conceitos que suportam a computação paralela e distribuída incluindo o processamento de dados; <br />2) compreender as arquiteturas e sistemas de armazenamento e processamento existentes para grandes conjuntos de dados;<br />3) conseguir desenvolver aplicações sobre grandes dados, nomeadamente de pesquisa de dados e de aprendizagem a partir de dados, e caracterizar o seu desempenho;<br />4) conseguir identificar e discutir desafios ao desenvolvimento e uso de aplicações e modelos big data.
+
+## Pré-requisitos e co-requisitos: Programação; aprendizagem de dados.
+
+# Unidade curricular: Visualização e Preparação de Dados
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p>Esta unidade curricular tem dois objetivos principais, preparar os estudantes para: <br /><br />(i) utilizar os princípios e técnicas pré-processamento e preparação de dados de forma a obter um conjunto de dados com qualidade para ser analisado, que permita obter resultados com qualidade <br /><br />(ii) e utilizar métodos de representação visual de dados que permitam melhorar a compreensão de dados complexos.</p>
+
+## Resultados de aprendizagem: <p>No final da unidade curricular os estudantes deverão ser capazes de:</p>
+<p>- aplicar técnicas pré-processamento para melhorar a qualidade de um conjunto de dados;</p>
+<p>- desenhar visualizações de dados efetivas que permitam apreender a informação de um conjunto de dados;</p>
+<p>- utilizar as ferramentas R, ggplot2 e tableau para a preparação e visualização de dados.</p>
+
+# Unidade curricular: Sistemas Analíticos de Apoio à Decisão
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p>O objetivo é introduzir os estudantes a duas das principais ferramentas para a resolução exata de problemas de otimização:</p>
+<ul>
+<li>Programação matemática &#8211; ideal para problemas com decisões contínuas e combinatórias;</li>
+<li>Programação por restrições &#8211; ideal para problemas combinatórios, especialmente quando o espaço de soluções é reduzido.</li>
+</ul>
+
+## Resultados de aprendizagem: <p>Pretende-se que os estudantes adquiram competências que lhes permitam:</p>
+<ul>
+<li>identificar, analisar e estruturar problemas de otimização;</li>
+<li>construir modelos para problemas de otimização;</li>
+<li>obter soluções para problemas de programação linear contínua usando o método simplex e teoria da dualidade;</li>
+<li>analisar a robustez das soluções de problemas de programação linear contínua usando análise de sensibilidade;</li>
+<li>encontrar soluções para problemas de programação mista ou binária usando algoritmos de pesquisa em árvore;</li>
+<li>usar CPLEX através da interface Python para resolver problemas de otimização e para obter informações adicionais sobre as soluções;</li>
+<li>usar o ILOG Solver para resolver problemas combinatórios usando programação com restrições.</li>
+</ul>
+
+# Unidade curricular: Laboratório de Ciência e Engenharia de Dados
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 12.0
+## Objetivos: <p>O objetivo é consolidar as competências adquiridas no 1º ano do mestrado. Este objetivo será atingido através do desenvolvimento, em grupo, de num projeto, no âmbito de uma organização real, e desenvolvido em contacto com colaboradores dessa organização.</p>
+
+## Resultados de aprendizagem: <p>No final da Unidade Curricular os estudantes deverão ser capazes de:</p>
+<ul>
+<li>Identificar problemas de Ciência e Engenharia dos Dados (CED) num contexto real.</li>
+<li>Discutir e explicar algoritmos de CED.</li>
+<li>Configurar e utilizar tecnologias de CED na resolução de problemas realistas.</li>
+<li>Tratar de forma estatisticamente correta os resultados.</li>
+<li>Interpretar os resultados na perspetiva do domínio de aplicação.</li>
+<li>Aplicar, ajustando às especificidades do problema, uma metodologia de CED.</li>
+<li>Desenvolver um projeto de CED no âmbito de um problema real de uma organização.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos: <p>O estudante deve ter concluído com sucesso todas as UC relevantes para o projeto que irá desenvolver.</p>
+
+# Unidade curricular: Tópicos Avançados de Aprendizagem Computacional
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: Capacidade de trabalhar em equipa, organização e planeamento. <br />Capacidade de analisar e sintetizar conhecimento. <br />Capacidade de desenvolver sistemas de aprendizagem computacional de acordo com as necessidades existentes e aplicar as ferramentas tecnológicas mais apropriadas. Conhecer, aplicar e avaliar modelos avançados de aprendizagem computacional.<br />Conhecer técnicas de aprendizagem profunda, com abordagens de treino &#8216;end-to-end&#8217;, e minimizando o uso de dados etiquetados. Resolver aplicações utilizando métodos de autoaprendizagem. Adquirir capacidades de aprendizagem que permitam continuar a estudar de uma forma autónoma.
+
+## Resultados de aprendizagem: Conhecer técnicas de aprendizagem profunda, com abordagens de treino &#8216;end-to-end&#8217;, e minimizando o uso de dados anotados. Resolver aplicações utilizando métodos de autoaprendizagem. Adquirir capacidades de aprendizagem que permitam continuar a estudar de uma forma autónoma.
+
+# Unidade curricular: Tópicos Avançados de Inteligência Artificial
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: O objectivo principal da disciplina é conhecer e adquirir competências sobre a utilização de &quot;Conhecimento do Domínio&quot; na resolução de problemas. A utilização de conhecimento pode ser no desenvolvimento de Sistemas Baseados em Conhecimento (como os Sistemas Periciais) ou para utiização por  algoritmos de Aprendizagem Computacional por via do enriquecimento dos conjuntos de dados.
+
+## Resultados de aprendizagem: No final do curso os estudantes deverão ser proficientes em:<br />- Sistemas Baseados em Conhecimento  <br />- Redes Semânticas e <em>Knowledge Graphs<br />- Conhecer medidas de avaliação de Inteligibilidade/Explicabilidade de modelos gerados por algoritmos de Aprendizagem Computacional</em><br />- Técnicas de enriquecimento de conjuntos de dados<br />- Técnicas de elicitação de conhecimento para &quot;modelos opacos&quot;<br />- Abordagens para análise de dados heterogéneos<br />- Aprendizagem Computacional em ambientes distribuídos<br />- Conhecer e saber utilizar algoritmos multi-relacionais
+
+## Pré-requisitos e co-requisitos: Não são necessários conhecimentos prévios.<br />Conhecimentos de Aprendizagem Computational (Machine Learning) são um bom ponto de partida.
+
+# Unidade curricular: Introdução à Aprendizagem Computacional e Extração de Conhecimento
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p><strong>Enquadramento: <br /></strong>Após uma época em que as diferentes empresas/instituições muito investiram na recolha de dados no âmbito da informatização das suas operações (por ex.: sensores, sistemas GPS), e em que muitas e variadas novas fontes de dados surgiram (por ex.: redes sociais), existe agora a necessidade de pôr esses dados ao serviço dessas empresas/instituições. O objetivo é ser capaz de extrair conhecimento desses dados de modo a melhorar a eficiência e ganhar vantagem competitiva. É desta necessidade que surge a Unidade Curricular de Introdução à Aprendizagem Computacional e Extração de Conhecimento (IACE).</p>
+<p> </p>
+<p><strong>Objetivos:<br /></strong>O estudante deve ser capaz de: (1) Utilizar adequadamente estatística descritiva para descrição de dados; (2) Saber descrever as diferentes fases do processo de descoberta de conhecimento CRISP; (3) Saber utilizar e analisar os resultados de alguns dos principais métodos de classificação e de regressão; (4) Saber utilizar e interpretar métodos de análise de aglomerados; (5) Saber utilizar e interpretar métodos de regras de associação; (6) Saber desenvolver um problema de Aprendizagem Computacional e Extração de Conhecimento de acordo com a metodologia CRISP-DM.</p>
+
+## Resultados de aprendizagem: <p><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;">Como resultado da aprendizagem, pretende-se que os estudantes:</span></p>
+<ul>
+<li>Conheçam os vários tipos de tarefas de aprendizagem computacional e de extração de conhecimento (AC&amp;EC).</li>
+<li>Identifiquem problemas de apoio à decisão que possam ser representados como tarefas de AC&amp;EC.</li>
+<li>Conheçam as fases de um projecto de AC&amp;EC.</li>
+<li>Conheçam os principais métodos/algoritmos para cada tipo de tarefa de AC&amp;EC e compreendam o essencial do seu funcionamento.</li>
+<li>Apliquem esses métodos a problemas de apoio à decisão.</li>
+<li>Avaliem os resultados de um projeto de AC&amp;EC.</li>
+</ul>
+<p><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;"> </span></p>
+
+## Pré-requisitos e co-requisitos: Não há pré-requisitos nem co-requisitos a considerar.
+
+# Unidade curricular: Dissertação
+
+## Ano: 2
+## Semestre: 2
+## ECTS: 30.0
+## Objetivos: Trabalho individual de investigação e desenvolvimento, conducente à elaboração de uma dissertação de natureza científica sobre um tema da área de conhecimento do curso, ou visando a integração e aplicação à resolução de problemas complexos de engenharia de conhecimentos, competências e atitudes adquiridos ao longo do curso.<br />    Pode ser um trabalho de investigação ou de desenvolvimento tecnológico e aplicação, envolvendo meios experimentais e/ou de simulação, que promova o desenvolvimento de capacidades de iniciativa, de decisão, de inovação, de pensamento criativo e crítico, num contexto de trabalho individual ou em grupo.<br />    Deve envolver a análise de situações novas, a recolha de informação pertinente, o desenvolvimento e selecção ou concepção das metodologias de abordagem e dos instrumentos de resolução do problema proposto, a sua resolução, o exercício de síntese e elaboração de conclusões, e a preparação de uma dissertação pertinente sujeita a apresentação pública e discussão dos resultados.<br />    Pode ser realizado em ambiente académico ou académico e empresarial. Neste caso os objectivos, natureza e forma de acompanhamento do trabalho devem ser objecto de acordo prévio entre o estudante e os orientadores por parte da Faculdade e da empresa, validado pelo Director do Curso, que garanta a satisfação dos objectivos de natureza científica e pedagógica da unidade curricular, e proteja eventuais questões de confidencialidade por parte da empresa/instituição de acolhimento.
+
+## Resultados de aprendizagem: <br />* Identificar e sumariar conceitos e propostas relevantes para a área do trabalho a realizar<br />* Sistematizar o estado da arte na área do trabalho e analisá-lo de forma crítica<br />* Definir um problema a resolver considerando o panorama actual na área escolhida<br />* Criar uma solução para o problema apresentado que seja criativa e inovadora<br />* Desenhar metodologias teóricas ou experimentais adequadas ao problema a resolver<br />* Planear o trabalho a realizar tendo em conta o tempo disponível<br />* Implementar de forma metódica as metodologias definidas, adaptando a restrições temporais<br />* Análisar críticamente o trabalho realizado e resultados obtidos e reflectir sobre ele na perspectiva da área científica
+
+# Unidade curricular: Análise de Dados Complexos
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p>O objetivo geral é criar competências no tratamento de dados de natureza complexa. Pretende-se desenvolver a capacidade de tratar dados que não sejam simplesmente tabelas de observações i.i.d. Os tipos de dados complexos (DC) abordados incluem os que são importantes hoje (texto, grafos e dados espácio-temporalmente referenciados) mas irá também acomodar novos tipos ou fontes de dados para preparar os estudantes para o desenvolvimento de técnicas adequadas para os problemas com que sejam confrontados nas suas vidas profissionais.</p>
+
+## Resultados de aprendizagem: <p>Os <em>learning outcomes</em> são:</p>
+<ul>
+<li>compreender a natureza de tipos de DC comuns e o seu impacto nas metodologias de análise de dados, em particular em relação aos algoritmos e à avaliação.</li>
+<li>compreender as abordagens típicas e também o estado da arte para análise dos tipos de DC mais comuns.</li>
+<li>configurar e utilizar tecnologias para análise de tipos de DC.</li>
+<li>desenvolver (criar/adaptar) metodologias para análise de novos tipos e fontes de DC.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos: Competências básicas em Inteligência Artificial e Aprendizagem Computacional (<em>Machine Learning</em>), incluindo Estatística e Programação.
+
+# Unidade curricular: Armazéns de Dados
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: <p>Dotar os alunos da capacidade de projetar, implementar e explorar armazéns de dados (data warehouses).</p>
+
+## Resultados de aprendizagem: <p>(1) Planear e gerir o ciclo de vida de um projeto de armazém de dados; (2) Identificar os requisitos e as fontes de dados; (3) Projetar um modelo dimensional adequado; (4) Desenhar e implementar um processo de extração, transformação e carregamento de dados; (5) Especificar e implementar aplicações e modelos de acesso e visualização da informação no armazém de dados; (6) Otimizar o armazém de dados pela criação de agregações e índices; (7) Criar e explorar implementações multidimensionais; (8) Interrogar implementações multidimensionais; (9) Definir os metadados necessários para efeitos de auditoria.</p>
+
+## Pré-requisitos e co-requisitos: <p>Bases de dados relacionais, normalização, SQL.</p>
+
+# Unidade curricular: Preparação da Dissertação
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p>Pretende-se que os estudantes, no contexto de um tema de dissertação, e em colaboração estreita com um orientador designado, façam uma revisão da literatura e o levantamento do estado da arte, caracterizem detalhadamente o(s) problema(s) a tratar, e estabeleçam um plano de trabalho com as tarefas do projeto a desenvolver posteriormente na unidade curricular de Dissertação. <br /><br />Devem ser claramente enunciados os objetivos/questões de investigação, metodologia, técnicas e possíveis ferramentas a usar.</p>
+
+## Resultados de aprendizagem: Competências na revisão do estado da arte, formulação de questões de investigação, e seu posicionamento na literatura científica.
+
+# Unidade curricular: Empreendedorismo
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: Nesta UC pretende-se dotar os alunos com as ferramentas essenciais à prospecção, refinamento, avaliação e implementação de novos negócios (incluindo negócios de base tecnológica).
+
+## Resultados de aprendizagem: Referência de Competências do National Content Standards for Entrepreneurship Education (NCSEE): http://www.entre-ed.org/Standards_Toolkit <br /><br />Levels: BASICS, COMPETENCY AWARENESS and CREATIVE APPLICATIONS of the following Standards<br />A Entrepreneurial Processes<br />B Entrepreneurial Traits/Behaviors<br />L Marketing Management<br />M Operations Management<br />O Strategic Management<br />Levels: BASICS, COMPETENCY AWARENESS<br />C Business Foundations<br />F Economics (concepts review)<br />N Risk Management<br />Levels: BASICS, COMPETENCY AWARENESS, CREATIVE APPLICATIONS, STARTUP<br />D Communications and Interpersonal Skills<br />E Digital Skills
+

@@ -1,0 +1,117 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Computação Industrial
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Trata-se de uma disciplina de computação aplicada, especialmente adaptada aos alunos finalistas de um mestrado integrado em engenharia mecânica, opção de automação. Depois de compreender a matéria versada nesta disciplina, o aluno é suposto estar na posse dos conceitos científicos e técnicos necessários à prossecução de estudos avançados na área da aplicação e integração de sistemas computacionais à automação industrial, em especial em termos do controlo e monitorização de processos contínuos e discretos, tanto centralizados como distribuídos. Adicionalmente, estará também na posse dos conhecimentos que lhe permitam especificar requisitos funcionais e projetar partes informáticas de soluções de automação. O principal objectivo desta disciplina é pois proporcionar uma base para a utilização e integração dos computadores (nas suas múltiplas formas) na área da automação industrial.</p>
+
+## Resultados de aprendizagem e competências
+<p><br /> <span style="color: #6d1d01; font-family: trebuchet ms,geneva; language: pt; mso-ascii-font-family: 'Trebuchet MS'; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: +mn-cs; mso-fareast-theme-font: minor-fareast; mso-bidi-theme-font: minor-bidi; mso-font-kerning: 12.0pt; mso-style-textfill-type: solid; mso-style-textfill-fill-color: #6D1D01; mso-style-textfill-fill-alpha: 100.0%;">proporcionar uma base científica e técnica necessária para a aplicação e integração dos sistemas computacionais (nas suas múltiplas formas) na área da automação industrial</span></p>
+<p><span style="font-family: trebuchet ms,geneva;"><span style="mso-special-format: bullet;">&#8226;</span><span style="color: #6d1d01; language: pt; mso-ascii-font-family: 'Trebuchet MS'; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: +mn-cs; mso-fareast-theme-font: minor-fareast; mso-bidi-theme-font: minor-bidi; mso-font-kerning: 12.0pt; mso-style-textfill-type: solid; mso-style-textfill-fill-color: #6D1D01; mso-style-textfill-fill-alpha: 100.0%;">controlo e monitorização de processos contínuos e discretos, tanto centralizados como distribuídos</span></span></p>
+<p><span style="font-family: trebuchet ms,geneva;"><span style="mso-special-format: bullet;">&#8226;</span><span style="color: #6d1d01; language: pt; mso-ascii-font-family: 'Trebuchet MS'; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: +mn-cs; mso-fareast-theme-font: minor-fareast; mso-bidi-theme-font: minor-bidi; mso-font-kerning: 12.0pt; mso-style-textfill-type: solid; mso-style-textfill-fill-color: #6D1D01; mso-style-textfill-fill-alpha: 100.0%;">especificar requisitos funcionais e projetar partes informáticas de soluções de automação</span></span></p>
+<p><span style="font-family: trebuchet ms,geneva;"> </span></p>
+
+## Pré-requisitos e co-requisitos
+Bons conhecimentos de Lógica Programável, incluindo modelação de sistemas sequenciais em diagramas de estado e GRAFCET, programação de PLCs em Ladder e FBD e interfaces de PLCs a sensores e atuadores. Facilidade de programação numa linguagem de alto nível.
+
+## Programa
+<p>Parte 0 - Complementos de Sistemas Digitais: Métodos de Especificação, Projecto, Simplificação e Materialização de Circuitos Sequenciais. <br />Parte 1 - Tecnologias Computacionais associadas aos sistemas de automação flexível e programável. Controladores Lógicos Programáveis: Sistemas Discretos; Especificação do Comportamento de um Sistema Discreto; Arquitecturas de PLCs; Metodologias de Programação de PLCs. Descrição e Programação de Periféricos Típicos de PLCs. <br />Parte 2 - Computadores e Sistemas Operativos: O Computador como elemento controlador; Sistemas Embebidos; Arquitecturas de Hardware e Software para Sistemas de Aquisição de Dados; Instrumentação Virtual; Implementação de algoritmos de Controlo; Noção de Sistema Operativo; Gestão de Recursos; Interfaces de Sistemas Operativos a Aplicações; Sistemas Operativos para Aplicações Industriais. <br />Parte 3 - Sistemas Distribuídos: Comunicação Entre Computadores; Comunicação Ponto a Ponto; Redes de Computadores. <br />Parte 4 - Aplicações e Integração de Sistemas Computacionais: Sistemas SCADA; Telemetria e Telecomando; Redes Industriais.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A disciplina de Computação Industrial conta com aulas teóricas e práticas. As aulas teóricas são, essencialmente, aulas de exposição apoiadas por acetatos, pese embora os temas aí apresentados sejam frequentemente ilustrados com exemplos concretos. As aulas práticas desta disciplina são ocupadas, em parte, com a resolução de problemas e análise de casos. As aulas práticas destinam-se também à experimentação. Neste caso, os alunos contactam de uma forma contextualizada com a tecnologia associada à matéria lecionada na computação industrial, sendo confrontados com problemas que deverão saber resolver, provando experimentalmente a validade da solução obtida. Os alunos analisam casos de estudo e discutem-nos com os colegas e professor.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Trabalho laboratorial: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 80.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 40.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A fórmula de cálculo da classificação final é a seguinte: <br /> <br />1) Trabalho prático obrigatório no final da UC: 25 a 40% <br />2) Trabalho prático voluntário intermédio: 10 a 20% (a definir)<br />3) Teste/exame final (prova sem consulta com a duração de 2 horas) 75% (máx) com nota mínima de 9,0 valores.</p>
+
+## Obtenção de frequência
+<p>É concedida frequência aos alunos regularmente inscritos que não excedam o limite legal de faltas.</p>
+
+## Melhoria de classificação
+<p>Pode ser obtida por pedido de melhoria da classificação na época de recurso de acordo com as regras da FEUP.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Industrial Computing
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>This course is specially made for students who are finishing their Integrated Masters in Mechanical Engineering (Automation). <br />At the end of this course, students should be acquainted with technical and scientific concepts that are essential for studying this area of engineering (computer systems integration for industrial automation- specially focused on the control and supervision of continuous and discrete processes, either centralized or distributed). <br />Moreover, students should be able to specify functional conditions and develop computer solutions for automation use. <br />This course aims to give an overview on how to use and integrate computers (in their multiple forms) in industrial automation.</p>
+
+## Resultados de aprendizagem e competências
+<p><br /><span class="hps">provide a scientific basis</span> <span class="hps">and technical support</span> <span class="hps">for the implementation</span> <span class="hps">and integration</span> <span class="hps">of computer systems</span> <span class="hps atn">(</span>in its many forms) <span class="hps">in the area of</span> <span class="hps">industrial automation</span><br /><br /><span class="hps">&#8226;</span> <span class="hps">control and monitoring</span> <span class="hps">of</span> <span class="hps">processes</span> <span class="hps">continuous and discrete</span>, both <span class="hps">centralized and</span> <span class="hps">distributed</span><br /><br /><span class="hps">&#8226;</span> <span class="hps">specify</span> <span class="hps">functional requirements</span> <span class="hps">and designing</span> <span class="hps">parts</span> <span class="hps">of</span> <span class="hps">computer</span> <span class="hps">automation solutions</span></p>
+
+## Pré-requisitos e co-requisitos
+Good knowledge of Programmable Logic, including modeling of sequential systems in state diagrams and GRAFCET, programming of PLCs in Ladder and FBD and interfaces of PLCs to sensors and actuators. Ease of programming in a high-level language.
+
+## Programa
+<p>- Digital systems supplements: specification methods, project, simplification and materialization of asynchronous and synchronous circuits; <br />- Computing technologies associated with flexible and programmable automation systems. Programmable logic controllers: discrete systems, specification of a discrete systems behaviour, PLCs architectures, methodologies for PLCs programming, description and programming of typical PLCs peripherals; <br />- Computers and operating systems: computer as a controlling element, embedded systems, software and hardware architecture for data acquisition systems; virtual instrumentation, implementation of control algorithms, notion of operating system, resources management, interfaces of operating systems and applications, operating systems for industrial applications; <br />- Distributed systems: communication between computers, communication point to point, computer networks; <br />- Integration of computing systems and applications: &#8220;loop&#8221; controllers, SCADA systems, telemetry and telecontrol, industrial networks, intelligent sensors and actuators.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>This course is divided into practical and theoretical classes. Theoretical classes will be based on the exposition of courses&#8217; themes with the support of transparencies, yet examples will be shown. <br />Practical classes will be based on solving problems, experiments, as well as analysing specific situations. As a result, students will have a contextualized contact with the themes that have been taught. They will be confronted with problems that they should be able to solve and attest. Students are required to analize some case studies and discuss those among them and with the teacher.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Trabalho laboratorial: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 80.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 40.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Formula of Final Mark calculation is as follows:</p>
+<pre id="tw-target-text" class="tw-data-text tw-ta tw-text-small" dir="ltr" style="text-align: left;" data-placeholder="Translation"><span lang="en">1) Mandatory ending semester </span>p<span lang="en">ractical work: 25% to 40%<br />2) Voluntary </span>p<span lang="en">ractical half-semester work: 10 to 20% <br />3) Final test/exam: 75% max. Closed book exam requiring a minimum grade<br />of 9.0 values.</span></pre>
+<div id="tw-target-text-container" class="tw-ta-container tw-nfl">
+<pre class="tw-ta tw-text-small" lang="en" style="position: absolute; visibility: hidden;"> </pre>
+</div>
+<div id="tw-target-rmn-container" class="tw-ta-container tw-nfl"> </div>
+<p><br /><br /> <br /><br /> <br /><br /></p>
+
+## Obtenção de frequência
+<p>According to General Evaluation Rules of FEUP</p>
+
+## Melhoria de classificação
+<p>Students can improve their grades on the exam according to FEUP rules.</p>
+

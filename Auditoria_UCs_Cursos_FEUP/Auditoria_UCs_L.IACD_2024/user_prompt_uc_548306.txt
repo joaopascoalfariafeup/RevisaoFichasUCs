@@ -1,0 +1,96 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Programação Competitiva
+
+## Curso responsável
+Licenciatura em Ciência de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+Os principais objectivos são a consolidação e aquisição de novos conhecimentos de algoritmia e estruturas de dados e do seu eficiente desenho e implementação através da realização de desafios de programação no estilo de concursos de programação e de entrevistas de emprego.
+
+## Resultados de aprendizagem e competências
+Ao terminar esta unidade curricular os alunos deverão:<br />- Ter demonstrado capacidades de resolução criativa de problemas de carácter algorítmico;<br />- Conhecer um leque variado de ideias algoritmicas e estruturas de dados e como os adaptar/aumentar para os aplicar a problemas concretos;<br />- Ter criado um portfolio pessoal de código com soluções para múltiplos problemas, incluindo implementações eficientes e reutilizáveis dos algoritmos e estruturas de dados subjacentes;<br />- Ter demonstrado capacidade de discutir a alto nível os problemas e possíveis variantes, percebendo as implicações ao nível da eficiência dessas variações
+
+## Programa
+Ao resolverem os problemas, múltiplas áreas irão ser abordadas e combinadas, incluindo tópicos em (entre parenteses exemplos de sub-tópicos dentro das áreas): <br />- Estratégias gerais de resolução de problemas (ex: &#8220;understand/plan/do/check&#8221;, generalizações e especializações, separação de conceitos)<br />- Estruturas de Dados (ex: a&#341;vores binárias de pesquisa, segment trees, interval trees, fenwick trees, range trees, quadtrees, kd-trees, union-find, decomposição sqrt, sparse tables)<br />- Estratégias algorítmicas (ex: pesquisa exaustiva, &#8220;backtracking&#8221;, pesquisa com cortes e &#8220;meet-in-the-middle&#8221;, dividir para conquistar e variantes, pesquisa binária da resposta, algoritmos &#8220;greedy&#8221;,  programação dinâmica, lazy propagation em árvores, sliding windows)<br />- Matemática (ex: tópicos em teoria de números como geração de números primos, aritmética modular e resolução de equações ; combinatória como permutações, combinações, coeficientes binomiais, princípio de inclusão-exclusão; cálculo de probabilidades; teoria de jogos incluindo jogos como o nim e teorema de Sprague-Grundy)<br />- Programação Dinâmica Avançada (ex: desenho de novas recorrências com várias dimensões, optimizações como &#8220;Knuth&#8221; ou &#8220;convex hull&#8221; optimization)<br />- Grafos (ex: dfs e bfs com aplicações como pontos de articulação ou ssc; árvores de suporte; distâncias mínimas e variantes; algoritmos em árvores como diâmetro e LCA; fluxos, matchings e min-cuts incluindo algoritmos como Hopcroft-Karp ou Dinic)<br />- Geometria Computacional (ex: representação de objectos geométricos, primitivas robustas tais como ccw, interseções, invólucro convexo, compressão de coordenadas, line sweep)<br />- Strings (ex: hash tables, KMP, Aho-Corasick, suffix arrays)<br />É também expectável que para resolverem os problemas os alunos ganhem um conhecimento aprofundado de toda a biblioteca disponível na sua linguagem de eleição (ex: STL em C++, API de Java)
+
+## Métodos de ensino e atividades de aprendizagem
+As aulas teórico-práticas incluem a apresentação de teórica de alguns dos tópicos abordados, bem como a apresentação e discussão de problemas selecionados. É esperado dos alunos que implementem soluções para um leque alargado de problemas (a submeter para avaliação automátíca não só no avaliador Mooshak da própria UC, mas também em múltiplas plataformas como o UVA Online Judge, Codeforces, Kattis ou SPOJ). Será também promovida a participação e submissão de problemas em contexto competitivo, com tempo controlado, em provas variadas (ex: rondas de Codeforces). Os alunos irão também apresentar partes selecionadas das suas soluções e irão também criar um problema.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Apresentação/discussão de um trabalho científico: 20.0 %
+- Trabalho prático ou de projeto: 80.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 60.0 horas
+
+## Fórmula de cálculo da classificação final
+- Apresentações, discussão de soluções e criação de problema: 20%<br />- Implementações submetidas: 50%<br />- Participação em eventos competitivos: 30%
+
+## Obtenção de frequência
+Não aplicável.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Programming Challenges
+
+## Curso responsável
+Bachelor in Computer Science
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+The main goals are to consolidate and to acquire new knowledge on algorithms and data structures and their efficient design and implementation by solving multiple programming challenges on the style of programming contests and job interviews.
+
+## Resultados de aprendizagem e competências
+When finishing this curricular unit the students should:<br />- Have demonstrated creative problem solving skills in problems of algorithmic nature;<br />- Know a varied range of algorithmic ideas and data structures and how o adapt/augment for application on concrete problems;<br />- Have created a personal portfolio of code with solutions for multiple problems, including efficient and reusable implementations of the corresponding algorithms and data structures;<br />- Have demonstrated the ability to do high level discussions on the problems and their possible variations, understanding the efficiency implications of those variations-
+
+## Programa
+By solving the problems, multiple area will be tackled and combined, including topics in (inside parentheses are example of sub-topics inside the areas):<br />- General problem solving strategies (ex: understand/plan/do/check, generalizations and specializations, separation of concerns)<br />- Data Structures (ex: binary search trees, segment trees, interval trees, fenwick trees, range trees, quadtrees, kd-trees, union-find, sqrt decomposition, sparse tables)<br />- Algorithmic Stategies (ex: exhaustive search, backtracking, branch&amp;bound, meet-in-the-middle, divide and conquer and variant, greedy algorithms, dynamic programming, lazy propagation in trees, sliding windows)<br />- Mathematics (ex: topics in numbers theory such as generating prime numbers, modular arithmetic and equation solving; combinatorics such as permutations, arrangements, binomical coefficients, inclusion-exclusion principle; probabilities calculation; game theory including games like nim and the Sprague-Grundy theorem)<br />- Advanced Dynamic Programming (ex: designing new recurrences in multiple dimensions; optimizations such as Knuth or convex hull optimization);<br />- Graphs (ex: dfs and bfs with applcations such as cycle detection, articular points and ssc, ;minimum spanning trees;  minimum spanning trees; minimal distances and variantes; tree algoritjms such as diameter and LCA; flow, matchings and min-cuts incluing algorithms such as Hopcroft-Karp and Dinic)<br />- Computational Geometry (ex: representing geometric objects, robust primitives such as ccw, intersections, convex hull, coordinate compressions, line sweep)<br />- Strings (ex: hash tables, KMP, Aho-Corasick, suffix arrays)<br />It is also expected that in order to solve the problems the students gain an in-depth knowledge of the library available in the preferred programming language (ex: STL in C++, Java API)
+
+## Métodos de ensino e atividades de aprendizagem
+The lectures include the exposition of selected topics, as well as presentations and discussion os the selected problems. The students are expected to implement solutions for a large range of problems (to submit not only to the class automatic Mooshak judge, but algo to multiple platforms such as UVA Online Judge, Codeforces, Kattis or SPOJ). The participation on competitive programming events with controled time will also be promoted, in varios types of events, such as Codeforce rounds. The students will also present some selected parts of their solutions and they will also create a problem.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Apresentação/discussão de um trabalho científico: 20.0 %
+- Trabalho prático ou de projeto: 80.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 60.0 hours
+
+## Fórmula de cálculo da classificação final
+- Presentations , discussion of solutions and problem creation: 20%<br />- Implementations submitted: 50%<br />- Participation on competitive events: 30%
+
+## Obtenção de frequência
+Not applicable.
+

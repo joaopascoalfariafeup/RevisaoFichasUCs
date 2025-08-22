@@ -1,0 +1,102 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Segurança e Privacidade
+
+## Curso responsável
+Licenciatura em Inteligência Artificial e Ciência de Dados
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+Esta Unidade Curricular tem como objetivo fornecer aos estudantes uma perspetiva integrada dos fundamentos da segurança e privacidade informática; visa dotar os estudantes dos princípios de segurança de sistemas e privacidade de dados.
+
+## Resultados de aprendizagem e competências
+1. Apreender os princípios fundamentais de segurança de sistemas e privacidade de dados.<br />2. Identificar vulnerabilidades e ameaças e à segurança dos sistemas e privacidade dos dados.<br />3. Adquirir competências em criptografia e suas aplicações para segurança de sistemas.<br />4. Compreender regulamentação de proteção de dados e o impacto dos seus requisitos na segurança e privacidade.<br />5. Selecionar e aplicar tecnologias de reforço de privacidade, bem como metodologias para aferição de risco.
+
+## Programa
+1. Princípios de segurança informática: confidencialidade, integridade, disponibilidade; conceitos de risco, ameaças, vulnerabilidades, vetores de ataque, e mecanismos de segurança;<br /> 2. Conceitos básicos de criptografia: criptografia simétrica e de chave pública; cifras e autenticação; integridade de dados, não-repúdio;<br /> 3. Aplicações criptográficas, incluindo: armazenamento e transmissão segura de dados;<br /> 4. Regulamentação e requisitos de privacidade de dados;<br /> 5. Ameaças e vulnerabilidades de privacidade, incluindo: ataques de correlação e ligação;<br /> 6. Avaliação de impacto na privacidade e planos de gestão de dados;<br /> 7. Algoritmos de anonimização e pseudo-anonimização, avaliação do risco de re-identificação;<br /> 8. Computação colaborativa segura e aplicação ao processamento privado de dados.
+
+## Métodos de ensino e atividades de aprendizagem
+As aulas teóricas são de exposição, complementadas com exemplos detalhados e casos de uso. Ao longo do semestre, os casos de uso servirão para consolidar os conceitos apresentados, nomeadamente permitindo exercitar as competências de segurança e privacidade na gestão de dados através de cenários concretos.<br />As aulas práticas serão de aplicação dos conceitos teóricos através da prática de tecnologias que permitam obter adquirir solidez técnica na aplicação de metodologias de segurança e privacidade.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 50.0 horas
+- Estudo autónomo: 56.0 horas
+- Frequência das aulas: 56.0 horas
+
+## Fórmula de cálculo da classificação final
+<p style="margin-bottom: 0in; border: none; padding: 0in; line-height: 150%; orphans: 0; widows: 0;"><span style="font-family: Calibri, serif;"><span style="font-size: small;">Se ET &lt; 35%: CF = RFC (reprovado por falta de componente)<br />Se ET &gt;=35%: CF = 0,4 TR + 0,6 ET<br /><br />onde CF é a classificação final, TR é a nota dos trabalhos práticos e ET a classificação do exame teórico.</span></span></p>
+
+## Obtenção de frequência
+Nota mínima de 35% no total dos trabalhos práticos.
+
+## Melhoria de classificação
+O exame pode ser melhorado na época de recurso.<br />A nota dos trabalhos práticos mantém-se para todas as épocas de exame.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Security and Privacy
+
+## Curso responsável
+Bachelor in Artificial Intelligence and Data Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+This course unit has the goal of providing students with an integrated perspective of the security and privacy fundamentals; it targets to endow students with the principles of IT security and data privacy.
+
+## Resultados de aprendizagem e competências
+1. Understand the fundamental principles of system security and data privacy.<br />2. Identify vulnerabilities and threats to system security and privacy of data<br />3. Acquire skills on cryptography and its applications for system security.<br />4. Understand data protection regulations, and the impact of its requirements on security and privacy.<br />5. Select and apply privacy-enhancing technologies, as well as methodologies for risk assessment.
+
+## Programa
+1. Principles of computer security: confidentiality, integrity, availability; concepts of risk, threats, vulnerabilities, attack vectors, security mechanisms;<br /> 2. Basic cryptography concepts: symmetric and public-key cryptography; encryption and authentication; data integrity, non-repudiation;<br /> 3. Cryptographic applications, including: secure storage and transmission of data;<br /> 4. Data privacy regulations and requirements;<br /> 5. Privacy threats and vulnerabilities, including: correlation and linkage attacks;<br /> 6. Privacy impact assessment and data management planning;<br /> 7. Anonymization and pseudonymization algorithms, re-identification risk assessment;<br /> 8. Secure multiparty computation and application to private data mining.
+
+## Métodos de ensino e atividades de aprendizagem
+The lectures are based on oral presentations, complemented with detailed examples and discussion of case-studies. Throughout the semester, the case-studies will be used to consolidate the exposed concepts, particularly by exercising security and privacy skills in data management through real-world scenarios.<br />Lab classes will consist on applying the introduced concepts through technological practice aiming at technical expertise in the application of security and privacy methodologies.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 50.0 hours
+- Estudo autónomo: 56.0 hours
+- Frequência das aulas: 56.0 hours
+
+## Fórmula de cálculo da classificação final
+<span style=&quot;font-family: Calibri, serif;&quot;><span style=&quot;font-size: small;&quot;>If ET &lt; 35%: CF = RFC (not approved)<br />If ET &gt;=35%: CF = 0,4 TR + 0,6 ET<br /><br />where CF is the final classification, TR is the grade of the practical assignments and ET the grade of the final exam.</span></span>
+
+## Obtenção de frequência
+Minimum grade of 35% on the total value of lab assignments.
+
+## Melhoria de classificação
+The exam grade can be improved in the extra season (época de recurso).<br />The grade for the practical assignments holds for all exam seasons.
+

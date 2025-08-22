@@ -1,0 +1,132 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise Matemática 3
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>O objetivo desta unidade curricular é fornecer aos estudantes bases sólidas em equações diferenciais e  sistemas de equações diferenciais  de forma a promover a sua utilização em problemas de engenharia. Pretende-se que os estudantes obtenham competências para</p>
+<p>1) manipular os conceitos matemáticos apresentados;</p>
+<p>2) aplicar conceitos matemáticos novos na resolução de problemas práticos;</p>
+<p>3) apresentação de raciocínios e soluções de uma forma clara e precisa;</p>
+<p>4) preservação de raciocínio independente e analítico.</p>
+<p>Os métodos e conceitos estudados nesta UC, sendo parte da formação básica em qualquer curso de engenharia, deverão ser completados com aplicações básicas em Engenharia Eletrotécnica de forma a facilitar a utilização destes conceitos no desenvolvimento futuro dos estudantes. Esta UC deverá também possibilitar uma aprendizagem futura de conceitos mais avançados que surjam no seu percurso de formação académica e/ou profissional.</p>
+
+## Resultados de aprendizagem e competências
+No final da unidade curricular o estudante deverá ser capaz de integrar conhecimentos adquiridos, num contexto motivador das aplicações em Engenharia envolvendo sistemas dinâmicos.
+
+## Pré-requisitos e co-requisitos
+Algebra, Análise Matemática I e II
+
+## Programa
+<p><br /><br />1. Revisão de conceitos fundamentais. Revisão da matéria de AMAT 1 sobre  equações diferenciais ordinárias (EDOs) de primeira ordem (existência e unicidade de problemas de valor inicial, resolução de equações lineares e de variáveis separadas). <br />Campos de direções de EDO de ordem 1. Uso do matlab para calcular soluções e traçar gráficos de soluções e campos de direções.<br /><br />2. Equações diferenciais de ordem superior lineares a 1. Revisão dos conceitos sobre equações diferenciais lineares de ordem 2 de coeficientes constantes dados em AMAT1. Aplicações à engenharia de EDO lineares de ordem 2 de coeficientes constantes.<br /><br /><br />3. Matrizes. Valores e Vetores próprios de matrizes. Diagonalização de matrizes e formas de Jordan. </p>
+<p>4. Sistemas de Equações Diferenciais. Operadores Diferenciais e existência de solução. Matriz exponencial. Resolução de sistemas Lineares invariantes no tempo.  Estudo de sistemas de Equações Diferenciais lineares invariantes no tempo  de ordem 2: resolução,  análise dos diagramas de fase e aplicações. Sistemas forçados.<br /><br />5. Transformação de Laplace e resolução de sistemas de equações diferenciais (se houver tempo).</p>
+<p>6. Sistemas lineares  variantes no tempo. Matriz de transição. Sistemas não lineares.  Pontos de Equilíbrio e Linearização de Sistemas. Resolução dos sistemas linearizados  perto de pontos de equilíbrio. Aplicações à engenharia.<br /><br />7. Introdução às equações com derivadas parciais (se houver tempo).</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teóricas (T):</p>
+<p>Exposição e discussão dos tópicos da UC contando com a participação ativa dos estudantes. <br /><br />Aulas teórico-práticas (TP):<br /><br /><br />Discussão das questões e clarificação   das questões que os estudantes tenham na compreensão das aulas T, na resolução dos exercícios propostos e qualquer outro material relacionado. Uso de Matlab para ilustrar e verificar resultados.<br /><br /></p>
+<p>Haverá um conjunto de exercícios sobre os temas tratados nas aulas T para serem RESOLVIDOS PELOS ESTUDANTES antes das aulas TP. </p>
+<p> </p>
+<p><br /><br /><br /></p>
+<p> </p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Exame: 85.0 %
+- Trabalho prático ou de projeto: 15.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 72.5 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho escrito: 10.0 horas
+
+## Fórmula de cálculo da classificação final
+<blockquote><br /><p style=&quot;text-align: left;&quot;>Tipo de Avaliação: Avaliação distribuída sem exame final<br /><br /><br /><br />Teste 1: cobre os 3 primeiros pontos do programa<br />Teste 2: cobre os restantes pontos<br />Projeto ou trabalho Prático feito em grupo de 4 alunos (requer entrega de relatório final)<br /><br />C1: Classificação do teste 1<br />C2: classificação do teste 2<br />T: média pesada dos dois testes<br />T=0.45*C1+0.55*C2<br /><br />CT: Classificação do trabalho prático ou projeto<br /><br />Nota Final= 0.85*T+0.15*min{T+4, CT}<br /><br /><br /></p><br /></blockquote>
+
+## Obtenção de frequência
+Estudante a frequentar pela primeira vez só têm frequência se não  exceder 25% de faltas às aulas TPs e responder a pelo menos 4 questões de aula<br /><br /><br /><p> </p><br /><p>Estudantes que já obtiveram frequência estão isentos das aulas TP e NÃO se devem registar em turma neste semestre. <br />Podem escolher entre fazer a disciplina por exame final no exame de recurso (e nesse caso o exame vale 100% da classificação final) ou por fazer os testes e trabalho em grupo da avalição distribuída.</p>
+
+## Melhoria de classificação
+Exame de recurso classificado para 20 valores.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Mathematical Analysis 3
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>The objective of this curricular unit (CU) is to provide students with a solid foundation in equations and systems of differential equations  in order to promote their use in engineering problems. Students are expected to:</p>
+<p>1) manipulate the mathematical concepts presented;</p>
+<p>2) apply new mathematical concepts in solving practical problems;</p>
+<p>3) present the reasoning and solutions in a clear and precise way;</p>
+<p>4) stimulate the independent and analytical reasoning.</p>
+<p>The methods and concepts studied in this CU, being part of the basic training in any engineering course, should be complemented with applications in Electrotechnical Engineering problems in order to facilitate the use of these concepts in the future developments. This CU should also enable the future learning of concepts that emerge in their academic and/or professional training course.</p>
+
+## Resultados de aprendizagem e competências
+At the end of the course, the student should be able to integrate acquired knowledge in a motivating context for applications in Engineering involving dynamical systems.
+
+## Pré-requisitos e co-requisitos
+Linear Algebra, Calculus I and II
+
+## Programa
+<p><br />1. Brief overview of basic concepts. Brief Revision of  ordinary differential equations (ODE) of order 1 studied in the first year in AMAT1 including existence of solution, solution of linear equations and equations with separable variables. <br />Direction fields for ODEs of order 1.<br /> Use of Matlab to compute and plot solutions of EDO of order 1 and to plot vector fields. <br /><br />2. Linear ODE of  order higher than 1. Revision of the concepts on Linear ODE of constant coeficients of order 2 studied in AMAT1. <br />Engineering Applications of such equations.</p>
+<p>3. Matrices. Eigenvalues and eigenvectors of matrices. Dioganization of matrices and Jordan forms.</p>
+<p>4. Systems of differential equations (SODE). Differential Operators and  existence of solutions. Solving a Linear autonomous SDE. Exponential Matrix.Resolution of SODE.  Autonomou 2x2 SODE: solutions, phase  diagram analysis and  applications.<br /><br />5. Laplace transform and SODE.(if the time permits)</p>
+<p>6. Non autonomos Linear Systems. Nonlinear systems and its study near equilibrium points. Engineering applications.<br /><br /></p>
+<p>7. Introduction to partial differential equations (if the time allows).</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Lectures (T):</p>
+<p>Presentation and discussion of the topics of the CU stimulating the active participation of the students. <br /><br /><br /><br />Exercise Classes (TP):</p>
+<p>Clarification and discussion of any questions the student may have concerning the lectures,  the resolution of the problems proposed  of the problems  proposed and any other material related to the subject of the course. Matlab will be used to illustrate and verify results.<br /><br />Concernin the subjects covered every week there will be a list of problems to be done by the students before the TP classes. All difficulties encountered  by the students  trying to solving them before the TP classes will be clarified during the TP classes taking into account the time limitations.</p>
+<p> </p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Exame: 85.0 %
+- Trabalho prático ou de projeto: 15.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 72.5 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho escrito: 10.0 hours
+
+## Fórmula de cálculo da classificação final
+Three items of evaluation <br /><br />Test 1: covering the 3 first points of the program<br />Test 2: covering the remaning points of the program<br />Project or Practical Work: done by group of 4 students (presented by  final written report)<br /><br />C1: score of test 1<br />C2: score of test 2<br />T: weighted average of the two tests<br />T=0.45*C1+0.55*C2<br /><br />CT: score of the project or proctical work<br /><br />Final Score=  0.85*T+0.15*min{T+4, CT}
+
+## Obtenção de frequência
+Those enrolled for the first time in the course need to participate  at   75% of  the TP classes and they need to attend four of the six classes where small tests are taken (part of the score).<br /><br />Students who had frequency of the course in previous years do not need to enroll in the TP classes. They can choose between getting approval by final exame (at &quot;exame de recurso&quot;) which will determine 100% of the course score, or to  get approval following the same rules of students registered for the first time in the course.
+
+## Melhoria de classificação
+R exam worth 20
+

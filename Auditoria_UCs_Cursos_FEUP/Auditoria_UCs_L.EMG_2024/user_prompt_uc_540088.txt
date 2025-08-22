@@ -1,0 +1,118 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise Matemática II
+
+## Curso responsável
+Licenciatura em Engenharia de Minas e Geo-Ambiente
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p style="text-align: justify;">OBJETIVOS: <br /> Adquirir conhecimentos teóricos e práticos, sobre o cálculo diferencial e integral de funções reais e de funções vetoriais de uma ou várias variáveis, e sobre algumas das suas aplicações em engenharia. Adquirir conhecimentos elementares na resolução de equações diferenciais. Desenvolver capacidades de formulação, identificação e modelação de problemas de engenharia. Desenvolver o pensamento crítico e criativo na resolução de problemas de engenharia.</p>
+
+## Resultados de aprendizagem e competências
+<div class=&quot;ConverteAcordoTextWrapper&quot; style=&quot;text-align: justify;&quot;>COMPETÊNCIAS: Conhecimentos técnicos em ciências fundamentais (cálculo diferencial e integral de funções reais e vetoriais de uma ou várias variáveis e equações diferenciais); saber aplicar os conhecimentos e a capacidade de compreensão e de resolução de problemas em situações novas e não familiares, em contextos alargados e multidisciplinares; ter capacidade para integrar conhecimentos, lidar com questões complexas, desenvolver soluções ou emitir juízos em situações de informação limitada ou incompleta; desenvolver competências de aprendizagem que permitam uma aprendizagem ao longo da vida, de um modo fundamentalmente auto-orientado ou autónomo; ser capaz de comunicar as suas conclusões e os seus conhecimentos e raciocínios, quer a especialistas, quer a não especialistas, de uma forma clara sem ambiguidades. <br /><br /></div><br /><div style=&quot;text-align: justify;&quot;><span id=&quot;dnn_ctr1785_ViewEVDConverteAcordo_lbl_TextoAcordo&quot; style=&quot;display: inline-block; width: 100%;&quot;>RESULTADOS ESPERADOS: No fim do período letivo os estudantes devem ser capazes de: <br /><br />Obter derivadas parciais e direcionais para campos escalares e saber construir o vetor gradiente. Calcular derivadas parciais de funções de várias variáveis (quer compostas quer implícitas). Determinar extremos de funções de várias variáveis. Calcular a divergência e o rotacional de um campo vetorial. <br /><br />Calcular integrais duplos e triplos (coordenadas cartesianas, polares ou cilíndricas) e compreender as suas aplicações práticas (áreas, volumes e centro de massa). Representar curvas e superfícies no espaço 3D. Calcular integrais de linha e de superfície e entender as suas aplicações práticas (trabalho realizado por um campo vetorial ou o seu fluxo através de uma superfície). <br /><br />Resolver equações diferenciais ordinárias de primeira ordem e lineares de segunda ordem. Formular e implementar modelos matemáticos simples descrevendo fenómenos físico-químicos. </span></div>
+
+## Pré-requisitos e co-requisitos
+Noções básicas de Análise Matemática I e de Álgebra.
+
+## Programa
+<ol><br /><li>Cálculo Diferencial em R<sup>n</sup>.<br />Funções reais de várias variáveis. Gráfico e conjuntos de nível. Propriedades das funções contínuas e das funções deriváveis. Gradiente e derivadas direcionais. Derivadas parciais. Extremos.<br />Funções Vetoriais de Variável Vetorial. Matriz das derivadas parciais. Divergência e Rotacional de um campo vetorial.</li><br /><li>Modelação e Equações diferenciais.<br />Equações diferenciais de primeira ordem.<br />Equações diferenciais lineares homogéneas de segunda ordem.</li><br /><li>Cálculo Integral em R<sup>n</sup>.<br />Integrais duplos e triplos. Mudança de variável em integrais duplos e triplos.<br />Parametrização de curvas. Integrais de Linha.<br />Superfícies parametrizadas. Integrais de Superfície.</li><br /><li>Exemplos de aplicação utilizando modelos matemáticos simples descrevendo fenómenos físico-químicos (Módulo transversal).</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<div class=&quot;ConverteAcordoTextWrapper&quot;><br /><p>Exposição de conceitos teóricos e discussão de exemplos práticos de aplicação durante as aulas. Maximização da interação com os estudantes durante as aulas. Realização de mini-teste e de atividades Moodle de avaliação ao longo do semestre, de forma a estimular e monitorizar o processo de aquisição de conhecimentos e competências por parte dos estudantes durante esse período. A unidade curricular é complementada com uma página Moodle onde, para além de todo o material pedagógico de apoio, são disponibilizadas atividades de autoavaliação on-line para possibilitar a aferição do ensino/aprendizagem.</p><br /></div>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Teste: 20.0 %
+- Trabalho prático ou de projeto: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final (CF) para notas superiores ou iguais a 7.5 no exame final é definida por:</p>
+<p><br /> CF = máximo{EX; AD}<br /> <br /> onde:<br /> <br /> EX - classificação do exame final escrito<br /> <br /> AD = (20% x MT+ 10% x MDL) + 70% x EX<br /> <br /> MT - classificação do miniteste<br /> <br /> MDL - média da classificação de atividades de avaliação no Moodle durante o semestre (a nota de uma determinada atividade será zero se o estudante não a realizar ou faltar)</p>
+<p> </p>
+<p>A classificação final (CF) para notas inferiores a 7.5 no exame final é a classificação obtida no exame final:</p>
+<p>CF=EX<br /><br /><span class="VIiyi" lang="pt"><span class="JLqJ4b ChMk0b" data-language-for-alternatives="pt" data-language-to-translate-into="en" data-phrase-index="0">A classificação final (CF) será calculada da mesma forma em qualquer uma das épocas de avaliação.</span></span></p>
+Para obter uma classificação superior a 18 valores, o estudante deverá realizar uma prova suplementar.<br /> <br /> Todas as componentes de avaliação são expressas na escala de 0 a 20 valores.
+
+## Obtenção de frequência
+<p>A obtenção de classificação final exige o cumprimento de assiduidade à unidade curricular, conforme estabelecido no Regulamento Geral para Avaliação dos discentes da Universidade do Porto: &#8220;Considera-se que um estudante cumpre a assiduidade a uma UC se, estando regularmente inscrito, não exceder o número limite de faltas correspondente a 25%das aulas nas tipologias (teórica, teórico-prática, laboratorial) definidas como obrigatórias na ficha da UC&#8221;. <br /><br />Em AM II, as aulas TP são obrigatórias.<br />Contudo, nas aulas Teóricas poderão realizar-se alguns momentos da avaliação distribuída.<br /><br /><br /></p>
+
+## Melhoria de classificação
+<p>Só é possível realizar a melhoria da classificação do exame final. No caso de melhoria, a fórmula de cálculo da classificação final mantém-se.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Mathematical Analysis II
+
+## Curso responsável
+Bachelor in Mining and Geo-Environmental Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+OBJECTIVES: <br />To acquire theoretical and practical knowledge on the differential and integral calculus of scalar functions and vector functions of one or several variables and on some of their applications in engineering. To acquire <span id=&quot;GingerWidget-correction-0&quot; class=&quot;correction  alternate&quot;>an elementary knowledge</span> in the resolution of differential equations. To develop <span id=&quot;GingerWidget-correction-1&quot; class=&quot;correction  alternate&quot;>competences</span> in the areas of formulation, identification and modelling of engineering problems. To develop creative and critical thinking and for solving engineering problems.
+
+## Resultados de aprendizagem e competências
+<div style=&quot;text-align: justify;&quot;>COMPETENCES: Technical knowledge of <span id=&quot;GingerWidget-correction-0&quot; class=&quot;correction  alternate&quot;>the underlying sciences</span> (differential and integral calculus of scalar functions and vector functions of one or several variables and differential equations); to know how to deal with new problems and unfamiliar situations in diverse and multidisciplinary contexts; to be capable of dealing with complex situations, finding solutions or giving an opinion in situations where information is limited or incomplete; to develop competences that lead to a lifelong learning process in a self-oriented and autonomous way; to be capable of communicating and presenting knowledge clearly and unambiguously</div><br /><br />LEARNING OUTCOMES: After this course, the students are able to:<br /><br /><p style=&quot;text-align: justify;&quot;>Obtain partial and directional derivatives for scalar fields and know how to construct the gradient vector. Calculate partial derivatives of functions of several variables (either composite or implicit); Locate extreme values of functions. Calculate the divergence and the rotational of a vector field.<br /><br />Calculate double and triple integrals (in rectangular, polar or cylindrical coordinates) and understand its practical applications (calculation of area, volume, and centroid). Represent curves and surfaces in the 3D space. Calculate line and surface integrals and understand its practical applications (calculation of work done by a force and the flux of a vector field).<br /><br />To solve first order ordinary differential equations and linear equations of second order. To formulate and implement simple mathematical models describing physical-chemical phenomena.</p>
+
+## Pré-requisitos e co-requisitos
+Basic knowledge of Mathematical Analysis I and Algebra
+
+## Programa
+<ol><br /><li>Differential Calculus in R<sup>n</sup>.<br />Real valued functions. Graph and level set. Properties of the continuous functions and properties of the derivative. Gradients and directional derivatives. Partial derivatives. Extrema.<br />Vector Valued functions. Matrix of partial derivatives. Divergence and Curl of a vector field.</li><br /><li>Modelling and Differential Equations.<br />First order Differential equations.<br />Second order linear equations.</li><br /><li>Integral Calculus in R<sup>n</sup>.<br />Double and triple integrals. The change of variables in double and triple integrals.<br />Parametrizations of curves. Line integrals.<br />Parametrized surfaces. Integrals over surfaces.</li><br /><li>Some applications using mathematical models describing physical-chemical phenomena. (Transverse module).</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Exposition of theoretical concepts and resolution of practical examples during classes. Interaction with students will be emphasized. A test and assessment Moodle activities will take place along the semester, in order to stimulate and monitor the process of acquisition of knowledge and skills by the students along that time period. This curricular unit is inserted in the Moodle platform, in order to enhance the discussion among all participants. In this platform, all students have access to every issue provided by the teachers and may strengthen their concepts by solving self-evaluation activities.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Teste: 20.0 %
+- Trabalho prático ou de projeto: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final mark (CF) for grades greater than or equal to 7.5 in the final exam is calculated according to:<br /><br /></p>
+<p>CF = maxima {EX; AD}</p>
+<p>where:</p>
+<p>EX &#8211; Final exam mark</p>
+<p>AD = (20% x MT + 10% x MDL) + 70% x EX</p>
+<p>MT - mark of the mini-test<br /><br />MDL- average of the marks of Moodle assesment's activities  during the semestrer (the grade for a given activity will be zero if the student does not do it or is absent)<br /><br /><br />The final mark (CF) for grades less than 7.5 in the final exam is the grade obtained in the final exam:<br /><br />CF=EX<br /><br /><span class="VIiyi" lang="en"><span class="JLqJ4b ChMk0b" data-language-for-alternatives="en" data-language-to-translate-into="pt" data-phrase-index="2">The final mark (CF) will be calculated in the same way in any of the evaluation periods.</span></span><br /><br /><span class="HwtZe" lang="en"><span class="jCAhz ChMk0b"><span class="ryNqvb">To obtain a classification higher than 18 values, the student must take a supplementary test.</span></span></span><br /><br />All marks are quoted on a 0 to 20 scale.<br /><br /><br /></p>
+
+## Obtenção de frequência
+<p><span class="HwtZe" lang="en">Obtaining a final grade requires attendance at the course unit, as established in the General Regulations for<br />University of Porto: "A student is considered to have complied with attendance at a UC if, being regularly enrolled, he/she does not exceed the limit number of absences corresponding to 25% of the classes in the typologies (theoretical, theoretical-practical, laboratory) defined as compulsory in the UC form".<br /><br />In AM II, TP classes are compulsory.<br />However, some moments of the distributed assessment.<br /><br /></span></p>
+
+## Melhoria de classificação
+<p><span class="VIiyi" lang="en"><span class="JLqJ4b ChMk0b" data-language-for-alternatives="en" data-language-to-translate-into="pt" data-phrase-index="1" data-number-of-phrases="2">It is only possible to improve the classification of the final exam. In case of improvement, the calculation formula of final grade is maintained.</span></span></p>
+

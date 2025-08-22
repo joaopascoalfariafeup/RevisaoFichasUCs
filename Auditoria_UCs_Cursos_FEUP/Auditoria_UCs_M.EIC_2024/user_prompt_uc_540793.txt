@@ -1,0 +1,116 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Realidade Virtual e Aumentada
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Realidade Aumentada é uma tecnologia através da qual se pretende melhorar ou aumentar a visão que um utilizador tem do mundo real com imagens virtuais, usando técnicas de Visão por Computador e de Computação Gráfica. Por outro lado, a Realidade Virtual procura envolver o utilizador real num ambiente totalmente virtual fazendo-o crer que está noutro mundo. O principal objetivo desta disciplina é transmitir aos estudantes um conjunto de conhecimentos básicos destas técnicas, que lhes permitam prosseguir estudos mais avançados na área emergente da Realidade Aumentada bem como na Realidade Virtual, e a capacidade de realizar pequenos trabalhos ilustrativos das metodologias estudadas. </p>
+
+## Resultados de aprendizagem e competências
+<p>No final, os estudantes deverão ser capazes de:<br />- identificar e caraterizar os componentes, a estrutura e as funções de um sistema mínimo de realidade virtual e/ou aumentada;<br />- descrever os algoritmos principais usados na implementação de cada um dos componentes;<br />- descrever como interagem os diversos componentes;<br />- realizar a integração entre imagens do mundo real e imagens de objetos virtuais;<br /> - desenvolver aplicações de Realidade Aumentada e Virtual, recorrendo a ferramentas existentes (AR Toolkit, Vuforia, Unity, Unreal...).</p>
+
+## Pré-requisitos e co-requisitos
+<p>Computação Gráfica; OpenGL, WebGL ou tecnologia similar.</p>
+
+## Programa
+<p>Introdução às Realidades Extendidas<br />- Definição e Conceitos sobre Realidade Virtual, Realidade Aumentada, Realidade Mista e Realidade Extendida<br />- História das Realidades Extendidas<br />- Aplicações de Realidade Virtual e Aumentada<br /><br />Presença e Perceção<br />- Conceitos sobre imersão, perceção e presença<br />- Perceção visual, auditiva e outras<br /><br />Tecnologias para Realidade Virtual e Aumentada<br />- Componentes e funcionamento geral de sistemas de Realidade Virtual e Aumentada<br />- Tecnologias de visualização<br />- Renderização em Realidade Virtual<br />- Técnicas de aceleração em visualização 3D<br />- Equipamentos e Software<br /><br />Técnicas de Seguimento<br />- Conceitos sobre registo, calibração e seguimento<br />- Seguimento com e sem marcas<br />- Extração de características<br /><br />Técnicas de Interação<br />- Interfaces utilizador naturais, espaciais e tangíveis<br />- Tarefas universais de interação 3D<br />- Técnicas de interação para seleção, manipulação e navegação em ambientes virtuais imersivos<br /><br />Efeitos Secundários e Diretrizes<br />- Motion Sickness, esforço ocular e outros efeitos secundários<br />- Desafios de latência<br />- Diretrizes para desenho de aplicações</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>AULAS TEÓRICO-PRÁTICAS:<br />- Exposição das matérias do programa, com apresentação de exemplos ilustrativos.<br />- Realização de pequenos exercícios ilustrativos dos métodos estudados.</p>
+<p>AULAS TEÓRICO-PRÁTICAS DE CARÁTER LABORATORIAL:<br />- Realização de trabalhos práticos, envolvendo a utilização dos conceitos transmitidos.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Trabalho laboratorial: 60.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 63.0 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho laboratorial: 60.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>CF = 60%*CT + 40%*CE</p>
+<p>CF: Classificação Final<br />CT: Classificação média dos dois Trabalhos Práticos<br />CE: Classificação de Exame Final</p>
+<p>Os trabalhos práticos são avaliados no fim do tempo estipulado para a sua elaboração, com apresentação em sessão própria.<br /><br />O exame final versa toda matéria lecionada e é SEM CONSULTA.</p>
+<p>Para obter aprovação é exigido um mínimo de 40% em qualquer das duas componentes de avaliação, distribuída e exame final.</p>
+
+## Obtenção de frequência
+<p>Não exceder o máximo de faltas permitido e realizar com aproveitamento mínimo de 40% os dois trabalhos para avaliação.</p>
+
+## Melhoria de classificação
+<p>A melhoria da classificação obtida na componente distribuída pode ser realizada nas épocas de realização de trabalhos práticos da unidade curricular no ano letivo seguinte.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Virtual and Augmented Reality
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Augmented reality is a technology that improves and augments the user&#8217;s vision of the real world with virtual images using Computer Vision and Computer Graphics techniques. Conversely, Virtual Reality submerges the user in a totally virtual environment, making him/her believe s/he is in another world. The main aim of this course is to transmit to the students the basic knowledge of these techniques, allowing them to proceed to more advanced studies in the emergent area of Augmented Reality and Virtual Reality. Furthermore, another aim is to give the students the capacity to do little assignments illustrating the studied methodologies. </p>
+
+## Resultados de aprendizagem e competências
+<p>At the end, the students must be able to:<br />- identify and characterize the components, structure, and functions of a minimum system of augmented and/or virtual reality;<br />- describe the main algorithms used to implement each component;<br />- describe the interaction of several components;<br />- do the integration between real-world and virtual object images;<br />- develop Virtual and Augmented Reality applications using existing tools (AR Toolkit, Vuforia, Unity, Unreal...).</p>
+
+## Pré-requisitos e co-requisitos
+<p>Computer graphics; OpenGL, WebGL or similar technology.</p>
+
+## Programa
+<p>Introduction to Extended Realities<br />- Definition and Concepts of Virtual Reality, Augmented Reality, Mixed Reality and Extended Reality<br />- History of Extended Realities<br />- Virtual and Augmented Reality Applications<br /><br />Presence and Perception<br />- Concepts about immersion, perception, and presence<br />- Visual, auditory, and other perception types<br /><br />Technologies for Virtual and Augmented Reality<br />- Components and general operation of Virtual and Augmented Reality systems<br />- Visualization technologies<br />- Virtual Reality Rendering<br />- Acceleration techniques in 3D visualization<br />- Equipment and Software<br /><br />Tracking Techniques<br />- Concepts about registration, calibration, and tracking<br />- Tracking with and without marks<br />- Feature extraction<br /><br />Interaction Techniques<br />- Natural, spatial, and tangible user interfaces<br />- Universal 3D interaction tasks<br />- Interaction techniques for selection, manipulation, and navigation in immersive virtual environments<br /><br />Side Effects and Guidelines<br />- Motion Sickness, eye strain, and other side effects<br />- Latency challenges<br />- Guidelines for application design</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>THEORETICAL-PRACTICAL CLASSES:<br />- Exposition of the contents with presentation of illustrative problems.<br />- Short exercises illustrating the methods studied.</p>
+<p>THEORETICAL-PRACTICAL/LAB CLASSES:<br />- Practical assignments involving the use of transmitted concepts.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Trabalho laboratorial: 60.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 63.0 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho laboratorial: 60.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>CF = 60*CT + 40%*CE</p>
+<p>CF: Final Classification<br />CT: Practical Assignment classification (average grade of 2 works)<br />CE: Final Exam Classification</p>
+<p>The two practical assignments are evaluated in class at the end of the time estimated for their elaboration.<br /><br />The final exam covers all the subjects and is CLOSED BOOK type.</p>
+<p>To pass, the student must have a minimum of 40% in each of the two evaluation components, distributed and final exam.</p>
+
+## Obtenção de frequência
+<p>Not exceed the absence limit allowed and have a minimum of 40% in the evaluation assignments.</p>
+
+## Melhoria de classificação
+<p>The classification improvement of the distributed component can be done at the same time as the practical assignments in the following academic year.</p>
+

@@ -1,0 +1,123 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Hidráulica Computacional
+
+## Curso responsável
+Mestrado em Engenharia Civil
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Conhecer as técnicas de discretização para equações em derivadas parciais.</p>
+<p>Entender os compromissos associados a cada esquema de discretização.</p>
+<p>Conhecer as equações de conservação dos escoamentos em superfície livre da hidráulica de superfície livre (urbana, fluvial e marítima).</p>
+<p>Utilização de Excel, MATLAB, e programas de domínio público para fazer simulação de escoamentos permanentes e não permanentes.</p>
+<p>Construir malhas para simulações 1D, 2D, 3D.</p>
+
+## Resultados de aprendizagem e competências
+<p>Saber aplicar códigos abertos na análise de problemas complexos de hidráulica fluvial e marítima.</p>
+<p>Saber escolher as condições fronteira e iniciais.</p>
+Identificar problemas de convergência, estabilidade e/ou precisão nas soluções numéricas e resolvê-los.
+
+## Pré-requisitos e co-requisitos
+Matemática, computação, hidráulica.
+
+## Programa
+<ol><br /><li>Introdução: Objectivos e âmbito da UC. Exemplos de problemas de Hidráulica governados por equações diferenciais. Importância da simulação numérica.</li><br /><li>Classificação das equações diferenciais ordinárias. Resolução numérica de problemas de valor inicial.</li><br /><li>Equação em derivadas parciais a uma variável: equação linear de advecção-difusão, equação de Burger, equação RLW.</li><br /><li>Métodos numéricos para equações em derivadas parciais.</li><br /><li>Equações de conservação da mecânica dos fluidos nas formas integral e diferencial.</li><br /><li>Modelos de circulação e de transporte.</li><br /><li>Modelos de agitação marítima.</li><br /><li>Modelos de transporte de sedimentos.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teórico-práticas (palestras) usando recursos de multimédia e quadro-negro sempre que necessário. Introdução aos conceitos teóricos dos pontos de vista físico e matemático. Formulação de problemas e a escolha da abordagem numérica mais correcta.<br /><br />Aulas de laboratório computacional para análise e solução de problemas. Projectos individuais e em grupo para consolidação e avaliação dos conhecimentos</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 26.0 horas
+- Frequência das aulas: 45.5 horas
+- Trabalho escrito: 19.5 horas
+
+## Fórmula de cálculo da classificação final
+<p><strong>1. ASPECTOS GERAIS</strong><br /><br />A Avaliação Distribuída tem carácter obrigatório e é sempre efectuada no ano lectivo em curso.<br /><br />As componentes da Avaliação Distribuída consistem em 4 projectos a realizar total ou parcialmente fora do horário lectivo. Os projectos serão individuais ou de grupo, conforme indicação do docente responsável.<br /><br />Não haverá <strong>Época de Recurso</strong>.<br /><br /><br /><strong>2. AVALIAÇÃO DISTRIBUÍDA</strong><br /><br />Todas as componentes de avaliação são classificadas na escala de 0 a 20 valores, com arredondamento às décimas.<br /><br />A classificação final, CF (arredondada às unidades), resulta da seguinte fórmula de cálculo:</p>
+<p>CF = 0.28×CP1 + 0.28×CP2 + 0.22×CP3 + 0.22×CP4</p>
+<p>Na fórmula acima,<br /><br />CPi &#8212; é a classificação obtida no projecto Pi (arredondada às décimas).<br /><br /><br /><strong>3. ÉPOCAS NORMAL E DE RECURSO</strong></p>
+<p><br />Não haverá <strong>Época de Recurso</strong>.</p>
+
+## Obtenção de frequência
+A obtenção de classificação final exige o cumprimento de assiduidade à unidade curricular, conforme estabelecido nas regras de avaliação da Universidade do Porto. Considera&#8208;se que um estudante cumpre a assiduidade a uma unidade curricular se, tendo estado regularmente inscrito, não exceder o número limite de faltas correspondente a 25% de cada um dos tipos de aulas previstos.
+
+## Melhoria de classificação
+Só possível pela frequência da UC em ano posterior.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computacional hydraulics
+
+## Curso responsável
+Master in Civil Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Know the discretization techniques for equations in partial derivatives.</p>
+<p>Understand the commitments associated with each discretization scheme.</p>
+<p>Know the conservation equations of free surface flows of free surface hydraulics (urban, fluvial and marine).</p>
+<p>Use of Excel, MATLAB, and public domain programs to simulate permanent and nonpermanent flows.</p>
+<p>Build meshes for 1D, 2D, 3D simulations.</p>
+
+## Resultados de aprendizagem e competências
+<p>Know how to apply open source software in the analysis of complex problems of river and marine hydraulics.</p>
+<p>Know how to choose the boundary and initial conditions.</p>
+Identify problems of convergence, stability and/or accuracy in numerical solutions and solve them.
+
+## Pré-requisitos e co-requisitos
+Mathematics, computing, hydraulics.
+
+## Programa
+<ol><br /><li>Introduction: Objectives and scope of the course. Examples of hydraulics problems governed by differential equations. Importance of numerical simulation.</li><br /><li>Classification of ordinary differential equations. Numerical resolution of initial value problems.</li><br /><li>Equations in partial derivatives to one variable: linear advection-diffusion equation, Burger equation, RLW equation.</li><br /><li>Numerical methods for partial derivative equations.</li><br /><li>Conservation equations of fluid mechanics in integral and differential forms.</li><br /><li>Circulation and transport models.</li><br /><li>Ocean waves models.</li><br /><li>Sediment transport models.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+Lectures using multimedia resources and blackboards whenever necessary. Introduction to theoretical concepts from a physical and mathematical point of view. Problem formulation and the choice of the most correct numerical approach.<br /><br />Computational laboratory classes for analysing and solving problems. Individual and group projects to consolidate and assess knowledge.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 26.0 hours
+- Frequência das aulas: 45.5 hours
+- Trabalho escrito: 19.5 hours
+
+## Fórmula de cálculo da classificação final
+<p><strong>1. GENERAL ASPECTS</strong><br /><br />The Distributed Assessment is compulsory and is always carried out in the current academic year.<br /><br />The components of the Distributed Assessment consist of 4 projects to be carried out totally or partially outside of teaching hours. The projects will be individual or group projects, as indicated by the teacher in charge.<br /><br />There will be <strong>no second assessment period</strong>.<br /><br /><br /><strong>2. DISTRIBUTED ASSESSMENT</strong><br /><br />All assessment components are graded on a scale of 0 to 20, rounded to the nearest tenth.<br /><br />The final grade, CF (rounded to the units), results from the following calculation formula:<br /><br />CF = 0.28×CP1 + 0.28×CP2 + 0.22×CP3 + 0.22×CP4<br /><br />In the formula above,</p>
+<p>CPi &#8212; is the classification obtained in project Pi (rounded to the nearest tenth).<br /><br /><br /><strong>3. 1st AND 2nd ASSESSMENT PERIODS</strong></p>
+<p><br />There will be <strong>no second assessment period</strong>.</p>
+
+## Obtenção de frequência
+In order to obtain a final classification, attendance of the course unit is required, as established in the University of Porto's grading regulations. A student is considered to have attended a curricular unit if, after regular enrolment, he or she does not exceed the maximum number of absences corresponding to 25% of each of the types of classes offered.
+
+## Melhoria de classificação
+Only possible by attending the course in a subsequent year.
+

@@ -1,0 +1,483 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Cartografia, Topografia e SIG
+
+## Curso responsável
+Licenciatura em Engenharia de Minas e Geo-Ambiente
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p>Familiarizar os Estudantes com os diversos recursos existentes e disponíveis para o geo-referenciamento das atividades e trabalhos de engenharia, nomeadamente a Cartografia, Topografia e os Sistemas de Informação Geográfica.</p>
+<p>Assume-se a condução da UC de CTSIG em três módulos, a saber:</p>
+<p><span style="text-decoration: underline;">Módulo de Cartografia e Topografia (TC).</span></p>
+<p><span style="text-decoration: underline;">Módulo de Sistemas de Informação Geográfica (SIG).<br /><br />Módulo de Modelação Digital de Terrenos (MDT).<br /></span></p>
+
+## Resultados de aprendizagem e competências
+<p><!-- [if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>PT</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="--"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--></p>
+<p><!-- [if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="0" Name="Body Text"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--><!-- [if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+</style>
+<![endif]--></p>
+<p class="MsoBodyText" style="text-align: left; line-height: 150%;" align="left"><span style="text-decoration: underline;"><span style="font-family: 'Arial','sans-serif';">Módulo de Cartografia e Topografia:<br /></span></span></p>
+<p class="MsoBodyText" style="text-align: left; line-height: 150%;" align="left"><span style="text-decoration: underline;"><span style="font-family: 'Arial','sans-serif';">Noções Preliminares, Forma da Terra, Representações do Terreno</span></span></p>
+<p class="MsoBodyText" style="text-align: left; line-height: 150%;" align="left"><span style="font-family: 'Arial','sans-serif';">Conhecer os diversos tipos de representações da superfície da terra.</span></p>
+<p class="MsoBodyText" style="text-align: left; line-height: 150%;" align="left"><span style="font-family: 'Arial','sans-serif';">Distinguir operações de planimetria e de altimetria.</span></p>
+<p class="MsoBodyText" style="text-align: left; line-height: 150%;" align="left"><span style="font-family: 'Arial','sans-serif';">Familiarizar-se com as Cartas Militares Nacionais à escala 1/25000.</span></p>
+<p class="MsoBodyText" style="text-align: left; line-height: 150%;" align="left"><span style="font-family: 'Arial','sans-serif';">Usar os diversos tipos de escala.</span></p>
+<p class="MsoBodyText" style="text-align: left; line-height: 150%;" align="left"><span style="font-family: 'Arial','sans-serif';">Realizar operações de cálculo de distâncias e áreas sobre cartas topográficas.</span></p>
+<p class="MsoBodyText" style="text-align: left; line-height: 150%;" align="left"><span style="font-family: 'Arial','sans-serif';">Construir perfis topográficos.</span></p>
+<p class="MsoBodyText" style="text-align: left; line-height: 150%;" align="left"><span style="font-family: 'Arial','sans-serif';">Conhecer as leis que regem as representações por curvas de nível.</span></p>
+<p class="MsoBodyText" style="text-align: left; line-height: 150%;" align="left"><span style="font-family: 'Arial','sans-serif';">Identificar formas típicas de terreno em cartas topográficas.</span></p>
+<p class="MsoBodyText" style="text-align: left; line-height: 150%;" align="left"><span style="font-family: 'Arial','sans-serif';">Saber delimitar bacias hidrográficas sobre cartas topográficas.</span></p>
+<p class="MsoBodyText" style="text-align: left; line-height: 150%;" align="left"><span style="font-family: 'Arial','sans-serif';">Conhecer o significado dos principais símbolos existentes nas cartas topográficas.</span></p>
+<p class="MsoBodyText" style="text-align: left; line-height: 150%;" align="left"><span style="font-family: 'Arial','sans-serif';">Reconhecer a importância da orientação no terreno e praticá-la.</span></p>
+<p class="MsoBodyText" style="text-align: left; line-height: 150%;" align="left"><span style="font-family: 'Arial','sans-serif';"> </span><span style="text-decoration: underline;"><span style="font-family: 'Arial','sans-serif';">Instrumentos &#8211; Levantamentos Topográficos</span></span></p>
+<p class="MsoBodyText" style="text-align: left; line-height: 150%;" align="left"><span style="font-family: 'Arial','sans-serif';">Conhecer e usar os principais instrumentos e acessórios auxiliares em operações de levantamento topográfico.</span></p>
+<p class="MsoBodyText" style="text-align: left; line-height: 150%;" align="left"><span style="font-family: 'Arial','sans-serif';">Praticar o posicionamento e estacionamento dos instrumentos de topografia.</span></p>
+<p class="MsoBodyText" style="text-align: left; line-height: 150%;" align="left"><span style="font-family: 'Arial','sans-serif';">Compreender os princípios de medição indireta de distâncias.</span></p>
+<p class="MsoBodyText" style="text-align: left; line-height: 150%;" align="left"><span style="font-family: 'Arial','sans-serif';">Realizar medidas de distâncias por via direta e indireta.</span></p>
+<p class="MsoBodyText" style="text-align: left; line-height: 150%;" align="left"><span style="font-family: 'Arial','sans-serif';">Implementar diversos tipos de alinhamentos topográficos.</span></p>
+<p class="MsoBodyText" style="text-align: left; line-height: 150%;" align="left"><span style="font-family: 'Arial','sans-serif';">Prolongar alinhamentos topográficos para além de obstáculos.</span></p>
+<p class="MsoBodyText" style="text-align: left; line-height: 150%;" align="left"><span style="font-family: 'Arial','sans-serif';">Conhecer, usar uma caderneta taqueométrica.</span></p>
+<p class="MsoBodyText" style="text-align: left; line-height: 150%;" align="left"><span style="font-family: 'Arial','sans-serif';">Realizar um levantamento topográfico simples e uma piquetagem.</span></p>
+<p class="MsoNormal"><span style="font-family: 'Arial','sans-serif';">Adquirir hábitos de manutenção e conservação do material de topografia.</span></p>
+<p class="MsoNormal"><span style="font-family: 'Arial','sans-serif';"><span style="text-decoration: underline;">Módulo de Sistemas de Informação Geográfica</span><br /></span></p>
+<p class="MsoNormal"><span style="font-family: 'Arial','sans-serif';">Adquirir e compreender as noções essenciais de informação geográfica - georeferenciação<span style="text-decoration: underline;"> <br /></span></span></p>
+<p class="MsoNormal"><span style="font-family: 'Arial','sans-serif';">Compreender e aplicar os sistemas de coordenadas: geográficas e métricas.<br /></span></p>
+<p class="MsoNormal"><span style="font-family: 'Arial','sans-serif';">Desenvolver aplicações no âmbito de um projeto SIG: variáveis e atributos.<br /></span></p>
+<p class="MsoNormal"><span style="font-family: 'Arial','sans-serif';">Capacidade de elaboração de um projeto SIG: contrução de saídas em ambiente cartográfico. <br /><br /><span style="text-decoration: underline;">Módulo de Modelação Digital de Terrenos</span><br /></span></p>
+<p>Contactar com os Princípios de Fotogrametria;</p>
+<p>Observar e, eventualmente praticar, o uso de drones para construção de mosaicos de fotografias de terrenos;</p>
+<p>Conhecer os princípios de funcionamento de um Perfilometro Laser;</p>
+Entender o processo de construção de modelos digitais de terreno.
+<p class="MsoNormal"><span style="font-family: 'Arial','sans-serif';"> </span></p>
+
+## Programa
+<p><span style="text-decoration: underline;">Módulo de Cartografia e Topografia:</span></p>
+<p>Conceitos base de Topografia;</p>
+<p>Leitura de Cartas Topográficas;</p>
+<p>Formas singulares de terreno e suas representações Topográficas:</p>
+<p>Planimetria e nivelamento;</p>
+<p>Instrumentos de topografia;</p>
+<p>Levantamentos Topográficos;</p>
+<p><span style="text-decoration: underline;">Módulo de Sistemas de Informação Geográfica:</span></p>
+<p>Conceitos básicos de modelação e representação da Terra;</p>
+<p>Geóide, Datum, Projecções e sistemas de coordenadas;<br /><br />Posicionamento com GPS;<br /><br />Conceitos básicos sobre sistemas de informação geográfica;</p>
+<p>Métodos informáticos de administração de dados geográficos;</p>
+<p>Modelos e estruturas de dados geográficos;</p>
+<p>Manipulação de dados geográficos;<br /><br />Exemplos de utilização elementar de um software SIG.<br /><br /></p>
+<p><span style="text-decoration: underline;">Módulo de Modelação Digital de Terrenos</span></p>
+<p>Princípios de Fotogrametria;</p>
+<p>Metodologias de obtenção de fotografias;</p>
+<p>Perfilometria Laser;</p>
+<p>Nuvens de pontos e softwares de modelação;</p>
+<p>Deteção e tratamento de pontos outliers;</p>
+<p>Exemplos práticos de construção de modelos digitais de terreno</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas Teórico-Práticas e Práticas<br />Realce para as Aulas Práticas, sempre que possível, nos terrenos da FEUP com o objectivo de realização de Levantamentos Topográficos vários.<br />Aulas práticas de utilização de um software SIG (construção de mapas temáticos, georreferenciação de raster, construção de um modelo digital do terreno).</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 13.0 horas
+- Frequência das aulas: 56.0 horas
+- Trabalho escrito: 10.0 horas
+- Estudo autónomo: 83.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A componente de Avaliação Exame tem um peso na nota final de 60%.<br />Os trabalhos práticos do Módulo de Cartografia/Topografia  e do Móduo de Sistemas de Informação Geográfica têm cada um o peso de 20% na nota final.</p>
+
+## Obtenção de frequência
+<p>Conforme previsto nos regulamentos aplicáveis<br /><br /></p>
+
+## Melhoria de classificação
+<p>No Exame de Recurso</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Cartography, Topography and GIS
+
+## Curso responsável
+Bachelor in Mining and Geo-Environmental Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p><span id="result_box" lang="en"><span class="hps">To acquaint</span> <span class="hps">students</span> <span class="hps">with the various</span> <span class="hps">existing <span class="hps">available res</span>ources </span><span class="hps">for</span> <span class="hps">geo</span>referencing <span class="hps">activities</span> <span class="hps">and</span> <span class="hps alt-edited">engineering works</span> <span class="hps">including</span> <span class="hps">Cartography</span>, <span class="hps">Surveying</span> <span class="hps">and</span> <span class="hps">Geographic Information Systems</span>.</span></p>
+<p><span id="result_box" lang="en"><span class="hps">CTSIG</span> course<span class="hps"> will be ministered in two modules</span>, namely:<br /><br /><span style="text-decoration: underline;"><span class="hps">Module</span> of <span class="hps">Mapping and</span> <span class="hps">Surveying (TC)</span>.</span><br /><br /><span style="text-decoration: underline;"><span class="hps">Module</span> of <span class="hps">Geographic Information Systems (SIG)</span>.<br /><br />Module of Digital Terrain Modeling (DTM).<br /></span></span></p>
+
+## Resultados de aprendizagem e competências
+<p><span id="result_box" lang="en"><span style="text-decoration: underline;"><span class="hps">Cartography and</span> <span class="hps">Topography Module</span></span>:<br /><br /><span class="hps">Preliminary Notions</span>, <span class="hps">Form</span> <span class="hps">of the Earth</span>, <span class="hps">Representations</span> <span class="hps">of the</span> <span class="hps">Land</span><br /><br /><span class="hps">Know the different</span> <span class="hps">types of</span> <span class="hps">representations</span> <span class="hps">of</span> <span class="hps">the earth's surface</span>.<br /><br /><span class="hps">Distinguish</span> <span class="hps">operations</span> of <span class="hps">planimetry</span> <span class="hps">and</span> <span class="hps">altimetry</span>.<br /><br /><span class="hps">Become familiar</span> <span class="hps">with the</span> <span class="hps">National</span> <span class="hps">Military</span> Maps at <span class="hps">the scale</span> <span class="hps">1/25000</span>.<br /><br /><span class="hps">Using</span> <span class="hps">the different types</span> <span class="hps">of scales.</span><br /><br /><span class="hps">Perform operations</span> <span class="hps">to calculate</span> <span class="hps">distances and</span> <span class="hps">areas</span> <span class="hps">on</span> <span class="hps">topographic maps</span>.<br /><br /><span class="hps">Construct</span> <span class="hps">topographic profiles</span>.<br /><br /><span class="hps">Know the laws</span> of contours <span class="hps">representation</span>.<br /><br /><span class="hps">Identify</span> <span class="hps">typical forms</span> <span class="hps">of land in</span> <span class="hps">topographic maps</span>.<br /><br /><span class="hps">Knowing</span> <span class="hps">delineate</span> <span class="hps">watersheds</span> <span class="hps">on</span> <span class="hps">topographic maps</span>.<br /><br /><span class="hps">Know the meaning of</span> <span class="hps">key</span> <span class="hps">symbols</span> <span class="hps">in</span> <span class="hps">existing</span> <span class="hps">topographic maps</span>.<br /><br /><span class="hps">Recognize the importance of</span> <span class="hps">field guidance</span> <span class="hps">and practice it</span>.<br /><br />  <span class="hps">Instruments</span> <span class="hps">-</span> <span class="hps">Topographic Surveys</span><br /><br /><span class="hps">Know and</span> <span class="hps">use</span> <span class="hps">the major tools</span> <span class="hps">and accessories</span> <span class="hps">auxiliary</span> <span class="hps">operations</span> <span class="hps">surveying</span>.<br /><br /><span class="hps">Practice positioning</span> <span class="hps">and parking</span> <span class="hps">of</span> <span class="hps">surveying instruments</span>.<br /><br /><span class="hps">Understand</span> <span class="hps">the principles</span> <span class="hps">of</span> <span class="hps">indirect measurement</span> <span class="hps">of</span> <span class="hps">distances</span>.<br /><br /><span class="hps">Undertake</span> <span class="hps">measures</span> <span class="hps">distances</span> <span class="hps">by direct</span> <span class="hps">and indirect</span>.<br /><br /><span class="hps">To implement</span> <span class="hps">various kinds of</span> <span class="hps">topographic</span> <span class="hps">alignments</span>.<br /><br /><span class="hps">Alignments</span> <span class="hps">extend</span> <span class="hps">beyond</span> <span class="hps">topographic</span> <span class="hps">obstacles</span>.<br /><br /><span class="hps">Known,</span> <span class="hps">use a</span> <span class="hps">passbook</span> <span class="hps">taqueométrica</span>.<br /><br /><span class="hps">Conduct a</span> <span class="hps">simple</span> <span class="hps">survey</span> <span class="hps">and</span> <span class="hps">stakeout</span>.<br /><br /><span class="hps">Acquire</span> <span class="hps">habits</span> <span class="hps">maintenance</span> <span class="hps">and conservation of</span> <span class="hps">material</span> <span class="hps">topography.</span><br /><br /><span style="text-decoration: underline;"><span class="hps">Module</span> <span class="hps">Geographic Information Systems</span>:</span><br /><br /><span class="hps">Acquire and</span> <span class="hps">understand the</span> <span class="hps">essential concepts</span> <span class="hps">of</span> <span class="hps">geographic information</span> <span class="hps">-</span> <span class="hps">georeferencing</span><br /><br /><span class="hps">Understand and apply</span> <span class="hps">the coordinate systems</span>: <span class="hps">geographic</span> <span class="hps">and metrics</span>.<br /><br /><span class="hps">Develop</span> <span class="hps">applications</span> <span class="hps">within a</span> <span class="hps">GIS project</span>: <span class="hps">variables</span> <span class="hps">and attributes</span>.<br /><br /><span class="hps">Capacity</span> <span class="hps">development of a</span> <span class="hps">GIS project</span>: <span class="hps">construction of</span> <span class="hps">cartographic</span> <span class="hps">outputs</span> <span class="hps">environment</span>.<br /><br /><span style="text-decoration: underline;">Module of Digital Terrain Modeling:</span><br /><br /><span id="result_box" class="" lang="en"><span class="">Contact the Principles of Photogrammetry;</span><br /><br /><span class="">Observe and, if necessary practice, the use of drones to construct land photograph mosaics;</span><br /><br /><span class="">Know the operating principles of a Laser Profiler;</span><br /><span class=""><br />Understand the process of building digital terrain models.</span></span><br /></span></p>
+
+## Programa
+<p><span id="result_box" lang="en"><span style="text-decoration: underline;"><span class="hps">Module</span> <span class="hps">Cartography and</span> <span class="hps">Topography</span>:</span><br /><br /><span class="hps">Basic concepts</span> <span class="hps">of Surveying</span>;<br /><br /><span class="hps">Reading</span> <span class="hps">Topographical</span> Maps;<br /><br /><span class="hps">Singular forms</span> <span class="hps">of land</span> <span class="hps">and their</span> <span class="hps">topographical</span> <span class="hps">representations</span>:<br /><br /><span class="hps">Planimetry</span> <span class="hps">and leveling</span>;<br /><br /><span class="hps">Surveying instruments</span>;<br /><br /><span class="hps">Topographic Surveys</span>;<br /><br /><span style="text-decoration: underline;"><span class="hps">Module</span> <span class="hps">Geographic Information Systems</span>:</span><br /><br /><span class="hps">Basics of</span> <span class="hps">modeling and</span> <span class="hps">representation of the earth</span>;<br /><br /><span class="hps">Geoid</span>, <span class="hps">Datum</span>, <span class="hps">projections</span> <span class="hps">and</span> <span class="hps">coordinate systems</span>;<br /><br /><span class="hps">Positioning with</span> <span class="hps">GPS</span>;<br /><br /><span class="hps">Basics of</span> <span class="hps">geographic information systems</span>;<br /><br /><span class="hps">Computational methods</span> <span class="hps">of</span> <span class="hps">administration of</span> <span class="hps">geographic data</span>;<br /><br /><span class="hps">Models and</span> <span class="hps">structures</span> <span class="hps">of</span> <span class="hps">spatial data;</span><br /><br /><span class="hps">Manipulation</span> <span class="hps">of</span> <span class="hps">spatial data;</span><br /><br /><span class="hps">Examples</span> <span class="hps">of use</span> <span class="hps">of a</span> <span class="hps">basic</span> <span class="hps">GIS software</span>.<br /><br /><span style="text-decoration: underline;">Module of Digital Terrain Modeling:</span><br /><br /> Principles of Photogrammetry;<br /><br /> Methodologies for obtaining photographs;<br /><br /> Laser Profiling;<br /><br /> Point clouds and modeling software;<br /><br /> Detection and treatment of outliers points;<br /><br /> Practical examples of building digital terrain models<br /></span></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span id="result_box" lang="en"><span class="hps alt-edited">Theoretical and Practical</span> Classes <span class="hps">and</span> <span class="hps">Practicals Classes</span><br /> <span class="hps">Practical classes</span> <span class="hps">will be</span> held, <span class="VIiyi" lang="en"><span class="JLqJ4b ChMk0b" data-language-for-alternatives="en" data-language-to-translate-into="pt" data-phrase-index="0">whenever possible</span></span>, <span class="hps">in </span><span class="hps">FEUP</span> <span class="hps">Campusfor the purpose of</span> <span class="hps">carrying out</span> <span class="hps">various</span> <span class="hps">Topographic Surveys</span>.<br /> <span class="hps">Practical lessons</span> <span class="hps">using a</span> <span class="hps">GIS software</span> <span class="hps atn">(</span>construction of <span class="hps">thematic maps</span>, <span class="hps">georeferencing</span> <span class="hps">raster</span>, <span class="hps">building a</span> <span class="hps">digital terrain model</span>).</span></p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 13.0 hours
+- Frequência das aulas: 56.0 hours
+- Trabalho escrito: 10.0 hours
+- Estudo autónomo: 83.0 hours
+
+## Fórmula de cálculo da classificação final
+<span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b ChMk0b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;0&quot;>The Exame Evaluation component has a weight in the final grade of 60%.</span> <span class=&quot;JLqJ4b ChMk0b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;2&quot;>The practical work of the Cartography / Topography Module and the Geographic Info Systems Module each have a 20% mark in the final grade.</span></span>
+
+## Obtenção de frequência
+<p>A<span id="result_box" lang="en"><span class="hps"><span class="VIiyi" lang="en"><span class="JLqJ4b ChMk0b" data-language-for-alternatives="en" data-language-to-translate-into="pt" data-phrase-index="0">s provided in applicable regulations</span></span> </span></span></p>
+
+## Melhoria de classificação
+<p><span id="result_box" class="short_text" lang="en"><span class="hps">In the </span><span class="hps alt-edited">Appeal Exam</span></span></p>
+

@@ -1,0 +1,121 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas de Informação e Análise de Dados
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p><strong>OBJETIVO GERAL </strong>O principal objetivo da disciplina é o de preparar os alunos para projetarem sistemas de informação adequados às necessidades dos utilizadores e aos objetivos de gestão das organizações, considerando o curto, médio e longo prazo. Um segundo objetivo consiste em dar a conhecer a importância dos dados e das técnicas de análise de dados no apoio à tomada de decisão</p>
+
+## Resultados de aprendizagem e competências
+<p>OBJECTIVOS PARTICULARES <br /><br />1. Preparar os alunos para utilizarem técnicas de identificação de factores críticos de sucesso e de modelação de actividades e processos de negócio. <br /><br />2. Preparar os alunos para utilizarem técnicas de modelação conceptual de informação, em particular de classes de objectos. <br /><br />3. Preparar os alunos para utilizarem uma metodologia de projecto de engenharia informática. <br /><br />4. Preparar os alunos para utilizarem as ferramentas informáticas disponíveis nos Sistemas de Gestão de Bases de Dados de modelo relacional, ou SGBDr, para prototipificação de Sistemas de Informação. <br /><br />5. Preparar os alunos para utilizarem técnicas de modelação relacional.<br /><br />6. Conhecer as várias fases do processo de análise de dados e extração de conhecimento;</p>
+
+## Pré-requisitos e co-requisitos
+Álgebra, conhecimentos básicos de computação pessoal.
+
+## Programa
+<p>1. PROJECTO DE SISTEMAS DE INFORMAÇÃO: Introdução aos processos de análise e modelação de sistemas e organizações; Introdução ao projecto de construção de um SI. <br /><br />2. MODELAÇÃO CONCEPTUAL DE CLASSES: O Processo de Modelação Estática de Classes; Classes de Objectos, Atributos e Métodos; Ligações, Associações e Agregações Simples; Generalização e Herança Simples; Mapeamento entre o Modelo de Classes e o Modelo Relacional. <br /><br />3. PROJECTO DE BASES DE DADOS: Introdução aos SGBD - Sistemas de Gestão Bases de Dados; Sistemas Relacionais e Linguagem SQL; Normalização Funcional de Dados para Concepção de BDr. <br /><br />4. INTRODUÇÃO À ANÁLISE DE GRANDES QUANTIDADES DE DADOS: Data mining e o processo de extração de conhecimento; Metodologia CRISP; Construção de um modelo de classificação, metodologia e métricas de avaliação.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A UC decorrerá com aulas teórico-práticas em que a exposição dos conteúdos será intercalada com a resolução de exercícios de aplicação.</p>
+<p>Será utilizada uma ferramenta de software para gestão de base de dados (MS Access ou MySQL) e uma ferramenta de software para análise de dados (R ou Rapidminer).</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Participação presencial: 0.0 %
+- Trabalho escrito: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 40.0 horas
+- Estudo autónomo: 42.5 horas
+- Frequência das aulas: 39.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final será calculada com base nas classificações obtidas no exame (com peso 50%) e no trabalho de grupo (com peso de 50%).</p>
+<p>P1 Exame: 50% (<strong>Nota: É necessária uma nota mínima de 6,5 em 20 para completar com sucesso esta UC.</strong> )<br /><br />P2 Projecto de Grupo<br />P2.1 Trabalho em Access: 30%<br />P2.2 Trabalho em Análise de Dados: 20%</p>
+<p>Para os alunos cuja classificação do trabalho (P2=0.3 x P2.1 + 0.2 x P2.2) exceda em mais de 5 valores a classificação do exame (P1, será atribuída para o cálculo da classificação final uma classificação ao trabalho de P2 = P1 + 5.<br /><br />Os alunos que não responderem ao inquérito utilizado para definir o perfil de cada aluno no prazo estipulado terão uma penalização de até 25% na componente da classificação final correspondente ao trabalho de grupo.</p>
+<p>Na época de recurso: A classificação obtida no trabalho e no mini-teste de access mantém o mesmo peso na classificação final na época de recurso.</p>
+
+## Obtenção de frequência
+<p>É necessário obter as classificação mínimas indicadas para ter frequência na disciplina (cf. definição de frequência, &#8220;Normas Gerais de Avaliação&#8221;, Conselho Pedagógico da FEUP). <br /><br />As provas escritas serão sem consulta, sendo fornecidas as principais fórmulas eventualmente necessárias. <br />A avaliação terá também em conta a apresentação, correcção e qualidade do português utilizado. <br /><br /><br /></p>
+
+## Melhoria de classificação
+<p>Os estudantes que pretendam obter melhoria da classificação nas componetes P1 ou P2 poderão também fazê-lo no ano letivo seguinte.</p>
+<p> </p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Information Systems and Data Analysis
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>This course aims to prepare students to develop information systems suitable for users and organisations, taking into account short, medium and long term. Make the students aware of the importance data and of data analytics techniques to support the decision making process.</p>
+
+## Resultados de aprendizagem e competências
+<p style="text-align: left;">This course also aims to: <br /><br />1. Prepare students to use identification techniques of critical factors of success and active modelling and business processes.</p>
+2. Prepare students to use conceptual modelling techniques of information, especially object classes. <br /><br />3. Prepare students to use a project methodology of engineering informatics.<br /><br />4. Prepare students to use the available computer tools of SGBDr (Sistema de Gestão de Bases de Dados)- System Manager Database- to prototype information systems.<br /><br />5. Prepare students to use relational modelling techniques.<br /><br />6. Make the students aware of the importance of data analytics techniques to support the decision making process;
+
+## Pré-requisitos e co-requisitos
+<p style="font-weight: 400;">Algebra, personal computing skills.</p>
+
+## Programa
+<p>1. SYSTEMS ANALYSIS AND DESIGN - determining systems requirements; development life cycles; decision analysis concepts and systems design. <br /><br />2. CONCEPTUAL MODELLING CLASSES: process of static classes modelling; classes of objects; attributes and methods; connections; associations and simple aggregations; generalization and simple inheritance; mapping between classes model and relational model. <br /><br />3. DATABASE DESIGN: Introduction to SGBD, Relational Systems and SQL language; Functional normalization of data to BDr design. <br /><br />4. INTRODUCTION TO THE ANALYSIS OF LARGE DATASETS: Data Mining and the knowledge discovery process; The CRISP methodology; Building a classification model, methodology and evaluation metrics.<br /><br /></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><strong>The course will be composed of theoretical-practical classes in which the presentation of the theoretical notions will be complemented with the discussion of problems and exercices.</strong></p>
+<p><strong>It will be used a software tool for database management (MS Access or MySQL) and a software tool for data mining (R or Rapidminer).</strong></p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Participação presencial: 0.0 %
+- Trabalho escrito: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 40.0 hours
+- Estudo autónomo: 42.5 hours
+- Frequência das aulas: 39.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final mark will be calculated based on the grades achieved on the exam (50% of the Final Mark),  and on the group assignment (50% of the Final Mark)</p>
+<p>P1. Final Exam : 50% (<strong>Note: A minimum mark of 6.5 out of 20 is required in this component for successful completion of this course.</strong></p>
+<p>P2 Group assignment<br />P2.1 Project in Access: 30%<br />P2.2 Project in Data Analysis:20 %<br /><br />For those students whose project classification (P2=0.3 x P2.1 + 0.2 x P2.2) exceeds the exam classification (P1) by more than 5 marks, for the computation of the final mark it will be considered as the project classification P2=P1+5</p>
+<p><span id="result_box" lang="en"><span class="hps">Students who</span> <span class="hps">do not respond</span> <span class="hps">to the survey</span> <span class="hps">used to define</span> <span class="hps">the profile</span> <span class="hps">of each student</span> <span class="hps">within the stipulated period</span> <span class="hps">will have a penalty</span> <span class="hps">of up to 25</span>% <span class="hps">on the final grade</span> <span class="hps">in the</span> <span class="hps">component</span> <span class="hps">corresponding to</span> <span class="hps">team project</span>.</span></p>
+
+## Obtenção de frequência
+<p>Students can only complete this course if they achieve a minimum grade indicated (General Evaluation Rules of FEUP). <br /><br />Students are not allowed to consult notes during the written exams, because the most important formulas will be provided. <br />Students will also be assessed on their correctness and Portuguese language skills.<br /><br /><br /></p>
+
+## Melhoria de classificação
+<p>Students may also improve their marks in the P1 or P2 components in the following academic year.</p>
+<p> </p>
+

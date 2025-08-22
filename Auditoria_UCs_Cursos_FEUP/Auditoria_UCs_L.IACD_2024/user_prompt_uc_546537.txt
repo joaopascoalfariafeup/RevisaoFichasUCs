@@ -1,0 +1,111 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Ciência de Dados em Larga Escala
+
+## Curso responsável
+Licenciatura em Inteligência Artificial e Ciência de Dados
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+Introdução ao uso de infra-estruturas de &quot;cloud computing&quot; para processamento massivo de dados (&quot;big data&quot;) em problemas do mundo real.
+
+## Resultados de aprendizagem e competências
+- Uso de serviços de cloud-computing para aplicações  big data.<br />- Desenho e implementação de aplicações para big-data usando modelos de programação suportados pela cloud.<br />- Conhecimento de fundamentos e algoritmos nucleares para mineração de dados em aplicações de big data.<br />- Experiência prática com ferramentas do estado da arte disponíveis para cloud computing e big data.
+
+## Programa
+<p>- Introdução ao big data: desafios, cenários de exemplo sob o ponto de vista científico e empresarial.</p>
+<p>- O paradigma de cloud computing: modelos de serviço (PaaS, SaaS, IaaS); virtualização, instalação e orquestração de serviços; integração de recursos de computação, networking e armazenamento de dados; expansibilidade, tolerância a falhas, elasticidade.</p>
+<p>- Programação de aplicações big data  baseadas no paradigma map-reduce.</p>
+- Trabalhos de programação de aplicações big-data em tópicos como streams de dados, grafos de redes sociais, sistemas de recomendação ou bioinformática.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>- Introdução às tecnologias de cloud computing tendo em conta os requisitos das aplicações big data.<br /><br />- Projectos de programação usando ferramentas dos principais fornecedores de serviços cloud (Amazon Web Services, Microsoft Azure, Google Cloud, etc) e servidores de algo desempenho.<br /><br /></p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 40.0 %
+- Teste: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 52.0 horas
+- Frequência das aulas: 52.0 horas
+- Estudo autónomo: 58.0 horas
+
+## Fórmula de cálculo da classificação final
+<br />Os componentes de avaliação compreendem:<br /><br /><ul><br /><li>1 exame (60%) (12 valores)</li><br /><li>1 trabalho prático (<strong>TP</strong>) com peso de <strong>40</strong>% (8 valores)</li><br /><li>mini-trabalhos ao longo do semestre</li><br /></ul><br /><br />Aprovação: nota final maior ou igual a 10 E nota do exame pelo menos 30% do valor total (&gt;=3,6 valores).
+
+## Obtenção de frequência
+--
+
+## Melhoria de classificação
+A data de exame de recurso pode ser usada para melhoria de nota.<br /><br />A classificação dos trabalhos práticos não pode ser melhorada.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Large Scale Data Science
+
+## Curso responsável
+Bachelor in Artificial Intelligence and Data Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+Introduction to the use of cloud computing infrastructures for processing massive amounts of data (&quot;big data&quot;) in real-world problems.
+
+## Resultados de aprendizagem e competências
+- Use of cloud computing services  for big data applications.<br />- Programming big data applications using cloud programming models.<br />- Understanding of core fundaments and algorithms for mining big data.<br />- Hands-on practice with state-of-the-art tools for cloud computing and big data.
+
+## Programa
+<p>- Introduction to big data processing: challenges, example problems from science and business.</p>
+<p>- The cloud computing paradigm: service models (PaaS, SaaS, IaaS); service virtualization, deployment and orchestration; integration of computing, networking and storage resources; scalability, fault-tolerance, and &#8220;elasticity&#8221;.</p>
+<p>- Cloud storage solutions for big data: cloud file systems, NoSQL and graph-based databases, &#8220;object stores&#8221;.</p>
+<p>- High-performance big data applications using cloud programming models: MapReduce, stream-based programming.</p>
+- Programming assignments on big data applications on specific topics such as data streams, social-network graphs, recommendation systems, or bioinformatics. <strong><br /> <br /> </strong>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>- Introduction of cloud computing technologies in tandem with big data application requirements.</p>
+<p>- Hands-on practice in programming projects using tools by major cloud service providers (Amazon Web Services, Microsoft Azure, Google Cloud, etc) and DCC computer clusters for MapReduce.</p>
+<p> </p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 40.0 %
+- Teste: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 52.0 hours
+- Frequência das aulas: 52.0 hours
+- Estudo autónomo: 58.0 hours
+
+## Fórmula de cálculo da classificação final
+The grade is determined by two evaluation:<br /><br /><ul><br /><li>1 exam (60%) (12 &quot;valores)</li><br /><li>1 project assignment  (<strong>TP</strong>) with a weight of <strong>40</strong>% (8 &quot;valores&quot;)</li><br /><li>mini- assignments along the semester</li><br /></ul><br /><br />To be approved: final grade greater or equal than 10 AND grade in the exam of at least 30% (&gt;=3.6 &quot;valores&quot;)
+
+## Obtenção de frequência
+--
+
+## Melhoria de classificação
+The grade can be improved in the final exam. <br /><br />The grade of project assignments cannot be improved.
+

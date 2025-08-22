@@ -1,0 +1,143 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Aplicações Informáticas para Engenharia Química
+
+## Curso responsável
+Licenciatura em Engenharia Química
+
+## Créditos ECTS
+1,5
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>Nesta unidade curricular pretende-se que os estudantes adquiram competências em aplicações informáticas relevantes para a resolução de problemas complexos de engenharia química, nomeadamente: competências em simuladores de processo, e dinâmica de fluidos e desenho computacional.</p>
+
+## Resultados de aprendizagem e competências
+<p>O estudante que complete com sucesso esta unidade curricular deverá ser capaz de:</p>
+<p>1) Simular processos industriais de pequena complexidade, escolhendo adequadamente os modelos termodinâmicos e de operações unitárias aplicáveis, e analisar a influência das variáveis de projeto e condições operatórias;</p>
+<p>2) Desenvolver aplicações simples recorrendo a dinâmica de fluidos computacional;</p>
+<p>3) Aplicar os princípios básicos de desenho técnico e de desenho assistido por computador.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Os estudantes devem possuir conhecimentos básicos de termodinâmica, mecânica de fluidos e de processos de separação e reação.</p>
+
+## Programa
+<p>Módulo I - Simuladores de Processo</p>
+<p>Introdução à simulação de processos e aos simuladores de processo. Seleção de modelos termodinâmicos e de simulação de operações unitárias, com particular ênfase em unidades de separação e de reação. Simulação de processos industriais. Análise da influência das variáveis operatórias e de projeto na simulação.</p>
+<p>Módulo II - Dinâmica de Fluidos Computacional (CFD)</p>
+<p>Introdução ao CFD: identificação e aplicação de metodologias de modelização e simulação em CFD.</p>
+<p>Resolução de problemas com recurso ao CFD: 1) Pré-processamento &#8211; definição de domínios e malhas no software da ANSYS; 2) Simulação no ANSYS Fluent®; 3) Pós-processamento &#8211; diferentes tipos de representação dos resultados e interpretação dos mesmos.</p>
+<p>Módulo III - Desenho Técnico e Desenho Assistido por Computador (CAD)</p>
+<p>Introdução ao desenho técnico: Representação ortográfica. Representação axonométrica. Cotagem nominal.</p>
+<p>Introdução ao desenho assistido por computador (CAD): Utilização de sistemas de CAD 3D na modelação tridimensional de peças componentes e montagem em conjuntos. Utilização de elementos normalizados disponíveis em bibliotecas e componentes integradas. Obtenção automática de desenhos de conjunto e desenhos de definição de componentes de conjuntos.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Uso de metodologias de aprendizagem ativa baseadas na lecionação dos conceitos básicos e na resolução de problemas com recurso a técnicas computacionais.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 10.0 %
+- Trabalho prático ou de projeto: 90.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 16.5 horas
+- Frequência das aulas: 19.5 horas
+- Trabalho laboratorial: 4.5 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final tem quatro componentes:<br /> <br /> 1) Participação nas aulas (PP)</p>
+<p>2) Prova de Avaliação do Módulo I (P1)</p>
+<p>3) Prova de Avaliação do Módulo II (P2)</p>
+<p>4) Realização do trabalho do Módulo III (P3)</p>
+<p> A classificação final (CF) será calculada pela seguinte fórmula:<br /> <br /> CF = 0,1*PP+0,3*P1+0,3*P2+0,3*P3<br /> <br /> Para obter aprovação à Unidade Curricular o estudante deverá ter uma classificação não inferior a 7,5 em cada um dos módulos (isto é, P1, P2 e P3 &#8805; 7,5), e uma classificação final igual ou superior a 9,5 (isto é, CF &#8805; 9,5).</p>
+<p>As provas de avaliação dos módulos I e II consistirão na realização de um exame em computador fora do horário das aulas. A avaliação do módulo III consistirá na realização de um trabalho e entrega do respetivo relatório.</p>
+<p>Haverá uma época de recurso em que os estudantes poderão realizar provas de avaliação dos módulos I e/ou II. Esta época de recurso destina-se aos estudantes que não obtiveram a classificação mínima de 7,5 nesses módulos, ou não obtiveram aprovação à UC, ou queiram realizar melhoria de classificação a esses módulos.</p>
+<p>Os estudantes que não obtenham a classificação mínima no módulo III, ou queiram fazer melhoria de classificação a este módulo, só o poderão fazer no ano letivo seguinte.</p>
+
+## Obtenção de frequência
+<p>Realização da prova de avaliação em computador dos módulos I e II, entrega do trabalho no módulo III, e não dar mais do que uma falta não justificada em cada um dos módulos.</p>
+
+## Melhoria de classificação
+<p>Realizar as provas de avaliação aos módulos I e/ou II na época de recurso ou, no ano letivo seguinte, frequentar a unidade curricular ou realizar as provas de avaliação ao(s) módulo(s) que pretender melhorar. A melhoria de classificação ao módulo III só poderá ser realizada no ano letivo seguinte.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Software Tools for Chemical Engineering
+
+## Curso responsável
+Bachelor in Chemical Engineering
+
+## Créditos ECTS
+1,5
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>In this curricular unit it is aimed that students acquire skills in computer applications relevant to the solution of chemical engineering problems, namely: skills in process simulators, fluid dynamics and computational design.</p>
+
+## Resultados de aprendizagem e competências
+<p>Students that successfully complete this course should be able to:</p>
+<p>1) Simulate industrial processes of small complexity, properly choosing the applicable thermodynamic and unit operations models, and analyze the influence of design variables and operating conditions;</p>
+<p>2) Develop simple applications using computational fluid dynamics;</p>
+<p>3) Apply the basic principles of technical drawing and computer-aided design.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Students must have basic knowledge of thermodynamics, fluid mechanics, separation and reaction processes.</p>
+
+## Programa
+<p>Module I - Process Simulators</p>
+<p>Introduction to process simulation and process simulators. Selection of thermodynamic models and models for simulation of unit operations, with particular emphasis on separation and reaction units. Simulation of industrial processes. Analysis of the influence of operational and design variables in the simulation results.</p>
+<p>Module II - Computational Fluid Dynamics (CFD)</p>
+<p>Introduction to CFD: identification and application of modeling and simulation methodologies in CFD. Problem solving using CFD: 1) Pre-processing &#8211; definition of domains and meshes in ANSYS software; 2) Simulation in ANSYS Fluent®; 3) Post-processing &#8211; different types of representation of results and their interpretation.</p>
+<p>Module III - Technical Drawing and Computer Aided Design (CAD)</p>
+<p>Introduction to technical drawing: Orthographic representation. Axonometric representation. Nominal quotation. Introduction to computer-aided design (CAD): Use of 3D CAD systems in the three-dimensional modeling of component parts and assembly in sets. Use of standardized elements available in libraries and integrated components. Automatic retrieval of assembly drawings and assembly component definition drawings.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Use of active learning methodologies based on lecturing basic concepts and solving problems using computational techniques.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 10.0 %
+- Trabalho prático ou de projeto: 90.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 16.5 hours
+- Frequência das aulas: 19.5 hours
+- Trabalho laboratorial: 4.5 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final grade has four components:</p>
+<p>1) Participation in classes (PP)</p>
+<p>2) Module I - Evaluation Test (P1)</p>
+<p>3) Module II - Evaluation Test (P2)</p>
+<p>4) Module III &#8211; Project (P3)</p>
+<p>The final classification (CF) will be calculated by the following formula:</p>
+<p> CF = 0.1*PP+0.3*P1+0.3*P2+0.3*P3</p>
+<p>To be approved at this Curricular Unit, the student must have a classification of at least 7.5 in each of the modules (that is, P1, P2 and P3 &#8805; 7.5), and a final classification equal to or greater than 9.5 (i.e. CF &#8805; 9.5).</p>
+<p>The assessment of module III will consist of doing a project and submitting the respective report.</p>
+<p>There will be a supplementary period in which students will be able to take evaluation tests for modules I and/or II, at their choice. This supplementary period is intended for students who did not obtain a minimum classification of 7.5, or who did not pass the UC, or who want to improve their classification to these two modules.</p>
+<p>Students who do not obtain the minimum classification in module III, or wish to improve their classification in this module, will only be able to do so in the following academic year.</p>
+
+## Obtenção de frequência
+<p>To take the evaluation tests for modules I and II, turn in the assignment of module III, and not give more than one not justified absence in each of the modules.</p>
+
+## Melhoria de classificação
+<p>Take the evaluation tests for modules I and/or II during the supplementary period or, in the following academic year, attend the curricular unit or take the evaluation tests for the module(s) that wants to improve. The improvement of classification to module III can only be carried out in the following academic year.</p>
+

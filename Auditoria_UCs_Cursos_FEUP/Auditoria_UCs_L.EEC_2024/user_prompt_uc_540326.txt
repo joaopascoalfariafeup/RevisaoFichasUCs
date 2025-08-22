@@ -1,0 +1,108 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Ondas Eletromagnéticas
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p style="font-weight: 400;">Os principais objectivos da disciplina são dotar os alunos de conhecimentos técnicos (CDIO 1.1 a 1.3) relativos a:<br />&#8226; Fenómenos ondulatórios em linhas de transmissão<br />&#8226; Fenómenos transitórios em linhas de transmissão<br />&#8226; Propagação de ondas electromagnéticas planas em meios sem e com perdas<br />&#8226; Polarização de ondas electromagnéticas<br />&#8226; Energia transportada por uma onda<br />&#8226; Incidência de ondas em diferentes meios e com diferentes ângulos<br />&#8226; Propagação guiada de ondas electromagnéticas.<br />Inclui-se também nesta disciplina o desenvolvimento de aptidões pessoais e profissionais no que diz respeito ao raciocínio em engenharia (CDIO 2.1).</p>
+
+## Resultados de aprendizagem e competências
+<p style="font-weight: 400;">Fornecer os conceitos fundamentais associados à propagação (no espaço livre e guiada) de ondas eletromagnéticas. No final desta unidade curricular espera-se que o estudante seja capaz de<br />- Compreender as caraterísticas ondulatórias da tensão e corrente em linhas de transmissão<br />- Analisar linhas de transmissão como elementos de circuitos<br />- Compreender os fenómenos transitórios em linhas de transmissão <br />- Projetar adaptadores de impedância<br />- Compreender a propagação de ondas eletromagéticas planas em meios sem e com perdas<br />- Compreender o fenómeno de incidência de ondas eletromgnéticas planas em interfaces com meios dielétricos e meios condutores<br />- Compreender o mecanismo físico dos guias de onda<br />- Compreender o comportamento de diferentes guias de onda<br />- Determinar os modos de propagação e as suas caraterísticas principais<br />- Calcular a frequência de oscilação de cavidades<br />- Compreender o princípio de operação de fibras óticas</p>
+
+## Pré-requisitos e co-requisitos
+Eletromagnetismo e Equações Diferenciais.
+
+## Programa
+1. Linhas de Transmissão: Parâmetros distribuídos e modelo elétrico de uma linha; Equação dos telegrafistas e propagação de ondas em linhas; Linhas inseridas em circuitos; O diagrama de Smith; Adaptação de impedâncias; Transitórios.<br />2. Ondas eletromagnéticas planas: Equações de Maxwell; Equação de onda e equação de Helmholtz; Ondas planas em meios sem perdas e meios com perdas - velocidade de fase, impedância intrínseca, polarização, constantes de atenuação e de fase, bons condutores; Velocidade de grupo; Vetor de Poynting; Interface entre meios diferentes - coeficientes de reflexão e transmissão; ângulo de Brewster, reflexão total.<br />3. Guias de onda: Ondas TEM, TM e TE; Guias de onda de placas paralelas, retangulares e circulares; Guias dieléctricos planares e fibras óticas.
+
+## Métodos de ensino e atividades de aprendizagem
+<p style="font-weight: 400;">- Aulas teóricas: aulas para apresentação e discussão dos tópicos da matéria e para resolução de exercícios<br />- Aulas teórico-práticas: discussão e resolução de problemas ilustrativos, e resolução de exercícios de avaliação.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Teste: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+<p style="font-weight: 400;">A avaliação distribuída é escrita e composta pela realização de 7 exercícios para avaliação nas aulas práticas, sendo a classificação desta componente dada pela média dos exercícios realizados, retirados o pior. A não realização de um exercício será contabilizada como zero. <br />A classificação final (CF) é dada pela expressão CF=0.3*AD+0.7*E, onde E é a classificação do exame final e AD a classificação da componente distribuída.</p>
+<p style="font-weight: 400;">A aprovação exige uma classificação mínima de 40% em E e 10 valores em CF.</p>
+
+## Obtenção de frequência
+Não exceder o limite de faltas (25% das aulas previstas).
+
+## Melhoria de classificação
+Melhoria de classificação: feita por exame escrito, sendo a classificação a atribuir igual ao máximo entre a classificação obtida nesse exame e a classificação final anterior.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Electromagnetic Waves
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<span id=&quot;result_box&quot; lang=&quot;en&quot;><span class=&quot;hps&quot;>The main objectives</span> <span class=&quot;hps&quot;>of this course are</span> <span class=&quot;hps&quot;>to provide students with</span> <span class=&quot;hps&quot;>technical skills</span> <span class=&quot;hps atn&quot;>(</span>CDIO <span class=&quot;hps&quot;>1.1 to</span> <span class=&quot;hps&quot;>1.3</span>) <span class=&quot;hps&quot;>relative to</span>:<br /><span class=&quot;hps&quot;>&#8226;</span> W<span class=&quot;hps&quot;>ave</span><span class=&quot;hps&quot;>phenomena</span> <span class=&quot;hps&quot;>in transmission lines<br /></span><span class=&quot;hps&quot;>&#8226;</span> T<span class=&quot;hps&quot;>ransients</span> <span class=&quot;hps&quot;>in transmission lines<br /></span><span class=&quot;hps&quot;>&#8226;</span> <span class=&quot;hps&quot;>Propagation of</span> <span class=&quot;hps&quot;>plane</span> <span class=&quot;hps&quot;>electromagnetic waves</span> <span class=&quot;hps&quot;>in lossless and lossy </span><span class=&quot;hps&quot;>media</span><span class=&quot;hps&quot;><br /></span><span class=&quot;hps&quot;>&#8226;</span> Polarization of electromagnetic waves<br /><span class=&quot;hps&quot;>&#8226;</span> E<span class=&quot;hps&quot;>nergy</span> <span class=&quot;hps&quot;>carried by</span> <span class=&quot;hps&quot;>an electromagnetic wave<br /></span><span class=&quot;hps&quot;>&#8226; </span><span class=&quot;hps&quot;>Incidence of</span> electromagnetic <span class=&quot;hps&quot;>waves</span> <span class=&quot;hps&quot;>in different</span> <span class=&quot;hps&quot;>media<br /></span><span class=&quot;hps&quot;>&#8226;</span> <span class=&quot;hps&quot;>Propagation</span> <span class=&quot;hps&quot;>of</span> guided <span class=&quot;hps&quot;>electromagnetic waves</span><span class=&quot;hps&quot;>.<br /></span></span><span id=&quot;result_box&quot; lang=&quot;en&quot;><span class=&quot;hps&quot;>It</span> <span class=&quot;hps&quot;>is also included</span> <span class=&quot;hps&quot;>in this course</span> <span class=&quot;hps&quot;>the development of</span> <span class=&quot;hps&quot;>personal and professional skills</span> <span class=&quot;hps&quot;>in</span><span class=&quot;hps&quot;>engineering</span> <span class=&quot;hps atn&quot;>(</span>CDIOs <span class=&quot;hps&quot;>2.1).</span></span>
+
+## Resultados de aprendizagem e competências
+To give the fundamental concepts associated with the free and guided propagation of electromagnetic waves. At the end of this curricular unit the student is expected to be able to:<br /> -Understand the wave characteristics of the voltage and current in transmission lines<br />-Analyze transmission lines as circuit elements<br />-Understand the transient phenomena in transmission lines<br />-Design of impedance matching networks<br />- Understand the propgation of plane electromagnetica waves in lossless and lossy media<br />- Understand the incidence of plane eletromagnetic waves in interfaces with dieletric media and condutctors<br />-Understand the guiding mechanism of waveguides -Understand the behavior of different waveguides<br /> -Determine the propagation modes and their characteristics <br />-Compute the oscillation frequency of cavities<br />-Understand the working principle of optical fibers
+
+## Pré-requisitos e co-requisitos
+Field Eletromagnetics e Differential Equations.
+
+## Programa
+1. Transmission Lines: Distributed parameters and electrical model of a transmission line; Telegraphist equations and wave propagation in transmission lines; Lines in circuits; The Smith diagram; Impedance matching; Transients.<br />2. Plane electromagnetic waves: Maxwell equations; Wave equation and Helmholtz equation; Plane waves in lossless and lossy media - phase velocity, intrinsic impedance, polarization, attenuation and phase constants; good conductors; Group velocity; Poynting vector; Interface between different media - reflection and transmission coefficients, Brewster angle, total reflection.<br />3. Waveguides: TEM, TM and TE waves; Parallel plates, rectangular and circular waveguides; Planar dielectric guides and optical fibers.
+
+## Métodos de ensino e atividades de aprendizagem
+<div class=&quot;page&quot; title=&quot;Page 4&quot;><br /><p style=&quot;font-weight: 400;&quot;>Theoretical lectures: presentation and discussion of the concepts and mathematical tools required for the understanding of the addressed subjects, and problem solving.</p><br /><p style=&quot;font-weight: 400;&quot;>Exercise lectures (TP): discussion and solving of relevant problems, and answering some evaluation questions.</p><br /><div class=&quot;section&quot;> </div><br /></div>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Teste: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<p style="font-weight: 400;">The distributed evaluation is written and includes the resolution of seven question sets to be answered at the end of some exercise lectures. The grading of this component is the average of the individual grades, not taking into account the worst one. A question set not solved because the student missed the class will be taken as zero.<br />The final grade (CF) is given by CF=0.3*AD+0.7*E, where E is the grade in the final exam and AD is the grade in the distributed component of the evaluation.</p>
+<p style="font-weight: 400;">Passing requires a minimum grade of 40% in E and a minimum grade of 10 points in CF.</p>
+
+## Obtenção de frequência
+<span class=&quot;hps&quot;>Cannot</span> <span class=&quot;hps&quot;>exceed the</span> <span class=&quot;hps&quot;>absence limit</span> in the exercise lectures, ie <span class=&quot;hps&quot;>25</span>% <span class=&quot;hps&quot;>of those lectures</span>.
+
+## Melhoria de classificação
+Improvement of the final grade: by final exam, with final grade corresponding to the maximum between the grade obtained in that exam and the previous final grade.
+

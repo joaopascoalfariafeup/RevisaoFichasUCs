@@ -1,0 +1,121 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Controlo
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p>Os objetivos desta unidade curricular são integrar conhecimentos já adquiridos, nomeadamente nas disciplinas de Teoria dos Circuitos e de Teoria do Sinal, na perspectiva mais abrangente da Teoria do Controlo e num contexto motivador das aplicações em Engenharia.</p>
+
+## Resultados de aprendizagem e competências
+<p>Pretende-se que no final da disciplina o aluno seja capaz de:<br />1- Determinar as equações representativas de sistemas elementares das várias áreas da engenharia e a partir das mesmas, com as ferramentas matemáticas estudadas, identificar o tipo de resposta, quer temporal, quer em frequência, que lhe está associada. <br />2- Entender as noções associadas à realimentação e analisar, com as ferramentas matemáticas estudadas, o comportamento, no domínio dos tempos e das frequências, de sistemas realimentados. <br />3- Projectar e calibrar controladores.<br />4- Representar sistemas no espaço dos estados. Analisar a controlabilidade e observabilidade destas. Utilizar estes conceitos para projetar controladores e estimadores realimentação linear.</p>
+
+## Pré-requisitos e co-requisitos
+Análise Matemática, Álgebra, Teoria do Sinal
+
+## Programa
+<p><strong>1- Modelização e resposta temporal de sistema em malha aberta. </strong>                              <br />Determinação de modelos elementares de sistemas mecânicos, eléctricos e hidráulicos.<br />Análise, no domínio dos tempos, da resposta de sistemas de 1ª e 2ª ordem, ao impulso unitário, degrau unitário e rampa unitária, com recurso à transformada de Laplace. Idem para sistemas de ordem superior a 2.  Estabilidade. Critério de Estabilidade de Routh-Hurwitz.<br /><br /><strong>2-Análise no Domínio das Frequências.</strong><br />Traçado logarítmico - Diagrama de Bode.<br />Diagramas de Bode de funções de transferência elementares.<br />Diagramas de Bode de uma função de transferência geral.<br />Influência dos Zeros na Resposta em Frequência.<br /><br /><strong>3-Análise de Sistemas Realimentados</strong><br />Noção de Sistema Realimentado. Diagrama de blocos de um Sistema Realimentado. Manipulação de diagramas de blocos.</p>
+<p><strong>4-Análise de desempenho, em regime permanente, de Sistemas Realimentados.</strong><br />Erros de posição, de velocidade e de aceleração.<br /><br /><strong>5-Análise e Síntese, com recurso ao método dos Lugares Geométricos das Raízes<br /></strong>Método do Lugar das Raízes. Equação característica e trajectórias das raízes. Condições de amplitudes e de ângulos. Regras para o desenho do Lugar das Raízes.<br /><br /><strong>6-Análise de Desempenho no Domínio das Frequências; </strong><br />Traçados Polares ou de Nyquist. Critério de Estabilidade de Nyquist.<br />Estabilidade Relativa: noções de Margem de Ganho e de Margem de Fase.<br /><br /><strong>7-Compensação Avanço e Atraso, nos Domínios do Tempo e das Frequências.  Controladores PID<br /></strong><br /><strong>8-Espaços dos Estados.<br /></strong>Representações nos espaços dos estados de sistemas dinâmicos lineares, invariantes (no tempo e no domínio de Laplace).<br />Cálculo da resposta temporal.<br />Controlabilidade e observabilidade. <br />Projeto de controladores (colocação dos pólos em malha fechada) por realimentação linear no estado.  <br />Projeto de estimadores de estado lineares.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><strong>Aulas teóricas</strong>: ensino presencial</p>
+<p><br /><strong>Aulas teórico-práticas</strong>: exposição e resolução de exemplos,  esclarecimento de dúvidas e discussão dos problemas previamente<br /> seleccionados. <br /><br /><br /><strong>Avaliação</strong>:<br /><br />Nas épocas Normal e de Recurso, a avaliação consiste em dois tipos de provas:<br /><br />- Exame final.<br />e<br />- Avaliação distribuída. Esta avaliação consiste em vários testes (sob a forma de quizzes a realizar no Moodle fora das aulas) durante o semestre. <br />As datas dos quizzes serão anunciadas ao longo do semestre uma vez que estão dependentes do ritmo a que será dada a matéria.<br /><br /><br /></p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 80.0 %
+- Teste: 20.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 111.0 horas
+- Frequência das aulas: 51.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><strong>A classificação na Época Normal (CN)</strong> será a calculada de acordo com a seguinte fórmula:<br /><br /><strong>Se (nota do exame final arredondada às centésimas)  &gt; = 8,00</strong>:<br /><br />CN = [0.8 x (nota do exame final) + 0.2 x (nota dos testes/quizzes)] com arredondamento às unidades.<br /><br /><strong>Se (nota do exame final arredondada às centésimas)  &lt; 8,00:</strong><br /><br />CN = [nota do exame final] com arredondamento às unidades.<br /><br />Isto significa que é <strong>necessário</strong> (mas não suficiente) <strong>obter-se uma nota mínima de 8 valores no exame para aprovação na UC.</strong></p>
+<p>A <strong>avaliação distribuída </strong>consiste na realização, durante o semestre, de 3 a 5 <strong>quizzes</strong> (conforme a leccionação da matéria o permitir). Cada quiz não realizado é classificado com 0 valores em 20. A nota da componente distribuída é a média simples dos quizzes, arredondada às centésimas.<br /><br />Os quizzes serão realizados fora das aulas, em momentos a especificar atempadamente, juntamente com a matéria que será objeto de avaliação.<br /><br /><br /><strong>IMPORTANTE:</strong><br />Os estudantes que tenham cumprido o requisito de assiduidade em Teoria do Controlo ou em Controlo em anos anteriores e que já possuam uma nota de quizzes podem manter essa nota, caso o desejarem.<br />Caso não pretendam manter essa nota, podem realizar os quizzes do corrente ano, independentemente de assistirem ou não às aulas TP.<br /><br /><strong>A realização de pelo menos um quiz será interpretada como desistência da nota dos quizzes obtida no passado.</strong><br /><br /><br />Dependendo das circunstâncias, a obtenção de classificação final superior a 18 valores (19 ou 20) poderá exigir a prestação de uma prova oral ou escrita, a realizar após o fim da época de exame de recurso. Caso tais provas tenham lugar, os alunos em condições de as realizar serão devidamente assinalados nas pautas de classificação afixadas após os exames escritos.</p>
+<p> <br /><strong>A classificação na Época de Recurso(CR)</strong>  é calculada do mesmo modo que a da Época Normal, para os estudantes que realizem o Recurso com a finalidade de Aprovação. <br /><br /><br /><strong>A classificação na Época de Melhoria</strong> será calculada como indicado no respetivo parágrafo (ver a seguir).</p>
+
+## Obtenção de frequência
+<p>De acordo com o Regulamento de Estudos, para obtenção de frequência à disciplina, os estudantes terão de satisfazer a seguinte condição de assiduidade:<br /><br />Não exceder o número limite de faltas às aulas teorico-práticas. </p>
+<p>Isto significa que, nesta UC:<br /><br /> <strong>frequência = assiduidade nas aulas TP</strong>.<br /><br /><br /><strong>Dispensa de frequência:</strong><br /><br />Estão dispensados de frequência todos (e apenas) os estudantes que:<br /><br />- se encontrem nas condições previstas no regulamento de estudos;<br />ou<br />- tenham sido admitidos a exame a Teoria do Controlo ou Controlo em anos letivos anteriores.<br /><br /><strong><br />Nota importante:</strong></p>
+<p>Só são consideradas como válidas as provas de avaliação feitas por estudantes que obtenham fequência no corrente ano letivo ou estejam dispensados de frequência nos termos indicados no parégrafo anterior.</p>
+
+## Melhoria de classificação
+<p>Os estudantes que pretendam fazer melhoria de nota serão submetidos a um exame escrito cotado para 20 valores. <br /><br /><strong>A classificação de Melhoria</strong> será igual a <strong>100%</strong> da <strong>nota</strong> obtida nesse <strong>exame</strong>.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Control
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p>This course unit aims to integrate the knowledge acquired in the course units of Circuits Theory and Signal Theory in the more comprehensive perspective of Control Theory in a context of engineering applications.</p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of this course unit, students should be capable of:</p>
+<p>1- determining equations of elementary systems of various areas of engineering and be capable of identifying the type of response, both time and frequency response.</p>
+<p>2- Understanding the notions related with feedback and analysing the behaviour of time and frequencies.</p>
+<p>3- Designing and calibrating controllers.<br /><span class="Y2IQFc" lang="en"> <br />4- Representing systems in state space. Analyze their <br />controllability and observability. Use these concepts <br />to design linear feedback controllers and estimators.</span></p>
+
+## Pré-requisitos e co-requisitos
+Mathematical Analysis, Algebra, Signal Theory
+
+## Programa
+<p><strong>1- Modelling; time response of oipen loop systems. </strong>                                                      <br />Elementary models for mechanical, electrical and hydraulic systems. Time domain analysis of the impulse and step response of first and second order via Laplace transform. Similar analysis for higher order systems. Stability. Routh-Hurwitz stability criterium.</p>
+<p><strong>2- Frequency domain analysis</strong>                                            Bode diagrams for elementary transfer functions. Bode diagrams for general transfer functions. Effect of zeroes in frequency response</p>
+<p><strong>3- Feedback systems analysis</strong>                                            Notion of feedback system; Block diagram of a feedback system; Block diagram algebra; Manipulation of block diagrams;</p>
+<p><strong>4- Performance analysis of feedback systems in steady state</strong>                                                   <br />Position, velocity and acceleration errors.</p>
+<p><strong>5- Performance analysis of feedback systems using root locus method </strong>                                     <br />Introduction to the root locus method; Characteristic equation and root trajectory; Amplitude and angle; Rules for the root locus design.</p>
+<p><strong>6- Performance analysis of feedback systems in the frequency domain                               <br /></strong>Introduction; Polar and Nyquist path; Nyquist stability criterion; Relative stability: notions of gain and phase margin.<br /><strong><br />7- Compensation in time and frequency domains<br /></strong><span class="Y2IQFc" lang="en"><strong>PID controllers.</strong><br /><br /><strong>8-State Space<br /></strong></span><span class="Y2IQFc" lang="en">State-space representations of linear, invariant dynamical systems (in time and in the Laplace domain). Calculation of the temporal response. Controllability and observability. Controller design (placement of the closed loop poles) by linear state feedback. Design of linear state estimators.</span></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Lectures: presential learning</p>
+<p>Exercise classes: presentation of problems and problem solving; answer to students&#8217; questions and discussion of previously selected exercises.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 80.0 %
+- Teste: 20.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 111.0 hours
+- Frequência das aulas: 51.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>In the first exam round, the final mark is equal given by the formula:<br /><br />0.8 x (final exam mark) + 0.2 x (individual participation in the classes)<br /><br />Depending on the circumstances, the following rule may be applied: students can only obtain a higher grade than 18/20 if they attend an oral exam. This will take place after resit season.</p>
+
+## Obtenção de frequência
+<p>According to the Faculty's rules, admission to the exams is only allowed if the following condition is satisfied:<br /><br />Not missing more than 1/4 of the scheduled exercise classes.<br /><br /><br /></p>
+
+## Melhoria de classificação
+<p>Students who want improve their grades will have to take a written exam worth 20 points.</p>
+

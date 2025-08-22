@@ -1,0 +1,192 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise Matemática III
+
+## Curso responsável
+Licenciatura em Engenharia Química
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Enquadramento:</p>
+<p>A modelação teórica de fenómenos físico-químicos é uma componente importante da Engenharia Química, que assenta na construção e resolução de modelos matemáticos baseados em equações diferenciais.</p>
+<p>Objetivos específicos:</p>
+<p>- Aquisição de conhecimentos fundamentais na área da matemática, mais concrectamente na resolução analítica e numérica de equações diferenciais.</p>
+<p>- Desenvolvimento de capacidades nas áreas de formulação, identificação e modelação de problemas de engenharia.</p>
+<p>- Estímulo ao desenvolvimento do pensamento crítico e criativo na resolução de problemas de engenharia.</p>
+<p>Conhecimentos prévios:</p>
+<p>Noções básicas de análise matemática e álgebra: integração e diferenciação, números complexos, álgebra matricial, valores e vetores próprios.</p>
+<p>Noções básicas de programação: estruturas de programação, indexação de variáveis.<br /><br />Distribuição percentual:</p>
+<p>Componente científica: 90 %</p>
+<p>Componente tecnológica: 10 %</p>
+
+## Resultados de aprendizagem e competências
+<p>Capacidade de resolução de equações diferenciais ordinárias de primeira ordem e de ordem superior recorrendo a vários métodos analíticos e numéricos.</p>
+<p>Capacidade de formulação e implementação de modelos matemáticos simples descrevendo fenómenos físico-químicos.</p>
+<p>Capacidade de utilização de ferramentas computacionais para resolução numérica de equações diferenciais.</p>
+
+## Programa
+<p><span style="text-decoration: underline;">I) Resolução analítica de equações diferenciais</span></p>
+<p><span style="text-decoration: underline;">1. Introdução</span>: Definições. Linearidade. Solução geral e solução particular. Existência e unicidade de solução.</p>
+<p><span style="text-decoration: underline;">2. Equações diferenciais ordinárias de primeira ordem</span>: Equações de variáveis separáveis. Equações redutíveis a variáveis separáveis por mudança de variável. Método do factor integrante. Equações exactas. Equações de Bernoulli</p>
+<p><span style="text-decoration: underline;">3. Equações diferenciais ordinárias lineares de segunda ordem:</span> Solução geral da equação linear homogénea. Obtenção de soluções particulares - Método d&#8217;Alembert (redução de ordem). Equações homogéneas de coeficientes constantes. Solução geral da equação linear não-homogénea. Método dos coeficientes indeterminados. Método da variação de parâmetros.</p>
+<p><span style="text-decoration: underline;">4. Transformada de Laplace Definição e propriedades</span>: Transformada inversa. Função degrau unitário (Heaviside) e função impulso unitário (delta de Dirac). Aplicação na resolução de equações diferenciais ordinárias lineares.</p>
+<p><span style="text-decoration: underline;">5. Sistemas de equações diferenciais ordinárias lineares:</span> Método de eliminação. Método da transformada de Laplace. Método matricial. Sistemas homogéneos. Sistemas não-homogéneos (método da variação de parâmetros).</p>
+<p><span style="text-decoration: underline;">6. Introdução às equações de derivadas parciais</span>: Definições. Método de separação de variáveis. Método da transformada de Laplace.</p>
+<p> </p>
+<p><span style="text-decoration: underline;">II) Resolução numérica de equações diferenciais</span></p>
+<p>Introdução à programação em Scilab. Problemas de valor inicial. Método de Euler. Métodos de Runge-Kutta. Análise do erro da resolução numérica. Resolução de sistemas de equações diferenciais. Utilização da função <em>ode</em> do Scilab. Problemas de valores fronteira. Método de tiro. Método de diferenças finitas. Rigidez numérica.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Exposição de conceitos teóricos e discussão de exemplos práticos de aplicação durante as aulas. Maximização da interacção com os etudantes durante as aulas. O lecionamento da componente de métodos numéricos será efetuado integralmente em salas de computadores. Realização de mini-testes de avaliação ao longo do semestre, de forma a estimular e monitorizar o processo de aquisição de conhecimentos e competências por parte dos estudantes durante esse período.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Teste: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 103.5 horas
+- Frequência das aulas: 58.5 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final (CF) é calculada de acordo com a seguinte fórmula:</p>
+<div>Época Normal:</div>
+<div> </div>
+<div>CF = max(0.25 x AD + 0.75 x EF, EF)</div>
+<div> </div>
+<div>Em que:</div>
+<p>AD (avaliação distribuída) = 1/3 x (2 melhores notas dos 3 minitestes de matemática analítica + nota do miniteste de métodos numéricos)</p>
+<p>EF = nota do exame final (80% componente de matemática analítica e 20% componente de métodos numéricos)</p>
+<br />
+<div> </div>
+<div>Época de Recurso:</div>
+<div> </div>
+<div>CF = max(0.25 x AD + 0.75 x ER, ER)</div>
+<div> </div>
+<div>Em que:</div>
+<div>ER = nota do exame de recurso (80% componente de matemática analítica e 20% componente de métodos numéricos)</div>
+<div> </div>
+<p><u>Condições para obtenção de aprovação</u>:</p>
+<ul>
+<li>Nota mínima de 6 na componente de avaliação distribuída (AD).</li>
+<li>Nota mínima de 6 em cada uma das duas partes do exame final ou de recurso (matemática analítica e métodos numéricos).</li>
+</ul>
+<p>A realização dos minitestes é obrigatória para os estudantes sem frequência anterior. Em caso de falta a um miniteste, a sua repetição em data a determinar só será possível após avaliação da justificação devidamente fundamentada.<br /> <br /> Estudantes que entrem diretamente para o 2º Ciclo de Estudos e não obtenham equivalência a esta UC poderão optar por não realizar os minitestes.</p>
+<p>Não é mantida a nota de avaliação distribuída de anos anteriores. A realização dos minitestes é opcional para estudantes com frequência anterior. Caso pretendam realizá-los, os estudantes deverão informar o docente na primeira semana de aulas, ficando dessa forma vinculados à nova avaliação distribuída.</p>
+<p>Os estudantes com frequência anterior que optem por não realizar os minitestes terão como classificação final a nota do exame.</p>
+
+## Obtenção de frequência
+<p>Obtêm frequência os alunos inscritos que obtenham uma nota mínima de 6 na componente de avaliação distribuída (AD).</p>
+<p>Estudantes sem frequência no ano corrente ou sem frequência em anos anteriores não poderão comparecer ao exame de Época Normal.</p>
+<p>Estudantes que entrem diretamente para o 2º Ciclo de Estudos e não obtenham equivalência a esta UC estão dispensados da restrição anterior, obtendo frequência pela comparência a exame.</p>
+<p>Estudantes que não obtenham uma nota mínima de 6 na componente de avaliação distribuída poderão comparecer ao exame da Época de Recurso, obtendo assim frequência à UC.</p>
+
+## Melhoria de classificação
+<p>A prova de melhoria de classificação (componentes de avaliação distribuída e exame final) terá lugar no exame da Época de Recurso. A classificação final dos estudantes que tenham realizado os minitestes consistirá no resultado da fórmula acima ou na nota do exame, conforme a opção que resulte num melhor resultado. Para os restantes, a classificação final consistirá apenas na nota do exame.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Calculus III
+
+## Curso responsável
+Bachelor in Chemical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Background:</p>
+<p>The theoretical modeling of transient physical-chemical phenomena is an important component of Chemical Engineering, which is set on the construction and resolution of mathematical models based on differential equations.</p>
+<p>Specific aims:</p>
+<p>- Acquisition of fundamental knowledge in math, namely analytical and numerical resolution of differential equations.</p>
+<p>- Development of competencies in the areas of formulation, identification, and modeling of engineering problems.</p>
+<p>- Development of creative and critical thinking for solving engineering problems.<br /><br />Previous knowledge:<br /><br /> Basic knowledge of mathematical analysis and algebra: integration and differentiation, complex numbers, matrix algebra, eigenvalues, and eigenvectors. Basic knowledge of programming: programming structures, variable indexation.</p>
+<p>Percentual distribution:</p>
+<p>Scientific component: 90 %</p>
+<p>Technological component: 10 %</p>
+
+## Resultados de aprendizagem e competências
+<p>Capability to solve ordinary differential equations (first and higher orders) using analytical and numerical methods.</p>
+<p>Capability to formulate and implement simple mathematical models describing physical-chemical phenomena.</p>
+<p>Capability to use computational tools to solve differential equations numerically.</p>
+
+## Programa
+<p><span style="text-decoration: underline;">I) Analytical resolution of differential equations</span></p>
+<p><span style="text-decoration: underline;">1. Introduction: </span>Definitions. Linearity. General solution and particular solution. Existence and unicity of solution.</p>
+<p><span style="text-decoration: underline;">2. First order ordinary differential equations</span>: Equations with separable variables. Equations reduced to separable variables by change of variable. Integrating factor method. Exact equations. Bernoulli equations. </p>
+<p><span style="text-decoration: underline;">3. Second order linear ordinary differential equations</span>. General solution of homogeneous linear equation. D&#8217;Alembert&#8217;s method (order reduction). Homogeneous equations with constant coefficients. General solution of non-homogeneous linear equation. Method of indeterminated coefficients. Method of parameter variation.</p>
+<p><span style="text-decoration: underline;">4. Laplace transforms: </span>Definition and properties. Inverse transform. Unit step function (Heaviside) and unit impulse function (Dirac). Application to the resolution of linear ordinary differential equations. </p>
+<p><span style="text-decoration: underline;">5. Systems of linear ordinary differential equations</span>: Method of elimination. Laplace transform method. Matrix method. Homogeneous systems. Non-homogeneous systems</p>
+<p><span style="text-decoration: underline;">6. Introduction to partial differential equations.</span></p>
+<p> </p>
+<p><span style="text-decoration: underline;">II) Numerical resolution of differential equations</span></p>
+<p>Introduction to Scilab programming. Initial value problems. Euler method. Runge-Kutta method. Analysis of error in numerical resolution. Resolution of systems of differential equations. Usage of Scilab's <em>ode</em> function. Boundary value problems. Method of finite differences. Numerical stiffness.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Exposure to theoretical concepts and discussion of practical examples of application during classes. Maximization of interaction with students during classes. The numerical methods component will be entirely taught in computer rooms. Mini evaluation tests will be performed throughout the semester to stimulate and monitor the students' acquisition of knowledge and competencies during this period.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Teste: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 103.5 hours
+- Frequência das aulas: 58.5 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final classification (CF) will be computed according to:</p>
+<div>First call exam:</div>
+<div> </div>
+<div>CF = max(0.25 x AD + 0.75 x EF, EF)</div>
+<div> </div>
+<div>Where:</div>
+<p>AD (distributed evaluation) = 1/3 x (2 best marks in the three analytical math mini-tests + mark in the numerical methods mini-test)</p>
+<p>EF = mark in the final exam (80% analytical math component and 20% numerical methods component)</p>
+<br />
+<div> </div>
+<div>Second call exam:</div>
+<div> </div>
+<div>CF = max(0.25 x AD + 0.75 x ER, ER)</div>
+<div> </div>
+<div>Where</div>
+<div>ER = mark in second call exam (80% analytical math component and 20% numerical methods component)</div>
+<p>Where:</p>
+<p><span style="text-decoration: underline;">Conditions for course approval</span>:</p>
+<ul>
+<li>A minimum mark of 6 on distributed evaluation component (AD).</li>
+<li>A minimum mark of 6 on each of the two parts of the final exam or of the second call exam (analytical math and numerical methods).</li>
+</ul>
+<p>The completion of the mini-tests is compulsory for students without previous attendance. In case of missing a mini-test, its repetition on a date to be determined will only be possible after evaluation of the justification duly substantiated.</p>
+<p>Students who enter directly to the 2nd Study Cycle and do not obtain equivalence in this CU may choose not to take the mini-tests.</p>
+<p>The distributed assessment mark of previous years will not be maintained. The taking of the mini-tests is optional for students with previous attendance. If they wish to take them, students must inform the teacher in the first week of classes, thus being bound to the new distributed assessment.</p>
+<p>Students with previous attendance who choose not to take the mini-tests will have the exam grade as their final mark.</p>
+
+## Obtenção de frequência
+<p>Registered students who obtain a minimum mark of 6 in the distributed assessment component (AD) will obtain attendance.<br /><br />Students without attendance in the current year or without attendance in previous years will not be able to attend the Normal Season exam.<br /><br />Students who enter directly to the 2nd Cycle of Studies and do not obtain equivalence in this CU are exempt from the previous restriction, obtaining frequency by attending the exam.<br /><br />Students who do not obtain a minimum mark of 6 in the distributed assessment component may attend the exam in the second call, thus obtaining frequency for the CU.</p>
+
+## Melhoria de classificação
+<p>The classification improvement test (components of the distributed assessment and final examination) will take place in the examination of the second call. The final classification of the students who have taken the mini-tests will consist of the result of the formula above or the exam mark, according to the option that gives a better result. For the remaining students, the final classification will consist of the exam grade.</p>
+

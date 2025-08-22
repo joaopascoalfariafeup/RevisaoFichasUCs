@@ -1,0 +1,116 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Biónica e Robótica Médica
+
+## Curso responsável
+Mestrado em Bioengenharia
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Habilitar os estudantes com conhecimentos e competências nas áreas da biónica e da robótica e da sua aplicação a várias subáreas da Bioengenharia. <br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p>- Na área da Biónica<br />Aplicar uma síntese dos conhecimentos de várias áreas do seu currículo na compreensão e análise de vários casos de estudo de realizações na área da biónica médica. Pretende-se que os estudantes conheçam vários exemplos de aplicações com relevo para os desenvolvimentos mais recentes e para os problemas dos desenvolvimentos atuais nesta área. <br />- Na área da Robótica:<br />Compreender o funcionamento e utilização de sistemas robóticos. Dominar os aspetos tecnológicos envolvidos na conceção, nas características de funcionamento, na programação e nas diferentes aplicações.</p>
+
+## Pré-requisitos e co-requisitos
+Conhecimentos prévios de electrónica básica, sensores e actuadores.<br />Conhecimentos prévios de processamento de sinais<br />Conhecimento de utilização de Octave/Matlab.<br />Conhecimento e utilização de liguagem C em microcontroladores / Arduino / Raspberry PI
+
+## Programa
+<p><br /><br />BIONICA MÉDICA<br />--<br />1 - Introdução à Biónica Médica<br /><br />2 &#8211; Sensorização humana avançada: Do macro ao nano sensor.<br /><br />3 - O olho biónico: Tecnologia e os problemas do ciclo de vida de produtos biónicos;<br /><br />4 - O implante cochlear<br /><br />5 - O pacemaker Cardíaco: História  The Cardiac pacemaker: History and technology evolution of the most widely used bionic human implantable device; <br /><br />6 &#8211; Proteses Neuronais: do Utah array &amp; Brain-Computer Interfaces à estimulação cerebral profunda para a doença de Parkinson.<br /><br />7- Próteses robotizadas e exoesqueletos.<br /><br />ROBÓTICA MÉDICA<br />--<br />1 - Introdução à Robótica médica<br /><br />2 - Movimentação de corpos rígidos: Rotações; Transformações homogéneas.<br /><br />3 - Controlo de eixos (rotativos e lineares): Atuadores; Sensores; Equações do movimento; Controlo de posição, de velocidade e de força.<br /> <br />4 - Introdução aos sistemas robóticos móveis: Tipos de locomoção e tração; Cinemática; Perceção; Localização. <br /><br />5 - Manipuladores robóticos: Cinemática direta e inversa; O Jacobiano; Relações de força e binário.<br /><br />6 - Manipuladores e robots móveis: Exemplos de aplicações nas áreas de saúde; Robots cirúrgicos; Robótica de reabilitação; Robots para assistência à mobilidade; Robots para monitorização e vigilância; Robots que prestam serviços de apoio clínico.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p class="western" lang="pt-PT" style="margin-bottom: 0.14in;">Exposição teórica de conceitos, apresentação de exemplos e realização de exercícios (3h/semana).</p>
+<p class="western" lang="pt-PT" style="margin-bottom: 0.14in;">Aulas laboratoriais (1h/semana).</p>
+<p class="western" lang="pt-PT" style="margin-bottom: 0.14in;"> </p>
+
+## Tipo de avaliação
+Avaliação por exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho prático ou de projeto: 45.0 %
+- Participação presencial: 5.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 36.0 horas
+- Trabalho laboratorial: 13.0 horas
+- Estudo autónomo: 13.0 horas
+- Trabalho escrito: 10.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Avaliação: 0.05P + 0.45Proj + 0.50 Ex<br /><br />P- participação<br />Proj- projeto<br />Ex- exame<br /><br />Duas ou mais faltas não justificadas influenciam negativamente componente de avaliação presencial (5%).<br /><br />As componentes de avaliação têm nota mínima de 7/20.</p>
+
+## Obtenção de frequência
+<p>Assiduidade regulamentar (2/3 das aulas) nas aulas TP e PL<br /><br /></p>
+
+## Melhoria de classificação
+<p>Segundo as regras em vigor</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Bionics and Medical Robotics
+
+## Curso responsável
+Master in Bioengineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>To enable students with knowledge and skills in the fields of bionics and robotics and its application to various subfields of Bioengineering.</p>
+
+## Resultados de aprendizagem e competências
+<p>In the area of bionics<br />Apply a synthesis of knowledge from various areas of the curriculum in the understanding and analysis of several case studies in the field of medical bionics. It is intended for students become acquainted with several examples of applications with emphasis on the latest developments and problems of current developments in this area.<br />In the area of robotics:<br />Understand the operation and use of robotic systems. Master the technological aspects involved in the design, operating characteristics and programming in several different applications.</p>
+
+## Pré-requisitos e co-requisitos
+Prior knowledge of basic electronics, sensors &amp; actuators.<br />Prior knowledge of signal processing.<br />Usage experience of Octave/Matlab.<br />Usage experience in C language for microcontrolers / Arduino/ Raspberry PI
+
+## Programa
+<p>BIONICA MÉDICA<br />--<br />1 - Introduction to medical bionics.<br /><br />2 &#8211; Advanced Human sensing: Macro2nano sensing (touchless; Wearables; snap2skin and inplantables);<br /><br />3 - The Bionic Eye: Technology and life-long bionic product cycle problems;<br /><br />4 - The Cochlear implant<br /><br />5 - The Cardiac pacemaker: History and technology evolution of the most widely used bionic human implantable device; <br /><br />6 &#8211; Neural Prosthetics: from the Utah array &amp; Brain-Computer Interfaces to Deep Brain Stimulation for Parkinson's Disease.<br /><br />7- Robotic prothesis and exoskeletons.<br /><br />ROBÓTICA MÉDICA<br />--<br />1 - Introduction to medical robotics<br /><br />2 - Rigid motions: Rotations; Homogeneous transformations.<br /><br />3 &#8211; Joint control (angular and linear): Actuators; Sensors; Dynamic equations of motion; Position, speed and force Control.<br /><br />4 - Introduction to mobile robotic systems: Types of locomotion and traction; Kinematics; Perception; Localization.<br /><br />5 - Robotic Manipulators: Kinematics; The Jacobian and singularitie; Force and torque relationships.<br /><br />6 - Manipulators and mobile robots: examples of applications in healthcare: Surgical Robots; Rehabilitation Robotics; Robots for assistance to mobility; Robots for monitoring and surveillance of patients; Robots that provide clinical support services.<br /><br /></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p class="western" lang="pt-PT" style="margin-bottom: 0.14in;"><span lang="en-US">Theoretic concepts and examples presentation. Practical exercises.</span></p>
+<p class="western" lang="pt-PT" style="margin-bottom: 0.14in;"><span lang="en-US">Laboratorial experiments.</span></p>
+<p class="western" lang="pt-PT" style="margin-bottom: 0.14in;"><span lang="en-US"> </span></p>
+
+## Tipo de avaliação
+Evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho prático ou de projeto: 45.0 %
+- Participação presencial: 5.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 36.0 hours
+- Trabalho laboratorial: 13.0 hours
+- Estudo autónomo: 13.0 hours
+- Trabalho escrito: 10.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Evaluation: 0.05P + 0.45Proj + 0.50Ex<br /><br />P - in-class presence<br />proj- project<br />Ex- exam<br /><br />Two or more unjustified class absence influence the presential component (5%).<br /><br />A minimal grade of 7/20 is needed for each component;</p>
+
+## Obtenção de frequência
+<p>Minimum attendance according to regulations (2/3 classes).<br /><br /></p>
+
+## Melhoria de classificação
+<p>According to school rules</p>
+

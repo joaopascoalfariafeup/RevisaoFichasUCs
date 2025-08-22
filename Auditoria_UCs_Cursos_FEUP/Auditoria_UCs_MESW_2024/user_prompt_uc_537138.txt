@@ -1,0 +1,112 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Computação Orientada a Serviços e Nuvem
+
+## Curso responsável
+Mestrado em Engenharia de Software
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+Conhecimentos de Engenharia de Software na Núvem, nomeadamente técnicas e processos de computação baseado em arquitecturas orientadas a serviços, com especial foco em ambientes sobre virtualização das camadas infraestruturais (vulgarmente conhecidos por Cloud). Pretende-se desenvolver as capacidades de gerir todo o ciclo de vida de software, desde a sua análise, desenho e concepção, até à implementação e manutenção, compreendendo as especificidades nos algoritmos, boas práticas e padrões utilizados neste domínio.
+
+## Resultados de aprendizagem e competências
+No final da unidade curricular os estudantes devem ser capazes de desenhar e implementar software de larga escala em ambientes falíveis, sujeitos a picos elevados de stress, baixa latência, alta largura de banda e performance, compostos por um elevado número de componentes heterogéneos sujeitos a interferências e interacções imprevistas.
+
+## Pré-requisitos e co-requisitos
+Programação, Metodologias e Práticas de Engenharia de Software, Arquitectura e Desenho de Software, Testes e Validação de Software.
+
+## Programa
+<p><span style="font-weight: 400;">Fundamentos: Arquitecturas clássicas versus baseadas em serviços. SOA e Microserviços. Standards e padrões de comunicação de serviços. SOAP versus REST. Mensagens e barramento de mensagens. Princípios e modelos de computação paralela e distribuída. Virtualização PaaS, SaaS, IaaS e FaaS. Gestão de dados. Elasticidade, High-Availability e replicação. Clusters. Monitorização e Diagnóstico. Falhas e tolerância a falhas. Latência e Interferência. Segurança.<br /><br />Aplicações: Clouds públicas como Microsoft Azure, Google Cloud e Amazon AWS. Kubernetes. Barramentos baseados em AMQP e Kafka. Técnicas de deployment contínuo.</span></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>Aulas Teórico-Práticas: Exposição e discussão das matérias do programa, acompanhada pela resolução de exercícios;</li><br /><li>Trabalhos práticos: Desenvolvimento de projectos de aplicação das técnicas estudadas.</li><br /></ul>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Participação presencial: 5.0 %
+- Trabalho laboratorial: 45.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 horas
+- Elaboração de relatório/dissertação/tese: 18.0 horas
+- Estudo autónomo: 42.0 horas
+- Frequência das aulas: 42.0 horas
+
+## Fórmula de cálculo da classificação final
+<span data-sheets-value=&quot;{&quot; data-sheets-userformat=&quot;{&quot;>Trabalho = 0.3 * Avaliação Intermédia + 0.7 * Avaliação Final<br />Nota Final = 0.45 * Trabalho + 0.50 * Exame + 0.05 * Avaliação Contínua</span>
+
+## Obtenção de frequência
+Não exceder o número de faltas (25%), realizar e apresentar os trabalhos práticos e obter classificação no exame igual ou superior a 35%.
+
+## Melhoria de classificação
+<ul><br /><li>Classificação de frequência só pode ser melhorada na ocorrência seguinte;</li><br /><li>Classificação de exame pode ser melhorada na(s) época(s) legalmente prevista(a).</li><br /></ul>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Cloud and Service Oriented Computing
+
+## Curso responsável
+Master in Software Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+To acquire knowledge of doing Software Engineering in the Cloud, namely techniques and approaches of computation based on Service-Oriented Architectures, with special focus on virtualized infrastructures. The goal is to develop the capability of managing the full software lifecycle, from analysis, design and conception, upto implementation and management, taking into account the specific algorithms, patterns and good practices in this domain.
+
+## Resultados de aprendizagem e competências
+By fulfilling this curricular unit, the students should be able to design and implement large-scale software systems in falible, high-stress, low-latency, high-bandwidth and performant environments, composed by several heterogenous components, and subject to unforeseen interferences and interactions.
+
+## Pré-requisitos e co-requisitos
+Programming, Methods and Practices of Software Engineering, Software Arquitecture and Design, Software Validation and Testing.
+
+## Programa
+Fundamentals: Classical vs service-oriented architectures. SOA and Microservices. Patterns and standards of service communication. Webservices. SOAP vs REST. Messaging and Message Bus. Principles and Models of Parallel and Distributed Computation. Virtualization PaaS, SaaS, IaaS, and FaaS. Data management. Elasticity, High-Availability, and Replication. Clusters. Monitorization and Diagnostic. Failure and Fault-Tolerance. Latency and Interference. Security. <br /><br />Applications: Public clouds with Microsoft Azure, Google Cloud, and Amazon AWS. Kubernetes. AMQP-based BUS and Kafka. Continuous Delivery.
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>Presential exposition and discussion of the syllabus, subject to in-class exercises.</li><br /><li>Lab work, through project development that apply the studied techniques. </li><br /></ul>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Participação presencial: 5.0 %
+- Trabalho laboratorial: 45.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 hours
+- Elaboração de relatório/dissertação/tese: 18.0 hours
+- Estudo autónomo: 42.0 hours
+- Frequência das aulas: 42.0 hours
+
+## Fórmula de cálculo da classificação final
+Lab = 0.3 * Intermediate Presentation + 0.7 * Final Evaluation<br />Final Mark = 0.45 * Lab + 0.50 * Examination + 0.05 * Continuous Evaluation
+
+## Obtenção de frequência
+Not exceed the maximum number of absences to classes (25%), to deliver and present the course work with an exam classification equal to or greater than 35%.
+
+## Melhoria de classificação
+<ul><br /><li>The mark obtained in the Lab and Continuous Evaluation can only be improved in the next edition.</li><br /><li>Examination evaluation can be improved through the usual legal mechanisms.</li><br /></ul>
+

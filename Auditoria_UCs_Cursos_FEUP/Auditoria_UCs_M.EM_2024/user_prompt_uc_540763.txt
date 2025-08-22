@@ -1,0 +1,142 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Automação Flexível
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Espera-se que no final os alunos sejam capazes de:</p>
+<ul>
+<li>reconhecer as atividades principais e fluxos de informação num sistema de produção;</li>
+<li>reconhecer os princípios em que se pode basear o controlo do fluxo de materiais;</li>
+<li>compreender os princípios e reconhecer o interesse dos conceitos de produção modernos, tais como produção flexível e produção integrada;</li>
+<li>escolher, especificar e integrar equipamentos automáticos:para armazenamento e transporte num sistema de produção; para estações de trabalho, em particular os que utilizam tecnologia CNC.</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p>Competências Computacionais</p>
+<p>Utilização de sistemas CAM e ambientes de programação CNC</p>
+<p>Competências Experimentais</p>
+<p>Configuração de controladores de comando numérico (CNC)</p>
+<p>Teste e calibração de robôs móveis (de baixo custo) de acionamento diferencial</p>
+<p>Competências Transversais</p>
+Capacidade de identificar os princípios em que se baseiam e as funcionalidades principais dos sistemas de suporte ao planeamento e controlo da produção.
+
+## Pré-requisitos e co-requisitos
+<p>Tendo por objetivo uma análise global de sistemas de produção e tecnologias de automação usadas nesses sistemas, os conhecimentos prévios nessas duas vertentes serão de grande utilidade, não sendo no entanto fundamentais. Em particular serão relevantes conhecimentos de:</p>
+<p>- sensores/transdutores; servomotores elétricos; sistemas de controlo</p>
+- utilização de software de CAD/CAM e modelos para representação/troca de informação do produto.
+
+## Programa
+<ol><br /><li><strong> Automação industrial e sistemas de produção modernos</strong>: automação flexível em sistemas de produção; componentes tecnológica e organizacional.</li><br /><li><strong> Automação ao nível das estações de trabalho</strong>: autonomia, flexibilidade e integração; implicações da tecnologia CNC no desenvolvimento das tecnologias e conceitos organizacionais.</li><br /><li><strong> Tecnologia CNC</strong>: funções principais e estrutura do controlador CNC; componentes dos eixos de movimento; sistemas auxiliares; configuração de um CNC modular.</li><br /><li><strong> Programação e integração CNC:</strong> &#8220;on-line&#8221; versus &#8220;off-line&#8221;; ambientes de programação gráficos e CAM; integração CAD/CAM; CLDATA; ISO-10303; células de produção.</li><br /><li><strong> Automação ao nível do fluxo de materiais:</strong> importância e funções principais; transportadores; AGVS; AS/RS; identificação de materiais. Robôs móveis: veículos c/ rodas; localização, navegação, planeamento de trajetórias.</li><br /><li><strong>Sistemas de produção modernos:</strong> planeamento organizacional e evolução dos conceitos de produção flexível, integrada, &quot;lean&quot; e &quot;ágil&quot;.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<table width=&quot;0&quot;><br /><tbody><br /><tr><br /><td width=&quot;635&quot;><br /><p><strong>AULAS TEÓRICO-PRÁTICAS (TP): </strong>exposição dos temas abordados em sala de aula utilizando os materiais desenvolvidos para a UC. A exposição é complementada com a análise e discussão de exemplos ilustrativos dos temas abordados.</p><br /><p><strong>AULAS PRÁTICAS (PL): </strong>em laboratório organizadas segundo uma ficha de trabalho para cada aula, incluindo:</p><br /><p>- observação e análise de máquinas CNC;</p><br /><p>- análise das características de um CNC modular (Fagor) e a sua configuração;</p><br /><p>- programação de um CNC (&#8220;on-line&#8221;; em CAM (ex. Mastercam), em simulador);</p><br /><p>- utilização de software de simulação e um sistema de robôs móveis de baixo custo (LEGO NXT) para análise de problemas de localização/navegação d<strong>e um robô móvel.</strong></p><br /></td><br /></tr><br /></tbody><br /></table>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Participação presencial: 5.0 %
+- Exame: 65.0 %
+- Trabalho escrito: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 46.5 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho escrito: 36.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><strong>Fórmula de Avaliação:</strong></p>
+<p>- 65% exame final escrito;</p>
+- 35% avaliação contínua (30% para relatórios; 5% aulas PL).
+
+## Obtenção de frequência
+75% de presenças nas aulas lecionadas.
+
+## Melhoria de classificação
+As previstas nas normas gerais de avaliação.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Flexible Automation
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p style="text-align: left;">Students should be able to:</p>
+<ul>
+<li style="text-align: left;">recognize the main activities and flows of information in a production system;</li>
+<li style="text-align: left;">recognize the importance of material&#8217;s flow control;</li>
+<li style="text-align: left;">understand and recognize the importance of modern manufacturing concepts;</li>
+<li style="text-align: left;">select, specify and integrate equipment for:automated storage and transport; automated workstations which use CNC technology.</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+Main outcomes from learning process:<br /><br /><div id=&quot;tw-target-text-container&quot; class=&quot;tw-ta-container F0azHf tw-nfl&quot; tabindex=&quot;0&quot;><br /><pre class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; data-placeholder=&quot;Tradução&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>- Computational Skills<br /><br />Use of CAM systems and CNC programming environments<br /><br />- Experimental Skills<br /><br />- Configuration of Computer Numerical Controllers (CNC)<br /><br />- Test and calibration of mobile (low cost) differential drive robots<br /><br />- Transversal Skills<br />Ability to identify the principles on which</span></pre><br /><pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; data-placeholder=&quot;Tradução&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>support systems for production planning and control are based as well as their main functionalities.</span> </pre><br /></div>
+
+## Pré-requisitos e co-requisitos
+<p>This course can take advantage of technical knowledge previously acquired:</p>
+<p>- electric servomotors; sensors and transducers; control theory</p>
+- product data representation and CAD models.
+
+## Programa
+<table width=&quot;0&quot;><br /><tbody><br /><tr><br /><td width=&quot;635&quot;><br /><p><strong>1. Industrial automation and modern production systems</strong>: flexible automation in production systems; technological and organizational components.</p><br /><p><strong>2. Automation at the workstation&#8217;s level:</strong> autonomy, flexibility and integration; importance of CNC technology in the development of modern production systems.</p><br /><p><strong>3. CNC technology:</strong> main functions and structure of a CNC controller; feed and spindle axis; auxiliary systems; configuration of a modular CNC.</p><br /><p><strong>4. Programming and integration of CNC equipment:</strong> &#8220;on-line&#8221; versus &#8220;off-line&#8221;; graphical programming environments (CAM); CAD/CAM integration; CLDATA; ISO-10303; manufacturing cells.</p><br /><p><strong>5. Automation to support the flow of materials:</strong> importance and main functions; conveyor systems; AGVS; AS/RS; automatic identification and data capture. Mobile robots: wheeled platforms; localization, navigation and path planning.</p><br /><p><strong>6. Modern production systems:</strong> organizational planning; evolution of production flexibility, integration, lean and agile concepts.</p><br /></td><br /></tr><br /></tbody><br /></table>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>This course is based on the following complementary activities that involve lecturing, learning, and associated assessment of acquired knowledge and competences:</p>
+<p><strong>THEORETICAL CLASSES: </strong>room classes to present and discuss concepts and selected technologies.</p>
+<p><strong>PRACTICAL CLASSES:</strong> the students, organized in groups, work in the lab according to the guides for the lectures, including,</p>
+<p>- analysis of CNC machines;</p>
+<p>- analysis and configuration of a modular CNC controller (ex. Fagor);</p>
+<p>- programming a CNC controller (on-line; using a CAM system; in a CNC simulator)</p>
+<p>- using simulation software and a low cost mobile robot system (Lego) to identify localization/navigation problems.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Participação presencial: 5.0 %
+- Exame: 65.0 %
+- Trabalho escrito: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 46.5 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho escrito: 36.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Formula Evaluation:</p>
+<p>- 65% final written exam</p>
+- 35% ( 30% of homework assignments; 5% Lab classes).
+
+## Obtenção de frequência
+<p>Terms of frequency: 75% of presences registered on the taught classes.</p>
+
+## Melhoria de classificação
+<pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; data-placeholder=&quot;Tradução&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>Those provided for in the general evaluation rules.</span></pre>
+

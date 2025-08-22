@@ -1,0 +1,102 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas de Informação
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+Saber analisar, conceber, implementar e documentar sistemas de informação de complexidade moderada utilizando o modelo Sistemas de Gestão de Bases de Dados relacionais e conceitos Indústria4.0.<br /><br />Saber planear e gerir a implementação de um sistema de informação por uma equipa de pequena dimensão recorrendo a metodologias ágeis.<br /><br />Saber utilizar a linguagem de manipulação e interrogação de dados SQL em situações de complexidade moderada.
+
+## Resultados de aprendizagem e competências
+<p><span style="font-weight: 400;">Ao completar esta unidade curricular, o estudante deverá ser capaz de (Learning Outcomes - LO):<br /></span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">LO1 - Construir o modelo de dados de um problema de complexidade média num diagrama de classes UML</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br />LO2 - Traduzir de UML para Modelo Relacional (MR) e implementar num Sistema de Gestão de Base de Dados Relacional (SGBDR)</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br />LO3 - Utilizar a linguagem SQL para criar, interrogar e manipular dados e sua estrutura</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br />LO4 - Conhecer os sistemas Indústria 4.0 (I4.0), os princípios e estratégias fundamentais bem assim como os fluxos de dados horizontais/verticais desde o chão de fábrica até à gestão</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br />LO5 - Conhecer e saber utilizar tecnologias fundamentais associadas a I4.0 em áreas tal como rastreabilidade (RFIDs, etc) e acesso a dados (comunicações industriais entre máquinas, etc.) e visualização de dados (smart dashboards, etc)</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br />LO6 - Desenvolver aplicações de complexidade limitada envolvendo manipulação de dados e os conceitos I4.0.</span></p>
+
+## Programa
+1. Introdução aos Sistemas de Informação: <br />1.1 Análise, desenvolvimento e arquiteturas.<br />1.2 Metodologias de desenvolvimento de sistemas de informação.<br /><br />2. Modelação de dados<br />2.1 Diagrama de Classes UML<br />2.2 Modelo Relacional<br />2.3 Implementação em Sistema de Gestão de Bases de Dados Relacionais (SGBDR)<br />2.4 Manipulação e interrogação de dados (linguagem SQL)<br /><br />3. Sistemas de informação no âmbito da Indústria 4.0<br />3.1 Noções fundamentais de I4.0 (mass customization, rastreabilidade, produção de dados, conectividade, smart factory,<br />etc.)<br />3.2 Aplicações industriais ERP (Enterprise Resource Planning), CRM (Customer Relationship Management), SCM (Supply Chain Management), etc. e fluxos de dados associados (M2M, etc)<br />3.3 Alinhamento dos sistemas de informação com o negócio (geração ordens fabrico, etc.)<br />3.4 Questões frequentes, estratégias e soluções tecnológicas (Tempo Real, big data, acesso e visualização de dados, etc.)
+
+## Métodos de ensino e atividades de aprendizagem
+As aulas Teóricas proporcionam o enquadramento matérias e permitem a análise de problemas práticos. Introduzem ainda conceitos e ferramentas úteis para as aulas PL.<br /><br />As Aulas PL serão utilizadas inicialmente para exercícios de modelação e depois para exercícios de manipulação de dados e programação. <br />A parte final da UC reserva espaço das aulas PL para apoio ao projeto da UC em que os estudantes desenvolvem uma pequena aplicação que envolva dados no espírito dos sistemas I4.0.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 78.0 horas
+- Estudo autónomo: 45.0 horas
+- Frequência das aulas: 39.0 horas
+
+## Fórmula de cálculo da classificação final
+Avaliação distribuída sem exame final.<br />No final do capítulo 2 deve existir um Mini Teste (MT1) relativo a manipulação e interrogação de dados (linguagem SQL).<br />No final do semestre existe um segundo Mini Teste (MT2) sobre modelação, implementação de sistemas de informação e conceitos fundamentais de indústria 4.0.<br />No final da UC pretende-se que grupos de estudantes desenvolvam uma pequena aplicação que envolva modelação e manipulação de dados - Projeto Final (PF).<br />Classificação_Final (CF) = 0.25 x MT1 + 0.25 x MT2 + 0.50 x PF<br /><br />Em cada uma das componentes de avaliação (minitestes e  projeto final) os estudantes devem obter uma classificação mínima de 40%.
+
+## Obtenção de frequência
+Não exceder o número limite de faltas e participar activamente no planeamento e concretização dos respectivos projectos.<br />Nota mínima de 40% no projeto
+
+## Melhoria de classificação
+Melhoria individual do projecto anteriormente apresentado pelo grupo.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Information Systems
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+To know how to analyse, design, implement and document moderately complex information systems using relational database management systems and Industry4.0 principles.<br /><br />To know how to plan and manage the implementation of information systems by small teams using agile methods.<br /><br />To know how to use the SQL language in moderately complex situations.
+
+## Resultados de aprendizagem e competências
+<p><span style="font-weight: 400;">Upon completion of this course, the student should (Learning Outcomes - LO):</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br />LO1 - Model in a UML class diagram the data for a problem of medium complexity</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br />LO2 - Translate a UML class diagram into a Relational Model (RM) and implement in a Relational Database Management </span><span style="font-weight: 400;">System (RDBMS)</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br />LO3 - Use SQL to create, query and manipulate data and its structure</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br />LO4 - Know Industry 4.0 (I4.0) systems, fundamental principles and strategies as well as horizontal and vertical data flow </span>from the shop floor to the management level<br /><br />LO5 - Know and be able to use key technologies in I4.0 in areas such as traceability (RFIDs, etc.), data access (i industrial communications, etc.) and data visualization (smart dashboards, etc.)<br /><br />LO6 - Develop applications of limited complexity involving data management and I4.0 principles.</p>
+
+## Programa
+1. Introduction to Information systems<br />1.1 Analysis, development and architectures.<br />1.2 Information systems development methodologies.<br /><br />2. Data Models<br />2.1 UML Class Diagram<br />2.2 Relational Model<br />2.3 Implementation in a Relational Database management Systems (RDBMS)<br />2.4 Data queries and Management (SQL)<br /><br />3. Information Systems under the Industry 4.0 (I4.0)<br />3.1 Fundamental notions regarding I4.0 (mass customization, traceability, data production, connectivity, smart factory, etc.)<br />3.2 Industrial applications ERP (Enterprise Resource Planning), CRM (Customer Relationship Management), SCM (Supply Chain Management), etc. and associated data flow (M2M, etc)<br />3.3 Business management and Information System cooperation (manufacturing orders, etc.)<br />3.4 Frequent issues, strategies and technological solutions (Real Time, big data, data access and visualization, etc.)
+
+## Métodos de ensino e atividades de aprendizagem
+Theoretical classes include the proper context and comparisons that are the foundations for learning. They also include principles and tools useful for PL classes.<br /><br />PL classes are to be initially used with modelling exercises and then data manipulation exercises. They will include programming exercises and lastly to give feedback to the class project where students develop a small application that deals with data management in the spirit of I4.0 systems.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 78.0 hours
+- Estudo autónomo: 45.0 hours
+- Frequência das aulas: 39.0 hours
+
+## Fórmula de cálculo da classificação final
+Distributed without final exam.<br />At the end of chapter 2, there should be a Midterm Test (MT1) dealing with data queries and management (SQL language).<br />At the end of the semester there is a second Mini Test (MT2) on modeling, implementation of information systems and fundamental concepts of industry 4.0.<br />At the end of the course, it is intended that a small group of students should develop a small application dealing with modelling and data management &#8211; (Final Project &#8211; PF).<br />Final_Classification (CF) = 0.25 x MT1 + 0.25 x MT2 + 0.50 x PF<br /><br />Minimum classification in each component: 40%
+
+## Obtenção de frequência
+Students have to actively participate in the development of projects. Besides they cannot miss more classes than allowed by the rules.<br />Minimum grade of 40% in the course project.
+
+## Melhoria de classificação
+Individual improvement of the group project.
+

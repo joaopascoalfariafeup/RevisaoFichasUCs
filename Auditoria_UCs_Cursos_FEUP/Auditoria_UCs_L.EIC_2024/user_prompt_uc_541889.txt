@@ -1,0 +1,148 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Programação Funcional e em Lógica
+
+## Curso responsável
+Licenciatura em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>Os paradigmas de Programação Funcional e de Programação em Lógica apresentam abordagens declarativas e baseadas em processos formais de raciocínio à programação, mais apropriada para a resolução de alguns tipos de problemas.</p>
+<p>Objetivos: Adquirir familiaridade com os paradigmas da Programação Funcional e da Programação em Lógica. Desenvolver as capacidades de raciocínio abstracto e de representação de problemas de forma declarativa.</p>
+
+## Resultados de aprendizagem e competências
+<p>No final da UC, os estudantes deverão ser capazes de:</p>
+<ol>
+<li>Usar tipos pré-definidos e algébricos de Haskell para representar valores de um domínio específico</li>
+<li>Definir transformações genéricas sobre estruturas de dados indutivas (por exemplo: árvores) como funções polimórficas em Haskell</li>
+<li>Decompor problemas de programação em funções puras em Haskell operando sobre tipos de dados estruturados</li>
+<li>Provar correção de programas em Haskell usando definições com equações e indução</li>
+<li>Representar factos e relações como programas em Prolog</li>
+<li>Compreender o modelo de execução de programas em Prolog</li>
+<li>Modelar problemas de pesquisa como programas lógicos e <em>queries</em> em Prolog</li>
+</ol>
+
+## Programa
+<ol><br /><li>Programação Funcional (7 semanas)</li><br /><ol><br /><li>Expressões, avaliação e valores. Tipos pré-definidos. Definições usando equações.</li><br /><li>Polimorfismo paramétrico e &#8220;bounded&#8221;. Classes de tipos fundamentais.</li><br /><li>Expressões lambda. Aplicação parcial e &#8220;currying&#8221;. Funções de ordem superior do prelúdio-padrão.</li><br /><li>Definição de tipos algébricos; encaixe de padrões e definições recursivas. </li><br /><li>Exemplos de programação: árvores equilibradas; árvores sintáticas;<em>layout </em>de texto; visualização e jogos.</li><br /><li>Programação com I/O.</li><br /><li>Provas de correção de programas usando definições por equações e indução.</li><br /></ol><br /><li>Programação em Lógica (6 semanas)<br /><ol><br /><li>Lógica proposicional e de predicados. Cláusulas de Horn. Factos e regras. Termos de Herbrand. Unificação.</li><br /><li>Linguagem Prolog. Modelo de execução. Resolução SLD. Negação por falha. </li><br /><li>Bases de factos e relações. Programação com recursão e estruturas.</li><br /><li>Aritmética. Predicados extra-lógicos e de controlo.</li><br /><li>Exemplos de programação: procura, jogos, manipulação simbólica.</li><br /></ol><br /></li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-weight: 400;">As aulas teóricas são usadas para exposição de fundamentos, acompanhada da apresentação e discussão de exemplos ilustrativos. As aulas teórico-práticas permitem a sistematização de conhecimentos por meio da resolução de exercícios de programação e acompanhamento da realização dos trabalhos práticos.</span></p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 horas
+- Estudo autónomo: 50.0 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>(CF = Classificação Final, P = Componente Prática, T = Componente Teórica, ER = Exame de Recurso)</p>
+<p>(TP1, TP2 = Trabalho Prático 1 e 2, respetivamente)</p>
+<p>(MT1, MT2 = Mini-Teste 1 e 2, respetivamente)</p>
+<br />
+<p>P = 50% * TP1 + 50% * TP2</p>
+<p>T = 50% * MT1 + 50% * MT2</p>
+<br />
+<p>Em Época Normal:  </p>
+<p>CF = 50% * P + 50% * T</p>
+<br />
+<p>Em Época de Recurso:</p>
+<p>CF = 50% * P + 50% * ER</p>
+<p><br />Notas:<br />- A nota mínima em cada componente (TP1, MT1, TP2, e MT2) é de 35%<br />- Em época de recurso, a nota mínima é de 35% em cada uma das partes do ER<br />- A nota máxima entre as componentes TP1 e MT1 é, no máximo, igual à nota mínima de entre estas duas componentes acrescida de 6 valores<br />- A nota máxima entre as componentes TP2 e MT2 é, no máximo, igual à nota mínima de entre estas duas componentes acrescida de 6 valores<br />- Em época de recurso, aplicam-se as mesmas regras, substituindo MT1 e MT2 pelas partes correspondentes do ER</p>
+
+## Obtenção de frequência
+Um estudante obtém frequência na UC se formar grupos de trabalho para os dois trabalhos práticos (TP1 e TP2), participar ativamente na realização dos mesmos, e entregar ambos os trabalhos dentro dos prazos previstos.
+
+## Melhoria de classificação
+<p>A componente prática não pode ser melhorada em época de recurso nem em épocas especiais.</p>
+<p>A componente teórica pode ser melhorada em exame a realizar em época de recurso.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Functional and Logic Programming
+
+## Curso responsável
+Bachelor in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>The Functional Programming and Logic Programming paradigms present declarative approaches to programming, based on formal reasoning processes, which are more appropriate to the resolution of some types of problems.</p>
+<p>Objectives: become familiar with the Functional Programming and Logic Programming paradigms. Develop skills in abstract reasoning and declarative problem representation.</p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of the course, students should be able to:</p>
+<ol>
+<li>Use pre-defined and algebraic types in Haskell to represent values of a specific domain</li>
+<li>Define generic transformations on inductive data structures (for example, trees) as polymorphic functions in Haskell</li>
+<li>Decompose programming problems into pure Haskell functions operating over structured data types</li>
+<li>Prove equivalence of Haskell functions using definitions by equations and induction</li>
+<li>Represent facts and relations as Prolog programs</li>
+<li>Understand the execution model of Prolog programs</li>
+<li>Model search problems as logic programs and queries in Prolog.</li>
+</ol>
+
+## Programa
+<ol><br /><li>Functional Programming (7 weeks)<br /><br /><ol><br /><li>Expressions, reductions, and values. Built-in simple and structured types. Definitions using equations.</li><br /><li>Parametric and bounded polymorphism. Fundamental type classes.</li><br /><li>Lambda expressions. Currying and partial application. Higher-order functions of the standard prelude.</li><br /><li>Defining algebraic data types; pattern matching and recursive definitions.</li><br /><li>Programming examples: search trees; syntax trees; text layout; visualization and games.</li><br /><li>Programming with I/O.</li><br /><li>Equivalence proofs using equational theory and induction.</li><br /></ol><br /></li><br /><li>Logic Programming (6 weeks)<br /><br /><ol><br /><li>Propositional and predicate logic. Horn clauses. Facts and rules. Herbrand terms. Unification.</li><br /><li>The Prolog language. Execution model. SLD resolution. Negation by failure.</li><br /><li>Databases of facts and relations. Programming with recursive structures.</li><br /><li>Arithmetic. Extra-logic and control predicates.</li><br /><li>Examples of logic programs: search, games, symbolic manipulation.</li><br /></ol><br /></li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+Theoretical lectures are used to explain fundamentals, accompanied by the presentation and discussion of illustrative examples. Theoretical-practical (TP) classes allow for the systematization of knowledge through the resolution of programming exercises and monitoring of progress in student&#8217;s assignments.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 hours
+- Estudo autónomo: 50.0 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>(CF = Final Classification, P = Practical Component, T = Theoretical Component, ER = Appeal Exam)</p>
+<p>(TP1, TP2 = Practical Assignment 1 and 2, respectively)</p>
+<p>(MT1, MT2 = Mini-Test 1 and 2, respectively)</p>
+<br />
+<p>P = 50% * TP1 + 50% * TP2</p>
+<p>T = 50% * MT1 + 50% * MT2</p>
+<br />
+<p>In Regular Exam Season:  </p>
+<p>CF = 50% * P + 50% * T</p>
+<br />
+<p>In Appeal Exam Season:</p>
+<p>CF = 50% * P + 50% * ER</p>
+<p><br />Notes:<br />- The minimum grade in each component (TP1, MT1, TP2, and MT2) is 35%<br />- In the appeal exam season, the minimum grade is 35% for each part of the exam<br />- The maximum grade between components TP1 and MT1 is, at most, the minimum grade of these two components plus 6 marks<br />- The maximum grade between components TP2 and MT2 is, at most, the minimum grade of these two components plus 6 marks<br />- In the appeal exam season, the same rules apply, replacing MT1 and MT2 with the corresponding parts of the exam</p>
+
+## Obtenção de frequência
+A student obtains frequency in this course if he integrates groups for the practical assignments (TP1 and TP2), actively participates in the making of the assignments, and delivers both assignments within the defined deadlines.
+
+## Melhoria de classificação
+<p>The practical component cannot be improved in appeal nor in special exam seasons.</p>
+<p>The theoretical component can be improved in an exam during the appeal exam season.</p>
+

@@ -1,0 +1,162 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Competências Transversais para a Engenharia: Introdução ao Linux
+
+## Curso responsável
+Competências Transversais para a Engenharia: Introdução ao Linux
+
+## Créditos ECTS
+1,5
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Os objectivos desta unidade curricular de competências transversais são:</p>
+<ul>
+<li>Apresentar a filosofia de código aberto e o seu impacto no desenvolvimento de software;</li>
+<li>Fornecer uma compreensão abrangente do sistema operativo Linux e dos seus princípios básicos;</li>
+<li>Desenvolver práticas de navegação e operação no ambiente Linux;</li>
+<li>Desenvolver a capacidade de personalizar e otimizar sistemas Linux para diversas aplicações;</li>
+<li>Promover habilidades de resolução de problemas na gestão e "troubleshooting" de sistemas operativos Linux.</li>
+</ul>
+Desta forma, pretende-se que os estudantes <span class="HwtZe" lang="pt" style="text-align: justify;"><span class="jCAhz ChMk0b"><span class="ryNqvb">reconheçam as vantagens de personalizar o sistema operativo para atender as necessidades específicas e melhorar a eficiência no seu uso como ferramenta de trabalho. </span></span></span>
+
+## Resultados de aprendizagem e competências
+<p style="text-align: justify;">No final da presente unidade curricuar de competências, as/os estudantes deverão ser capazes de:</p>
+<ul>
+<li style="text-align: justify;">Utilizar a interface de linha de comandos para executar várias tarefas com eficiência;</li>
+<li style="text-align: justify;">Escrever e executar "scripts shell" básicos para automatizar tarefas de rotina;</li>
+<li style="text-align: justify;">Adequar as ferramentas à utilização académica típica (escrita de relatórios, bibliografias, etc);</li>
+<li style="text-align: justify;">Compreender e aplicar conceitos de segurança e ferramentas básicas de rede no ambiente Linux;</li>
+<li style="text-align: justify;">Gerir recursos do sistema operativo, incluindo contas de utilizador, processos e serviços;</li>
+<li style="text-align: justify;">Instalar, atualizar e gerir pacotes de software do sistema operativo;</li>
+<li style="text-align: justify;">Solucionar problemas comuns e realizar manutenção regular para garantir a fiabilidade do sistema.</li>
+</ul>
+
+## Programa
+<p style="text-align: justify;">A presente unidade curricular inclui os seguintes conteúdos programáticos:</p>
+<ul>
+<li style="text-align: justify;">Aspectos gerais do sistema operativo;</li>
+<li style="text-align: justify;">Comandos essenciais em terminal;</li>
+<li style="text-align: justify;">Gestão de ficheiros/permissões e processos;</li>
+<li style="text-align: justify;">Administração de utilizadores/grupos;</li>
+<li style="text-align: justify;">Expressões regulares (REGEX)</li>
+<li style="text-align: justify;">Shell scripting</li>
+<li style="text-align: justify;">Makefile;</li>
+<li style="text-align: justify;">Ferramentas para documentos técnicos/relatórios ou teses (LaTeX, desenho vetorial, etc);</li>
+<li style="text-align: justify;">Comandos/segurança de rede;</li>
+<li style="text-align: justify;">Sessões remotas.</li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p style="text-align: justify;">Aulas teórico-práticas presenciais, projetadas para promover uma experiência de aprendizagem interativa e envolvente, fundamentada numa metodologia de ensino-aprendizagem que incentiva a exploração ativa. <br /><br />Nas atividades práticas, as/os estudantes aprofundam as funcionalidades essenciais de Linux, adquirindo experiência direta com interface de linha de comandos e ferramentas fundamentais do sistema operativo. <br /><br />Esta abordagem não só consolida aspectos essencialmente técnicos, mas também desenvolve as capacidades de resolução de problemas, desafiando as/os estudantes a aplicarem conceitos em tempo real. Ao equilibrar conceitos de índole teórica com exercícios práticos, este curso promove uma compreensão sólida do sistema operativo Linux, preparando as/os estudantes para futuramente enfrentarem com confiança cenários realistas no seu quotidiano.</p>
+
+## Tipo de avaliação
+Avaliação por exame final
+
+## Componentes de Avaliação
+- Participação presencial: 5.0 %
+- Exame: 95.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 28.5 horas
+- Frequência das aulas: 12.0 horas
+
+## Fórmula de cálculo da classificação final
+O cálculo da classificação final (CF) rege-se por<br /><br />CF = 0.95*E + 0.05*F<br /><br />onde E indica a classificação de exame final (0 a 20 valores) e F indica a frequência (0 a 20 valores) correspondente à assiduidade.
+
+## Obtenção de frequência
+<p style="text-align: justify;">Frequência obrigatória em 75% das aulas.</p>
+
+## Melhoria de classificação
+<p style="text-align: justify;">Em caso de melhoria de classificação na componente de exame, se no mesmo ano letivo, as regras são as mesmas que vigoram para os exames de época normal e recurso.</p>
+<p style="text-align: justify;">No caso de melhoria da componente de exame no ano letivo subsequente, a melhoria da classificação de frequência implica nova frequência da unidade curricular, voltando a contar com o mesmo peso, e implica necessariamente a realização de novo exame final.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Competências Transversais para a Engenharia: Introdução ao Linux
+
+## Curso responsável
+Transverse Skills for Engineering: Introduction to Linux
+
+## Créditos ECTS
+1,5
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p style="text-align: justify;">The objectives of this transversal skills curricular unit are:</p>
+<ul>
+<li style="text-align: justify;">Present the open source philosophy and its impact on software development;</li>
+<li style="text-align: justify;">Provide a comprehensive understanding of the Linux operating system and its basic principles;</li>
+<li style="text-align: justify;">Develop practical navigation and operation skills in the Linux environment;</li>
+<li style="text-align: justify;">Develop the ability to customize and optimize Linux systems for various applications;</li>
+<li style="text-align: justify;">Promote problem-solving skills in the management and troubleshooting of Linux operating systems.</li>
+</ul>
+<p style="text-align: justify;">In this way, it is intended that students recognize the advantages of customizing the operating system to meet specific needs and improve efficiency in its use as a work tool.</p>
+
+## Resultados de aprendizagem e competências
+<p style="text-align: justify;">At the end of this transversal skills curricular unit, students should be able to:</p>
+<ul>
+<li style="text-align: justify;">Use the command line interface to perform various tasks efficiently;</li>
+<li style="text-align: justify;">Write and run basic shell scripts to automate routine tasks;</li>
+<li style="text-align: justify;">Adapt the tools to typical academic use (writing reports, bibliographies, etc.);</li>
+<li style="text-align: justify;">Understand and apply security concepts and basic network tools in the Linux environment;</li>
+<li style="text-align: justify;">Manage operating system resources, including user accounts, processes and services;</li>
+<li style="text-align: justify;">Install, update and manage operating system software packages;</li>
+<li style="text-align: justify;">Troubleshoot common problems and perform regular maintenance to ensure system reliability.</li>
+</ul>
+
+## Programa
+<p style="text-align: justify;">This curricular unit includes the following syllabus:</p>
+<ul>
+<li style="text-align: justify;">General aspects of the operating system;</li>
+<li style="text-align: justify;">Essential terminal commands;</li>
+<li style="text-align: justify;">File/permissions and process management;</li>
+<li style="text-align: justify;">User/group administration;</li>
+<li style="text-align: justify;">Regular expressions;</li>
+<li style="text-align: justify;">Shell scripting;</li>
+<li style="text-align: justify;">Makefile;</li>
+<li style="text-align: justify;">Tools for technical documents/reports or theses (LaTeX, vector drawing, etc.);</li>
+<li style="text-align: justify;">Network commands/security;</li>
+<li style="text-align: justify;">Remote sessions.</li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p style="text-align: justify;">In-person theoretical and practical classes designed to foster an engaging and interactive learning experience, grounded in a teaching-learning methodology that encourages active exploration. <br /><br />Through hands-on activities, students delve into core operating system functionalities, gaining firsthand experience with essential commands and tools. <br /><br />This approach not only helps solidify technical skills but also enhances students' problem-solving abilities by challenging them to apply concepts in real-time. By balancing theoretical concepts with practical exercises, this course cultivates a robust understanding of the Linux operating system, equipping students to confidently tackle realistic, everyday scenarios.</p>
+
+## Tipo de avaliação
+Evaluation with final exam
+
+## Componentes de Avaliação
+- Participação presencial: 5.0 %
+- Exame: 95.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 28.5 hours
+- Frequência das aulas: 12.0 hours
+
+## Fórmula de cálculo da classificação final
+<p style="text-align: justify;">The calculation of the final classification (FC) is given by:</p>
+<p style="text-align: justify;">FC = 0.95*E + 0.05*F</p>
+<p style="text-align: justify;">where E indicates the final exam classification (0 to 20 points) and F indicates the frequency (0 to 20 points) corresponding to attendance.</p>
+
+## Obtenção de frequência
+<p style="text-align: justify;">Mandatory attendance in 75% of classes.</p>
+
+## Melhoria de classificação
+<p style="text-align: justify;">In the case of grade improvement for the exam component, if it occurs within the same academic year, the rules are the same as those applied to regular and resit exam periods.</p>
+<p style="text-align: justify;">For grade improvement of the exam component in the following academic year, improving the coursework grade requires retaking the course, with the same weight being applied, and necessarily involves taking a new final exam.</p>
+

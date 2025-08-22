@@ -1,0 +1,173 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Programação de Computadores I
+
+## Curso responsável
+Licenciatura em Engenharia Mecânica
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p style="text-align: justify;">Objectivos específicos: Sendo uma disciplina de formação de base o objetivo é dotar os estudantes de conceitos necessários para a formulação e desenvolvimento de algoritmos que permitam resolver vários tipos de problemas numéricos, independentemente da linguagem de programação. Os programas incidem entre outros temas, no cálculo vectorial e matricial, na integração numérica e na aproximação polinomial. A linguagem de programação utilizada para o desenvolvimento e teste dos programas é o Python. Na segunda parte do semestre é apresentado o ambiente de trabalho MATLAB.</p>
+
+## Resultados de aprendizagem e competências
+<p style="text-align: justify;"><strong>No processo de ensino e aprendizagem desta unidade curricular o objetivo é que o estudante adquira no final da unidade curricular competências básicas para se adaptar a ambientes de programação diferentes do adotado nesta unidade e que envolvem a resolução de problemas relacionados com áreas da Engenharia Mecânica.</strong> <strong>Espera-se aquisição de competências especificas essencialmente para:</strong></p>
+<ul>
+<li>
+<div style="text-align: justify;"><strong>Decompor um problema inicial em problemas mais simples e </strong><strong>elaborar um algoritmo para resolver problemas simples;</strong></div>
+</li>
+<li style="text-align: justify;">
+<div><strong>Aplicar os conceitos e técnicas necessárias para a conceção de algoritmos que permita resolver alguns tipos de problemas;</strong></div>
+</li>
+</ul>
+<ul>
+<li style="text-align: justify;">
+<div><strong>Conceber algoritmos para resolução de problemas numéricos básicos que envolvem conceitos de cálculo vetorial e matricial;</strong></div>
+</li>
+<li style="text-align: justify;">
+<div><strong>Desenvolver programas em linguagem Python e em ambiente Matlab utilizando corretamente as instruções básicas;</strong></div>
+</li>
+<li>
+<div style="text-align: justify;"><strong>Testar um programa, interpretar e analisar os resultados obtidos.</strong></div>
+</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p><strong>Álgebra Linear e Geometria Analítica: Cálculo vetorial e matricial. Conhecimentos básicos em lógica proposicional.</strong></p>
+
+## Programa
+<p style="text-align: justify;"><strong>O principal objetivo desta unidade curricular é dotar os estudantes de conhecimentos básicos em algoritmia e estruturas de programação para resolverem problemas numéricos básicos que envolvem cálculo matricial. Na primeira parte do semestre as aulas são focadas na linguagem algorítmica e linguagem de programação adotada, PYTHON e a segunda parte é dedicada ao MATLAB.</strong></p>
+<ol>
+<li>
+<div style="text-align: justify;"><strong>FUNCIONAMENTO DE UM COMPUTADOR: </strong><strong>Unidades constituintes. Execução de um programa. Interpretador;</strong></div>
+</li>
+</ol>
+<div style="text-align: justify;">
+<ol start="2">
+<li><strong>ALGORITMOS: </strong><strong>Linguagem algorítmica. Organização geral de um algoritmo. </strong><strong>Tipos de dados e operadores.  Instruções de: leitura, escrita e atribuição. Instruções condicionais e de repetição. Variáveis indexadas;</strong></li>
+</ol>
+<ol start="3">
+<li><strong>INTRODUÇÃO À LINGUAGEM DE PROGRAMAÇÃO PYTHON: </strong><strong>Sequenciação. Declaração de variáveis e tipos de dados: enfoque nos dados do tipo numérico.</strong><strong>Operadores aritméticos e relacionais. Instrução de atribuição. Instrução de leitura e escrita. Estruturas de seleção. Estruturas de repetição. </strong><strong>Estruturas de dados. Subprogramas: procedimento e funções. Funções pré-definidas no Python. </strong><strong>Manipulação de Ficheiros: ficheiros, métodos sobre ficheiros e ficheiros de texto vs. Binários. </strong><strong>Manipulação de strings;</strong></li>
+</ol>
+</div>
+<ol start="4">
+<li>
+<div style="text-align: justify;"><strong> INTRODUÇÃO AO MATLAB: </strong><strong>Sessão MATLAB. Estruturas básicas de dados. Programação em MATLAB. Estruturas avanças de dados. Representação de gráficos. Desenvolvimento de aplicações MATLAB para resolver </strong><strong>problemas numéricos básicos de engenharia. </strong></div>
+</li>
+</ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p style="text-align: justify;"><strong>Aulas teóricas:   Aulas expositivas com apresentação Power Point. Aplicação dos conceitos abordados a casos práticos. Aprendizagem de conceitos básicos para a conceção de algoritmos e implementação dos respetivos programas em linguagem Python e MATLAB. Além disso, semanalmente são propostos exercícios referentes à matéria dada com o objetivo de os estudantes apresentarem propostas de resolução nas aulas práticas laboratoriais. Nestas aulas PL,  resolvem-se exercícios para consolidação dos assuntos abordados nas aulas teóricas desenvolvendo algoritmos e projectos. Procura-se uma aprendizagem ativa e de envolvimento dos estudantes na implementação de trabalhos de programação em computador. Neste contexto valoriza-se a capacidade de iniciativa na resolução de exercícios propostos. Na segunda parte do semestre introduz-se o ambiente de trabalho MATLAB.<br /><br /><br />Carga horária semanal &#8211;1T + 3h PL</strong></p>
+<p><strong>Horas totais previstas &#8211; 52h<br /><br /></strong></p>
+<p><strong>Aulas práticas-laboratorais</strong><strong>: Conceção de algoritmos (20h), implementação dos respetivos programas em linguagem Python( 20h) e MATLAB (12h).</strong></p>
+<div style="text-align: justify;"><strong>Preparação para exames &#8211; 62h</strong></div>
+<div style="text-align: justify;"><strong>Atendimento aos estudantes (horário a indicar por cada docente).</strong></div>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Participação presencial: 10.0 %
+- Teste: 30.0 %
+- Trabalho escrito: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 84.0 horas
+- Frequência das aulas: 48.0 horas
+- Trabalho laboratorial: 30.0 horas
+
+## Fórmula de cálculo da classificação final
+<div style=&quot;text-align: justify;&quot;>A avaliação desta unidade curricular tem quatro componentes (T1, T2, T3 e T4): <br />A nota de classificação final (CF) é obtida usando a seguinte fórmula: <br />CF=0.10 (Prova T1)+ 0.30 (Prova T2) +0.50 (Prova T3) + 0.1 (T4).<br /><br /><strong>Prova T1</strong>: 1º teste,  realizado a meio do semestre, uma prova escrita de algoritmia;<br /><strong>Prova T2</strong>: 2º teste,  realizado a meio do semestre, uma prova prática no computador<br />(programa em python);<br /><strong>Prova T3:</strong> 3º teste (Exame Final);  <br /><strong>Componente T4:</strong> avaliação do  desempenho das aulas.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot;><strong>Os estudantes são aprovados à unidade curricular se:</strong><br /><br />1) obtiveram frequência;<br />2) no exame final, obtiverem pelo menos 50% da cotação atribuída aos conteúdos relativos ao Matlab e 25% da cotação nos restantes assuntos;<br />3) classificação final CF&gt;=9.5.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot;>Os estudantes não aprovados, e que obtiveram frequência no ano letivo corrente, estão admitidos à <strong>prova de recurso (escrita)</strong>. O Exame de recurso, ER, constará da matéria total da UC e está <strong>cotado para 20 valores</strong>.<br /><br /><strong>Notas importante: <br /></strong><br />1) No caso do estudante não realizar as<strong> Provas T1 e/ou T2 </strong>não permite a realização da <strong>prova T3 para uma cotação de 20 Valores.<br /></strong>2) Classificação  superior a 17 valores (CF &gt; 17 Valores) está sujeita à realização de uma prova de defesa de classificação, oral ou escrita,  independentemente de ter sido obtida pela processo de avaliação distribuída ou pela prova de reavaliação global.<br />3) Estudantes aprovados e com classificação<strong> igual ou inferior</strong> a 17 valores não estão admitidos a esta prova.</div>
+
+## Obtenção de frequência
+<p>Para obter frequência é obrigatório o cumprimento de assiduidade,  Não exceder o número limite de faltas correspondente a 25% das aulas Práticas Laboratoriais definidas como obrigatórias.  <br />Os estudantes que estão a repetir a unidade curricular não estão dispensados da frequência das aulas mesmo que não tenham excedido o número de faltas no ano anterior.</p>
+
+## Melhoria de classificação
+<p>Na época de recurso o estudante pode melhorar a classificação obtida realizando uma prova escrita com toda a matéria da unidade curricular para 20 valores.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computer Programming I
+
+## Curso responsável
+Bachelor in Mechanical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p style="text-align: justify;">Aims: This is a course that gives students the opportunity to be aware of the essential concepts to construct algorithms, which make them able to solve a variety of problems, essencialy focused on vector and matrix calculation, numerical integration and polynomial approximation. These are essential tools to solve engineering problems. The programming language that is going to be used to develop and test programs is Python. <span id="result_box" lang="en"><span class="hps">In the second part</span> <span class="hps">of the semester</span><span class="hps"> MATLAB language will be introduced</span>. </span><span id="result_box" class="short_text" lang="en"></span></p>
+
+## Resultados de aprendizagem e competências
+<div style=&quot;text-align: justify;&quot;>By the end of the semester, students should be able to use other programming languages than the ones that have been taught during the semester, and develop programs within Mechanical Engineering.Learning Outcomes:<br /><br /><ul><br /><li>Decompose an initial problem into simpler problems and create an algorithm to solve simple problems;</li><br /><li>Apply concepts and techniques necessary for the design of algorithms to solve some types of problems;</li><br /><li>Design algorithms for solving basic numerical problems involving concepts of vector and matrix calculus;</li><br /><li>Develop programs in Python language and Matlab environment using the basic instructions correctly;</li><br /><li>Test a program, interpret and analyze the obtained results.</li><br /></ul><br /></div>
+
+## Pré-requisitos e co-requisitos
+<div dir=&quot;ltr&quot; style=&quot;zoom: 1;&quot;> <span id=&quot;result_box&quot; class=&quot;short_text&quot; lang=&quot;en&quot;><span class=&quot;hps&quot;>Knowledge</span> <span class=&quot;hps&quot;>of</span> <span class=&quot;hps&quot;>algebra and</span> mathematical <span class=&quot;hps&quot;>logic.</span></span></div>
+
+## Programa
+<div style=&quot;text-align: justify;&quot;>The main goal of this course is to provide students with basic knowledge in algorithms and programming structures in order to solve basic numerical problems involving matrix calculus. In the first part of the semester, classes are focused on the algorithmic language and programming language adopted, PYTHON, and the second part is dedicated to MATLAB.   <br /><br /><ol><br /><li>FUNCTIONING OF A COMPUTER: Constituent units. Running a program. Interpreter;  </li><br /><li>ALGORITHMS: Algorithmic language. General organization of an algorithm. Data types and operators. Data input, data output and attribution structure. Conditional and repeating instructions. Indexed variables; </li><br /><li>INTRODUCTION TO PYTHON PROGRAMMING LANGUAGE: Sequencing. Declaration of variables and data types: focus on numerical data. Arithmetic and relational operators. Assignment statement. Data input and output. Selection structures. Repetition structures. Data structures. Subprograms: functions and procedures. Predefined functions in Python. File Handling: files, methods on files and text files vs. Binaries. String manipulation;  </li><br /><li>INTRODUCTION TO MATLAB: MATLAB Session. Basic data structures. Programming in MATLAB. Advanced data structures. Graphic representation. Development of MATLAB applications in order to solve basic engineering problems.</li><br /></ol><br /></div>
+
+## Métodos de ensino e atividades de aprendizagem
+<p style="text-align: justify;"><span id="result_box" lang="en">Theoretical classes: Lectures with Power Point presentation. Learning basic concepts for designing algorithms and implementation in Python and MATLAB language. Application of basic concepts to practical cases. In addition, each week, several exercises are proposed and discussed in laboratory (PL) classes. In these PL classes, exercises are solved to consolidate subjects introduced in theoretical classes. Students will be encouraged to develop and test their own programs. Students joined in groups of two or three elements will develop programming Projects in Python.   The MATLAB work environment is introduced in </span><span id="result_box" lang="en">the second part of the semester.</span><span id="result_box" lang="en"><br /><br />Hours per week -1T + 3h PL <br /><br />Estimated total hours - 52h <br /><br />Practical-laboratory classes: Algorithm design (20h), implementation in Python (20h) and MATLAB (12h). <br /><br />Exam Preparation - 62h<br /></span></p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Participação presencial: 10.0 %
+- Teste: 30.0 %
+- Trabalho escrito: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 84.0 hours
+- Frequência das aulas: 48.0 hours
+- Trabalho laboratorial: 30.0 hours
+
+## Fórmula de cálculo da classificação final
+<p style="text-align: justify;">The assessement is composed by four components (T1, T2, T3 and T4): <br />The final classification (CF) will be calculated according to the rule: CF=0.10 (T1 ex)+0.30 (T2 ex) + 0.50 (T3, final exam) + 0.10 (classes classification).  <br /><br /><strong>T1</strong> - an <span class="Y2IQFc" lang="en">algorithm</span> exam; <br /><strong>T2</strong> - an computer <span class="Y2IQFc" lang="en">exam</span>; <br /><strong>T3 -</strong> a written exam; <br /><strong>T4</strong> - classes classification.</p>
+<div id="tw-target-text-container" class="tw-ta-container F0azHf tw-nfl" tabindex="0">
+<pre class="tw-data-text tw-text-large tw-ta" dir="ltr" style="text-align: left;" data-placeholder="Tradução" data-ved="2ahUKEwjUhtCQj4yLAxUPVKQEHYcoBS8Q3ewLegQIBxAU"><span class="Y2IQFc" lang="en"><strong>Students are approved for the curricular unit if:</strong>
+
+1) obtained frequency;
+2) in the final exam, obtain at least 50% of the mark attributed to <br />the contents related to Matlab and 25% of the mark in the remaining <br />subjects;
+3) final classification CF&gt;=9.5.</span></pre>
+<p>Students that obtained attendance in the current academic year and did not reach the passing grade, are admitted to the <strong>appeal examination (written)</strong>. This exam, ER, will consist of the total subject matter of the UC, <strong>quoted for 20 point</strong>s.</p>
+<p><strong>Important Notes: <br /></strong></p>
+1) If the student does not take tests <strong>T1 and/or T2</strong>, <strong>the T3 test will not be quoted for 20 points.<br /></strong>2) Students with a final classification greater than 17 points are subjected to an extra oral or written test.<br />3) Students with a final classification <strong>equal or less</strong> than 17 points are not admitted to an extra oral or written test.
+<p> </p>
+<p><strong> </strong></p>
+<pre class="tw-data-text tw-text-large tw-ta" dir="ltr" style="text-align: left;" data-placeholder="Tradução" data-ved="2ahUKEwjUhtCQj4yLAxUPVKQEHYcoBS8Q3ewLegQIBxAU"><span class="Y2IQFc" lang="en"> </span></pre>
+<p> </p>
+</div>
+<div id="tw-target-rmn-container" class="tw-target-rmn tw-ta-container F0azHf tw-nfl" tabindex="0"> </div>
+
+## Obtenção de frequência
+<p>1) Not exceed the absence limit allowed, <span class="Y2IQFc" lang="en">corresponding to 25% of Laboratory Practiceclasses defined as mandatory.<br /></span></p>
+<div id="tw-target-text-container" class="tw-ta-container F0azHf tw-nfl" tabindex="0">
+<pre id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" style="text-align: left;" data-placeholder="Tradução" data-ved="2ahUKEwjUhtCQj4yLAxUPVKQEHYcoBS8Q3ewLegQIBxAU"><span class="Y2IQFc" lang="en">Students who are repeating the curricular unit are not exempt from attending classes<br /> even if they have not exceeded the number of absences in the previous year.</span></pre>
+</div>
+<div id="tw-target-rmn-container" class="tw-target-rmn tw-ta-container F0azHf tw-nfl" tabindex="0"> </div>
+<p><span class="Y2IQFc" lang="en"> </span></p>
+
+## Melhoria de classificação
+<p><span id="result_box" lang="en"><span class="hps">Students</span> <span class="hps">can</span> <span class="hps">improve the</span> <span class="hps">classification obtained</span> <span class="hps">by performing a</span> <span class="hps">written exam (20)</span>.</span></p>
+

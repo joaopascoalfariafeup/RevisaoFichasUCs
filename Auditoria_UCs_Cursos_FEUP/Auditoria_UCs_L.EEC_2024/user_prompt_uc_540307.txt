@@ -1,0 +1,130 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Mecânica e Ondas
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>A unidade curricular de Mecânica e Ondas visa dotar os estudantes do Mestrado Integrado em Engenharia Eletrotécnica e de Computadores com conhecimento operacional (cf. Resultados da aprendizagem e competências) em Mecânica Clássica e Ondas e conhecimento em tópicos de Termodinâmica. Os conceitos abordados são fundamentais para todo o Mestrado Integrado. Por exemplo:</p>
+<ol style="list-style-type: lower-alpha;">
+<li>o estudo de oscilações e ondas mecânicas serve de base à compreensão de circuitos, ondas eletromagnéticas e telecomunicações;</li>
+<li>o estudo do comportamento mecânico de sistemas simples está na base do controlo, automação e robótica;</li>
+</ol>
+<p>Durante toda a unidade curricular é mantido o contacto com a medição experimental dos fenómenos em estudo, quer como motivação para as teorias físicas a apresentar, quer como ilustração das suas limitações. O pensamento crítico é também desenvolvido abordando a consistência dos modelos e reforçado na avaliação.</p>
+<p>A unidade curricular integra-se essencialmente nos descritores &#8220;1. Conhecimento e Raciocínio Científico-Técnicos&#8221; e &#8220;2. Aptidões pessoais e profissionais&#8221; do sistema de qualidade CDIO (Conceiving - Designing - Implementing - Operating). Nomeadamente: a) &#8220;1.1. Conhecimentos de ciências fundamentais&#8221;; &#8220;1.2. Conhecimentos nucleares de Engenharia (Ciências de Engenharia)&#8221;; c) &#8220;2.1. Pensamento e resolução de problemas de Engenharia&#8221;; d) &#8220;2.2. Experimentação e descoberta do conhecimento&#8221;. É também trabalhado parcialmente o descritor &#8220;3.1. Trabalho em grupo&#8221; de &#8220;3. Aptidões interpessoais&#8221;.</p>
+<p>Ao nível do sistema de qualidade EUR-ACE a unidade curricular integra-se essencialmente no descritor &#8220;Conhecimento e compreensão&#8221; e, em menor escala, nos descritores &#8220;Análise de Engenharia&#8221; e &#8220;Comunicação e Trabalho em Equipa&#8221;.</p>
+
+## Resultados de aprendizagem e competências
+<ol><br /><li>Descrever o movimento tridimensional da partícula, usando o referencial apropriado. Determinar posições, velocidades e acelerações.</li><br /><li>Identificar as várias forças em jogo numa situação mecânica. Aplicar as leis de Newton.</li><br /><li>Identificar as várias energias (cinética, potencial, interna ou calor) em jogo numa situação mecânica. Aplicar as leis da conservação da energia.</li><br /><li>Calcular os momentos linear e angular em situações mecânicas. Identificar situações em que estas quantidades se (não) conservam.</li><br /><li>Aplicar as leis de Newton a sistemas de poucas partículas, identificar quantidades mecânicas que se conservam. Explicar o comportamento de um sistema com elevadíssimo número de partículas: gás ideal.</li><br /><li>Identificar situações mecânicas onde a aproximação da partícula falha. Aplicar as leis mecânicas para o estudo do movimento do corpo rígido o plano.</li><br /><li>Identificar movimentos oscilatórios simples, amortecidos e excitados e descrever o seu comportamento usando quantidades mecânicas.</li><br /><li>Identificar movimento ondulatório em sistemas mecânicos simples e determinar as suas propriedades mecânicas.</li><br /><li>Realizar gráficos científicos e interpretá-los, determinar incertezas em medições diretas e propagá-las em estimativas derivadas, ajustar retas a conjuntos de medições estimando incertezas nos parâmetros das mesmas. Usar o python/octave como ferramenta de análise e modelização de dados.</li><br /><li>Identificar a irreversibilidade em situações mecânicas. No contexto de um gás ideal, identificar micro-estados, macro-estados e calcular a entropia e sua variação em vários processos. (opcional)</li><br /></ol>
+
+## Pré-requisitos e co-requisitos
+<p>A u.c. pressupõe o domínio pelos estudantes das matérias lecionadas em Álgebra e Análise Matemática 1 e Programação.</p>
+<p>Pontualmente serão utilizados conhecimentos de Análise Matemática 2.</p>
+
+## Programa
+<ol><br /><li>Movimento tridimensional da partícula</li><br /><li>Massa inercial e forças</li><br /><li>Energia mecânica</li><br /><li>Momento linear</li><br /><li>Momento angular</li><br /><li>O método de Lagrange</li><br /><li>Introdução ao movimento do corpo rígido</li><br /><li>Oscilações</li><br /><li>Ondas</li><br /><li>Laboratórios virtuais</li><br /><li>Entropia e irreversibilidade em sistemas mecânicos (opcional)</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><u>Aulas teóricas:</u> exposição de conceitos pelo docente e sua ilustração com exemplos de aplicação.</p>
+<p><u>Aulas teórico-práticas:</u> resolução pelos estudantes de exercícios de aplicação, acompanhamento pelo docente, avaliação distribuída.</p>
+<p><u>Sítio Moodle</u>: disponibilização das apresentações das aulas, recursos multimédia, folhas de exercícios, testes de autoavaliação, informações gerais sobre a disciplina, resultados da avaliação.</p>
+<p><u>Atendimento aos estudantes:</u> acompanhamento personalizado esclarecendo dúvidas sobre a teoria e aplicações.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 103.5 horas
+- Frequência das aulas: 58.5 horas
+
+## Fórmula de cálculo da classificação final
+<p>1. Aos estudantes com a primeira inscrição na u.c. aplica-se a seguinte fórmula:<br /><br />CF = AD = 0.35 (QA + T1) + 0.3 * T2 + B  <br /><br />(ver abaixo casos em que CF é maior ou igual a 18 valores)</p>
+<p>onde CF é a classificação final da avaliação (de 0 a 20 valores), QA é a classificação das questões de aula (de 0 e 20 valores), T1 e T2 as classificações dos teste 1 e 2 (de 0 a 20 valores), B bónus opcional (de 0 a 2 valores).<br /><br />2.  Aos estudantes com mais de uma inscrição e frequência à u.c.  e dispensados de presença nas aulas teórico-práticas aplica-se a seguinte fórmula: </p>
+<p>CF = 0.35 * MAX(QA ,T1) + 0.35 * T1 + 0.3 * T2 + B<br /><br />(ver abaixo casos em que CF é maior ou igual a 18 valores) </p>
+<p><br />3. Estudantes com uma nota final (CF) maior ou igual a 18 valores poderão ser convocados para uma prova oral para validação da nota final.</p>
+<p><br />4. O bónus B não é válido/utilizável para melhoria de nota.</p>
+<p> </p>
+
+## Obtenção de frequência
+<p>1. A avaliação distribuída AD consistirá em:</p>
+<p>- Questões de aula (QA, peso 35%)</p>
+<p>- Teste 1 (T1, peso 35%)<br /><br />- Teste 2 (T2, peso 30%)<br /><br /></p>
+<p>2. Os estudantes com a primeira inscrição na u.c. obtêm frequência quando:</p>
+<p>- Não ultrapassem as três faltas às aulas práticas;</p>
+<p>- Obtenham uma classificação igual ou superior a 10 (dez) valores nas questões de aula;<br /><br /></p>
+<p>3. Os estudantes previamente inscritos à u.c. obtêm frequência quando:</p>
+<p>- Obtenham a classificação de 10 (dez) valores em MAX( T1 , 0.5 * ( T1 + QA ) ).</p>
+<p> <br />4. Os estudantes sem frequência não se poderão apresentar a qualquer exame, incluindo exame de recurso.<br /><br />5. O ano letivo de 2023/2024 é último onde a questão de aula com mais de um ano pode ser utilizada. <br /><br />A partir do ano letivo de 2024/2025 os estudantes com mais do que uma inscrição apenas podem usar a questão de aula do ano letivo anterior. Os estudantes que não se encontrem nesta situação devem inscrever-se numa turma.</p>
+
+## Melhoria de classificação
+<p>1. É realizada na época de recurso, aplica-se a seguinte fórmula:<br /><br />CFM = MAX (CF,  R,  0.35 * QA + 0.35 * MAX(R , T1) + 0.3 * MAX(R , T2) )<br /><br />(ver abaixo casos em que CFM é maior ou igual a 18 valores) </p>
+<p><br />onde R é a nota (0 a 20 valores) do exame de recurso.</p>
+<p><br />2. Estudantes com uma nota final (CFM) maior ou igual a 18 valores poderão ser convocados para uma prova oral para validação da nota final.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Mechanics and Waves
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<pre class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; data-placeholder=&quot;Translation&quot;><span lang=&quot;en&quot;>The Mechanics and Waves curricular unit aims to provide students of the Integrated Master in Electrical and Computer Engineering with operational knowledge (cf. Learning outcomes and skills) in Classical Mechanics and Waves topical knowledge in Thermodynamics. The concepts covered are fundamental for the entire Integrated Master. For example:<br /><br />a) the study of oscillations and mechanical waves serves as a basis for understanding circuits, electromagnetic waves and telecommunications;<br />b) the study of the mechanical behavior of simple systems is at the basis of control, automation and robotics;<br /><br />Throughout the course, contact with the experimental measurement of the phenomena under study is maintained, both as a motivation for the physical theories to be presented and as an illustration of their limitations.<br />Critical thinking is also developped by analysis of the consistency of the proposed models and in the evaluation.<br /><br /> <br />The curricular unit is essentially integrated in the descriptors &#8220;1. Scientific-Technical Knowledge and Reasoning &#8221;and&#8220; 2. Personal and professional skills &#8221;of the CDIO quality system (Conceiving - Designing - Implementing - Operating). Namely: a) &#8220;1.1. Knowledge of fundamental sciences &#8221;; &quot;1.2. Nuclear knowledge of Engineering (Engineering Sciences) &#8221;; c) &#8220;2.1. Engineering thinking and problem solving &#8221;; d) &#8220;2.2. Experimentation and discovery of knowledge &#8221;. The descriptor &#8220;3.1. Group work &#8221;of&#8220; 3. Interpersonal skills &#8221;.<br /><br /></span></pre><br /><pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; data-placeholder=&quot;Translation&quot;><span lang=&quot;en&quot;>With regards the EUR-ACE quality system, the course is essentially integrated into the descriptor &quot;Knowledge and understanding&quot; and, to a lesser extent, the descriptors &quot;Engineering Analysis&quot; and &quot;Communication and Teamwork&quot;.</span></pre>
+
+## Resultados de aprendizagem e competências
+<ol><br /><li><span lang=&quot;en&quot;>Describe the three-dimensional movement of the particle, using the appropriate framework. Determine positions, speeds and accelerations.</span></li><br /><li><span lang=&quot;en&quot;>Identify the various forces at play in a mechanical situation. Apply Newton's laws.</span></li><br /><li><span lang=&quot;en&quot;>Identify the various energies (kinetic, potential, internal or heat) at play in a mechanical situation. Apply energy conservation laws.</span></li><br /><li>Calculate the linear and angular moments in mechanical situations. Identify situations in which these quantities are preserved.</li><br /><li><span lang=&quot;en&quot;>Apply Newton's laws to systems with few particles, identify mechanical quantities that are conserved. Explain the behaviour of a system with a very high number of particles: ideal gas.</span></li><br /><li>Identify mechanical situations where the particle approach fails. Apply the mechanical laws to the study of the movement of the rigid body the plane.</li><br /><li><span lang=&quot;en&quot;>Identify simple, damped and excited oscillatory movements and describe their behaviour using mechanical quantities.</span></li><br /><li><span lang=&quot;en&quot;>Identify wave motion in simple mechanical systems and determine their mechanical properties.</span></li><br /><li>Perform scientific graphs and interpret them, determine uncertainties in direct measurements and propagate them in derived estimates, adjust lines to sets of measurements estimating uncertainties in their parameters. Use python/octave as a data modeling and analysis tool.</li><br /><li>Identify irreversibility in mechanical situations. In the context of an ideal gas, identify micro-states, macro-states and calculate entropy and its variation in various processes. (optional)</li><br /></ol>
+
+## Pré-requisitos e co-requisitos
+<p>The u.c. presupposes students' mastery of the subjects taught in Algebra and Mathematical Analysis 1 and Programming.<br /><br />Mathematical Analysis 2 knowledge will be used occasionally.</p>
+
+## Programa
+<ol><br /><li>Three-dimensional movement of the particle</li><br /><li>Inertial mass and forces</li><br /><li>Mechanical energy</li><br /><li>Linear momentum</li><br /><li>Angular momentum</li><br /><li>Lagrange's method</li><br /><li>Introduction to rigid body movement</li><br /><li>Oscillations</li><br /><li>Waves</li><br /><li>Virtual laboratories</li><br /><li>Entropy and irreversibility in mechanical systems (optional)</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="text-decoration: underline;">Theoretical classes:</span> an exposition of concepts by the teacher and their illustration with application examples.<br /><br /><span style="text-decoration: underline;">Practical-practical classes:</span> resolution by students of application exercises, monitoring by the teacher, distributed evaluation.<br /><br /><span style="text-decoration: underline;">Moodle site:</span> availability of class presentations, multimedia resources, exercise sheets, self-assessment tests, general information about the discipline, and assessment results.<br /><br /><span style="text-decoration: underline;">Service to students:</span> personalized follow-up answering questions about the theory and applications.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 103.5 hours
+- Frequência das aulas: 58.5 hours
+
+## Fórmula de cálculo da classificação final
+<p>1. To students with the first enrollment at u.c. the following formula applies:<br /><br />CF = AD = 0.35 (QA + T1) + 0.3 * T2 + B <br /><br />(see below cases where CF is greater than or equal to 18 points)<br /><br />where CF is the final grade of the evaluation (from 0 to 20 points), QA is the grade of the class questions (from 0 and 20 points), T1 and T2 are the test 1 and test 2 grades (from 0 and 20 points), B is the optional bonus ( 0 to 2 points).<br /><br />2. To students previously registered with the u.c. and exempted from attending the theoretical-practical classes, the following formula applies:<br /><br /><br />CF = 0.35 * MAX(QA ,T1) + 0.35 * T1 + 0.3 * T2 + B<br /><br /> (see below cases where CF is greater than or equal to 18 points)<br /><br />3. Students with a final grade (CF) greater than or equal to 18 points may be convened for an oral exam to validate the final grade.<br /><br /><br />4. The bonus B is not valid/usable for classification improvement.</p>
+
+## Obtenção de frequência
+<p><span lang="en"><span class="hps"><span id="result_box" lang="en">1. The distributed assessment AD consists in:<br /><br />- Class questions (QA, weight 35%)<br /><br />- Test 1 (T1, weight 35%)<br /><br />- Test 2 (T2, weight 30%)<br /><br /><br />2. Students with the first enrollment obtain frequency when:<br /><br />- Do not exceed three absences from recitation classes;<br /><br />- Obtain the classification of at least 10 (ten) points in the class questions (QA).<br /><br /><br />3. Students with more than one enrollment obtain frequency when:<br /><br />- Obtain the classification of at least 10 (ten) points in MAX( T1 , 0.5 * ( T1 + QA) ).<br /><br /><br />4. Students without frequency will not be able to take Test 2 or the recurso exam.<br /><br />5. The 2023/2024 academic year is the last one where the class questions older than one year can be used. <br /><br />From the 2024/2025 academic year onwards, students with more than one registration can only use the class question from the previous academic year. <br />Students who are not in this situation must register for a recitation class.<br /></span></span></span></p>
+
+## Melhoria de classificação
+<p>1. The improvement of classification takes place at recurso where the following formula applies.<br /><br />CFM = MAX (CF,  R,  0.35 * QA + 0.35 * MAX(R , T1) + 0.3 * MAX(R , T2) )<br /><br />(see below cases where CF is greater than or equal to 18 points)<br /><br />where  R is the grade in the appeal exam (from 0 to 20 points).<br /><br /><br />2. Students with a final grade (CFM) greater than or equal to 18 points may be convened for an oral exam to validate the final grade.</p>
+

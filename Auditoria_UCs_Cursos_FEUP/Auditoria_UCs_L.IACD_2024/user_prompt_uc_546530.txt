@@ -1,0 +1,103 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Estatística Aplicada B
+
+## Curso responsável
+Licenciatura em Inteligência Artificial e Ciência de Dados
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>Aquisição de uma base sólida de conhecimentos em estatística indutiva e desenvolvimento de capacidades e engenho em técnicas de modelação estatística, fundamentais para a apresentação, tratamento e interpretação de conjuntos de dados.</p>
+
+## Resultados de aprendizagem e competências
+<p>Ao completar esta unidade curricular, o estudante deverá</p>
+<p>- dominar  os conceitos e princípios fundamentais da Estatística, e em particular da Inferência Estatística básica.</p>
+<p>- conhecer e saber aplicar os métodos e técnicas fundamentais da inferência estatística paramétrica e não-paramétrica a problemas concretos, envolvendo a análise crítica e apresentação dos resultados obtidos;</p>
+<p>- ser capaz de usar a linguagem de programação R na análise estatística de diferentes tipos de dados e resolução de problemas.</p>
+
+## Programa
+<p>Estimação paramétrica: estimação pontual e intervalar.<span class="Apple-converted-space"> <br /></span>Testes de hipóteses.<br />Testes de adesão a uma distribuição. Testes de adesão à normalidade. <br />Testes de hipóteses paramétricos para uma amostra: teste para a média, teste para a proporção (teste exacto e usando a aproximação pela normal).<br />Testes de hipóteses para duas amostras: diferença de médias em amostras independentes e emparelhadas, razão de variâncias.<br />Testes de hipóteses não paramétricos alternativos aos anteriores testes paramétricos.  <br />Testes de hipóteses (paramétricos e não paramétricos) para mais de duas amostras de uma variável aleatória contínua. Testes para dados categóricos. <br />Teste de Friedmann.<span class="Apple-converted-space"> <br /></span>Covariância e correlação. Análise de correlação (Pearson e Spearman) e testes de hipótesese correspondentes.<br />Análise de variância (ANOVA).<br />Estimadores pontuais e suas propriedades. Estatísticas de ordem. Estimação por máxima verosimilhança.<span class="Apple-converted-space"> <br /></span>Testes de hipóteses paramétricos. Critérios de otimalidade. Testes de razão de verosimilhanças.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Os conteúdos do programa são apresentados, em geral, nas aulas teóricas e, alguns tópicos específicos, nas aulas teórico-práticas, recorrendo-se frequentemente a exemplos variados para ilustrar os os tópicos tratados e motivar o estudo autónomo dos estudantes. São resolvidos e discutidos exercícios e problemas nas aulas teórico-práticas.<span class="Apple-converted-space"> </span></p>
+<p>A introdução dos conceitos e métodos estatísticos é apoiada em exemplos variados, discutindo-se os desenvolvimentos teóricos dos métodos bem como a sua aplicação prática e utilizando-se, quando apropriado, o software R. Os materiais de apoio são disponibilizados na página da disciplina.<span class="Apple-converted-space"> </span></p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 horas
+- Frequência das aulas: 56.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>1. Na época normal, a avaliação distribuída é efectuada com base nos resultados de dois testes (com datas a definir no início do semestre).  Para ter aprovação é exigida classificação mínima de 25% em cada um dos testes. A classificação final será a média aritmética das notas dos testes.</p>
+<p>2. Na época de recurso haverá um exame acessível a qualquer estudante que não tenha obtido aprovação na época normal. O exame será dividido em duas partes, permitindo aos estudantes que ainda não tenham obtido aprovação à UC (e apenas a estes) substituir qualquer uma das duas partes pela cotação eventualmente obtida no teste correspondente. <br /><br />Os estudantes têm aprovação à unidade curricular desde que a classificação final obtida  seja superior ou igual a 9.5 valores.</p>
+<p>Os estudantes com nota superior ou igual a 17.5 valores poderão ter que realizar uma prova complementar para obterem uma nota final superior ou igual a 18 valores. </p>
+
+## Obtenção de frequência
+<p>Sem restrições.</p>
+
+## Melhoria de classificação
+<p>Todos os estudantes poderão melhorar a sua classificação no exame da época de recurso e terão que fazer as duas partes. Os alunos que estejam a fazer melhoria não o podem fazer por testes.</p>
+<p> </p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Applied Statistics B
+
+## Curso responsável
+Bachelor in Artificial Intelligence and Data Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+Acquisition of a solid foundation of knowledge in inductive statistics and development of skills and ingenuity in statistical modeling techniques, essential for the presentation, processing, and interpretation of data sets.
+
+## Resultados de aprendizagem e competências
+<p>Upon completing this course unit, the student should<br /><br />- master the fundamental concepts and principles of Statistics, particularly basic Statistical Inference.<br /><br />- be acquainted with and capable of applying the fundamental methods and techniques of parametric and non-parametric statistical inference to concrete problems, involving critical analysis and presentation of the results obtained.<br /><br />- be able to use the R programming language in the statistical analysis of various types of data and problem-solving.</p>
+
+## Programa
+<em><span lang=&quot;&quot;>Parametric estimation: point and interval estimation. <br />H</span><span lang=&quot;&quot;>ypothesis tests.<br />Hypotheses tests for a given distribution. Hypotheses tests for normality. <br />Parametric hypotheses tests for one sample: test for a single mean and test for a single proportion (exact test and approximation using the normal distribution).<br />Parametric hypotheses tests for two samples: difference of means and difference of proportions.  <br /></span><span lang=&quot;&quot;>Nonparametric tests alternative to the previous parametric tests.<br />Hypotheses tests (parametric and non-parametric) for more than two samples of a continuous random variable. Tests for categorical data. <br /></span><span lang=&quot;&quot;>Pearson and Spearman correlation analysis and correspondent hypotheses tests.<br />Analysis of variance (ANOVA).<br />Point estimators and properties. Order statistics. Maximum likelihood estimation. <br />Parametric hypotheses testing. Optimality criteria. Likelihood ratio tests.</span></em>
+
+## Métodos de ensino e atividades de aprendizagem
+<div class=&quot;flex-shrink-0 flex flex-col relative items-end&quot;><br /><div><br /><div class=&quot;pt-0.5&quot;><br /><div class=&quot;gizmo-shadow-stroke flex h-6 w-6 items-center justify-center overflow-hidden rounded-full&quot;><br /><div class=&quot;relative p-1 rounded-sm h-9 w-9 text-white flex items-center justify-center&quot;>The program contents are generally presented in the theoretical classes, and some specific topics in the theoretical-practical classes, often using various examples to illustrate the topics covered and motivate students' independent study. Exercises and problems are solved and discussed in the theoretical-practical classes.</div><br /></div><br /></div><br /></div><br /></div><br /><div class=&quot;relative flex w-full flex-col agent-turn&quot;><br /><div class=&quot;flex-col gap-1 md:gap-3&quot;><br /><div class=&quot;flex flex-grow flex-col max-w-full&quot;><br /><div class=&quot;min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto&quot; data-message-author-role=&quot;assistant&quot; data-message-id=&quot;a1a6478d-22a0-401a-b8c3-677ddba7149c&quot;><br /><div class=&quot;markdown prose w-full break-words dark:prose-invert light&quot;><br /><p>The introduction of statistical concepts and methods is supported by diverse examples, discussing the theoretical developments of the methods as well as their practical application and utilizing, when appropriate, the R software. Support materials are made available on the discipline's webpage.</p><br /></div><br /></div><br /></div><br /></div><br /></div>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 hours
+- Frequência das aulas: 56.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>1. In the first call, the assessment will be based on two tests (with dates to be defined at the beginning of the semester). To be approved, a minimum rate of 25% is required in each of the tests. The final mark corresponds to the average of the marks obtained in the tests.<span class="Apple-converted-space"> </span><br /><br />2. In the second call, there will be an exam at the time of appeal (época de recurso), accessible to any student who has not passed in the regular time (época normal). This exam will be divided into two parts, allowing the students which have not yet been approved in the course (and only these students) to substitute the score in any of the two parts by the score obtained in the corresponding assessment. <br /><br />The students will be sucessful in the curricular unit once the final grade (obtained in the final examination) is greater than or equal to 9.5.</p>
+<p>Students with a grade equal to or higher than 17.5 values may need to take an additional assessment to achieve a final grade equal to or higher than 18 values.</p>
+
+## Obtenção de frequência
+There are no restrictions.
+

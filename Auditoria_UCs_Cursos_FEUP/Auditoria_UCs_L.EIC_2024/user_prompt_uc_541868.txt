@@ -1,0 +1,153 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Fundamentos de Sistemas Computacionais
+
+## Curso responsável
+Licenciatura em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p><span style="font-weight: 400;">Esta unidade curricular introduz os princípios de funcionamento de um processador moderno e a sua arquitetura geral. A análise da tecnologia de implementação física dos computadores (circuitos lógicos e de memória), associada à explicação das formas elementares de representação de informação em formato digital, permitirá aos estudantes identificar e descrever princípios fundamentais da operação dos computadores, das linguagens de programação e do desenvolvimento de &#8216;software&#8217;.</span></p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-weight: 400;">Após completarem a unidade curricular, os estudantes serão capazes de:</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Descrever os principais subsistemas de um computador;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Descrever e interpretar formatos numéricos básicos;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Efetuar operações aritméticas em binário; </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Manipular expressões de álgebra de Boole;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Definir e usar circuitos lógicos combinatórios e sequenciais simples;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Explicar a funcionalidade de circuitos lógicos padrão;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Explicar o modelo conceptual de funcionamento de memórias de estado sólido;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Explicar os princípios básicos da codificação de instruções e modos de endereçamento (arquitetura do conjunto de instruções);</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Escrever programas simples em linguagem &#8220;assembly&#8221; com operações aritméticas e booleanas, testes, e saltos.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Descrever o funcionamento de uma unidade de processamento simples;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Avaliar o desempenho de processadores em cenários simples.</span></li>
+</ol>
+
+## Programa
+<p><span style="font-weight: 400;">M1. Introdução: Elementos de sistemas computacionais modernos e as suas áreas de aplicação. Caraterísticas básicas de organização, desempenho e energia. </span></p>
+<p><span style="font-weight: 400;">M2. Representação de informação: Representação binária de números inteiros. Operações aritméticas elementares. Códigos. Vírgula flutuante.</span></p>
+<p><span style="font-weight: 400;">M3. Circuitos combinatórios: Álgebra de Boole. Portas lógicas elementares. Diagramas lógicos. Simulador lógico. Circuitos com funções padrão.</span></p>
+<p><span style="font-weight: 400;">M4. Circuitos sequenciais: Elementos de memória; registos e contadores. Máquinas de estados finitas.<br /></span></p>
+<p><span style="font-weight: 400;">M5. Computadores: Linguagens de alto e baixo nível. Modelo concetual da execução de um programa. Subsistemas: CPU, memória, periféricos.</span></p>
+<p><span style="font-weight: 400;">M6. Conjunto de instruções: Tipos de instruções, modos de endereçamento, codificação.</span></p>
+<p><span style="font-weight: 400;">M7. Linguagem &#8220;assembly&#8221;: conceitos básicos de programação.</span></p>
+<p><span style="font-weight: 400;">M8. Implementação de controlo de fluxo (testes, saltos condicionais).<br /></span></p>
+<p><span style="font-weight: 400;">M9. Unidade de processamento: Organização lógica de um CPU simples (de ciclo único).</span></p>
+<p><span style="font-weight: 400;">M10. Desempenho: Equação básica. Benchmarks. Lei de Amdahl.</span></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-weight: 400;">A unidade curricular tem uma componente teórica baseada em aulas de exposição dos diversos temas acompanhados da apresentação de exemplos e respectiva discussão. As aulas teórico-práticas incluem a apresentação, análise e resolução de um conjunto de questões e de casos de estudo. Exercícios de programação e de lógica combinatória podem ser testados em ambientes de simulação.</span></p>
+<p><span style="font-weight: 400;">Atividades de aprendizagem a realizar fora do período de aulas: <br /></span></p>
+<ol>
+<li><span style="font-weight: 400;">Questionários de escolha múltipla (para auto-avaliação).</span></li>
+</ol>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação é composta por dois testes individuais, T1 e T2, e ainda Fichas (tipicalmente 15 mins cada) realizadas tentativamente quinzenalmente no início das aulas TP. Destas fichas (que se planeiam sejam 6), apenas as melhores 4 classificações são consideradas. Não há nota minima para as fichas.<br /><br />A nota final (NF) é a média pesada dos dois testes e da média aritmética das 4 melhores fichas.<br /><br />A fórmula usada para o cáculo da classificação final é:<br /><br />NF = (0.425 * T1) + (0.425 * T2) + (0.15 * MF) em que <br /><br />MF é  média arithmetica das 4 melhores classificações das 6 fichas.<br /><br />É possivel que o número de fichas, e consequentemente do número de melhores classificações a levar em consideraão para o cálculo da componente MF, venha a sofrer alterações. No entanto, a percentagem de 15% manter-se-á.<br /><br />A componente das fichas não é passível de recurso. Para o recurso, a classificação final é calculada como:<br /><br />NF = 0.85 * R + 0.15 * MF,<br />em que R é a nota da prova de recurso.</p>
+
+## Obtenção de frequência
+<p>Condições cumulativas para obtenção de frequência: (1) participação em, pelo menos, 75% das aulas teórico-práticas; (2) realização de pelo menos quatro fichas (aulas teórico-práticas).<br /><br />Estudantes com frequência obtida em 23/24 não necessitam de obter frequência em 24/25.<br /><br /><br /></p>
+
+## Melhoria de classificação
+A melhoria  de classificação pode ser obtida pela realização de uma prova sobre toda a matéria (2 horas).
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Fundamentals of Computer Systems
+
+## Curso responsável
+Bachelor in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p><span style="font-weight: 400;">The course introduces the general principles of operation design of modern computing systems. Analysis of computer implementation technology (logic circuits and memory) and basic principles of digital information representation enable students to recognize and describe the principles of computer operation, programming languages, and software development.</span></p>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-weight: 400;">After completing the course unit, the student will be able to:</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Identify and describe the major subsystems of a personal computer;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Describe and interpret the binary representation of numerical information;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Perform basic arithmetic operations in binary;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Handle symbolic switching algebra expressions;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Identify and explain the operation of basic logic circuits (combinational and sequential);</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Explain the operation of standard logic modules;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Explain the conceptual operation of solid-state memories;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Explain the basic principles of instruction encoding and addressing modes (instruction set architecture);</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Write simple programs in assembly language involving Boolean and arithmetic operations, tests, and jumps;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Describe the operation of a single-cycle processing unit.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Evaluate the performance of processors in simple scenarios.</span></li>
+</ol>
+
+## Programa
+<p><span style="font-weight: 400;">M1. Introduction. Modern computational system's elements and its areas of application. Basic features, organization, performance and energy. </span></p>
+<p><span style="font-weight: 400;">M2. Representation of information: binary representation of integers. Elementary arithmetic operations. Codes. IEEE-754 floating-point format.</span></p>
+<p><span style="font-weight: 400;">M3. Combinational logic circuits. Boolean expressions. Elementary logic gates. Logic diagrams. Logic simulator. Standard circuits.</span></p>
+<p><span style="font-weight: 400;">M4. Synchronous circuits: Memory elements, registers and counters. Finite state machines.<br /></span></p>
+<p><span style="font-weight: 400;">M5. Computers: high- and low-level languages. Conceptual model of program execution. Subsystems: CPU, memory, input/output peripherals.</span></p>
+<p><span style="font-weight: 400;">M6. Instruction set: Instruction types, addressing modes, instruction encoding.</span></p>
+<p><span style="font-weight: 400;">M7. Basic concepts of assembly programming.</span></p>
+<p><span style="font-weight: 400;">M8. Implementation of control flow structures (tests, conditional jumps).<br /></span></p>
+<p><span style="font-weight: 400;">M9. Organization of a simple central processing unit. Single-cycle CPU; limitations.</span></p>
+<p><span style="font-weight: 400;">M10. CPU performance: Basic performance equation, benchmarks, Amdahl's Law.</span></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-weight: 400;">The course unit includes lectures on the subject matter with the presentation of examples and their discussion. The theoretical-practical sessions include the presentation, analysis and resolution of a number of problems. Programming and combinatorial logic exercises may be tested on CPU and logic simulators.</span></p>
+<p><span style="font-weight: 400;">Learning activities outside the classroom: <br /></span></p>
+<ol>
+<li><span style="font-weight: 400;">Multiple-choice questionnaires for self-assessment.</span></li>
+</ol>
+<br />
+<p> </p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><span style="font-weight: 400;">The final grade is computed based on the scores of the two in-class individual tests (T1 and T2) as well as of Quizzes (each of which is expected be be 15 mins long) tentatively to be held bi-weekly in the TP classes. Of these quizzes, for which we plan to have 6, only the 4 best grades will be used to compute the grade (arithmetic average) of this component. There is no minimum grade for this component.<br /><br /></span><span style="font-weight: 400;">The final grade is a weighted average of the two individual tests and of the arithmetic average of the 4 best mini-tests.<br /><br />The expression used for the determination of the final grade is:<br /><br />NF = (0.425 * T1) + (0.425 * T2) + (0.15 * MQ) where <br /><br />MQ is the arithmetic average of the best 4 grades out of the 6 quizzes.<br /><br />It is possible that the number of quizzes, and consequently the number of best grades taken into account for the determination of the MQ component, may change. However, the weight of 15% will remain.<br /><br />The MQ grade component cannot be improved through a make-up test. After the make-up test, the final grade is <br />NF = NF = 0.85 * R + 0.15 * MF,<br />where R is the grade of the make-up test.<br /></span></p>
+
+## Obtenção de frequência
+<p>The non-participation in, at least, 75% of the scheduled TP classes will result in a Fail grade in the class. Students must also take at least 4 quizzes.<br /><br />Students with valid attendance in 23/24 are not required to obtain valid attendance in 24/25.<br /><br /></p>
+
+## Melhoria de classificação
+Final grades can be improved by taking an exam covering the complete subject matter.
+

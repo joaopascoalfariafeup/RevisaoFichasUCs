@@ -1,0 +1,140 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Laboratório de Engenharia de Software
+
+## Curso responsável
+Mestrado em Engenharia de Software
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Aplicar um processo de Engenharia de Software ao desenvolvimento completo de um sistema de software real, ao longo do semestre, abrangendo a especificação de requisitos, arquitetura, implementação, integração, teste, documentação e demonstração.</p>
+<p>Adquirir conhecimentos fundamentais e experiência sobre as práticas de desenvolvimento ágil de software: planeamento de iterações, testes unitários, refactoring, pattern-based design, autoria colectiva de código, programação em pares, integração contínua.</p>
+<p>Utilizar ferramentas de desenvolvimento de software adequadas e que permitam o acompanhamento do desenvolvimento do produto durante todo o seu ciclo de vida.</p>
+<p>Utilizar APIs e infraestruturas de software de grande escala, focando o desenvolvimento baseado em componentes e problemas de integração aplicacional.</p>
+Desenvolver trabalho colaborativo, integrando outros intervenientes do projeto em decisões de desenho e planeamento e delegar, negociar e rever estas decisões em grupo.
+
+## Resultados de aprendizagem e competências
+<p>No final da unidade curricular, o estudante deverá ser capaz de:<br /><br />- Aplicar um processo de Engenharia de Software ao desenvolvimento completo de um sistema de software real, nas suas várias fases, nomeadamente a especificação de requisitos, arquitetura, implementação, integração, teste, documentação e demonstração.</p>
+<p>- Dominar e aplicar práticas de desenvolvimento ágil de software, entre elas: planeamento de iterações, testes unitários, refactoring, pattern-based design, autoria colectiva de código, programação em pares e  integração contínua.</p>
+<p>- Seleccionar, adequar e utilizar ferramentas de desenvolvimento de software permitam o acompanhamento do desenvolvimento de um produto de software durante todo o seu ciclo de vida.</p>
+<p>- Seleccionar, aferir e utilizar APIs e infraestruturas de software de grande escala, adequando-as, tendo em conta, o desenvolvimento baseado em componentes e os problemas de integração aplicacional.</p>
+- Desenvolver trabalho colaborativo, integrando outros intervenientes do projeto em decisões de desenho e planeamento e delegar, negociar e rever estas decisões em grupo.
+
+## Programa
+<p>Aplicação de processos de desenvolvimento de software, incluindo metodologias de planeamento de projeto.<br /><br />Identificação de requisitos, desenho, implementaçaão, integração, teste, documentação e demonstração de um sistema de software;</p>
+<p>Introdução às Metodologias Ágeis: valores, principios fundamentais, práticas (&#8220;Planning Game&#8221;, &#8220;Small Releases&#8221;, &#8220;Acceptance tests&#8221;, &#8220;Unit-tests&#8221;, &#8220;Test-first programming&#8221;, &#8220;Simple Design&#8221;, &#8220;Refactoring&#8221;, &#8220;Design patterns&#8221;) e exemplos de metodologias populares (Scrum e XP);</p>
+<p>Desenvolvimento de aplicações multi-camada baseadas em componentes de software;</p>
+<p>Abordagem a tecnologias nucleares nos domínios dos projetos em curso.</p>
+<p>Utilização de ambientes de desenvolvimento integrados (IDEs), ferramentas de modelação, teste, controlo de versões e configurações, documentação colaborativa de software e entrega de produto;</p>
+Utilização de APIs de larga escala.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Sendo uma unidade de pendor laboratorial, as aulas servirão, na sua maioria para o acompanhamento e desenvolvimento do projeto, através do uso dos sistemas, linguagens e ferramentas escolhidos para a implementação da aplicação. Sempre que se ache relevante, complementar-se-á este acompanhamento com a exposição dos processos de desenvolvimento de software, ferramentas e tecnologias adoptadas na unidade curricular. <br /><br />O projeto está organizado em 5 iterações, com entregas de artefactos, e um peso respetivo na avaliação final.</p>
+<p>-Iteração 0, 4 semanas, peso 2<br />O projeto está organizado em 5 iterações, com entregas de artefactos, e um peso respetivo na avaliação final.</p>
+<p>-Iteração 0, 4 semanas, peso 20%, artefactos: visão do produto, user stories + interfaces utilizador, arquitetura, protótipo vertical funcional.</p>
+<p>-Iterações 1-4, 8 semanas, peso 30%, artefactos: plano de desenvolvimento, user stories finais, estimativas, testes de aceitação, testes unitarios.</p>
+<p>-Entrega final, peso 30%, artefactos: produto, código-fonte documentado, pitch+video+slides demo (5mins), documentação técnica final.</p>
+Os restantes 20% da nota consideram a plataforma de projeto montada e o desempenho individual dos estudantes.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 10.0 %
+- Trabalho escrito: 40.0 %
+- Trabalho laboratorial: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 80.0 horas
+- Elaboração de relatório/dissertação/tese: 20.0 horas
+- Frequência das aulas: 24.0 horas
+- Trabalho laboratorial: 40.0 horas
+
+## Fórmula de cálculo da classificação final
+A classificação é baseada nos seguintes items: <br />- resultados da iteração 0 - peso 20%; <br />- resultados das iterações 1-4 - peso 30%; <br />- resultados finais - 30% <br />- avaliação da plataforma projecto - 10%; <br />- avaliação contínua do desempenho invididual - 10%
+
+## Obtenção de frequência
+É exigida uma nota mínima de 40% a qualquer dos 6 itens de avaliação discriminados na fórmula de cálculo da classificação final.
+
+## Melhoria de classificação
+Melhorias de classificação envolverão um trabalho adicional, contendo todas as parcelas atrás referidas, e uma prova oral adicional; melhorias de classificação pedidas no ano lectivo seguinte envolverão a realização de todos os trabalhos previstos para os alunos desse ano lectivo.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Software Engineering Laboratory
+
+## Curso responsável
+Master in Software Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>To apply a Software Engineering process to the complete development of a real software system, along the curricular unit, covering the specification of requirements, software architecture and design, coding, integration, test, documentation and demonstration.<br /><br />To acquire fundamental knowledge and experience about agile software development practices: iteration planning, unit tests, refactoring, pattern-based design, collective ownership, pair programming, continuous integration.</p>
+<p>To use software development tools adapted to agile methods to enable the continuous monitoring and tracking of the project along its lifecycle.</p>
+<p>To use large-scale APIs with class packages, to induct the component-based computing and related problems with application integration.</p>
+To develop collaborative work, integrating other project participants in design decisions, planning, delegation, negotiation, and group review.
+
+## Resultados de aprendizagem e competências
+<p>At the end of the course, the student should be able: <br /><br />To apply a Software Engineering process to the complete <br />development of a real software system, covering the specification of requirements, software architecture and design, coding, integration, test, documentation and demonstration.<br /><br />To master and apply agile software development practices, namely: iteration planning, unit tests, refactoring, pattern-based design, collective ownership, pair programming, continuous integration.</p>
+<p>To select, tailor and use software development tools adapted to agile methods,  thus enabling the continuous monitoring and tracking of the project throughout its lifecycle.</p>
+<p>To select, evaluate an use large-scale APIs with class packages, as to induct the component-based computing and cover related problems with application integration.</p>
+To develop collaborative work, integrating other project participants in design decisions, planning, delegation, negotiation, and group review.
+
+## Programa
+<p>Application of software development processes, including project planning methodologies.</p>
+<p>Requirements capture and elicitation, design, implementation, testing, documentation and presentation of a software system.</p>
+<p>Introduction to Agile Methods: values, principles, practices (Planning, Small Releases, Acceptance tests, Unit-tests, Test-first programming, Simple Design, Refactoring, Design Patterns) and popular examples of agile methods (Scrum and XP).</p>
+<p>Design and development of multilayer application based in software components and web services.</p>
+<p>Core technologies overview according to the developed projects domain areas.</p>
+<p>Use of tools and programming environments (IDEs), modeling tools, test, source code control and configuration, collaborative documentation and deployment.</p>
+Use of large-scale APIs.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Overall, classes are used for presentation and supervision of the projects and for the exposition of software developing tools and adopted technologies. Laboratory classes are used to the implementation of the application.<br /><br /> The development of the project will be divided into five iterations, with expected deliverables, contributing a percentage of the final grade:</p>
+<p>-Iteration 0 - 20%, 4 weeks, deliverables: vision, user stories + user interfaces, architecture, vertical functional prototype.</p>
+<p>-Iterations 1-4 - 30%, 8 weeks, deliverables: development process plan, user stories ready, estimates, acceptance tests, unit tests.</p>
+<p>-Finale - 30%, deliverables: product release (signup, download, etc.), documented source code repository, pitch + video + slides demo (5min), updated technical reports</p>
+The remaining 20% of the final grade evaluate the project management platform and individual performance
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 10.0 %
+- Trabalho escrito: 40.0 %
+- Trabalho laboratorial: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 80.0 hours
+- Elaboração de relatório/dissertação/tese: 20.0 hours
+- Frequência das aulas: 24.0 hours
+- Trabalho laboratorial: 40.0 hours
+
+## Fórmula de cálculo da classificação final
+Results of Iteration 0 - 20% <br />Results of Iteration 1-4 - 30% <br />Final results  - 30% <br />Website - 10% <br />Individual evaluation - 10%
+
+## Obtenção de frequência
+The student must have the minimum grade of 40% in any of the items.
+
+## Melhoria de classificação
+<p>To improve the classification, the student must undertake another assignment with all the items mentioned before, and an extra oral exam; Improvements of the classification requested in the following academic year will require doing all the assignments forecasted for the students of that academic year.</p>
+

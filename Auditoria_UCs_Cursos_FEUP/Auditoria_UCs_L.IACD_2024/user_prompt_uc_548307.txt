@@ -1,0 +1,108 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Programação em Lógica
+
+## Curso responsável
+Licenciatura em Ciência de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+- Transmitir aos estudantes conceitos fundamentais de programação em lógica<br />- Desenvolver nos estudantes competências de programação em Prolog<br />- Expor a relação entre programação em lógica e lógica matemática<br />- Despertar nos estudantes a motivação para a programação em lógica<br />- Apresentar aos estudantes aplicações práticas de programação em lógica<br />- Envolver os estudantes em projetos práticos de programação em lógica<br />- Relacionar a disciplina com outras do curso
+
+## Resultados de aprendizagem e competências
+Ao concluir a disciplina, os estudantes devem ser capazes de:<br />- Identificar em que tipos de problemas a  programação lógica deve ou pode ser aplicada<br />- Compreender as limitações das linguagens lógicas e das suas implementações<br />- Saber desenvolver programas de relativa complexidade<br />- Saber resolver problemas com relativa complexidade usando programação em lógica<br />- Conhecer bem a sintaxe e semântica da linguagem Prolog<br />- Relacionar o conhecimento adquirido com outras unidades curriculares do curso
+
+## Pré-requisitos e co-requisitos
+Lógica computacional.
+
+## Programa
+Introdução à programação em lógica e à linguagem Prolog<br />- O poder expressivo do Prolog. Representação de conhecimento.<br /><br />Como funciona a programação em lógica<br />- Unificação, Substituição, Prova, Resolução SLD, Backtracking. Nagação por falha.<br /><br />Programação em Prolog<br />- Aritmética com inteiros em Prolog usando termos. Listas em Prolog. Cut, negação por falha, cut-fail.<br /><br /><br />Prolog avançado<br />- Diferença de listas e estruturas incompletas. Predicados de segunda ordem. Programação de segunda ordem. Implementação. Programação lógica com restrições.
+
+## Métodos de ensino e atividades de aprendizagem
+- aulas teóricas expositivas e com discussões de grupo.<br />- aulas práticas com tarefas teóricas e de programação realizadas em laboratório e onde os estudantes têm oportunidade de discutir problemas e soluções em grupo e com o professor.<br />- trabalhos em grupo realizados nas aulas práticas e fora delas.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 20.0 %
+- Teste: 80.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 80.0 horas
+- Frequência das aulas: 48.0 horas
+- Elaboração de projeto: 34.0 horas
+
+## Fórmula de cálculo da classificação final
+Nota Final = 0.4*T1 + 0.4*T2 + 0.2*TR<br /><br />T1= Teste 1<br />T2 = Teste 2<br />TR = Trabalho prático
+
+## Obtenção de frequência
+Nota maior do que zero na componente de avaliação contínua.
+
+## Melhoria de classificação
+Exame de recurso para melhorar apenas a nota dos dois testes.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Programming in Logic
+
+## Curso responsável
+Bachelor in Computer Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+- Provide students with fundamental concepts of logic programming<br />- Develop in students Prolog programming skills<br />- Explain the relationship between logic programming and mathematical logic<br />- Foster in students the motivation for logic programming<br />- Introduce students to applications of logic programming practices<br />- Involve students in practical projects lin ogic programming<br />- To relate Logic Programming with other disciplines of the course
+
+## Resultados de aprendizagem e competências
+After completing the course, students should be able to:<br />- Identify what kinds of problems logic programming should or can be applied<br />- Understand the limitations of logical languages and their implementations<br />- Know how to develop relatively complex programs<br />- Know how to solve complex problems using logi programming<br />- Be very familiar with the syntax and semantics of the Prolog language<br />- To be able to make a connection between Logic Programming and other curricular units in the course
+
+## Pré-requisitos e co-requisitos
+Computational logic.
+
+## Programa
+Introduction to logic programming and Prolog language <br />- The expressive power of Prolog. Knowledge representation.<br /><br />How logic programming works<br />- Unification, Substitution, Proof, SLD Resolution, Backtracking.Negation by failure.<br /><br />Prolog Programming<br />- Integer arithmetic with Prolog using terms. Lists in Prolog. Cut, negation as failure, cut-fail.<br /><br /><br />Advanced Prolog<br />- Difference lists and incomplete structures. Second Order Predicates. Second Order Programming. Implementation. Constraint Logic Programming.
+
+## Métodos de ensino e atividades de aprendizagem
+- Theoretical classes with group discussions.<br />- Lab classes with theoretical and programming tasks, where students have the opportunity to discuss problems and solutions in group and with the lecturer.<br />- Group assignments to be done partly in lab classes and partly in student's own time.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 20.0 %
+- Teste: 80.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 80.0 hours
+- Frequência das aulas: 48.0 hours
+- Elaboração de projeto: 34.0 hours
+
+## Fórmula de cálculo da classificação final
+Final Grade = 0.4*T1 + 0.4*T2 + 0.2*TR<br /><br />T1 = Test 1<br />T2 = Test 2<br />TR = Project
+
+## Obtenção de frequência
+Grade above zero in the continuous evaluation component
+
+## Melhoria de classificação
+Only the theoretical tests can be subject to appeal in the seasons made available to each student.
+

@@ -1,0 +1,106 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Métodos Computacionais em Engenharia
+
+## Curso responsável
+Licenciatura em Engenharia Física
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<ul><br /><li>Conhecer métodos e algoritmos usados em simulação numérica em Física/Engenharia Física.</li><br /><li>Analisar um conjunto de problemas de várias áreas da Física/Engenharia Física na perspectiva de resolução numérica.</li><br /><li>Modelizar problemas. </li><br /><li>Descrever e aplicar algumas técnicas numéricas básicas.</li><br /><li>Contactar com métodos de simulação.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<ul><br /><li>Ser capaz de estruturar um problema de Física/Engenharia Física de forma a poder ser resolvido por métodos computacionais.</li><br /><li>Ser capaz de selecionar e adequar métodos numéricos à resolução de problemas de Física/Engenharia Física.</li><br /><li>Ser capaz de programar uma resolução numérica de um problema, recorrerndo à implementação de métodos numéricos.</li><br /><li>Ser capaz de analizar e criticar os resultados obtidos.</li><br /></ul>
+
+## Pré-requisitos e co-requisitos
+<p>Domínio de uma linguagem de programação (nível intermédio), com ênfase em Python.</p>
+
+## Programa
+<ol><br /><li>Conceitos básicos de modelização computacional e análise numérica.</li><br /><li>Transformações Integrais: transformadas de Fourier e de Chebychev.</li><br /><li>Métodos de resolução de equações diferenciais às derivadas parciais: Diferenças finitas e métodos espectrais.</li><br /><li>Tópicos especiais. Os conteudos específicos desta secção do programa poderão variar de ano para ano. Exemplos de temas possíveis: Equações não-lineares (Equação de tráfego, Equação de Schrödinger não-linear), transformadas em wavelet.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teóricas expositivas. Aulas prácticas com resolução pelos estudantes de problemas com aplicação dos métodos aprendidos.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 62.5 %
+- Teste: 37.5 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A nota final será calculada pela seguinte fórmula:<br /> 37.5% *RP + 62.5%*E ,<br />onde RP= resolução de testes ou "problemas em casa" (3); E= exame final<br /><br />(ver também secção de comentários abaixo)</p>
+
+## Obtenção de frequência
+<p>Tratando-se de um curso sob o regime de avaliação distribuída, aplica-se o seguinte regime para a obtenção de frequência em que cada aluno deve: 1. Não faltar a mais de 1/4 das aulas PL dadas; 2. Entregar os elementos de avaliação nos prazos indicados com uma nota superior a 30 em 100.<br /><br />Também,  por se tratar de um curso sob o regime de avaliação distribuída, na época de recurso só haverá melhoria à parte de exame, com o respectivo peso.</p>
+
+## Melhoria de classificação
+<p>A melhoria de nota será feita de acordo com o seguinte regime: <br />1) Por se tratar de um curso com avaliação distribuída, a melhoria da classificação em época de recurso contempla apenas a componente exame final, com o respectivo peso.<br />2) O júri da disciplina reserva-se ainda o direito de chamar alunos a efectuar uma prova oral sempre que o considerar pertinente.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computational Methods in Engineering
+
+## Curso responsável
+Bachelor in Engineering Physics
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<br /><br /><ul><br /><li>Learn methods and algorithms used in numerical simulation in physics/physical engineering.</li><br /><li>Analyze a set of problems in different areas of physics/physical engineering in view of their numerical solution.</li><br /><li>Build models fo the  problems.</li><br /><li>Describe and apply some basic numerical techniques.</li><br /><li>Contact with simulation methods.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<ul><br /><li><span id=&quot;result_box&quot; lang=&quot;en&quot;></span><span id=&quot;result_box&quot; lang=&quot;en&quot;><span class=&quot;hps&quot;>Be able to</span> <span class=&quot;hps&quot;>structure a</span> <span class=&quot;hps&quot;>physics/physical engineering problem</span> <span class=&quot;hps&quot;>so that it can</span> <span class=&quot;hps&quot;>be solved</span> <span class=&quot;hps&quot;>by</span> <span class=&quot;hps&quot;>computational methods</span>. </span></li><br /><li><span id=&quot;result_box&quot; lang=&quot;en&quot;><span class=&quot;hps&quot;>Be able to</span> <span class=&quot;hps&quot;>select and</span> <span class=&quot;hps&quot;>adjust</span> <span class=&quot;hps&quot;>numerical methods</span> <span class=&quot;hps&quot;>for</span> <span class=&quot;hps&quot;>solving</span> <span class=&quot;hps&quot;>physics/physical engineering problems</span>. </span></li><br /><li><span id=&quot;result_box&quot; lang=&quot;en&quot;> <span class=&quot;hps&quot;>Being able to</span> <span class=&quot;hps&quot;>program a</span> <span class=&quot;hps&quot;>numerical solution</span> <span class=&quot;hps&quot;>of a problem</span>, making <span class=&quot;hps&quot;>use of</span> <span class=&quot;hps&quot;>implementations</span> <span class=&quot;hps&quot;>of numerical methods</span>. </span></li><br /><li><span id=&quot;result_box&quot; lang=&quot;en&quot;><span class=&quot;hps&quot;>Be able to</span> <span class=&quot;hps&quot;>analyze and</span> <span class=&quot;hps&quot;>criticize</span> <span class=&quot;hps&quot;>the results</span>.</span></li><br /></ul>
+
+## Pré-requisitos e co-requisitos
+<p><span id="result_box" lang="en"><span class="hps">Domain</span> <span class="hps">of</span> <span class="hps">a programming language</span> <span class="hps atn">(</span>intermediate level), <span class="hps">with emphasis</span> <span class="hps">in</span> <span class="hps">Python.</span></span></p>
+
+## Programa
+<ol><br /><li>Basic concepts of computational modeling and numerical analysis.</li><br /><li>Integral Transforms: Fourier  and Chebychev transforms.</li><br /><li>Methods for solving partial differential equations: finite differences and spectral methods.</li><br /><li>Special Topics. The specific contents of this section might vary from year to year. Examples of possible topics: nonlinear equations (traffic equation, nonlinear Schrödinger equation), wavelet transforms.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical classes. Practical lessons in which students solve problems applying the methods learned.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 62.5 %
+- Teste: 37.5 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final grade will be calculated to the obtained by the following formula:<br />37.5% *RP + 62.5%*E<br /> where RP= 3 tests or homework problems; E= final exam.<br /><br />(see also comments section below)</p>
+
+## Obtenção de frequência
+<p>For a course with distributed evaluation, apply the following procedure to obtain frequency in which each student must: 1. Do not miss more than 1 / 4 of the lab classes given; 2. Deliver elements of evaluation in due time with a score above 30 in 100.<br /><br /><br />Since this is a course with distributed evaluation, the "recurso" exam refers allows only the componernt "final exam", with the rspective weight.</p>
+
+## Melhoria de classificação
+<p>The improvement of the grade is made according to the following scheme:<br /> 1) Since this is a course with distributed evaluation,  improvment of the final grade only refers to the component "final exam", with the associated weight.<br />2) The jury of the course also reserves the right to call students to conduct an oral examination whenever it deems appropriate or to evaluate situations not considered in this regime.</p>
+

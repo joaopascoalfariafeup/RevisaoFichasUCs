@@ -1,0 +1,132 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Física Computacional
+
+## Curso responsável
+Licenciatura em Engenharia Física
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+Pretende-se introduzir  aos estudantes um conjunto de métodos computacionais e da sua aplicação em variados campos da Física e da Engenharia.<menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu>
+
+## Resultados de aprendizagem e competências
+<p>Identificar no problema de Física e respectivas equações o problema computational. Identificar algoritmos apropriados para a resolução dessas equações. Implementar esses algoritmos numa linguagem de programação. Analisar os resultados obtidos criticamente, em particular comparando com casos limite conhecidos e/ou resolúveis analiticamente.</p>
+<menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu>
+
+## Pré-requisitos e co-requisitos
+Conhecimento de Física Geral e alguma experiência de uma linguagem de programação.<menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu>
+
+## Programa
+<ol><br /><li>Revisões de Python com particular foco no uso do numpy e matplotlib</li><br /><li>Integrais e Derivadas.</li><br /><li>Solução de sistemas de equações lineares e não lineares.</li><br /><li>Transformadas de Fourier.</li><br /><li>Equações diferenciais ordinárias.</li><br /><li>Equações diferenciais às derivadas parciais.</li><br /><li>Processos Estocásticos e Métodos de Monte Carlo.</li><br /></ol><br /><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas de exposição (teóricas) e aulas prácticas para resolução de problemas no computador.</p>
+<menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Teste: 30.0 %
+- Exame: 70.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 horas
+- Frequência das aulas: 56.0 horas
+
+## Fórmula de cálculo da classificação final
+<strong>Modalidade de avaliação:<br /></strong><br /><span style=&quot;caret-color: #000000; color: #000000; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none;&quot;>Sejam as variáveis, classificações entre 0 e 20:</span><br /><ul><br /><li><span style=&quot;caret-color: #000000; color: #000000; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none;&quot;><strong>C</strong> a nota da avaliação contínua,</span></li><br /><li><span style=&quot;caret-color: #000000; color: #000000; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none;&quot;><strong>E</strong> a nota do exame final ,</span></li><br /><li><span style=&quot;caret-color: #000000; color: #000000; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none;&quot;><strong>F</strong> a nota final,</span><br style=&quot;caret-color: #000000; color: #000000; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;&quot; /><br style=&quot;caret-color: #000000; color: #000000; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;&quot; /><span style=&quot;caret-color: #000000; color: #000000; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none;&quot;>define-se:</span><br style=&quot;caret-color: #000000; color: #000000; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;&quot; /><br style=&quot;caret-color: #000000; color: #000000; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;&quot; /><span style=&quot;caret-color: #000000; color: #000000; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none;&quot;>p = max(<strong>E</strong>/10 - 1 ; 0) × 0.3</span><br style=&quot;caret-color: #000000; color: #000000; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;&quot; /><span style=&quot;caret-color: #000000; color: #000000; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none;&quot;>F = max(p × <strong>C</strong> + (1 - p) × <strong>E</strong> ; 0.3 × <strong>C</strong> + 0.7 × <strong>E</strong> )</span></li><br /></ul><br /><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu>
+
+## Obtenção de frequência
+<p>Os alunos têm que estar presentes em pelo menos 3/4 das aulas práticas previstas. <br /><br /></p>
+<menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu>
+
+## Melhoria de classificação
+Em prova de melhoria de nota, o estudante pode melhorar a componente contínua caso esta baixe a nota final, segundo a fómula adoptada, em relação à nota do exame.<menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computational Physics
+
+## Curso responsável
+Bachelor in Engineering Physics
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>The students will be introduced to a set of computational methods and to its application in several fields of Physics and <span lang="en">Engineering. </span></p>
+<menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu>
+
+## Resultados de aprendizagem e competências
+<div title=&quot;Page 2&quot;><br /><div><br /><div><br /><div> Identify in the  Physics problem and its equations the computational problem. Identify  appropriate algorithms to solve those equations. Implement them in a programming language. Analize critically the results obtained, in particular by comparing them with limit scenarioswhose results are known and/or analytically obtainable.</div><br /></div><br /></div><br /></div><br /><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu>
+
+## Pré-requisitos e co-requisitos
+General knowledge of Mathematics and Physics.<menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu>
+
+## Programa
+<div title=&quot;Page 2&quot;><br /><div><br /><div><br /><div><br /><ol><br /><li>Revisions of Python language with a focus on the numpy and matplotlib packages</li><br /><li>Integrals and derivatives</li><br /><li>Solution of linear and nonlinear equations</li><br /><li>Fourier transforms</li><br /><li>Ordinary differential equations</li><br /><li>Partial differential equations</li><br /><li>Random processes and Monte Carlo methods</li><br /></ol><br /></div><br /></div><br /></div><br /></div><br /><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu><menu id=&quot;fcltHTML5Menu1&quot; type=&quot;context&quot;></menu>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Lectures and computing lab classes for hands-on solution of problems to be solved with the numerical methods taught in class.</p>
+<menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Teste: 30.0 %
+- Exame: 70.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 hours
+- Frequência das aulas: 56.0 hours
+
+## Fórmula de cálculo da classificação final
+<p class="p1"><strong>Assessment Method:</strong></p>
+<p class="p2">Let the variables, graded on a scale from 0 to 20, be:</p>
+<ul>
+<li>
+<p class="p1"><span class="s1"><strong>C</strong></span> the continuous assessment grade,</p>
+</li>
+<li>
+<p class="p1"><span class="s1"><strong>E</strong></span> the final exam grade,</p>
+</li>
+<li>
+<p class="p1"><span class="s1"><strong>F</strong></span> the final grade,</p>
+</li>
+</ul>
+<p class="p2"> </p>
+<p class="p3">we define:</p>
+<p class="p2"> </p>
+<p class="p4"><span class="s1">p = max(<strong>E</strong>/10 - 1,0) x 0.3</span></p>
+<p class="p4"><span class="s1">F = max(p x <strong>C</strong> + (1 - p) x <strong>E</strong>, 0.3 x <strong>C</strong> + 0.7 x <strong>E</strong> )</span></p>
+<br /><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu>
+
+## Obtenção de frequência
+<p>Students must attend 3/4 of scheduled lab classes.</p>
+<p class="p1"> </p>
+<menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu><menu id="fcltHTML5Menu1" type="context"></menu>
+
+## Melhoria de classificação
+<p class="p1">In a grade improvement exam, the student may improve the continuous assessment component if, according to the adopted formula, it lowers the final grade compared to the exam grade.</p>
+<menu id="fcltHTML5Menu1" type="context"></menu>
+

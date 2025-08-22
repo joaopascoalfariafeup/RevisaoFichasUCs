@@ -1,0 +1,158 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas Computacionais e de Comunicação
+
+## Curso responsável
+Licenciatura em Ciência da Informação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Dotar os estudantes com conhecimentos essenciais relativos às tecnologias que suportam a criação, armazenamento e comunicação da informação digital, por forma a poderem utilizá-las eficazmente.</p>
+<p>São aqui incluidos arquiteturas de computadores, sistemas operativos (Windows e Linux), arquiteturas e serviços de rede, assim como tecnologias e serviços da Web 2.0.</p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>No final da unidade curricular os estudantes deverão ser capazes de:</p>
+<ul>
+<li>descrever a arquitetura básica de um computador e o seu funcionamento</li>
+<li>identificar os componentes de um sistema operativo moderno</li>
+<li>distinguir os conceitos de processo, thread, multiprogramação e multitarefa, modo sistema e modo utilizador</li>
+<li>utilizar com desembaraço um computador com sistema operativo Linux</li>
+<li>identificar as várias topologias de redes de computadores e os princípios básicos de comunicação digital de dados</li>
+<li>caraterizar o protocolo TCP/IP e alguns dos serviços de rede suportados</li>
+<li>explicar em que consiste a internet e quais os modelos mais utilizados na World Wide Web, nomeadamente os modelos cliente-servidor e peer-to-peer</li>
+<li>definir o conceito de cloud computing e de armazenamento de dados em servidores remotos</li>
+</ul>
+
+## Programa
+<p>1. Sistemas de Numeração: sistemas binário, octal e hexadecimal.<br /><br />2. Arquiteturas de Computadores: estrutura básica e funcionamento de um computador; componentes principais de um sistema computacional.<br /><br />3. Sistemas Operativos: conceitos e funções básicas; estrutura e funcionamento de um sistema operativo; conceitos de shell, processo, thread, multiprogramação, gestão de memória, sistema de ficheiros e dispositivos de E/S; máquinas virtuais; interação com o computador - paradigmas CLI, GUI e NUI.<br /><br />4. Redes de Computadores: comunicação de dados e transferência digital de informação; tipos e topologias de redes; modelo de camadas e protocolo TCP/IP; endereços IP, resolução de nomes, encaminhamento; segurança em redes informáticas; redes sem fios; serviços de redes.<br /><br />5. Internet e Web 2.0: normas e interoperabilidade; modelos de comunicação; World Wide Web e serviços existentes; armazenamento e processamento remoto de dados; interação e visualização de informação; crowdsourcing; Web 3.0.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas teóricas serão usadas para exposição formal da matéria, com recurso a apresentações eletrónicas; nestas aulas serão ainda dados exemplos que complementam os conceitos e serão feitas demonstrações de aplicações ou serviços. Em algumas aulas haverá lugar a sessões de discussão sobre alguns tópicos, seguindo uma filosofia <em>flipped classroom</em>.</p>
+<p>Nas aulas práticas serão propostos exercícios práticos para consolidação da matéria.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 25.0 %
+- Participação presencial: 10.0 %
+- Teste: 25.0 %
+- Trabalho escrito: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 52.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho de investigação: 72.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Em Época Normal:<br /><br />CF = 0.1*PP + 0.4*TP + 0.25*MT + 0.25*EN</p>
+<p style="padding-left: 30px;">CF - Classificação Final</p>
+<p style="padding-left: 30px;">PP - Participação Presencial</p>
+<p style="padding-left: 30px;">TP - Componente Prática, obtida mediante a realização do trabalho prático:</p>
+<p style="padding-left: 60px;">TP = F1*0,45 + F2*0,4 + F3*0,15 (mínimo de 35% em cada parte)<br /><br />F1 - Fase 1<br />F2 - Fase 2<br />F3 - Fase 3 (Apresentação)</p>
+<p style="padding-left: 30px;">MT - Mini-Teste (mínimo de 35%)</p>
+<p style="padding-left: 30px;">EN - Exame de época normal (mínimo de 35%)</p>
+<p> </p>
+<p>Em Época de Recurso:<br /><br />CF = 0.1*PP + 0.4*TP + 0.5*ER</p>
+<p style="padding-left: 30px;">CF - Classificação Final</p>
+<p style="padding-left: 30px;">PP - Participação Presencial</p>
+<p style="padding-left: 30px;">TP - Componente Prática, obtida mediante a realização do trabalho prático:</p>
+<p style="padding-left: 60px;">TP = F1*0,45 + F2*0,4 + F3*0,15 (mínimo de 35% em cada parte)<br /><br />F1 - Fase 1<br />F2 - Fase 2<br />F3 - Fase 3 (Apresentação)</p>
+<p style="padding-left: 30px;">ER - Exame de recurso (mínimo de 35%)</p>
+
+## Obtenção de frequência
+<p>Um estudante inscrito à unidade curricular obtém frequência se não exceder o número máximo de faltas às aulas práticas (máximo de faltas permitido corresponde a 25% das aulas previstas: três faltas) e se realizar com aproveitamento os trabalhos práticos.</p>
+
+## Melhoria de classificação
+<p>A melhoria dos componentes teóricos (Mini-Teste e Exame de Época Normal) poderá ser realizada em época de recurso.<br />Os restantes componentes apenas poderão ser melhorados em nova edição da unidade curricular.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computer and Communication Systems
+
+## Curso responsável
+Bachelor of Arts in Information Science
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Provide the students with the knowledge of essential concepts regarding the technologies that support the creation, storage and communication of digital information, allowing students to use them effectively.</p>
+<p>This includes computer architectures, operating systems (Windows and Linux), network architectures and services, as well as Web 2.0 technologies and services.</p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of the course students should be able to:</p>
+<ul>
+<li>describe the basic architecture of a computer and its operation</li>
+<li>identify the components of a modern operating system</li>
+<li>distinguish the concepts of process, thread, multiprogramming and multitasking, system mode and user mode</li>
+<li>seamlessly use a computer with Linux OS</li>
+<li>identify the various computer network topologies and the basic principles of digital data communication</li>
+<li>characterize the TCP/IP protocol and some of the supported network services</li>
+<li>explain what the internet is and the most uded models in the World Wide Web, namely the client-server and peer-to-peer models</li>
+<li>define the concept of cloud computing and data storage on remote servers</li>
+</ul>
+
+## Programa
+<p>1. Numbering Systems: binary, octal and hexadecimal systems.<br /><br />2. Computer Architectures: basic structure and functioning of a computer; main components of a computer system.<br /><br />3. Operating System: basic concepts and functions; structure and functioning of an operating system; concepts of shell, process, thread, multiprogramming, memory management, filesystem and I/O devices; virtual machines; interaction with computers - CLI, GUI and NUI paradigms.<br /><br />4. Computer networks: data communication and digital information transfer; network types and topologies; layer model and TCP/IP protocol; IP addressing, name resolution and routing; security in computer networks; wireless networks; network services.<br /><br />5. Internet and Web 2.0: norms and interoperability; communication models; World Wide Web and existing services; cloud computing and storage; interaction and information visualization; crowdsourcing; Web 3.0.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical classes shall comprise a formal presentation of subject-matter, using electronic presentations; in these classes, students will also be presented with examples that complement the concepts and demonstrations of applications and services. In some classes, there will be discussion sessions, following a flipped classroom philosophy.</p>
+<p>In practical classes, students are asked to solve practical exercises to consolidate their knowledge.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 25.0 %
+- Participação presencial: 10.0 %
+- Teste: 25.0 %
+- Trabalho escrito: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 52.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho de investigação: 72.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>In regular exam season:<br /><br />FG = 0.1*PP + 0.4*TP + 0.25*MT + 0.25*EN</p>
+<p style="padding-left: 30px;">FG - Final Grade</p>
+<p style="padding-left: 30px;">PP - Participatory Presence</p>
+<p style="padding-left: 30px;">TP - Practical Component, obtained through a practical assignment</p>
+<p style="padding-left: 60px;">TP = F1*0,45 + F2*0,4 + F3*0,15 (minimum of 35% in each part)<br /><br />F1 - Phase 1<br />F2 - Phase 2<br />F3 - Phase 3 (Presentation)<br /><br /></p>
+<p style="padding-left: 30px;">MT - Mini-test (minimum of 35%)</p>
+<p style="padding-left: 30px;">EN - Regular exam (minimum of 35%)</p>
+<p> </p>
+<p>In the resit exam season:<br /><br />FG = 0.1*PP + 0.4*TP + 0.5*ER</p>
+<p style="padding-left: 30px;">FG - Final Grade</p>
+<p style="padding-left: 30px;">PP - Participatory Presence</p>
+<p style="padding-left: 30px;">TP - Practical Component, obtained through a practical assignment</p>
+<p style="padding-left: 60px;">TP = F1*0,45 + F2*0,4 + F3*0,15 (minimum of 35% in each part)<br /><br />F1 - Phase 1<br />F2 - Phase 2<br />F3 - Phase 3 (Presentation)</p>
+<p style="padding-left: 30px;">ER - Resit exam (minimum of 35%)</p>
+
+## Obtenção de frequência
+<p>A student enrolled in the course obtains approval if the maximum number of absences in practical classes is not exceeded (the maximum number of absences corresponds to 25% of classes: three absences) and if he successfully concludes the practical assignments.</p>
+
+## Melhoria de classificação
+<p>Improvement of the theoric components (Mini-Test and regular Exam) can be attained in the resit exam season.<br />Improvement on other components is limited to another edition of the curricular unit.</p>
+

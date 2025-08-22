@@ -1,0 +1,122 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Fundamentos de Ciência e Engenharia dos Dados
+
+## Curso responsável
+Mestrado em Engenharia e Ciência de Dados
+
+## Créditos ECTS
+12
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p><span style="font-weight: 400;">Pretende-se garantir que os estudantes tenham os conhecimentos fundamentais para a realização das restantes UCs do CE em quatro áreas de base: Estatística, Processamento de Sinal, Base de Dados e Programação. </span></p>
+<p><span style="font-weight: 400;">Ao nível da Estatística pretende-se que tenham uma visão integrada da área e da sua utilidade, de forma a torná-los utilizadores proficientes da Estatística Descritiva e da Inferência Estatística.</span></p>
+<p><span style="font-weight: 400;">Pretende-se que adquiram conceitos fundamentais, técnicas e ferramentas de análise e projeto na área do Processamento de Sinal. </span></p>
+<p><span style="font-weight: 400;">Ao nível das Bases de Dados devem ser capazes de descrever e analisar os requisitos de um SI, representá-los por um modelo UML e transformá-lo num modelo relacional e usar a linguagem SQL para criar, manipular e interrogar bases de dados.<br /><br />Finalmente, pretende-se que na área da Programação os estudantes adquiram e apliquem conhecimentos sobre programação usando a linguagem Python como ferramenta.<br /></span></p>
+
+## Resultados de aprendizagem e competências
+Como objetivos de aprendizagem ao nível da Estatística espera-se que os estudantes tenham uma visão integrada sobre a Estatística e a sua utilidade e sejam utilizadores proficientes da Estatística Descritiva e da Inferência Estatística. Competências a obter através sessões de trabalho onde os conceitos teóricos são demonstrados através da resolução de exercícios e pela realização de um mini-projeto.<br /><br />Adquiram conceitos fundamentais, técnicas e ferramentas de análise e projeto na área do Processamento de Sinal, competências a obter através sessões de trabalho onde os conceitos teóricos são demonstrados através da resolução de exercícios e pela realização de um mini-projeto.<br /><br />Na área das Base de Dados devem ser capazes de descrever e analisar os requisitos de um SI, representá-los por um modelo UML e transformá-lo num modelo relacional e ser capazes de usar a linguagem SQL para criar, manipular e interrogar bases de dados. Competências a obter através sessões de trabalho onde os conceitos teóricos são demonstrados através da resolução de exercícios e pela realização de um mini-projeto.<br /><br />Devem adquirir conhecimentos sobre Programação e ser capazes de desenvolver programas, usando a linguagem Python como ferramenta para resolver problemas de análise de dados. Competências a obter através de sessões de trabalho e pela realização dos mini-projetos anteriores.
+
+## Programa
+<p><span style="font-weight: 400;">Estatística: Estatística Descritiva; Probabilidades; Variáveis Aleatórias e Distribuições de Probabilidade; Principais Distribuições Discretas e Contínuas; Amostragem e Distribuições Amostrais; Estimação e Intervalos de Confiança; Teste de Hipóteses.</span></p>
+<p><span style="font-weight: 400;">Processamento de Sinal: Sinais discretos; Transformada de Fourier; Amostragem e reconstrução de sinais; Transformada Z; Projeto de filtros discretos IIR e FIR; Equivalentes discretos de sistemas contínuos; DFT e FFT; Aplicações.</span></p>
+<p><span style="font-weight: 400;">Base de Dados: Desenho de uma BD usando </span><span style="font-weight: 400;">diagramas de classes UML</span><span style="font-weight: 400;"> e passagem para o modelo relacional; Criação, manipulação e interrogação de uma base de dados usando a linguagem SQL; O SGBD PostgreSQL.</span></p>
+<p>Programação: Introdução ao Python; Operadores e Expressões; Estruturas de seleção e de repetição; Tipos de dados estruturados; Utilização de bibliotecas de Python (pandas, numpy, matplotlib, etc).</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-weight: 400;">As sessões de trabalhos servem para apoiar os estudantes na exploração dos materiais, resolução dos exercícios e implementação dos projetos.<br /><br />Os métodos de ensino e as atividades de aprendizagem serão baseados em mini-projetos nas áreas de Estatística, Bases de Dados e Processamento de Sinal, todas elas envolvendo Programação. <br /></span></p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 0.0 %
+- Exame: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 120.0 horas
+- Estudo autónomo: 120.0 horas
+- Frequência das aulas: 84.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><span style="font-weight: 400;">A avaliação consiste na média da classificação em cada uma das três componentes (Estatística, Bases de Dados e Processamento de Sinal). A classificação de cada componente é calculada com base numa prova escrita (Exame) e na realização de um mini-projeto (Proj). A aprovação a FCED requer a obtenção da classificação mínima de 40% em cada uma das componentes.</span></p>
+<p><span style="font-weight: 400;"><br />Fórmula de cálculo da classificação final (ClassFinal):</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">ClassFinal = (ClassEstat + ClassBD + ClassProcSinal) / 3<br /><br />ClassEstat = 0.5 ExameEst + 0.5 min(ProjEstat, ExameEst + 5)<br /><br />ClassBD = 0.5 ExameBD + 0.5 min(ProjBD, ExameBD + 5)<br /><br />ClassBD = 0.5 ExameProcSinal + 0.5 min(ProjProcSinal, ExameProcSinal + 5)<br /><br /><br /></span></p>
+
+## Obtenção de frequência
+Conforme o disposto nas normas gerais de avaliação.
+
+## Melhoria de classificação
+A melhoria de classificação será efectuada através de prova individual única com duas componentes: 1. exame de recurso; 2. Uma componente adicional opcional que permita avaliar as competências avaliadas através do trabalho desenvolvido na avaliação distribuída. A melhoria de classificação pode ser efetuada na época de recurso dessa edição ou de edições subsequentes.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Fundamentals of Data Science and Engineering
+
+## Curso responsável
+Master in Data Science and Engineering
+
+## Créditos ECTS
+12
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p><span style="font-weight: 400;">Students should have fundamental concepts in four key areas for MDSE: Statistics, Signal Processing, Databases and Programming.</span></p>
+<p><span style="font-weight: 400;">Provide students with an integrated view of Statistics and of its usefulness, making them capacitated users of Descriptive Statistics and Statistical Inference.</span></p>
+<p><span style="font-weight: 400;">Signal Processing module aims to provide students with concepts, techniques and tools of analysis and design in this field.</span></p>
+<p><span style="font-weight: 400;">About Databases students should be able to describe and analyze the requirements of an IS, represent them using </span><span style="font-weight: 400;">a UML class diagram</span><span style="font-weight: 400;"> and transform it into a relational model. Students should also be able to use the SQL language to create, manipulate and query databases.</span></p>
+<p><span style="font-weight: 400;">Concerning Programming, students should acquire fundamental knowledge on procedural programming techniques and be able to develop programs, using the Python language.</span></p>
+
+## Resultados de aprendizagem e competências
+Acquire an integrated view of Statistics and of its usefulness and be capacitated users of Descriptive Statistics and Statistical Inference. Skills obtained through work sessions where the theoretical concepts are demonstrated through the resolution of exercises and the realization of a mini-project.<br /><br />Acquire concepts, techniques and tools of analysis and design in the Signal Processing field. Skills obtained through work sessions where the theoretical concepts are demonstrated through the resolution of exercises and the realization of a mini-project..<br /><br />About Databases should be able to describe and analyze the requirements of an IS, represent them using an entity-relationship model and transform it into a relational model and be able to use the SQL language to create, manipulate and query databases. Skills obtained through work sessions where the theoretical concepts are demonstrated through the resolution of exercises and the realization of a mini-project.<br /><br />Acquire fundamental knowledge on Programming (procedural), and be able to develop programs, using the Python language. Skills obtained through work sessions where the theoretical concepts are demonstrated through the resolution of exercises and the realization of teh previous mini-projects.
+
+## Programa
+<p><span style="font-weight: 400;">Statistics: Descriptive Statistics; Probabilities; Random Variables and Probability Distributions; Main Discrete and Continuous Distributions; Sampling and Sampling Distributions; Estimation and Confidence Intervals; Hypothesis Testing.</span></p>
+<p><span style="font-weight: 400;">Signal Processing: Discrete signals; Fourier transform; Sampling and reconstruction of signals; Z transform; Design of discrete IIR and FIR filters; Discrete equivalents of continuous systems; DFT and FFT; Applications.</span></p>
+<p><span style="font-weight: 400;">Database: Design of a DB using UML  class diagrams and its conversion to the relational model; Creation, manipulation and interrogation of a database using an SQL language; The PostgreSQL DBMS.</span></p>
+<p><span style="font-weight: 400;">Programming: Introduction to Python; Operators and Expressions; Selection and repetition structures. Structured data types; Python packages (pandas, numpy, matplotlib, etc).</span></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-weight: 400;">Sessions are designed to support students in exploring materials, solving exercises, and implementing projects.</span></p>
+<p><span style="font-weight: 400;">Teaching methodologies and learning activities are based around mini-projects in the areas of Statistics, Databases and Signal Processing, all of them evolving Programming.</span></p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 0.0 %
+- Exame: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 120.0 hours
+- Estudo autónomo: 120.0 hours
+- Frequência das aulas: 84.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><span style="font-weight: 400;">Grading consist in the average of grades in each of the three components (Statistics, Databases and Signal Processing). In each component, the grade is based on a final exam (Exam) and a mini-projects (Proj). It is necessary to obtain at least 40% in each of the components.</span></p>
+<p><span style="font-weight: 400;">Final classification calculation formula (FinalClass)</span></p>
+<p style="padding-left: 30px;">FinalClass = (ClassStats + ClassDB + ClassSignalProc) / 3<br /><br />ClassStats = 0.5 StatsExam + 0.5 min(StatsProj, StatsExam + 5) / 2<br /><br />ClassDB = 0.5 DBExam + 0.5 min(DBProj, DBExam + 5) / 2<br /><br />ClassSignalProc = 0.5 SignalProcExam + 0.5 min(SignalProcProj, SignalProcExam + 5) / 2<br /><br /></p>
+
+## Obtenção de frequência
+Admission criteria set according to General Evaluation Rules of FEUP.
+
+## Melhoria de classificação
+The classification improvement will be carried out by single individual proof with two components: 1. examination of appeal; 2. An optional additional component that allows assessing the skills assessed through the work developed in the distributed evaluation. The classification improvement can be made at the time of feature of this edition or subsequent editions. The improvement of final grade takes place at the corresponding appeal period in the current edition of the course or in the subsequent ones.
+

@@ -1,0 +1,148 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Métodos Avançados de  Discretização
+
+## Curso responsável
+Mestrado em Mecânica Computacional
+
+## Créditos ECTS
+7,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+Apprehension of the fundamental concepts of available advanced discretization techniques (meshless methods). Developing the ability to use the knowledge acquired to solve simple computational mechanics problems using meshless methods.
+
+## Resultados de aprendizagem e competências
+Capability to design simple structures and mechanical components.
+
+## Pré-requisitos e co-requisitos
+It is necessary to have basic knowledge in: Solid Mechanics, Approximation numerical techniques, Algebra, programming.
+
+## Programa
+<p>1-Brief introduction to Matlab.</p>
+<p>2-Introduction to Advanced Discretization Techniques</p>
+<p>  - Comparison with the Finite Element Method</p>
+<p>  - Available Meshless methods</p>
+<p>  - kinds of approximation/interpolation functions</p>
+<p>  - influence domain concept</p>
+<p>  - numeric integration schemes</p>
+<p>3-Brief Presentation on Solid Mechanics</p>
+<p>  - Hooke&#8217;s Law</p>
+<p>  - Equilibrium Equations</p>
+<p>  - Galerkin Weak Form</p>
+<p>  - Discrete Equation System</p>
+<p>4-Finite element method</p>
+<p>- Formulation: Discretization, integration mesh, shape functions, matrix formulaiton</p>
+<p>- Matlab programming 2D problems using linear triangular elements</p>
+<p>- Matlab programming 2D problems using quadrilateral elements</p>
+<p>5-Meshless Methods</p>
+<p>  - Approximation Functions (Moving Least Square Approximants)</p>
+<p>  - Interpolation Functions (Radial Point Interpolators)</p>
+<p>  - Matrix Formulation</p>
+<p>  - Essential and Natural Boundary imposition</p>
+<p>6-Numeric Implementation</p>
+<p>7-Basic Meshless Software in Matlab (open-source software created by the lecture)</p>
+<p>  - Matlab introduction</p>
+<p>  - Presentation of the several routines and subroutines of the meshless method software</p>
+<p>  - Solving simple examples</p>
+<p>  - Extending the software to other fields of computational mechanics</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical-Practical classes with exposition of the relevant theory.</p>
+<p>Practical classes to solve typical problems at the end of each unit.</p>
+<p>Suggestion of problems to be solved individually in class and at home.</p>
+<p>It is delivered to all students a copy of a open-source meshless software created by the lecture.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Defesa pública de dissertação, de relatório de projeto ou estágio, ou de tese: 10.0 %
+- Exame: 40.0 %
+- Trabalho escrito: 50.0 %
+
+## Fórmula de cálculo da classificação final
+<p>50% of final exam + 40% of the final report + 10% of the final presentation.</p>
+<p>At the end of the semester all students will be evaluated with a final exam rated from 0 to 20 values. Final grades higher than 17 values are conditioned to an oral exam.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Advanced Methods of Discretization
+
+## Curso responsável
+Master in Computational Mechanics
+
+## Créditos ECTS
+7,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+Apprehension of the fundamental concepts of available advanced discretization techniques (meshless methods). Developing the ability to use the knowledge acquired to solve simple computational mechanics problems using meshless methods.
+
+## Resultados de aprendizagem e competências
+<p>Capability to design simple structures and mechanical components.</p>
+
+## Pré-requisitos e co-requisitos
+It is necessary to have basic knowledge in: Solid Mechanics, Approximation numerical techniques, Algebra, programming.
+
+## Programa
+<p>1-Brief introduction to Matlab.</p>
+<p>2-Introduction to Advanced Discretization Techniques</p>
+<p>  - Comparison with the Finite Element Method</p>
+<p>  - Available Meshless methods</p>
+<p>  - kinds of approximation/interpolation functions</p>
+<p>  - influence domain concept</p>
+<p>  - numeric integration schemes</p>
+<p>3-Brief Presentation on Solid Mechanics</p>
+<p>  - Hooke&#8217;s Law</p>
+<p>  - Equilibrium Equations</p>
+<p>  - Galerkin Weak Form</p>
+<p>  - Discrete Equation System</p>
+<p>4-Finite element method</p>
+<p>- Formulation: Discretization, integration mesh, shape functions, matrix formulaiton</p>
+<p>- Matlab programming 2D problems using linear triangular elements</p>
+<p>- Matlab programming 2D problems using quadrilateral elements</p>
+<p>5-Meshless Methods</p>
+<p>  - Approximation Functions (Moving Least Square Approximants)</p>
+<p>  - Interpolation Functions (Radial Point Interpolators)</p>
+<p>  - Matrix Formulation</p>
+<p>  - Essential and Natural Boundary imposition</p>
+<p>6-Numeric Implementation</p>
+<p>7-Basic Meshless Software in Matlab (open-source software created by the lecture)</p>
+<p>  - Matlab introduction</p>
+<p>  - Presentation of the several routines and subroutines of the meshless method software</p>
+<p>  - Solving simple examples</p>
+<p>  - Extending the software to other fields of computational mechanics</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical-Practical classes with exposition of the relevant theory.</p>
+<p>Practical classes to solve typical problems at the end of each unit.</p>
+<p>Suggestion of problems to be solved individually in class and at home.</p>
+<p>It is delivered to all students a copy of a open-source meshless software created by the lecture.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Defesa pública de dissertação, de relatório de projeto ou estágio, ou de tese: 10.0 %
+- Exame: 40.0 %
+- Trabalho escrito: 50.0 %
+
+## Fórmula de cálculo da classificação final
+<p>50% of final exam + 40% of the final report + 10% of the final presentation.</p>
+<p>At the end of the semester all students will be evaluated with a final exam rated from 0 to 20 values. Final grades higher than 17 values are conditioned to an oral exam.</p>
+

@@ -1,0 +1,454 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Eletrónica
+
+## Curso responsável
+Licenciatura em Engenharia Física
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p style="text-align: justify;">Tendo por base a compreensão dos fenómenos electromagnéticos que suportam o funcionamento dos circuitos elétricos e da eletrónica, pretende-se comunicar os conceitos e estruturas centrais da teoria dos circuitos elétricos e da eletrónica analógica, e transmitir o enquadramento da eletrónica digital com descrição dos seus princípios e blocos fundamentais. <br /><br />É também objectivo procurar que a perspectiva da utilização da eletrónica na instrumentação esteja sempre presente, assim como situar a evolução histórica deste domínio da Ciência e da Tecnologia e apontar tendências para desenvolvimentos futuros.</p>
+
+## Resultados de aprendizagem e competências
+<p style="text-align: justify;">A frequência com aproveitamento desta disciplina deverá possibilitar ao estudante:</p>
+<div style="text-align: justify;">
+<ul>
+<li>A compreensão da evolução histórica do conhecimento em circuitos elétricos e em eletrónica;</li>
+</ul>
+<ul>
+<li>A compreensão dos conceitos fundamentais que suportam a fenomenologia elétrica e eletrónica, assim como de ferramentas analíticas e de projecto que possibilitem ao estudante capacidade de intervenção nestes domínios;</li>
+</ul>
+</div>
+<ul>
+<li style="text-align: justify;">Proporcionar bases sólidas para estudos mais avançados nestas disciplinas.</li>
+</ul>
+<p style="text-align: justify;">Pretende-se também que a envolvência em que se desenvolve esta unidade curricular seja indutora de reflexão e de orientações de vida as quais, à sua escala, contribuam para um futuro de sustentabilidade saudável para a Civilização Humana.</p>
+
+## Pré-requisitos e co-requisitos
+Aqueles que decorrem da sequência de lecionação do curso.
+
+## Programa
+<p style="text-align: justify;"><strong>PROGRAMA<br /><br />0)   A História do Electrão<br /><br /></strong></p>
+<p style="text-align: justify;">Este capítulo desenrola-se ao longo de todo o semestre e pretende proporcionar ao estudante a perspectiva da evolução da nossa compreensão dos fenómenos elétricos e magnéticos desde a antiguidade até aos dias de hoje. Inclui uma secção relativa a aplicações tecnológicas com suporte direto nas propriedades do eletrão.</p>
+<p style="text-align: justify;"><strong> </strong></p>
+<p><strong>1)   Apresentação da Unidade Curricular + Algumas Reflexões</strong></p>
+<ul>
+<li>Apresentação da Unidade Curricular</li>
+<li>Religião, Arte e Ciência</li>
+<li>Ciência e Tecnologia</li>
+</ul>
+<div>
+<p> </p>
+</div>
+<p><strong>2)    Introdução e Contexto Histórico </strong></p>
+<ul>
+<li>Eletricidade</li>
+<li>A versatilidade da Ação Elétrica</li>
+<li>Carga Elétrica e Corrente Elétrica</li>
+<li>Contexto Histórico</li>
+</ul>
+<p>  </p>
+<p><strong>3)    Ação Eléctrica </strong></p>
+<ul>
+<li>Força Elétrica e Campo Elétrico</li>
+<li>Potencial Elétrico</li>
+<li>Corrente Elétrica</li>
+<li>Eletricidade e Células</li>
+<li>Membrana Celular e Informação  </li>
+</ul>
+<p><strong><br />4)     Ação Electromagnética<strong> </strong></strong></p>
+<ul>
+<li>Cargas e Movimento</li>
+<li>Campo Magnético</li>
+<li>Força Eletromagnética</li>
+<li>Magnetismo e Velocidade da Luz</li>
+<li>Eletromagnetismo</li>
+<li>Equações de Maxwell e Matéria</li>
+<li>Polarização Elétrica e Polarização Magnética</li>
+<li>Ondas Eletromagnéticas</li>
+<li>A Luz  </li>
+</ul>
+<br />
+<p><strong>5)    Considerações Básicas Sobre Corrente Elétrica e Circuitos</strong></p>
+<p><strong> </strong></p>
+<ul>
+<li>Corrente Elétrica e Velocidade de Arrastamento</li>
+<li>Lei de Ohm</li>
+<li>Força Eletromotriz</li>
+<li>Circuito Elétrico e Sistemas Elétricos</li>
+<li>Elementos Básicos de Sistemas Elétricos</li>
+<li>Resistências</li>
+<li>Potência Elétrica</li>
+<li>Lei de Joule e uma Implicação Surpreendente</li>
+<li>Instrumentos para Análise e Projecto de Circuitos Elétricos</li>
+<li>Associação de Resistências</li>
+<li>Divisor de Tensão e de Corrente</li>
+<li>Transformação Triângulo-Estrela</li>
+<li>Ponte de Wheatstone</li>
+<li>Leis de Kirchhoff</li>
+<li>Técnica das Tensões de Nó e Técnica das Correntes de Malha</li>
+<li>Teorema de Thevenin e de Norton</li>
+<li>Princípio da Sobreposição</li>
+<li>Ligação de Circuitos Elétricos</li>
+<li>Simetrias e Conservação da Energia</li>
+</ul>
+<p>  </p>
+<p><strong>6)   Condensadores e Bobinas </strong></p>
+<ul>
+<li>Bobinas, Princípio Físico</li>
+<li>Condensadores, Princípio Físico</li>
+<li>Tensão e Corrente em Resistências, Bobinas e Condensadores</li>
+<li>Associação de Bobinas</li>
+<li>Associação de Condensadores</li>
+<li>Resposta Temporal de Circuitos RC e RL</li>
+<li>Resposta Temporal de Circuitos RLC</li>
+</ul>
+<p>  </p>
+<p><strong>7)   Corrente Alternada </strong></p>
+<ul>
+<li>Tensões Variáveis</li>
+<li>Fasores, Resistências, Bobinas e Condensadores</li>
+<li>Lei de Ohm Generalizada</li>
+<li>Leis de Kirchhoff para Fasores</li>
+<li>Associação de Impedâncias</li>
+<li>Transformação Triângulo-Estrela</li>
+<li>Potência Elétrica</li>
+<li>Potência Média, Potência Reativa e Potência Aparente</li>
+<li>Aplicações </li>
+</ul>
+<p><strong>8)   Energia Elétrica e Baterias</strong></p>
+<ul>
+<li>Geração da Energia Elétrica</li>
+<li>Centrais de Geração de Energia Eletrica</li>
+<li>Centrais Hidroelétricas em Portugal</li>
+<li>Centrais Térmicas Portugal</li>
+<li>Centrais Nucleares (Fissão)</li>
+<li>Centrais Eólicas</li>
+<li>Centrais Fotoelétricas</li>
+<li>Centrais Nucleares (Fusão)</li>
+<li>O Transformador</li>
+<li>Sistemas de Distribuição de Energia Elétrica</li>
+<li>Um Problema de Correntes&#8230;</li>
+<li>Tesla</li>
+<li>Baterias  </li>
+</ul>
+<p><strong>9)    Semicondutores e Díodos</strong></p>
+<ul>
+<li>Os Circuitos Elétricos/Eletrónica antes da Era dos Semicondutores</li>
+<li>Semicondutores</li>
+<li>Junção p-n</li>
+<li>Díodo</li>
+<li>Díodo Zener</li>
+<li>Díodo Emissor de Luz (LED)</li>
+<li>Fotodíodo</li>
+<li>Circuitos com Díodos &#8211; Fontes de Tensão Contínua</li>
+<li>Circuitos com Díodos &#8211; Limitadores</li>
+<li>Circuitos com Díodos &#8211; Fixadores de Nível DC</li>
+<li>Circuitos com Díodos &#8211; Multiplicadores de Tensão</li>
+<li>Díodos em Circuitos Lineares e Não-lineares </li>
+</ul>
+<p><strong>10)     Transístores<strong><br /></strong></strong></p>
+<ul>
+<li>A Necessidade de um Elemento Amplificador em Circuitos</li>
+<li>Válvulas</li>
+<li>Transístor</li>
+<li>Transístor Bipolar - Princípio Físico</li>
+<li>Transístor Bipolar &#8211; Curvas Características</li>
+<li>Transístor Bipolar &#8211; Configurações de Amplificação</li>
+<li>Transístor de Efeito de Campo - Princípio Físico</li>
+<li>Transístor de Efeito de Campo &#8211; Estruturas JFET, MOSFET</li>
+<li>Transístor de Efeito de Campo &#8211; Configurações de Amplificação</li>
+<li>Comparação dos Transístores Bipolares e dos Transístores de Efeito de Campo</li>
+<li>Transístores e a Eletrónica de Dois Níveis (Eletrónica Digital)</li>
+<li>Transístores: Perspectiva Histórica, a Atualidade, o Futuro  </li>
+</ul>
+<p><strong>11)  Amplificação<strong> </strong></strong></p>
+<ul>
+<li>Amplificação &#8211; Conceitos Gerais</li>
+<li>O Conceito de Realimentação</li>
+<li>Amplificação com Realimentação</li>
+<li>Amplificadores Operacionais</li>
+<li>Características Gerais</li>
+<li>Amplificadores Operacionais - Configurações de Amplificação</li>
+<li>Computação Analógica</li>
+<li>Comparadores </li>
+</ul>
+<p><strong>12)   Linguagem e Lógica Binária<strong> </strong></strong></p>
+<ul>
+<li>Linguagem</li>
+<li>A Linguagem da Matemática</li>
+<li>A Linguagem Binária</li>
+<li>Lógica Boleana</li>
+<li>Lógica Combinatória</li>
+<li>Considerações Gerais sobre a Lógica Sequencial</li>
+<li>Implementação Electrónica das Funções Lógicas  </li>
+</ul>
+<p><strong>13)  A Passagem para o Mundo Digital </strong></p>
+<ul>
+<li>Considerações Gerais</li>
+<li>Teorema da Amostragem</li>
+<li>Codificação Binária</li>
+<li>Conversores Analógicos-Digitais: Principais Configurações</li>
+<li>Conversores Digitais Analógicos: Principais Configurações</li>
+<li>Não Esquecer: O Mundo Não é Digital &#8230;  </li>
+</ul>
+<p> </p>
+<p><strong>14)  Electrónica no Futuro</strong></p>
+<ul>
+<li>A Dificuldade em Prever o Futuro</li>
+<li>Miniaturização</li>
+<li>O Problema da Dissipação da Potência Elétrica</li>
+<li>Electrónica Flexível</li>
+<li>Os Memristors</li>
+<li>Que Eletrónica no Futuro?</li>
+<li>Exercício Analítico &#8211; <em>Como Será Este Curso em 2074</em>?</li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<div style=&quot;text-align: justify;&quot;>Os assuntos propostos podem ser encontrados em vasta literatura. No entanto, considera-se importante a presença do estudante nas aulas teóricas pois a abordagem da lecionação procura comunicar uma perspectiva abrangente e induzir uma aquisição integrada de conhecimento nestes domínios.</div>
+
+## Tipo de avaliação
+Avaliação por exame final
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 56.0 horas
+- Estudo autónomo: 106.0 horas
+
+## Fórmula de cálculo da classificação final
+Avaliação por exame final
+
+## Obtenção de frequência
+<p>Participação em 2/3 das aulas teórico-práticas.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Electronics
+
+## Curso responsável
+Bachelor in Engineering Physics
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<div style=&quot;text-align: justify;&quot;>Based on the understanding of the electromagnetic phenomena that support the operation of electrical circuits and electronics, we intend to communicate the concepts and central structures of the theory of electrical circuits and analog electronics, and transmit the framework of digital electronics with description of its principles and fundamental blocks. <br /><br />It is also aimed to ensure that the perspective of the use of electronics in instrumentation is always present, as well as to situate the historical evolution of this field of science and technology and to point out trends for future developments.</div>
+
+## Resultados de aprendizagem e competências
+The successful completion of this course should enable the student to:<br /><br /><br /><ul><br /><li>Understanding the historical evolution of knowledge in electrical circuits and electronics;</li><br /></ul><br /><ul><br /><li>Understanding the fundamental concepts that support electrical and electronic phenomenology, as well as the analytical and design tools that enable students to intervene in these fields;</li><br /></ul><br /><ul><br /><li>Provide a solid foundation for further study in these disciplines.</li><br /></ul><br /><br /><br /><p>It is also intended that the environment in which this curricular unit will be developed shall induce reflection on science, its power and limits, as well as to contribute on its scale for a healthy and sustainable future for Human Civilization.</p>
+
+## Pré-requisitos e co-requisitos
+Those that follow from the course teaching sequence.
+
+## Programa
+<p style="text-align: justify;"><strong>PROGRAM<br /><br />0)   The History of the Electron</strong><br /><br />This chapter runs throughout the semester and is intended to provide students with insight into the evolution of our understanding of electrical and magnetic phenomena from ancient times to the present day. Includes a section on technologic applications with direct support on the  electron properties.<br /><br /><strong>1) Course Presentation + Some Reflections</strong></p>
+<ul>
+<li>Course Presentation</li>
+<li>Religion, Art and Science</li>
+<li>science and technology</li>
+</ul>
+<br /><strong>2) Introduction and Historical Context</strong><br />
+<ul>
+<li>Electricity</li>
+<li>The versatility of electric action</li>
+<li>Electric Charge and Electric Current</li>
+<li>Historical context</li>
+</ul>
+<br /><strong>3) Electric Action</strong><br />
+<ul>
+<li>Electric Power and Electric Field</li>
+<li>Electric potential</li>
+<li>Electric current</li>
+<li>Electricity and Cells</li>
+<li>Cell Membrane and Information</li>
+</ul>
+<br /><strong>4) Electromagnetic action</strong><br />
+<ul>
+<li>Charges and Movement</li>
+<li>Magnetic field</li>
+<li>Electromagnetic force</li>
+<li>Magnetism and Speed of Light</li>
+<li>Electromagnetism</li>
+<li>Maxwell's Equations and Matter</li>
+<li>Electrical Polarization and Magnetic Polarization</li>
+<li>Electromagnetic waves</li>
+<li>The light</li>
+</ul>
+<br /><br /><strong>5) Basic Considerations on Electrical Current and Circuits</strong><br />
+<ul>
+<li>Electric Current and Drag Speed</li>
+<li>Ohm's Law</li>
+<li>Electromotive force</li>
+<li>Electrical Circuit and Electrical Systems</li>
+<li>Basic Elements of Electrical Systems</li>
+<li>Resistors</li>
+<li>Electric power</li>
+<li>Joule's Law and a Surprising Implication</li>
+<li>Instruments for Analysis and Design of Electrical Circuits</li>
+<li>Resistance Association</li>
+<li>Voltage and Current Divider</li>
+<li>Triangle-Star Transformation</li>
+<li>Wheatstone Bridge</li>
+<li>Kirchhoff Laws</li>
+<li>Node Voltage Technique and Mesh Current Technique</li>
+<li>Thevenin and Norton Theorems</li>
+<li>Superposition Principle</li>
+<li>Connection of Electric Circuits</li>
+<li>Symmetries and Energy Conservation</li>
+</ul>
+<br /><strong>6) Capacitors and Coils</strong><br />
+<ul>
+<li>Coils, Physical Principle</li>
+<li>Capacitors, Physical Principle</li>
+<li>Voltage and Current in Resistors, Coils and Capacitors</li>
+<li>Coil Association</li>
+<li>Capacitors Association</li>
+<li>Time Response of RC and RL Circuits</li>
+<li>Time Response of a RLC Circuit</li>
+</ul>
+<br /><strong>7) Alternating Current</strong><br /><br />
+<ul>
+<li>Variable Voltages</li>
+<li>Phasors, Resistors, Coils and Capacitors</li>
+<li>Generalized Ohm's Law</li>
+<li>Kirchhoff Laws for Phasors</li>
+<li>Impedance Association</li>
+<li>Triangle-Star Transformation</li>
+<li>Electric power,Average Power, Reactive Power and Apparent Power; Applications</li>
+</ul>
+<br /><strong>8) Electric Power and Batteries</strong><br /><br />
+<ul>
+<li>Electricity Generation</li>
+<li>Electric Power Generation Plants</li>
+<li>Hydroelectric Power Plants in Portugal</li>
+<li>Thermal Power Plants in Portugal</li>
+<li>Nuclear Power Plants (Fission)</li>
+<li>Wind Power Plants</li>
+<li>Photoelectric Power Plants</li>
+<li>Nuclear Power Plants (Fusion)</li>
+<li>The transformer</li>
+<li>Electricity Distribution Systems</li>
+<li>A Problem of Currents&#8230;</li>
+<li>Tesla</li>
+<li>Batteries</li>
+</ul>
+<br /><strong>9) Semiconductors and Diodes</strong><br /><br />
+<ul>
+<li>Electrical/Electronic Circuits Before the Semiconductor Era</li>
+<li>Semiconductors</li>
+<li>P-n junction</li>
+<li>Diode</li>
+<li>Zener Diode</li>
+<li>Light Emitting Diode (LED)</li>
+<li>Photodiode</li>
+<li>Diode Circuits - Continuous Voltage Sources</li>
+<li>Diode Circuits - Limiters</li>
+<li>Diode Circuits - DC Level Fixers</li>
+<li>Diode Circuits - Voltage Multipliers</li>
+<li>Diodes in Linear and Nonlinear Circuits</li>
+</ul>
+<br /><br /><strong>10) Transistors</strong><br /><br />
+<ul>
+<li>The Need for an Amplifier Element in Circuits</li>
+<li>Valves</li>
+<li>Transistor</li>
+<li>Bipolar Transistor - Physical Principle</li>
+<li>Bipolar Transistor - Characteristic Curves</li>
+<li>Bipolar Transistor - Amplification Settings</li>
+<li>Field Effect Transistor - Physical Principle</li>
+<li>Field Effect Transistor - JFET, MOSFET Structures</li>
+<li>Field Effect Transistor - Amplification Settings</li>
+<li>Comparison of Bipolar Transistors and Field Effect Transistors</li>
+<li>Transistors and Two-Level Electronics (Digital Electronics)</li>
+<li>Transistors: Historical Perspective, Present, Future</li>
+</ul>
+<br /><br /><strong>11) Amplification</strong><br /><br />
+<ul>
+<li>Amplification - General Concepts</li>
+<li>The Feedback Concept</li>
+<li>Feedback Amplification</li>
+<li>Operational Amplifiers</li>
+<li>General Features</li>
+<li>Operational Amplifiers - Amplification Settings</li>
+<li>Analog Computing</li>
+<li>Comparators</li>
+</ul>
+<br /><strong>12) Language and Binary Logic</strong><br /><br />
+<ul>
+<li>Language</li>
+<li>The Language of Mathematics</li>
+<li>The Binary Language</li>
+<li>Boolean Logic</li>
+<li>Combinatorial Logic</li>
+<li>General Considerations for Sequential Logic</li>
+<li>Electronic Implementation of Logic Functions</li>
+</ul>
+<div class="tlid-results-container results-container">
+<div class="tlid-result result-dict-wrapper">
+<div class="result tlid-copy-target">
+<div class="result-header"> </div>
+<div class="text-wrap tlid-copy-target">
+<div class="result-shield-container tlid-copy-target" tabindex="0"><span class="tlid-translation translation" lang="en"><span class="tlid-translation translation" lang="en"><strong><span title="">13) The Gateway to the Digital World</span></strong><br /><br /></span></span>
+<ul>
+<li><span class="tlid-translation translation" lang="en"><span title="">General considerations</span></span></li>
+<li>Sampling Theorem</li>
+<li>Binary coding</li>
+<li>Analog to Digital Converters: Standard Configurations</li>
+<li>Analog Digital Converters: Standard Configurations</li>
+<li>Don't Forget: The World Is Not Digital&#8230;</li>
+</ul>
+<span class="tlid-translation translation" lang="en"><span class="tlid-translation translation" lang="en"><br /><strong>14) Electronics in the Future</strong><br /><br /></span></span>
+<ul>
+<li><span class="tlid-translation translation" lang="en">The Difficulty of Predicting the Future</span></li>
+<li>Miniaturization</li>
+<li>The Power Dissipation Problem</li>
+<li>Flexible Electronics</li>
+<li>The Memristors</li>
+<li>What Electronics in the Future?</li>
+<li>Analytical Exercise - What will this course look like in 2074?</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+## Métodos de ensino e atividades de aprendizagem
+<div style=&quot;text-align: justify;&quot;>The proposed subjects can be found in a vast literature. However, the presence of the student in the lectures is considered important because the teaching approach seeks to communicate a broad perspective and induce an integrated acquisition of knowledge in these domains.</div>
+
+## Tipo de avaliação
+Evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 56.0 hours
+- Estudo autónomo: 106.0 hours
+
+## Fórmula de cálculo da classificação final
+Assessment by final exam
+
+## Obtenção de frequência
+<p>Attendance in 2/3 of the practical classes.</p>
+

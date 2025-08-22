@@ -1,0 +1,179 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Otimização de Sistemas Mecânicos
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p><strong>O objetivo da unidade curricular é ministrar aos estudantes conhecimentos sobre a Teoria da Otimização em geral e sobre o projeto otimizado de sistemas mecânicos em particular.</strong></p>
+<p><strong>No fim do período letivo os estudantes devem ser capazes de:</strong></p>
+<p><strong>1 - Formular problemas de otimização;</strong></p>
+<p><strong>2 - Escolher as técnicas de otimização apropriadas para resolver problemas em engenharia mecânica;</strong></p>
+<p><strong>3 &#8211; Formular e desenvolver modelos de otimização seguindo metodologias apropriadas visando o projeto ótimo de sistemas mecânicos;</strong></p>
+<p><strong>4 &#8211; Implementar modelos de otimização e analisar criteriosamente os resultados obtidos. </strong></p>
+<strong>5 - Proceder à validação dos modelos desenvolvidos.</strong>
+
+## Resultados de aprendizagem e competências
+<p><strong>A metodologia de ensino adotada baseia-se no estabelecimento de uma relação entre os diferentes temas tratados de forma a facilitar a assimilação das matérias. A consulta de bibliografia e o estudo de artigos da especialidade é encorajada tendo como objetivo a definição de modelos de otimização para a resolução de problemas ou trabalhos de síntese que envolvam consulta bibliográfica.</strong></p>
+<p><strong>Horas totais previstas (aulas): 39h </strong></p>
+<p><strong>Pesquisa bibliográfica: 13h</strong></p>
+<p><strong>Resolução de problemas de otimização:16h</strong></p>
+<p><strong>Definição e implementação de modelos de otimização c/ programação: 42h</strong></p>
+<p><strong>Preparação para exames: 52h<br /><br /></strong></p>
+<p>Competências Computacionais:</p>
+<p><strong>Capacidade para desenvolver modelos computacionais de projeto ótimo, incluindo a sua implementação e validação.</strong></p>
+<p>Competências Experimentais:</p>
+<p><strong>Não aplicável</strong></p>
+<p>Competências Transversais:</p>
+<strong>Conhecimentos de algoritmia e de linguagens de programação</strong>
+
+## Pré-requisitos e co-requisitos
+<strong>Conhecimentos de unidades curriculares da licenciatura em Engenharia Mecânica.</strong>
+
+## Programa
+<p><strong>1.Otimização: função objetivo, variáveis de projeto, restrições geométricas, comportamentais e tecnológicas. Formulação do problema. Condições de otimalidade. Modelos de otimização.</strong></p>
+<p><strong>2.Programação matemática e critérios de otimalidade. Sensibilidades. Métodos da penalidade e do Lagrangeano. </strong></p>
+<p><strong>3.Pesquisa evolucionária: paradigmas e componentes dos algoritmos bio-inspirados. Algoritmo Genético: codificação, operadores, elitismo e diversidade. Algoritmos Meméticos: evolução genética e aprendizagem.<br /><br />4.Introdução à otimização baseada em inteligência de enxame.<br /></strong></p>
+<p><strong>5.Otimização multiobjectivo: frente de Pareto, transformação, dominância e pesquisa evolucionária.</strong></p>
+<p><strong>6.Otimização multidisciplinar de grandes sistemas. Redes neuronais (opcional).</strong></p>
+<p><strong>7.Aplicações: cascas/placas, topologia, compósitos, seleção de materiais, estruturas aeronáuticas, comportamento de veículos, identificação de propriedades, biomecânica, fluídos e energia. Uso de programas (Visual Studio, MATLAB) e de novos modelos com análise e otimização.</strong></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><strong>O objetivo essencial desta unidade curricular é proporcionar os conhecimentos fundamentais de Teoria da Otimização, as suas metodologias e a integração das ferramentas de simulação e otimização necessários para análise e o projeto ótimo de sistemas mecânicos. Preparar o estudante  na aplicação de modelos computacionais, nomeadamente de elementos finitos e otimização, na análise e no projeto ótimo de sistemas mecânicos.</strong></p>
+<p><strong>Assim os conteúdos programáticos definidos em 1, são consentâneos com o objetivo mencionado em 1. Os conteúdos programáticos descritos nos pontos 2, 3, 4, 5 e 6 permitem atingir os objetivos preconizados em 2 e 3.</strong></p>
+<strong><strong>Finalmente os conteúdos programáticos definidos em 7 permitem alcançar os objetivos estabelecidos em 4 e 5.<br /><br /></strong></strong>
+<p><strong>A unidade curricular funciona no regime de uma aula teórico-prática (TP) por semana com uma duração de 2h e 1 aula de ensino prático e laboratorial de 1 hora. Esta tipologia de aulas permite que o docente se dedique na parte inicial à exposição de matéria teórica, logo seguida de exemplos práticos de aplicação resolvidos pelo docente. Subsequentemente, será proposto aos estudantes a formulação, desenvolvimento e a implementação de módulos usando uma linguagem de programação adequada que abordem a temática subjacente ao conteúdo teórico ministrado. </strong></p>
+<p><strong>Os estudantes são convidados a desenvolver, implementar e validar dois trabalhos práticos de otimização de sistemas mecânicos através de aplicações em ambiente de software comercial ou em linguagem de programação adequada de sua escolha. Um dos trabalhos envolverá técnicas clássicas de otimização e no segundo trabalho será usado um método de otimização bio-inspirado. Estimula-se a comparação de resultados obtidos com duas ou mais técnicas de otimização diferentes. Os estudantes submetem dois relatórios (ou um relatório com duas partes) sobre os modelos desenvolvidos, implementados e validados.</strong></p>
+<p><strong>Esta tipologia de aulas apresenta a vantagem da inexistência de hiatos entre a apresentação dos conceitos teóricos e a sua aplicação na resolução de problemas práticos.</strong></p>
+<strong>O atendimento aos estudantes por parte dos docentes existe ao longo de todo o semestre em horário pré-estabelecido. Nas épocas de testes os docentes disponibilizam nos dias antecedentes períodos de atendimento mais prolongados. <br /></strong>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Participação presencial: 10.0 %
+- Teste: 40.0 %
+- Trabalho laboratorial: 10.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 52.0 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho laboratorial: 42.0 horas
+- Trabalho de campo: 13.0 horas
+- Trabalho de investigação: 16.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><strong>Fórmula de avaliação: </strong></p>
+<p><strong>(1) Uma prova de avaliação de conhecimentos (40%) + participação presencial nas aulas teóricas (10%) + participação nas aulas laboratoriais (10%) ;</strong></p>
+<p><strong>(2) 2 trabalhos práticos de pesquisa, definição e implementação de modelos de otimização c/ relatórios. Um dos trabalhos prático será na área dos métodos clássicos de otimização e o outro na área dos métodos de pesquisa evolucionária/intelligência de grupo.<br /></strong></p>
+<strong>Classificação final = média ponderada de (1) 60% e de (2) 40%.</strong>
+
+## Obtenção de frequência
+<p><strong>Condições de frequência: (1) Assiduidade pelas regras de avaliação da FEUP;(2) Entrega de pelo menos um dos trabalhos práticos ou de projeto (40%).</strong></p>
+
+## Melhoria de classificação
+Por exame global sobre o conteúdo programático.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Optimization of Mechanical Systems
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p><strong>The objective of the course is to teach the main concepts of optimization theory in general and the optimal design of mechanical systems in particular.</strong></p>
+<p><strong>At the end of lecture period the students should be able to perform the following aspects:</strong></p>
+<p><strong>1 - Formulate optimization problems;</strong></p>
+<p><strong>2 - Choose appropriate optimization techniques to solve problems in mechanical engineering;</strong></p>
+<p><strong>3 - Formulate and develop optimization models following appropriate methodologies aiming the optimal design of mechanical systems;</strong></p>
+<p><strong>4 - Implement optimization models and carefully analyze the results obtained.</strong></p>
+<strong>5 - Proceed with the validation of the developed models.</strong>
+
+## Resultados de aprendizagem e competências
+<p><strong>The teaching methodology adopted is based on the establishment of a relationship between the different subjects treated in order to facilitate the assimilation. The literature review and the study of articles of the specialty is encouraged with the objective of developing optimization models for the resolution of problems or synthesis works involving bibliographic review.</strong></p>
+<p><strong>Total hours for lessons: 39h</strong></p>
+<p><strong>Bibliographic review: 13h</strong></p>
+<p><strong>Formulation and resolution of optimization problems: 16h</strong></p>
+<p><strong>Definition and implementation of optimization models with programming: 42h</strong></p>
+<p><strong>Exam preparation: 52h<br /><br /></strong></p>
+<p>Computational skills:</p>
+<p><strong>Ability to develop computational models of optimal design, including their implementation and validation.</strong></p>
+<p>Experimental skills:</p>
+<p><strong>Not applicable</strong></p>
+<p>Transversal skills:</p>
+<p><strong>Knowledge of algorithms and programming languages<br /></strong></p>
+
+## Pré-requisitos e co-requisitos
+<strong>Previous knowledge of unit course of Mechanical Engineering first cycle of curricula.</strong>
+
+## Programa
+<p><strong>1.Optimization: objective function, design variables, geometric, behavioral and technological constraints. Problem formulation. Optimality conditions. Optimization models.</strong></p>
+<p><strong>2.Mathematical programming and optimality criteria. Sensitivity analysis. Penalty and Lagrangean methods.</strong></p>
+<p><strong>3.Evolutionary search: paradigms and components of bio-inspired algorithms. Genetic Algorithm: coding, operators, elitism and diversity. Memetic Algorithms: genetic evolution and learning.<br /><br />4. Introduction to swarm intelligence optimization.<br /></strong></p>
+<p><strong>5.Multiobjective optimization: Pareto front, transformation, dominance and search using evolutionary algorithms.</strong></p>
+<p><strong>6.Multidisciplinary optimization of large systems. Neural networks (optional).</strong></p>
+<strong>7.Applications: shells / plates, topology, composites, material selection, aeronautical structures, vehicle behavior, property identification, biomechanics, fluids and energy. Use of programs (Visual Studio, MATLAB) and new models with analysis and optimization.</strong>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><strong>The main objective of this curricular unit is to provide the fundamental knowledge of Optimization Theory, its methodologies and the integration of the simulation and optimization tools necessary for analysis and the optimum design of mechanical systems. To prepare the student in the application of computational models, namely finite elements and optimization, in the analysis and in the optimum design of mechanical systems.</strong></p>
+<p><strong>Thus, the syllabus described in 1, is consistent with the objective mentioned in 1. The syllabus described in points 2, 3, 4, 5 and 6 allows us to achieve the goals set forth in 2 and 3.</strong></p>
+<strong><strong>Finally, the programmatic contents defined in 7 allow us to reach the objectives established in 4 and 5.<br /><br /></strong></strong>
+<p><strong>The curricular unit works in the regime of a theoretical-practical class (TP) per week with a duration of 2 hours and 1 practical and 1 hour laboratory lecture. This typology of classes allows the teacher to devote himself in the initial part to the presentation of theoretical material, followed by practical examples of application solved by the teacher. Subsequently, the students will be proposed to formulate, develop and implement modules using a suitable programming language that address the thematic underlying theoretical content taught.</strong></p>
+<p><strong>Students are invited to develop, implement and validate two practical works on optimal design of mechanical systems using commercial software environment or using an appropriate programming language of their choice. One of the works will involve classical optimization techniques and in the second work, a bio-inspired optimization method will be used. It is encouraged the comparison of results obtained with two or more different optimization techniques. Students submit two reports (or a report with two parts) on the models developed, implemented, and validated. </strong></p>
+<p><strong>This initiative promotes a better connection of students to the curricular unit, avoiding a preparation exclusively focused on the testing period.</strong></p>
+<strong>The attendance to the students by the teachers exists throughout the semester at a pre-established time. At the test times, the teachers offer more extensive periods of service on previous days<br /></strong>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Participação presencial: 10.0 %
+- Teste: 40.0 %
+- Trabalho laboratorial: 10.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 52.0 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho laboratorial: 42.0 hours
+- Trabalho de campo: 13.0 hours
+- Trabalho de investigação: 16.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><strong>Evaluation formula:</strong></p>
+<p><strong>(1) A knowledge assessment test (40%) + face-to-face participation in lectures (10%) + participation in laboratory classes (10%) ;<br /></strong></p>
+<p><strong>(2) 2 practical works of research, definition, and implementation of optimization models with reports. One of the works is in the area of classical optimization methods and the other covering the areas of evolutionary research/swarm intelligence methods.</strong></p>
+<p><strong>The final classification = weighted average of (1) with 60% and (2) with 40%.</strong></p>
+<p><strong> </strong></p>
+
+## Obtenção de frequência
+<p><strong>Frequency conditions:(1) Class attendance according to FEUP's evaluation rules;(2) Delivery of at least one of the practical assignments (40%).</strong></p>
+
+## Melhoria de classificação
+Global examination.
+

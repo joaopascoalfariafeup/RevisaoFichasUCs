@@ -1,0 +1,108 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Introdução à Inteligência Artificial
+
+## Curso responsável
+Mestrado em Inteligência Artificial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Esta unidade curricular apresenta um conjunto de assuntos nucleares para a área da Inteligência Artificial e dos Sistemas Inteligentes.<br /><br />
+
+## Resultados de aprendizagem e competências
+Esta unidade curricular apresenta um conjunto de assuntos nucleares para a área da Inteligência Artificial (IA) e dos Sistemas Inteligentes.<br /> Os objetivos principais são:<br /> 1. Compreender os fundamentos da Inteligência Artificial e dos Sistemas Inteligentes, o que os caracteriza e distingue e qual a sua aplicabilidade.<br /> 2. Ser capaz de projetar e implementar Agentes e Sistemas Multi-Agente para resolver diferentes problemas.<br /> 3. Aprender métodos e algoritmos heurísticos e sistemáticos de resolução de problemas, com e sem adversários e algoritmos de otimização.<br /> 4. Aprender métodos de aquisição, representação e manipulação do Conhecimento impreciso utilizando diferentes formalismos.<br /> 5. Conhecer e ser capaz de aplicar algoritmos de aprendizagem com diferentes paradigmas (supervisionada, evolucionária, por reforço, em profundidade).<br /> 6. Conhecer tópicos avançados em IA e ser capaz de formular uma visão sobre o futuro da IA.<br /> 7. Desenvolver projetos simples, mas completos, usando técnicas de IA.<br /><br />
+
+## Pré-requisitos e co-requisitos
+<br /><br /><br /><br />
+
+## Programa
+1. Introdução à Inteligência Artificial (IA)<br /> Definição de IA; Fundamentos, Âmbito, Evolução e Cronologia da IA; Aplicações da IA.<br /> 2. Agentes Inteligentes<br /> Agente; Ambientes; Arquiteturas de Agentes; Sistemas Multi-Agente.<br /> 3. Métodos de Resolução de Problemas<br /> Formulação de Problemas; Espaço de Estados; Estratégias de Pesquisa; Pesquisa com Adversários e Minimax.<br /> 4.. Otimização e Meta-heurísticas Formulação de Problemas de Decisão/Otimização. Metaheurísticas; Algoritmos Genéticos; Satisfação de Restrições.<br /> 5. Engenharia do Conhecimento<br /> Aquisição, Representação e Manipulação do Conhecimento e Raciocínio.<br /> 6. Aprendizagem Computacional<br /> Aprendizagem Não Supervisionada; Supervisionada; Redes Neuronais e SVMs; Por Reforço; Profunda.<br /> 7. Tópicos Avançados de IA<br /> O Futuro da IA. IA e a Sociedade. IA Benéfica. IA Explicável; Máquinas Éticas. IA fraca/forte. Super Inteligência. Singularidade.<br /><br />
+
+## Métodos de ensino e atividades de aprendizagem
+Exposição com interação nas Aulas teóricas. Exercícios de modelação e resolução de problemas, de programação e desenvolvimento de projeto nas Aulas teórico-práticas.<br /><br />
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 horas
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 42.0 horas
+
+## Fórmula de cálculo da classificação final
+Haverá um teste e dois trabalhos práticos (ser realizados em grupos de maximo 3 alunos) <br/><br /><br />Nota Final = 0.5 x Teste + 0.25 x Trab1 + 0.25 x Trab2<br /><br />
+
+## Obtenção de frequência
+A obtenção de frequência implica nota >=7.5 em todas as componentes constituintes da avaliação distribuída (AD).<br /><br />
+
+## Melhoria de classificação
+As avaliações dos trabalhos não é passível de melhoria.<br /><br /><br /><br />
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Introduction to Artificial Intelligence
+
+## Curso responsável
+Master in Artificial Intelligence
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+This course provides a set of topics that are the core of the Artificial Intelligence and Intelligent Systems area.<br /><br />
+
+## Resultados de aprendizagem e competências
+This course provides a set of subjects (topics) that are the core of the Artificial Intelligence and Intelligent System area. The main objectives are:<br /> 1. Understand the fundamentals of Artificial Intelligence and Intelligent Systems, what characterizes and distinguishes them and their applicability.<br /> 2. Being able to design and implement Agents and Multi-Agent Systems to solve different problems.<br /> 3. To learn heuristic and systematic methods of problem solving, with and without adversaries and optimization algorithms.<br /> 4. To learn methods of acquisition, representation and reasoning with uncertain knowledge using different formalisms.<br /> 5. To know and be able to use machine-learning algorithms applying different paradigms (supervised, evolutionary, reinforcement, deep learning).<br /> 6. To understand advanced topics in Artificial Intelligence and be able to formulate a vision into the future of AI.<br /> 7. To develop simple but complete projects using AI techniques<br /><br />
+
+## Pré-requisitos e co-requisitos
+<br /><br /><br /><br />
+
+## Programa
+1. Introduction to Artificial Intelligence (AI)<br /> Definition of AI; Fundamentals, Scope, Evolution and Chronology of AI; AI Applications.<br /> 2. Intelligent Agents<br /> Concept of Agent; Environments; Agent Architectures; Multi-Agent Systems.<br /> 3. Problem Solving Methods<br /> Problem Formulation. State Space. Search Strategies and A*; Search with Adversaries and Minimax.<br /> 4. Optimization and Metaheuristics<br /> Formulation of Decision/Optimization Problems; Metaheuristics; Genetic Algorithms; Constraint Satisfaction.<br /> 5. Knowledge Engineering<br /> Knowledge Acquisition, Representation and Reasoning.<br /> 6. Machine Learning<br /> Unsupervised Learning; Supervised Learning; Neural Networks and Support Vector Machines; Reinforcement Learning; Deep Learning.<br /> 7. Advanced Topics in Artificial Intelligence<br /> The Future of AI. IA and the Society. Beneficial IA. Explainable AI, Machine Ethics. Weak and Strong IA. Super Intelligence. The Singularity.<br /><br />
+
+## Métodos de ensino e atividades de aprendizagem
+Theoretical classes: exposition with interaction. Theoretical-practical classes: modeling, problem-solving, programming exercises and project development.<br /><br />
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 hours
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 42.0 hours
+
+## Fórmula de cálculo da classificação final
+There will be a test and two practical assignments (to be carried out in groups of max. 3 students) <br/><br /><br />Final Mark = 0.5 x Test+ 0.25 x Assignment1 + 0.25 x Assignment2<br />
+
+## Obtenção de frequência
+To be admitted in the assessment process, students must reach markings >=7.5 in the continuous assessment (CA) components.<br /><br /><br />
+
+## Melhoria de classificação
+Project evaluations cannot be improved.<br /><br /><br /><br />
+

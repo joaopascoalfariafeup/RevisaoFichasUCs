@@ -1,0 +1,147 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Algoritmos e Estruturas de Dados
+
+## Curso responsável
+Licenciatura em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>No final da unidade curricular, os estudantes deverão ser capazes de:</p>
+<ol style="list-style-type: lower-alpha;">
+<li>analisar a complexidade temporal e espacial de algoritmos;</li>
+<li>analisar a correção de algoritmos simples;</li>
+<li>conhecer os principais algoritmos de pesquisa e ordenação e a sua complexidade;</li>
+<li>compreender o conceito de tipo abstrato de dados e saber organizar programas em torno desse conceito;</li>
+<li>conhecer as estruturas de dados fundamentais (e algoritmos associados e respetiva complexidade) usadas para implementar eficientemente tipos abstratos de dados comuns em bibliotecas de coleções;</li>
+<li>saber escolher coleções, estruturas de dados e algoritmos apropriados para resolver problemas práticos;</li>
+<li>escrever programas em C++ que implementam e usam as estruturas de dados e algoritmos fundamentais.</li>
+</ol>
+
+## Resultados de aprendizagem e competências
+<p>No final da unidade curricular, os estudantes deverão ter competência para: modelar problemas recorrendo ao paradigma da orientação por objetos; resolver problemas fazendo uso de tipos de dados abstratos e estruturas de dados simples lineares e não lineares.</p>
+
+## Pré-requisitos e co-requisitos
+<p>O estudante deve possuir conhecimentos básicos de programação e linguagem C++.</p>
+
+## Programa
+<p>Conceitos e técnicas básicas: complexidade temporal e espacial de algoritmos; tipos abstratos de dados; análise da correção de algoritmos.<br />Algoritmos de pesquisa e ordenação em arrays. <br />Estruturas de dados lineares e sua implementação: pilhas, filas e listas.<br />Estruturas de dados hierárquicos e sua implementação: árvores binárias; árvores binárias de pesquisa; árvores binárias equilibradas. Aplicações.<br />Tabelas de dispersão e algoritmos de manipulação.<br />Filas de prioridade e <em>heaps</em> binários.<br />Algoritmos básicos em grafos: tipos de grafos; representação; pesquisa em largura e em profundidade. Aplicações: ordenação topológica; ciclos; conetividade.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas teóricas são usadas para exposição formal da matéria, acompanhada da apresentação de exemplos e sua discussão.</p>
+<p>Nas aulas práticas são resolvidos exercícios, em particular, de programação em C++, sendo os exercícios focados em temas tratados nas aulas teóricas.</p>
+<p>A avaliação é realizada ao longo do semestre, em datas previamente anunciadas, onde os estudantes são continuamente avaliados a nível teórico e prático. Ao longo do semestre são realizados três pontos de avaliação individual: 2 testes práticos e 1 exame final escrito.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Teste: 25.0 %
+- Trabalho laboratorial: 5.0 %
+- Exame: 70.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 55.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho laboratorial: 55.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação será baseada nas seguintes componentes:</p>
+<p>- <strong data-stringify-type="bold">NP:</strong> nota prática, valendo 30% da nota final, obtida através de 3 componentes: 2 testes práticos de programação (2.5 valores cada) e uma componente contínua de resolução de exercícios ao longo do semestre (1 valor). Nota mínima: P&gt;=1.5 (escala de 0 a 6).</p>
+<p><em>Será oferecido um teste prático extra antes dos exames para dar uma possibilidade de atingir a nota prática mínima a quem não a tiver atingido anteriormente.</em></p>
+<p>- <strong data-stringify-type="bold">EN:</strong> nota do exame de época normal, valendo 70% da nota final, obtida através de um exame escrito com nota de 0 a 20.</p>
+<p>Classificação da época normal: C = EN*0.7 + NP &#8805; 9.5</p>
+<p>- <strong data-stringify-type="bold">ER:</strong> na época de recurso será feito feito um único exame, com nota de 0 a 20, não sendo possível repetir o teste prático de programação ou as submissões.</p>
+<p>Classificação da época de recurso: C = ER*0.7 + NP &#8805; 9.5</p>
+
+## Obtenção de frequência
+<p>Condições para obtenção de frequência: não exceder o limite de faltas estabelecido nas normas gerais (25% do número de aulas práticas e teórico-práticas previstas)</p>
+
+## Melhoria de classificação
+<p>Na época de recurso da apenas pode ser melhorada a componente de exame (EN).</p>
+<p>Estudantes do ano anterior podem manter a nota dos testes práticos desse ano (componente CIP), que será convertida na nota NP, que vale 30% da nota final.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Algorithms and Data Structures
+
+## Curso responsável
+Bachelor in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>At the end of the course, students should be able to:</p>
+<ol style="list-style-type: lower-alpha;">
+<li>analyze the temporal and spatial complexity of algorithms;</li>
+<li>analyze the correctness of simple algorithms;</li>
+<li>know the main search and sorting algorithms and their complexity;</li>
+<li>understand the concept of abstract data type and know how to organize programs around this concept;</li>
+<li>know the fundamental data structures (and associated algorithms and respective complexity) used to efficiently implement common abstract data types in collection libraries;</li>
+<li>choose appropriate collections, data structures and algorithms to solve practical problems;</li>
+<li>write programs in C++ that implement and use the fundamental data structures and algorithms.</li>
+</ol>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of this unit course, students should: model problems following the object-oriented paradigm; solve problems using abstract data types and simple data structures (linear and non linear).</p>
+
+## Pré-requisitos e co-requisitos
+<p><span id="result_box" lang="en"><span class="hps">Student should</span> <span class="hps">have basic knowledge</span> <span class="hps">of</span> <span class="hps">programming and</span> <span class="hps">C</span><span class="hps">++</span>.</span></p>
+
+## Programa
+Basic concepts and techniques: space and time complexity of algorithms; abstract data types; analysis of algorithm correctness.<br />Arrays searching and sorting algorithms.<br />Linear data structures and their implementation: lists, stacks, and queues.<br />Hierarchical data structures and their implementation: binary trees; binary search trees; balanced binary trees. Applications.<br />Hash tables and related algorithms.<br />Priority queues and binary heaps.<br />Basic graph algorithm: types of graphs; representation; depth-first and breadth-first search. Applications: topological sorting; cycles; connectivity.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical classes are for formal exposition of the subjects, with the presentation of examples and their analysis and discussion.</p>
+<p>In practical classes exercises are solved, mainly, programming exercises in C ++, that focus on topics addressed in the theoretical classes.</p>
+<p>The assessment is carried out throughout the semester, on previously announced dates, where students are continuously evaluated at the theoretical and practical level. During the semester, there are three individual assessment points: 2 practical tests and 1 final written exam.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Teste: 25.0 %
+- Trabalho laboratorial: 5.0 %
+- Exame: 70.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 55.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho laboratorial: 55.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Final mark is computed up from:</p>
+<p>- <strong>NP:</strong> practical grade, worth 30% of the final grade. Obtained with 3 components: 2 practical tests (2.5 points each) and continuous evaluation solving exercises during the semester (1 point). Required P&gt;=1.5 (scale from 0 to 6).</p>
+<p><em> There will be an extra practical test before the exams in which students with less than practical minimum grade can try to reach that mininum grade.</em></p>
+<p>- <strong>EN:</strong> "normal" exam grade, worth 70% of the final grade, obtained with a written exam with a grade from 0 to 20.</p>
+<p>"Normal" season classification: C = EN*0.7 + NP &#8805; 9.5</p>
+<p>- <strong>ER:</strong> on the "appeal" season, a single exam will be made, with a grade from 0 to 20, and it is not possible to repeat the practical prigramming tests.</p>
+<p>"Appeal" season classification: C = ER*0.7 + NP &#8805; 9.5</p>
+
+## Obtenção de frequência
+<p>Conditions to obtain eligibility for exams: do not exceed the absence limit (25% of practical classes)  </p>
+
+## Melhoria de classificação
+<p>On the appeal season only the exam component can be improved (EN).</p>
+<p>Students from the previous year can keep the practical tests grade from that year (IPC component), which will be converted to the NP component, which is worth 30% of the final grade.</p>
+

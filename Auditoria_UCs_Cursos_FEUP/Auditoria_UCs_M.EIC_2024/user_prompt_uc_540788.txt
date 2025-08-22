@@ -1,0 +1,150 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Computação Heterogénea Eficiente
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p><span style="font-weight: 400;">Esta unidade curricular abrange todos os estágios do projeto de aplicações para sistemas heterogéneos (plataformas heterogéneas de múltiplos núcleos/processadores, GPGPUs e/ou aceleradores  baseados em FPGA). Além do componente de exposição de exemplos e casos de uso, uma componente importante para a aquisição de conhecimento é a execução de um projeto por grupos de estudantes.</span></p>
+<p><span style="font-weight: 400;">A exposição dos tópicos e sua prática contribuem decisivamente para permitir que os estudantes alunos se familiarizem com o conjunto de conhecimentos relativos a sistemas heterogéneos.</span></p>
+<p><span style="font-weight: 400;">O conteúdo abordado no plano de estudos contribuirá fortemente para as competências descritas.</span></p>
+
+## Resultados de aprendizagem e competências
+<ol><br /><li><span style=&quot;font-weight: 400;&quot;>Descrever e explicar os processos, metodologias e melhores práticas associadas ao desenvolvimento de aplicações no contexto de sistemas de computação heterogéneos de alto desempenho;</span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Descrever e explicar os diferentes estágios do processo para mapear uma aplicação para arquiteturas heterogéneas;</span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Identificar os principais problemas e desafios no mapeamento e otimização de aplicações;</span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Realizar o ajuste de uma aplicação de acordo com requisitos específicos, como desempenho e consumo de energia;</span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Explicar e aplicar um conjunto abrangente de transformações de código fonte a fonte para o mapeamento e ajuste de códigos de aplicações em sistemas heterogéneos de alto desempenho;</span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Descrever e selecionar as ferramentas disponíveis para ajudar a ajustar e mapear uma aplicação para um sistema de computação com vários núcleos heterogéneos / homogéneos;</span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Analisar exemplos de aplicações da vida real para descobrir métodos para mapear e ajustar as suas próprias aplicações.</span></li><br /></ol>
+
+## Pré-requisitos e co-requisitos
+Arquitectura de Computadores;<br />Compiladores;<br />Programação;<br />Algoritmos e Estruturas de Dados;<br />Computação e/ou Programação Paralela;
+
+## Programa
+<p><span style="font-weight: 400;">M1. Introdução às plataformas de computação heterogéneas.</span></p>
+<p><span style="font-weight: 400;">M2. Computação embarcada de alto desempenho: arquiteturas alvo; aceleradores de hardware; modelos de desempenho, potência e energia; transformações e ajustes para arquiteturas heterogéneas.</span></p>
+<p><span style="font-weight: 400;">M3. O ciclo de projeto e desenvolvimento.</span></p>
+<p><span style="font-weight: 400;">M4. Análise e instrumentação do código fonte: métricas de complexidade do código fonte; criação de perfis de código de aplicação ao nível de fonte; métricas par &#8220;loop tracing&#8221;.</span></p>
+<p><span style="font-weight: 400;">M5. Transformações e otimizações do código fonte: transformações básicas; transformações par ciclos; transformações baseadas em funções; particionamento.</span></p>
+<p><span style="font-weight: 400;">M6. Otimizações de compilador: especialização de código; otimizações de tempo de execução.</span></p>
+<p><span style="font-weight: 400;">M7. &#8220;Retargeting&#8221; de código: diretivas do compilador e &#8220;pragmas&#8221;; mapeamento para sistemas com vários núcleos, GPU e FPGA.</span></p>
+<p><span style="font-weight: 400;">M8 Tópicos avançados: adaptação em tempo de execução; Auto-ajuste de desempenho / energia; exploração do espaço de projeto.</span></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-weight: 400;">Aulas teóricas: exposição dos assuntos, acompanhada por exemplos e pela apresentação de pistas para resolução dos problemas das aulas práticas e do trabalho prático. Aulas teórico-práticas: resolução de problemas e discussão de questões relacionadas com o trabalho prático.</span></p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 25.0 %
+- Trabalho prático ou de projeto: 60.0 %
+- Apresentação/discussão de um trabalho científico: 15.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 35.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 75.0 horas
+- Apresentação/discussão de um trabalho científico: 10.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Cálculo da Classificação FInal:</p>
+<ul>
+<li>Projecto (PRJ) [0..20]</li>
+<li>Apresentação e discussão de um artigo científico (PAPER) [0..20]</li>
+<li>EX: classificação no teste (EX1) ou no exame de recurso (EX2) [0..20]</li>
+<li>Classificação FInal (FG) = ROUND (0.60 * AD + 0.15 * PAPER + 0.25 * EX)</li>
+</ul>
+<p>Condições de aprovação:</p>
+<ul>
+<li>não exceder o limite de faltas (3) às aulas e</li>
+<li>PROJ &gt;= 10,0 e</li>
+<li>EX1 ou EX2 &gt;= 8,0 e</li>
+<li>Classificação Final (FG) &gt;= 10</li>
+</ul>
+
+## Obtenção de frequência
+<p><span style="font-weight: 400;">Condições de Frequência: a) Trabalho prático com aproveitamento igual ou superior a 50%<br /><br /></span>Não ultrapassar limite máximo (3) de faltas nas aulas TP</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Efficient Heterogeneous Computing
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p><span style="font-weight: 400;">This course covers all the stages of the application design flow for heterogeneous systems (heterogeneous multi-core/multi-processor, GPGPU, FPGA-based accelerators). Besides the exposition component of examples and use cases in this course, an important component for the acquisition of knowledge is through the execution of a project by groups of students.</span></p>
+<p><span style="font-weight: 400;">The exposure of the topics and their practice contribute decisively to enable students to familiarize themselves with the body of knowledge related to heterogeneous systems.</span></p>
+<p><span style="font-weight: 400;">The content covered in the syllabus will strongly contribute to the competencies described.</span></p>
+
+## Resultados de aprendizagem e competências
+<ol><br /><li><span style=&quot;font-weight: 400;&quot;>Describe and explain the processes, methodologies, and best practices associated to the development of applications in the context of heterogeneous high-performance computing systems;</span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Describe and explain the different stages of the process to map an application to heterogeneous architectures;</span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Identify the main problems and challenges on mapping and optimizing applications;</span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Carry out the tuning of an application according to specific requirements such as performance and energy consumption;</span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Explain and apply a comprehensive set of source-to-source code transformations for the mapping and tuning of applications codes to heterogeneous high-performance computing systems;</span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Describe and select available tools to help tuning and mapping an application to a computing system, possibly consisting of multiple heterogeneous/homogeneous cores;</span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Analyze real-life application examples to uncover methods to map and tune their own applications.</span></li><br /></ol>
+
+## Pré-requisitos e co-requisitos
+Computer Architecture;<br />Compilers;<br />Programming;<br />Data Structures and Algorithms;<br />Parallel Computing and/or Programming;
+
+## Programa
+<p><span style="font-weight: 400;">M1. Introduction to Heterogeneous Computing Platforms.</span></p>
+<p><span style="font-weight: 400;">M2.  High Performance Embedded Computing: Target Architectures; Hardware Accelerators; Performance, Power and Energy Models; Transformations and Tuning for Heterogeneous Architectures.</span></p>
+<p><span style="font-weight: 400;">M3. Controlling the Design and Development Cycle.</span></p>
+<p><span style="font-weight: 400;">M4.  Source Code Analysis and Instrumentation: Source Code Complexity Metrics; Source Level Application Code Profiling; Tracing Loop Metrics.</span></p>
+<p><span style="font-weight: 400;">M5.  Source Code Transformations and Optimizations:  Basic Transformations; Loop-based Transformations; Function-based Transformations; Partitioning.</span></p>
+<p><span style="font-weight: 400;">M6.   Compiler Optimizations: Code Specialization; Runtime Aware Optimizations.</span></p>
+<p><span style="font-weight: 400;">M7.   Code Retargeting: Compiler Directives and Pragmas; Mapping to Multi-Core, GPU-based and FPGA-based Systems.</span></p>
+<p><span style="font-weight: 400;">M8.   Advanced Topics:  Runtime Adaptability; Performance/Energy Auto-Tuning; Design Space Exploration.</span></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-weight: 400;">Lectures: presentation of subject matter, accompanied by examples and clues to solve the problems of practical sessions and practical work. Theoretical-practical classes: problem solving and discussion of practical work issues.</span></p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 25.0 %
+- Trabalho prático ou de projeto: 60.0 %
+- Apresentação/discussão de um trabalho científico: 15.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 35.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 75.0 hours
+- Apresentação/discussão de um trabalho científico: 10.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Calculation formula of final grade:</p>
+<ul>
+<li>Project (PRJ) [0..20]</li>
+<li>Presentation and discussion of a scientific paper (PAPER) [0..20]</li>
+<li>EX: grade in the midterm exam (EX1) or in the &#8220;recurso&#8221; exam (EX2) [0..20]</li>
+<li>Final grade (FG) = ROUND (0.60 * AD + 0.15 * PAPER + 0.25 * EX)</li>
+</ul>
+<p>Approval Conditions:</p>
+<ul>
+<li>Do not exceed maximum limit (3) of absences in classes, and</li>
+<li>PROJ &gt;= 10.0, and</li>
+<li>EX1 or EX2 &gt;= 8.0, and</li>
+<li>Final Grade (FG) &gt;= 10</li>
+</ul>
+
+## Obtenção de frequência
+<p><span style="font-weight: 400;">Frequency Conditions: a) Practical work with 50% or better;<br /><br /></span>Do not exceed maximum limit (3) of absences in TP classes.</p>
+

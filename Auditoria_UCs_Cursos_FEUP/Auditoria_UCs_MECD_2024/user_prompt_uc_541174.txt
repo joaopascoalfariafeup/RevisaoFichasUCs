@@ -1,0 +1,110 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Tópicos Avançados de Aprendizagem Computacional
+
+## Curso responsável
+Mestrado em Engenharia e Ciência de Dados
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+Capacidade de trabalhar em equipa, organização e planeamento. <br />Capacidade de analisar e sintetizar conhecimento. <br />Capacidade de desenvolver sistemas de aprendizagem computacional de acordo com as necessidades existentes e aplicar as ferramentas tecnológicas mais apropriadas. Conhecer, aplicar e avaliar modelos avançados de aprendizagem computacional.<br />Conhecer técnicas de aprendizagem profunda, com abordagens de treino &#8216;end-to-end&#8217;, e minimizando o uso de dados etiquetados. Resolver aplicações utilizando métodos de autoaprendizagem. Adquirir capacidades de aprendizagem que permitam continuar a estudar de uma forma autónoma.
+
+## Resultados de aprendizagem e competências
+Conhecer técnicas de aprendizagem profunda, com abordagens de treino &#8216;end-to-end&#8217;, e minimizando o uso de dados anotados. Resolver aplicações utilizando métodos de autoaprendizagem. Adquirir capacidades de aprendizagem que permitam continuar a estudar de uma forma autónoma.
+
+## Programa
+Aprendizagem profunda. Modelos profundos.<br />Redes neuronais convolucionais profundas. Técnicas de regularização. Técnicas de otimização. Treino &#8216;end-to-end&#8217;.<br />Automodeladores. Modelos generativos. Aplicação a Visão por Computador.<br /><br />Aprendizagem com uso eficiente de dados. Aprendizagem fracamente supervisionada. Aprendizagem multi-tarefa. Aprendizagem por transferência.<br /><br />Modelos para dados sequenciais. Modelos de Markov Escondidos. Redes Neuronais recorrentes. Aplicação a NLP.<br /><br />Modelos baseados em atenção. Transformers e grandes modelos de linguagem.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Palestras participativas, seminários e conferências, aprendizagem com base na resolução de casos práticos e projetos, trabalho autônomo e estudo independente pelos estudantes, trabalho em grupo e aprendizagem cooperativa.</p>
+<p>Os assuntos serão abordados em palestras participativas, onde os alunos terão a oportunidade de implementar métodos por si próprios. Durante a parte da palestra, os tópicos do curso serão apresentados e discutidos. Os períodos práticos / laboratoriais serão usados para resolver exercícios e para o desenvolvimento dos trabalhos de avaliação.</p>
+Os alunos receberão tarefas de casa individuais semanais durante toda a duração do curso, envolvendo exercícios, leituras e sumarização de textos selecionados.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 5.0 %
+- Trabalho escrito: 30.0 %
+- Teste: 35.0 %
+- Trabalho prático ou de projeto: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 70.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho escrito: 40.0 horas
+
+## Fórmula de cálculo da classificação final
+Durante as aulas, serão propostos pequenos questionários de escolha múltipla (<em>quizzes</em>), com um peso de 5% na Classificação Final. Os alunos terão trabalhos para resolver fora do horário das aulas, envolvendo exercícios sobre os tópicos abordados nas aulas. Esta componente corresponde a 30% da Classificação Final. O trabalho prático consistirá num projeto cobrindo os tópicos do curso, correspondendo a 30% da Classificação Final. O teste tem um peso de 35% da nota final.<br /><br /><strong>A Classificação Final só é válida caso o estudante obtenha pelo menos 35% da nota máxima possível na componente &quot;Teste&quot;.<br /><br />Conforme previso nas normas gerais de avaliação da FEUP, a aprovação à Unidade Curricular implica a obtenção de uma Classificação Final igual ou superior a 10 valores em 20.</strong>
+
+## Obtenção de frequência
+Conforme o disposto nas normas gerais de avaliação da FEUP.
+
+## Melhoria de classificação
+A avaliação do teste poderá ser melhorada no exame de recurso. A melhoria das restantes componentes é possível, mas deverá ser realizada no ano seguinte à obtenção de aprovação à unidade curricular e consiste nas correspondentes componentes de avaliação a realizar pelos alunos desse novo ano.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Advanced Topics on Machine Learning
+
+## Curso responsável
+Master in Data Science and Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+Ability to work in a team, organize and plan.<br />Ability to analyze and synthesize knowledge.<br />Ability to develop machine learning systems according to existing needs and apply the most appropriate technological tools. Knowledge, application and evaluation of advanced learning models.<br />Know deep learning techniques, with end-to-end training approaches and minimizing the use of tagged data. Solve applications using advanced machine learning techniques. Acquire the learning skills to continue learning in a largely self-directed or autonomous manner.
+
+## Resultados de aprendizagem e competências
+Know deep learning techniques, with end-to-end training approaches and minimizing the use of annotated data. Solve applications using advanced machine learning techniques. Acquire the learning skills to continue learning in a largely self-directed or autonomous manner.
+
+## Programa
+Deep Learning. Deep Models.<br />Deep Convolutional Neural Networks. Regularization techniques. Optimization techniques. End to end training.<br />AutoEncoders. Generative Models. Application to Computer Vision.<br /><br />Data efficient learning. Weakly supervised learning. Multitask learning. Transfer Learning.<br /><br />Models for sequential data. Hidden Markov Models. Recurrent Neural Networks.<br />Application to NLP.<br /><br />Attention-based models. Transformers and large language models.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Participatory lectures, seminars and conferences, learning based on the resolution of practical cases and projects, autonomous work and independent study by students, group work and cooperative learning.</p>
+<p>Topics will be covered in participatory lectures, where students will have the chance to implement methods for themselves. During the lecture part, the course topics will be presented and discussed. The practical/lab periods will be used for solving exercises and for the development of the assignments.</p>
+Students will be assigned weekly individual homework assignments during the whole duration of the course, involving exercises, readings and summarization of selected texts.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 5.0 %
+- Trabalho escrito: 30.0 %
+- Teste: 35.0 %
+- Trabalho prático ou de projeto: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 70.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho escrito: 40.0 hours
+
+## Fórmula de cálculo da classificação final
+Short multiple-choice questionnaires (quizzes) will be proposed during lessons, with a weight of 5% in the final grade. Students will also have homework assignments, involving exercises on the topics covered in class. This component accounts for 30% of the final grade. The practical work will consist of a project covering the topics of the course, corresponding to 30% of the final grade. The test accounts for 35% of the final grade.<br /><br /><strong>The final grade is valid only if the student achieves at least 35% of the maximum grade in the &quot;Test&quot; component.<br /><br />As stated in the General Evaluation Rules of FEUP, passing the course implies obtaining a final grade equal to or higher than 10 out of 20.<br /></strong>
+
+## Obtenção de frequência
+Admission criteria set according to General Evaluation Rules of FEUP.
+
+## Melhoria de classificação
+The test grade may be improved in the appeal exam. Improvement of the remaining components is possible but must be carried out in the year following the approval of the curricular unit and consists of the corresponding assessment components to be carried out by the students of that new year.
+

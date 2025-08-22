@@ -1,0 +1,110 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Estruturas Discretas
+
+## Curso responsável
+Licenciatura em Ciência de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>Estudo das estruturas discretas fundamentais que estão na base formal da área de Ciência de Computadores/Informática.</p>
+
+## Resultados de aprendizagem e competências
+<p>A frequência desta disciplina deve desenvolver as seguintes aptidões:</p>
+<ul>
+<li>Capacidade de trabalhar com notação matemática e com os principais conceitos de matemática discreta;</li>
+<li>Construir e compreender provas matemáticas;</li>
+<li>Utilizar conceitos matemáticos para formalisar e resolver problemas comuns em Ciência de Computadores/Informática.</li>
+</ul>
+
+## Programa
+<ol><br /><li>Teoria de conjuntos: conjuntos e subconjuntos, operações de conjuntos, diagramas de Venn.</li><br /><li>Indução matemática: indução matemática, definições por recursão.</li><br /><li>Tópicos elementares de lógica: cálculo proposicional, álgebra booleana, equivalência lógica, regras de inferência, breve introdução ao cálculo de predicados.</li><br /><li>Números inteiros: o algoritmo da divisão, números primos, máximos divisor comum e algoritmo de euclides, o teorema fundamental da aritmética.</li><br /><li>Relações: Produtos cartesianos e relações, propriedades de relações, funções, representações computacionais de relações, ordens parciais, relações de equivalência e partições, aritmética modular.</li><br /><li>Contagem: somas e productos, permutações, combinações, coeficientes binomiais.</li><br /><li>Grafos: definições e exemplos, subgrafos, grafos complementares e grafos isomorfos, graus de vérices, grafos planares, caminhos e ciclos hamiltonianos.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teóricas de exposição dos conteúdos programático assim como de exemplos e casos de estudo. Aulas práticas de resolução de exercícios propostos semanalmente.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 114.0 horas
+- Frequência das aulas: 48.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><br />Primeiro teste (1/2 de peso na nota final).<br />Segundo teste (1/2 de peso na nota final). <br />Sendo PT a classificação obtida  no primeiro teste, ST a<br />classificação obtida no segundo teste, então a nota final é dada por:<br />F = PT*(1/2) + ST*(1/2) <br />PT,ST &gt;= 6 e F &gt;= 9.5<br /><br />Não obterão aprovação na avaliação distribuída, os alunos que não obtiverem um mínimo de 6 valores (em 20) em cada teste. <br /><br />Todos os estudantes com frequência podem realizar o exame de recurso cotado para 20 valores.</p>
+<p> </p>
+
+## Obtenção de frequência
+Perderão frequência (sem poder portanto ser admitidos à avaliação) os alunos que não tenham estado presentes a pelo menos 3/4 das aulas práticas.
+
+## Melhoria de classificação
+<p>O exame de melhoria de nota é classificado para 20 valores.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Discrete Structures
+
+## Curso responsável
+Bachelor in Computer Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p><span id="internal-source-marker_0.7992817972558713" style="font-size: 12px; font-family: Arial; color: #666666; background-color: transparent; font-variant: normal; text-decoration: none; vertical-align: baseline;">Study of the fundamental discrete structures that serve as a theoretical basis for the area of Computer Science/Informatics.  </span><br /><br style="font-size: 12px; font-family: Arial; color: #666666; background-color: transparent; font-variant: normal; text-decoration: none; vertical-align: baseline;" /></p>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-size: 12px; font-family: Arial; color: #666666; background-color: transparent; font-variant: normal; text-decoration: none; vertical-align: baseline;">After taking the course the students should be capable of:<br /></span></p>
+<ul>
+<li><span style="color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px;">Work with mathematical notation and common concepts in discrete mathematics;</span></li>
+<li>Construct and understand mathematical proofs;</li>
+<li>Use mathematical concepts to formalise and solve problems in Computer Science/Informatics.</li>
+</ul>
+<p> </p>
+
+## Programa
+<ol><br /><li>Set theory: sets and subsets, set operations, Veen diagrams.</li><br /><li>Mathematical induction: mathematical induction, recursive definitions.</li><br /><li>Elementary topics in logic: propositional calculus, boolean algebra, logic equivalence, inference rules, brief introduction to predicate calculus.</li><br /><li>Integer numbers: the division algorithm, prime numbers, the greatest comum divisor and Euclid&#8217;s algorithm, the fundamental theorem of arithmetic.</li><br /><li>Relations: cartesian products and relations, properties, functions, computational representations of relations, partial orders, equivalence relations and partitions, modular arithmetic.</li><br /><li>Counting:  sums and products, permutations and combinations, binomial coefficients.</li><br /><li>Graphs: definitons and examples, sub-graphs, complement and isomorphic graphs, degree of a vertex, planar graphs, Eulerian paths and Hamiltonian cicles in graphs. </li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Lectures: exposition of the elements in the syllabus as well as of examples and case studies.<br />Tutorial classes: resolution of exercises proposed each week.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 114.0 hours
+- Frequência das aulas: 48.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><span lang="en-US">The final grade (FT - firts test, ST - second test)<br />F = FT*(1/2) + ST*(1/2)<br /></span><span lang="en-US">FT,ST &gt;= 6 e F &gt;= 9.5</span></p>
+
+## Obtenção de frequência
+Students are required a minumum of 6 (out of 20) in each test. To be admited to exam  a student must attend at least of 3/4 of all lab classes. All the studens with sufficient attendency can take the resit exam.
+
+## Melhoria de classificação
+Final exam
+

@@ -1,0 +1,122 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Dinâmica de Estruturas Computacional
+
+## Curso responsável
+Mestrado em Mecânica Computacional
+
+## Créditos ECTS
+7,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+A disciplina tem por objectivos permitir que os estudantes desenvolvam conhecimentos:<br /><br />&#8226; que permitam a compreensão da fenomenologia das vibrações mecânicas; <br />&#8226; sobre métodos - incluindo métodos que se usam em mecânica computacional - para obter equações de movimento de estruturas e de sistemas mecânicos; <br />&#8226; sobre métodos, incluindo métodos computacionais, de resolução de equações de movimento; <br />&#8226; que permitam a análise e caracterização do movimento oscilatório de sistemas mecânicos e de estruturas.
+
+## Resultados de aprendizagem e competências
+<p>No final do período lectivo pretende-se que o\a estudante:</p>
+<ul>
+<li>conheça os conceitos básicos e a terminologia da teoria das vibrações mecânicas;</li>
+<li>conheça o comportamento tipo de sistemas canónicos;</li>
+<li>seja capaz de estabelecer modelos físicos/matemáticos discretos e contínuos unidimensionais para análise da vibração de sistemas mecânicos e estruturas, se necessário, recorrendo a métodos computacionais;</li>
+<li>saiba aplicar adequados métodos de solução, incluindo métodos computacionais, para determinação das características dinâmicas e da resposta de estruturas e de sistemas mecânicos sujeitos a solicitações dinâmicas;</li>
+<li>tenha conhecimentos úteis para o dimensionamento de sistemas mecânicos e de estruturas segundo critérios de comportamento dinâmico.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+&#8226;Os estudantes devem possuir alguns conhecimentos de cálculo vectorial e matricial, de resolução de equações diferenciais, e de integração.
+
+## Programa
+<p>Vibrações mecânicas</p>
+<p>Definição; exemplos na indústria e natureza; razões pelas quais é importante estudar vibrações. Componentes de um sistema vibratório típico.<br /><br /></p>
+<p> Equações do movimento de Sistemas Discretos</p>
+<p>Teoremas vectoriais da dinâmica. Linearização da equação de movimento. Princípio dos trabalhos virtuais. Energia cinética e potencial. Função de dissipação de Rayleigh. Coordenadas generalizadas e forças generalizadas. Equações de Lagrange.</p>
+<p><strong> </strong></p>
+<p>Vibrações de sistemas com 1 grau de liberdade</p>
+<p>Regime livre/natural: equação de movimento; resposta livre/natural; sistema não amortecido; frequência natural de vibração; sistema sub-amortecido; frequência natural amortecida; decremento logarítmico; sistema criticamente amortecido e sistema sobre-amortecido.</p>
+<p>Regime forçado: regime forçado harmónico (activo); resposta transitória e resposta estacionária; factor de amplificação dinâmica; frequência de ressonância; transmissibilidade de força. Resposta a uma excitação genérica pelo integral de Duhamel.<br /><br /></p>
+<p>Vibrações de sistemas com n graus de liberdade</p>
+<p>Equação matricial de movimento, vibração livre não amortecida, frequências e formas naturais de vibração, ortogonalidade dos vectores modais. Determinação de frequências e formas naturais de vibração: método da iteração de vectores, método de Jacobi. Decomposição de Choleski. Resposta a uma excitação harmónica, absorsor de vibrações, resposta a uma excitação genérica, coordenadas naturais, análise modal. Integração numérica das Equações do movimento: método das diferenças finitas centradas; método da aceleração linear; método de Wilson-teta; método de Newmark.</p>
+<p> </p>
+<p>Vibrações de sistemas contínuos</p>
+<p>Vibração de torção de veios, vibração longitudinal de barras e vibração de flexão de vigas. Solução geral do regime livre. Condições de fronteira. Frequências naturais e formas naturais. Propriedades de ortogonalidade.<br /><br /></p>
+<p>Métodos de aproximação em sistemas contínuos</p>
+<p>Método de Rayleigh. Método de Rayleigh-Ritz. Método de Galerkin. Método dos elementos finitos aplicado a elementos unidimensionais.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>&#8226;Aulas teóricas de exposição do conteúdo programático e de discussão de problemas tipo.</p>
+<p>&#8226;Aulas teórico-práticas de resolução de exercícios propostos, por vezes com recurso ao computador, e de apoio à resolução de trabalhos práticos computacionais.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Trabalho escrito: 30.0 %
+
+## Fórmula de cálculo da classificação final
+<p>Se o\a estudante tiver obtido uma classificação igual ou superior a 8 (7.5) valores tanto nos trabalhos como no exame, então a classificação final será igual à média ponderada das classificações dos trabalhos realizados ao longo do semestre (30%) e da classificação obtida no exame (70%).<br /><br />Se a classificação mínima de 8 (7.5) valores não for atingida nalguma das vertentes da avaliação, então a o\a estudante terá uma classificação final inferior ou igual a nove (9) valores.<br /><br /></p>
+<p>Para obter aprovação, é necessário ter 10 (9.5) ou mais valores de média.</p>
+
+## Obtenção de frequência
+Inscrição e número de faltas não superior ao máximo permitido pelas normas em vigor na FEUP.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computational Structural Dynamics
+
+## Curso responsável
+Master in Computational Mechanics
+
+## Créditos ECTS
+7,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+The goals of this subject are that the students develop knowledge that allows them to:<br /><br /><ul><br /><li>understand the physics of mechanical vibrations;</li><br /><li>apply methods - including methods that are used in computational mechanics - to obtain equations of motion of structures and mechanical systems;</li><br /><li>apply methods, including computational methods, for solving equations of motion;</li><br /><li>analyse and characterize the oscillatory motion of mechanical systems and structures.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<p>It is intended that, at the end of the semester, the student:</p>
+<ul>
+<li>knows the basic concepts and terminology of mechanical vibration theory;    </li>
+<li>knows the standard behaviour of typical systems;  </li>
+<li>is able to establish discrete and continuous (one-dimensional) physical/mathematical models for the analysis of vibrations of mechanical systems and structures, using analytical and computational methods;  </li>
+<li>is able to apply suitable methods of solution, including computational methods, to determine the dynamic characteristics and the response of structures and mechanical systems subject to dynamic excitations;    </li>
+<li>has knowledge that is useful for the design of mechanical systems and structures according to criteria related to dynamic behaviour.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<div><br /><div id=&quot;tw-target&quot;><br /><div id=&quot;tw-target-text-container&quot;><br /><p id=&quot;tw-target-text&quot; dir=&quot;ltr&quot; data-placeholder=&quot;Translation&quot;><span lang=&quot;en&quot;>&#8226; Students must have knowledge of vector and matrix <br />calculus, solution of linear differential equations and<br />integration.</span></p><br /></div><br /></div><br /></div>
+
+## Programa
+Mechanical vibration<br />Definition; examples in industry and nature; why it is important to study vibrations. Components of a typical vibrating system. <br /><br />Equations of motion of discrete systems<br />Vector theorems of dynamics. Linearization of the equation of motion. Principle of virtual work. Kinetic and potential energy. Rayleigh dissipation function. Generalized co-ordinates and generalized forces. Lagrange equations. <br /><br />Vibrations of systems with 1 degree of freedom<br />Free/natural regime: equation of motion; free / natural response; undamped system; natural frequency of vibration; sub-damped system; damped natural frequency; logarithmic decrement; critically damped system and overdamped system. <br /><br />Forced regime: forced harmonic regime (active); transient response and stationary response; dynamic amplification factor; resonance frequency; transmissibility of force. Response to a generic excitation by Duhamel's integral. <br /><br />Vibrations of systems with n degrees of freedom<br />Matrix equation of motion, free undamped vibration, natural frequencies and forms of vibration, orthogonality of modal vectors. Determination of frequencies and natural forms of vibration: vector iteration method, Jacobi method. Choleski decomposition. Response to a harmonic excitation, vibration absorber, response to a generic excitation, natural coordinates, modal analysis. Numerical integration of the equations of motion: finite difference method; linear acceleration method; Wilson-theta method; Newmark method. <br /><br />Vibrations of continuous systems<br />Torsional vibrations of shafts, longitudinal vibrations of bars and bending vibration of beams. General solution in the free regime. Boundary conditions. Natural frequencies and natural forms. Orthogonality properties. <br /><br />Approximation methods in continuous systems<br />Rayleigh&#8217;s method. Rayleigh-Ritz method. Galerkin&#8217;s method. Finite element method applied to one-dimensional elements.
+
+## Métodos de ensino e atividades de aprendizagem
+<p id="tw-target-text" class="tw-data-text tw-ta tw-text-small" dir="ltr" style="text-align: left; height: 240px;" data-placeholder="Translation"><span lang="en">&#8226; Theoretical classes where the theoretical content is explained and typical problems are analysed.<br /><br /> &#8226; Theoretical-practical classes where: (1) exercises are solved, sometimes with the use of the computer; (2)<br />help is provided in the resolution of computational essays.</span></p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Trabalho escrito: 30.0 %
+
+## Fórmula de cálculo da classificação final
+Average of assignment (30%) and exam (70%) grades. To pass, it is necessary to achieve concurrently:<br /> - an average mark equal or greater than 9.5;<br /> - a mark not smaller than 7.5 (8) both in the assignments and in the exam.
+
+## Obtenção de frequência
+According to General Evaluation Rules of FEUP, students must attend 75% of the classes.<br /><br /><br /><p>The essays that are a component of the evaluation should in part be made during classes and accompanied by the lecturers.</p>
+

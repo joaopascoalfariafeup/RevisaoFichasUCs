@@ -1,0 +1,104 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Segurança de Sistemas e Redes
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+A segurança das comunicações e da infraestrutura de redes, serviços, e sistemas de computadores é de importância crítica para a segurança das aplicações, dos utilizadores, da informação, e -- com a massificação da internet das coisas -- das próprias &#8216;coisas&#8217;. O objetivo desta UC é dar a conhecer ao estudante 1) as limitações dos protocolos, serviços, sistemas, e infraestrutura de comunicação face a um adversário motivado bem como 2) algumas das soluções existentes para mitigar ou evitar o impacto destas limitações.
+
+## Resultados de aprendizagem e competências
+No final desta unidade curricular, o estudante deverá:<br />1) conhecer conceitos transversais de segurança como CIA e diferentes modelos de ameaça e saber aplicá-los a diferentes redes e sistemas;<br />2) conseguir identificar e explorar vulnerabilidades conhecidas em redes e sistemas a vários níveis da pilha protocolar e em vários sistemas e aplicações, através de métodos passivos e ativos incluindo ataques man-in-the-middle;<br />3) conseguir identificar e desenhar mecanismos de segurança de redes e sistemas nomeadamente a nível da arquitetura da rede, controlo de acesso, filtragem, deteção de intrusões, e redes virtuais privadas (VPN);<br />4) conseguir desenvolver e analisar aplicações que usem protocolos de comunicação baseados em criptografia;<br />5) conseguir explorar de forma autónoma tópicos novos de segurança através da análise de artigos científicos e relatórios, e da sua aplicação em laboratório.
+
+## Pré-requisitos e co-requisitos
+Programação, de redes de computadores, protocolos de comunicação.
+
+## Programa
+1. Conceitos de segurança incluindo modelo de ameaça, vulnerabilidades e sua exploração, políticas de segurança, segurança por desenho e por ofuscação, gestão de risco, e metodologia de testes de penetração. <br />2. Vulnerabilidades conhecidas em redes e sistemas -- sniffing e spoofing incluindo programação em scapy, ataques em camadas superiores (TCP, HTTP, etc). <br />3. Mecanismos de segurança baseados em controlo de acessos, segmentação de redes e segregação de tráfego; filtragem, firewalls, deteção de intrusões, e VPNs. <br />4. Protocolos de comunicação baseadas em criptografia como TLS, IPSec, 802.11, e DNS e BGP seguros. <br />5. Tópicos selecionados em segurança como privacidade, negação de serviço, malware e malware IoT, sandboxing, honeypots, cyber intelligence, e centros de operações de segurança.
+
+## Métodos de ensino e atividades de aprendizagem
+1) Exploração dos conceitos fundamentais de segurança de redes, serviços, e sistemas através de a) exposição em sala de aula, b) pesquisa autónoma de artigos científicos, casos de estudo, e informação disponível na Internet, c) técnica de flipped classroom (sala de aula invertida) com auto-aprendizagem dos conteúdos disponibilizados previamente e discussão dos conceitos em sala de aula. <br />2) Trabalhos práticos no laboratório para explorar vulnerabilidades e praticar mecanismos de defesa. <br />3) Projeto em temas selecionados de segurança do interesse dos alunos ou que lhes são propostos.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 40.0 %
+- Exame: 50.0 %
+- Trabalho laboratorial: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 52.0 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho laboratorial: 71.0 horas
+
+## Fórmula de cálculo da classificação final
+CF = 0,5*E + 0,5*AD; se ( E < 10,0 ou AD < 10,0 ) então CF = RFC<br /><br />E - Exame<br /><br />AD - Avaliação Distribuída<br /><br />AD = 20% Labs + 80% Projecto<br />
+
+## Obtenção de frequência
+Realizar trabalhos de laboratório, desenvolver o projeto e submeter o seu relatório.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Security of Systems and Networks
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+The security of communications and of computer network, services, and system infrastructure is of critical importance to the security of applications, users, information, and, with the deployment of the internet of things, of &#8216;things&#8217; themselves. The goal of this curricular unit is to familiarize the student with 1) the limitations of protocols, services, systems, and communication infrastructure when they face a motivated attacker, as well as with 2) some of the existing solutions to mitigate or avoid the impact of these limitations.
+
+## Resultados de aprendizagem e competências
+After completing this curricular unit, the student should:<br />1) know transversal security concepts such as CIA and different threat models, and how to apply them to different networks and systems;<br />2) be able to identify and exploit known network and system vulnerabilities at different layers of the TCP/IP stack and in different systems and applications, with passive and active methods including man-in-the-middle attacks;<br />3) be able to identify and design security mechanisms for networks and systems namely by changing the network architecture, and implementing access control, filtering, intrusion detection, and virtual private networks (VPN);<br />4) be able to develop and analyze applications that use cryptography-based communication protocols;<br />5) be able to autonomously explore new topics in security by analyzing scientific papers and other reports and by experimenting with the new topics in a lab.
+
+## Pré-requisitos e co-requisitos
+Programming, computer networking, communication protocols.
+
+## Programa
+1. Security-related concepts including threat model, vulnerabilities and exploits, security policies, security by design and by obfuscation, risk management, and penetration testing methodology.<br />2. Known vulnerabilities in networks and systems -- sniffing and spoofing including scapy programming, higher layer attacks (TCP, HTTP, etc).<br />3. Security mechanisms based in access control and in network and traffic segmentation; filtering, firewalls, intrusion detection, and VPNs.<br />4. Cryptography-based communication protocols such as TLS, IPSec, 802.11, secure DNS, and secure BGP.<br />5. Selected topics in security including privacy, denial of service, malware and IoT malware, sandboxing, honeypots, cyber intelligence, and security operations centers.
+
+## Métodos de ensino e atividades de aprendizagem
+1) Exploration of the fundamental concepts in network, service, and system security through a) lectures, b) autonomous search for scientific papers, use case reports, and other information available online, c) flipped classroom technique with self-learning of previously identified content and with later discussion of these concepts in the classroom.<br />2) Practical assignments in the laboratory to explore vulnerabilities and practice defense mechanisms.<br />3) Project in selected topics in security that are of particular interest to students or proposed to them.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 40.0 %
+- Exame: 50.0 %
+- Trabalho laboratorial: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 52.0 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho laboratorial: 71.0 hours
+
+## Fórmula de cálculo da classificação final
+CF = 0,5*E + 0,5*DE; if ( E < 10,0 or DE < 10,0 ) then CF = RFC<br /><br />E - Exam<br /><br />DE - Distributed Evaluation<br /><br />DE = 20% Labs + 80% Project<br />
+
+## Obtenção de frequência
+Do the guided labs, develop the project and submit a report for it.
+

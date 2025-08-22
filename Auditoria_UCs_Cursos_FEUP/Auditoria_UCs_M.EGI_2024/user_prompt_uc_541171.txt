@@ -1,0 +1,108 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Engenharia de Grandes Dados
+
+## Curso responsável
+Mestrado em Engenharia e Ciência de Dados
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+A extração de informação a partir de grandes conjuntos de dados -- chamados &#8220;big data&#8221; -- tem sido o motor de várias empresas grandes e pequenas nos últimos anos e impõe um conjunto de desafios próprios, que esta UC aborda. O objetivo desta UC é dar a conhecer ao estudante os principais paradigmas, desafios, e abordagens de desenvolvimento de sistemas e aplicações big data.
+
+## Resultados de aprendizagem e competências
+No final desta unidade curricular, o estudante deverá:<br />1) conseguir distinguir os diferentes conceitos que suportam a computação paralela e distribuída incluindo o processamento de dados; <br />2) compreender as arquiteturas e sistemas de armazenamento e processamento existentes para grandes conjuntos de dados;<br />3) conseguir desenvolver aplicações sobre grandes dados, nomeadamente de pesquisa de dados e de aprendizagem a partir de dados, e caracterizar o seu desempenho;<br />4) conseguir identificar e discutir desafios ao desenvolvimento e uso de aplicações e modelos big data.
+
+## Pré-requisitos e co-requisitos
+Programação; aprendizagem de dados.
+
+## Programa
+1. Conceitos fundamentais da computação paralela: medidas de desempenho, gestão da memória e localização dos dados, limitações da computação paralela e modelos de programação paralela.<br />2. Modelos de programação paralela com dados: paralelismo de dados; modelo Map-Reduce; organização de dados com chave-valor; relação com sistema Hadoop de ficheiros distribuídos e gestão de recursos;  modelo Spark, unidade de dados resiliente e distribuída (RDD), ações e transformações, fluxo de processamento com DAGs e difusão de variáveis.<br />3. Desenvolvimento de aplicações e caracterização do seu desempenho: pesquisa (Spark SQL) e aprendizagem (Spark mllib); debugging, medição, e tuning de tarefas, trabalhos, e passos de execução em Spark.<br />4. Desafios ao desenvolvimento de aplicações e modelos big data, incluindo privacidade e anonimização dos dados, interpretação de resultados de aprendizagem, viés (bias), e vulnerabilidades
+
+## Métodos de ensino e atividades de aprendizagem
+1. Exploração dos conceitos de programação paralela com dados, modelos de programação e arquitetura de sistemas &#8220;big data&#8221;, e aplicações, através de: a) exposição em sala de aula, b) pesquisa autónoma de artigos científicos, casos de estudo; c) técnica de flipped classroom (sala de aula invertida) com auto-aprendizagem dos conteúdos disponibilizados previamente e discussão dos conceitos em sala de aula. <br />2. Exploração autónoma, apresentação, e discussão de artigos científicos.<br />3. Projeto incluindo especificação, desenvolvimento, teste, e caracterização de desempenho de aplicações &#8220;big data&#8221; recorrendo às tecnologias e conceitos discutidos na UC.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 horas
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 42.0 horas
+
+## Fórmula de cálculo da classificação final
+CF = 0,5*T + 0,5*P; if ( T &lt; 10,0 or P &lt; 10,0 ) then CF =MIN(CF, 9.0)<br />T - test<br />P - project
+
+## Obtenção de frequência
+Realizar o projeto e frequentar as aulas.
+
+## Melhoria de classificação
+<p>A melhoria de classificação será efectuada através de prova individual única com duas componentes: 1. exame de recurso; 2. Uma componente adicional que permita avaliar as competências avaliadas através do trabalho desenvolvido na avaliação distribuída. A melhoria de classificação pode ser efetuada na época de recurso dessa edição ou da edição seguinte.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Big Data Engineering
+
+## Curso responsável
+Master in Data Science and Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+Extracting information from large sets of data -- known as &#8220;big data&#8221; &#8211;has been the driver for several large and small companies in the last years and has imposed a specific set of challenges, that this course addresses. The goal of this curricular unit is to familiarize the student with the major paradigms, challenges, and approaches at developing big data applications and systems.
+
+## Resultados de aprendizagem e competências
+After completing this curricular unit, the student should:<br />1) be able to distinguish the different concepts that support parallel and distributed computing including data processing;<br />2) understand existing big data storage and processing architectures and systems;<br />3) be able to develop big data applications, namely search-based applications and learning-based applications, and characterize their performance;<br />4) be able to identify and discuss challenges in developing and using big data applications and models.
+
+## Pré-requisitos e co-requisitos
+Programming; learning from data.
+
+## Programa
+1. Fundamental concepts of parallel computing: performance measurements, memory management and data location, limitations of parallel computing and parallel programming models.<br />2. Models for parallel programming with data: Map-reduce model; key-value data organization; relation with the Hadoop distributed file system and with resource management; Spark model, resilient and distributed datasets, actions and transformations, DAG-based execution, and variable broadcasting.<br />3. Application development and performance characterization: search (Spark SQL) and learning (Spark mmlib); debugging, measurements, and tunning of tasks, jobs, and stages in Spark.<br />4. Challenges in developing and using big data applications and models, including privacy and anonymity, learning result interpretability, bias, and vulnerabilities.
+
+## Métodos de ensino e atividades de aprendizagem
+1) Exploration of the fundamental concepts in parallel programming with data, big data programming models and system architectures, and applications, through a) lectures, b) autonomous search for scientific papers, use case reports; c) flipped classroom technique with self-learning of previously identified content and with later discussion of these concepts in the classroom.<br />2) Autonomous exploration, presentation, and discussion of scientific papers.<br />3) Project including the specification, development, test, and performance characterization of big data applications using the technologies and concepts discussed in the course.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 hours
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 42.0 hours
+
+## Fórmula de cálculo da classificação final
+CF = 0,5*T + 0,5*P; if ( T &lt; 10,0 or P &lt; 10,0 ) then CF =MIN(CF, 9.0)<br />T - test<br />P - project
+
+## Obtenção de frequência
+Developing the project and attending class.
+
+## Melhoria de classificação
+<p>The classification improvement will be carried out by single individual proof with two components: 1. examination of appeal; 2. An additional component that allows assessing the skills assessed through the work developed in the distributed evaluation. The classification improvement can be made at the time of the feature of this edition or subsequent editions. The improvement of final grade takes place at the corresponding appeal period in the current edition of the course or the subsequent one.</p>
+

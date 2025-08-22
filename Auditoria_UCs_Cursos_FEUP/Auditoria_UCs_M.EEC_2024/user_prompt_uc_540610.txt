@@ -1,0 +1,132 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas Distribuídos
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<ul><br /><li>Familiarizar os estudantes com:</li><br /></ul><br /><div><br /><ul><br /><ul><br /><li>os problemas associados à distribuição de aplicações de SW (transparência, nomes e endereçamento, coordenação, tolerância a falhas)</li><br /></ul><br /></ul><br /><ul><br /><ul><br /><li>as soluções típicas nesse domínio (invocação remota de funções/métodos, sistemas de nomes, disseminação de informação, replicação e consenso)</li><br /></ul><br /></ul><br /><ul><br /><ul><br /><li>as tecnologias de SW necessárias para o desenvolvimento de aplicações distribuídas.</li><br /></ul><br /></ul><br /></div><br /><ul><br /><li>Desenvolver as competências necessárias para usar essas tecnologias e aplicar os conhecimentos adquiridos ao desenvolvimento de aplicações de pequena/média dimensão.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<p>Dotar os estudantes da capacidade para desenvolver aplicações informáticas de pequena/média dimensão para sistemas distribuídos, nomeadamente:</p>
+<ol>
+<li>Saber quais os problemas associados à distribuição de aplicações de Software (transparência, nomes e endereçamento, coordenação, tolerância a falhas);</li>
+<li>Conhecer as soluções típicas neste domínio (invocação remota de funções/métodos, sistemas de nomes, disseminação de informação, replicação e consenso);</li>
+<li>Ser capaz de utilizar as tecnologias de Software necessárias para o desenvolvimento de aplicações distribuídas;</li>
+</ol>
+
+## Pré-requisitos e co-requisitos
+Redes de computadores. Sistemas Operativos. Programação.
+
+## Programa
+<ol><br /><li>Arquiteturas distribuídas e sua contextualização;</li><br /><li>Modelos de comunicação (canais e suas propriedades), de cooperação (cliente-servidor, publicador-subscritor, ...) e de sincronismo (conceitos de sincronia, relógios físicos e lógicos, ...);</li><br /><li>Middlewares de distribuição (RPC, DDS, M2M, Blackboard, RTDB);</li><br /><li>Replicação e consistência, e sua aplicação em tolerância a falhas (eleição de líder, replicação de máquinas de estado, sincronismo de vistas, reliable e atomic multicast, ...);</li><br /><li>Conceitos base de proteção e segurança (encriptação, chaves, autenticação de dados e utilizadores, ... ).</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>Aulas teóricas (decorrem na primeira parte do semestre): Exposição de conceitos com apresentação e discussão de exemplos aplicados. </li><br /><li>Aulas práticas (decorrem após as aulas teóricas): Aplicação dos conceitos abordados nas aulas teóricas com a realização de um mini projeto sobre o desenvolvimento de um sistema distribuído.</li><br /></ul>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 20.0 %
+- Teste: 40.0 %
+- Trabalho laboratorial: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 66.0 horas
+- Frequência das aulas: 56.0 horas
+- Trabalho laboratorial: 40.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>NF - Nota Final</p>
+<p>NP - Nota Projeto</p>
+<p>NT - Nota teórica (mini-teste)</p>
+<p>NPP - Nota do exame de programação (no período de exames)</p>
+<p>NF = 0,4*NT + 0,2*NPP + 0,4*NP </p>
+<p>Para aprovação exige-se uma nota mínima de 7 valores às componentes NP e NT.</p>
+
+## Obtenção de frequência
+<p>Regras gerais da FEUP. </p>
+<p>Participação em todos os elementos de avaliação.</p>
+
+## Melhoria de classificação
+<p>Só a componente teórica (mini-teste) pode ser melhorada em exame de recurso. Aplica-se igualmente a nota mínima de 7 valores a este exame.</p>
+<p> </p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Distributed Systems
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<ul><br /><li>Familiarize the students with</li><br /><ul><br /><li>the issues related to distributed software applications,</li><br /><li>the typical solutions to problems in this domain (distribution transparency, remote invocations, addressing, information dissemination, consensus, etc.),</li><br /><li>the software technologies needed to build distributed applications,</li><br /></ul><br /><li>Develop the skills to use such technologies and to build concrete applications of small and medium size.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<p>Provide the students with the ability to develop small/medium size software applications for distributed systems, particularly to:</p>
+<ol>
+<li>know the problems associated to distribution of software applications (transparency, names and addressing, coordination, fault tolerance);</li>
+<li>know the typical solutions in this domain (remote method invocation, naming systems, information dissemination, replication and consensus);</li>
+<li>be able to use the software technologies needed to the development of distributed applications;</li>
+</ol>
+
+## Pré-requisitos e co-requisitos
+Computer networks. Operating Systems. Programming.
+
+## Programa
+<ol><br /><li>Distributed architectures and their contextualization;</li><br /><li>Models for communication (channels and their properties, messages, RPCs, ...), for cooperation (client-server, publisher-subscriber, ...) and for synchronism (rendez-vous, physical and logical clocks, distributed mutual exclusion ...);</li><br /><li>Distribution middlewares (RPC, DDS, M2M, Blackboard, RTDB);</li><br /><li>Fault-tolerance and resource management in distributed systems (replication and consistency, leader election, state machine replication, view synchrony, reliable and atomic multicast, replica determinism, ...);</li><br /><li>Basic concepts of security (encryption, keys, data and users authentication, ... ).</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>Lectures (delivered in the first part of the semester): Exposition of concepts with presentation and discussion of application examples;</li><br /><li>Laboratory (taken after the Lectures): Put in practice of the concepts presented in the lectures with a mini project for the design and development of a distributed system.</li><br /></ul>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 20.0 %
+- Teste: 40.0 %
+- Trabalho laboratorial: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 66.0 hours
+- Frequência das aulas: 56.0 hours
+- Trabalho laboratorial: 40.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>NF - Final Mark</p>
+<p>NP - Project Mark</p>
+<p>NT - Theory mark (mini-test)</p>
+<p>NPP - Programming exam mark (in the exams period)</p>
+<p>NF = 0,4*NT + 0,2*NPP + 0,4*NP</p>
+<p>Passing requires a minimum mark of 7 over 20 in the NP and NT components.</p>
+
+## Obtenção de frequência
+<p>General FEUP regulations. Participation in all elements of assessment.</p>
+
+## Melhoria de classificação
+<p>Only the theory component (mini-test) can be subject of improvement through a recourse exam. A minimum grade of 7 over 20 also applies to this exam.</p>
+

@@ -1,0 +1,127 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Programação de Dispositivos Móveis
+
+## Curso responsável
+Licenciatura em Ciência de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>Esta unidade curricular tem como objetivo global a compreensão da complexidade das plataformas atuais de programação de dispositivos móveis, de modo a fornecer aos estudantes as ferramentas necessárias para enfrentar os crescentes desafios na área. Como formação complementar, os estudantes são expostos aos requisitos e desafios da implementação de backends de forma a suportar as aplicações móveis.<br /><br />Pretende-se que os estudantes:<br /><br />- sejam capazes de projetar e implementar aplicações móveis;<br /><br />- fiquem a conhecer as implicações do RGPD, evitando alguns dos erros mais comuns em relação à privacidade dos usuários;<br /><br />- fiquem cientes da necessidade de incluir segurança no desenho das soluções;<br /><br />- compreendam os compromissos implícitos entre desempenho, consumo de energia e segurança / privacidade<span style="color: #666666;"><span style="font-family: Arial, serif;"><span style="font-size: small;"><br /></span></span></span></p>
+
+## Resultados de aprendizagem e competências
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;">Os resultados da aprendizagem são centrados em torno da compreensão do projeto e implementação de aplicativos móveis. O programa foca todos os aspetos mais relevantes dessas tecnologias, facilitando a compreensão dos diferentes conceitos e a relação entre eles. Também inclui um componente de aplicação que permite aos alunos adquirir habilidades na criação e programação de sistemas baseados nesses conceitos.</span></span></span></p>
+
+## Programa
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;">Este curso visa abranger os seguintes conteúdos:</span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;">Arquiteturas end-to-end para aplicações móveis, incluindo backend</span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;">Breve descrição geral das modernas arquiteturas de computadores de smartphone, e.g. BiGLittle</span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;">Aspetos de segurança da programação móvel, incluindo permissões e limitações para aceitação no Google Play Store.</span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;">Introdução ao direito dos usuários à privacidade, incluindo o consentimento informado e o impacto do novo GPDR (Regulamento Geral de Proteção de Dados)</span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;">Além dos HTTP (s), uma introdução ao gRPC</span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;">Ciclo de vida das aplicações</span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;">Estruturas de aplicações móveis</span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;">KeyChains</span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;">Programação de baixo nível para performance e portabilidade usando C / C ++:  </span></span></span><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;">JNI + NDK</span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;">Notificações Push, Doze e preocupações energéticas</span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;">Comunicações D2D:</span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;">- Wifi-Direct</span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;">- Bluetooth</span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;">- TDLS</span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;">- Wifi e 4G LTE<br /><br />Profiling e Debugging de aplicações móveis.<br /></span></span></span></p>
+
+## Métodos de ensino e atividades de aprendizagem
+Aulas teórico-práticas
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 80.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 40.0 horas
+
+## Fórmula de cálculo da classificação final
+<table><br /><tbody><br /><tr><br /><td><strong>Trabalhos Práticos: </strong></td><br /><td>50%</td><br /><td>(com nota mínima: 50%)</td><br /></tr><br /><tr><br /><td><strong>Exame Final: </strong></td><br /><td>50%</td><br /><td>(com nota mínima: 50%)</td><br /></tr><br /></tbody><br /></table><br /><u>Nota final = (0.5 * exame + 0.5 * trabalhos)</u>
+
+## Obtenção de frequência
+Nota mínima de 50% no trabalho prático<br />A não entrega do trabalho implica a exclusão a todas épocas de exame.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Mobile Device Programming
+
+## Curso responsável
+Bachelor in Computer Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p><span lang="en-US">This curricular unit aims to understand the complexity of current mobile device programming platforms, in order to provide students with the necessary tools to face the growing challenges in the area. As a complementary training, students are exposed to the requirements and challenges of implementing backends in order to support mobile applications.<br /><br /></span><span lang="en-US">After completing this course, students are expected to:<br /><br />- be able to design and implement mobile applications:<br /><br />- be aware of the implications of GPDR, avoiding some of the common pittfalls regarding users&#8217; privacy;<br /><br />- be aware of the need of having secuirty by design;<br /><br /></span><span lang="en-US">- understand the implicit tradeoffs between performance, energy consumption and security/privacy.</span><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;"><span lang="en-US"><br /><br /></span></span></span></span></p>
+
+## Resultados de aprendizagem e competências
+<p><span style="color: #666666;"><span style="font-family: Arial, serif;"><span style="font-size: small;"><span lang="en-US"><em><strong>The learning outcomes are centered around the understanding of the design and implementation of mobile applications. The syllabus covers all the most relevant aspects of these technologies, facilitating the understanding of the different concepts and the relationship between them. It also includes an application component that allows students to gain skills in creating and programming systems based on these concepts.</strong></em></span></span></span></span></p>
+
+## Programa
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;"><span lang="en-US"><strong>Th</strong></span></span></span></span><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;"><span lang="en-US">is course aims to introduce the students to mobile programming for Android:</span></span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;"><span lang="en-US">Overall end-to-end architecture for mobile apps, including backend</span></span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;"><span lang="en-US">Brief overview of modern computer architectures of smartphones, e.g. Biglittle</span></span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;"><span lang="en-US">Security aspects of mobile programming, including permissions and limitations for acceptance in Google Play Store.<br /><br /></span></span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;"><span lang="en-US">Introduction to the users&#8217; right to privacy, including informed consent and the impact of the new GPDR (</span></span></span></span><span style="color: #0000ff;"><u><a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation"><span style="font-family: Arial, serif;"><span style="font-size: small;"><span lang="en-GB">General Data Protection Regulation</span></span></span></a></u></span><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;"><span lang="en-US">)</span></span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;"><span lang="en-US">Beyond HTTP(s), an introduction to gRPC</span></span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;"><span lang="en-US">Apps&#8217; lifecycle</span></span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;"><span lang="en-US">Mobile Application Frameworks</span></span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;"><span lang="en-US">KeyChains</span></span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;"><span lang="en-US">Low-level programming for speed and portability using C/C++: </span></span></span></span><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;"><span lang="en-US">JNI + NDK</span></span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;"><span lang="en-US">Push Notifications, Doze and energy concerns</span></span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;"><span lang="en-US">D2D communications:</span></span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;"><span lang="en-US">- Wifi-Direct</span></span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;"><span lang="en-US">- Bluetooth</span></span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;"><span lang="en-US">- TDLS</span></span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;"><span lang="en-US">- Wifi and 4G LTE</span></span></span></span></p>
+<p><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: small;"><span lang="en-US">Profiling and Debugging</span></span></span></span></p>
+
+## Métodos de ensino e atividades de aprendizagem
+Theoretical-practical classes
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 80.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 40.0 hours
+
+## Fórmula de cálculo da classificação final
+<table><br /><tbody><br /><tr><br /><td><strong>Practical Assignment: </strong></td><br /><td>50%</td><br /><td>(minimum grade: 50%)</td><br /></tr><br /><tr><br /><td><strong>Exam: </strong></td><br /><td>50%</td><br /><td>(minimum grade: 50%)</td><br /></tr><br /></tbody><br /></table><br /><u>final grade= (0.5 * exam + 0.5 * assignment) </u>
+
+## Obtenção de frequência
+Minimum of 50% in the practical assignment.<br />Failure to submit the practical assigment will result in exclusion from all examination periods.
+

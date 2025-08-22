@@ -1,0 +1,110 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Engenharia e Gestão da Manutenção Industrial
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>O objetivo desta unidade curricular é o de proporcionar aos estudantes uma visão integrada dos conceitos, técnicas e<br />estratégicas mais utilizadas na Gestão de Ativos. No final do ciclo de estudos espera-se que os estudantes detenham<br />uma visão global dos conceitos, problemas e ferramentas disponíveis por forma a poderem tomar as melhores<br />decisões no âmbito da Gestão de Ativos.<br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p><br />No final da Unidade Curricular (UC) espera-se que os estudantes sejam capazes de utilizar as diferentes ferramentasapresentadas ao longo UC na tomada das melhores decisões de apoio à gestão de ativos. Em particular, espera-se que os estudantes saibam escolher as técnicas quantitativas de fiabilidade, otimização e outras adequadas. Que sejam, ainda, capazes de decidir sobre as melhores estratégias de manutenção planeada baseadas nas ferramentas de cálculo apreendidas.</p>
+
+## Pré-requisitos e co-requisitos
+Estatística: Estatística descritiva, estatística dedutiva e inferência estatística.<br />Investigação Operacional: Programação linear, otimização, cadeias de Markov e filas de espera.<br /><br />Competências Computacionais<br />Excel
+
+## Programa
+<p>Adquirir competências na utilização de ferramentas e técnicas para a análise dos tempos de ativos físicos;<br />Analisar a fiabilidade atual ou esperada de um produto, processo ou serviço, identificando as ações que permitam<br />reduzir a ocorrência de avarias e mitigar os seus efeitos;<br />Modelação da fiabilidade combinando métodos &#8220;Engineer-driven&#8221; com &#8220;Data-driven&#8221;<br />&#8220;Design&#8221; para a fiabilidade<br />Fiabilidade crescente<br />A curva &#8220;Bathtube&#8221;<br />Testes de garantia de fiabilidade<br />Diagramas de blocos<br />Monitorização, simulação e otimização do Índice de Saúde / condição do sistema, alavancando em dados internos e<br />externos e sensores<br />Estimar o &#8220;Remaining Useful Life (RUL)&#8221; dos ativos<br />Identificar os fatores (Internos ou externos; controláveis ou não controláveis) que influenciam o comportamento dos<br />equipamentos<br />&#8220;Reliability Centered-Maintenance (RCM)&#8221;<br />Otimização da estratégia de manutenção, gestão de peças de reserve, equipamentos de substituição.<br />Políticas de manutenção.<br />TPM</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Os conceitos e técnicas serão exemplificados através de problemas e de casos. Ao longo do curso serão também utilizadas e mencionadas algumas "packages" utilizadas na Gestão da manutenção. São utilizados como meios de apoio retroprojectores, "datashows" e computadores. Haverá duas palestras dadas por convidados: "Substituição de Equipamentos" e "Total Productive Maintenance".</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Participação presencial: 0.0 %
+- Teste: 20.0 %
+- Trabalho escrito: 20.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 123.0 horas
+- Frequência das aulas: 39.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><br />Melhor classificação entre a classificação de frequência e a nota do exame final</p>
+
+## Obtenção de frequência
+Classificação final (CF) superior a 9,5<br />Fórmula de cálculo CF=0,60*exame+0,20*trabalho+0,20*teste
+
+## Melhoria de classificação
+Exame sobre a toda a matéria lecionada com peso 100%
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Industrial Maintenance Engineering and Management
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>The aim of this curricular unit is to provide students with an integrated overall view of the most common concepts,<br />techniques and strategies used in Asset Management. A decision support system for maintenance is presented in<br />order to allow students to solve the main maintenance management problems and to help them make the best<br />decisions in the scope of Asset Management.<br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p><br />At the end of this course unit student are expected to be able to use the different tools presented throughout the<br />curricular unit in decision making to support maintenance management. In particular, students are expected to be able<br />to choose the best quantitative reliability, optimisation and other appropriate techniques. In addition, they should be<br />able to make a decision regarding the best planned maintenance strategies based on the acquired calculation tools.</p>
+
+## Pré-requisitos e co-requisitos
+Statistics: Descritive statistics, deductive statistics and inference statistics.<br />Operational Research: Linear programming, optimization, Markov chains and queueing theory.<br /><br />Computational Competencies<br />Excel
+
+## Programa
+<p>Acquire skills in the use of tools and techniques for the analysis of physical assets<br />Analyze the current or expected reliability of a product, process or service, identifying actions to reduce the<br />occurrence of malfunctions and mitigate their effects;<br />Reliability modelling compounding &#8220;Engineer-driven&#8221; and &#8220;Data-driven&#8221; methods<br />Design for reliability<br />Reliability Growth<br />Bathtube curve<br />Reliability Testing and Management<br />Reliability Block Diagrams<br />Monitoring, simulation and optimization of the health (HI)<br />Estimating the assets Remaining Useful Life (RUL)<br />Identify the factors (internal or external, controllable or non-controllable) that influence the equipment behaviour<br />Reliability Centered-Maintenance<br />Optimization of maintenance strategy, management of spare parts and equipment replacement policies.<br />Maintenance policies.<br />TPM (Total Produtive Maintenance)</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The concepts and tecniques are introduced through problems and case studies. Throughout the course some software maintenance-related packages are also presented. Computers, "datashow" and white board are used for teaching support. Two invited talks will take place on &#8220;Equipment replacement&#8221; and &#8220;Total Productive Maintenance&#8221;.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Participação presencial: 0.0 %
+- Teste: 20.0 %
+- Trabalho escrito: 20.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 123.0 hours
+- Frequência das aulas: 39.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><br />Better classification between the frequency classification and the final exam grade</p>
+
+## Obtenção de frequência
+Final Mark (FM) greater than 9,5<br />Evaluation formula <br />FM=0,60*exam+0,20*assignement+0,20*test
+
+## Melhoria de classificação
+Exam covering all subjects taught with a weight of 100%
+

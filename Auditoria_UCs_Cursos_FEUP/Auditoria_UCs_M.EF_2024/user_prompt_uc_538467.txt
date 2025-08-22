@@ -1,0 +1,103 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Desenho Experimental
+
+## Curso responsável
+Mestrado em Engenharia Física
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Identificação do modelo estatístico correspondente a diferentes desenhos experimentais, e respetiva análise estatística com recurso ao R.</p>
+Como competências transversais, é esperado um desenvolvimento aos seguintes níveis: <br />(a) competências cognitivas: pensamento analítico, crítico, reflexivo e criativo; <br />(b) competências metodológicas: gestão do tempo, capacidade de resolução de problemas, capacidade de decisão, estratégias de aprendizagem; <br />(c) competências sociais: comunicação interpessoal.
+
+## Resultados de aprendizagem e competências
+No final do curso, é esperado que os estudantes: <br /><br />(a) tenham adquirido um conhecimento sólido sobre os desenhos experimentais mais comuns; <br /><br />(b) conheçam métodos eficientes de planeamento de experiências em contexto científico ou industrial, e sejam capazes de extrair conclusões dos dados resultantes, de forma crítica; <br /><br />(c) consigam modelar essas circunstâncias específicas em situações reais, usando uma linguagem de programação adequada.
+
+## Programa
+<p>1. Revisão de conceitos e procedimentos básicos de Inferência Estatística (testes de hipóteses e intervalos de confiança)<br /><br />2. Princípios gerais básicos de desenho experimental<br /><br />3. Experiências com um único fator: análise da variância (ANOVA)<br /><br />4. Desenhos por blocos completos aleatorizados<br /><br />5. Desenhos fatoriais:</p>
+<p>    5.1) Definições e princípios básicos</p>
+<p>    5.2) O desenho fatorial do tipo 2<sup>k</sup></p>
+    5.3) blocos e confundimento no desenho 2<sup>k</sup><br /><br />6. Modelos ANOVA com efeitos aleatórios. Generalização de vários modelos específicos do desenho experimental.<br /><br /><sup>7. Regressão logística: modelação da resposta, otimização de parâmetros, escolha de fatores,  validação de modelos e desenho de novas experiências. <br /><br /></sup>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>O conteúdo programático teve em consideração a formação prévia dos estudantes na área da Estatística. <br /><br />Os modelos estatísticos a abordar na unidade curricular são aqueles que se pensam ser fundamentais para aplicações em Ciência e Engenharia. Serão apresentados vários exemplos (reais, sempre que possível) e trabalhada a sua resolução computacional.<br /><br />A familiaridade com a modelação será conseguida através da realização de vários exercícios, devidamente contextualizados, usando a linguagem de programação R.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 horas
+- Frequência das aulas: 56.0 horas
+
+## Fórmula de cálculo da classificação final
+Avaliação por 2 testes: teste 1 e teste 2.<br /><br />Para cada aluno, o teste em que obteve melhor classificação tem um peso de 60% e o outro 40%.  A classificação obtida em cada teste tem de ser igual ou superior a 30% da sua cotação, para que esse teste possa ser considerado.<br /><br />O exame de recurso tem de ser resolvido na íntegra.
+
+## Obtenção de frequência
+Serão seguidas as regras da FCUP.
+
+## Melhoria de classificação
+A melhoria de classificação só pode ser feita no exame de recurso.<br /><br />As notas dos testes não podem ser melhoradas individualmente.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Experimental Design
+
+## Curso responsável
+Master in Engineering Physics
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Identification of the statistical model corresponding to different experimental designs, and respective statistical analysis using R. </p>
+As cross-cutting competences, development is expected at the following levels: <br />(a) cognitive skills: analytical, critical, reflective and creative thinking; <br />(b) methodological competences: time management, problem solving ability, decision making ability, learning strategies; <br />(c) social skills: interpersonal communication.
+
+## Resultados de aprendizagem e competências
+At the end of the course, the students are expected to: <br /><br />(a) understand the most popular experimental designs in depth; <br /><br />(b) to know about efficient methods of planning experiments in science and industry, and of critically drawing conclusions from the resulting data; <br /><br />(c) to be able to model those specific circumstances in real situations, using a suitable programming language.
+
+## Programa
+1. Revision of basic concepts and tools from statistical inference (hypothesis tests and confidence intervals)<br /><br />2. Basic principles on designing experiments<br /><br />3. Experiments with a single factor: the analysis of variance (ANOVA)<br /><br />4. The randomized complete block design<br /><br />5. Factorial designs:<br /><p>    5.1) Basic definitions and principles</p><br /><p>    5.2) The 2<sup>k</sup> factorial design</p><br /><p>    5.3) Blocking and confounding in the 2<sup>k</sup> factorial design<br /><br />6. ANOVA models with random effects<br /><br />7. Logistic Regression: response modelling, optimization of parameters, factor screening, model validation, and design of new experiments.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+The syllabus took into account the students' previous training in the area of Statistics.<br /><br />The statistical models to be addressed in the course are those that are thought to be fundamental for applications in Science and Engineering. Several examples (real, whenever possible) will be presented and their computational resolution worked out.<br /><br />Familiarity with modeling will be achieved by performing several exercises, properly contextualized, using the R programming language.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 hours
+- Frequência das aulas: 56.0 hours
+
+## Fórmula de cálculo da classificação final
+Continuous evaluation consisting of 2 tests. <br /><br />For each student, the test with the best mark has a weight of 60% on the final classification and the other test 40%. The mark obtained in each test will only be considered if it is greater than or equal to 30% of its total cotation. <br /><br />The exam in the appeal season has to be solved completely.
+
+## Obtenção de frequência
+In accordance with FCUP rules.
+
+## Melhoria de classificação
+Improvement of the final mark can only be done at the appeal season (&quot;época de recurso&quot;).<br /><br />The marks obtained in the tests cannot be individually improved.
+

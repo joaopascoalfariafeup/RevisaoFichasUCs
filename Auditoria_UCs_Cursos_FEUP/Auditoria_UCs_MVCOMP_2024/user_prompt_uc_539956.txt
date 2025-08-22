@@ -1,0 +1,102 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Aprendizagem Computacional Avançada para Visão Computacional
+
+## Curso responsável
+Mestrado em Visão por Computador
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+Esta unidade curricular tem por objetivo dar a conhecer aos estudantes técnicas avançadas de aprendizagem computacional, constituindo uma extensão da unidade curricular de aprendizagem computacional estudada no semestre anterior.
+
+## Resultados de aprendizagem e competências
+Capacidade de desenvolver sistemas de aprendizagem computacional de acordo com as necessidades existentes e aplicar as ferramentas tecnológicas mais apropriadas.<br />Conhecer, aplicar e avaliar modelos avançados de aprendizagem computacional.<br />Conhecer técnicas de aprendiz agem profunda, com abordagens de treino &#8216;end-to-end&#8217;, e minimizando o uso de dados etiquetados.<br />Resolver aplicações utilizando métodos de autoaprendizagem.<br />Adquirir capacidades de aprendizagem que permitam continuar a estudar de uma forma autónoma.<br />Capacidade de trabalhar em equipa, organização e planeam ento.<br />Capacidade de analisar e sintetizar conhecimento.
+
+## Programa
+Aprendizagem profunda. Modelos profundos.<br />Redes neuronais convolucionais profundas. Técnicas de regularização. Técnicas de otimização. Treino &#8216;end-to-end&#8217;.<br />Automodeladores. Modelos generativos. Interpretabilidade. Modelos esparsos. Aplicações em visão por computador .<br />Aprendizagem com uso eficiente de dados. Aprendizagem fracamente supervisionada (aprendizagem semisupervisionada; aprendizagem zero-shot; aprendizagem one-shot; classificação open-class). Aplicações em visão por computador.<br />Modelos para dados sequenciais. Modelos de Markov Escondidos. Redes Neuronais recorrentes. Aplicações.<br />Reinforcement Learning. Aplicações em visão por computador.
+
+## Métodos de ensino e atividades de aprendizagem
+Palestras participativas, seminários e conferências, aprendizagem com base na resolução de casos práticos e projetos, trabalho autônomo e estudo independente pelos estudantes, trabalho em grupo e aprendizagem cooperativa.<br />Os assuntos serão abordados em palestras participativas, onde os estudantes terão a oportunidade de implementar métodos por si próprios. Durante a parte da palestra, os tópicos do curso serão apresentados e discutidos. Os períodos práticos / laboratoriais serão usados para resolver exercícios e para o desenvolvimento dos trabalhos de avaliação.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Participação presencial: 30.0 %
+- Exame: 35.0 %
+- Trabalho prático ou de projeto: 35.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 40.0 horas
+- Frequência das aulas: 42.0 horas
+- Apresentação/discussão de um trabalho científico: 10.0 horas
+- Trabalho escrito: 20.0 horas
+- Trabalho laboratorial: 50.0 horas
+
+## Fórmula de cálculo da classificação final
+Os estudantes receberão tarefas de casa individuais semanais durante toda a duração da unidade curricular, envolvendo exercícios, leituras e sumarização de textos selecionados. Esta componente será responsável por 30% da nota final. O trabalho prático consistirá num projeto cobrindo os tópicos da unidade curricular. Isso representará 35% da nota final. O exame final será responsável por 35% da nota final.
+
+## Obtenção de frequência
+A definir.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Advanced machine learning for computer vision
+
+## Curso responsável
+Master in Computer Vision
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+This curricular unit aims at introducing the students to advanced computational learning techniques, being an extension of the computational learning curricular unit studied in the previous semester.
+
+## Resultados de aprendizagem e competências
+Ability to develop machine learning systems depending on existing needs and apply the most appropriate technological tools.<br />Know, apply and evaluate advanced learning models.<br />Know deep learning techniques, with end-to-end training approaches, and minimization of the use of tagged data.<br />Solve applications using advanced auto-learning methods.<br />Acquire the learning skills that allow to continue studying in a way that will be largely self-directed or autonomous.<br />Ability to work in team, organization and planning.<br />Ability to analyze and synthesize knowledge.
+
+## Programa
+Deep Learning. Deep Models.<br />Deep Convolutional Neural Ne tworks. Regularization techniques. Optimization techniques. End to end training.<br />AutoEncoders. Generative Models. Interpretability. Sparsity of models.<br />Applications in computer vision.<br />Data efficient learning. Weakly supervised learning (semi-supervised learning; zero-shot learning; one-shot learning; open class classification).<br />Multitask learning. Transfe r Learning. Active learning.<br />Applications in computer vision. Models for sequential data. Hidden Markov Models.<br />Recurrent Neural Networks.<br />Applications in computer vision. Reinforcement learning.<br />Applications.
+
+## Métodos de ensino e atividades de aprendizagem
+Participatory lectures, seminars and conferences, learning ba sed on the resolution of practical cases and projects, autonomous work and independent study by students, group work and cooperative learning.<br />Subjects will be covered both in participatory lectures, where students will have the chance t o implement methods for themselves. During the lecture part, the course topics will be presented and discussed. The practical/lab periods will be used for solving exercises and for the development of the assignments.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Participação presencial: 30.0 %
+- Exame: 35.0 %
+- Trabalho prático ou de projeto: 35.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 40.0 hours
+- Frequência das aulas: 42.0 hours
+- Apresentação/discussão de um trabalho científico: 10.0 hours
+- Trabalho escrito: 20.0 hours
+- Trabalho laboratorial: 50.0 hours
+
+## Fórmula de cálculo da classificação final
+Students will be assigned weekly individual homework assignments during the whole duration of the course, involving exercises, readings and summarization of selected texts. They will account for 30% of the final grade.Practical work will consist of one project covering the course topics. This will account for 35% of the final grade. The final exam will account for 35% of the final grade.
+
+## Obtenção de frequência
+To be defined.
+

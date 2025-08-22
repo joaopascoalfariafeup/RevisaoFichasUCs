@@ -1,0 +1,115 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Comunicações Digitais
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p><span style="font-size: 10px;">O objectivo fundamental da disciplina de Comunicações Digitais é ensinar aos estudantes os princípios fundamentais da transmissão de informação através de canais ruidosos e demonstrar a sua aplicação prática nos componentes básicos dos modernos sistemas de telecomunicações. Para tal, são apresentados com algum detalhe os principais resultados da teoria de informação, nomeadamente os teoremas da codificação de fonte e de canal, em simultâneo com algoritmos de compressão de dados e de codificação para detecção e correcção de erros, bem como aspectos básicos da transmissão de sinais analógicos e digitais, incluindo o cálculo da probabilidade de erro e a análise do desempenho de diversos esquemas de comunicação.</span></p>
+
+## Resultados de aprendizagem e competências
+<p class="p1">Pretende-se que os estudantes adquiram as seguintes competências:</p>
+<p><span style="font-size: 10px;">Familiaridade com os componentes básicos de um sistema de telecomunicações;</span></p>
+<p><span style="font-size: 10px;">Conhecimento aprofundado dos limites fundamentais da codificação e dos algoritmos mais utilizados;</span></p>
+<p><span style="font-size: 10px;">Capacidade de abstracção e de compreensão dos modelos matemáticos subjacentes ao desenho de emissores e receptores;</span></p>
+<p><span style="font-size: 10px;">Sensibilidade para os problemas levantados pelo ruído e para as métricas mais relevantes na análise de sistemas de telecomunicações;</span></p>
+<p><span style="font-size: 10px;">Capacidade de aplicar os conhecimentos adquiridos na resolução de problemas complexos.</span></p>
+
+## Pré-requisitos e co-requisitos
+<p><span style="font-size: 10px;">Alguma maturidade em análise matemática, álgebra linear e teoria das probabilidades, bem como um primeiro contato com a teoria do sinal e com o processamento digital. </span></p>
+
+## Programa
+<p>Introdução à Teoria da Informação<br />Códigos fonte<br />Códigos corretores de erros<br />Introdução ao OFDM<br />Técnicas de espalhamento espectral<br /><br /></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p class="p1">Nas aulas são inicialmente apresentados cada um dos temas,  seguindo-se a resolução comentada de exercícios demonstrativos. Aos alunos será ainda distribuído um conjunto de problemas para resolução fora das aulas. Será ainda realizado um projecto introdutório de software defined radio.</p>
+<p class="p1"> </p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Participação presencial: 10.0 %
+- Trabalho prático ou de projeto: 20.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 120.0 horas
+- Frequência das aulas: 36.0 horas
+- Trabalho laboratorial: 10.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><span style="font-size: 10px;">CF=0,2 x L + 0,8 x E, em que L denota o trabalho de SDR e E denota o exame final.<br />O projecto de SDR será avaliado por um quizz final.<br /></span></p>
+
+## Obtenção de frequência
+<p><span style="font-size: 10px;">Não ultrapassar o número limite de faltas previsto nas normas de avaliação.</span></p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Digital Communications
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p class="p1">The main goal of this class is to teach students the fundamental principles of information transmission over noisy channel and show how they are applied in the design of the basic components of contemporary communication systems. For this purpose, we present with some detail the main results of information theory, namely the source coding and channel coding theorems, while confronting the student with practical coding schemes and their performance.</p>
+
+## Resultados de aprendizagem e competências
+<p class="p1">We expect the students to develop the following competences:</p>
+<p class="p1">- familiarity with the basic components of a communications systems;</p>
+<p class="p1">- detailed knowledge of the fundamental limits of communication and the most common coding algorithms;</p>
+<p class="p1">- ability for abstract reasoning and understanding of the mathematical models based upon which transmitters and receivers are designed;</p>
+<p class="p1">- sensitivity to the problems raised by noise and the most relevant performance metrics for the analysis of communication systems;</p>
+<p class="p1">- ability to apply the acquired knowledge in solving complex engineering problems.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Some maturity in mathematical analysis, linear algebra and probability theory, as well as a first contact with signal theory and digital processing.</p>
+
+## Programa
+<p class="p1">Introduction to Information Theory<br />Source coding<br />Error-correcting codes<br />Introduction to OFDM<br />Spread spectrum techniques</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p class="p1">Theory and concepts are presented in classes followed for exercise solving. Also some typical problems are discussed and solved. Students will be given a list of problems to solve outside class. Additionally, there will be a introductory software defined radio project.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Participação presencial: 10.0 %
+- Trabalho prático ou de projeto: 20.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 120.0 hours
+- Frequência das aulas: 36.0 hours
+- Trabalho laboratorial: 10.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><span style="font-size: 10px;">CF=0,20 x L + 0,80 x E, in which L denotes the SDR work and E is the final exam.<br />The SDR work will be evaluated individually by a final quizz.<br /></span></p>
+
+## Obtenção de frequência
+<p class="p1">Not to be absent more than the allowed number of times stated in "Normas de Avaliação".</p>
+

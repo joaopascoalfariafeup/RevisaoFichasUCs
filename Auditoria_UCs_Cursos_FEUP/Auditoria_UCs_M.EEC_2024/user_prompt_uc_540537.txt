@@ -1,0 +1,116 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas e Controlo
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Análise e projecto de sistemas dinâmicos lineares de controlo em tempo contínuo e amostrados.<br />Proficiência de utilização de ferramentas computacionais de apoio à análise e projecto de controladores para sistemas dinâmicos lineares.</p>
+
+## Resultados de aprendizagem e competências
+No final desta UC, os estudantes deverão ser capazes de:<br /><br /><ol style=&quot;list-style-type: undefined;&quot;><br /><li>Modelizar e analisar sistemas dinâmicos de controlo lineares.</li><br /><li>Analisar sistemas dinâmicos de controlo lineares representados no espaço de estados e projectar os controladores lineares realimentados e estimadores lineares de estado, quer em tempo contínuo, quer em tempo discreto.</li><br /><li>Formular problemas de controlo óptimo linear quadrático e calcular as suas estrtégias de controlo óptimo.</li><br /><li>Utilizar ferramentas computacionais de apoio à análise de sistemas de controlo e ao projecto de controladores.</li><br /></ol>
+
+## Pré-requisitos e co-requisitos
+Álgebra Linear, Análise Matemática,  Sinais e Sistemas
+
+## Programa
+Espaço dos Estados (no domínio dos tempos contínuo e discreto).<br /><br />Breve revisão de tópicos de Algebra pertinentes (valores e vectores próprios, mudanças de coordenadas).<br />Noção de estado.<br />Modelização no espaço dos estados: Equações diferenciais de ordem n versus representação (A,B,C,D). <br />Formas canónicas controlável, observável, diagonal.<br />Resposta temporal: Fórmula da variação dos parametros. <br />Métodos de cálculo da exponencial de uma matriz.<br />Localização dos pólos e resposta temporal.<br />Controlabilidade. Observabilidade.<br />Colocação dos pólos: Controlador por realimentação linear no estado. Estimador de estado por realimentação linear no erro da saída.<br />Independência do projecto do controlador e do estimador.<br />Controlador por realimentação linear na estimativa do estado.<br />Introdução à estabilidade no domínio do espaço dos estados.<br />Regulador Linear quadrático.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teóricas: exposição da matéria e resolução de exemplos de exercícios<br />Aulas teórico práticas: Resolução de exercícios representativos. Apoio ao estudantes na resolução de problemas propostos na aula, esclarecimento de dúvidas e realização de exercícios práticos, bem como acompanhamento de trabalhos apoiados na utilização do MATLAB.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Trabalho prático ou de projeto: 30.0 %
+- Trabalho escrito: 0.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 20.0 horas
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 63.0 horas
+
+## Fórmula de cálculo da classificação final
+A avaliação final tem duas componentes:<br />EF - Valorização do Exame Final na escala de 0 a 20 valores com um peso de 70%<br />CC - Valorização da Componente Contínua na escala de 0 a 20 valores com um peso de até 30%<br /><br />Classificação Final = = 0.7*EF  + 0.3*CC<br /><br />A Componente Contínua é medida pelo desempenho no projecto de grupo e pelo grau de participação da Aula TP <br />O desempenho no projeto será valorizado até 6 valores (30%), não podendo exceder em mais de 4 valores a classificação do exame .<br /><br />CC= min{E+4,P}<br /><br /> No caso de realização do exame de recurso, este é valorizado até 20 valores, totalizando a classificação final.
+
+## Obtenção de frequência
+A frequência é obtida através da participação em pelo menos 75% das aulas TP e pela participação no mini-projecto.
+
+## Melhoria de classificação
+A melhoria de classificação é realizada por exame na época de recurso, envolvendo toda a matéria, valorizado até 20 valores, totalizando a classificação final.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Control and Systems
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Analysis and design of linear dynamic control systems in both contexts of continuous time and sampled data.<br /> Proficiency in the use of computational tools to suport the analysis and design of controllers for dynamic linear systems.</p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of the course the students should be able to:</p>
+<ol style="list-style-type: undefined;">
+<li>Model and analyze linear dynamic control systems by using methods and tools in the frequency domain and in the time domain.</li>
+<li>Analyze linear dynamic control systems represented in the state space and design linear feedback controllers and linear state estimators in both discrete and continuous time.</li>
+<li>Formulate linear quadratic optimal control problems and compute their optimal control strategies.</li>
+<li>Use computacional tools to support the analysis of control systems and the design of controllers.</li>
+</ol>
+
+## Pré-requisitos e co-requisitos
+Linear Algebra, Calculus, Signal and Systems.
+
+## Programa
+<p>State Space (Systems in continuous and discrete time domains).<br /><br />Brief review of pertinent topics in Algebra (eigenvectors, eigenvalues, coordinates change).<br />The concept of state.<br />State space modeling: Differential equations of order n and the (A,B,C,D) representation. <br />Canonical forms: controllable, observable, and diagonal.<br />Time response: Variation of parameters formula. <br />Methods to compute the exponential of a matrix.<br />Poles localization and time response.<br />Controllability. Observability.<br />Pole placement: Linear state feedback controller. State estimator by output error linear feedback. <br />Independence of the designs of the linear controller and estimator.<br />Linear state estimate feedback controller<br />Introduction to stability in the state space domain.<br />Linear quadratic regulator.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Exposition lectures: Presentation and discussion of the various topics of the curricular unit. Detailed explanation of examples of application of concepts and methods.<br />Exercises solving classes: Practical exercises are solved by the students with the support of the teacher by clarifying the issues that they might raise. Follow-up of the work in the mini projects support by the use of MATLAB.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Trabalho prático ou de projeto: 30.0 %
+- Trabalho escrito: 0.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 20.0 hours
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 63.0 hours
+
+## Fórmula de cálculo da classificação final
+<pre class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; data-placeholder=&quot;Tradução&quot;><span lang=&quot;en&quot;>The final evaluation has two components:<br />EF - Valuation of the Final Exam on a scale of 0 to <br />20  &#8203;&#8203;with a weight of 70%<br />CC - Valuation of the Continuous Component on a scale <br />of 0 to 20  &#8203;&#8203;with a weight of up to 30%<br /><br />Final Classification = 0.7 EF + 0.3 CC<br /><br />The Continuous Component is assessed by the performance <br />in the group project and the degree of participation of <br />the PL Lesson <br />Project performance will be valued up to 6 points (30%), but <br />not exceding in more than 4 points the classification of the exam.<br /><br />CC= min{E+4,P}<br /><br /></span></pre><br /><pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; data-placeholder=&quot;Tradução&quot;><span lang=&quot;en&quot;>In case of Conducting the resit exam (&quot;exame de recurso&quot;), that is valued up to 20, <br />the total final classification.</span></pre><br /><pre class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; data-placeholder=&quot;Tradução&quot;><span lang=&quot;en&quot;> </span></pre>
+
+## Obtenção de frequência
+<pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; data-placeholder=&quot;Tradução&quot;><span lang=&quot;en&quot;>Frequency status is obtained through participation in at <br />least 75% of the TP classes and through participation in <br />the mini-project. </span></pre>
+
+## Melhoria de classificação
+<pre class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; data-placeholder=&quot;Tradução&quot;><span lang=&quot;en&quot;>Conducting the resit exam (&quot;exame de recurso&quot;), that is valued up to 20, <br />the total final classification.</span></pre>
+

@@ -1,0 +1,120 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Programação Concorrente
+
+## Curso responsável
+Licenciatura em Ciência de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>O objetivo principal é fornecer uma formação sólida sobre concorrência, com particular ênfase nos princípios fundamentais de concorrência e no desenho e implementação de modelos de computação concorrente em arquiteturas de memória partilhada, assim como dos principais problemas inerentes.</p>
+
+## Resultados de aprendizagem e competências
+<p>Ao completar a UC espera-se que o estudante adquira as seguintes competências:</p>
+<ul>
+<li>compreender os princípios fundamentais de concorrência e as principais problemáticas relacionadas com a concorrência e com a execução concorrente de programas.</li>
+<li>conhecer as especificidades das arquiteturas de memória partilhada que são relevantes para o desempenho de uma aplicação concorrente, como o fluxo de dados e o processamento das instruções, o funcionamento da memória, e a sincronização e coerência dos dados em memória.</li>
+<li>conhecer os princípios teóricos que fundamentam um bom e correto desenho de uma aplicação concorrente, com particular ênfase nos conceitos e aspetos formais da sincronização.</li>
+<li>estar familiarizado com as principais primitivas de<span class="Apple-converted-space">  </span>sincronização existentes para o desenvolvimento de aplicações concorrentes e ser capaz de modelar e implementar estruturas de<span class="Apple-converted-space"> </span>dados, ferramentas e/ou aplicações concorrentes correta e<span class="Apple-converted-space">  </span>eficientemente, usando primitivas/bibliotecas duma linguagem de programação atual para programação em memória partilhada utilizando processos e/ou threads.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Aprovação em Lógica Computacional e Sistemas de Operação
+
+## Programa
+<ul><br /><li>Conceitos básicos: tipos de arquiteturas e de aplicações concorrentes. Concorrência como abstração de paralelismo. Distinção entre concorrência e paralelismo, entre programa sequencial e programa concorrente, e entre programação sequencial, concorrente, paralela e distribuída. Processos.</li><br /><li>Introdução aos modelos: abstração, especificação e modelação de sistemas; sistemas de transição etiquetados (LTS): estados, ações atómicas, comportamento e equivalência; conceitos básicos dum cálculo de processos como prefixo de ações, escolha, composição (paralela), guardas. Modelos assíncronos e síncronos. Intercalação. Ações atómicas partilhadas. Propriedades de correção: safety, liveness e fairness.</li><br /><li>Princípios de sincronização: distinção entre comunicação e sincronização, e entre competição e cooperação. Operações atómicas em hardware e em software. O problema da região crítica. Starvation versus deadlock. Formas de evitar deadlock e maximizar concorrência.</li><br /><li>Primitivas de sincronização: principais primitivas de sincronização -- locks, monitores e barreiras -- e diferentes abordagens de implementação.</li><br /><li>Programação com processos e com threads:distinção entre processos e threads. Principais benefícios e implicações da utilização de processos multithreaded. User threads versus kernel threads. Modelo de programação concorrente tendo por base a utilização de: (i) processos em conjunto com técnicas avançadas de mapeamento de memória; (ii) processos multithreaded utilizando bibliotecas duma linguagem de programação atual; (iii) métodos de comunicação alternativos, e.g., reativos e por mensagens.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teóricas de exposição dos tópicos do programa e aulas práticas laboratoriais para demonstração e desenvolvimento de programas. Para a modelação serão usados simuladores de sistemas de transição ou máquinas de estados.<em><br /> </em></p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho laboratorial: 30.0 %
+- Teste: 70.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 74.0 horas
+- Frequência das aulas: 48.0 horas
+- Elaboração de projeto: 40.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação é constituída, ou por um trabalho prático e 2 testes, ou por um trabalho prático e o exame de recurso.<br /><br />Cada um dos dois testes da disciplina  e os exames têm uma nota mínima de 6 valores em 20.<br /><br /><br />A nota final (NF) é obtida pela ponderação das notas da avaliação parciais dos seguintes modos:<br /><br />1)<br />NF = 30% * Trab + 35% * Test1 + 35%* Test2  <br /><br />onde:<br />Trab = Trabalho <br />Test1 = Primeiro teste<br />Test2 = Segundo teste<em><br /><br />ou<br /></em><br />2)<br />NF = 30%*Trab+ 70%ExameR<br /><br />onde<br />Trab = Trabalho<br />ExameR= Exame de Recurso</p>
+
+## Obtenção de frequência
+Serão registadas as presenças às aulas práticas. Perde a frequência por falta de assiduidade o estudante que:<br /> - faltar a mais de 25% das aulas práticas previstas, e<br /> - não obtiver &gt;6 (em 20) na avaliação do trabalho prático.
+
+## Melhoria de classificação
+A melhoria de classificação é realizada por um exame cotado para 20 valores.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Concurrent Programming
+
+## Curso responsável
+Bachelor in Computer Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>Introduce students to the fundamental theoretic and practical principals of concurrency, with emphasis on the correctness, design and implementation of models of concurrent computation using shared memory architectures. </p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of the course, students are expected to: </p>
+<ul>
+<li>understand the fundamentals of concurrency, the key issues related with the execution of concurrent programs and the specificities of modern shared memory architectures which are relevant to the performance of concurrent programs.</li>
+<li>be able to apply the theoretical principles which guide a good and correct design of a concurrent program, with particular emphasis on the concepts and formal aspects of synchronization.</li>
+<li>know the main synchronization primitives/libraries for the development of concurrent programs and be able to model and implement concurrent data structures, programs and/or applications correctly and efficiently by using primitives/libraries of modern programming languages for shared memory programming using processes and/or threads.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Computational logic and operation systems.
+
+## Programa
+<div><strong> </strong></div><br /><ul><br /><li>Basic concepts: different types of architectures and concurrent applications. Concurrency as an abstraction of parallelism. Distinction between concurrency and parallelism; sequential and concurrent programs; sequential, concurrent, parallel and distributed programming. Processes.</li><br /><li>Introduction to modeling: abstraction, specification and modeling of sequential and concurrent<span class=&quot;Apple-converted-space&quot;>  </span>systems. Labelled transition systems (LTS): states, atomic actions, behaviour and equivalence. Basic concepts of a process algebra: event prefix, choice, parallel composition and guards. Synchronous and asynchronous models.<span class=&quot;Apple-converted-space&quot;>  </span>Interleaving. Shared atomic actions. Correction properties: safety, liveness and fairness.</li><br /><li>Principles of synchronization: distinction between communication and synchronization; competition and cooperation. Atomic operations in hardware and software. The critical region problem. Starvation versus deadlock. Approaches to avoid deadlocks and maximize concurrency.</li><br /><li>Synchronization primitives: locks, monitors and barriers.</li><br /><li>Programming with processes and threads: distinction between processes and threads. Main advantages and difficulties of using multithreaded processes. User threads versus kernel threads. Concurrent programming based on:(i) processes with advanced memory mapping techniques; (ii)<span class=&quot;Apple-converted-space&quot;>  </span>multithreaded processes using libraries of a current programming language; (iii) alternative communication methods, e.g., reactive and by messages.<em><br /> </em></li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical classes of exposition of the topics of the program and practical laboratory classes for demonstration and development of programs. Transition system simulators or state machines will be used for modeling.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho laboratorial: 30.0 %
+- Teste: 70.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 74.0 hours
+- Frequência das aulas: 48.0 hours
+- Elaboração de projeto: 40.0 hours
+
+## Fórmula de cálculo da classificação final
+<p id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tradução"><span class="Y2IQFc" lang="en">The final grade (FG) is obtained by weighting the partial assessment grades as follows: <br /><br />1)<br />FG = 30% * CW +  35% * Test1 + 35% * Test2 <br /><br /> Where: <br /> CW = Course work <br />Test1 = First test, which requires a minimum of 6 out of 20 points<br />Test2 = Second test, which requires a minimum of 6 out of 20 points</span></p>
+<p><em>or <br /></em><br />2) <br />FG = 30% * CW +70% RExam<br /><br />where:<br />CW = Course work <br />RExam: Recovery Exam, which requires a minimum of 6 out of 20 points</p>
+
+## Obtenção de frequência
+In order to be admitted to the exams, students must:<br /> - attend at least 75% of the practical classes, and<br /> - obtain &gt;6 (in 20) in the practical assignment.
+
+## Melhoria de classificação
+Only by an exam.
+

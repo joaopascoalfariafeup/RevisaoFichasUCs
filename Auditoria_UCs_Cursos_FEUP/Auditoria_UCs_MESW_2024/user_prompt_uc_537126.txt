@@ -1,0 +1,129 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Engenharia de Requisitos e Modelação de Software
+
+## Curso responsável
+Mestrado em Engenharia de Software
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Dotar os alunos com competências para planear, gerir e levar a cabo um processo de análise e especificação de requisitos de um sistema de software.</p>
+
+## Resultados de aprendizagem e competências
+<p>No final da unidade curricular, os estudantes deverão ser capazes de:<br /><br />- conhecer os fundamentos básicos da engenharia de requisitos (importância no processo de desenvolvimento de software, classificação dos níveis de requisitos, tipos de requisitos, papel diferentes intervenientes);<br />- selecionar, descrever e aplicar múltiplas técnicas para levantamento de requisitos;<br />- escrever um documento de requisitos completo seguindo as melhores práticas e standards;<br />- validar e verificar requisitos (incluindo a realização de análises de risco);<br />- compreender como a validação formal pode ajudar no processo de validação de requisitos;<br />- descrever o processo de especificação de requisitos em metodologias ágeis;<br />- aplicar técnicas de gestão de requisitos;<br />- selecionar ferramentas para apoiar o processo de engenharia de requisitos.<br /><br /></p>
+
+## Programa
+<ul><br /><li>Introdução à Engenharia de Requisitos</li><br /><ul><br /><li>Introdução à Engenharia de Requisitos</li><br /><li>Importância dos requisitos no desenvolvimento de software.</li><br /><li>Classificação de níveis de requisitos</li><br /><li>Tipos de requisitos (funcionais, não funcionais, específicos de domínio).</li><br /><li>O papel dos diferentes intervenientes na engenharia de requisitos.</li><br /></ul><br /><li>Elicitação de Requisitos</li><br /><ul><br /><li>Introdução à elicitação de requisitos</li><br /><li>Desafios na elicitação de requisitos</li><br /><li>Identificar e envolver diferentes intervenientes</li><br /><li>Técnicas para levantamento de requisitos</li><br /></ul><br /><li>A Escrita do Documento de Requisitos</li><br /><ul><br /><li>Acordo e Análise de Requisitos</li><br /><li>Representação de Requisitos</li><br /><li>Norma ISO/IEC/IEEE 29148</li><br /><li>UML/SysML</li><br /><li>O Documento de Requisitos</li><br /><li>Especificações Comportamentais</li><br /><li>Melhores práticas e recomendações</li><br /></ul><br /><li>Validação e verificação de requisitos</li><br /><ul><br /><li>O que é gestão de risco de requisitos?</li><br /><li>Validação e Verificação</li><br /><li>Padrões para V&amp;V</li><br /><li>Exemplo - Validação de Requisitos</li><br /></ul><br /><li>Métodos Formais</li><br /><ul><br /><li>Motivação</li><br /><li>O que são métodos formais?</li><br /><li>Exemplos</li><br /></ul><br /><li>Especificação de Requisitos e Metodologias Ágeis</li><br /><ul><br /><li>Introdução às Metodologias Ágeis</li><br /><li>Engenharia de Requisitos para Metodologias Ágeis</li><br /></ul><br /><li>Gestão de Requisitos</li><br /><ul><br /><li>Processo de gerenciamento de requisitos</li><br /><li>Gerenciamento e controle de configuração</li><br /><li>Reconciliando diferenças</li><br /><li>Gestão de Requisitos Globais</li><br /><li>Antipadrões na gestão de requisitos</li><br /><li>Padrões para gestão de requisitos</li><br /></ul><br /><li>Suporte de ferramentas para engenharia de requisitos</li><br /><ul><br /><li>Suporte à rastreabilidade</li><br /><li>Ferramentas de gestão de requisitos</li><br /></ul><br /><li>Estudos de caso e exemplos da indústria</li><br /></ul><br /><p> </p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Os tópicos do programa são expostos num conjunto de aulas expositivas. Ao longo do semestre os estudantes realizarão 2 projetos em grupo (maioritariamente em aula) onde colocarão em prática os conhecimentos adquiridos:</p>
+<ul>
+<li>No primeiro projeto os estudantes terão de simular um workshop de levantamento de requisitos e criar um documento de requisitos para um hipotético projeto de software.</li>
+<li>No segundo projeto os estudantes irão realizar uma análise a uma ferramentas de requisitos. </li>
+</ul>
+<p><br />Os conceitos teóricos são avaliados através de um teste.<br /><br />Com o objetivo de proporcionar aos estudantes uma visão da indústria sobre os temas da unidade curricular, alguns oradores serão convidados ao longo do semestre para fazerem apresentações sobre a gestão de requisitos nas suas empresas.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 55.0 %
+- Participação presencial: 15.0 %
+- Teste: 30.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 94.0 horas
+- Estudo autónomo: 35.0 horas
+- Frequência das aulas: 33.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>30% - GP I - Trabalho de grupo I  (grupo) <br /><br />25% - GP II - Trabalho de grupo II (grupo) </p>
+<p>30% - T - Teste (individual)<br /><br />15% - P - Participação nas aulas (individual)</p>
+
+## Obtenção de frequência
+Participar em pelo menos 75% das aulas;
+
+## Melhoria de classificação
+<p>É possível melhorar o teste (T). As componentes Trabalho de grupo (GP I  e GP II) e Participação nas aulas (P) só podem ser melhoradas na próxima ocorrência da Unidade Curricular.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Requirements Engineering and Software Modeling
+
+## Curso responsável
+Master in Software Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>This course unit aims to endow students with planning and management skills, so that they can analyse and specify the requirements of a software system.</p>
+
+## Resultados de aprendizagem e competências
+<p>By the end of the course, students should be able to:</p>
+<p> </p>
+<ul>
+<li>know the basic fundamentals of requirements engineering (importance in the software development process, Requirements Level Classification, Types of requirements, The role of stakeholders);</li>
+<li>select, describe, and apply multiple techniques for gathering requirements;</li>
+<li>write a complete requirements document following best practices and standards;</li>
+<li>validate and verify requirements (including performing risk analyses);</li>
+<li>understand how formal validation can help in the requirements validation process;</li>
+<li>describe the requirements specification process in agile methodologies;</li>
+<li>apply requirements management techniques;</li>
+<li>select tools to support the requirements engineering process.</li>
+</ul>
+
+## Programa
+<ul><br /><li>Introduction to Requirements Engineering<br /><ul><br /><li>Introduction to Requirements Engineering</li><br /><li>Importance of requirements in software development.</li><br /><li>Requirements Level Classification</li><br /><li>Types of requirements (functional, non-functional, domain-specific).</li><br /><li>The role of stakeholders in requirements engineering.</li><br /></ul><br /></li><br /><li>Requirements Elicitation<br /><ul><br /><li>Introduction to Requirements Elicitation</li><br /><li>Challenges in requirements elicitation</li><br /><li>Identifying and involving relevant stakeholders</li><br /><li>Techniques for gathering requirements</li><br /></ul><br /></li><br /><li>Writing the Requirements Document<br /><ul><br /><li>Requirements Agreement and Analysis</li><br /><li>Requirements Representation</li><br /><li>ISO/IEC/IEEE Standard 29148</li><br /><li>UML/SysML</li><br /><li>The Requirements Document</li><br /><li>Behavioral Specifications</li><br /><li>Best Practices and Recommendations</li><br /></ul><br /></li><br /><li>Requirements Validations and Verifications<br /><ul><br /><li>What Is Requirements Risk Management?</li><br /><li>Validation and Verification</li><br /><li>Standards for V&amp;V</li><br /><li>Example - Validation of Requirements</li><br /></ul><br /></li><br /><li>Formal Methods<br /><ul><br /><li>Motivation</li><br /><li>What are formal methods?</li><br /><li>Examples</li><br /></ul><br /></li><br /><li>Requirements Specification and Agile Methodologies<br /><ul><br /><li>Introduction to Agile Methodologies</li><br /><li>Requirement Engineering for Agile Methodologies</li><br /></ul><br /></li><br /><li>Requirements Management<br /><ul><br /><li>Requirements Management Process</li><br /><li>Configuration Management and Control</li><br /><li>Reconciling Differences</li><br /><li>Global Requirements Management</li><br /><li>Antipatterns in Requirements Management</li><br /><li>Standards for Requirements Management</li><br /></ul><br /></li><br /><li>Tool Support for Requirements Engineering<br /><ul><br /><li>Traceability Support</li><br /><li>Requirements Management Tools</li><br /></ul><br /></li><br /><li>Case Studies and Real-world Examples</li><br /></ul><br /><p> </p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The program topics are exposed in a series of expositive classes. Throughout the semester, students will carry out 2 group projects (mostly in class) where they put the knowledge acquired into practice:</p>
+<ul>
+<li>In the first project students will be able to simulate a requirement gathering workshop and create a requirements document for a hypothetical software project.</li>
+<li>In the second project students will conduct an analysis of an existing requirements tool.</li>
+</ul>
+<p>Theoretical concepts are assessed through a test.</p>
+<p>In order to provide students with industry views on the topics of the curricular unit, some speakers will be invited throughout the semester to give presentations on the management of requirements in their companies.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 55.0 %
+- Participação presencial: 15.0 %
+- Teste: 30.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 94.0 hours
+- Estudo autónomo: 35.0 hours
+- Frequência das aulas: 33.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>30% - GP I - Group project I (group) </p>
+<p>25% - GP II - Group project II (group) </p>
+<p>30% - T - Test (individual)<br /><br />15% - P - Participation in classes (individual)</p>
+
+## Obtenção de frequência
+<p>Students have to attend at least 75% of the scheduled classes;</p>
+
+## Melhoria de classificação
+<p>Students can improve the mark of their Test (T). The Group project components (GP I  and GP II) and Participation in classes (P) can only be improved in the following academic year.</p>
+

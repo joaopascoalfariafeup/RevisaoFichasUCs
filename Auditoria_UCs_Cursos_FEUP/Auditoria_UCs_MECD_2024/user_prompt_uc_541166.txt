@@ -1,0 +1,172 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Introdução à Aprendizagem Computacional e Extração de Conhecimento
+
+## Curso responsável
+Mestrado em Engenharia e Ciência de Dados
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p><strong>Enquadramento: <br /></strong>Após uma época em que as diferentes empresas/instituições muito investiram na recolha de dados no âmbito da informatização das suas operações (por ex.: sensores, sistemas GPS), e em que muitas e variadas novas fontes de dados surgiram (por ex.: redes sociais), existe agora a necessidade de pôr esses dados ao serviço dessas empresas/instituições. O objetivo é ser capaz de extrair conhecimento desses dados de modo a melhorar a eficiência e ganhar vantagem competitiva. É desta necessidade que surge a Unidade Curricular de Introdução à Aprendizagem Computacional e Extração de Conhecimento (IACE).</p>
+<p> </p>
+<p><strong>Objetivos:<br /></strong>O estudante deve ser capaz de: (1) Utilizar adequadamente estatística descritiva para descrição de dados; (2) Saber descrever as diferentes fases do processo de descoberta de conhecimento CRISP; (3) Saber utilizar e analisar os resultados de alguns dos principais métodos de classificação e de regressão; (4) Saber utilizar e interpretar métodos de análise de aglomerados; (5) Saber utilizar e interpretar métodos de regras de associação; (6) Saber desenvolver um problema de Aprendizagem Computacional e Extração de Conhecimento de acordo com a metodologia CRISP-DM.</p>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;">Como resultado da aprendizagem, pretende-se que os estudantes:</span></p>
+<ul>
+<li>Conheçam os vários tipos de tarefas de aprendizagem computacional e de extração de conhecimento (AC&amp;EC).</li>
+<li>Identifiquem problemas de apoio à decisão que possam ser representados como tarefas de AC&amp;EC.</li>
+<li>Conheçam as fases de um projecto de AC&amp;EC.</li>
+<li>Conheçam os principais métodos/algoritmos para cada tipo de tarefa de AC&amp;EC e compreendam o essencial do seu funcionamento.</li>
+<li>Apliquem esses métodos a problemas de apoio à decisão.</li>
+<li>Avaliem os resultados de um projeto de AC&amp;EC.</li>
+</ul>
+<p><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;"> </span></p>
+
+## Pré-requisitos e co-requisitos
+Não há pré-requisitos nem co-requisitos a considerar.
+
+## Programa
+<p>AC&amp;EC descritivo</p>
+<ul>
+<li>Técnicas descritivas de análise de dados</li>
+<li>Qualidade dos dados e técnicas de pré-processamento: normalização, redução e discretização.</li>
+<li>Clustering: Algoritmos de partição, hierárquicos e de densidades. Medidas de avaliação.</li>
+<li>Regras de associação: Algoritmo APRIORI. Outros algoritmos. Medidas de avaliação.</li>
+<li>Metodologias de Data Mining: Metodologia CRISP-DM. Gestão de projetos.</li>
+</ul>
+<p>AC&amp;EC preditivo</p>
+<ul>
+<li>Sobre-ajustamento e técnicas de reamostragem.</li>
+<li>Regressão: regressão linear multivariada e extensões. Medidas de avaliação.</li>
+<li>Critérios de seleção de técnicas e de modelos.</li>
+<li>Classificação binária: medidas de avaliação.</li>
+<li>Técnicas preditivas baseadas em distâncias, probabilidades, procura e otimização.</li>
+<li>Previsão com múltiplos modelos</li>
+<li>Enviesamento dos algoritmos</li>
+<li>Tarefas de classificação não-binária</li>
+<li>Classificação com dados não balanceados</li>
+<li>Classificação semi-supervisionada e aprendizagem ativa</li>
+</ul>
+<p>    Breve introdução a: text mining, sistemas de recomendação e análise de redes sociais</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas teóricas decorrem com a exposição das matérias seguidas de excercícios práticos.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 0.0 %
+- Teste: 60.0 %
+- Trabalho laboratorial: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 60.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>0.6*Teste + 0.4*Trabalho;<br /> Notas mínimas: Teste &gt;= 7.0.</p>
+
+## Obtenção de frequência
+N/A
+
+## Melhoria de classificação
+<p>A melhoria de classificação será efectuada através de prova individual única com duas componentes: 1. exame de recurso; 2. Uma componente adicional que permita avaliar as competências avaliadas através do trabalho desenvolvido na avaliação distribuída. A melhoria de classificação pode ser efetuada na época de recurso dessa edição ou de edições subsequentes.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Introduction to machine learning and data mining
+
+## Curso responsável
+Master in Data Science and Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p><strong>Background</strong>:<br />After a season in which different companies/institutions very invested in data collection by computerizing its operations (e.g. sensors, GPS systems), and in which many and varied new data sources have emerged (e.g. social networks), there is now the need to place such data at the service of those companies. The goal is to be able to extract knowledge from these data in order to improve efficiency and gain competitive advantage. From this need arises the Curricular Unit  (UC) of Introduction to Machine Learning and Knowledge Extraction.</p>
+<p><strong>Objectives:<br /></strong>The student should be able to: (1) Use adequately descriptive statistics for data description; (2) To describe the different stages of the process of knowledge discovery CRISP; (3) to use and analyze the results of some of the main methods of classification and regression; (4) to use and interpret cluster analysis methods; (5) to use and interpret methods of association rules; (6) To be able to develop a project on Machine Learning or Knowledge Discovery using the CRISP-DM methodology.</p>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;">As a learning result, it is intended that students: </span></p>
+<ul>
+<li><em>Understand the different types of machine learning &amp; data mining (ML&amp;DM) tasks.</em></li>
+<li><em>Identify decision support problems that can be represented as ML&amp;DM tasks.</em></li>
+<li><em>Understand the phases of a ML&amp;DM project.</em></li>
+<li><em>Know the main methods / algorithms for each ML&amp;DM task type and understand the basics of their behavior.</em></li>
+<li><em>Apply these methods to decision support problems.</em></li>
+<li><em>Evaluate the results of a ML&amp;DM project.</em></li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;">It is not required to have attended any specific course. </span></p>
+
+## Programa
+<p>Descriptive ML&amp;DM</p>
+<ul>
+<li>Descriptive data analysis techniques</li>
+<li>Quality of data and preprocessing techniques: normalization, reduction and discretization.</li>
+<li>Clustering: Partitioning, hierarchical, and densities algorithms. Evaluation measures.</li>
+<li>Association rules: APRIORI algorithm. Other algorithms. Evaluation measures.</li>
+<li>Data Mining Methodologies: CRISP-DM methodology. Project management.</li>
+</ul>
+<p>Predictive ML&amp;DM</p>
+<ul>
+<li>Overfitting and resampling techniques.</li>
+<li>Regression: Multivariate linear regression and extensions. Evaluation measures.</li>
+<li>Selection criteria for techniques and models.</li>
+<li>Binary classification: evaluation measures.</li>
+<li>Predictive techniques based on distances, probabilities, search and optimization.</li>
+<li>Ensemble learning</li>
+<li>Algorithm Bias</li>
+<li>Non-binary classification tasks</li>
+<li>Classification with unbalanced data</li>
+<li>Semi-supervised classification and active learning</li>
+</ul>
+<p>Brief introduction to: Text mining, recommendation systems and analysis of social networks</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical classes are based on the presentation of course unit themes followed by practical exercices.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 0.0 %
+- Teste: 60.0 %
+- Trabalho laboratorial: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 60.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>0.6*Test + 0.4*Assignment;<br />Minimum grades: Test &gt;= 7.0.</p>
+
+## Obtenção de frequência
+N/A
+
+## Melhoria de classificação
+<p>The classification improvement will be carried out by single individual proof with two components: 1. examination of appeal; 2. An additional component that allows assessing the skills assessed through the work developed in the distributed evaluation. The classification improvement can be made at the time of feature of this edition or subsequent editions. The improvement of final grade takes place at the corresponding appeal period in the current edition of the course or in the subsequent ones.</p>
+

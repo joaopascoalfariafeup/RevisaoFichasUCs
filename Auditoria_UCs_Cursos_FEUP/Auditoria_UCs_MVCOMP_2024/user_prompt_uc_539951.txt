@@ -1,0 +1,102 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Fundamentos de Processamento e Análise de Imagem
+
+## Curso responsável
+Mestrado em Visão por Computador
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Esta unidade curricular aborda os tópicos mais fundamentais em processamento e análise de imagens e apresenta-se como a primeira numa sequência com outra unidade curricular onde são apresentados os tópicos avançados. Além de estudar e aplicar técnicas fundamentais de processamento e análise de imagens, são estudadas aplicações nesta área que visam a resolução de problemas reais. Esta abordagem fornece aos estudantes as ferramentas necessárias para aplicar os algoritmos estudados em casos práticos, bem como a base para o desenvolvimento de novos algoritmos e prosseguir o estudo de métodos mais avançados.
+
+## Resultados de aprendizagem e competências
+Resultados de aprendizagem: <br /><br /><ul><br /><li>Compreender os conceitos básicos e técnicas de processamento de imagem digital.</li><br /><li>Compreender os conceitos básicos e técnicas de análise de imagens digitais.</li><br /><li>Capacidade de aplicar diferentes técnicas básicas para problemas de visão computacional.</li><br /><li>Saber avaliar a adequação das metodologias aplicadas em problemas específicos.</li><br /></ul><br />Competências:<br /><br />CT1. Exercer a profissão com clara consciência das suas dimensões humana, económica, jurídica e ética e com compromisso com a qualidade e a melhoria contínua.<br />CG2. Capacidade de analisar as necessidades de uma empresa na área da visão computacional e determinar a melhor solução tecnológica para a mesma.<br />CG4. Capacidade de análise crítica e avaliação rigorosa de tecnologias e metodologia.<br />CG5. Capacidade de identificar problemas não resolvidos e fornecer soluções inovadoras.<br />CG7. Capacidade de aprendizagem autônoma para especialização em uma ou mais áreas de estudo.<br />CE1. Conhecer e aplicar os conceitos, metodologias e tecnologias de processamento de imagem.<br />CE3. Conhecer e aplicar conceitos, metodologias e tecnologias de análise de imagem e vídeo.
+
+## Programa
+Parte 1 (UDC)<br />* Percepção e cor<br />* Pré-processamento: normalização e melhoramento<br />* Restauração de imagem<br />* Detecção de orlas<br />* Transformações de imagem<br />* Operadores morfológicos<br />* Correspondência de modelos<br /><br />Parte 2 (USC)<br />* Extração de propriedades globais da imagem (pontos-chave, bolhas, cantos, MSERs)<br />* Extração de Propriedades Invariantes em Escala (SIFT)<br />* Segmentação através de limiar<br />* Segmentação por ajuste a um modelo (transformada de Hough)<br />* Segmentação através de divisão e crescimento de regiões<br />* Outras técnicas de segmentação
+
+## Métodos de ensino e atividades de aprendizagem
+A metodologia seguida utiliza o Campus Virtual da USC-UDC como plataforma básica. Na sala de aula virtual da disciplina, os alunos terão todas as informações (material teórico, slides das aulas, roteiros práticos, etc.)<br /><br />* Sessões de mestrado: exposição oral complementada com recurso a meios audiovisuais e introdução de questões para os alunos, para transmitir conhecimentos e facilitar a aprendizagem.<br />* Práticas laboratoriais: Resolução prática de diferentes problemas de imagem através da aplicação de técnicas de processamento de imagens explicadas durante as sessões de mestrado.<br />* Pesquisa: proposta de duas situações práticas de análise de imagens que exigem que os alunos identifiquem o problema em estudo, formulem-no com precisão, desenvolvam os procedimentos relevantes, interpretem os resultados e tirem as devidas conclusões do trabalho realizado.<br /><br />As competências CT1, CG2, CG4, CG5 e CG7 são desenvolvidas principalmente no desenvolvimento de projetos de investigação, e as competências CE1 e CE2 são desenvolvidas em master classes, realização de exercícios e projetos de investigação.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 40.0 %
+- Trabalho laboratorial: 60.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 24.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho escrito: 2.0 horas
+- Trabalho de investigação: 40.0 horas
+- Trabalho laboratorial: 44.0 horas
+- Elaboração de projeto: 10.0 horas
+
+## Fórmula de cálculo da classificação final
+A avaliação da unidade curricular é composta por duas partes que devem ser aprovadas de forma independente com nota mínima de 10 em 20 valores:<br /><br />60%: A parte relativa às sessões de apresentação poderá ser ultrapassada através da avaliação contínua das práticas laboratoriais, que avaliará a adequação das soluções propostas aos problemas, a qualidade dos resultados obtidos e a compreensão das técnicas utilizadas. Em alternativa, esta parte será avaliada através de um teste final escrito com questões teóricas e problemas práticos. É utilizado principalmente para avaliar as competências CE1 e CE3.<br /><br />40%: Resolução de dois casos práticos (projecto de investigação). Serão avaliadas a adequação das soluções propostas aos problemas, a qualidade dos resultados obtidos e a compreensão das técnicas utilizadas. É utilizado para avaliar principalmente as competências CT1, CG2, CG4, CG5 e CG7.
+
+## Obtenção de frequência
+Realização dos trabalhos laboratoriais e dos projetos baseados em casos práticos.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Fundamentals of image analysis and processing
+
+## Curso responsável
+Master in Computer Vision
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+This curricular unit addresses the most fundamental topics in image processing and analysis and presents itself as the first in a sequence with another curricular unit where the advanced topics are presented. In addition to studying and applying fundamental techniques of image processing and analysis, applications in this area are studied that aim to solve real problems. This approach gives students the necessary tools to apply the algorithms studied in practical cases, as well as the basis for developing new algorithms and pursuing the study of more advanced methods.
+
+## Resultados de aprendizagem e competências
+<em>Learning outcomes:<br /></em><br /><ul><br /><li><em>Understand the basic concepts and techniques of digital image processing.</em></li><br /><li><em>Understand the basic concepts and techniques of digital image analysis.</em></li><br /><li><em>Ability to apply different basic techniques for computer vision problems.</em></li><br /><li><em>Know how to assess the adequacy of the methodologies applied to specific problems.</em></li><br /></ul><br /><em>Competencies:<br /><br />CT1. Practice the profession with a clear awareness of its human, economic, legal and ethical dimensions and a commitment to quality and continuous improvement.<br />CG2. Ability to analyze the needs of a company in the field of computer vision and determine the best technological solution for it.<br />CG4. Capacity for critical analysis and rigorous evaluation of technologies and methodology.<br />CG5. Ability to identify unsolved problems and provide innovative solutions.<br />CG7. Autonomous learning ability for specialization in one or more fields of study.<br />CE1. Know and apply the concepts, methodologies and technologies of image processing.<br />CE3. Know and apply image and video analysis concepts, methodologies and technologies.</em>
+
+## Programa
+Part 1 (UDC)<br />* Perception and colour<br />* Preprocessed: normalization and enhancement<br />* Image restoration<br />* Edge detection<br />* Image transformations<br />* Morphological operators<br />* Template matching<br /><br />Part 2 (USC)<br />* Extraction of global image properties (key points, blobs, corners, MSERs)<br />* Extraction of Invariant Properties at Scale (SIFT)<br />* Segmentation through thresholding<br />* Segmentation by fitting to a model (Hough transform)<br />* Segmentation through division and growth of regions<br />* Other segmentation techniques
+
+## Métodos de ensino e atividades de aprendizagem
+The methodology followed uses the Virtual Campus of the USC-UDC as a basic platform. In the virtual classroom of the subject, the students will have all the information (theory material, class slides, practice scripts, etc.)<br /><br />* Master sessions: oral exposition complemented with audiovisual media and the introduction of questions for the students to transmit knowledge and facilitate learning.<br />* Laboratory practices: Practical resolution of different image problems by applying image processing techniques explained during the master sessions.<br />* Research: Propose two practical situations in image analysis that require students to identify the problem under study, formulate it accurately, develop the relevant procedures, interpret the results, and draw the appropriate conclusions from the work done.<br /><br />The CT1, CG2, CG4, CG5 and CG7 competencies are developed mainly in developing research projects, and the CE1 and CE2 competencies are developed in master classes, carrying out exercises and research projects.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 40.0 %
+- Trabalho laboratorial: 60.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 24.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho escrito: 2.0 hours
+- Trabalho de investigação: 40.0 hours
+- Trabalho laboratorial: 44.0 hours
+- Elaboração de projeto: 10.0 hours
+
+## Fórmula de cálculo da classificação final
+The evaluation of the curricular unit consists of two parts that must be passed independently with a minimum grade of 10 out of 20:<br /><br />60%: The part related to the presentation of the master sessions can be overcome through the continuous evaluation of laboratory practices, which will assess the adequacy of the proposed solutions to the problems, the quality of the results obtained and the understanding of the techniques used. Alternatively, this part will be evaluated through a final written test with theoretical questions and practical problems. It is mainly used to assess CE1 and CE3 competencies.<br /><br />40%: Resolution of two practical cases (research project). The adequacy of the proposed solutions to the problems, the quality of the results obtained and the understanding of the techniques used will be assessed. It mainly evaluates the CT1, CG2, CG4, CG5 and CG7 competencies.
+
+## Obtenção de frequência
+Carry out laboratory practices and projects based on practical cases.
+

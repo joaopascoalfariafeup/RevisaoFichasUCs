@@ -1,0 +1,102 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Processamento e Análise de Imagem Avançados
+
+## Curso responsável
+Mestrado em Visão por Computador
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<ul><br /><li>Estudo e aplicação de técnicas avançadas de processamento digital de imagens.</li><br /><li>Estudo e aplicação técnicas avançadas de análise de imagens digitais.</li><br /><li>Análise de problemas reais e projeto de desenvolvimento de soluções baseadas em tecnologias avançadas de processamento e análise de imagens.</li><br /><li>Avaliação da adequação das metodologias aplicadas em problemas específicos.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<p>Os estudantes que concluírem este curso com sucesso deverão:<br /><br /></p>
+<ul>
+<li>compreender e ser capazes de explicar os conceitos de processamento digital de imagens e técnicas avançadas de análise de imagens digitais;</li>
+<li>conhecer e ser capazes de aplicar esses algoritmos em situações práticas;</li>
+<li>adquirir conhecimentos que lhes permitam resolver desenvolver soluções baseadas em tecnologias avançadas de processamento e análise de imagens;</li>
+<li>ser capazes de analisar e compreender artigos científicos seleccionados nas áreas de processamento e análise de imagem e de visão por computador.</li>
+</ul>
+
+## Programa
+- Técnicas avançadas de processamento de imagens. Denoising avançado. Variação total. Deteção avançada de bordas (por exemplo, filtro bilateral, difusão anisotrópica, congruência de fase). <br />- Segmentação avançada (modelos deformáveis, métodos level-set, Markov Random Fields, graph-cuts, programação dinâmica, etc.).<br />- Segmentação baseada em aprendizagem (modelos ativos de forma / aparência).<br />- Modelos de saliência e atenção.<br />- Tópicos selecionados em processamento e análise avançada de imagens (detecção, segmentação semântica, realce multivista, superresolução, inpainting, coloração, photo stitching, remoção de fundo, etc.).<br />- Aplicações avançadas de processamento e análise de imagens.
+
+## Métodos de ensino e atividades de aprendizagem
+O processo de ensino-aprendizagem será baseado numa abordagem de aprendizagem teórico-prática.  Haverá uma exposição e discussão das matérias do programa, acompanhada pela resolução de exercícios baseados na análise e resolução de casos práticos. Adicionalmente, haverá lugar ao desenvolvimento de projetos individuais de aplicação das técnicas estudadas.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 20.0 %
+- Trabalho prático ou de projeto: 80.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 50.0 horas
+- Estudo autónomo: 70.0 horas
+- Frequência das aulas: 42.0 horas
+
+## Fórmula de cálculo da classificação final
+Classificação = PR * 0.8 + T * 0.2<br /><br />PR - projetos<br />T - testes escritos
+
+## Obtenção de frequência
+Obter uma classificação mínima de 50% na avaliação distribuída.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Advanced image processing and analysis
+
+## Curso responsável
+Master in Computer Vision
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<ul><br /><li>Study and application of advanced digital image processing techniques.</li><br /><li>Study and application of advanced techniques of digital image analysis.</li><br /><li>Analysis of real problems and design and development of solutions based on advanced image processing and analysis technologies.</li><br /><li>Evaluation of the adequacy of the methodologies applied to specific problems.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<div>Upon completion of this course, students will:</div><br /><br /><br /><br /><div><br /><ul><br /><li>understand and be able to explain the basic concepts of advanced digital image processing techniques and advanced techniques of digital image analysis;</li><br /><li>have knowledge of existing methods for visual data analysis and be able to apply them in practical situations;</li><br /><li>acquire skills for the deveobter uma classificação mínima de 40% na avaliação distribuída.lopment of solutions based on advanced image processing and analysis technologies;</li><br /><li>be able to analyze and understand selected scientific papers in image processing and analysis and computer vision.</li><br /></ul><br /></div>
+
+## Programa
+- Advanced image processing techniques. Advanced denoising. Total variation.<br />Advanced edge detection (e.g. bilateral filter, anisotropic diffusion, phase congruence).<br />- Advanced segmentation (deformable models, level-set methods, Markov Random Fields, graph cuts, dynamic programming, etc.).<br />Learning-based segmentation (active shape/appearance models).<br />- Salience and attention models.<br />- Selected topics on advanced image processing and analysis (detection, semantic segmentation, multi-view enhancement, superresolution, inpainting, colouring, photo stitching, background removal, etc.).<br />- Advanced applications of image processing and analysis.
+
+## Métodos de ensino e atividades de aprendizagem
+The teaching-learning process will be based on a theoretical-practical. There will be a presentation and discussion of the course topics and resolution of exercises using learning based on the analysis and resolution of practical cases. Additionally, individual projects will be developed where the studied computer vision methods will be applied.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 20.0 %
+- Trabalho prático ou de projeto: 80.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 50.0 hours
+- Estudo autónomo: 70.0 hours
+- Frequência das aulas: 42.0 hours
+
+## Fórmula de cálculo da classificação final
+Final Classification = PR * 0.8 + T * 0.2<br /><br />PR - projects<br />T - written tests
+
+## Obtenção de frequência
+Obtain a minimum of 50% in the distributed evaluation classification
+

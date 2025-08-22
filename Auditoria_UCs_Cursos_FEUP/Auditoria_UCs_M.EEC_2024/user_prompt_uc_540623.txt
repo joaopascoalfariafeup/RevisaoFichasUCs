@@ -1,0 +1,150 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas Multimédia
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Dotar os estudantes de competências para a aplicação de tecnologias e metodologias no desenvolvimento de sistemas multimédia. Fornecer os elementos de base para a concepção e desenvolvimento de aplicações multimédia para a Internet do Futuro. Será dado enfoque: à componente de áudio, abordando aspectos de análise de conteúdo musical com vista à identificação automática e acesso a conteúdo musical; á componente de tansmissão, nomeadamente, tecnologias e protocolos emergentes para steraming de sinais multimedia.</p>
+<p>Com este objectivo em vista, pretende-se que a UC potencie o desenvolvimento das seguintes capacidades e atitudes profissionais:</p>
+<ol>
+<li>a)autonomia e iniciativa na aquisição e integração de conhecimentos na área das tecnologias multimédia;</li>
+<li>b) gestão e documentação de projetos multimédia; </li>
+<li>c) Projecto formal de sistemas e aplicações multimédia, tendo em consideração as necessidades do público-alvo<span class="Apple-converted-space">  </span>e introduzindo inovação usando tecnologias emergentes.</li>
+</ol>
+
+## Resultados de aprendizagem e competências
+<p>No final da unidade curricular os estudantes terão adquirido aos seguintes conhecimentos e as seguintes competências:</p>
+<p>a) conhecimentos:</p>
+<p>- tecnologias mais actuais para a distribuição de sinais media;</p>
+<p>-<span class="Apple-converted-space">  </span>propriedades fundamentais dos sinais media;</p>
+<p>- características acústicas e psico-acústicas de diferentes tipos de sons, através de análise temporal e espectral;</p>
+<p>- técnicas apropriadas à análise e recuperação de informação musical;<br /><br />- classificação de conteúdo musical;</p>
+<p>- requisitos de aplicações e serviços multimédia;</p>
+<p>- metodologia para o projecto e desenvolvimento de serviços multimédia cemtados no utilizador;</p>
+<p>- desafios e tecnologias para steraming de sinais multimedia.</p>
+<p>B) competências:</p>
+<p>- utilizar ferramentas para análise e classificação de sinais media e interpretação das características extraídas;</p>
+<p>- explicar a utilização das tecnologias, protocolos e normas no contexto de sistemas multimédia.</p>
+<ul>
+<li>selecionar ferramentas, protocolos e normas de acordo com os requisitos do serviço multimédia;</li>
+<li>utilizar ferramentas de concepção e desenvolvimento de sistemas multimédia;</li>
+<li>projectar e testar sistemas de acesso a dados multimédia e de comunicação de informação multimédia<span class="Apple-converted-space"> .</span></li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>Conhecimentos básicos em processamento digital de sinal e programação (Matlab/Python).</p>
+
+## Programa
+<p>Revisão dos mecanismos do sistema audiovisual humano e características dos sinais media</p>
+<p>Introdução à Análise de Conteúdo Musical: O que é; os diferentes modos e representações, aplicações, tópicos de investigação e tarefas.</p>
+<p>Análise de Som e Música: a DFT (Transformada de Fourier Discreta), FFT(Fast-Fourier Transform) e STFT (Short-Time Fourier Transform) no processamento de sinais audio.</p>
+<p>Descrição de conteúdo musical em termos de níveis de abstração, contextos temporais e aspectos musicais; Computação de descriptors de baixo nível.</p>
+<p>MIR: Descrição de timbre; Clustering e classificação.</p>
+<p>MIR: Determinação de pitch; Extração de chroma, acordes e tonalidade.</p>
+<p>MIR: Deteção de novidade; análise de ritmo e deteção de beat e downbeat.<br /><br />Avaliação na análise de conteúdo musical (MIR).</p>
+<p>Desafios científicos na análise de conteúdo musical (MIR).<br /><br />Sistemas multimédia em rede - streaming de conteúdo audiovisual<br /><br />  - como é que funciona o streaming de vídeo?<br />  - que tecnologias de streaming existem?<br />  - o estado da indústria de streaming (desafios, inovação e prioridades);<br />  - normas internacionais (ex., MPEG-2 TS, MPEG-M, SMPTE ST 2110);<br />  - protocolos (DASH, HLS, protocolos relevantes da pilha protocolar TCP/IP);<br />  - tecnologias de codificação e reprodução (codecs, formatos e players);<br />  - redes de distribuição de conteúdo (Content Delivery Networks, CDNs);<br />  - avaliação de desempenho e qualidade.</p>
+<p>Design centrado no utilizador: propriedades e contexto do utilizador. Interfaces multimédia</p>
+<p>Modelização conceptual de aplicações multimédia;</p>
+<p>Princípios de prototipagem e usabilidade;</p>
+<p>Especificação formal em UML (casos de uso, diagramas de colaboração, diagramas de classes); </p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A unidade curricular é baseada em aulas teóricas e aulas práticas. Pretende-se que esta unidade curricular tenha uma forte componente de prática laboratorial. Consequentemente, considera-se adequado adoptar maioritáriamente o método de ensino/aprendizagem baseado em projetos, apoiado em aulas teóricas. Estas têm por objectivo dar a conhecer os conceitos fundamentais e as tecnologias relevantes que forneçam as bases necessárias para a concepção e desenvolvimento dos referidos projectos. Serão também apresentadas ferramentas para o planeamento e desenvolvimento dos aplicações.<em><br /><br /> </em></p>
+<p>As aulas teóricas consistem na apresentação teórica dos tópicos da área, utilizando exemplos multimedia sempre que adequado.</p>
+<p>As aulas práticas consistem na apresentação breve de problemas específicos, seguidos de actividade prática para resolução dos problemas expostos. Os estudantes devem desenvolver os seus trabalhos em grupos de dois durante as aulas práticas, e participar nas discussões subsequentes. Serão realizados três destes trabalhos ao longo do semestre, sendo dois deles sujeitos a avaliação. No final do semestre será proposto uma trabalho escrito individual com avaliação.<br /><br />Adicionalmente, será proposto aos estudantes (organizados em grupos de dois ou três estudantes) o projecto de uma aplicação multimédia a desenvolver fora do período de aulas. A metodologia de desenvolvimento desses projetos organiza-se em três fases iterativas: concepção, design e especificação formal, previamente calendarizadas, incentivando-se o realização de testes de validação e usabilidade nas diferentes fases.</p>
+<p> </p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho laboratorial: 35.0 %
+- Trabalho prático ou de projeto: 35.0 %
+- Trabalho escrito: 30.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 38.0 horas
+- Estudo autónomo: 20.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 38.0 horas
+- Trabalho escrito: 24.0 horas
+
+## Fórmula de cálculo da classificação final
+0,35 *  média_classificação_trabalhos_laboratoriais + 0,35 * classificação_projecto + 0,30 trabalho escrito
+
+## Obtenção de frequência
+Realizar todos os trabalhos; entrega de relatórios relativos aos trabalhos.
+
+## Melhoria de classificação
+Melhoria de um máximo de dois trabalhos de laboratório. Os estudantes devem entregar o(s) relatório(s) final (ais) até uma semana antes da conclusão da época de exames.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Multimedia Systems
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+Provide students with skills to apply technologies and methodologies in the development of multimedia systems. Provide the basic elements for the design and development of multimedia applications for the Internet of the Future. Focus will be given to: the audio component, addressing aspects of musical content analysis with a view to automatic identification and access to musical content; the transmission component, namely, emerging technologies and protocols for steraming multimedia signals.<br /><br />With this objective in mind, it is intended that the UC enhances the development of the following professional skills and attitudes:<br /><br />a) autonomy and initiative in the acquisition and integration of knowledge in the area of multimedia technologies;<br />b) management and documentation of multimedia projects;<br />c) Formal design of multimedia systems and applications, taking into account the needs of the target audience and introducing innovation using emerging technologies.
+
+## Resultados de aprendizagem e competências
+At the end of the course, students will have acquired the following knowledge and skills:<br /><br />a) knowledge:<br /><br />- most current technologies for the distribution of media signals;<br /><br />- fundamental properties of media signals;<br /><br />- acoustic and psycho-acoustic characteristics of different types of sounds, through temporal and spectral analysis;<br /><br />- appropriate techniques for analyzing and retrieving musical information;<br /><br />- music classification;<br /><br />- requirements for multimedia applications and services;<br /><br />- methodology for the design and development of multimedia services;<br /><br />- challemges and technologies for advanced multimedia streaming;<br /><br />B) skills:<br /><br />- use tools for analysis of media signals and interpretation of extracted characteristics;<br /><br />- explain the use of technologies, protocols, and standards in multimedia systems;<br /><br />- select tools, protocols and standards according to multimedia service requirements;<br /><br />- use tools for designing and developing multimedia systems;<br /><br />- design and test multimedia access and communication systems.
+
+## Pré-requisitos e co-requisitos
+Basic knowledge in digital signal processing and programming (Matlab/Python)
+
+## Programa
+Revisiting the mechanisms of the human audiovisual system and characteristics of media signals<br /><br />Introduction to Music Content Analysis: What is it; the different modes and representations, applications, research topics and tasks.<br /><br />Sound and Music Analysis: DFT (Discrete Fourier Transform), FFT (Fast-Fourier Transform) and STFT (Short-Time Fourier Transform) in audio signal processing.<br /><br />Description of musical content in terms of abstraction levels, temporal contexts and musical aspects; Computation of low-level descriptors.<br /><br />MIR: Tone Description; Clustering and classification.<br /><br />MIR: Pitch determination; Extraction of chroma, chords and tonality.<br /><br />MIR: Novelty Detection; rhythm analysis and beat and downbeat detection.<br /><br />Assessment in Music Content Analysis (MIR).<br /><br />Scientific challenges in music content analysis (MIR).<br /><br />Networked multimedia systems - streaming of audiovisual content<br /><br /> - how does video streaming work?<br /> - what streaming technologies exist?<br /> - the state of the streaming industry (challenges, innovation, and priorities);<br /> - international standards (eg MPEG-2 TS, MPEG-M, SMPTE ST 2110);<br /> - protocols (DASH, HLS, relevant protocols from the TCP/IP protocol stack);<br /> - encoding and playback technologies (codecs, formats and players);<br /> - Content Delivery Networks (CDNs);<br /> - performance and quality assessment.<br /><br />User-centric design: user properties and context. multimedia interfaces<br /><br />Conceptual modeling of multimedia applications;<br /><br />Principles of prototyping and usability;<br /><br />Formal specification in UML (use cases, collaboration diagrams, class diagrams);
+
+## Métodos de ensino e atividades de aprendizagem
+This curricular unit is based on theoretical and practical classes. It is intended that this course has a strong component of laboratory practice. Consequently, it is considered appropriate to adopt mostly the project-based teaching/learning method, supported by theoretical classes. These aim to make known the fundamental concepts and relevant technologies that provide the necessary bases for the conception and development of these projects. Tools for planning and developing applications will also be presented.<br /><br /><br />Theoretical classes consist of a theoretical presentation of topics in the area, using multimedia examples whenever appropriate.<br /><br />Practical classes consist of a brief presentation of specific problems, followed by a practical activity to solve the problems exposed. Students must develop their work during practical classes, and participate in subsequent discussions. Three of these works will be carried out during the semester and two will be subjected to evaluation. At the end of the semester, an individual written work will be proposed, and subjected to evaluation.<br /><br />Additionally, it will be proposed to students (organized in groups of two or three students) the project of a multimedia application to be developed outside the class period. The development methodology of these projects is organized into three iterative phases: conception, design, and implementation, previously scheduled, encouraging the realization of validation and usability tests in the different phases.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho laboratorial: 35.0 %
+- Trabalho prático ou de projeto: 35.0 %
+- Trabalho escrito: 30.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 38.0 hours
+- Estudo autónomo: 20.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 38.0 hours
+- Trabalho escrito: 24.0 hours
+
+## Fórmula de cálculo da classificação final
+0,35 * average_classification_laboratory_work + 0,35 * project_classification + 0,30 * written work
+
+## Obtenção de frequência
+Carry out all practical assignments; delivery of reports relating to the assignments.
+
+## Melhoria de classificação
+Improvement of a maximum of two lab jobs. Students must submit the final report(s) no later than one week before the end of the exam period.
+

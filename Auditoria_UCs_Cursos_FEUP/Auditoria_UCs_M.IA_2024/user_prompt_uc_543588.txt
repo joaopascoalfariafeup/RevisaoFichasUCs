@@ -1,0 +1,110 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Introdução à Ciência de Dados
+
+## Curso responsável
+Mestrado em Inteligência Artificial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Os estudantes irão obter uma perspectiva global dos diferentes passos num projecto de Ciência de Dados. Para cada um destes passos, algumas das técnicas e métodos principais serão apresentados, sendo detalhes adicionais abordados em unidades curriculares mais específicas.
+
+## Resultados de aprendizagem e competências
+Os alunos deverão:<br />- conhecer todos os passos de um projecto de ciência de dados e respectivas operações mais comuns; <br />- identificar tipos diferentes de problemas de ciência de dados;<br />- selecionar justificadamente métodos, algoritmos e ferramentas adequadas para a resolução desses problemas<br />- aplicar justificadamente métodos, algoritmos e ferramentas para a resolução desses problemas<br />- explicar os fundamentos dos métodos, algoritmos e ferramentas<br />- avaliar os resultados e propôr melhoramentos<br />- conhecer especificidades da aplicação de soluções de ciência de dados em ambiente de produção
+
+## Pré-requisitos e co-requisitos
+Conhecimentos de programação em Python (nível médio).<br />Conhecimentos de estatística.
+
+## Programa
+Diferenças entre o modelo tradicional e o modelo baseado em aprendizagem automática. Recolha de dados e pré-processamento. Modelação e diferentes tipos de problemas de aprendizagem. Algoritmos de ciência de dados. Métodos de avaliação de modelos. Colocação de modelos em produção.
+
+## Métodos de ensino e atividades de aprendizagem
+Aulas teórico-práticas com exposição de conteúdos teóricos e resolução de problemas.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 35.0 %
+- Exame: 40.0 %
+- Teste: 25.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 78.0 horas
+- Estudo autónomo: 42.0 horas
+- Frequência das aulas: 42.0 horas
+
+## Fórmula de cálculo da classificação final
+<div>Haverá um teste e um trabalho de grupo prático.<br /><br />Cada grupo de trabalho deverá ter 3 alunos. <br /><br />Serão realizadas atividades que promovam a participação e o feedback, tais como questões de aula e discussões de grupo.<br /><br />Será realizado um exame final.<br /><br />A nota final é dada pela média pesada das notas teóricas e práticas de acordo com a seguinte fórmula:</div><br /><div> </div><br /><div><strong>NotaFinal.0 = 0.40 x NotaExame + 0.35 x NotaTrab + 0.25 x NotaTeste</strong></div><br /><div><br />CompIndividual=media_ponderada(NotaExame, NotaTeste)<br /><br />NotaFinal = min(NotaFinal.0, CompIndividual*1.35)<br /><br /><br /></div>
+
+## Obtenção de frequência
+Nota superior a zero no trabalho prático e no teste. Resposta a questões de aula submetidas online.
+
+## Melhoria de classificação
+Os trabalhos não podem ser considerados para melhoria na época de recurso.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Introduction do Data Science
+
+## Curso responsável
+Master in Artificial Intelligence
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Students will obtain a global perspective on the different steps of a Data Science project. For each of these steps, some of the main techniques and methods will be presented while further details will be addressed in more specific courses.
+
+## Resultados de aprendizagem e competências
+Students should:<br />- know all the steps of a data science project and its most common operations;<br />- identify different types of data science problems;<br />- justifiably select appropriate methods, algorithms and tools to solve these problems<br />- justifiably apply methods, algorithms and tools to solve these problems<br />- explain the foundations of methods, algorithms and tools<br />- evaluate the results and propose improvements<br />- know the specifics of the application of data science solutions in a production environment
+
+## Pré-requisitos e co-requisitos
+Programming knowledge, especially in Python (intermediate level).<br />Knowledge of statistics.
+
+## Programa
+<div class=&quot;uyb8Gf&quot;><br /><div class=&quot;F3hlO&quot;><br /><div dir=&quot;ltr&quot;>Differences between traditional and machine learning approaches. Data collection and pre-processing. Modeling and different types of learning problems. Data science algorithms. Model evaluation methods. Putting models into production.</div><br /></div><br /></div>
+
+## Métodos de ensino e atividades de aprendizagem
+Tutorial classes with theory exposition and problem solving activities.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 35.0 %
+- Exame: 40.0 %
+- Teste: 25.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 78.0 hours
+- Estudo autónomo: 42.0 hours
+- Frequência das aulas: 42.0 hours
+
+## Fórmula de cálculo da classificação final
+There will be one test and one group assignment.<br /><br />Working groups should be composed of three students.<br /><br />There will be activities to promote participation and feedback such as class questions and group discussions.<br /><br />There will be final exam.<br /><br />The final grade is given by the weighted average of theoretical and practical grades according to the following formula:<br /> <br /><strong>Final Grade.0 = 0.40 x GradeExam + 0.35 x GradeAssignment + 0.25 x GradeTest</strong><br /><br />CompIndividual=weighted_avg(GradeExam, GradeTest)<br /><br />FinalGrade = min (FinalGrade.0, CompIndividual*1.35)
+
+## Obtenção de frequência
+Grade above zero in the assignment and in the test. Answer to class quastions submitted online.
+
+## Melhoria de classificação
+Assignments are not subject to improvement in the appeal season.
+

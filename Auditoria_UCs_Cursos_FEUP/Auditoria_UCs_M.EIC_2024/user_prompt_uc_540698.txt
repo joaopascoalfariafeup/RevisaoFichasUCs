@@ -1,0 +1,155 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Serviços e Aplicações Multimédia
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Dotar os estudantes de conhecimentos e competências para a aplicação de tecnologias e metodologias na concepção e no desenvolvimento de aplicações multimédia em rede.<span class="Apple-converted-space"> </span></p>
+<p>Com este objectivo em vista, pretende-se que a UC potencie o desenvolvimento das seguintes capacidades e atitudes profissionais:</p>
+<ol>
+<li>autonomia e iniciativa na aquisição e integração de conhecimentos na área das tecnologias multimédia;</li>
+<li>Projecto formal de sistemas e aplicações multimédia, tendo em consideração as necessidades do público-alvo<span class="Apple-converted-space">  </span>e introduzindo inovação prevendo a utilização de tecnologias emergentes.</li>
+</ol>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>No final da unidade curricular os estudantes terão adquirido aos seguintes conhecimentos e as seguintes competências:</p>
+<p>a) conhecimentos:</p>
+<ul>
+<li>propriedades fundamentais dos sinais media;</li>
+<li>digitalização de sinais visuais e técnicas básicas de processamento visual;</li>
+<li>digitalização de sinais sonoros e técnicas de análise temporal e espectral para identificação de características acústicas e psico-acústicas; </li>
+<li>bibliotecas Python e/ou Matlab para manipulação de sinais media;</li>
+<li>conceitos e princípios de compressão de sinais media;</li>
+<li>abordagem centrada no utilizador e projecto formal de aplicações multimédia;</li>
+<li>requisitos de aplicações de serviços multimédia em rede;</li>
+<li>tecnologias mais actuais para a distribuição de sinais media em redes de comunicação.</li>
+</ul>
+<p>B) competências:</p>
+<ul>
+<li>utilizar ferramentas para análise e classificação de sinais media e interpretação das características extraídas;</li>
+<li>utilizar bibliotecas Python e criar Notebooks para processar e analisar sinais visuais e sonoros (e/ou Matlab);</li>
+<li>explicar a utilização das tecnologias, protocolos e normas no contexto de sistemas multimédia</li>
+<li>selecionar ferramentas, protocolos e normas de acordo com os requisitos do serviço multimédia;</li>
+<li>utilizar ferramentas de especificação de sistemas multimédia.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>Conhecimentos básicos de redes de computadores, processamento digital de sinal e programação (Matlab/Python).</p>
+
+## Programa
+<ol><br /><li>Breve visão sobre os mecanismos dos sistemas auditivo e visual humano e características dos sinais media</li><br /><li>Digitalização de sinais media</li><br /><li>Introdução a técnicas de processamento de sinais visuais: espaços de cor, operadores pontuais e espaciais; filtros e morfologia</li><br /><li>Introdução a técnicas de processamentos de sinais sonoros</li><br /><li>Compressão media: Conceitos e princípios; algoritmos normalizados; avaliação de qualidade</li><br /><li>Sistemas multimédia em rede - streaming de conteúdo audiovisual</li><br /><ul><br /><li>como é que funciona o streaming de vídeo?</li><br /><li>que tecnologias de streaming existem?</li><br /><li>o estado da indústria de streaming (desafios, inovação e prioridades);</li><br /><li> normas internacionais (ex., MPEG-2 TS, MPEG-M, SMPTE ST 2110);</li><br /><li>protocolos (DASH, HLS, protocolos relevantes da pilha protocolar TCP/IP);</li><br /><li>redes de distribuição de conteúdo (Content Delivery Networks, CDNs); </li><br /></ul><br /><li>Projecto de aplicações e sistemas multimédia</li><br /><ul><br /><li> Design centrado no utilizador: propriedades e contexto do utilizador. </li><br /><li> Modelização conceptual de aplicações multimédia;</li><br /><li> Princípios de prototipagem e usabilidade;</li><br /><li> Especificação formal em UML (casos de uso, diagramas de colaboração, diagramas de classes)</li><br /></ul><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A unidade curricular é baseada em aulas teóricas e aulas práticas. Pretende-se que esta unidade curricular tenha uma forte componente de prática laboratorial. Consequentemente, considera-se adequado adoptar maioritáriamente o método de ensino/aprendizagem baseado em projetos, apoiado em aulas teóricas. Estas têm por objectivo dar a conhecer os conceitos fundamentais e as tecnologias relevantes que forneçam as bases necessárias para a concepção e desenvolvimento dos referidos projectos. </p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho laboratorial: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 32.0 horas
+- Estudo autónomo: 46.0 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho laboratorial: 45.0 horas
+- Trabalho escrito: 0.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Especificação de uma aplicação multimédia: 40%. Trabalhos laboratoriais: 60%.<br /><br />Nota: a componente "Trabalhos Laboratoriais" engloba a realização de 3 ou mais trabalhos práticos em Python ou Matlab e a realização de quizes no Moodle com pesos variáveis.<br /><br /></p>
+
+## Obtenção de frequência
+<p>Nota mínima no trabalho: 10/20</p>
+
+## Melhoria de classificação
+<p>A melhoria do trabalho prático é possível ainda no final da presente ocorrência da unidade curricular (prazos a estabelecer com o docente).</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Multimedia Services and Applications
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p class="p1">This CU has the goal of providing students with knowledge and skills to apply technologies and methodologies in the design and development of networked multimedia applications.<br /><br />With this objective in mind, the UC is intended to enhance the development of the following professional skills and attitudes:<br /><br />1 - autonomy and initiative in the acquisition and integration of knowledge in the area of multimedia technologies;<br />2 - Formal design of multimedia systems and applications, taking into account the needs of the target audience and introducing innovation, foreseeing the use of emerging technologies.</p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of the curricular unit, students will have acquired the following knowledge and skills:<br /><br />a) knowledge:<br /><br /></p>
+<ul>
+<li>fundamental properties of media signals;</li>
+<li>digitization of visual signals and basic visual processing techniques;</li>
+<li>digitalization of sound signals and temporal and spectral analysis techniques to identify acoustic and psycho-acoustic characteristics;</li>
+<li>Python and/or Matlab libraries for manipulating media signals;</li>
+<li>concepts and principles of media signal compression;</li>
+<li>user-centered approach and formal design of multimedia applications;</li>
+<li>requirements for networked multimedia service applications;</li>
+<li>most current technologies for distributing media signals in communication networks.</li>
+</ul>
+<p><br />B) competencies:<br /><br /></p>
+<ul>
+<li>use tools for analysis and classification of media signals and interpretation of extracted characteristics;</li>
+<li>use Python libraries and create Notebooks to process and analyze visual and sound signals (and/or Matlab);</li>
+<li>explain the use of technologies, protocols and standards in the context of multimedia systems:</li>
+<li>select tools, protocols and standards according to the requirements of the multimedia service;</li>
+<li>use multimedia system specification tools.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Basic knowledge of computer networks, digital signal processing and programming (Matlab/Python).
+
+## Programa
+<div><br /><ol><br /><li>Brief overview of the mechanisms of the human auditory and visual systems and characteristics of media signals</li><br /><li>Digitization of media signals</li><br /><li>Introduction to visual signal processing techniques: color spaces, point and spatial operators; filters and morphology</li><br /><li>Introduction to sound signal processing techniques</li><br /><li>Media compression: Concepts and principles; standardized algorithms; quality assessment</li><br /><li>Networked multimedia systems - audiovisual content streaming</li><br /><ul><br /><li>How does video streaming work?</li><br /><li>What streaming technologies are there?</li><br /><li>the state of the streaming industry (challenges, innovation and priorities);</li><br /><li>international standards (e.g., MPEG-2 TS, MPEG-M, SMPTE ST 2110);</li><br /><li>protocols (DASH, HLS, relevant protocols from the TCP/IP protocol stack);</li><br /><li>content distribution networks (Content Delivery Networks, CDNs);</li><br /></ul><br /><li>Design of multimedia applications and systems</li><br /></ol><br /><ul><br /><ul><br /><li>User-centered design: user properties and context.</li><br /><li>Conceptual modeling of multimedia applications;</li><br /><li>Prototyping and usability principles;</li><br /><li>Formal specification in UML (use cases, collaboration diagrams, class diagrams)</li><br /></ul><br /></ul><br /></div><br /><p> </p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The curricular unit is based on theoretical classes and practical classes. This curricular unit is intended to have a strong component of laboratory practice. Consequently, it is considered appropriate to adopt mostly the project-based teaching/learning method, supported by theoretical classes. These aim to make known the fundamental concepts and relevant technologies that provide the necessary bases for the design and development of the aforementioned projects.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho laboratorial: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 32.0 hours
+- Estudo autónomo: 46.0 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho laboratorial: 45.0 hours
+- Trabalho escrito: 0.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Specification of a multimedia application: 40% of the final grade. Laboratory assignments: 60%. <br /><br />Note: the component "Laboratory Work" includes the completion of 3 or more practical works in Python or Matlab and the completion of quizzes in Moodle with variable weights.<br /><br /></p>
+
+## Obtenção de frequência
+<p>Minimum grade on the assignment: 10 out of 20</p>
+
+## Melhoria de classificação
+<p>Improvement of practical works is still possible at the end of this course occurrence (deadlines to be agreed with the teacher).</p>
+

@@ -1,0 +1,105 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Método dos Elementos Finitos
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<ol style=&quot;list-style-type: upper-alpha;&quot;><br /><li style=&quot;text-align: justify;&quot;>Do ponto de vista matemático, saber formular um problema através do Método dos Elementos Finitos, partindo da forma forte das equações diferenciais, passando para a forma fraca e posteriormente efetuando uma discretização espacial do problema.</li><br /><li style=&quot;text-align: justify;&quot;>Ser capaz de desenvolver Elementos Finitos e de Construir as Matrizes e Vetores Relevantes para Efeitos de Resolução de Problemas em Mecânica dos Sólidos em termos dos deslocamentos. Programar o Método dos Elementos Finitos aplicado ao cálculo de sólidos e estruturas.</li><br /><li style=&quot;text-align: justify;&quot;>Ser capaz de utilizar o Método dos Elementos Finitos para a Resolução de problemas práticos de Engenharia em Mecânica através da modelização num pacote comercial (por exemplo ABAQUS).</li><br /></ol>
+
+## Resultados de aprendizagem e competências
+<p style="text-align: justify;">No final da disciplina o aluno deve ter capacidade de formular um problema através do Método dos Elementos Finitos. Deve ter também capacidade de desenvolver um algoritmo para simular o comportamento mecânico de sólidos e capacidade de interpretação de resultados para um leque variado de problemas.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Mecânica I, Mecânica dos Sólidos, Mecânica das Estruturas I e II.</p>
+
+## Programa
+<ul style=&quot;text-align: justify;&quot;><br /><li>Revisão da aplicação dos métodos energéticos no cálculo estrutural e do Método dos Elementos Finitos: apresentação geral dos métodos energéticos com particular referência para os teoremas baseados em formulações de deslocamentos.</li><br /><li>Formulação de Elementos Finitos; Método Geral: definição, por etapas, da formulação de Elementos Finitos em termos de deslocamentos.</li><br /><li>Análise Dinâmica pelo Método dos Elementos Finitos: Princípio Variacional de Hamilton, matriz de massa consistentemente linearizada, integração numérica da equação do movimento (Método das Diferenças Finitas e de Newmark).</li><br /><li>Problemas Materialmente não Lineares, Plasticidade: motivação física, modelo matemático e aspetos computacionais a uma dimensão. Interceção com a superfície de cedência, algoritmos Forward -Euler e Backward-Euler, matriz tangente consistente.</li><br /><li>Algoritmos de Solução não Linear e estratégias de solução incremental-iterativa: Método de Newton-Raphson e Método do Comprimento do Arco.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p style="text-align: justify;">Aulas Teórico-Práticas. Nas Aulas será feita a exposição de vários assuntos teóricos bem como serão orientados trabalhos individuais que serão realizados no período de aulas, nas aulas e em casa.</p>
+
+## Tipo de avaliação
+Avaliação por exame final
+
+## Componentes de Avaliação
+- Exame: 80.0 %
+- Trabalho laboratorial: 20.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 95.0 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho laboratorial: 28.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final é a média das classificações obtidas na componente respeitante aos trabalhos (Parte 1) e no exame (Parte 2), em cada uma das componentes é necessária a obtenção de uma nota mínima de 7 Valores. A não obtenção de pelo menos 7 valores no Trabalho é motivo para não poder fazer quaisquer exames subsequentes.</p>
+
+## Obtenção de frequência
+<div style=&quot;text-align: justify;&quot;>A classificação final é a média das classificações obtidas na componente respeitante aos trabalhos (20%) e no exame (80%), em cada uma das componentes é necessária a obtenção de uma nota mínima de 7 valores (em 20).</div>
+
+## Melhoria de classificação
+<p>É possivel melhorar a Parte 2 ( Prova escrita) da avaliação no Exame de Recurso. O Trabalho não é susceptível de melhoria.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Finite Element Method
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<ol style=&quot;list-style-type: upper-alpha;&quot;><br /><li style=&quot;text-align: justify;&quot;>From the mathematical point of view, knowledge of how to formulate a problem through the Finite Element Method, starting from the strong form of the differential equations, converting them to the weak form, and finally performing the spatial discretization of the problem, is expected.</li><br /><li style=&quot;text-align: justify;&quot;>To develop different types of finite elements and assemble the matrices and vectors, which are relevant for the solution of problems in the Mechanics of Solids in terms of displacements. Programming the Finite Element Method for the calculation of solids and structures.</li><br /><li style=&quot;text-align: justify;&quot;>Be able to use the Finite Element Method to solve practical problems in Mechanical Engineering through the use of numerical packages (e.g., ABAQUS).</li><br /></ol>
+
+## Resultados de aprendizagem e competências
+<div style=&quot;text-align: justify;&quot;>At the end of the course, the student must be able to formulate a problem using the Finite Element Method. He must also have the ability to develop an algorithm to simulate the mechanical behavior of solids and the capability to evaluate results for a wide range of problems.</div>
+
+## Programa
+<ul style=&quot;list-style-type: disc;&quot;><br /><li style=&quot;text-align: justify;&quot;>Review of the application of energy methods in structural mechanics and the Finite Element Method: general presentation of energy methods with particular reference to theorems based on displacement formulations.</li><br /><li style=&quot;text-align: justify;&quot;>Formulation of Finite Elements; General Method: definition, by stages, of the formulation of Finite Elements in terms of displacements.</li><br /><li style=&quot;text-align: justify;&quot;>Dynamic Analysis by the Finite Element Method: Hamilton Variational Principle, consistently linearized mass matrix, numerical integration of the motion equation (Finite Difference Method and Newmark).</li><br /><li style=&quot;text-align: justify;&quot;>Material non-linear problems, plasticity: physical motivation, mathematical model and computational aspects for one-dimensional problems. Interaction with the yield surface, Forward-Euler, and Backward-Euler algorithms, consistent tangent matrix.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p style="text-align: justify;">Theoretical-Practical classes. In the Classes, the exposition of several theoretical subjects will be made as well as the supervision of individual assignments that will be performed in the period of classes, in the classes and at home.</p>
+
+## Tipo de avaliação
+Evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 80.0 %
+- Trabalho laboratorial: 20.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 95.0 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho laboratorial: 28.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Final Mark is based on the average grade of the assignment and exam. Minimum of 7 (out of 20) in each component of the evaluation.</p>
+
+## Obtenção de frequência
+<div style=&quot;text-align: justify;&quot;>The final classification is the average of the classifications obtained in the component related to the assignments (20%) and the exam (80%). For each of the components, it is necessary to obtain a minimum grade of 7 (out of 20). Failure to obtain at least 7 (out of 20) &#8203;&#8203;in the assignment inhibits the possibility of doing any of the subsequent examinations.</div>
+
+## Melhoria de classificação
+<p>Students can improve their grade by attending resit exam.</p>
+

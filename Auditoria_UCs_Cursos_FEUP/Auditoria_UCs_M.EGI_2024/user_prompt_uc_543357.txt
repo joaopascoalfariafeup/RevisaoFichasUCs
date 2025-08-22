@@ -1,0 +1,151 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas de Informação Empresariais
+
+## Curso responsável
+Mestrado em Engenharia e Gestão Industrial
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>A disciplina tem por objectivos proporcionar ao estudante uma visão de conjunto dos sistemas e aplicações de gestão empresarial, a par da capacidade de analisar e desenvolver aplicações web de média dimensão.</p>
+
+## Resultados de aprendizagem e competências
+<p>A unidade curricular tem por objetivos de aprendizagem (i) proporcionar ao estudante uma perspetiva e compreensão global do ecossistema de informação das organizações empresariais e (ii) dotá-lo das competências técnicas e metodológicas necessárias para analisar e implementar autonomamente aplicações web empresariais de média dimensão.</p>
+<p>Relativamente ao primeiro objetivo de aprendizagem &#8211; perspetiva global dos processos e sistemas de empresariais - o foco está nos processos industriais chave (produção e logística) e nas aplicações chave tais como ERP e MES. Serão também abordados outros processos e aplicações, como os processos e aplicações CRM e BI, e os sistemas de gestão de processos e do conhecimento.</p>
+<p>Relativamente ao segundo resultado de aprendizagem - desenvolvimento de aplicações web - será abordada a programação do lado do cliente e do servidor, a par das arquiteturas web e das metodologias de análise e especificação das aplicações de gestão a partir dos modelos dos processos.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Conhecimento de linguagens de programação de computadores, por exemplo C<br /> Conhecimento de sistemas de gestão de bases de dados relacionais, modelação de dados e SQL</p>
+
+## Programa
+<p> Parte I - Desenvolvimento de aplicações Web</p>
+<ol>
+<li>Linguagens de programação para a Web: HTML e CSS, PHP e Javascript</li>
+</ol>
+<ol start="2">
+<li>Técnicas de desenvolvimento Web: web design, arquiteturas Web, ajax e webservices, Referência a técnicas de segurança das aplicações</li>
+</ol>
+<p> </p>
+<p> Parte II - Metodologias para análise e especificação de aplicações de gestão</p>
+<ol>
+<li>Técnicas de análise e modelação de processos</li>
+<li>Metodologia de especificação das aplicações a partir de modelos dos processos</li>
+</ol>
+<p><br /><br />Parte III &#8211; Perspetiva global dos sistemas de informação empresarial</p>
+<ol>
+<li>Revisão dos principais processos empresariais: gestão de clientes e vendas, gestão de produção e logística, análise empresarial, gestão de projetos e conhecimento.</li>
+<li>Visão geral das principais aplicações de gestão: CRM, ERP, SCM e MES</li>
+<li>Integração dos processos e aplicações: horizontal ao longo da cadeia de valor, e vertical dos processos empresariais até às operações ao nível do chão de fábrica</li>
+</ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas teóricas são dedicadas à introdução dos conceitos. As aulas práticas são dedicadas à realização de exercícios e ao acompanhamento do projeto que os estudantes desenvolvem ao longo do semestre. Aqui, os estudantes começam por modelar um processo de negócio, especificar a aplicação de gestão desse processo (modelo de dados e interface utilizador) e, finalmente, desenvolver a aplicação recorrendo a bdd relacionais e linguagens e técnicas de programação web.</p>
+<p>Tipo de avaliação: distribuída sem exame final.</p>
+<p>A participação do estudante é monitorizada ao longo do semestre. No final de cada um dos 2 projetos, o estudante submete um relatório e efetua uma apresentação para avaliação quanto à originalidade do tema, à qualidade do código, à usabilidade e qualidade gráfica (design) da interface com o utilizador, às técnicas de programação web utilizadas.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 100.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 86.0 horas
+- Estudo autónomo: 28.0 horas
+- Frequência das aulas: 42.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>40% 1º projeto + 60% 2º projeto<br /> <br /> Para ser aprovado na unidade curricular, o estudante deverá ter uma classificação minima de 50%, em cada um dos 2 projetos.<br /><br />A avaliação dos projectos inclui a frequência e a participação nas aulas.</p>
+
+## Obtenção de frequência
+De acordo com as regras gerais da FEUP
+
+## Melhoria de classificação
+<p>Dada a natureza da unidade curricular (baseada em projeto e sem exame final), a melhoria de classificação só será possível nos casos em que, devido a um impedimento devidamente justificado, o estudante não pôde realizar os seus trabalhos nas condições normais durante o semestre.<br /> <br /> A admissão em melhoria estará sempre sujeita à aprovação dos docentes</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Enterprise Information Systems
+
+## Curso responsável
+Master in Industrial Engineering and Management
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>The course aims to provide the student with an overview of enterprise management systems and applications, along with the ability to analyze and develop medium-sized web applica<em>tions.</em></p>
+
+## Resultados de aprendizagem e competências
+<p>The main learning outcomes of the course are twofold: (i) to provide the student with a global perspective and understanding of the information ecosystem of business organizations and (ii) to provide the student with the technical and methodological skills necessary to autonomously analyze and effectively implement small to medium sized business applications on the Web.</p>
+<p>Regarding the first learning outcome - landscape of business processes and information systems  - the focus will be on the key industrial processes (production and logistics) and key applications such as ERP and MES. In addition, other core processes and applications will also be addressed, such as CRM and BI applications, as well as process and knowledge management.</p>
+<p>Regarding the second learning outcome - web application development - client and server side programming will be addressed, together with web architectures and methodologies to analyze and specify web applications directly from the business process models.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Knowledge of computer programming, e.g., C language<br /> Knowledge of relational database management systems, data modelling and S<em>QL</em></p>
+
+## Programa
+<p>Part I &#8211; Web application development</p>
+<ol>
+<li>Web programming languages: HTML and CSS, PHP and Javascript</li>
+<li>Web development techniques: web design, web architectures, Ajax and web services, Reference to application security issues</li>
+</ol>
+<br />
+<p>Part II &#8211; Methodologies for process analysis and application specification</p>
+<ol>
+<li>Techniques for business process analysis and modeling</li>
+<li>Methodology for the specification of business applications from the process models</li>
+</ol>
+<br /><br />
+<p>Part III &#8211; Business Information Systems Landscape</p>
+<ol>
+<li>Review of the main business processes: customer and sales management, production and logistics management, business analytics, project and knowledge management.</li>
+<li>Overview of the main business applications: CRM, ERP, SCM and MES</li>
+<li>Integrated view of business processes and management applications: horizontal integration along the value chain and vertical integration from business processes to shop-floor level operations</li>
+</ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Concepts are introduced in the lessons, and application exercises are carried out in practical classes.</p>
+<p>Throughout the semester, students also develop a medium-sized web application. Here, students will start by analyzing and modeling the process, specifying the management application, and finally developing it using relational databases and web programming languages and techniques.</p>
+<p>Type of evaluation: Distributed without a final exam.</p>
+<p>Throughout the semester, student participation is continuously monitored. <br /> <br /> At the end of each of the 2 projects, the student submits a report and makes a presentation in order to be assessed according to the following items: originality of the theme, quality of the code, usability, and graphic quality (design) of the user interface, web programming techniques employed.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 100.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 86.0 hours
+- Estudo autónomo: 28.0 hours
+- Frequência das aulas: 42.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>40% 1st project + 60% 2nd project<br /> <br /> To be approved in the curricular unit, the student must also have a minimum grade of 50%, in each of the projects.<br /><br />Project assessment includes class attendance and participation.</p>
+<p><em> </em></p>
+
+## Obtenção de frequência
+In accordance with the general rules of the FEUP.
+
+## Melhoria de classificação
+<p>Given the nature of the curricular unit (project-based and without a final exam), the improvement of grades will only be possible in cases where, due to a duly justified impediment, the student could not carry out his work under normal conditions during the semester. <br /> <br /> The admission in improvement will always be submitted to the approval of the teachers.</p>
+

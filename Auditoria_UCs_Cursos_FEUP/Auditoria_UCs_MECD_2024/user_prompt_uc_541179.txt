@@ -1,0 +1,96 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Tópicos Avançados de Apoio à Decisão
+
+## Curso responsável
+Mestrado em Engenharia e Ciência de Dados
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+Dotar os alunos de uma visão alargada, mas ao mesmo profunda, dos métodos de otimização por pesquisa em espaços de soluções, que são aplicáveis na resolução de problemas de decisão em múltiplas áreas disciplinares, num enquadramento de apoio à decisão.
+
+## Resultados de aprendizagem e competências
+Espera-se desenvolver nos estudantes competências para:<br />- identificar problemas de otimização e abordá-los de uma forma estruturada;<br />- construir modelos de otimização para estes problemas;<br />- definir o nível de abstração mais adequado para modelizar problemas de otimização para uma abordagem algorítmica à sua resolução.<br />- identificar as técnicas algorítmicas mas adequadas para resolver um dado problema de otimização;<br />- usar métodos heurísticos e meta-heurísticos e matheur+isticos para obter soluções para os problemas;<br />. implementar, testar e validar métodos de pesquisa para resolver diferentes classes de problemas de otimização.
+
+## Programa
+Heurísticas e pesquisa local<br />Heurísticas construtivas<br />Pesquisa exaustiva<br />Estruturas de vizinhança<br />Pesquisa local<br />Dividir e conquistar e programação dinâmica<br />Ramificação e limitação e algoritmos A*<br />Lidar com não admissibilidades em métodos de pesquisa<br />Meta-heurísticas não populacionais<br />- Arrefecimento simulado<br />- Pesquisa tabu<br />- GRASP<br />- Pesquisa em vizinhanças variáveis- Outras metaheurísticas não populacionais<br />Meta-heurísticas populacionais<br />- Algoritmos genéticos e programação evolutiva<br />- Colónias de formigas- Outras meta-heurísticas populacionais<br />Metaheuristicas com base em Programação Matemática (Matheuristics)
+
+## Métodos de ensino e atividades de aprendizagem
+Serão utilizados as seguintes estratégias de aprendizagem activa:<br />- Discussão em grupo de artigos científicos<br />- Discussão e resolução de pequenos problemas<br />- Exploração de caminhos alternativos para o desenvolvimento de problemas- Resolução de um projeto de otimização
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho escrito: 30.0 %
+- Trabalho laboratorial: 70.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 36.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 84.0 horas
+
+## Fórmula de cálculo da classificação final
+Serão utilizados as seguintes estratégias de aprendizagem <br /><br />Fórmula de avaliação: As componentes de avaliação são as seguintes:<br />- Trabalho individual de escrita de um artigo que reporte a implementação de uma metaheurística com base em estrutura de vizinhança sobre um problema standard de otimização combinatória (peso de 50%)<br />- Trabalho de grupo de implementação de uma metaheurística (pouplacional ou de estrutura de vizinhança) específico relacionado com  a área de interesse do estudante (peso de 50%)<br />A cada componente será atribuída uma classificação e a nota final será calculada como a média ponderada de todas as componentes.
+
+## Obtenção de frequência
+N/A
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Advanced Topics on Decision Support
+
+## Curso responsável
+Master in Data Science and Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+To give students a broad, but simultaneously in-depth, overview of search and optimization methodologies, applicable to the resolution of multi-disciplinary decision problems, under a decision support framework.
+
+## Resultados de aprendizagem e competências
+It is expected to endow the students with skills to:<br />- identify optimization problems and approach them in a structured way;<br />- define the most adequate abstraction level to model optimization problems for an algorithmic approach to their resolution.<br />- identify the algorithmic techniques to solve a particular optimization problem;<br />- use heuristics, metaheuristics and matheuristics methods to obtain solutions for the problems;<br />- implement, test and validate, search methodologies to solve different classes of optimization problems.
+
+## Programa
+Heuristics and Local Search<br />Constructive heuristics<br />Exhaustive search<br />Neighbourhood structures<br />Local search<br />Divide and Conquer and Dynamic Programming<br />Branch and Bound and A* Algorithms<br />Dealing with infeasibility in search methods<br />Non-populational metaheuristics<br />- Simulated Annealing<br />- Tabu Search<br />- GRASP<br />- Variable Neighbourhood Search- Other non-populational metaheuristics<br />Populational metaheuristics<br />- Genetic algorithms and evolutionary programming<br />- Ant Colonies- Other populational metaheuristics<br />Metaheuristics based on Mathematical Programming (Matheuristics)
+
+## Métodos de ensino e atividades de aprendizagem
+The following active learning strategies will be used: - Group discussion based on scientific papers - Small problems discussion and resolution - Exploitation of alternative problem development paths- Resolution of an optimization project
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho escrito: 30.0 %
+- Trabalho laboratorial: 70.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 36.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 84.0 hours
+
+## Fórmula de cálculo da classificação final
+<br />Formula Evaluation: The components for student evaluation are:<br />- Individual work assignment on the preparation of a scientific paper that reports the implementation of a neighborhood-based search to a standard combinatorial optimization problem (weight of 50%)<br />- Group work (weight of 50%), about the implementation of a population or neighborhood-based search heuristc to address an optimization problem within the interests of the student.<br />Each component will be graded and the final score will be calculated as the weighted average of all components.
+
+## Obtenção de frequência
+N/A
+

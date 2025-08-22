@@ -1,0 +1,129 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Dinâmica de Estruturas e Engenharia Sísmica
+
+## Curso responsável
+Mestrado em Engenharia Civil
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>JUSTIFICAÇÃO: <br /> A análise dinâmica de estruturas surge na sequência da análise sob ações estáticas lecionada nas unidades curriculares de Teoria de Estruturas 1 e 2, constituindo um desenvolvimento e aquisição de conhecimentos adicionais sobre o comportamento de estruturas. A necessidade regulamentar de utilização da análise dinâmica (sísmica em particular) na prática corrente de Engenharia Civil, conjugada com os poderosos meios computacionais já disponíveis, reforça a pertinência do ensino das matérias de Dinâmica de Estruturas e de Engenharia Sísmica que já conta cerca de 25 anos no curso de Engenharia Civil da FEUP. <br /><br />OBJETIVOS: <br />1- Complementar a compreensão de formulações básicas de análise de sistemas lineares sob ações dinâmicas de carácter determinístico, em face de matéria já lecionada na unidade curricular de Teoria de Estruturas 2; Apresentação de alguns procedimentos básicos de análise dinâmica experimental. <br />2- Aplicação dos métodos da Dinâmica Estrutural à análise do comportamento de estruturas de Engenharia Civil sob ações dinâmicas, com especial ênfase para a resposta sísmica de estruturas de edifícios em face dos atuais preceitos regulamentares (Eurocódigos 8 e 2). <br />3- Sensibilização para os princípios básicos de dimensionamento sísmico subjacentes à filosofia da regulamentação atual e compreensão da sua importância para uma boa conceção de estruturas sismo-resistentes.</p>
+
+## Resultados de aprendizagem e competências
+<p>COMPETÊNCIAS E RESULTADOS DE APRENDIZAGEM:</p>
+<p>Conhecimento- Identificar os conceitos e as particularidades da formulação das equações de equilíbrio inerentes à dinâmica de estruturas. Descrever os principais métodos de análise dinâmica de sistemas estruturais solicitados por diversos tipos de ações dinâmicas. Identificar os principais aspetos da resposta sísmica de estruturas de Engenharia Civil, descrevendo aspetos básicos relativos ao comportamento não-linear de estruturas. Ilustrar e reforçar conceitos importantes como ductilidade, comportamento histerético, dissipação de energia e sua importância no desempenho sísmico de estruturas. Descrever métodos de distribuição de ações horizontais em estruturas de edifícios e consequente obtenção de efeitos nos elementos estruturais. Identificar os principais cuidados a adotar numa boa conceção sismo-resistente de estruturas.</p>
+<p>Compreensão e aplicação- Interpretar e resolver um conjunto de problemas práticos de estruturas de engenharia civil solicitados por ações dinâmicas em geral e sísmica em particular, usando os métodos lecionados para o cálculo da resposta dinâmica. Aplicar alguns conhecimentos relativos à avaliação experimental da resposta de pequenos modelos físicos, procurando realizar previsões de comportamento com base em simulações numéricas.</p>
+<p>Análise- Analisar e distinguir as particularidades da resposta dinâmica de estruturas de engenharia civil em face do tipo de ações solicitantes (condições iniciais, ações harmónicas, impulsivas, quaisquer e sísmica).</p>
+
+## Pré-requisitos e co-requisitos
+<p>CONHECIMENTOS PRÉVIOS: Matérias de análise e comportamento estrutural tratadas nas unidades curriculares de Mecânica, Resistência dos Materiais, Teoria das Estruturas e Estruturas de Betão.</p>
+
+## Programa
+<p>PARTE I: Dinâmica Estrutural <br /><br />Importância da Análise Dinâmica de Estruturas de Engenharia Civil. <br /><br />Sistemas lineares (osciladores) de um grau de liberdade (g.l.):<br />- Breves revisões de matéria já lecionada em TE2 relativa a: modelos matemáticos; resposta a vibrações livres sem e com amortecimento; resposta a solicitações sinusoidais; identificação experimental da frequência natural e do coeficiente de amortecimento. <br />- Funções de forma e definição de sistemas de 1 g.l. generalizados. <br />- Resposta a formas especiais de excitação harmónica. <br />- Resposta a uma ação qualquer, no domínio do tempo (integral de Duhamel). <br />- Relação excitação-resposta no domínio da frequência (análise de Fourier) para uma ação qualquer. <br />- Revisões sobre resposta sísmica de um oscilador linear de um g.l. e espectros de resposta. <br />- Análise vibratória pelo método de Rayleigh. <br /><br />Sistemas lineares com vários graus de liberdade:<br />- Breves revisões de matéria já lecionada em TE2 relativa a: modelos matemáticos; resposta a vibrações livres sem amortecimento; frequências e modos de vibração; condições de ortogonalidade; resposta a vibrações livres com amortecimento; método de sobreposição modal para análise a uma solicitação qualquer, em particular ações sinusoidais e ação sísmica por espectros de resposta (incluindo métodos de combinação modal). <br />- Método de Rayleigh para análise de resposta sísmica, como caso particular do método de sobreposição modal. <br />- Matriz de amortecimento de Rayleigh e sua obtenção; referência a outras formulações. <br />- Análise dinâmica por integração direta no domínio do tempo. <br /><br /><br />PARTE II: Engenharia Sísmica <br /><br />Comportamento, modelação e análise de estruturas de Engenharia Civil sob ação sísmica:<br />- Caracterização da ação dos sismos e seu enquadramento regulamentar (EC8)<br />- Aspetos básicos da resposta sísmica de estruturas. Particularidade da ação sísmica e a ductilidade estrutural. Diferentes tipos de sistemas estruturais de edifícios, no que respeita à resistência sísmica. <br />- Critérios de conceção sismo-resistente de edifícios, regularidades, irregularidades, etc. (breves referências de enquadramento no EC8) <br />- Determinação dos efeitos da ação dos sismos. Enquadramento das diversas metodologias de modelação e análise, gerais exatas e simplificadas, baseadas em modelos estruturais planos e tridimensionais. <br /><br />Noções gerais de dimensionamento sísmico e pormenorização:<br />- Dimensionamento por capacidade resistente. Aspetos básicos e referências ao EC8. <br />- Projeto sísmico de acordo com o EC8. Princípios gerais, objetivos, conceitos e metodologias. Classes de ductilidade, condições de regularidade estrutural, coeficientes de comportamento. Espectro de resposta elástico e espectro de resposta de projeto. Orientações de boa conceção de estruturas sismo-resistentes. Breves referências aos princípios básicos de dimensionamento e pormenorização, em função das classes de ductilidade. <br /><br /><br />DISTRIBUIÇÃO DE CONTEÚDOS: <br />- Conteúdo científico: 70% <br />- Conteúdo tecnológico: 30% <br /><br />DEMONSTRAÇÃO DA COERÊNCIA DOS CONTEÚDOS PROGRAMÁTICOS COM OS OBJETIVOS DA UNIDADE CURRICULAR: <br />A análise dinâmica de estruturas surge na sequência da análise sob ações estáticas leccionada nas unidades curriculares de Teoria de Estruturas 1 e 2, constituindo um desenvolvimento e aquisição de conhecimentos adicionais sobre o comportamento de estruturas. A necessidade regulamentar de utilização da análise dinâmica (sísmica em particular) na prática corrente de Engenharia Civil, conjugada com os poderosos meios computacionais já disponíveis, reforça a pertinência do ensino das matérias de Dinâmica de Estruturas e de Engenharia Sísmica que já conta cerca de 25 anos no curso de Engenharia Civil da FEUP.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teóricas de apresentação dos principais conceitos e metodologias de análise dinâmica, devidamente complementada com a apresentação de exemplos de aplicação. As aulas práticas servem essencialmente para o aprofundamento da discussão e resolução de problemas práticos lançados nas aulas teóricas.<br /><br />DEMONSTRAÇÃO DA COERÊNCIA DAS METODOLOGIAS DE ENSINO COM OS OBJETIVOS DE APRENDIZAGEM DA UNIDADE CURRICULAR:<br />Interpretar e resolver um conjunto de problemas práticos de estruturas de engenharia civil solicitados por ações dinâmicas em geral e sísmica em particular, usando os métodos lecionados para o cálculo da resposta dinâmica. Aplicar alguns conhecimentos relativos à avaliação experimental da resposta de pequenos modelos físicos, procurando realizar previsões de comportamento com base em simulações numéricas. Analisar e distinguir as particularidades da resposta dinâmica de estruturas de engenharia civil em face do tipo de ações solicitantes (condições iniciais, ações harmónicas, impulsivas, quaisquer e sísmica).</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Trabalho escrito: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 60.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final é definida com base numa avaliação distribuída, que consiste em dois trabalhos práticos a realizar fora do período de aulas, e num exame final. A avaliação distribuída tem carácter opcional. Todas as componentes de avaliação são expressas na escala de 0 a 20 valores. <br /><br />A classificação final, CF, resulta da seguinte fórmula de cálculo: <br /><br />CF = max {CT ; EF} <br /><br />onde<br /><br />CT = PA / 2 x CAD1 + PA / 2 x CAD2 + PF x EF <br /><br />CAD1 &#8211; classificação do trabalho prático 1 a realizar fora do período de aulas; <br />CAD2 &#8211; classificação da trabalho prático 2 a realizar fora do período de aulas; <br />EF &#8211; classificação do exame final a realizar nas Épocas Normal e/ou de Recurso. <br /><br />Às classificações CAD1, CAD2 e EF estão associados os seguintes pesos:<br />PA = 25% <br />PF = 75% <br /><br />NOTA 1: Os trabalhos práticos, associados às classificações CAD1 e CAD2, são opcionais. Caso o estudante não realize alguma dessas provas, os respetivos pesos serão adicionados a PF. <br /><br />NOTA 2: Todos os estudantes inscritos na unidade curricular são classificados de acordo com este método. <br /><br />NOTA 3: Os estudantes que frequentaram a unidade curricular no ano letivo anterior poderão usufruir da assiduidade já obtida no ano anterior, mas a classificação da componente distribuída de avaliação deverá ser obtida no ano letivo corrente.<br /><br />NOTA 4: Os estudantes que pretendam obter classificação final superior a 17 valores devem atingir classificação no exame superior a 17,5 e realizar uma prova oral.</p>
+
+## Obtenção de frequência
+<p>A obtenção de classificação final exige o cumprimento de assiduidade à unidade curricular. Considera&#8208;se que um estudante cumpre a assiduidade a uma unidade curricular se, tendo estado regularmente inscrito, não exceder o número limite de faltas correspondente a 25% de cada um dos tipos de aulas previstos.</p>
+<p>Estão dispensados da verificação das condições de assiduidade: i) os casos previstos na lei, nomeadamente os trabalhadores estudantes; ii) os estudantes que foram admitidos a exame no ano letivo anterior.</p>
+<p>À obtenção de frequência está associada uma classificação que resulta da realização facultativa de 2 trabalhos práticos de aplicação da matéria dada, reportados em relatórios de resolução escritos e entregues aos docentes para apreciação e avaliação.</p>
+
+## Melhoria de classificação
+<p>A melhoria de classificação pode ser efetuada nas mesmas condições do exame final e da acumulação com a classificação da avaliação distribuída.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Structural Dynamics and Earthquake Engineering
+
+## Curso responsável
+Master in Civil Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>1- This course aims to act as complement of the understanding of analysis formulation of linear systems under deterministic dynamic excitation, so this course aims to act as an extension of the course Structural Analysis II. This course also presentes some basic procedures for experimental dynamic analysis. <br />2- This course also aims to acquaint students with the application of methods of structural dynamics to the analysis of the structural behaviour under dynamic excitations. It will be given a special emphasis on the seismic response of building structures regarding the regulations Eurocode 8 and Eurocode 2. <br />3- This course also aims to acquaint students with the basic principles of seismic design, relating them with the regulations and stress its importance on the design of seismic resistant structures.</p>
+
+## Resultados de aprendizagem e competências
+<p>SKILLS AND LEARNING OUTCOMES:</p>
+<p>Knowledge- Identify the concepts and characteristics of the formulation of the equilibrium equations in structural dynamics. Describe the main methods of dynamic analysis of structural systems under several types of dynamic actions. Identify the key aspects of the seismic response of structures in Civil Engineering, outlining basic aspects concerning the non-linear behavior of structures. Illustrate and reinforce important concepts such as ductility, hysteretic behavior, energy dissipation and its importance in the seismic performance of structures. Describe methods of distribution of horizontal loads on building structures and consequent effects on obtaining structural dynamic responses. Identify key aspects to achieve a good earthquake-resistant design of structures.</p>
+<p>Understanding and application - Interpret and solve a set of practical problems of civil engineering structures subjected to general dynamic actions, and in particular under seismic actions, using the methods taught to calculate the dynamic response. Apply some knowledge of the experimental evaluation of the dynamic response of small physical models, seeking to accomplish behavior predictions based on numerical simulations.</p>
+<p>Analysis - Analyze and distinguish the particularities of the dynamic response of civil engineering structures (single degree of freedom, generalized single degree of freedom and multi-degree of freedom) in face of the characteristics and of the type of actions applied (effect of the initial conditions; response under harmonic load, impulsive load, any dynamic load and seismic actions).</p>
+
+## Pré-requisitos e co-requisitos
+<p>Previous required skills: Topics of structural analysis and structural behaviour already taught and addressed in disciplines such as Structural Mechanics, Stength of Materials, Theory of Structures and Reinforced Concrete Structures. Therefeore these areas are strong prerequisites to the present course on Structural Dynamics and Earthquake Engineering.</p>
+
+## Programa
+<p>PART 1: Structural Dynamics <br /><br />Importance of structural analysis of dynamics in the context of Civil Engineering.<br /><br />Linear systems (oscillators) with one degree of freedom:<br />- Revision of some themes of the course Structural Analysis II: mathematical model; free vibration response with and without damping; response to a sinusoidal excitation; experimental identification of natural frequency and of damping coefficient <br />- Shape functions and one degree of freedom systems <br />- Harmonic excitation <br />- Duhamel integral and Fourier analysis <br />- Seismic response of a linear oscillator of one degree of freedom <br />- Rayleigh method <br /><br />Linear systems with different degrees of freedom:<br />- Revision of some themes of the Structural Analysis II course: mathematical model; free vibration response with and without damping; sinusoidal excitation response; experimental identification of natural frequency and of damping coefficient <br />- Rayleigh method (seismic response) particular case of modal superposition <br />- Rayleigh&#8217;s damping matrix and how to get it; other formulations <br />- Dynamic analysis of time integration <br /><br /><br />PART II: Seismic Engineering<br /> <br />Behavior, modeling and analysis of Civil Engineering structures under seismic demands:<br />- Characterization of seismic action and its consideration according to codes (EC8).<br />- Basic aspects of the seismic response of structures, including the particularities of seismic action and structural ductility. Different types of structural systems of buildings concerning seismic resistance.<br />- Seismic-resistant design criteria for buildings, including regularities, irregularities, etc. (brief references to EC8 framework).<br />- Determination of the effects of seismic action. Overview of various modeling and analysis methodologies, both general and simplified, based on planar and three-dimensional structural models.<br /><br />Fundamentals of seismic design and detailing:<br />- Capacity design; fundamentals and references to EC8.<br />- Seismic design according to EC8; general principles, aims, concepts and methodologies. Ductility classes; structural regularity conditions; behaviour coefficients. Elastic response spectrum and design response spectrum. Guiding principles for the building design. Brief overview on design and detailing, for different ductility classes.</p>
+<p><br />DISTRIBUTION OF SYLLABUS CONTENT:<br />- Scientific content 70%<br />- Technologic content 30%.</p>
+<p>DEMONSTRATION OF THE SYLLABUS COHERENCE WITH THE CURRICULAR UNIT'S OBJECTIVES: <br />The dynamic analysis of structures follows the analysis under static loads of taught in Structural Analysis 1 and 2, constituting a development and acquisition of additional knowledge on the behavior of structures. The need to regulate the use of dynamic analysis (especially seismic) in the practice of Civil Engineering, coupled with the powerful computational resources already available, emphasizes the relevance of Structural Dynamics and Earthquake Engineering subjects which already has about 25 year Civil Engineering course at FEUP.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical classes are used for the presentation of the main concepts and methodologies, duly complemented by the presentation of some applications, as well as of some experimental tests on physical models. Practical classes are essentially used go deeper inside the discussion and resolution of practical problems suggested in the theoretical classes.<br /><br />DEMONSTRATION OF THE COHERENCE BETWEEN THE TEACHING METHODOLOGIES AND THE LEARNING OUTCOMES: <br />Interpret and solve a set of practical problems in structures of civil engineering required by dynamic actions in general and seismic in particular, using the methods taught in the calculation of dynamic response. Apply some procedures associated with experimental evaluation of the response of small physical models, trying to make predictions of behavior based on numerical simulations. Analyze and distinguishing characteristics of dynamic response of civil engineering structures in the face of the type of applied actions (initial conditions, harmonic actions, impulsive and seismic).</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Trabalho escrito: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 60.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final classification or grade is made on the basis of a distributed assessment, which consists of two practical works realized outside of the class period, and a final exam. The distributed evaluation is optional or of non-compulsory character. All assessment components are expressed on a scale of 0 to 20.</p>
+<p>The final classification (CF) or final grade, results from applying the following formula:</p>
+<p>CF = max {CT, EF}</p>
+<p>where</p>
+<p>CT = PA / 2 x CAD1 + PA / 2 x CAD2 + PF x EF</p>
+<p>CAD1 - classification of practical work 1 (achieved outside of the class period);</p>
+<p>CAD2 - classification of practical work 2 (achieved outside of the class period);</p>
+<p>EF &#8211; classification of the final exam to be performed in the Normal exam period or in the Recourse or make-up exam period.</p>
+<p>To the classifications or grades CAD1, CAD2 and EF are associated the following weights:<br />PA = 25%<br />PF = 75%</p>
+<p>NOTE 1: The practical works associated with ratings CAD1 and CAD2 are optional. If the student does not perform any of these tests, the respective weights are added to PF.</p>
+<p>NOTE 2: All students enrolled in the course are classified according to this method.</p>
+<p>NOTE 3: Students who have attended the course in the previous academic year may take advantage of attendance already obtained in the previous year, but the classification of distributed component evaluation should be obtained in the current academic year of enrollment.<br /><br />NOTE 4: Students who wish to obtain a final grade over 17 must have at least 17,5 in the final exam and apply for an oral exam.</p>
+
+## Obtenção de frequência
+<p><span lang="EN-US" style="color: black; line-height: 115%; font-family: 'Verdana','sans-serif'; font-size: 7.5pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Achieving final classification requires compliance with attendance of the theoretical and practical classes of the course unit, according to the MIEC assessment rules. It is considered that students meet the attendance requirements if, having been regularly enrolled, the number of absences of 25% for each of the classes&#8217; types is not exceeded.</span></p>
+<p>Are exempted from verification of attendance conditions: i) the cases provided for by law, including working students; ii) students who were admitted to examination in the previous school year.</p>
+<p>To the obtained frequency or attendance can be associated a classification that results from performing 2 optional practical applications of the course contents, reported in 2 written resolution reports that have to be duly delivered to the instructors for assessment and evaluation.</p>
+
+## Melhoria de classificação
+<p>The improvement of the grade achieved during Normal exam period, can be achieved in the Recourse or make-up exam period under the same conditions.</p>
+

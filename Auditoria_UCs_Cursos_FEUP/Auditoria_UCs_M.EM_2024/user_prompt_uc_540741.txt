@@ -1,0 +1,129 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Simulação de Processos Tecnológicos
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p data-start="0" data-end="318">Aquisição de conhecimentos que possibilitem a implementação, compreensão e análise de modelação numérica de Processos Tecnológicos e, em particular, a modelação de Processos de Conformação Plástica (em Massa e em Chapas Metálicas). Espera-se que, no final do período letivo, os estudantes:</p>
+<ol data-start="320" data-end="1147" data-is-last-node="">
+<li data-start="320" data-end="492"><strong data-start="323" data-end="335">Conheçam</strong> os fundamentos dos métodos utilizados nos programas de modelação numérica a serem aplicados: Método das Diferenças Finitas e Método dos Elementos Finitos.</li>
+<li data-start="493" data-end="640"><strong data-start="496" data-end="515">Saibam utilizar</strong> as ferramentas de pré-processamento, análise e pós-processamento necessárias à simulação numérica dos processos em estudo.</li>
+<li data-start="641" data-end="1147" data-is-last-node=""><strong data-start="644" data-end="661">Sejam capazes</strong> de criar o modelo numérico de casos práticos de componentes obtidos por diferentes processos de fabrico, efetuar a sua análise e obter resultados que lhes permitam desenvolver um sentido crítico sobre a produção do componente. Devem igualmente ser capazes de analisar esses resultados, identificar os defeitos que o componente tende a apresentar, conhecer a relação desses defeitos com as variáveis do processo e propor caminhos para a resolução dos problemas e otimização do processo.</li>
+</ol>
+
+## Resultados de aprendizagem e competências
+<div class=&quot;flex max-w-full flex-col flex-grow&quot;><br /><div class=&quot;min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words text-start [.text-message+&amp;]:mt-5&quot; dir=&quot;auto&quot; data-message-author-role=&quot;assistant&quot; data-message-id=&quot;509008ce-13f2-4b96-ae91-987cd3720a1c&quot; data-message-model-slug=&quot;o1&quot;><br /><div class=&quot;flex w-full flex-col gap-1 empty:hidden first:pt-[3px]&quot;><br /><div class=&quot;markdown prose w-full break-words dark:prose-invert light&quot;><br /><p data-start=&quot;0&quot; data-end=&quot;77&quot;>Espera-se que, no final do período letivo, os estudantes tenham desenvolvido:</p><br /><ul data-start=&quot;79&quot; data-end=&quot;1172&quot; data-is-last-node=&quot;&quot;><br /><li data-start=&quot;79&quot; data-end=&quot;250&quot;><br /><p data-start=&quot;81&quot; data-end=&quot;250&quot;><strong data-start=&quot;81&quot; data-end=&quot;97&quot;>Conhecimento</strong> sobre diferentes métodos numéricos utilizados na modelação de processos tecnológicos, bem como suas características e respetivas vantagens e limitações;</p><br /></li><br /><li data-start=&quot;252&quot; data-end=&quot;372&quot;><br /><p data-start=&quot;254&quot; data-end=&quot;372&quot;><strong data-start=&quot;254&quot; data-end=&quot;268&quot;>Capacidade</strong> de realizar todas as etapas necessárias para a simulação numérica de diferentes processos tecnológicos;</p><br /></li><br /><li data-start=&quot;374&quot; data-end=&quot;592&quot;><br /><p data-start=&quot;376&quot; data-end=&quot;592&quot;><strong data-start=&quot;376&quot; data-end=&quot;391&quot;>Competência</strong> para caracterizar materiais metálicos, definir as equações constitutivas mais adequadas para cada material e obter os respetivos parâmetros a partir dos resultados de ensaios experimentais existentes;</p><br /></li><br /><li data-start=&quot;594&quot; data-end=&quot;795&quot;><br /><p data-start=&quot;596&quot; data-end=&quot;795&quot;><strong data-start=&quot;596&quot; data-end=&quot;610&quot;>Capacidade </strong>de analisar e discutir os resultados numéricos obtidos, relacionando-os tanto com parâmetros numéricos quanto com parâmetros do processo, de forma a otimizar os resultados pretendidos;</p><br /></li><br /><li data-start=&quot;797&quot; data-end=&quot;1011&quot;><br /><p data-start=&quot;799&quot; data-end=&quot;1011&quot;><strong data-start=&quot;799&quot; data-end=&quot;813&quot;>Capacidade</strong> de integrar conhecimentos de várias áreas da engenharia mecânica, tais como métodos numéricos, mecânica dos sólidos, comportamento e caracterização de materiais, processos de fabrico, entre outros;</p><br /></li><br /><li data-start=&quot;1013&quot; data-end=&quot;1172&quot; data-is-last-node=&quot;&quot;><br /><p data-start=&quot;1015&quot; data-end=&quot;1172&quot; data-is-last-node=&quot;&quot;><strong data-start=&quot;1015&quot; data-end=&quot;1026&quot;>Aptidão</strong> para trabalhar em grupo e flexibilidade para colaborar com diferentes colegas, assim como capacidade de expressão escrita e de apresentação oral.</p><br /></li><br /></ul><br /></div><br /></div><br /></div><br /></div>
+
+## Pré-requisitos e co-requisitos
+<div class=&quot;flex max-w-full flex-col flex-grow&quot;><br /><div class=&quot;group left-0 top-0 mr-1.5 overflow-hidden mt-1 text-start&quot;>Conhecimentos das unidades curriculares de anos anteriores do curso, em especial métodos numéricos, mecânica dos sólidos, materiais metálicos e processos de fabrico.</div><br /></div>
+
+## Programa
+<div class=&quot;flex max-w-full flex-col flex-grow&quot;><br /><div class=&quot;min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words text-start [.text-message+&amp;]:mt-5&quot; dir=&quot;auto&quot; data-message-author-role=&quot;assistant&quot; data-message-id=&quot;035bcf95-ee12-4a28-ad46-bc1010fffd6c&quot; data-message-model-slug=&quot;o1&quot;><br /><div class=&quot;flex w-full flex-col gap-1 empty:hidden first:pt-[3px]&quot;><br /><div class=&quot;markdown prose w-full break-words dark:prose-invert light&quot;><br /><ul data-start=&quot;0&quot; data-end=&quot;371&quot; data-is-last-node=&quot;&quot;><br /><li data-start=&quot;0&quot; data-end=&quot;37&quot;><strong data-start=&quot;2&quot; data-end=&quot;34&quot;>Método dos Elementos Finitos</strong>;</li><br /><li data-start=&quot;38&quot; data-end=&quot;193&quot;><strong data-start=&quot;40&quot; data-end=&quot;70&quot;>Pré-processamento de dados</strong> e <strong data-start=&quot;73&quot; data-end=&quot;108&quot;>pós-processamento de resultados</strong> na modelação numérica por elementos finitos, utilizando o programa <strong data-start=&quot;176&quot; data-end=&quot;190&quot;>Abaqus/CAE</strong>;</li><br /><li data-start=&quot;194&quot; data-end=&quot;371&quot; data-is-last-node=&quot;&quot;><strong data-start=&quot;196&quot; data-end=&quot;243&quot;>Conformação plástica de materiais metálicos</strong>: conceitos fundamentais; modelação numérica de problemas propostos, recorrendo ao programa de elementos finitos <strong data-start=&quot;356&quot; data-end=&quot;370&quot;>Abaqus/CAE</strong>.</li><br /></ul><br /></div><br /></div><br /></div><br /></div>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><strong data-start="0" data-end="18">Aulas teóricas</strong>: apresentação dos fundamentos dos métodos numéricos a serem utilizados, bem como dos aspetos fundamentais dos processos tecnológicos a serem simulados.<br data-start="170" data-end="173" /><strong data-start="173" data-end="191">Aulas práticas</strong>: apresentação do software a ser utilizado, com o apoio de videoprojetor e computador. Realização de trabalhos de grupo sobre problemas práticos de aplicação de simulação numérica. Discussão dos trabalhos.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 40.0 %
+- Trabalho escrito: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de relatório/dissertação/tese: 48.0 horas
+- Estudo autónomo: 30.0 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho escrito: 4.5 horas
+
+## Fórmula de cálculo da classificação final
+<p data-start="0" data-end="168"><strong data-start="0" data-end="9">Exame</strong> abrangendo todo o material e todas as atividades desenvolvidas no âmbito da UC<br data-start="96" data-end="99" /><strong data-start="99" data-end="127">Realização de um projeto</strong> sobre os temas abordados na UC</p>
+<p data-start="170" data-end="217"><span class="katex"><span class="katex-mathml">NF=A×0,6+B×0,4<br /></span></span></p>
+<ul data-start="219" data-end="330" data-is-last-node="">
+<li><span class="katex"><span class="katex-mathml"><strong>NF</strong>: Nota Final</span></span></li>
+<li data-start="242" data-end="268"><strong data-start="244" data-end="249">A</strong>: nota do projeto</li>
+<li data-start="269" data-end="330" data-is-last-node=""><strong data-start="271" data-end="276">B</strong>: nota do exame (<strong data-start="293" data-end="313">nota mínima de 8</strong> no exame, em 20)</li>
+</ul>
+
+## Obtenção de frequência
+<p>não exceder o número máximo de faltas</p>
+
+## Melhoria de classificação
+Pode ser realizada no exame de recurso do mesmo semestre (100%) ou na ocorrência seguinte da cadeira, realizando o teste intermédio ou através de exame de recurso, no calendário de exames proposto pela FEUP (100%).
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Simulation of Technological Processes
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Specific objectives: Acquisition of knowledge that will enable the implementation, understanding and analysis of numerical modelling of Technological Processes and in particular the modelling of Plastic Forming processes (in Mass and in Metal Sheets). It is expected that, at the end of the academic period, students will<br /> 1. Know the fundamentals of the methods used in the numerical modelling programmes to be used: Finite Difference Method and Finite Element Method.<br /> 2. Know how to use the pre-processing, analysis and post-processing tools required for the numerical simulation of the processes to be studied. <br />3. Be able to create the numerical model of practical cases of components obtained by different manufacturing processes, carry out their analysis and obtain the results that will allow them to have a critical mind about the production of the component. They should be able to analyse the results obtained, define the defects that the component tends to present, know the relationship of these defects with the process variables and estimate a path for solving the problems and optimising the process.</p>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-family: Helvetica; font-size: 12px;"><span style="vertical-align: inherit;">It is expected that, at the end of the academic period, students will have developed: </span></span></p>
+<p style="margin: 0px; font-size: 12px; font-family: Helvetica;"><span style="vertical-align: inherit;">- knowledge of different numerical methods used to model technological processes, their characteristics and respective advantages and limitations;</span></p>
+<p style="margin: 0px; font-size: 12px; font-family: Helvetica;"><span style="vertical-align: inherit;">- the ability to carry out all the steps necessary to perform numerical simulation of different technological processes;<br /><br /></span></p>
+<p style="margin: 0px; font-size: 12px; font-family: Helvetica;"><span style="vertical-align: inherit;">- the ability to characterize metallic materials, define the most appropriate constitutive equations for each material and obtain the respective parameters based on the results of existing experimental tests;</span></p>
+<p style="margin: 0px; font-size: 12px; font-family: Helvetica;"><span style="vertical-align: inherit;">- ability to analyze and discuss the numerical results obtained and relate them to both numerical and process parameters in order to optimize the desired results;<br /><br /></span></p>
+<p style="margin: 0px; font-size: 12px; font-family: Helvetica;"><span style="vertical-align: inherit;">- ability to integrate knowledge from various areas of mechanical engineering, such as numerical methods, solid mechanics, behavior and characterization of materials, manufacturing processes, among others;</span></p>
+<p style="margin: 0px; font-size: 12px; font-family: Helvetica;"><span style="vertical-align: inherit;">- ability to work in a group and flexibility to work with different peers, ability to express yourself in writing and present orally.</span></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> </span></span></p>
+<p> </p>
+
+## Pré-requisitos e co-requisitos
+<p>Knowledge of curricular units from previous years of the course, especially numerical methods, solid mechanics, metallic materials and manufacturing processes.</p>
+
+## Programa
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">-Finite Element Method; </span></span><br /><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">-Using efficient and fundamental pre-processing and post-processing tools. </span></span><br /><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">-Metal Forming: overview of the fundamental concepts of technologies; numerical modeling of these manufacturing processes by using Finite Element Method and Abaqus</span></span></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Theoretical classes: presentation of every numerical method to use and every technological process to perform numerical modeling. Applied classes: students are divided by working groups (preferably, every two students for a group) and they will solve and present a work in each of the topics mentioned in the contents of discipline.</span></span></p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 40.0 %
+- Trabalho escrito: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de relatório/dissertação/tese: 48.0 hours
+- Estudo autónomo: 30.0 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho escrito: 4.5 hours
+
+## Fórmula de cálculo da classificação final
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">An exam, which will cover all of the themes and activities of the course. Students have to do one assignments on the themes of the course. </span></span><br /><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">FM=A*0.6+B*0.4 </span></span><br /><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">FM- Final Mark </span></span><br /><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">A- Assignment </span></span><br /><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">B- Exam (minimum grade of 8 out of 20 is mandatory)</span></span></p>
+
+## Obtenção de frequência
+<div class=&quot;flex max-w-full flex-col flex-grow&quot;><br /><div class=&quot;min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words text-start [.text-message+&amp;]:mt-5&quot; dir=&quot;auto&quot; data-message-author-role=&quot;assistant&quot; data-message-id=&quot;61393ae0-e7b6-4e6d-8d5e-ca1e6f065c42&quot; data-message-model-slug=&quot;gpt-4o&quot;><br /><div class=&quot;flex w-full flex-col gap-1 empty:hidden first:pt-[3px]&quot;><br /><div class=&quot;markdown prose w-full break-words dark:prose-invert light&quot;><br /><p><span style=&quot;vertical-align: inherit;&quot;><span style=&quot;vertical-align: inherit;&quot;>Not exceeding the maximum number of absences.</span></span></p><br /></div><br /></div><br /></div><br /></div>
+
+## Melhoria de classificação
+<p>It can be taken in the re-sit exam of the same semester (100%) or in the next offering of the course, by taking the intermediate test or through the re-sit exam, according to the exam schedule proposed by FEUP (100%).</p>
+

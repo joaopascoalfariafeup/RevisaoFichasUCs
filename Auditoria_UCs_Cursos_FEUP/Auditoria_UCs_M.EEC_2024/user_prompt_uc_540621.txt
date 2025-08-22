@@ -1,0 +1,115 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Redes de Telecomunicações
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+- Reconhecer e explicar conceitos e componentes da arquitetura de redes de grande dimensão (ex.: redes de telecomunicações de operador, redes de data centres);<br />- Explicar os conceitos fundamentais de softwarização da rede (Software Defined Networking - SDN - e Network Function Virtualisation - NFV);<br />- Reconhecer o estado da arte em tecnologias de softwarização da rede;<br />- Organizar e integrar componentes e explicar como interagem numa rede local softwarizada.
+
+## Resultados de aprendizagem e competências
+<p>Esta UC irá proporcionar aos estudantes a capacidade para analisar e compreender o funcionamento das redes de telecomunicações atuais e perspetivar a sua evolução. Além disso, é apresentada uma visão integrada e global das redes de telecomunicações que permitirá aos estudantes um melhor desempenho em estudos posteriores e na sua vida profissional, em que seja necessário abordar áreas específicas de telecomunicações, intervindo quer do lado da oferta, quer do lado da procura de redes e serviços de comunicação.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Formação básica em Telecomunicações obtida em UC anteriores.</p>
+
+## Programa
+<div>- Introdução: conceitos básicos sobre redes públicas de telecomunicações; evolução, cenários de convergência; setor das comunicações eletrónicas &#8211; organização e indicadores.<br /><br />- Redes de telecomunicações de operador e em data centers: conceitos e protocolos de rede; virtualização de servidores e storage, <em>IP</em> <em>Multimedia System</em> (IMS) &#8211; arquitetura e serviços tipo suportados, redes definidas por software (SDN), virtualização de funções de rede (NFV) e composição de serviços, a linguagem P4 (Programming Protocol-independent Packet Processors) e o conceito emergente de Intent-based Networking, apoiado na utilização conjunta dos paradigmas SDN/NFV e da linguagem P4.<br /><br />Tópicos complementares:<br />A. Aspetos de qualidade de serviço: modelo de gestão de Qualidade de Serviço &#8211; princípios gerais.<br />B. Tráfego em redes de comunicação: análise de tráfego em sistemas de perda e atraso; simulação de tráfego por eventos discretos - modelização de sistemas e desenvolvimento de algoritmos de simulação (aulas práticas).</div>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Nas aulas teóricas exploram-se os temas programáticos, com apresentação e discussão dos conteúdos teóricos pelos estudantes (flipped classroom), recorrendo a slides ou outros materiais de apoio adequados (vídeos, demonstrações). Com este método procurar-se-á a participação activa dos alunos nas aulas, recorrendo, nomeadamente, a discussões interactivas com o docente e entre os estudantes. Motivar-se-á, ainda, o estudo autónomo orientado, através da realização de monografias orientadas para os temas programáticas da UC. <br /> <br />As aulas práticas abordarão o tema do tráfego em redes de telecomunicações e o conceito de intent-based networking, com discussão de exemplos de aplicação e realização de trabalhos práticos.  </p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Apresentação/discussão de um trabalho científico: 20.0 %
+- Trabalho escrito: 45.0 %
+- Trabalho prático ou de projeto: 30.0 %
+- Participação presencial: 5.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 80.0 horas
+- Frequência das aulas: 45.0 horas
+- Trabalho laboratorial: 37.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final é a soma das classificações da avaliação distribuída, afetadas dos respetivos pesos. <br /> <br />As componentes da avaliação têm os seguintes pesos na classificação final: <br />- monografias orientadas aos temas definidos no programa da UC: 45%<br />- apresentação oral: 20%;<br />- trabalho prático: 30%;<br />- participação ativa nas apresentações orais dos colegas: 5%.<br /><br />Para se obter a aprovação é obrigatório atingir uma classificação final maior ou igual a 10 valores.</p>
+
+## Obtenção de frequência
+<p>A avaliação distribuída inclui os seguintes elementos: <br />- elaboração de monografias orientadas aos temas definidos no programa da UC;<br />- apresentação oral de um tema por grupo (2 estudantes) nas aulas teóricas;<br />- trabalho prático de simulação e respetivo relatório.<br /><br /> <br />Os alunos que não estão nas situações especiais adiante referidas terão de se submeter ao processo de avaliação distribuída que decorrerá ao longo do semestre. Excetuam-se os casos de alunos que tenham sobreposição de horários ou outras situações de impossibilidade de comparência nas aulas, os quais poderão optar pela não realização da apresentação oral, mediante pedido expresso enviado por correio eletrónico ao regente da UC, no prazo de quatro semanas contado a partir do início do semestre. <br /> <br />Constitui condição para obtenção de frequência: 1) a presença em pelo menos 75% das aulas práticas, 2) a entrega dos relatórios associados aos trabalhos práticos e 3) a entrega das monografias em torno dos temas propostos.</p>
+
+## Melhoria de classificação
+<p>A melhoria da classificação final inclui a realização de uma ou mais monografias em torno dos tópicos definidos no programa da UC e, mediante pedido expresso, a realização dos trabalhos práticos relativos às aulas práticas.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Telecommunications Networks
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>- Recognize and explain concepts and components of the architecture of large networks (e.g. operator networks, data centre networks);<br />- Explain the fundamental concepts of network softwarization increasingly used in data centre networks and mobile networks (Software Defined Networking - SDN - and Network Function Virtualisation - NFV);<br />- Recognize the state of the art in network softwarization technologies;<br />- Organize and integrate components and explain how they interact in a softwarized local area network.</p>
+<div id="gtx-trans" style="position: absolute; left: 673px; top: -9px;"> </div>
+
+## Resultados de aprendizagem e competências
+This course will provide students with the ability to analyze and understand the functioning of current telecommunications networks and envision their evolution. In addition, an integrated and global view of telecommunications networks is presented, which will allow students to perform better in later studies and in their professional lives, in which it is necessary to address specific areas of telecommunications, intervening both on the supply side and on the demand side of communications networks and services.
+
+## Pré-requisitos e co-requisitos
+Basic knowledge in Telecommunications obtained in previous courses.
+
+## Programa
+- Introduction: basic concepts about public telecommunications networks; evolution, convergence scenarios; electronic communications sector &#8211; organisation and indicators.<br /><br />- Telecommunications networks of telco operators and in data centres: network concepts and protocols; server and storage virtualization; IP Multimedia System (IMS) &#8211; architecture and supported services; software-defined networking (SDN), network functions virtualisation (NFV) and service composition, the P4 language (Programming Protocol-independent Packet Processors) and the concept of Intent-based Networking, supported by the joint use of SDN/NFV and P4.<br /><p><span class=&quot;tlid-translation translation&quot;><span title=&quot;&quot;>Complementary topics:</span></span><br />A. Aspects of quality service: management of Quality of Service model - general principles.<br />B. Traffic in communication networks: traffic analysis of loss and delay systems, discrete event traffic simulation - modelling of systems and development of simulation algorithms (practical classes).</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical classes will explore the programmatic themes, with the presentation and discussion of the theoretical contents by the students (flipped classroom), using a priori study of the topics at home and slides or any other support materials (videos, demos). This method seeks the active participation of the students in the classroom and in the learning of the programmatic themes. The autonomous study will be motivated by means of the elaboration of a set of monographs targeting the programmatic themes defined in this course.</p>
+<p>Practical classes will cover the theme of traffic in telecommunications networks and the concept of intent-based networking, with the discussion of examples of applications. Students will have to do practical assignments.  </p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Apresentação/discussão de um trabalho científico: 20.0 %
+- Trabalho escrito: 45.0 %
+- Trabalho prático ou de projeto: 30.0 %
+- Participação presencial: 5.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 80.0 hours
+- Frequência das aulas: 45.0 hours
+- Trabalho laboratorial: 37.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Final Mark will be based on the mark of the continuous assessment. <br /><br />The assessment elements are: <br />- monographs targeting the themes defined in the programme of the course: 45%;<br />- oral presentation: 20%;<br />- practical simulation work: 30%;<br />- active participation in colleagues' oral presentations: 5%.<br /><br />Students will only complete the course if they achieve a minimum final mark of 10 out of 20.</p>
+<div id="gtx-trans" style="position: absolute; left: 346px; top: 111px;"> </div>
+
+## Obtenção de frequência
+<p>The continuous assessment includes the following elements:<br />- elaboration of a set of monographs targeting the themes defined in the programme of the course;<br />- oral presentation of one theme per group (2 students) in the theoretical lessons;<br />- practical simulation work and the corresponding report.<br /><br />Students who are not in the special situations mentioned below will have to undergo the distributed assessment process that will take place throughout the semester. Exceptions are made for students who have overlapping schedules or other situations where they are unable to attend classes, and who may choose not to make the oral presentation, by means of an express request sent by email to the course regent, within four weeks from the beginning of the semester.<br /><br />It is a condition for obtaining frequency: 1) attending at least 75% of practical classes; 2) delivery of the reports related to the lab works proposed; 3) delivery of the monographs within the topics proposed.</p>
+
+## Melhoria de classificação
+<p>Students can improve their mark by elaborating one or more monographs on the themes defined in the UC program and, by request, develop the practical assignments making part of the lab lessons.</p>
+

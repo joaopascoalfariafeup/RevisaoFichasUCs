@@ -1,0 +1,102 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Teste, Verificação e Validação de Software
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<span style=&quot;font-weight: 400;&quot;>O objetivo desta unidade curricular é: a familiarização com a terminologia usada em testes de software; a sensibilização com as questões relacionadas com a qualidade de software; e exploração e prática de diferentes técnicas de Verificação e Validação (V&amp;V) necessárias para a construção de sistemas de software de qualidade.</span>
+
+## Resultados de aprendizagem e competências
+No final da Unidade curricular os estudantes devem ser capazes de projetar e executar um plano de Verificação e Validação (V&amp;V). Mais especificamente, espera-se que os estudantes sejam capazes de:<br />- Planear uma estratégia de Verificação e Validação.<br />- Selecionar as melhores técnicas e ferramentas de teste de software para um determinado contexto.<br />- Projetar e desenvolver testes em diferentes níveis (e.g., unidade, integração, sistema e aceitação).<br />- Testar situações excepcionais (e.g., boundary value analysis).<br />- Refletir sobre as limitações e qualidade dos testes desenvolvidos.<br />- Usar métricas para avaliar a qualidade dos testes (e.g., cobertura de instruções).<br />- Escrever código de teste sustentável, evitando problemas conhecidos (e.g., flakiness, ilegível, dependente, fat testes, etc.).
+
+## Programa
+1. Introdução à Verificação e Validação de Software<br />2. Partição em classes de equivalência / &#8220;category partition&#8221; e análise de valores fronteira<br />3. Teste baseado em modelos<br />4. &#8220;Structural Testing (Line and Decision coverage)&#8221; e &#8220;Logical Coverage (Condition coverage and Modified Condition/Decision Coverage (MC/DC))&#8221;<br />5. Teste de mutação<br />6. &#8220;Test-Driven Development (TDD)&#8221;, &#8220;Behavior-Driven Development (BDD) Testing&#8221;, e &#8220;Property-Based Testing (PBT)&#8221;<br />7. Geração automática de testes utilizando abordagens aleatórias, fuzzing, e search-based<br />8. Geração automática de testes utilizando inteligência artificial<br />9. Teste de integração, teste de sistema, teste de aceitação, testes de performance, testes de segurança, e teste de regressão<br />10. Gestão e documentação de testes<br />11. Teste estático
+
+## Métodos de ensino e atividades de aprendizagem
+Esta unidade curricular promove o contínuo envolvimento dos estudantes através do estudo, discussão e aplicação prática dos temas apresentados. De forma a contribuir para uma aprendizagem contínua e autónoma, os estudantes resolvem exercícios práticos ao longo do semestre. Para além destes exercícios, os estudantes têm que realizar um projeto onde aplicam os conceitos apresentados, em particular, diferentes estratégias e ferramentas de V&amp;V.<br /><br />As <strong>aulas teóricas</strong> são usadas para exposição formal dos conceitos e aspetos fundamentais de V&amp;V. Sempre que possível, os conceitos teóricos são acompanhados da apresentação e discussão de casos práticos reais.<br /><br />As <strong>aulas teórico-práticas</strong> são usadas para realizar exercícios, aplicar técnicas de V&amp;V, usar/experimentar diversas ferramentas de auxílio à escrita e execução de testes e para apoiar na realização do projeto.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 100.0 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho laboratorial: 23.0 horas
+
+## Fórmula de cálculo da classificação final
+A classificação final é calculada da seguinte forma: P x 40% + E x 60%<br /><br />P: projeto<br />E: exame final
+
+## Obtenção de frequência
+Para concluir com sucesso esta unidade curricular, os estudantes devem obter:<br />- nota mínima de 47,5% no projecto (P)<br />- nota mínima de 47,5% no exame final (E)
+
+## Melhoria de classificação
+- A classificação obtida no projeto pode ser melhorada na edição seguinte da unidade curricular.<br />- A classificação do exame pode ser melhorada em exame de recurso.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Software Testing, Verification and Validation
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<span style=&quot;font-weight: 400;&quot;>The objective of this curricular unit is: familiarization with the terminology used in software testing; raising awareness of issues related to software quality; and exploring and practicing different Verification and Validation (V&amp;V) techniques necessary for building quality software systems.</span>
+
+## Resultados de aprendizagem e competências
+At the end of the course, students should be able to design and execute a Verification and Validation (V&amp;V) plan. More specifically, students are expected to be able to:<br />- Plan a Verification and Validation strategy.<br />- Select the best software testing techniques and tools for a given context.<br />- Design and develop tests at different levels (e.g., unit, integration, system and acceptance).<br />- Test exceptional situations (e.g., boundary value analysis).<br />- Reflect on the limitations and quality of the tests developed.<br />- Use metrics to assess test quality (e.g., instruction coverage).<br />- Write maintainable test code, avoiding known issues (e.g., flakiness, unreadable, dependent, fat testing, etc.).
+
+## Programa
+1. Introduction to Software Verification and Software Validation<br />2. Equivalence Class Partitioning / Category Partition and Boundary Value Analysis<br />3. Model-based Testing<br />4. Structural Testing (Line and Decision coverage) and Logical Coverage (Condition coverage and Modified Condition/Decision Coverage (MC/DC))<br />5. Mutation Testing<br />6. Test-Driven Development (TDD), Behavior-Driven Development (BDD) Testing, e Property-Based Testing (PBT)<br />7. Automatic test case generation with random, fuzzing, and search-based approaches<br />8. Automatic test case generation with artificial intelligence<br />9. Integration Testing, System Testing, Acceptance Testing, Performance Testing, Security Testing, and Regression Testing<br />10. Test management and documentation<br />11. Static Testing
+
+## Métodos de ensino e atividades de aprendizagem
+This curricular unit promotes the continuous involvement of students through the study, discussion and practical application of the topics presented. In order to contribute to continuous and autonomous learning, students carry out assignments throughout the semester. In addition to these assignments, students have to carry out a project where they apply the concepts presented, in particular, different V&amp;V strategies and tools.<br /><br /><strong>Theoretical classes</strong> are used to formally explain the concepts and fundamental aspects of V&amp;V. Whenever possible, theoretical concepts are accompanied by the presentation and discussion of real practical cases.<br /><br /><strong>Theoretical-practical classes</strong> are used to carry out exercises, apply V&amp;V techniques, use/experiment various testing tools and to support the implementation of the final project.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 100.0 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho laboratorial: 23.0 hours
+
+## Fórmula de cálculo da classificação final
+The final ranking is calculated as follows: P x 40% + E x 60%<br /><br />P: project<br />E: final exam
+
+## Obtenção de frequência
+To successfully complete this curricular unit, students must obtain:<br />- minimum grade of 47.5% in the project (P)<br />- minimum grade of 47.5% in the final exam (E)
+
+## Melhoria de classificação
+- The classification of the final project can be improved in the next edition of the course.<br />- The classification of the final exam can be improved in the appeal exam.
+

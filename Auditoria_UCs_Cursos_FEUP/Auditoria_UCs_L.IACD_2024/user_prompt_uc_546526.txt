@@ -1,0 +1,115 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Métodos Numéricos
+
+## Curso responsável
+Licenciatura em Inteligência Artificial e Ciência de Dados
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p style="text-align: justify;">O objetivo desta UC é dado um problema matemático estudar condições suficientes para a existência e unicidade de solução, escolher um método numérico para a sua resolução, controlar os erros, fornecer um algoritmo a implementar e experimentar em máquina de calcular ou em computador, e interpretar os resultados.</p>
+
+## Resultados de aprendizagem e competências
+<p>O estudante deve ser capaz de resolver numéricamente  problemas matemáticos nos temas descritos no programa da unidade curricular.</p>
+
+## Programa
+<p class="p1"><span class="s1">Aritmética do computador e erros numéricos. Representação dos números e operações aritméticas. Erros e sua propagação.  Sistemas de equações lineares. Sistemas triangulares e método de eliminação de Gauss. </span></p>
+<p>Equações não lineares. Ordem de convergência de uma sucessão. Separação de raízes. Métodos das bissecções sucessivas, iterativo simples e de Newton.  </p>
+<p>Interpolação polinomial. Métodos de Lagrange e de Newton em diferenças divididas. Interpolação usando splines. Aproximação polinomial generalizada de um conjunto de valores no sentido dos mínimos quadrados.  </p>
+<p>Derivação e integração numéricas. Métodos de Newton-Cotes: fórmulas simples e compostas dos rectângulos, dos trapézios e de Simpson. Erros de truncatura. Fórmulas em diferenças finitas para derivadas. Erros de truncatura.  </p>
+<p>Integração numérica de equações diferenciais. Métodos de Euler, "preditor-corrector", Taylor e de Runge-Kutta. Erros de truncatura. </p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; font: 11.0px 'Trebuchet MS';"> </p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p class="p1"><span class="s1">Aulas teóricas de exposição da matéria complementada da apresentação de exemplos.<br />Aulas teórico-práticas com a proposta e acompanhamento da resolução de problemas e de projetos computacionais a serem apresentados e discutidos.</span></p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 60.0 %
+- Trabalho laboratorial: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 103.0 horas
+- Frequência das aulas: 48.0 horas
+- Trabalho escrito: 3.0 horas
+- Trabalho laboratorial: 8.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação teórica, CT, é  a soma das classificações obtidas em 2 (6 valores cada) a efetuar ao longo do semestre em datas a afixar, ou o resultado do exame final escrito na época de recurso (12 valores).<br />É obrigatória a obtenção de um mínimo de 3 valores nesta classificação.</p>
+<p>  </p>
+<p>A classificação prática, CP, é a soma das classificações obtidas em 3 unidades práticas (2 valores +3 valores + 3 valores) a realizar, usando computador, ao longo do semestre em datas a afixar.<br />É obrigatória a obtenção de um mínimo de 3 valores nesta classificação. </p>
+<p> </p>
+<p class="p1"><span class="s1">A classificação final, CF, é a soma das duas classificações acima: CF=CT+CP</span></p>
+<div> </div>
+
+## Obtenção de frequência
+<p class="p1">Obtenção de um mínimo de 3 valores na classificação prática (CP).</p>
+
+## Melhoria de classificação
+<p class="p1"><span class="s1">Apenas pode ser feita melhoria da classificação teórica (CT) em exame final na época de recurso.</span></p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Numerical Methods
+
+## Curso responsável
+Bachelor in Artificial Intelligence and Data Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; font: 11.0px 'Trebuchet MS';">The main aim of this subject is given a mathematical problem,  to study sufficient conditions for the existence and unicity of its solution, to establish a constructive method to solve it, to study and control the errors  involved, to give an algoritmh for the solution and to implement it in a computer and to study and interpret the numerical results.</p>
+
+## Resultados de aprendizagem e competências
+<p>Students must show skills in solving numerically mathematical problems in the areas described.</p>
+
+## Programa
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; font: 11.0px 'Trebuchet MS';">Computer Arithmetic and numerical errors. Representation of numbers and arithmetic operations. Errors and their propagation. Systems of linear equations. Triangular systems and Gaussian elimination.<br /><span style="font: 11.0px 'Lucida Grande';"><br /> </span>Nonlinear equation<span class="Apple-style-span" style="font-family: 'Lucida Grande';">s. Order of convergence of a sequence. </span>Root finding methods: bisection method,  fixed point method , Newton method and variants.<br /><br />Polynomial interpolation. Lagrange and Newton in divided differences methods. Interpolation using splines. Generalized polynomial approximation of a set of values in the sense of least squares.<br /> <span style="font: 11.0px 'Lucida Grande';"><br /> </span>Numerical differentiation and numerical integration. Finite differences formulas for numerical differentiation. Truncation errors.<span class="Apple-style-span" style="font-family: 'Lucida Grande';"> </span>Newton-Cotes formulas. Simple and composite rules of rectangles, trapezium and Simpson. Truncation errors.</p>
+<p style="text-align: justify;">Numerical integration of differential equations. Euler methods, "predictor-corrector", Taylor and Runge-Kutta. Truncation errors.</p>
+<p><span class="Apple-style-span" style="font-family: 'Trebuchet MS'; font-size: 11px;"> </span></p>
+<p> </p>
+<div> </div>
+
+## Métodos de ensino e atividades de aprendizagem
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; font: 11.0px 'Trebuchet MS';">Lectures, problems  and computational projects.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 60.0 %
+- Trabalho laboratorial: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 103.0 hours
+- Frequência das aulas: 48.0 hours
+- Trabalho escrito: 3.0 hours
+- Trabalho laboratorial: 8.0 hours
+
+## Fórmula de cálculo da classificação final
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; font: 11.0px 'Trebuchet MS';">Theoretical classification (CT): Sum of the classifications of 2  tests (6 points each) or a final examination in the appeal exam period (12 points)<span style="font: 11.0px 'Lucida Grande';"><br /> </span>Practical classification (CP): sum of classifications obtained in 3 practical tests (2 points + 3 points + 3 points)<span style="font: 11.0px 'Lucida Grande';"><br /> </span>Final classification (CF): CT+CP</p>
+
+## Obtenção de frequência
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; font: 11.0px 'Trebuchet MS';">A minimum of  3 points in the practical classification.</p>
+

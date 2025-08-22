@@ -1,0 +1,121 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Estatística Multivariada
+
+## Curso responsável
+Mestrado em Engenharia e Gestão Industrial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p><span lang="PT">Permitir que os estudantes aprofundem conhecimentos sobre o método estatítico ao anível da estatística multivariada. No final da unidade curricular, os estudantes deverão ser capazes de utilizarem os métodos e técnicas estudadas de forma crítica e com autonomia na preparação de decisões.</span><span lang="PT"><br /></span><span lang="PT"><br /></span></p>
+
+## Resultados de aprendizagem e competências
+<p>No final do período lectivo pretende-se que os estudantes sejam capazes de:</p>
+<ul>
+<li>efetuar análises de variância;</li>
+<li>planear e desenhar experiências simples;</li>
+<li>efetuar análises de regressão;</li>
+<li>efetuar análises de componentes principais e análises fatoriais exploratórias;</li>
+<li>efectuar análises de variância multivariadas;</li>
+<li>utilizar folhas de cálculo e pacotes estatísticos na resolução dos problemas mencionados.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Conhecimentos sobre o método estatístico, incluindo: estatística descritiva e inferência estatística.
+
+## Programa
+<ul><br /><li>INTRODUÇÃO: Introdução à Estatística Multivariada.</li><br /><li>ANÁLISE DE VARIÂNCIA (ANOVA): Introdução. Modelo ANOVA com 1 Fator (Efeitos Fixos e Efeitos Variáveis, Comparações Múltiplas), Modelo ANOVA com 2 Fatores (Efeitos Fixos e Efeitos Variáveis, Interação entre Fatores). Extensão a Fatores Adicionais. Pressupostos do Modelo ANOVA.</li><br /><li>DESENHO DE EXPERIÊNCIAS:  Introdução ao Planeamento e Desenho de Experiências.  Randomização e Replicação. Planos Fatoriais a Dois Níveis (Completos e Fraccionados).</li><br /><li>REGRESSÃO MÚLTIPLA: Introdução. Regressão Linear Simples e Múltipla (Estimação de Parâmetros, Inferência sobre Parâmetros, Selecção de Regressores, Previsões baseadas no Modelo de Regressão Linear Simples e Múltipla, Regressores Qualitativos, Colineariedade). Pressupostos e Análise de Resíduos. Regressão Linear com Transformação de Variáveis.</li><br /><li>ANÁLISE DE COMPONENTES PRINCIPAIS E ANÁLISE FATORIAL EXPLORATÓRIA: Fatores e Componentes Principais (Representação Gráfica e Matemática). Análise de Componentes Principais. Análise Fatorial Exploratória. Identificação de Fatores e Componentes Principais (Valores Próprios e &quot;Scree Plot&quot;). Rotação de Fatores e Componentes Principais. Interpretação. </li><br /><li>ANÁLISE DE VARIÂNCIA MULTIVARIADA (MANOVA): Teoria e Aplicações. Análise de Variância Multivariada. Pressupostos. Análise &quot;Follow-up&quot;. Interpretação.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span lang="PT">Os conceitos e as técnicas são introduzidos recorrendo sistematicamente a exemplos, pretendendo-se, deste modo, que os alunos os apreendam através do contacto com problemas concretos. O processo de aprendizagem é complementado com sessões de resolução de problemas, com o apoio de computadores, e com a realização de um trabalho de grupo.</span></p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Teste: 20.0 %
+- Trabalho escrito: 20.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 30.0 horas
+- Estudo autónomo: 86.5 horas
+- Frequência das aulas: 45.5 horas
+
+## Fórmula de cálculo da classificação final
+Melhor classificação entre a classificação de frequência e a nota do exame final
+
+## Obtenção de frequência
+Classificação final (CF) superior a 9,5<br />Fórmula de cálculo CF=0,60*exame+0,20*trabalho+0,20*teste
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Multivariate Statistics
+
+## Curso responsável
+Master in Industrial Engineering and Management
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>To allow students to deepen their knowledge about the statistical method at a multivariate level. At the end of the course, students should be able to use the methods and techniques studied critically and autonomously when making decisions.</p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of this course unit students should be able to:</p>
+<ul>
+<li>perform analysis of variance;</li>
+<li>design simple experiments;</li>
+<li>perform regression analysis;</li>
+<li>perform principal components analysis and exploratory factor analysis;</li>
+<li>perform multivariate analysis of variance;</li>
+<li>use spreadsheets and statistical packages to apply the above mentioned techniques.</li>
+</ul>
+<p> </p>
+
+## Pré-requisitos e co-requisitos
+<p>Knowledge about the statistical method, namely: descriptive statistic and statical inference.</p>
+
+## Programa
+<ul><br /><li>INTRODUCTION: Introduction to Multivariate Statistics..</li><br /><li>ANALYSIS OF VARIANCE (ANOVA): Introduction. One-Way ANOVA Model (Fixed and Random Effects, Multiple Comparisons). Two-Way ANOVA Model (Fixed and Random Effects, Interation between Factors, Constrasts). Extension to Additional Factors. ANOVA Assumptions.</li><br /><li>DESIGN OF EXPERIMENTS: Introduction to the Design of Experiments. Randomization and Replication. Two Level Factorial Designs (Full and Fractional).</li><br /><li>REGRESSION: Introduction. Simple and Multiple Linear Regression (Parameters Estimation, Inference about Parameters, Predictors Slection, Forecasts based on the Simple and Multiple Linear Regression Model, Qualitative Predictor, Collinearity). Assumptions and Residual Analysis. Linear Regression with variable Tansformations.</li><br /><li>PRINCIPAL COMPONENTS ANALYSIS AND EXPLORATORY FACTORIAL ANALYSIS: Factors and Principal Components (Graphical and Mathematical Representations). Principal Components Analysis. Exploratory Factorial Analysis. Factors e Principal Components Extraction (Eigenvalues and Scree Plot). Rotating Factors and Principal Components. Interpretation.</li><br /><li>MULTIVARIATE ANALYSIS OF VARIANCE (MANOVA): Theory and Application. Assumptions. &quot;Follow-up&quot; Analysis. Interpretation.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span lang="EN-GB">Concepts and techniques are introduced using systematically practical examples. The learning process is complemented with problem solving sessions supported by computer software and teamwork assignment.</span></p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Teste: 20.0 %
+- Trabalho escrito: 20.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 30.0 hours
+- Estudo autónomo: 86.5 hours
+- Frequência das aulas: 45.5 hours
+
+## Fórmula de cálculo da classificação final
+Better classification between the frequency classification and the final exam grade
+
+## Obtenção de frequência
+Final Mark (FM) greaterthan 9,5<br />Evaluation formula<br />FM=0,60exam+0,20*assignement+0,20*test
+

@@ -1,0 +1,532 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Investigação Operacional
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p class="p1"><strong>CONTEXTO<br /></strong>Esta unidade curricular centra-se na aplicação de métodos analíticos para uma melhor tomada de decisão e fornece aos estudantes ferramentas de modelação e otimização que serão extremamente úteis na abordagem e resolução de problemas organizacionais. Para além disso, aborda conceitos relacionados com a gestão da incerteza em vários contextos organizacionais. Enfatiza ainda a importância da sustentabilidade, integrando os Objectivos de Desenvolvimento Sustentável (ODS) das Nações Unidas, de forma a garantir que as soluções propostas contribuem para um futuro mais sustentável e equitativo.</p>
+<p class="p1"><strong>OBJETIVOS ESPECÍFICOS<br /></strong>O objetivo principal desta unidade curricular é desenvolver competências para analisar uma vasta gama de situações do mundo real através da criação de modelos. Estas competências baseiam-se na identificação do problema-chave numa situação não estruturada, no desenvolvimento de um quadro para o analisar e abordar, e na aplicação de métodos analíticos para o resolver.<br /><br /><strong>OBJETIVOS DE APRENDIZAGEM<br /></strong>Dotar os estudantes das competências necessárias para:</p>
+<ul>
+<li>Identificar e abordar problemas de decisão de uma forma hábil e estruturada;</li>
+<li>Construir modelos de problemas de decisão;</li>
+<li>Integrar considerações de sustentabilidade nos modelos de decisão e alinhar as soluções propostas com os Objectivos de Desenvolvimento Sustentável (ODS);</li>
+<li>Identificar e utilizar métodos analíticos para obter soluções para os modelos construídos para apoiar decisões informadas;</li>
+<li>Utilizar ferramentas computacionais para analisar e obter soluções para os modelos construídos;</li>
+<li>Extrair informação dos modelos e utilizá-la para comunicar e motivar a mudança organizacional.</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p class="p1">Esta unidade curricular contribuirá para a aquisição, por parte dos estudantes, das seguintes competências, de acordo com a nomenclatura CDIO: </p>
+<p class="p1"><strong>1. Conhecimento Técnico e Raciocínio </strong></p>
+<p class="p1">1.1. Adquirir com a necessária proficiência conhecimentos de ciências básicas e ser capaz de os utilizar na formulação, resolução e discussão de problemas da sua área de formação; </p>
+<p class="p2">Os conteúdos da unidade curricular constroem sobre conhecimentos de Álgebra e Probabilidades e Estatística, organizando-os, desenvolvendo-os e aplicando-os num contexto de apoio à resolução de problemas de decisão. Por natureza estes conhecimentos são transversais a todas as áreas de Engenharia e pertencem às suas ciências básicas. <br />Durante as aulas há a preocupação de usar exemplos e casos da área científica do curso onde os estudantes estão envolvidos, fazendo a ponte entre as ciências básicas e a área de formação específica do curso.<br />Para além disso os estudantes são incentivados a integrar nas suas análises e formulações de problemas considerações sobre sustentabilidade e alinhadas com os ODS.</p>
+<p class="p1">Todos os elementos de avaliação usados na unidade curricular endereçam a avaliação destas competências. </p>
+<p class="p1"><strong>2. Capacidades e Atitudes Pessoais e Profissionais </strong></p>
+<p class="p1">2.1. Raciocínio em engenharia e resolução de problemas </p>
+<div class="p1" style="padding-left: 30px;">2.1.1 identificação e formulação de problemas </div>
+<div class="p1" style="padding-left: 30px;">2.1.2 modelização </div>
+<div class="p1" style="padding-left: 30px;">2.1.3 estimação e análise qualitativa </div>
+<div class="p1" style="padding-left: 30px;">2.1.4 análise com incerteza </div>
+<div class="p1" style="padding-left: 30px;">2.1.5 solução e recomendação </div>
+<p class="p1">A metodologia de ensino e os seus conteúdos podem ser descritos precisamente por estes pontos. Assim, a formulação de problemas de acordo com cada um dos modelos estudados ao longo da unidade curricular, a sua modelização e resolução são uma atividade permanente ao longo da aprendizagem. A análise qualitativa é particularmente tratada na análise de sensibilidade, enquanto a incerteza é abordada em Filas de Espera e em Teoria da Decisão. </p>
+<p class="p1">Todos os elementos de avaliação usados na unidade curricular endereçam a avaliação destas competências. </p>
+<p class="p1">2.2 Experimentação e descoberta do conhecimento </p>
+<div class="p1" style="padding-left: 30px;">2.2.1 formulação de hipóteses </div>
+<div class="p1" style="padding-left: 30px;">2.2.2 pesquisa de literatura </div>
+<div class="p1" style="padding-left: 30px;">2.2.3 inquérito experimental </div>
+<div class="p1" style="padding-left: 30px;">2.2.4 teste de hipóteses e defesa </div>
+<p class="p1">2.3 Pensamento sistémico </p>
+<div class="p1" style="padding-left: 30px;">2.3.1 pensamento holístico </div>
+<div class="p1" style="padding-left: 30px;">2.3.2 emergência e interação entre sistemas </div>
+<div class="p1" style="padding-left: 30px;">2.3.3 priorização e focagem </div>
+<div class="p1" style="padding-left: 30px;">2.3.4 "trade-offs", julgamento e balanceamento na resolução </div>
+<p class="p1">O endereçamento destas competências é de algum modo indireto, podendo ser mais diretamente descritas como:</p>
+<div class="p1" style="padding-left: 30px;">(1) competências de análise, enquanto capacidade de formular conceptualizar e resolver problemas não familiares;</div>
+<div class="p1" style="padding-left: 30px;">(2) competências de projeto, enquanto solução com criatividade de problemas não familiares, complexos e com incerteza técnica;</div>
+<div class="p1" style="padding-left: 30px;">(3) competências de investigação, enquanto capacidade de modelação e investigação de aplicabilidade de técnicas emergentes (descrição de acordo com os critérios EURO-ACE). </div>
+<p class="p1">A formulação e modelização de problemas, que implica a identificação da família de modelos aplicável, o desenvolvimento de modelos originais e a sua avaliação, contribui claramente para estas competências. Novamente os tópicos relacionados com análise de sensibilidade contribuem para o entendimento de conceitos relacionados com "trade-offs" e balanceamento.<br /><br />Os estudantes serão encorajados a considerar as implicações das suas decisões em termos de sustentabilidade, especificamente o impacto dos seus modelos e soluções em áreas tais como a saúde, educação, igualdade e a preservação do meio ambiente.</p>
+<p class="p1">Todos os elementos de avaliação usados na unidade curricular endereçam a avaliação destas competências. </p>
+<p class="p1">Os objetivos de aprendizagem estão relacionados com as competências (saberes, competências e atitudes que os estudantes devem possuir) e exprimem-se como declarações sobre as coisas que os estudantes que frequentam com sucesso a unidade curricular devem ser capazes de fazer, explicar, calcular, deduzir, projetar, etc... </p>
+<p class="p1">Para todos os tópicos programáticos, junto aos materiais pedagógicos de apoio à aprendizagem, estão disponíveis objetivos de aprendizagem muito detalhados.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Cursos básicos de álgebra, estatística e teoria das probabilidades.</p>
+
+## Programa
+<div>modelação | sem variáveis inteiras<br />modelação | problemas em redes<br />modelação | com variáveis inteiras<br />modelação | com variáveis auxiliares inteiras<br />resolução de modelos | sem variáveis inteiras<br />          - programação linear<br />          - resolução gráfica + análise de sensibilidade<br />          - fundamentos do método Simplex<br />          - solver do Excel<br />          - relatório de sensibilidade do solver<br />resolução de problemas com variáveis inteiras<br />          - branch and bound<br />          - solver<br />filas de espera<br />teoria da decisão</div>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Exposição dos temas programáticos, sempre que possível com recurso a métodos de aprendizagem ativa. A exposição será sempre ilustrada por casos, exemplos e problemas. Esclarecimento de dúvidas sobre a resolução dos problemas propostos.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 30.0 %
+- Teste: 70.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+<p style="color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px;"><strong>AVALIAÇÃO DISTRIBUÍDA<br />(sem consulta) (classificação entre 0 e 14 valores)</strong><br /><br />Micro-exercícios (classificação entre 0 e 10 valores)</p>
+<ul>
+<li>cada exercício será classificado numa escala de 0 a 100%;</li>
+<li>a classificação final nesta componente será obtida pela soma das classificações obtidas por cada estudante nos micro-exercícios propostos para resolução no fim de cada aula, retirando as duas classificações mais baixas.</li>
+</ul>
+<p style="color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;">Teste intermédio (classificação entre 0 e 4 valores)</p>
+<p style="color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;"><strong><br />EXAME<br />(sem consulta) (classificação entre 0 e 6 valores)</strong></p>
+
+## Obtenção de frequência
+<p>Para terem frequência à unidade curricular os estudantes deverão obter a classificação mínima de 4 valores (dos 14 valores possíveis) na componente de avaliação distribuída (micro-exercícios e teste intermédio).<br /><br />Para além do requisito anterior, para terem frequência a esta unidade curricular os estudantes devem cumprir o disposto nas normas gerais de avaliação da FEUP (<a href="https://paginas.fe.up.pt/~contqf/producao/_SERAC/Legislacao/Regulamentos/RegulamentosFEUP/normas%20gerais%20de%20avaliacao.pdf">https://paginas.fe.up.pt/~contqf/producao/_SERAC/Legislacao/Regulamentos/RegulamentosFEUP/normas%20gerais%20de%20avaliacao.pdf</a>)</p>
+
+## Melhoria de classificação
+<p>Os estudantes poderão inscrever-se para realização de cada uma das componentes de avaliação:</p>
+A componente - micro-exercícios - será avaliada através de uma prova sem consulta (classificação de 0 a 10 valores).<br />A componente - teste intermédio - será avaliada através de uma prova sem consulta (classificação de 0 a 4 valores).<br />A<strong> </strong>componente EXAME será avaliada através de uma prova sem consulta (classificação de 0 a 6 valores).<br /><br />O cálculo da classificação final será feito da forma indicada no ponto "Fórmula de Cálculo da Classificação Final", considerando a melhor avaliação obtida pelo estudante em cada uma das componentes, consideradas a época normal e de melhoria.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Operations Research
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p class="p1"><strong>BACKGROUND<br /></strong>This course focuses on the application of analytical methods for better decision-making and provides students with modeling and optimization tools that will be highly useful in addressing and solving organizational problems. In addition, it covers concepts related to uncertainty management in various organizational contexts. It also emphasizes the importance of sustainability by integrating the United Nations Sustainable Development Goals (SDGs) to ensure that the proposed solutions contribute to a more sustainable and equitable future.</p>
+<p class="p1"><strong>SPECIFIC OBJECTIVES<br /></strong>The main objective of this course is to develop skills for analyzing a wide range of real-world situations by creating models. These skills are based on identifying the key problem in an unstructured situation, developing a framework to analyze and address it, and applying analytical methods to solve it.<br /><br /><strong>LEARNING OBJECTIVES<br /></strong>Provide students with the skills to:</p>
+<ul>
+<li>Identify and address decision problems in a skillful and structured manner;</li>
+<li>Build models of decision problems;</li>
+<li>Integrate sustainability considerations into decision models and align proposed solutions with the Sustainable Development Goals (SDGs);</li>
+<li>Identify and use analytical methods to obtain solutions to the constructed models to support informed decisions;</li>
+<li>Use computational tools to analyze and obtain solutions for the constructed models;</li>
+<li>extract information from the models and use it to communicate and motivate organizational change.</li>
+</ul>
+<p class="p1"> </p>
+<p><!-- [if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Revision>0</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:Pages>1</o:Pages>
+  <o:Words>145</o:Words>
+  <o:Characters>831</o:Characters>
+  <o:Company>Universidade do Porto, Faculdade de Engenharia</o:Company>
+  <o:Lines>6</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>975</o:CharactersWithSpaces>
+  <o:Version>14.0</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--> <!-- [if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>PT</w:LidThemeOther>
+  <w:LidThemeAsian>JA</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="--"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!-- [if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="276">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--> <!-- [if gte mso 10]>
+<style>
+ /* Style Definitions */
+table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:PT;
+	mso-fareast-language:PT;}
+</style>
+<![endif]--> <!--StartFragment--> <!--EndFragment--></p>
+
+## Resultados de aprendizagem e competências
+<p class="p1">This course will contribute to the acquisition by the students of the following CDIO competencies:</p>
+<p class="p2"><strong> 1. Technical Knowledge and Reasoning</strong></p>
+<p class="p1">1.1. Acquire proficiency with the necessary knowledge of basic sciences and be able to use them in the formulation, discussion, and resolution of problems in their area;</p>
+<p class="p1">The contents of the course unit build on the knowledge of Algebra, Probabilities, and Statistics, organizing them, developing them, and applying them in the context of decision support. By nature, this knowledge is transversal to all areas of Engineering and belongs to its basic sciences. Throughout the classes, there is a concern about using examples and case studies from the scientific area of each course, bridging the gap between the basic sciences and the area of the degree.<br />In addition, students are encouraged to integrate sustainability and SDG-aligned considerations into their analysis and problem formulation.</p>
+<p class="p1">The assessment in the course addresses these skills.</p>
+<p class="p1"><strong>2. Personal and Professional Skills and Attitudes </strong></p>
+<p class="p1">2.1. Engineering reasoning and problem-solving</p>
+<div class="p1" style="padding-left: 30px;">2.1.1 problem identification and formulation</div>
+<div class="p1" style="padding-left: 30px;">2.1.2 modelling</div>
+<div class="p1" style="padding-left: 30px;">2.1.3 estimation and qualitative analysis</div>
+<div class="p1" style="padding-left: 30px;">2.1.4 analysis with uncertainty</div>
+<div class="p1" style="padding-left: 30px;">2.1.5 solution and recommendation</div>
+<p class="p1">Exactly these points can describe the teaching methodology and the contents of this course. Thus, the formulation of problems according to each of the models studied throughout the course, their modelling and resolution are an ongoing activity. The sensitivity analysis addresses the qualitative analysis, while uncertainty is addressed in Queueing Theory and Decision Theory.</p>
+<p class="p1">The assessment in the course addresses these skills.</p>
+<p class="p1">2.2 Experimentation and Knowledge Discovery</p>
+<div class="p1" style="padding-left: 30px;">2.2.1 hypothesizing</div>
+<div class="p1" style="padding-left: 30px;">2.2.2 literature search</div>
+<div class="p1" style="padding-left: 30px;">2.2.3 Experimental investigation</div>
+<div class="p1" style="padding-left: 30px;">2.2.4 test and defence of hypotheses</div>
+<p class="p1">2.3 systemic thinking</p>
+<div class="p1" style="padding-left: 30px;">2.3.1 holistic thinking</div>
+<div class="p1" style="padding-left: 30px;">2.3.2 emergency and interaction between systems</div>
+<div class="p1" style="padding-left: 30px;">2.3.3 prioritization and focus</div>
+<div class="p1" style="padding-left: 30px;">2.3.4 trade-offs, judgment, and balancing the resolution</div>
+<p class="p1">These skills are addressed indirectly and maybe more directly described as:</p>
+<div class="p1" style="padding-left: 30px;">(1) analysis competencies - ability to conceptualize, formulate, and solve unfamiliar problems;</div>
+<div class="p1" style="padding-left: 30px;">(2) project competencies - the ability to address with creativity, unfamiliar, complex, and technically uncertain problems;</div>
+<div class="p1" style="padding-left: 30px;">(3) research competencies - the ability to model and evaluate the applicability of emerging techniques (description of the criteria according to Euro-ACE).</div>
+<p class="p1">Problem design and modelling, involving identifying the applicable family of models and developing and evaluating original models, clearly contribute to these skills. The topics related to sensitivity analysis contribute to understanding concepts related to trade-offs and balancing.</p>
+<p class="p1">The assessment in the course addresses these skills.</p>
+<p class="p1">Students will be encouraged to consider the implications of their decisions in terms of sustainability, specifically the impact of their models and solutions on areas such as health, education, equality, and the preservation of the environment.<br /><br />The learning objectives are related to the competencies (knowledge, skills, and attitudes that students should have) and are expressed as statements about things that students should be able to explain, calculate, deduct, design, etc ...</p>
+<p class="p1">For all the topics on the syllabus, very detailed learning objectives are available alongside the teaching materials.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Basic courses in algebra, statistics and probability theory.</p>
+
+## Programa
+modelling | without integer variables<br />modelling | network problems<br />modelling | with integer variables<br />modelling | with integer auxiliary variables<br />resolution of models | without integer variables<br />          - linear programming<br />          - graphic resolution + sensitivity analysis<br />          - simplex method fundamentals<br />          - Excel solver<br />          - solver sensitivity report<br /><div>resolution of problems with integer variables<br />          - branch and bound<br />          - solver<br />queueing theory<br />decision theory</div>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The themes are presented using active learning methods. The problems are illustrated with examples. The problems from a list of proposed problems are discussed and solved by the students.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 30.0 %
+- Teste: 70.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><strong>DISTRIBUTED EVALUATION<br />(closed book) (0 to 14 points).<br /></strong></p>
+<p>Micro-exercises (0 to 10 points)</p>
+<ul>
+<li>each exercise will be rated on a scale from 0 to 100%;</li>
+<li>the final mark in this component will be obtained by adding up the marks obtained by each student in the micro-exercises proposed for resolution at the end of each lesson, removing the two lowest marks.</li>
+</ul>
+<p>Intermediate test (0 to 4 points).</p>
+<p style="color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;"><br /><strong>EXAM<br />(closed book) (0 to 6 points)</strong></p>
+
+## Obtenção de frequência
+To be able to access the exam the students must obtain a minimum classification of 4 points (out of 14 possible points) in the distributed assessment component (micro-exercises and intermediate test).<br /><br />In addition to the previous requirement, to attend this curricular unit students must follow FEUP general rules of assessment<br />(in Portuguese https://paginas.fe.up.pt/~contqf/producao/_SERAC/Legislacao/Regulamentos/RegulamentosFEUP/normas%20gerais%20de%20avaliacao.pdf)
+
+## Melhoria de classificação
+Students may register for completion of each component:<br /><br />Component - micro-exercises - will be assessed through a closed book test (classification from 0 to 10 points).<br />Component - intermediate test - will be assessed by a closed-book test (classification from 0 to 4 points).<br />Component EXAM will be assessed through a closed book exam (classification from 0 to 6 points).<br /><br />The final mark will be calculated as described in the &quot;Calculation of the Final Classification&quot; section, taking into account the best evaluation obtained by the student in each of the components, considering the normal season and the improvement season.
+

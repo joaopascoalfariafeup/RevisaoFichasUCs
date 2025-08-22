@@ -1,0 +1,207 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Álgebra Linear e Geometria Analítica
+
+## Curso responsável
+Licenciatura em Engenharia Aeroespacial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<ul style=&quot;list-style-type: disc;&quot;><br /><li>Como unidade curricular propedêutica, tem caráter didático/científico e o principal objetivo é potenciar o desenvolvimento do raciocínio lógico e o pensamento analítico.</li><br /><li>Introduzir e desenvolver em termos teóricos um conjunto de conceitos fundamentais sobre Álgebra Linear, Vetorial e Geometria Analítica, que se consideram indispensáveis no apoio às unidades curriculares da L.AERO e na formação matemática de um estudante de Engenharia.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<p>Dotar os estudantes com competências para:</p>
+<ul style="list-style-type: disc;">
+<li>Efetuar operações algébricas com vetores e aplicar propriedades;</li>
+<li>Identificar combinação linear de vetores, independência/dependência linear de vetores e subespaço gerado por um conjunto de vetores;</li>
+<li>Definir e determinar uma base e a dimensão de um espaço linear; obter as coordenadas de um vetor em relação a uma base;</li>
+<li>Definir reta e plano, conhecer as suas propriedades e saber representá-los através de expressões matemáticas adequadas;</li>
+<li>Resolver problemas com retas e planos envolvendo distâncias, ângulos e ser capaz de identificar as suas posições relativas no espaço;</li>
+<li>Realizar operações básicas com matrizes e aplicar propriedades;</li>
+<li>Definir e determinar a característica de uma matriz;</li>
+<li>Definir o determinante de uma matriz, conhecer as suas propriedades e saber determiná-lo;</li>
+<li>Identificar uma matriz não singular, calcular a matriz inversa e propriedades ;</li>
+<li>Analisar e resolver sistemas de equações lineares;</li>
+<li>Definir uma transformação linear, calcular e caracterizar o seu núcleo e contradomínio;</li>
+<li> Efetuar operações algébricas com transformações lineares, identificar injetividade e, neste caso e calcular a sua transformação inversa;</li>
+<li>Representar uma transformação linear e operar com transformações lineares recorrendo à álgebra matricial;</li>
+<li>Construir uma matriz mudança de base e aplicá-la a problemas de mudanças de base, envolvendo elementos de um espaço linear e transformações lineares;</li>
+<li>Definir matrizes semelhantes e conhecer as suas propriedades;</li>
+<li>Calcular valores próprios, vetores próprios de transformações lineares e conhecer as suas propriedades;</li>
+<li>Identificar, no caso de ser possível, uma representação matricial diagonal para a transformação linear.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>O estudante deverá ter conhecimentos básicos sobre trigonometria, funções reais a uma variável real, geometria analítica plana, sistemas de equações lineares e lógica.</p>
+
+## Programa
+<p><strong>(1ª Parte)</strong><br />Operações algébricas com vetores.<br />Definição de espaço linear; subespaços lineares.<br />Subespaço gerado por um conjunto  de vetores.<br />Independência e dependência linear de um conjunto finito de vetores.  <br />Bases e dimensão de um espaço vetorial e de um subespaço vetorial. Componentes e coordenadas de um vetor em relação a uma base.<br />Produto interno. Espaços euclidianos. Norma. Ortogonalidade.<br />Produto vetorial e produto misto.<br />Estudo da reta e do plano em Rn. Aplicações geométricas em R3.<br /><strong>(2ª Parte)<br /></strong>Espaço linear de matrizes. Produto de matrizes. Matriz transposta.<br />Matriz inversa. Matriz ortogonal. Característica de uma matriz.<br />Matrizes semelhantes. Matrizes de mudança de base.<br />Estudo dos determinantes. Método de condensação e Teorema de Laplace. <br />Inversão de matrizes usando o determinante.<br />Estudo dos sistemas de equações lineares. Método de eliminação de Gauss. Regra de Cramer.<br />Transformações lineares. Núcleo e contradomínio.<br />Operações algébricas com transformações lineares.<br />Transformações lineares injetivas.<br />Representação matricial de transformações lineares. <br />Isomorfismo entre transformações lineares e matrizes.<br />Valores próprios e vetores próprios de transformações lineares. Polinómio característico. <br />Condições para a existência de representação matricial diagonal de uma transformação linear.</p>
+<p> </p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p> </p>
+<ul style="list-style-type: disc;">
+<li>Nas aulas teóricas (T) a exposição dos tópicos programáticos é baseada em estratégias de aprendizagem ativa, com exemplos  ilustrativos de aplicação dos conceitos matemáticos expostos.</li>
+</ul>
+<ul style="list-style-type: disc;">
+<li>Para cada aula teórico-prática (TP) é disponibilizado préviamente uma lista selecionada de exercícios relativos a assuntos já lecionados nas aulas teóricas. O objetivo é que os estudantes possam resolver os exercícios propostos em estudo autónomo fora da aula. Na aula, as resoluções apresentadas são analisadas, discutidas em pequenos grupos, estimulando o trabalho colaborativo e com propósito de esclarecer dúvidas e consolidar os conceitos envolvidos.</li>
+</ul>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 78.0 horas
+- Frequência das aulas: 84.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Qualquer estudante pode obter aprovação nesta UC por :</p>
+<ul style="list-style-type: disc;">
+<li>Avaliação distribuída ou por realização de uma única prova de reavaliação global que inclui a matéria toda (PRG).</li>
+<li>A avaliação distribuída consiste de quatro componentes: avaliação de competências transversais e 3 provas escritas P1, P2 e PG cada uma quais  está cotada para 20Valores e têm duração de 90m.</li>
+</ul>
+<p><br /><strong>1. Avaliação distribuida:<br /></strong></p>
+<ul>
+<li>1ª prova (<strong>P1</strong>), inclui a primeira parte da matéria;</li>
+<li>2ª prova ( <strong>P2</strong>) inclui a matéria posterior a P1 e é exclusiva a estudantes que obtiveram classificação em P1, igual ou superior a 6Valores.</li>
+<li>Prova global <strong>(PG</strong>), inclui a matéria toda, realizado em  simultâneo com a prova P2 e é obrigatório para estudantes que obtiveram em P1 uma classificação inferior a 6V.</li>
+<li> Qualquer estudante pode optar por realizar a prova global.</li>
+<li>A componente de avalição das <strong>competências transversais</strong> abrange: envolvimento e colaboração na aulas teórica-práticas, capacidade analitica e critica, estratégias de resolução de problemas nas aulas, em trabalho autónomo, realizado em grupo e comunicação oral. A percentagem de avaliação associada a estas competências é da ordem dos 10%.</li>
+</ul>
+<p>A classificação final (CF) obtida é: </p>
+<p><strong>CF=0,45*CP1 +0,45*CP2+0,10CT</strong> ,<strong> </strong>se <strong>CP1</strong>&#8805;6  e <strong> CP2</strong>&#8805;6<strong>  (</strong>classificação mínima de 6V em CP1 e em CP2)  <br />ou  <br /><strong>CF =CPG</strong></p>
+<p>em que<br /><strong>CP1</strong>: classificação da prova P1; <br /><strong>CP2</strong>: classificação da prova P2; <br /><strong>CT</strong>:classificação das competências transversais<br /><strong>CPG</strong>: classificação da prova global; <br /><strong>CF</strong>: classificação final;<br /><br />Os estudantes são aprovados à unidade curricular se a classificação final (<strong>CF</strong>) é maior ou igual a 10Valores.<br /><br /><strong>2.  Prova de Reavaliação Global (PRG):<br /></strong></p>
+<ul>
+<li>A prova de reavaliação global <strong>(PRG</strong>) pode ser realizada por:
+<ul style="list-style-type: circle;">
+<li>Estudantes que não obtiveram aprovação à unidade curricular na avaliação distribuída</li>
+<li style="text-align: left;">Estudantes aprovados que pretendem melhorar a classificação obtida, de acordo com o artigo 11º do Regulamento Específico de Avaliação de Discentes da FEUP.</li>
+</ul>
+</li>
+<li>Esta prova inclui a matéria toda, está cotada para 20Valores e tem a duração de 120m.</li>
+</ul>
+<p><strong>3.  Notas importantes :<br /><br /></strong></p>
+<ol style="list-style-type: lower-alpha;">
+<li>Todas as provas referidas em 1. e 2. (P1, P2, PG, PRG) são realizadas sem consulta.</li>
+<li>Classificação igual ou superior a 18Valores (CF&gt;=18) , está sujeita à realização de uma prova oral ou escrita, independentemente de ter sido obtida pela processo de avaliação distribuída ou pela prova de reavaliação global <strong>(PRG)</strong>.</li>
+<li>As classificações das componentes da avaliação dos anos anteriores não são consideradas assim como as que são obtidas no ano corrente não são transferidas para os anos seguintes; </li>
+<li>Durante as provas de avaliação não é permitido a consulta de qualquer tipo de telemóveis, smartwatches, máquinas de calcular e microcomputadores.</li>
+</ol>
+
+## Obtenção de frequência
+<p>Para obter frequência o estudante deve:</p>
+<ul style="list-style-type: disc;">
+<li>Cumprir o critério de assiduidade à unidade curricular, o que implica que o número limite de faltas (25% do número de aulas teórico-práticas previstas) não deve ser excedido, de acordo com o artigo 6º do Regulamento Específico de Avaliação de Discentes da FEUP;</li>
+</ul>
+<p> </p>
+
+## Melhoria de classificação
+<p>Prova escrita de melhoria de classificação a realizar de acordo com o artigo 11º do Regulamento Específico de Avaliação de Discentes da FEUP.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Linear Algebra and Analytical Geometry
+
+## Curso responsável
+Bachelor in Aerospace Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<ul style=&quot;list-style-type: disc;&quot;><br /><li>This course unit, as a propaedeutic discipline has character didactic/scientific and aims to promote the development of logical reasoning and analytic thinking.</li><br /><li>To introduce and develop in theoretical terms the basic fundamental concepts of Linear Algebra, Vector Algebra, and Analytic Geometry, relevant to support the study of the majority of course units in the context L.AERO and the competence mathematical of a engineering student.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<p>Endow the students with the skills for:</p>
+<ul style="list-style-type: disc;">
+<li>Realize vector algebraic operations, their properties and how to apply them;</li>
+<li>Identify the linear combination of vectors, linear independence and subspace spanned by a set of vectors;</li>
+<li>Define and calculate basis and dimension of vector space; obtain the coordinates of a vector with respect to a given basis;</li>
+<li>Define line and plane, properties and represent lines and planes;</li>
+<li>Solve problems with lines and planes, such as distances, angles and relative positions;</li>
+<li>Knowing basic matrix operations, properties and operations;</li>
+<li>Define and calculate the rank of a matrix;</li>
+<li>Define nonsingular matrix, properties of the inverse of a matrix and calculate the inverse of a matrix;</li>
+<li>Define determinant of a matrix, properties and calculate it;</li>
+<li>Analyse and solve linear systems of equations;</li>
+<li>Define linear transformations, define and calculate kernel and algebraic operations;</li>
+<li>Define change-of-basis matrix and apply it to problems with vector spaces and linear transformations;</li>
+<li>Define similar matrices and knowing properties;</li>
+<li>Calculate eigenvalues and eigenvectors of linear transformations and knowing properties;</li>
+<li>Identify, if it is possible the diagonal matrix representations for a linear transformation;</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>The student must be acquainted with basic notions on trigonometry, real functions, plane analytic geometry, systems of linear equations and logic operations.</p>
+
+## Programa
+<p>Vector algebraic operations.<br />Definition of linear spaces. Subspaces of a linear space.<br />Dependent and independent sets in a linear space. Bases and dimension.<br />The dot product. Norm of a vector. Orthogonality and angle between two vectors.<br />The cross product and scalar triple product. <br />Study of the Lines and plan in n-space. <br />Geometric applications to three-dimensional space.<br />Matrices; algebraic operations. Transpose of a matrix. Square matrices: definitions and special properties. Rank of a matrix. Inverse of a square matrix.<br />Determinants; definition and properties. Minors and cofactors. The Laplace theorem.<br /> Computation of determinants. <br />The determinant of the inverse of a non-singular matrix. Evaluation of the rank of a matrix with determinants.<br />Systems of linear equations; Gauss and Gauss-Jordan methods. Cramer&#180;s rule.<br />Linear transformations; Null space and range.<br />Algebraic operations. Inverses. <br />One-to-one linear transformations.<br />Matrix representation of linear transformations. <br />Matrices representing the same linear transformation. <br />Similar matrices.<br />Eigenvalues and eigenvectors; definition and properties. Linear transformations with similar diagonal matrix representations.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul style=&quot;list-style-type: disc;&quot;><br /><li>Theoretical classes (T): the exposition of the program contents of the discipline are presented using active learning methods with illustrative examples of the application of the mathematical theoretical concepts.</li><br /><li>Before each class, a select list of exercises proposed is available related to the themes,  previously presented in the theoretical lessons.</li><br /><li>The goal is to enable students to solve the proposed problems outside of the classroom related to contents, previously given in the theoretical lessons . In class, small teams analyze and discuss the solutions presented team to improve collaborative work, clariyfing questions and consolidate the themes.</li><br /></ul>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 78.0 hours
+- Frequência das aulas: 84.0 hours
+
+## Fórmula de cálculo da classificação final
+<p> Any student can choosen to obtain approval by :</p>
+<ul style="list-style-type: disc;">
+<li>distributed evaluation or a global test revaluation which will cover all program of the course.</li>
+</ul>
+<ul style="list-style-type: disc;">
+<li>The distributed evaluation has four components: evaluation of the transversal competences  and  three tests written P1, P2 and PG.</li>
+</ul>
+<p>All assessment components are expressed on a scale of 0 to 20 (V-values). <br /><br /><strong>1. Distributed evaluation:<br /><br /></strong></p>
+<ul style="list-style-type: disc;">
+<li>1st Test (P1) will cover the first part (half) of the program of the course.</li>
+<li>2nd<span style="font-size: xx-small;"> </span>Test (P2) will include the subject after the 1st<span style="font-size: xx-small;"> </span>test (the second part of the program of the course). In this test only are admited students that obtained a classification equal to or greater than 6V in the 1st test (P1).</li>
+<li>Global test (PG) with all course program, performed simultaneously with P2.</li>
+<li>Any student can choose to realize the global test.</li>
+<li>The evaluation of the transversal competencies includes: engagement and collaboration in the theoretical-practical lessons, capacity analytical and critical, strategies to solve problems in the lessons, autonomous study, realized in teamwork and oral communication.</li>
+</ul>
+<p>The final classification (CF) will be calculated by :<br /> <strong>CF=0,45*CP1 +0,45*CP2+0,10CT  </strong>if CP1&#8805;6V AND CP2&#8805;6V<strong>  </strong>(a minimum mark of 6V is required in P1 and P2)<br /> or </p>
+<p>CF =CPG</p>
+<p>in which<br /> <strong>CP1</strong>: classification in the 1st test<br /> <strong>CP2</strong>: classification in the 2nd test<br /><strong>CT:</strong> classification of transversal competencies<br /><strong>CPG:</strong> classification in the global test<br /><strong>CF:</strong> classification final<br /><br />To be approved, students have to achieve a final classification (CF) equal to or greater than 10V.<br /><br /><strong>2. Global test revaluation (PRG):</strong></p>
+<p>The global test revaluation (PRG) includes all programs of the course (whole program) and  can be realized by:</p>
+<ul style="list-style-type: disc;">
+<li>Students who did not obtain approval in the distributed evaluation process.</li>
+<li>Students who have passed the end of the evaluation process distributed and intend to improve the classification obtained. In this case, they should make their registration in Academic Services of FEUP, according to Article 11 of the Specific Rules for FEUP's Students Assessment.</li>
+<li>This global test evaluation includes all programs of the course (whole program) and the duration is 120m.</li>
+</ul>
+<p><strong>3. Remarks: </strong></p>
+a. Students with a final classification equal to or greater than 18V will be subjected to an extra oral or written test, regardless of how it was obtained, by distributed evaluation or a global test revaluation (PRG).<br />b. Classifications of tests from previous years are not considered.<br />c. Classifications obtained this year have not been moved for the following years.<br />d. During the evaluation tests are not allowed to consult any type of mobile phone, calculator and microcomputer.
+
+## Obtenção de frequência
+<p>Admission to exam:<br />a) Attend to 75% of theoretical-practical classes, according to Article 6 of the Specific Rules for FEUP's Students Assessment;<br /><br /></p>
+
+## Melhoria de classificação
+<p>Classification improvement will exclusively be the result of the written exam according to Article 11 of the Specific Rules for FEUP's Students Assessment.</p>
+

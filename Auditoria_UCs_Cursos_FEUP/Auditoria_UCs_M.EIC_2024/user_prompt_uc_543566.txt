@@ -1,0 +1,108 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Métodos Formais para Sistemas Críticos
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+Esta unidade curricular tem como objetivo geral familiarizar os estudantes com o desenvolvimento de sistemas críticos e como utilizar técnicas de especificação e verificação formal para aumentar a qualidade e confiabilidade de sistemas de software.<br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+## Resultados de aprendizagem e competências
+No final da unidade curricular os estudantes devem ser capazes de:<br /><ol><br /><li><span style=&quot;font-weight: 400;&quot;> Identificar os principais conceitos e técnicas associados ao desenvolvimento de sistemas críticos (&quot;safety critical&quot;) baseados em software.</span></li><br /><li><span style=&quot;font-weight: 400;&quot;> Identificar os principais conceitos e técnicas de especificação e verificação formal de sistemas baseados em software e reconhecer a sua importância e aplicabilidade.</span></li><br /><li><span style=&quot;font-weight: 400;&quot;> Aplicar métodos de verificação formal por &quot;model checking&quot; na concepção de sistemas de software reativos de pequena e média complexidade com suporte de ferramentas.</span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Aplicar métodos de verificação formal por prova de teoremas a sistemas de software sequenciais de pequena e média complexidade com suporte de ferramentas.</span></li><br /></ol><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+## Pré-requisitos e co-requisitos
+<br /><br /><br /><br /><br /><br /><br />
+
+## Programa
+<ol><br /><li><span style=&quot;font-weight: 400;&quot;> Introdução aos sistemas críticos (&quot;safety critical&quot;): definição, normas internacionais, ciclo de vida, análise de risco, técnicas de garantia de segurança funcional, tolerância a falhas.</span></li><br /><li><span style=&quot;font-weight: 400;&quot;> Introdução aos métodos formais de especificação e verificação de software: definição, importância, ciclo de vida, técnicas.</span></li><br /><li><span style=&quot;font-weight: 400;&quot;> Verificação formal durante a concepção de sistemas reativos por &quot;model checking&quot;: modelação de sistemas reativos, especificação de propriedades com lógica de primeira ordem e temporal, &quot;model checking&quot;, ferramentas.</span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Verificação formal de sistemas sequenciais por prova de teoremas: lógica de Hoare, cálculo de pré-condição mais fraca, desenho por contrato (&quot;design by contract&quot;), ferramentas.</span></li><br /></ol><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+## Métodos de ensino e atividades de aprendizagem
+Cerca de metade do tempo das aulas será usado para a exposição e estudo dos conteúdos programáticos, bem como resolução de desafios práticos em estilo tutorial. A outra metade do tempo será usada para a realização de exercícios práticos com suporte de ferramentas e realização do trabalho prático.<br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 40.0 %
+- Trabalho prático ou de projeto: 60.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho laboratorial: 50.0 horas
+
+## Fórmula de cálculo da classificação final
+Avaliação distribuída sem exame final, com as seguintes componentes:<br /><ol style=&quot;list-style-type: upper-alpha;&quot;><br /><li><span style=&quot;font-weight: 400;&quot;>Dois mini-testes (40%). Cada teste tem a duração de 1h15m e conta 20% para a nota final. <strong>Nota mínima de 40%.</strong></span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Trabalho prático (TP), em duas submissões, peso 60%. <strong>Nota mínima de 40%.</strong></span></li><br /></ol><br /><div id=&quot;gtx-trans&quot; style=&quot;position: absolute; left: 337px; top: 74px;&quot;> </div><br /><br /><br /><br /><br /><br /><br />
+
+## Obtenção de frequência
+<ul><br /><li>A presença nas aulas teórico-práticas é registada e obrigatória conforme legislação em vigor.</li><br /><li>Nota mínima de 40% no trabalho prático.</li><br /></ul><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+## Melhoria de classificação
+A classificação do teste pode ser melhorada em exame de recurso.<br /><br /><br /><br /><br /><br /><br />
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Formal Methods for Critical Systems
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+This curricular unit aims to familiarize students with the development of safety critical systems, and on the application of formal specification and verification techniques to increase the quality and reliability of software systems.<br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+## Resultados de aprendizagem e competências
+At the end of the course students should be able to:<br /><ol><br /><li><span style=&quot;font-weight: 400;&quot;> Identify the key concepts and techniques associated with the development of safety critical software-based systems.</span></li><br /><li><span style=&quot;font-weight: 400;&quot;> Identify the main concepts and techniques for the formal specification and verification of software-based systems, and recognize their importance and applicability.</span></li><br /><li><span style=&quot;font-weight: 400;&quot;> Apply formal verification methods based on model-checking to the design of reactive software systems of small to medium complexity with tool support.</span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Apply formal verification methods based on theorem proving and refinement to sequential software systems of small to medium complexity with tool support.</span></li><br /></ol><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+## Pré-requisitos e co-requisitos
+<br /><br /><br /><br /><br /><br /><br />
+
+## Programa
+<ol><br /><li><span style=&quot;font-weight: 400;&quot;> Introduction to safety critical systems: definition, international standards, life cycle, risk analysis, functional safety assurance techniques, fault tolerance.</span></li><br /><li><span style=&quot;font-weight: 400;&quot;> Introduction to formal software specification and verification methods: definition, importance, life cycle, techniques.</span></li><br /><li><span style=&quot;font-weight: 400;&quot;> Formal verification of reactive system designs by model checking: reactive systems modeling, properties specification in first-order and temporal logic, model checking, tools.</span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Formal verification of sequential systems by theorem proving and refinement: Hoare logic, weakest precondition calculus, design by contract, tools.</span></li><br /></ol><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+## Métodos de ensino e atividades de aprendizagem
+About half of the class time will be used for exposure and study of the syllabus, as well as for the resolution of practical challenges in tutorial style. The other half of the class time will be used for solving practical exercises with tool support and the development of the practical assignment.<br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 40.0 %
+- Trabalho prático ou de projeto: 60.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho laboratorial: 50.0 hours
+
+## Fórmula de cálculo da classificação final
+Distributed evaluation without final exam, with the following components: <br /><ol style=&quot;list-style-type: upper-alpha;&quot;><br /><li><span style=&quot;font-weight: 400;&quot;>Two mini-tests (40%). Each test has the duration of 1h15mins and counts 20% towards the final grade. <strong>Minimum grade of 40% required. </strong></span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Practical Assignment, in two submissions, counting 60% towards the final grade. <strong>Minimum grade of 40%.</strong> </span></li><br /></ol><br /><div id=&quot;gtx-trans&quot; style=&quot;position: absolute; left: 375px; top: 74px;&quot;> </div><br /><br /><br />
+
+## Obtenção de frequência
+<ul><br /><li>The presence in the practical classes is registered and mandatory according to existing legislation.</li><br /><li>Minimum of 40% in the practical assignment.</li><br /></ul><br /><br /><br /><br /><br /><br /><br />
+
+## Melhoria de classificação
+The classification of the test can be improved in the appeal exam.<br /><br /><br /><br /><br /><br /><br />
+

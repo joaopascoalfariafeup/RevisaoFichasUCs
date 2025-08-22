@@ -1,0 +1,102 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Controlo e Otimização
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<div class=&quot;page&quot; title=&quot;Page 26&quot;><br /><div class=&quot;section&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;><br /><p>Esta unidade curricular tem por objetivo transmitir aos estudantes uma base so&#769;lida de ferramentas e metodologias necessa&#769;rias para compreender e projetar sistemas dina&#770;micos de controlo com particular e&#770;nfase em sistemas na&#771;o lineares utilizando te&#769;cnicas de controlo na&#771;o linear e baseadas em otimizac&#807;a&#771;o. Estes conceitos são fundamentais nas várias áreas de aplicação, como por exemplo, na automação e robótica, nos sistemas ciber-físicos, e em geral nos sistemas de decisão e controlo. </p><br /></div><br /></div><br /></div><br /></div>
+
+## Resultados de aprendizagem e competências
+<div class=&quot;page&quot; title=&quot;Page 26&quot;><br /><div class=&quot;section&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;><br /><p>Os estudantes apo&#769;s esta unidade curricular devera&#771;o ser capazes de perceber as principais diferenc&#807;as entre sistemas lineares e na&#771;o lineares, utilizar conceitos de Lyapunov para caracterizar a estabilidade de um sistema dina&#770;mico, conhecer e aplicar as principais te&#769;cnicas de controlo na&#771;o linear e controlo o&#769;ptimo.</p><br /></div><br /></div><br /></div><br /></div>
+
+## Programa
+<div class=&quot;page&quot; title=&quot;Page 26&quot;><br /><div class=&quot;section&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;><br /><p>1. Sistemas dina&#770;micos lineares e na&#771;o lineares (pontos de equili&#769;brio, diagrama de fase, ciclos limites) <br />2. Linearizac&#807;a&#771;o (em torno de um ponto de equili&#769;brio e em torno de uma trajeto&#769;ria)<br />3. Estabilidade de Lyapunov (sistemas linearizados e sistemas na&#771;o lineares)<br />4. Projeto de controladores na&#771;o lineares (modos deslizantes e baseados em func&#807;o&#771;es de Lyapunov) <br />5. Introduc&#807;a&#771;o ao controlo o&#769;timo (conceitos ba&#769;sicos e condic&#807;o&#771;es de optimalidade)<br />6. O regular linear quadra&#769;tico<br />7. Controlo preditivo baseado em modelos (sistemas lineares e na&#771;o lineares)</p><br /></div><br /></div><br /></div><br /></div>
+
+## Métodos de ensino e atividades de aprendizagem
+As aulas teóricas consistirão na exposição dos conteúdos e discussão de exemplos ilustrativos dos conceitos apresentados. As aulas teórico-práticas são focadas nos trabalhos de aplicação (mini-projetos de controlo e optimização) e realização de exercícios práticos apoiados na utilização de ferramentas computacionais.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 30.0 %
+- Teste: 70.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 35.0 horas
+- Estudo autónomo: 88.0 horas
+- Frequência das aulas: 39.0 horas
+
+## Fórmula de cálculo da classificação final
+A avaliação final tem duas componentes:<br />- parte teórica T = média dos mini-testes<br />- parte prática P = min(média dos trabalhos práticos, T+3)<br /><br />Nota final = 70% T + 30% P<br /><br />Obs: Existe um exame de recurso para a parte teórica para quem não obteve aprovação.
+
+## Obtenção de frequência
+Não exceder o limite de faltas e entregar todos os trabalhos práticos.
+
+## Melhoria de classificação
+Realização do exame de recurso (para melhorar a componente T).
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Control and Optimization
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<div class=&quot;page&quot; title=&quot;Page 26&quot;><br /><div class=&quot;section&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;><br /><p>The aim of this curricular unit is to provide to the students a solid background of tools and methodologies necessary to understand and design dynamic control systems with particular emphasis on non-linear systems using nonlinear and optimization-based control techniques. These concepts are fundamental in various application areas, such as in automation and robotics, in cyber-physical systems, and in general in decision and control systems.</p><br /></div><br /></div><br /></div><br /></div>
+
+## Resultados de aprendizagem e competências
+<div class=&quot;page&quot; title=&quot;Page 26&quot;><br /><div class=&quot;section&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;><br /><p>Students after this course unit should be able to understand the main differences between linear and nonlinear systems, use Lyapunov concepts to characterize the stability of a dynamic system, know and apply the main techniques of nonlinear control and optimal control design.</p><br /></div><br /></div><br /></div><br /></div>
+
+## Programa
+<div class=&quot;page&quot; title=&quot;Page 26&quot;><br /><div class=&quot;section&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;><br /><p>1. Linear and nonlinear dynamical systems (equilibrium points, phase portrait, limit cycles) <br />2. Linearization (around an equilibrium point and around a trajectory)<br />3. Lyapunov Stability (Linearized systems and nonlinear systems)<br />4. Nonlinear control design (sliding-mode and Lyapunov based control)<br />5. Introduction to optimal control (Basic concepts and optimality conditions) <br />6. The Linear Quadratic Regulator (LQR)<br />7. Model Predictive Control (MPC) (linear and nonlinear systems)</p><br /></div><br /></div><br /></div><br /></div>
+
+## Métodos de ensino e atividades de aprendizagem
+Theoretical classes will consist of exposition of the contents and discussion of illustrative examples of the concepts presented. Theoretical-practical classes are focused on application work (mini-projects of control and optimization) and practical exercises supported by the use of computational tools.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 30.0 %
+- Teste: 70.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 35.0 hours
+- Estudo autónomo: 88.0 hours
+- Frequência das aulas: 39.0 hours
+
+## Fórmula de cálculo da classificação final
+The final assessment has two components:<br />- theoretical part T = average of the mini-tests<br />- practical part P = min(average of practical work, T+3)<br /><br />Final grade = 70% T + 30% P<br /><br />Note: There is a supplementary exam for the theoretical part for those who did not pass.
+
+## Obtenção de frequência
+Do not exceed the absence limit and submit all practical assignments.
+
+## Melhoria de classificação
+Performing the supplementary exam (to improve the T component).
+

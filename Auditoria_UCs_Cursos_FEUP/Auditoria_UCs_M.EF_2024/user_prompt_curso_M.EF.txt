@@ -1,0 +1,517 @@
+# Curso a analisar
+Mestrado em Engenharia Física
+
+## Descrição
+Transição MIEF:
+Consultar
+Condições de Acesso
+Os candidatos devem satisfazer uma das seguintes condições:
+Ser titular do grau de licenciado em Física, Física Aplicada ou Engenharia Física, ou do grau de licenciado ou mestre numa área afim considerada como adequada pela comissão científica do ciclo de estudos;
+Ser titular de um grau académico superior estrangeiro numa das áreas referidas na alínea anterior na sequência de um 1.º ciclo de estudos organizado de acordo com os princípios do Processo de Bolonha por um Estado aderente a este Processo;
+Titulares de um grau académico superior estrangeiro que seja reconhecido pela Comissão Científica do ciclo de estudos como satisfazendo os objetivos do grau de licenciado em Engenharia Física ou afim;
+Para os candidatos não detentores do grau à data de candidatura, mas em condições de conclusão até à data de inscrição no ciclo de estudos, deverá ser feita evidência da média curricular à data de candidatura, bem como das unidades curriculares em falta para a obtenção do grau de licenciado.
+Critérios de Seleção e Seriação
+A seriação dos candidatos deverá ser efetuada por ordem decrescente da sua Classificação Final (CF), tendo por base a média ponderada de três componentes: Média de Candidatura (MC), Prestígio do Estabelecimento de Ensino (PEE) e Adequabilidade do Curso (AC). A Classificação Final (CF), arredondada às décimas, deverá ser calculada através da seguinte fórmula:
+CF = (MC +1,5 x PEE) + AC
+A Média de Candidatura (MC), expressa numa escala de 10 a 20 valores arredondada às unidades, representa a classificação final de curso do candidato (180 ECTS) para candidatos licenciados. No caso de um estudante finalista com três inscrições na licenciatura, o valor da sua Média de Candidatura (MC) deverá corresponder à média ponderada das classificações obtidas nas unidades curriculares (UCs) do primeiro ao quinto semestre (150 ECTS)  aos quais obteve aprovação (ou reconhecimento). Nesta situação, a Média de Candidatura, arredondada às unidades, deve ser calculada através da seguinte fórmula:
+∑
+N
+j=1
+cl
+j
+x ECTS
+j
+/ 150
+para a qual, N representa o número de UCs do 1º ao 5º semestre com aprovação, cl
+j
+a classificação obtida na UC
+j
+, e ECTS
+j
+o número de créditos ECTS correspondente à UC
+j
+. A consideração de um quociente fixo tem como objetivo priorizar os candidatos que tenham os cinco semestres iniciais do curso concluídos. Caso o estudante tenha mais matrículas do que o número de anos de duração do curso de licenciatura mas ainda não tenha a licenciatura completa à data da candidatura, a fórmula de cálculo de MC passa a ser:
+∑
+N
+j=1
+cl
+j
+x ECTS
+j
+/ 180
+O cálculo do fator Prestígio do Estabelecimento de Ensino é dado por PEE=ln(R/r) sendo ln o logaritmo natural e sendo R e r os rankings mundiais da Universidade do Porto e da instituição conferente do grau do candidato expressos em http://www.webometrics.info, respetivamente.
+A soma MC+PEE é majorada a 20 valores. Não podem ser admitidos estudantes com classificação final inferior a 10 valores.
+Adequabilidade do Curso (AC) representa a apreciação da direção de ciclo de estudos sobre o “grau de cobertura em áreas científicas fundamentais” que o plano de estudos do curso de proveniência apresenta. A avaliação desta deverá essencialmente incidir sobre a adequabilidade da formação anterior para ingresso no ciclo de estudos. Dependendo da formação anterior os candidatos são agrupados em dois conjuntos: para os candidatos tipicamente possuidores de cursos de Licenciatura em Física, Engenharia Física, Física Tecnológica, etc., a componente AC tem 0 valores (grupo A). Todos os outros cursos afins são penalizados em -1,5 valores (grupo B). A distinção entre candidatos do Grupo A ou Grupo B terá a ver com a formação anterior em tópicos mais avançados de física ou engenharia física (ao nível de licenciatura), como sejam mecânica quântica, física estatística, física da matéria condensada, por exemplo. Caberá à Comissão Científica do curso decidir a inclusão dos candidatos num ou noutro grupo.
+Critério de desempate:
+Em caso de empate, será usado como primeiro critério de desempate a média aferida da licenciatura, e como segundo critério de desempate a adequação da formação às características do mestrado.
+Em caso de necessidade de um terceiro critério será feita uma entrevista aos candidatos.
+Idioma de Lecionação
+Totalmente em Português
+Informações
+Prazos de Ingresso 2024-2025
+Prazos de Reingresso 2024-2025
+Admissão a Provas Académicas
+Contactos
+Diretor do Curso:
+m.ef.diretor@fc.up.pt
+Secção de Pós-Graduação:
+pos.graduacao@fc.up.pt
+Estudantes do curso:
+m.ef@fc.up.pt
+Nota: Informação disponibilizada a título informativo.
+Não dispensa a consulta do Diário da República.
+
+# Unidade curricular: Mecânica dos Fluidos Avançada
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p> </p>
+<p>Analisar, compreender e caracterizar o comportamento dos fluidos newtonianos, não-newtonianos a macro e micro escala e seus escoamentos nos regimes laminar e turbulento.</p>
+<p>Ser capaz de identificar as técnicas a utilizar na resolução de escoamentos de engenharia e resolvê-los pelas vias analítico-numérico e experimental quando possível, e ao  mesmo tempo criar a base para a resolução de problemas de escoamentos mais complexos pela via dos conhecimentos complementares a adquirir no âmbito da Mecânica de Fluidos Computacional.</p>
+
+## Resultados de aprendizagem: <p>Espírito crítico e capacidade de resolução de problemas complexos  de mecânica de fluidos e transferência de calor, seja envolvendo fluidos simples seja envolvendo fluidos de comportamento reológico complexo.</p>
+
+## Pré-requisitos e co-requisitos: Análise Matemática I e II, Álgebra Linear e Geometria Analítica, Programação de Computadores, Análise Numérica, Mecânica I e  II,  Termodinâmica I e II, Mecânica de Fluidos I e II, e Transferência de Calor.<br /><br />É assumido um conhecimento profundo de equações diferenciais e sua integração.
+
+# Unidade curricular: Materiais e Dispositivos Magnéticos
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: <p>&#8226; Realçar a enorme importância tecnológica dos materiais magnéticos.</p>
+<br />
+<p>&#8226; Perceber os conceitos básicos do magnetismo nos materiais, e os parâmetros / características relevantes para as aplicações.</p>
+<br />
+<p>&#8226; Recorrer ao uso sistemático do sistema SI no Magnetismo</p>
+<br />
+<p>&#8226; Conhecer as diferentes classes de materiais magnéticos convencionais e suas aplicações em engenharia.</p>
+<br />
+<p>&#8226; Introduzir a nova magneto-electrónica (Spintrónica). Multicamadas, válvulas de spin, junções de efeito túnel, dispositivos híbridos.</p>
+<br />
+<p>&#8226; Conhecer os novos materiais funcionais, princípios e potencialidades tecnológicas</p>
+<br />
+<p>&#8226;Dominar os conceitos básicos do magnetismo e dos dispositivos magnéticos.</p>
+
+## Resultados de aprendizagem: <p>Obter formação avançada na área dos materiais magnéticos e dispositivos que permita aos estudantes aprender os principais conceitos subjacentes a esta área, e aplicá-los a diferentes dispositivos relevantes em aplicações.<br />O programa inclui uma introdução aos materiais magnéticos realçando os aspectos da Física da Matéria Condensada mais relevantes para a compreenção deste fenómeno cooperativo. <br />O estudante reconhecerá os resultados principais da contribuição desta área para o desenvolvimento da Física, nomeadamente da mecânica quântica ou reltividade, sem as quais não podemos explicar os fenómenos magnéticos nos (nano)materiais.<br />O estudante será  capaz de usar as teorias de campo médio e de Landau para explicar fenómenos como ferromagnetismo, antiferromagnetismo e paramagnetismo.<br />Conhecerá as principais aplicações dos materiais e dispositivos magnéticos relevantes para áreas desde o magnetismo terrestre, motores electricos, refrigeração e outras áreas da energia, gravação magnética, etc. obtendo assim uma importante base de conhecimento para<br />dominar os conceitos básicos desta área.</p>
+
+# Unidade curricular: Engenharia de Sistemas
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: O objectivo desta disciplina é proporcionar a todos os alunos uma oportunidade de projecto e desenvolvimento e integração de um sistema complexo que utilize diferentes tecnologias, até agora estudadas de forma isolada ao longo do curso.
+
+## Resultados de aprendizagem: <p>A frequência desta unidade curricular confere aos alunos competências para:</p>
+<p>&#8226; utilizar metodologias de especificação e desenvolvimento de sistemas a partir da análise de requisitos para o sistema;</p>
+<p>&#8226; avaliar a oferta de produtos existentes para idêntica função e introduzir elementos inovadores que permitam diferenciação;</p>
+<p>&#8226; planear e desenvolver tarefas, avaliar soluções alternativas, definir soluções para a integração de sistemas procurando uma solução inovadora, adequada e capaz de satisfazer as especificações do sistema;</p>
+<p>&#8226; Utilizar princípios e conceitos de Engineering Systems;</p>
+<p>&#8226; Enumerar, explicar e aplicar as principais técnicas de modelização e de análise de sistemas;</p>
+<p>&#8226; Explicar e aplicar o processo de 'Systems Engineering';</p>
+<p>&#8226; Explicar e aplicar os princípios, conceitos e técnicas no âmbito da Gestão de Projectos;</p>
+<p>&#8226; Organizar o trabalho em equipas de projecto de média dimensão.</p>
+
+# Unidade curricular: Robótica
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: A. Compreender o funcionamento e utilização de sistemas robóticos.<br /><br />B. Dominar os aspetos tecnológicos envolvidos na conceção, nas características de funcionamento, na<br />programação e nas aplicações de sistema robotizados.
+
+## Resultados de aprendizagem: No final os estudantes estarão habilitados a:<br /><br />- Conhecer os diferentes tipos de sensores utilizados em robótica.<br /><br />- Compreender os diferentes módulos que constituem um robô móvel.<br /><br />- Fazer uma análise da cinemática direta e inversa de um manipulador.<br /><br />- Compreender algoritmos de controlo de velocidade, posição e força.<br /><br />- Compreender os diversos componentes de uma célula ou um sistema robótico.<br /><br />- Analisar as diferentes configurações cinemáticas de robôs móveis.<br /><br />- Conhecer os diferentes algoritmos para geração e seguimento de trajetórias.
+
+## Pré-requisitos e co-requisitos: Álgebra, cálculo matricial, trigonometria.
+
+# Unidade curricular: Telescópios e Detetores para as Ciências do Espaço
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: <div style=&quot;text-align: justify;&quot;>O objetivo principal deste curso é dar aos estudantes formação básica em conceitos de instrumentação para as ciências do espaço, permitindo que um dia possam vir a ser lideres no desenvolvimento deste tipo de tecnologias utilizadas no ESO e na ESA. Tal inclui tanto a componente de hardware como de redução de dados. O curso deverá permitir que os estudantes percebam a linguagem usada na área, os vários tipos de telescópios e instrumentos, e o tipo de dados que são recolhidos, bem como algumas especificidades para a sua análise. Deste modo esta unidade curricular abre fortes perspetivas de colaboração entre os estudantes (futuros profissionais) e instituições internacionais como o ESO e a ESA. Estas podem materializar-se do ponto de vista de empregabilidade mas também num contexto de fornecimento de tecnologia para estas instituições (o curso permite compreender a linguagem utilizada do lado destas empresas e assim melhor identificar potenciais interesses).</div>
+
+## Resultados de aprendizagem: <div style=&quot;text-align: justify;&quot;>O capítulo 1 dá aos estudantes uma visão geral sobre a importância do desenvolvimento de instrumentação para observação do Universo, bem como da linguagem utilizada na área. Os capítulos 2 a 6 permitem ao estudante compreender os conceitos básicos da instrumentação utilizada nas ciências do espaço. O capítulo 7 permite depois explorar o processo de redução das imagens brutas, ou seja, dos passos necessários para corrigir uma imagem dos efeitos instrumentais (e deixá-la pronta para uma análise científica). No último capitulo discute-se os desafios e instrumentação para a próxima década. A componente prática permitirá aos estudantes consolidar e aplicar alguns dos conceitos mais relevantes ensinados na componente teórica.</div>
+
+# Unidade curricular: Empreendedorismo e Inovação
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 4.5
+## Objetivos: Nesta UC pretende-se dotar os alunos com as ferramentas essenciais à prospecção, refinamento, avaliação e implementação de novos negócios (incluindo negócios de base tecnológica).
+
+## Resultados de aprendizagem: Referência de Competências do National Content Standards for Entrepreneurship Education (NCSEE): http://www.entre-ed.org/Standards_Toolkit <br /><br />Levels: BASICS, COMPETENCY AWARENESS and CREATIVE APPLICATIONS of the following Standards<br />A Entrepreneurial Processes<br />B Entrepreneurial Traits/Behaviors<br />L Marketing Management<br />M Operations Management<br />O Strategic Management<br />Levels: BASICS, COMPETENCY AWARENESS<br />C Business Foundations<br />F Economics (concepts review)<br />N Risk Management<br />Levels: BASICS, COMPETENCY AWARENESS, CREATIVE APPLICATIONS, STARTUP<br />D Communications and Interpersonal Skills<br />E Digital Skills
+
+# Unidade curricular: Dissertação
+
+## Ano: 2
+## Semestre: None
+## ECTS: 42.0
+## Objetivos: 
+
+## Resultados de aprendizagem: 
+
+# Unidade curricular: Óptica Não-Linear e Ultra Rápida
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: Formação de base em ótica não-linear, com uma componente de ótica de impulsos ultracurtos (ótica ultrarrápida) adequada a uma compreensão mais abrangente e atual do tema.<br />Este curso não é clássico (sendo lecionado em apenas algumas instituições em todo o Mundo) e o seu tema é um campo muito recente e em rápida evolução, tocando um número crescente de áreas da física, engenharia e ciência não-linear em geral. Em consequência, este será um curso dinâmico, ilustrado com resultados recentes de investigação.
+
+## Resultados de aprendizagem: <p>a) Conhecimento da origem, descrição e aplicações de propriedades e processos óticos não-lineares;<br /><br />b) capacidade de cálculo analítico de efeitos não-lineares de segunda e terceira ordem (geração do segundo harmónico, amplificação paramétrica, auto-modulação da fase e efeito de Kerr ótico, etc.) para campos monocromáticos;<br /><br />c) conhecimento de ferramentas para o cálculo numérico de processos não-lineares (diferentes processos, materiais e geometrias, feixes gaussianos e impulsos curtos);<br /><br />d) conhecimento e capacidade de explicitar a propagação linear de impulsos ultracurtos nos domínios espectral e temporal e os processos não-lineares com impulsos;<br /><br />e) conhecimento das equações de propagação não-linear e de ferramentas e métodos para a sua resolução numérica;<br /><br />f) cultura científica e conhecimento de técnicas, resultados atuais e temas de investigação e desenvolvimento em ciência e tecnologia ultrarrápidas.</p>
+
+## Pré-requisitos e co-requisitos: Eletromagnetismo, ótica (preferencialmente incluindo lasers), materiais óticos, e mecânica quântica elementar.
+
+# Unidade curricular: Comunicações Óticas
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p class="p1">Fornecer os conceitos genéricos de sistemas de comunicação óptica e projecto de sistemas digitais e analógicos por fibra óptica, dando elementos para compreensão dos processos de funcionamento das fibras, dos dispositivos activos e passivos mais relevantes, proporcionando aos alunos a aplicação prática destes conceitos através da realização de trabalhos laboratoriais.</p>
+
+## Resultados de aprendizagem: <p>As competências adquiridas pelos estudantes são:</p>
+<p>- Compreensão das características especifícas de sistemas de transmissão em fibra óptica, as suas vantagens e limitações.</p>
+<p>- Conhecimento das características de propagação da luz em fibras ópticas.</p>
+<p>- Conhecimento dos princípios físicos de operação de fontes ópticas e detectores.</p>
+<p>- Munidos do conhecimento básico da propagação da luz em fibras ópticas e de fontes ópticas, os estudantes adquirem posteriormente conhecimentos no projecto de sistemas em fibra óptica ponto-a-ponto.</p>
+<p>- Capacidade de análise, simulação e projecto deste tipo de sistemas.</p>
+<p class="p1"><span class="s1">Os resultados da aprendizagem são a aquisição das competências orientadas para o projeto dos vários elementos de um sistema comunicação em fibra óptica.</span></p>
+
+# Unidade curricular: Eletrónica dos Sistemas de Comunicações
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: Em Eletrónica dos Sistemas de Comunicação pretende-se que os estudantes prossigam o percurso de aprendizagem da eletrónica de sinal com o estudo da modelação, especificação e dimensionamento dos principais circuitos usados em sistemas de comunicação (por fio e sem fio), tendo também presentes considerações tecnológicas de implementação. O objetivo principal é que os estudantes, partindo do conhecimento dos principais blocos constituintes de sistemas de comunicação, abordem os circuitos eletrónicos que os realizam e adquiram competências de análise e projeto destes circuitos satisfazendo as especificações funcionais. Pretende-se que os estudantes saibam, perante um dado circuito, deduzir as suas principais características de desempenho, e que dadas as especificações funcionais façam uma seleção criteriosa das topologias a usar, tendo presente requisitos de otimização e outras características de desempenho não explicitamente especificadas.
+
+## Resultados de aprendizagem: <p>Tendo os estudantes adquirido previamente conhecimentos fundamentais em circuitos analógicos e digitais, assim como nos domínios da instrumentação e processamento de sinais, os conteúdos desta unidade curricular permitem que os estudantes abordem a modelação e a análise funcional de diversos blocos de sistemas de comunicação. A abordagem usada é do tipo &#8220;top-down&#8221; - da especificação para os detalhes de implementação dos circuitos - e permite que os estudantes adquiram competências de análise funcional e de projeto dos circuitos, capacitando-os para reconhecerem  e selecionarem as tipologias de diferentes circuitos e o seu consequente dimensionamento. Com a metodologia adotada, complementa-se o estudo teórico com a abordagem laboratorial de modo a que os estudantes conheçam e saibam completar o ciclo especificação, projeto e análise funcional, desenho físico e otimização dos circuitos.</p>
+
+## Pré-requisitos e co-requisitos: <p>Análise de circuitos, teoria do sinal e dos sistemas; transformada de Laplace. Análise de circuitos com transístores bipolares e MOS. <br /><br /></p>
+<p><!-- [if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--></p>
+
+# Unidade curricular: Lasers
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: Formação de base em física dos lasers, onde se inclui o estudo da interacção luz-matéria (abordagens clássica, semi-clássica e quântica), feixes gaussianos e cavidades ópticas, amplificação e oscilação laser nos regimes estacionário (cw) e dinâmico (Q-switching, mode-locking), com exemplos de sistemas laser específicos relevantes e de várias aplicações actuais dos lasers em ciência e tecnologia.<br />A física e tecnologia laser é uma área em rápida e constante evolução, tendo um inegável impacto quer em ciência fundamental quer em aplicações, pelo que um sólido conhecimento de base é muito importante para que os estudantes possam acompanhar e envolver-se em novos desenvolvimentos científicos e tecnológicos no campo.
+
+## Resultados de aprendizagem: <p>- Compreensão dos processos físicos fundamentais e dos diferentes regimes de operação de um laser.<br />- Capacidade de análise e cálculo de sistemas laser específicos e das principais características da radiação emitida, nos domínios energético, espacial, espectral e temporal.<br />- Motivação para o estudo, optimização e desenvolvimento de tecnologia laser e aplicações em várias áreas da Ciência e Tecnologia (Física, Medicina, Química, Biologia, Engenharia, etc.) e na Indústria.</p>
+
+## Pré-requisitos e co-requisitos: <p>O estudante deverá ter formação de base prévia em óptica, electromagnetismo e mecânica quântica elementar.</p>
+
+# Unidade curricular: Semicondutores e Dispositivos
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: <p><span style="font-weight: 400;">Depois de concluir esta UC, o estudante deve:<br /><br /></span>a) Perceber a importância histórica dos semicondutores<br /> <br />b) Compreender os conceitos físicos dos semicondutores<br /> <br />c) Perceber a relação entre estruturas cristalinas / bandas de energia /propriedades elétricas em semicondutores<br /> <br />d) Conhecer e perceber as propriedades de transporte em semicondutores<br /> <br />e) Estar familiarizado com a estatística em semicondutores<br /> <br />f) Identificar e compreender as ideias por trás das aplicações de materiais semicondutores em dispositivos</p>
+<p> </p>
+
+## Resultados de aprendizagem: <p><span style="font-weight: 400;">A UC inicia-se com uma introdução histórica, motivando os alunos para o restante conteúdo e cobrindo o objetivo de aprendizagem (a). </span></p>
+<p><span style="font-weight: 400;">As unidades programáticas 2,  3, e 4 permitem aos alunos inicialmente rever os conhecimentos prévios necessários, para de seguida adquirem e perceberem os fenómenos físicos que estão na base no comportamento semicondutor ( objectivos b, c).</span></p>
+<p><span style="font-weight: 400;">As unidades 5 e 6 introduzem as bases dos fenómenos de transporte e estatística em semicondutores, reforçando os objetivos de aprendizagem b) e c), e contribuindo para os d) e e).</span></p>
+<p><span style="font-weight: 400;">Por fim, os conceitos anteriores são aplicados em dispositivos semicondutores progressivamente mais complexos durante as unidades 7,8,9, 10 indo de encontro ao objetivo de aprendizagem (f).</span></p>
+
+# Unidade curricular: Imagiologia Médica
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: O objectivo da unidade curricular é a aquisição dos conhecimentos básicos de Física relevantes para actividades de operação, manutenção ou investigação envolvendo equipamentos médicos usados em Imagiologia Médica. Os conhecimentos incluem os princípios físicos de base e os aspectos básicos dos equipamentos.
+
+## Resultados de aprendizagem: No final da unidade curricular, os estudantes deverão atingir proficiência nas seguintes áreas:<br /><strong>Princípios físicos básicos da radiação</strong>. Descrever a constituição da matéria e sua relação com a radiação, listar as grandezas físicas usadas na descrição da radiação e da sua propagação; distinguir entre os diferentes mecanismos de produção e de detecção da radiação; descrever a interacção da radiação com a matéria, em particular no contexto da imagiologia médica (raios X, raios gama) e explicar o fundamento da sua aplicação em imagiologia; resolver exercícios simples envolvendo estes assuntos.<br /><strong>Conceitos básicos sobre os equipamentos médicos</strong>. Enumerar os diferentes tipos de modalidades de imagiologia abordados; relacionar as modalidades com os princípios físicos na sua base; esquematizar as componentes do equipamento médico correspondente; descrever para cada modalidade as técnicas de produção da imagem.<br /><strong>Física experimental básica</strong>. Planear e realizar pequenas experiências: definir objectivos das experiências, estabelecer procedimentos, tratar os dados, formular conclusões fundamentadas e comunicar os resultados. <br /><strong>Cálculo e análise de dados</strong>. Usar folhas de cálculo ou pequenos programas para analisar dados das experiências e resolver problemas simples de física da radiação; recolher, interpretar e explicar informação contida em diagramas e planos técnicos de equipamentos. Saber extrair informação de diversas proveniências: cartas de nuclídeos, diagramas de decaimento, gráficos de dose, gráficos de atenuação, etc.<br /><strong>Desenvolvimento Pessoal</strong>. Trabalhar eficientemente em grupo e desenvolver capacidades de auto-avaliação e avaliação dos pares; comunicar com eficiência, sob forma escrita e oral; aprofundar a autonomia no estudo e o raciocínio argumentativo e crítico.
+
+## Pré-requisitos e co-requisitos: Aconselháveis: Fundamentos de Física (FFIS) e Matemáticas (MAT).
+
+# Unidade curricular: Fundamentos de Biomateriais
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: <p>Justificação:</p>
+<p>Os biomateriais têm vindo a sofrer uma enorme expansão e começam a ser utilizados em inúmeras aplicações clínicas, para reparar, reconstruir, substituir ou mesmo regenerar zonas lesadas do organismo. Esta expansão está fortemente associada aos avanços tecnológicos da medicina reconstrutiva e regenerativa e ao aumento exponencial da esperança de vida média nas sociedades modernas. A ciência dos biomateriais é uma área interdisciplinar, sendo o ramo de Engenharia de Materiais de primordial importância para o desenvolvimento de novos biomateriais utilizando tecnologias inovadoras.</p>
+<p>Objetivos:</p>
+<p>A disciplina tem por objetivo fornecer aos alunos os conceitos fundamentais sobre os diversos tipos de materiais que são usados em medicina. São ainda abordados aspetos como as características estruturais e superficiais dos biomateriais, a sua interação com os tecidos envolventes e as suas aplicações clínicas. Para a frequência da disciplina é necessário que os alunos possuam previamente conhecimentos sólidos sobre ciência e engenharia de materiais.</p>
+<p> </p>
+
+## Resultados de aprendizagem: <p><!-- [if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT;"><span style="font-size: small;">Competências específicas: </span><br /><span style="font-size: small;"> - Selecionar e manipular materiais para uma determinada aplicação no corpo humano </span><br /><span style="font-size: small;"> - Avaliar o desempenho dos materiais baseado no conhecimento científico da sua composição, estrutura e propriedades; </span><br /> <span style="font-size: small;">- Conhecer as limitações dos biomateriais e as características que podem condicionar alterações no decurso do tempo; </span><br /><span style="font-size: small;"> - Reconhecer e compreender as razões de um insucesso clínico dos biomateriais; </span><br /> <span style="font-size: small;">- Avaliar de forma crítica as características de novos materiais apresentados pela indústria produtora, pelos institutos de normalização ou referidos em revistas científicas; </span><br /><br /></span></p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal;"><span style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT;"><span style="font-size: small;">Competências gerais: </span><br /><span style="font-size: small;"> - Competência em análise e síntese; </span><br /><span style="font-size: small;"> - Competência para resolver problemas; </span><br /><span style="font-size: small;"> - Competência em aprendizagem autónoma; </span><br /> <span style="font-size: small;">- Conhecimento de línguas estrangeiras; </span><br /><span style="font-size: small;"> - Competências para comunicar com pessoas que não são especialistas na área; </span><br /><span style="font-size: small;"> - Iniciativa e espírito empreendedor.</span> </span></p>
+
+# Unidade curricular: Técnicas Laboratoriais Avançadas I
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p>Objectivos &#8226; Saber responder a questões qualitativas e quantitativas sobre técnicas experimentais em óptica e materiais. &#8226; Efectuar a concepção e o planeamento de experiências. &#8226; Conduzir pesquisas de literatura, incluindo análise crítica de artigos técnicos, e expressão oral e escrita &#8226; Desenvolver mini-projectos com temática bem definida. Competências Principais &#8226; aplicar conhecimentos de matemática, ciências e engenharia &#8226; concepção, condução de experiências, análise e interpretação crítica de dados &#8226; trabalhar em equipas multidisciplinares &#8226; identificar, formular e resolver problemas de engenharia &#8226; identificar processos e/ou sistemas materiais para atingir determinadas especificações &#8226; técnicas modernas e ferramentas de física e de engenharia &#8226; aptidões de apresentação e comunicação Métodos de aprendizagem: Realização de trabalhos de laboratório de investigação e desenvolvimento. Escrita de um relatório final com apresentação e defesa e de uma prova escrita complementar.</p>
+
+## Resultados de aprendizagem: <p>Aplicação de conhecimentos de matemática, ciências e engenharia em ambiente experimental<br />Concepção e condução de experiências, análise e interpretação crítica de dados<br />Trabalho em equipas multidisciplinares<br />Identificação, formulação e resolução de problemas de Engenharia<br />Identificação de processos e/ou sistemas materiais capazes de atingir determinadas especificações <br />Aptidão para o uso de técnicas modernas e ferramentas de Física e de Engenharia<br />Aptidões de apresentação e comunicação</p>
+
+## Pré-requisitos e co-requisitos: Para um bom acompanhamento das atividades experimentais é importante ter frequentado com aproveitamento as UCs de Mecânica Quântica, Física da Matéria Condensada e Ótica.
+
+# Unidade curricular: Arquiteturas de Computação Embarcada
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p>Os sistemas embarcados apresentam duas características, ubiquidade e invisibilidade. Ubiquidade porque estão presentes em quase todos os dispositivos eletrónicos e invisibilidade pois a sua presença não é anunciada. Normalmente, não fazem parte das características que distinguem o dispositivo.<br /><br />Esta unidade curricular tem como objectivo aprender a projetar, implementar, connectar e programar sistemas embarcados.</p>
+
+## Resultados de aprendizagem: <p>Identificar e compreender diversas topologias de plataformas de computação existentes atualmente, avaliando o seu potencial desempenho.</p>
+<p>Selecionar a plataforma de computação em função dos requisitos da aplicação: custo, rapidez, consumo de  energia, flexibilidade, disponibilidade e ferramentas de desenvolvimento associadas.</p>
+<p>Identificar, avaliar, selecionar, programar e testar</p>
+<p>- interfaces digitais síncronas e assíncronas para comunicação entre sub-sistemas de computação e periféricos.</p>
+<p>- dispositivos e circuitos para interface com sinais externos analógicos e digitais.<br /><br />- sistemas embarcados completos.</p>
+
+## Pré-requisitos e co-requisitos: - representações numéricas: inteiro, vírgula fixa e vírgula flutuante com diferentes números de bits, incluindo formatos não convencionais.<br /><br />- eletrónica digital e circuitos lógicos, famílias de integrados lógicos.<br /><br />- modelos dos componetes eletrónicos básicos:  Díodos, Transistores Bipolares e MosFet<br /><br />- máquinas de Estados e as suas técnicas de implementação.
+
+# Unidade curricular: Optoeletrónica
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: <br />-&gt; Compreensão de níveis de interação entre o fotão e o eletrão<br /><br />-&gt; Compreensão dos princípios da interação e propagação da luz na matéria (absorção e espalhamento)<br /><br />-&gt; Compreensão das caraterísticas da propagação da radiação em guias de onda planar<br /><br /><br />-&gt; Compreensão do que significa a propagação da luz na fibra ótica e do impacto estruural que teve na nossa civilização <br /><br />-&gt; Compreensão dos princípios de funcionamento dos díodos emissores de luz e dos fotodetores<br /><br />-&gt; Compreensão do que é um metamaterial e o impacto que este domínio terá na optoeletrónica, na tecnologia em geral<br /><br />-&gt; Compreensão dos princíios associados à plasmónica e das suas aplicações<br /><br />-&gt; Reflexão sobre a naturezaa da luz e perspetiva sobre a optoeletrónica do futuro
+
+## Resultados de aprendizagem: <br />Capacidade científica e tecnológica para abordar situações, problemas, e aplicações envolvendo a interação da luz com a matéria no domínio ótico.
+
+# Unidade curricular: Sensores e Análise de Sinal
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: To give the students an insight into optical sensing, mainly interferometric based, supported by classical, semi-classical and quantum principles, addressing in each of the cases the relevant characteristics, applications, noise sources and signal analysis techniques.
+
+## Resultados de aprendizagem: The students will be able to understand the basic principles of interferometric optical sensing, including the effect of the source coherence in the sensing device.<br /><br />They are expected to understand homodyne and heterodyne techniques for signal recovery.<br /><br />The students should understand the evolution from classical to semi-classic optical sensors, as well as the importance of quantum sensing for ultra-precise measurements.
+
+# Unidade curricular: Energias Renováveis I
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p>A unidade curricular de Energias Renováveis I tem como objetivo a preparação dos alunos para selecionar, adquirir, operar e desenvolver tecnologias e soluções na área das Energias Renováveis. <br /> Os assuntos estudados nesta UC são: a) energia e radiação solares; b) coletores solares térmicos; c) concentradores solares de potência; d) termólise solar; e) eletroquímica; f) células de combustível; g) eletrólise: h) eletroredução do CO2; i) baterias; j) foto-eletroquímica; k) células fotovoltaicas; e m) células fotoeletroquímicas.</p>
+
+## Resultados de aprendizagem: <p>Os estudantes que concluam com êxito a UC de ERI deverão conhecer os princípios físicos e/ou químicos relativos às tecnologias lecionadas bem como a aplicabilidade destas tecnologias. Em particular, deverão conhecer e saber aplicar: a) as equações astronómicas relativas ao sol, à sua posição e à radiação sobre uma superfície; b) princípios de funcionamento de um painel solar térmico, tecnologias e aplicações; c) princípios de funcionamento de um concentrador solar de potência, tecnologias e aplicações; d) equações de equilíbrio e cinéticas da eletroquímica (equações de Nernst e Butler-Volmer e Tafel); e) princípios de funcionamento duma PEMFC, modelo fenomenológico simples, impedância eletroquímica, análogos elétricos, tecnologia e aplicações; f) princípios de funcionamento de um eletrolisador, tecnologia e aplicações; g) eletroredução do CO2; h) princípios de funcionamento de uma bateria, tecnologia e aplicações; i) princípios de funcionamento de uma célula fotovoltaica, modelo fenomenológico simples, tecnologia e aplicações; j) princípios de funcionamento de uma célula fotoeletroquímica, tecnologia e aplicações. Os estudantes deverão ainda ser capazes valorizar a relevância social das tecnologias sustentáveis.</p>
+<p>Espera-se que os estudantes desenvolvam as seguintes competências: a) uso dos princípios físicos e/ou químicos lecionados na seleção, caracterização, operação, otimização e conceção de soluções envolvendo as tecnologias discutidas; b) trabalho em equipa; c) comunicação oral e escrita de resultados e a sua discussão publica.</p>
+<br />
+<p> </p>
+
+## Pré-requisitos e co-requisitos: <p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; line-height: 150%;"><span lang="PT" style="mso-ansi-language: PT;">Os estudantes deverão ter frequentado UCs análise matemática, química geral e transferência de calor. </span></p>
+<p> </p>
+
+# Unidade curricular: Método dos Elementos Finitos
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <ol style=&quot;list-style-type: upper-alpha;&quot;><br /><li style=&quot;text-align: justify;&quot;>Do ponto de vista matemático, saber formular um problema através do Método dos Elementos Finitos, partindo da forma forte das equações diferenciais, passando para a forma fraca e posteriormente efetuando uma discretização espacial do problema.</li><br /><li style=&quot;text-align: justify;&quot;>Ser capaz de desenvolver Elementos Finitos e de Construir as Matrizes e Vetores Relevantes para Efeitos de Resolução de Problemas em Mecânica dos Sólidos em termos dos deslocamentos. Programar o Método dos Elementos Finitos aplicado ao cálculo de sólidos e estruturas.</li><br /><li style=&quot;text-align: justify;&quot;>Ser capaz de utilizar o Método dos Elementos Finitos para a Resolução de problemas práticos de Engenharia em Mecânica através da modelização num pacote comercial (por exemplo ABAQUS).</li><br /></ol>
+
+## Resultados de aprendizagem: <p style="text-align: justify;">No final da disciplina o aluno deve ter capacidade de formular um problema através do Método dos Elementos Finitos. Deve ter também capacidade de desenvolver um algoritmo para simular o comportamento mecânico de sólidos e capacidade de interpretação de resultados para um leque variado de problemas.</p>
+
+## Pré-requisitos e co-requisitos: <p>Mecânica I, Mecânica dos Sólidos, Mecânica das Estruturas I e II.</p>
+
+# Unidade curricular: Aprendizagem Computacional
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p><br /><br /></p>
+<p>Esta Unidade Curricular tem por objetivo apresentar alguns dos tópicos centrais em aprendizagem computacional, dos fundamentais ao estado da arte. Será colocado especial ênfase nos conceitos teóricos e em exemplos práticos e projetos laboratoriais. Cada exercício será cuidadosamente escolhido para reforçar os conceitos explicados nas aulas teóricas e desenvolver e generalizá-los em diversas direções. Os estudantes que concluam com sucesso devem ter a:</p>
+<p>-Capacidade de trabalhar em equipa, organização e planeamento.</p>
+<p>-Capacidade de analisar e sintetizar conhecimento.</p>
+<p>-Capacidade de desenvolver sistemas simples de aprendizagem computacional de acordo com as necessidades existentes e aplicar as ferramentas tecnológicas mais apropriadas.</p>
+<p>-Conhecer os fundamentais das técnicas de aprendizagem.</p>
+<p>-Adquirir capacidades de aprendizagem que permitam continuar a estudar de uma forma autónoma.</p>
+
+## Resultados de aprendizagem: <p> </p>
+<p><em>Aquisição de um corpo de conhecimento fundamental e a transmissão do próprio processo de construção do conhecimento. Pretende-se fornecer uma sólida preparação matemática em machine learning e preparar competências e engenho em técnicas de machine learning fundamentais para nos processos de modelação e uso de Informação.</em></p>
+<p class="MsoNormal" style="text-align: justify; line-height: normal; margin: 6.0pt 0cm .0001pt 0cm;"> </p>
+
+## Pré-requisitos e co-requisitos: <p>Conhecimentos prévios: <br />Processamento de Sinal, Programação de computadores</p>
+
+# Unidade curricular: Nanotecnologias, Micro e Nanofabricação
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p class="p1">-Importancia da nanotecnologia;</p>
+<p class="p1">-Relação entre redução do tamanho e modificação das propriedades físicas;</p>
+<p class="p1">-Técnicas de micro e nano fabricação;</p>
+<p class="p1">-Aplicações de nanomateriais e dispositivos;</p>
+-Saber responder a questões qualitativas e quantitativas sobre salas limpas e técnicas de micro e nanofabricação;
+<p class="p1">-Efetuar a conceção e planeamento de experiências e projetos;</p>
+<p class="p1">-Conduzir pesquisas de literatura, incluindo análise crítica de artigos, expressão oral e escrita;</p>
+<p class="p1">-Desenvolver mini-projectos bem definidos.</p>
+<p class="p1"><br />Competências Principais:</p>
+<p class="p1">-Aplicar conhecimentos de matemática, ciências e engenharia;</p>
+<p class="p1">-Conceção, condução de experiências, análise e interpretação de dados;</p>
+<p class="p1">-Trabalhar em equipas multidisciplinares;</p>
+<p class="p1">-Identificar, formular e resolver problemas de engenharia;</p>
+<p class="p1">-Identificar processos ou sistemas materiais para atingir determinadas especificações;</p>
+<p class="p1">-Desenvolver aptidões de apresentação e comunicação.</p>
+
+## Resultados de aprendizagem: <p class="p1">Proporcionar formação avançada nos principais conceitos em nanociências e nanotecnologia.</p>
+<p class="p1">O programa inclui uma parte teórico-prática que incide na introdução às propriedades à nanoescala, seguida da aprendizagem de um conjunto de técnicas e tecnologias de micro/nanofabricação por deposição de filmes finos ou litografia. É esperado que os alunos se familiarizem com as metodologias sobre a micro/nanofabricação. Na parte final da unidade curricular serão apresentados vários princípios de funcionamento de dispositivos, tecnologias e/ou sensores.</p>
+<p class="p1">Esta parte é complementada pela realização das experiências propostas nas aulas práticas laboratoriais, leitura de artigos ou documentos técnicos e desenvolvimentos de mini-projetos, estimulando-se a procura de informação adicional para complementar a formação dada. No final deverão elaborar um relatório que descreva a componente experimental e fazer apresentação oral de um trabalho.</p>
+
+# Unidade curricular: Ciência e Tecnologia dos Materiais
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: A unidade curricular (UC) está projetada para fornecer os conceitos fundamentais de ciência e tecnologia de materiais.<br /><br />A UC tem por objetivo descrever a estrutura, as propriedades, as aplicações e o processamento de diferentes tipos de materiais, tecnologicamente relevantes. A UC tem também por objetivo proporcionar uma compreensão da relação estrutura/propriedades determinante do comportamento mecânico, elétrico, termodinâmico e magnético dos materiais.<br /><br /><p> </p>
+
+## Resultados de aprendizagem: Após a conclusão da UC, o estudante deverá ser capaz de:<br /><br />1. Aplicar conhecimentos de física e de tecnologia a sistemas de materiais.<br /><br />2. Identificar os diferentes tipos de estruturas nos materiais.<br /><br />3. Descrever estruturas cristalinas e identificar fases por difração de raios-X.<br /><br />4. Descrever imperfeições nos sólidos e seu efeito sobre o comportamento dos materiais.<br /><br />5. Interpretar diagramas de fase, compreender o conceito de solução sólida e limites de solubilidade e também a conceção e o controlo de tratamentos térmicos.<br /><br />6. Explicar a difusão nos sólidos e entender a importância do tratamento térmico para a melhoria das suas propriedades.<br /><br />7. Explicar as propriedades mecânicas, térmicas, elétricas e magnéticas de materiais.<br /><br />8. Caraterizar as aplicações e o processamento de ligas metálicas.<br /><br />9. Caraterizar a relação processamento/estrutura/propriedade e eficiência de diferentes tipos de materiais.<br /><br />10. Resolver problemas de engenharia na área de ciência de materiais.
+
+# Unidade curricular: Técnicas de Caracterização de Materiais
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p>Aprender técnicas experimentais utilizadas em Ciência dos Materiais. Dominar técnicas de análise da estrutura interna dos materiais. Conhecer métodos de determinação da distribuição das unidades atómicas e moleculares dos materiais e sua interacção. Obter formação avançada em Ciência dos Materiais</p>
+
+## Resultados de aprendizagem: <p>Obter formação avançada na área dos materias que permita aos estudantes poderem aprender os principais conceitos subjacentes a esta área,  aplicá-los nesta área do conhecimento, mas também em aplicações de técnicas mais avançadas. <br />O programa inclui uma introdução às principais técnicas de caraterização de materiais, de forma a que os estudantes consigam escolher objectivamente de entre estas técnicas as que mais adequam ao objectivo de caracterização de materiais/dispositivos em causa. <br />O estudante constará que a resposta de materiais e dispositivos a parâmetros externos como temperatura, pressão campo eléctrico/magnético, etc, pode ser estudada com várias técnicas e fornecer assim informação valiosa acerca das propriedades da matéria condensada bem como acerca da performance de certos dispositivos tecnologicamnete relevantes. Em particular, os alunos serão capazes de reconhecer o papel da criogenia,  das propriedades electricas/magneticas e estruturais/espectroscópicas no contexo atual do estudo de materiais tanto na academia como nas empresas, obtendo assim uma importante base de conhecimento de técnicas experimentais na caracterização de materiais.</p>
+
+# Unidade curricular: Processamento Estatístico de Sinal
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: Obter conhecimentos em:<br /><br />1. Processamento de sinal de sistemas com incertezas, modelizadas por variáveis aleatórias.<br />2. Modelização de sistemas estocásticos.<br />3. Estimação de estado em sistemas estocásticos.<br />4. Análise espectral para fins de estimação.
+
+## Resultados de aprendizagem: <div class=&quot;flex max-w-full flex-col flex-grow&quot;><br /><div class=&quot;min-h-[20px] text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words [.text-message+&amp;]:mt-5&quot; dir=&quot;auto&quot; data-message-author-role=&quot;assistant&quot; data-message-id=&quot;fd98ae92-4375-49e1-9fa3-6b4de698d434&quot;><br /><div class=&quot;flex w-full flex-col gap-1 empty:hidden first:pt-[3px]&quot;><br /><div class=&quot;markdown prose w-full break-words dark:prose-invert dark&quot;><br /><div>No fim da UC os estudantes estrão preparados para</div><br /><ol><br /><li><br /><p>explicar, descrever e compreender a noção de um processo aleatório e séries temporais estatísticas;</p><br /></li><br /><li><br /><p>caracterizar processos aleatórios em termos de suas propriedades estatísticas, incluindo as noções de estacionariedade e ergodicidade;</p><br /></li><br /><li><br /><p>definir, descrever e entender a noção de densidade espectral de potência de processos aleatórios estacionários; analisar e manipular densidades espectrais de potência;</p><br /></li><br /><li><br /><p>analisar, tanto no domínio do tempo quanto no da frequência, o efeito de transformações e sistemas lineares sobre processos aleatórios, tanto em termos das funções densidade quanto dos momentos estatísticos;</p><br /></li><br /><li><br /><p>explicar a noção de modelos de sinal paramétricos e descrever modelos de sinal baseados em regressão, em termos de suas características estatísticas e de seus efeitos sobre sinais aleatórios;</p><br /></li><br /><li><br /><p>aplicar estimadores  problemas de processamento de sinais baseados em modelos.  </p><br /></li><br /><li>estimar estado de modelos estocásticos</li><br /><li>Estimar o conteúdo espectral dum série temporal</li><br /></ol><br /></div><br /></div><br /></div><br /></div>
+
+# Unidade curricular: Materiais para Recolha e Armazenamento de Energia
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: <div style=&quot;text-align: justify;&quot;><br /><div> </div><br /><p>Esta unidade curricular tem como principal objetivo proporcionar uma abordagem científica e aplicada ao armazenamento e recolha de energia, explorando os fundamentos teóricos, a investigação de novos materiais e o desenvolvimento de dispositivos inovadores. Pretende-se integrar conceitos fundamentais de eletroquímica, física e ciência dos materiais com aplicações práticas, permitindo que os estudantes compreendam e contribuam para o avanço das tecnologias sustentáveis de energia. <br /><br />Especificamente, os objetivos incluem:</p><br /><ol><br /><li><strong>Análise e desenvolvimento de tecnologias de armazenamento de energia</strong> &#8211; Explorar os fundamentos físico-químicos de condensadores, baterias primárias e secundárias, bem como os mecanismos de armazenamento eletroquímico.</li><br /><li><strong>Técnicas avançadas de caracterização eletroquímica</strong> &#8211; Aplicar métodos como espectroscopia de impedância eletroquímica e voltametria cíclica na avaliação do desempenho de materiais e dispositivos energéticos.</li><br /><li><strong>Síntese e modificação de materiais funcionais</strong> &#8211; Desenvolver estratégias de conversão de resíduos em materiais carbonáceos para aplicações em eletrodos de dispositivos de armazenamento de energia.</li><br /><li><strong>Projeto e otimização de dispositivos de recolha de energia</strong> &#8211; Investigar mecanismos de conversão energética em nanogeradores baseados na evaporação da água, sistemas triboelétricos e células solares de nova geração.</li><br /><li><strong>Integração de conceitos científicos e inovação tecnológica</strong> &#8211; Correlacionar propriedades estruturais e eletroquímicas de materiais com o seu desempenho prático, contribuindo para o avanço de tecnologias sustentáveis de energia.</li><br /></ol><br /><div> </div><br /><div><br /><p class=&quot;Padro&quot;> </p><br /></div><br /></div>
+
+## Resultados de aprendizagem: <p>Ao concluir esta unidade curricular, os estudantes serão capazes de:</p>
+<ol>
+<li><strong>Explicar os princípios das tecnologias de armazenamento e recolha de energia</strong>, abordando os fundamentos físico-químicos e eletroquímicos subjacentes.</li>
+<li><strong>Aplicar técnicas avançadas de caracterização eletroquímica</strong>, incluindo espectroscopia de impedância e voltametria cíclica, na análise de materiais e dispositivos.</li>
+<li><strong>Sintetizar e processar materiais funcionais</strong>, com enfoque na sua aplicação em eletrodos e dispositivos energéticos.</li>
+<li><strong>Projetar e otimizar dispositivos de armazenamento e recolha de energia</strong>, avaliando a sua eficiência e desempenho.</li>
+<li><strong>Analisar e interpretar dados experimentais</strong>, utilizando metodologias quantitativas e qualitativas para a avaliação de materiais e sistemas energéticos.</li>
+<li><strong>Comunicar resultados científicos e tecnológicos</strong>, elaborando relatórios técnicos e apresentações fundamentadas.</li>
+<li><strong>Colaborar em equipas multidisciplinares</strong>, contribuindo para o desenvolvimento e inovação em tecnologias energéticas.</li>
+</ol>
+
+## Pré-requisitos e co-requisitos: <p style="text-align: justify;">Os estudantes deverão ter frequentado UCs de análise matemática e física básica de qualquer Licenciatura/Mestrado de Engenharia e/ou Física (FEUP, FCUP e/ou outros).</p>
+
+# Unidade curricular: Desenho Experimental
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: <p>Identificação do modelo estatístico correspondente a diferentes desenhos experimentais, e respetiva análise estatística com recurso ao R.</p>
+Como competências transversais, é esperado um desenvolvimento aos seguintes níveis: <br />(a) competências cognitivas: pensamento analítico, crítico, reflexivo e criativo; <br />(b) competências metodológicas: gestão do tempo, capacidade de resolução de problemas, capacidade de decisão, estratégias de aprendizagem; <br />(c) competências sociais: comunicação interpessoal.
+
+## Resultados de aprendizagem: No final do curso, é esperado que os estudantes: <br /><br />(a) tenham adquirido um conhecimento sólido sobre os desenhos experimentais mais comuns; <br /><br />(b) conheçam métodos eficientes de planeamento de experiências em contexto científico ou industrial, e sejam capazes de extrair conclusões dos dados resultantes, de forma crítica; <br /><br />(c) consigam modelar essas circunstâncias específicas em situações reais, usando uma linguagem de programação adequada.
+
+# Unidade curricular: Projeto
+
+## Ano: 2
+## Semestre: None
+## ECTS: 42.0
+## Objetivos: 
+
+## Resultados de aprendizagem: 
+
+# Unidade curricular: Nanoestruturas Multifuncionais
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: Obter formação avançada nos conceitos modernos envolvendo a Ciência dos Materiais nomeadamente nas novas tendências e investigação de materiais e as suas funcionalidades.<br /><p>Dominar técnicas de análise da estrutura interna dos materiais.</p><br /><p>Conhecer métodos de determinação da distribuição das unidades atómicas e moleculares dos materiais e sua interacção.</p><br /><p>Conhecer com detalhe as propriedades físicas dos materiais.</p><br /><p>Compreender o papel da forma e das dimensões na alteração das propriedades físicas dos materiais.</p><br /><p>Conhecer os aspectos relevantes da multifuncionalidade.</p><br /><p>Adquirir formação avançada no controlo da funcionalidade dos materiais considerando a interdependência das suas propriedades fisicas com o objectivo da sua aplicação em tecnologia avançada.</p>
+
+## Resultados de aprendizagem: Proporcionar formação avançada na área dos materias nanoestruturados multifuncionais que permita aos estudantes poderem aprender os principais conceitos subjacentes a esta área e aplicá-los nesta área do conhecimento, mas também em aplicações tecnológicas avançadas. O programa inclui uma introdução às propriedades e vantagens na utilização de uma vasta gama de materiais candidatos em aplicações onde a funcionalidade tem um fator de grande impacto tecnológico. Nos capitulos seguintes são tratados com detalhe diversas famílias de materiais com elevada potencialidade em multifuncionalidades. É esperado que os estudantes se familiarizem com a metodologia que permitirá melhorar a resposta dos materiais a estímulos exteriores por interacção do processamento, estrutura e propriedades pretendidas em cada caso. No final da UC serão apresentados vários principios de funcionamento de dispositivos, tecnologias e/ou sensores de forma a consolidar os conhecimentos adquiridos.
+
+# Unidade curricular: Eletrónica de Rádio-Frequência
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: Fornecer os conceitos fundamentais de engenharia de rádio-frequência com vista à análise, projecto e caracterização de circuitos de microondas proporcionando aos alunos a aplicação prática destes conceitos através do contacto com um laboratório de electrónica e a possibilidade de realizarem protótipos laboratoriais e projectos de electrónica de RF em condições de autonomia.
+
+## Resultados de aprendizagem: <p>As competências adquiridas pelos estudantes são: <br />- Compreender as características específicas do projecto de sistemas de rádio-frequência.<br />- Aplicação dos conceitos genéricos de linhas de transmissão ao projecto de circuitos de rádio-frequência e microondas.<br /><br />- Conhecimento das fases de desenvolvimento de um receptor de RF e os seus constituintes (filtros, amplificadores, osciladores, optimização e impacto na razão sinal-ruído).<br /><br />-Capacidade de projecto e simulação dos vários elementos constituintes de um sistemas de rádio-frequência, seja passivos ou activos.<br /><br /><br />Munidos dos conhecimento básicos de adaptação de impedância, os estudantes adquirem posteriormente conhecimento do projecto de filtros, amplificadores e osciladores. Por fim adquirem os conhecimento adequados ao projecto de receptores de RF e microondas.<br /><br />Os resultados da aprendizagem são a aquisição das competências orientadas para o projeto dos vários elementos de um sistema comunicação de rádio-frequência.</p>
+
+## Pré-requisitos e co-requisitos: Ondas eletromagnéticas
+
+# Unidade curricular: Eletrónica de Spin
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <ul><br /><li>Introduzir o aluno nos conceitos da electrónica de spin. Compreender a utilização do grau de liberdade de spin para novas aplicações.</li><br /><li>Dar uma visão transversal e actualizada dos recentes desenvolvimentos da electrónica de spin.</li><br /><li>Compreender os fenómenos físicos que estão na base da spintrónica em nanoestruturas magnéticas e semicondutoras.</li><br /><li>Dar uma formação geral sobre os princípios e técnicas de caracterização de novos dispositivos que utilizam activamente o spin electrónico.</li><br /><li>Construir uma base de conhecimento que possibilite ao aluno a aquisição de competências que lhe permitam exercer, em boas condições, actividade profissional na área ou o prosseguimento para estudos mais avançados.</li><br /></ul>
+
+## Resultados de aprendizagem: A área da electrónica de spin tem um carácter altamente inovador e aplicado, abrangendo várias áreas criticas do nosso dia a dia, dos discos rígidos passando pelas memórias magnéticas até aos motores. Desta forma, esta unidade curricular é claramente favorável ao desenvolvimento de competências de análise integrada de problemas desde o conceito, passando pela compreensão dos fenomenos fisicos e terminando nas aplicações. A metodologia de ensino utilizada tendo em conta uma forte interação entre o professor-aluno através de uma avaliação continua com exercícios quinzenais, apresentações orais e trabalhos escritos. São também convidados alguns especialistas em determinadas áreas de investigação para darem palestras sobre as suas áreas de forma aos alunos aperceberam os problemas do dia-a-dia em investigação ou desenvolvimento de tecnologias. Tal metodologia tem como principais vantagens a transmissão de conhecimento através do contacto com perspetivas diferentes, permitindo que os estudantes aprendam diferentes metodologias de resolução de problemas e diferentes perspetivas, quer a nível científico, quer a nível tecnológico, enriquecendo assim a experiência dos estudantes em situações práticas. Por outro lado, a aplicação dos conhecimentos adquiridos a casos reais é comprovadamente uma forma mais eficaz para a aprendizagem, principalmente em estudos avançados, permitindo também que os estudantes atinjam mais fácil e solidamente os objetivos de aprendizagem da unidade curricular. Também estão programadas visitas aos laboratórios de investigação existentes no departamento em que se realiza investigação relacionada com electrónica de spin, ajudando os alunos a compreender melhor os conceitos e metodologias do tema. Desta forma, é esperado que os alunos no final tenham adquirido ferramentas e conceitos de electrónica de spin de forma a poderem ser facilmente integrados no mercado de trabalho ou em institutos de investigação.
+
+# Unidade curricular: Sistemas Dinâmicos e Controlo
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: Análise e projecto de sistemas dinâmicos lineares de controlo em tempo contínuo e amostrados.<br />Proficiência de utilização de ferramentas computacionais de apoio à análise e projecto de controladores para sistemas dinâmicos lineares.
+
+## Resultados de aprendizagem: No final desta UC, os estudantes deverão ser capazes de:<br /><br /><ol style=&quot;list-style-type: undefined;&quot;><br /><li>Modelizar e analisar sistemas dinâmicos de controlo lineares.</li><br /><li>Analisar sistemas dinâmicos de controlo lineares representados no espaço de estados e projectar os controladores lineares realimentados e estimadores lineares de estado, quer em tempo contínuo, quer em tempo discreto.</li><br /><li>Formular problemas de controlo óptimo linear quadrático e calcular as suas estrtégias de controlo óptimo.</li><br /><li>Utilizar ferramentas computacionais de apoio à análise de sistemas de controlo e ao projecto de controladores.</li><br /></ol>
+
+## Pré-requisitos e co-requisitos: Álgebra Linear, Análise Matemática,  Sinais e Sistemas
+
+# Unidade curricular: Técnicas Laboratoriais Avançadas II
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: Efectuar concepção e planeamento de experiências. Saber conduzir pesquisas de literatura, incluindo análise crítica de artigos técnicos, e expressão oral e escrita Gestão efectiva de trabalho em grupo Desenvolvimento de mini-projectos com temática bem definida.
+
+## Resultados de aprendizagem: Aplicação de conhecimentos de matemática, ciências e engenharia em ambiente experimental<br />Concepção e condução de experiências, análise e interpretação crítica de dados<br />Trabalho em equipas multidisciplinares<br />Identificação, formulação e resolução de problemas de Engenharia<br />Identificação de processos e/ou sistemas materiais capazes de atingir determinadas especificações <br />Aptidão para o uso de técnicas modernas e ferramentas de Física e de Engenharia<br />Aptidões de apresentação e comunicação
+
+## Pré-requisitos e co-requisitos: Ótica; Física da Matéria Condensada.
+
+# Unidade curricular: Ótica Quântica
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p>O objetivo central desta unidade curricular consiste em dotar os estudantes dos conceitos e fundamentos científicos da Ótica Quântica, assim como desenvolver as suas competências técnicas, formais e de cálculo fundamentais à análise crítica e resolução de problemas nesta área, que lhes permitam suportar conhecimentos e competências que venham a adquirir em unidade curriculares futuras mais avançadas e/ou trabalhos de investigação nesta ou noutras áreas afins. Daqui derivam vários outros objetivos, nomeadamente:</p>
+<ul>
+<li>Promover a ligação dos conhecimentos e princípios da Ótica Quântica com os de outras áreas da Ciência e Engenharia Física, seu enquadramento numa visão integrada da Física e Ciências Modernas e suas aplicações tecnológicas.;</li>
+<li>Conhecer a estrutura geral da teoria quântica da luz e da interação entre a luz e a matéria, com particular ênfase nos seus princípios e leis fundamentais;</li>
+<li>Operacionalizar a formulação matemática e dos métodos de cálculo em Ótica Quântica, com ênfase nos que estão associados a álgebra de operadores e segunda quantização;</li>
+<li>Ser capaz de estabelecer uma relação entre os modelos conceptuais e formais da teoria da Ótica Quântica e trabalho experimental em Ótica, ainda que a um nível elementar.</li>
+<li>Desenvolver a intuição e o espírito crítico científicos;</li>
+<li>Fornecer as bases de conhecimento e competências necessárias aos estudantes para poderem prosseguir os seus estudos em áreas de saber mais avançadas.</li>
+</ul>
+<p> </p>
+<p>Em complemento à vertente técnica e científica, esta unidade curricular deverá também contribuir para o incremento da cultura dos estudantes em Física, Engenharia e em Ciência.</p>
+<p> </p>
+<p>Para além destes objetivos gerais, pretende-se que, para os estudantes terem aprovação nesta unidade curricular, cumpram as seguintes metas mínimas de aprendizagem:</p>
+<p> </p>
+<ul>
+<li>conhecer os fundamentos, técnicas e resultados mais relevantes da teoria quântica da luz;</li>
+<li>ser capaz de usar as ferramentas técnicas teóricas e formais desta disciplina na resolução de problemas e construção de modelos;</li>
+<li>ser capaz de identificar a limitações e domínios de validade dos modelos;</li>
+</ul>
+<p>ser capaz de identificar e compreender as aplicações e tópicos de investigação atuais mais relevantes em Ótica Quântica.</p>
+
+## Resultados de aprendizagem: <p>1. Conhecer os fundamentos básicos de teoria quânticas da luz. 2. Ser capaz de usar as ferramentas técnicas teóricas e formais desta disciplina na resolução de problemas e construção de modelos. 3. Ser capaz de identificar a limitações e domínios de validade dos modelos.</p>
+
+## Pré-requisitos e co-requisitos: Conhecimentos prévios de Álgebra Linear e Matemáticas Gerais, bem como de Mecânica Quântica, Eletromagnetismo e Eletrodinâmica.
+
+# Unidade curricular: Estágio
+
+## Ano: 2
+## Semestre: None
+## ECTS: 42.0
+## Objetivos: 
+
+## Resultados de aprendizagem: 
+

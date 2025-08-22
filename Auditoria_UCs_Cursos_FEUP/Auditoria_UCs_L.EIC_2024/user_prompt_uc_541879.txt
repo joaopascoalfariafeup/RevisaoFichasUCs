@@ -1,0 +1,160 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Laboratório de Desenho e Teste de Software
+
+## Curso responsável
+Licenciatura em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p><span style="font-weight: 400;">Pretende-se, nesta unidade curricular, que os alunos desenvolvam competências no desenho de aplicações usando o paradigma orientado a objetos. Pretende-se que os estudantes que obtenham aprovação à unidade curricular, consigam:</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Usar o <em>Git</em> como ferramenta de controlo de versões;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Usar a linguagem Java como linguagem orientada a objetos;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Desenhar testes unitários usando <em>JUnit</em>;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Aplicar os princípios <em>SOLID</em> no desenho de aplicações e entender a sua importância;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Aplicar </span><em><span style="font-weight: 400;">design patterns</span></em><span style="font-weight: 400;"> para resolver problemas no desenho de aplicações;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Identificar </span><em><span style="font-weight: 400;">code smells</span></em><span style="font-weight: 400;"> em código orientado a objetos;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Usar técnicas de </span><em><span style="font-weight: 400;">refactoring</span></em><span style="font-weight: 400;"> para melhorar atributos não-funcionais e resolver </span><em><span style="font-weight: 400;">code smells</span></em><span style="font-weight: 400;">;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Aplicar o padrão arquitetural <em>MVC</em> no desenho de aplicações </span><em><span style="font-weight: 400;">event-driven;</span></em></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Patterns of Enterprise Applications</span></li>
+</ol>
+
+## Resultados de aprendizagem e competências
+<ol><br /><li>Saber desenvolver (desenhar, codificar, documentar, analisar, testar e manter) programas orientados por objetos com Java e UML;</li><br /><li>Saber utilizar ferramentas de suporte às várias fases do desenvolvimento e manutenção de programas;</li><br /><li>Ser capaz de conceber e desenhar software modular, flexível e fácil de manter e evoluir;</li><br /><li>Ser capaz de reutilizar padrões e <em>frameworks;</em></li><br /><li>Compreender a importância dos testes durante o desenvolvimento de software. </li><br /></ol><br /><p> </p>
+
+## Pré-requisitos e co-requisitos
+<p>Conhecimentos de programação, sendo uma mais valia ter conhecimentos de programação orientada por objetos em C++.</p>
+
+## Programa
+<ol><br /><li>Uma breve introdução ao Git: repositórios locais, remotes, branches e workflows;</li><br /><li>Gestão de dependências usando Gradle;</li><br /><li>A linguagem Java: Tipos, literais e variáveis; Estruturas de controlo;Classes e objetos; Coleções; Tipos genéricos; Threads e sincronização; Input e output; Interfaces gráficas usando Swing;</li><br /><li>Princípios da programação orientada a objetos: abstração de dados, polimorfismo, herança e encapsulamento; utilização da composição em vez de herança como mecanismo para atingir polimorfismo;</li><br /><li>Princípios SOLID: Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation e Dependency Inversion;</li><br /><li>Testes unitários usando JUnit: Mocks e Stubs usando Mockito; Cobertura e mutation-testing;</li><br /><li>Diagramas UML: diagramas de classes, sequência e comunicação;</li><br /><li>Code smells e técnicas de refactoring;</li><br /><li>Padrões de desenho: Factory-Method, Command, Composite, Observer, Strategy, Abstract Factory, State, Adapter, Decorator e Singleton;</li><br /><li>Model-View-Controller como padrão de arquitetura;</li><br /><li>Patterns of Enterprise Architecture.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<span style=&quot;font-weight: 400;&quot;>Aulas teóricas de exposição e discussão dos tópicos programáticos;</span><br /><span style=&quot;font-weight: 400;&quot;><br /></span><span style=&quot;font-weight: 400;&quot;>Aulas práticas em laboratório:</span><br /><ol><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Na primeira parte (7 semanas) os alunos irão resolver exercícios que cobrem os seguintes conteúdos programáticos: Git, Java, testes unitários, princípios SOLID, </span><em><span style=&quot;font-weight: 400;&quot;>design patterns</span></em><span style=&quot;font-weight: 400;&quot;>, </span><em><span style=&quot;font-weight: 400;&quot;>code smells</span></em><span style=&quot;font-weight: 400;&quot;> e </span><em><span style=&quot;font-weight: 400;&quot;>refactoring</span></em><span style=&quot;font-weight: 400;&quot;>;</span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Na segunda parte (6 semanas) os alunos irão desenvolver um pequeno projeto integrador.</span></li><br /></ol>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 5.0 %
+- Teste: 40.0 %
+- Trabalho laboratorial: 55.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 30.0 horas
+- Frequência das aulas: 70.0 horas
+- Trabalho laboratorial: 62.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><span style="font-weight: 400;">Fórmula de avaliação:</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">5% - participação nas aulas práticas;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">55% - realização do projecto integrado (grupos de 3 elementos);</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">40% (20% + 20%) - duas provas individuais em computador. </span></li>
+</ol>
+<p><span style="font-weight: 400;">Todas as componentes têm uma classificação mínima de 40%.</span></p>
+<p><span style="font-weight: 400;">A classificação do projeto é composta por:</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">10% - relatório intermédio</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">30% - relatório final</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">60% - produto desenvolvido</span></li>
+</ol>
+<p>De notar que o relatório deve fundamentar o contributo individual de cada elemento no projeto. </p>
+<p>A época de recurso inclui apenas as componentes das duas provas individuais em computer.</p>
+
+## Obtenção de frequência
+<p>Não exceder o número limite de faltas nas aulas teórico-práticas. Para obtenção de frequência, é necessário ainda participar ativamente no desenvolvimento do projeto e submetê-lo de acordo com as indicações da unidade curricular.</p>
+
+## Melhoria de classificação
+<p>Os estudantes podem melhorar a classificação obtida nas duas provas individuais em computador nesta edição.<br /><br />Estudantes aprovados na edição transacta podem melhorar a nota do projeto com nova frequência da unidade curricular.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Software Design and Testing Laboratory
+
+## Curso responsável
+Bachelor in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p><span style="font-weight: 400;">This curricular unit is intended for students to develop application design skills using the object-oriented paradigm. Students who pass the course should be able to:</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Use Git as a version control system;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Use the Java language as an object-oriented language;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Design unit tests using JUnit;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Apply SOLID principles in the design of applications and understand their importance;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Apply design patterns to solve design problems in the development of applications;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Identify code smells in object-oriented code;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Use refactoring techniques in order to improve non-functional attributes and solve code smells;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Apply the MVC architectural pattern in the design of event-driven applications;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Patterns of Enterprise Applications</span></li>
+</ol>
+
+## Resultados de aprendizagem e competências
+<ol><br /><li>To be able to develop (design, code, document, analyze, test and maintain) object-oriented programs with UML and Java;</li><br /><li>To be able to use tools to support the various phases of program development and maintenance;</li><br /><li>To be able to design and develop maintainable, &quot;future-proof&quot; software;</li><br /><li>To be able to use patterns and frameworks;</li><br /><li>Understanding the importance of tests during software development.</li><br /></ol><br /><p> </p>
+
+## Pré-requisitos e co-requisitos
+Knowledge of programming, being a plus knowledge of Object-Oriented programming in C++.
+
+## Programa
+<ol><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>A brief introduction to Git: local repositories, remotes, branches, and workflows;</span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Dependency management using Gradle;</span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>The Java language: Type, literals, and variables; Control structures; Classes and objects; Collections; Generic types; Threads and synchronization; Input and output; Graphical interfaces using Swing;</span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Principles of object-oriented programming: data abstraction, polymorphism, inheritance, and encapsulation; composition over inheritance as a way to achieve polymorphism;</span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>SOLID principles: Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion;</span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Unit testing using JUnit: Mocks and Stubs using Mockito; Coverage and mutation-testing;  </span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>UML diagrams: class, sequence and communication diagrams;</span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Code smells and refactoring techniques;</span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Design patterns: Factory-Method, Command, Composite, Observer, Strategy, Abstract Factory, State, Adapter, Decorator and Singleton;</span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>The Model-View-Controller architectural pattern;</span></li><br /><li>Patterns of Enterprise Architecture.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<span style=&quot;font-weight: 400;&quot;>Theoretical classes for the recitation and discussion of the program topics;<br /><br /></span><span style=&quot;font-weight: 400;&quot;>Practical classes in the laboratory:<br /></span><br /><ol><br /><li><span style=&quot;font-weight: 400;&quot;>In the first part (7 weeks) students will solve exercises that cover the following syllabus: Git, Java, unit testing, SOLID principles, design patterns, code smells and refactoring;</span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>In the second part (6 weeks) students will develop a small integrative project.</span></li><br /></ol>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 5.0 %
+- Teste: 40.0 %
+- Trabalho laboratorial: 55.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 30.0 hours
+- Frequência das aulas: 70.0 hours
+- Trabalho laboratorial: 62.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><span style="font-weight: 400;">Evaluation Formula:<br /></span></p>
+<ol>
+<li><span style="font-weight: 400;">5% - participation in practical classes;</span></li>
+<li>55% - completion of the integration project (groups of 3 elements);</li>
+<li><span style="font-weight: 400;">40% (20% + 20%) - two individual computer tests.</span></li>
+</ol>
+<p><span style="font-weight: 400;">All components have a minimum grade of 40%.</span></p>
+<p><span style="font-weight: 400;">The integrated project classification consists of:<br /></span></p>
+<ol>
+<li><span style="font-weight: 400;">10% - intermediate report</span></li>
+<li><span style="font-weight: 400;">30% - final report</span></li>
+<li><span style="font-weight: 400;">60% - project code</span></li>
+</ol>
+<p>Furthermore, the report needs to discuss the individual involvement of each student in the project.</p>
+<p>Resitting includes only the components of the two individual computer tests.</p>
+
+## Obtenção de frequência
+Do not exceed the maximum number of absences in the theoretical-practical classes. it is also necessary to actively participate in the project development and submit it according to the course unit's guidelines.
+
+## Melhoria de classificação
+<p>Students can improve the grades obtained in the two individual computer tests in this edition.<br /><br />Students who passed the previous edition can improve their project grades by retaking the course unit.</p>
+

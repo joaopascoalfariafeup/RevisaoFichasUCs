@@ -1,0 +1,106 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Investigação Operacional
+
+## Curso responsável
+Mestrado em Engenharia do Ambiente
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<div><strong>CONTEXTO</strong></div><br /><div>Esta unidade curricular centra-se na aplicação de métodos analíticos para uma melhor tomada de decisão e fornece aos estudantes ferramentas de modelação e de otimização que serão extremamente úteis na abordagem e resolução de problemas das organizacionais (indústria e serviços). Enfatiza ainda a importância da sustentabilidade, integrando os Objectivos de Desenvolvimento Sustentável (ODS) das Nações Unidas, de forma a garantir que as soluções propostas contribuem para um futuro mais sustentável e equitativo. <br /><br /></div><br /><div><strong>OBJETIVOS ESPECÍFICOS</strong></div><br /><div>O objetivo principal desta unidade curricular é desenvolver competências para analisar uma vasta gama de situações do mundo real através da criação de modelos. Estas competências baseiam-se na identificação do problema-chave numa situação não estruturada, na capacidade de desenvolver uma estrutura para analisar e tratar o problema e na aplicação de métodos analíticos para o resolver.<br /><br /></div><br /><div><strong>OBJETIVOS DE APRENDIZAGEM</strong></div><br /><div>Dotar os estudantes das competências necessárias para:</div><br />  - Identificar e abordar problemas de decisão de forma hábil e estruturada; <br />  - Construir modelos de problemas de decisão; <br />  - Integrar considerações de sustentabilidade nos modelos de decisão e alinhar as soluções propostas com os Objectivos de Desenvolvimento Sustentável (ODS);<br />  - Identificar e utilizar métodos analíticos para obter soluções para os modelos construídos para apoiar decisões informadas;<br />  - Utilizar ferramentas computacionais para analisar e obter soluções para os modelos construídos; <br />  - Extrair informação dos modelos e utilizá-la para comunicar e motivar a mudança organizacional.
+
+## Resultados de aprendizagem e competências
+Esta unidade curricular contribuirá para a aquisição, por parte dos estudantes, das seguintes competências, de acordo com a nomenclatura CDIO:<br /><br /><strong>1. Conhecimento Técnico e Raciocínio</strong><br /> <br />1.1. Adquirir com a necessária proficiência conhecimentos de ciências básicas e ser capaz de os utilizar na formulação, resolução e discussão de problemas da sua área de formação;<br /><br />Os conteúdos da unidade curricular constroem sobre conhecimentos de Álgebra e Probabilidades e Estatística, organizando-os, desenvolvendo-os e aplicando-os num contexto de apoio à resolução de problemas de decisão. Por natureza estes conhecimentos são transversais a todas as áreas de Engenharia e pertencem às suas ciências básicas. Durante as aulas há a preocupação de usar exemplos e casos da área científica do curso onde os estudantes estão envolvidos, fazendo a ponte entre as ciências básicas e a área de formação específica do curso.<br />Para além disso os estudantes são incentivados a integrar nas suas análises e formulações de problemas considerações sobre sustentabilidade e alinhadas com os ODS.<br /><br />Todos os elementos de avaliação usados na unidade curricular endereçam a avaliação destas competências. <br /><br /><strong>2. Capacidades e Atitudes Pessoais e Profissionais</strong> <br /> <br />2.1. Raciocínio em engenharia e resolução de problemas <br />2.1.1 identificação e formulação de problemas <br />2.1.2 modelização <br />2.1.3 estimação e análise qualitativa <br />2.1.4 análise com incerteza <br />2.1.5 solução e recomendação<br /><br />A metodologia de ensino e os seus conteúdos podem ser descritos precisamente por estes pontos. Assim, a formulação de problemas de acordo com cada um dos modelos estudados ao longo da unidade curricular, a sua modelização e resolução são uma atividade permanente ao longo da aprendizagem. A análise qualitativa é particularmente tratada na análise de sensibilidade, enquanto a incerteza é abordada em Filas de Espera e em Teoria da Decisão.<br /><br />Todos os elementos de avaliação usados na unidade curricular endereçam a avaliação destas competências.<br /><br />2.2 Experimentação e descoberta do conhecimento <br />2.2.1 formulação de hipóteses <br />2.2.2 pesquisa de literatura <br />2.2.3 inquérito experimental <br />2.2.4 teste de hipóteses e defesa<br /><br />2.3 Pensamento sistémico <br />2.3.1 pensamento holístico <br />2.3.2 emergência e interação entre sistemas <br />2.3.3 priorização e focagem <br />2.3.4 &quot;trade-offs&quot;, julgamento e balanceamento na resolução<br /><br />O endereçamento destas competências é de algum modo indireto, podendo ser mais diretamente descritas como:<br /><br />(1) competências de análise, enquanto capacidade de formular concetualizar e resolver problemas não familiares;<br />(2) competências de projeto, enquanto solução com criatividade de problemas não familiares, complexos e com incerteza técnica;<br />(3) competências de investigação, enquanto capacidade de modelação e investigação de aplicabilidade de técnicas emergentes (descrição de acordo com os critérios EURO-ACE).<br /><br />A formulação e modelização de problemas, que implica a identificação da família de modelos aplicável, o desenvolvimento de modelos originais e a sua avaliação, contribui claramente para estas competências. Novamente os tópicos relacionados com análise de sensibilidade contribuem para o entendimento de conceitos relacionados com &quot;trade-offs&quot; e balanceamento.<br /><br />Os estudantes serão encorajados a considerar as implicações das suas decisões em termos de sustentabilidade, especificamente o impacto dos seus modelos e soluções em áreas tais como a saúde, educação, igualdade e a preservação do meio ambiente.<br /><br />Todos os elementos de avaliação usados na unidade curricular endereçam a avaliação destas competências.<br /><br />Os objetivos de aprendizagem estão relacionados com as competências (saberes, competências e atitudes que os estudantes devem possuir) e exprimem-se como declarações sobre as coisas que os estudantes que frequentam com sucesso a unidade curricular devem ser capazes de fazer, explicar, calcular, deduzir, projetar, etc...<br /><br />Para todos os tópicos programáticos, junto aos materiais pedagógicos de apoio à aprendizagem, estão disponíveis objetivos de aprendizagem muito detalhados.
+
+## Pré-requisitos e co-requisitos
+<p>Cursos básicos de álgebra, estatística e teoria das probabilidades.</p>
+
+## Programa
+otimização | modelos lineares<br />otimização | modelos lineares | problemas em redes<br />otimização | modelos com variáveis inteiras<br />resolução de problemas de otimização | sem variáveis inteiras<br />   - análise gráfica + análise de sensibilidade<br />   - solver do Excel<br />   - relatório de sensibilidade do solver<br />teoria da decisão
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Exposição dos temas programáticos, sempre que possível com recurso a métodos de aprendizagem ativa, ilustrada por casos, exemplos e problemas.<br /><br />Esclarecimento de dúvidas sobre a resolução dos problemas propostos.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Teste: 50.0 %
+- Exame: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 82.5 horas
+- Frequência das aulas: 39.0 horas
+
+## Fórmula de cálculo da classificação final
+<strong>AVALIAÇÃO DISTRIBUÍDA com EXAME FINAL</strong><br /><br />Micro-exercícios a realizar na aula (sem consulta) (0 a 10 valores)<br />Soma das classificações obtidas por cada estudante nos exercícios de avaliação propostos para resolução no fim de cada aula, retirando as duas classificações mais baixas.<br />Cada exercício será classificado numa escala de 0 a 100%.<br /><br /><br />Exame (sem consulta) (0 a 10 valores)
+
+## Obtenção de frequência
+<p>Para terem frequência à unidade curricular os estudantes deverão obter a classificação mínima de 2 valores (dos 10 valores possíveis) na componente de avaliação distribuída (micro-exercícios).<br /><br />Normas gerais de avaliação, artigo 4º.</p>
+
+## Melhoria de classificação
+O exame de recurso terá duas componentes:<br /> - componente correspondente aos micro-exercícios (sem consulta e classificação de 0 a 10 valores)<br /> - componente correspondente ao exame (sem consulta e classificação de 0 a 10 valores)<br /><br />Em todos os casos o cálculo da classificação final será feito da forma indicada no ponto &quot;Fórmula de Cálculo da Classificação Final&quot;, considerando a melhor avaliação obtida pelo estudante em cada uma das componentes, consideradas a época normal e de recurso.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Operations Research
+
+## Curso responsável
+Master in Environmental Engineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<div><strong>BACKGROUND</strong></div><br /><div>This course focuses on the application of analytical methods to take better decisions and provides students with tools for modelling and optimization that will be very useful in various roles in several types of organizations (industry and services). contexts. It also emphasizes the importance of sustainability by integrating the United Nations Sustainable Development Goals (SDGs) to ensure that the proposed solutions contribute to a more sustainable and equitable future.<br /><br /></div><br /><div><strong>SPECIFIC OBJECTIVES</strong></div><br /><div>The main objective of this course is to develop skills for analyzing a wide range of real-world situations by creating<br />models. These skills are based on identifying the key problem in an unstructured situation, developing a framework to analyze and address it, and applying analytical methods to solve it.<br /><br /></div><br /><div><strong>LEARNING OBJECTIVES</strong></div><br /><div>Endow the students with the skills to:</div><br /><ul><br /><li>Identify and address decision problems in a skillful and<br />structured manner;</li><br /><li>Build models of decision problems;</li><br /><li>Integrate sustainability considerations into decision<br />models and align proposed solutions with the Sustainable Development Goals (SDGs);</li><br /><li>Identify and use analytical methods to obtain solutions<br />to the constructed models to support informed decisions;</li><br /><li>Use computational tools to analyze and obtain solutions for the constructed models;</li><br /><li>Extract information from the models and use it to<br />communicate and motivate organizational change.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<div>This course will contribute to the acquisition, by the students, of the following CDIO competencies:</div><br /><div> </div><br /><div><strong>1. Technical Knowledge and Reasoning</strong></div><br /><div> </div><br /><div>1.1. Acquire proficiency with the necessary knowledge of basic sciences and be able to use them in the formulation, discussion and resolution of problems of their area;</div><br /><div> </div><br /><div>The contents of the course unit build on knowledge of Algebra and Probabilities and Statistics, organizing them, developing them and applying them in a context of decision support. By nature this knowledge is transversal to all areas of Engineering and belongs to its basic sciences. Throughout the classes there is a concern to use examples and case studies from the scientific area of each course, bridging the gap between the basic sciences and area of the degree.<br />In addition, students are encouraged to integrate sustainability and SDG-aligned considerations into their analysis and problem formulation.<br /> </div><br /><div>The assessment in the course addresses these skills.</div><br /><div> </div><br /><div><strong>2. Personal and Professional Skills and Attitudes</strong></div><br /><div> </div><br /><div>2.1. Engineering reasoning and problem solving</div><br /><div>2.1.1 problem identification and formulation</div><br /><div>2.1.2 modelling</div><br /><div>2.1.3 estimation and qualitative analysis</div><br /><div>2.1.4 analysis with uncertainty</div><br /><div>2.1.5 solution and recommendation</div><br /><div> </div><br /><div>Exactly these points can describe the teaching methodology and the contents of this course. Thus, the formulation of problems according to each of the models studied throughout the course, their modelling and resolution are an on-going activity. The qualitative analysis is addressed in the sensitivity analysis, while uncertainty is addressed in Queueing Theory and in Decision Theory.</div><br /><div> </div><br /><div>The assessment in the course addresses these skills.</div><br /><div> </div><br /><div>2.2 Experimentation and knowledge discovery</div><br /><div>2.2.1 hypothesizing</div><br /><div>2.2.2 literature search</div><br /><div>2.2.3 Experimental investigation</div><br /><div>2.2.4 test and defence of hypotheses</div><br /><div> </div><br /><div>2.3 systemic thinking</div><br /><div>2.3.1 holistic thinking</div><br /><div>2.3.2 emergency and interaction between systems</div><br /><div>2.3.3 prioritization and focus</div><br /><div>2.3.4 trade-offs, judgment and balancing the resolution</div><br /><div> </div><br /><div>These skills are addressed indirectly, and may be more directly described as:</div><br /><div> </div><br /><div>(1) analysis competencies - ability to conceptualize, formulate and solve unfamiliar problems;</div><br /><div>(2) project competencies - ability to address with creativity, unfamiliar, complex and technically uncertain problems;</div><br /><div>(3) research competencies - ability to model and evaluate the applicability of emerging techniques (description of the criteria according to Euro-ACE).</div><br /><div> </div><br /><div>Problem design and modelling, involving the identification of the applicable family of models and the development and evaluation of original models, clearly contributes to these skills. The topics related with sensitivity analysis contribute to the understanding of concepts related to trade-offs and balancing.</div><br /><div><br />Students will be encouraged to consider the implications of the decisions in terms of sustainability, specifically the impact of their models and solutions on areas such as health, education, equality, and the preservation of the environment.<br /> </div><br /><div>The assessment in the course addresses these skills.</div><br /><div> </div><br /><div>The learning objectives are related to the competencies (knowledge, skills and attitudes that students should have) and are expressed as statements about things that students should be able to explain, calculate, deduct, design, etc ...</div><br /><div> </div><br /><div>For all program topics, detailed learning objectives are available from the web site, along with educational materials to support learning.</div>
+
+## Pré-requisitos e co-requisitos
+<p>Basic courses in algebra, statistics and probability theory.</p>
+
+## Programa
+optimization | linear models<br />optimization | linear models | network problems<br />optimization | models with integer variables<br />resolution of optimization problems | without integer variables<br />   - graphic analysis + sensitivity analysis<br />   - excel solver<br />   - solver sensitivity report<br />decision theory
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Presentation of course unit themes, using methods of active learning whenever possible, illustrated by cases, examples and problems.<br /><br />The problems from a list of proposed problems are discussed and solved by the students.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Teste: 50.0 %
+- Exame: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 82.5 hours
+- Frequência das aulas: 39.0 hours
+
+## Fórmula de cálculo da classificação final
+<div><strong>DISTRIBUTED EVALUATION with FINAL EXAM<br /><br /></strong></div><br /><div>Micro-exercises in class (closed book) (0 to 10 points)<br />The sum of the scores obtained by each student in the assessment exercises proposed for resolution at the end of each lesson, removing the two lowest scores.<br />Each exercise will be rated on a scale from 0 to 100%.<br /><br /><br />Exam (closed book) (0 to 10 points).</div>
+
+## Obtenção de frequência
+<p>To be admitted to the appeal exam, the students must obtain a minimum classification of 2 points (out of 10 possible points) in the distributed assessment (micro-exercises).<br /><br />According to the General Evaluation Rules of FEUP- Article 4</p>
+
+## Melhoria de classificação
+The appeal exam will have two components:<br />- the component corresponding to the micro-exercises (closed book and graded from 0 to 10)<br />- component corresponding to the exam (closed book and graded from 0 to 10)<br /><br />In all cases, the calculation of the final mark will be as described in the section &quot;Calculation of the Final Classification&quot;, considering the best assessment obtained by the student in each component, considering the regular season and the appeal.
+

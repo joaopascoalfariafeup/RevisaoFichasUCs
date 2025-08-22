@@ -1,0 +1,189 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Fundamentos da Programação
+
+## Curso responsável
+Licenciatura em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p><strong>INTRODUÇÃO</strong></p>
+<p>A fluência no processo de desenvolvimento de software é um pré-requisito essencial para o trabalho de Engenheiros Informáticos. Para usar computadores na resolução eficaz de problemas, os estudantes devem ser competentes em ler e escrever programas usando linguagens de programação de alto nível.</p>
+<p><strong>OBJETIVOS ESPECÍFICOS</strong></p>
+<p>O objetivo global desta Unidade é dar ao estudante a capacidade de criar algoritmos e de usar uma linguagem de programação para implementar, testar e depurar algoritmos para resolver problemas simples.</p>
+<p>O estudante será capaz de entender e usar os conceitos fundamentais de programação e a abordagem funcional da programação, especificamente a programação "livre de efeitos", onde as chamadas de função não têm efeitos colaterais e as variáveis são imutáveis, e de contrastar esta abordagem com a abordagem imperativa.</p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>No final da unidade curricular, espera-se que o estudante consiga lidar com problemas de programação de baixa/média complexidade, utilizando as abordagens ou paradigmas de programação imperativa ou funcional.</p>
+<p>Mais especificamente, o estudante deverá ser capaz de:</p>
+<ol>
+<li>Projetar, implementar, testar e depurar um programa que use as construções fundamentais de programação, cálculos básicos, estruturas condicionais e iterativas padrão, entrada/saída simples, persistência (ficheiros) e exceções.</li>
+<li>Entender a abstração de dados e usar tipos de dados simples ou compostos.</li>
+<li>Entender a abstração procedimental e usar a definição de funções, passagem de parâmetros, recursão.</li>
+<li>Escrever funções úteis que aceitem e devolvam outras funções.</li>
+<li>Implementar algoritmos básicos que evitem atribuir a um estado mutável ou considerar igualdade de referências.</li>
+<li>Entender variáveis e escopo léxico num programa.</li>
+<li>Definir operações em coleções, incluindo operações que tomam funções como argumentos (<em>map</em>, <em>reduce/fold</em> e <em>filter</em>) e listas em compreensão.</li>
+<li>Usar ferramentas de programação que ajudam a escrever, testar e documentar programas em computador de acordo com as melhores práticas de programação.</li>
+<li>Resolver problemas numéricos usando programas de computador.</li>
+</ol>
+
+## Pré-requisitos e co-requisitos
+Nenhum conhecimento prévio é necessário.
+
+## Programa
+<p><strong>Tópicos</strong>:</p>
+<ul>
+<li>Introdução ao Pensamento Computacional, algoritmos e programação com Python.</li>
+<li>Conceitos fundamentais de programação: tipos de dados simples; variáveis, expressões e declarações; fluxo de programa, condicionais, iteração; funções, passagem de parâmetros, recursão; ficheiros.</li>
+<li>Tipos de dados compostos: strings, tuplos, conjuntos, listas, dicionários.</li>
+<li>Programação livre de efeitos usando variáveis imutáveis e chamadas a função sem efeitos colaterais.</li>
+<li>Funções de ordem superior: <em>map</em>, <em>reduce/fold</em> e <em>filter</em>.</li>
+<li>Compreensões em listas.</li>
+<li>Estratégias de resolução de problemas.</li>
+<li>Ferramentas de programação, teste e depuração.</li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>O envolvimento contínuo do estudante com a unidade é promovido, através do estudo e discussão dos tópicos (distribuídos previamente em Notebooks, acompanhados de vídeos) tanto em aulas teóricas e teórico-práticas, bem como através de trabalhos de programação dentro e fora das aulas.</p>
+<p>O estudante é encorajado a encontrar as melhores ideias para resolver problemas específicos, executá-las e implementar as soluções de programação, de forma elegante, legível e eficiente (em tempo e em espaço) usando a linguagem de programação Python.</p>
+<p>As aulas teóricas são utilizadas para discutir os tópicos do programa e apresentar casos de estudo relacionados. As aulas teórico-práticas são usadas para ajudar os estudantes a entender os tópicos do programa e a resolver as tarefas de programação semanais.</p>
+<p>Os conteúdos para a aula teórica e as tarefas para a prática, são dados, semanalmente, para melhorar o desenvolvimento regular e eficaz dos processos de aprendizagem individual autónomo. São usadas ferramentas de correção automática de código para aumentar a rapidez do feedback dado aos estudantes.</p>
+<p>Os estudantes são incentivados a resolver problemas adicionais extra-aula propostos pelos docentes.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação consiste em <strong>testes em computador</strong> (MT1, MT2, EN, ER), com vigilância &#8212; avaliação individual, em sala de aula, a realizar no Moodle e dividida em perguntas teóricas de resposta múltipla e em exercícios de programação em computador.</p>
+<p><strong>MT1</strong>, <strong>MT2</strong>: <span style="font-weight: 400;">Provas em computador com componente teórica (25%) e prática (75%), realizadas durante o semestre.</span></p>
+<p><strong>EN</strong>: <span style="font-weight: 400;">Prova em computador com componente teórica (25%) e prática (75%), realizada na 1ª época de exames.</span></p>
+<p><strong>ER</strong>: <span style="font-weight: 400;">Prova em computador com componente teórica (25%) e prática (75%), realizada durante a 2ª época de exames para:</span></p>
+<ul>
+<li>estudantes que não obtiveram aprovação na 1ª época; e</li>
+<li>estudantes que desejam fazer melhoria da classificação da 1ª época</li>
+</ul>
+<p>A classificação final da primeira época de exames ("Época Normal") é dada pela seguinte fórmula:</p>
+<p><strong>Classificação final</strong> = (MT1+MT2+EN)/3</p>
+<p>A classificação final da segunda época de exames ("Época de Recurso"), para recurso ou melhoria, é dada pela seguinte fórmula:</p>
+<p><strong>Classificação final</strong> = ER</p>
+
+## Obtenção de frequência
+<p>Os estudantes não obtêm frequência, sendo-lhe atribuída a classificação "RFF", se excederem o limite de faltas (25% do número total de aulas teórico-práticas estimadas).</p>
+<p>Os estudantes que estão dispensados da frequência de aulas ao abrigo de estatutos especiais (por exemplo, TE), deverão realizar, no presente ano letivo, todas as componentes de avaliação abaixo indicadas.</p>
+
+## Melhoria de classificação
+<p>Os estudantes que queiram fazer melhoria de classificação obtida no ano letivo anterior para esta unidade curricular poderão submeter-se ao exame ER na época de recurso, sendo ponderado a 100%.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Programming Fundamentals
+
+## Curso responsável
+Bachelor in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p><strong>BACKGROUND </strong></p>
+<p>Fluency in the process of software development is an essential prerequisite to the work of Informatics Engineers. To use computers to solve problems effectively, students must be competent at reading and writing programs using high-level programming languages.</p>
+<p><strong>SPECIFIC AIMS </strong></p>
+<p>The global aim of this Unit is to give the student the ability to create algorithms and use a programming language to implement, test, and debug algorithms for solving simple problems. The student will understand and use the fundamental programming constructs, and the functional approach to programming, specifically effect-free programming where function calls have no side-effects and variables are immutable, and contrast it with the Imperative approach.</p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of the course, the student is expected to handle programming problems of medium complexity, using the imperative or functional programming approaches or paradigms.</p>
+<p>More specifically, the student will be able to:</p>
+<ol>
+<li>Design, implement, test and debug a program that uses the fundamental programming constructs, basic computations, standard conditional and iterative structures, simple Input/Output, persistence (files) and exceptions.</li>
+<li>Understand Data Abstraction and use simple and aggregate data types.</li>
+<li>Understand Procedural Abstraction and use the definition of functions, parameter passing, recursion.</li>
+<li>Write useful functions that take and return other functions.</li>
+<li>Implement basic algorithms that avoid assigning to mutable state or considering reference equality.</li>
+<li>Understanding variables and lexical scope in a program.</li>
+<li>Define operations on aggregates, including operations that take functions as arguments (especially <em>map</em>, <em>reduce/fold</em> and <em>filter</em>), and list comprehensions.</li>
+<li>Use the programming tools that help writing, testing and documenting computer programs according to the programming best practices.</li>
+<li>Solve numerical problems using computer programs.</li>
+</ol>
+
+## Pré-requisitos e co-requisitos
+No previous knowledge is required.
+
+## Programa
+<p><strong>Topics</strong>:</p>
+<ul>
+<li>Introduction to Computational Thinking, algorithms and programming with Python.</li>
+<li>Fundamental programming concepts: simple data types; variables, expressions and statements; program flow, conditionals, iteration; functions, parameter passing, recursion; files.</li>
+<li>Working with aggregate data types: strings, tuples, sets, lists, dictionaries.</li>
+<li>Effect-free programming by using immutable variables and function calls without side effects.</li>
+<li>Utility higher-order functions: <em>map</em>, <em>reduce/fold</em> and <em>filter</em>.</li>
+<li>List comprehensions.</li>
+<li>Problem-solving strategies.</li>
+<li>Programming tools, testing and debugging.</li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-weight: 400;">The continuous enrolment of the student in the course is promoted through the study and discussion of the course topics (distributed beforehand in Notebooks accompanied by videos), both in lectures and recitation classes, as well as through programming assignments inside and outside classes.</span></p>
+<p><span style="font-weight: 400;">The student is motivated to find the best ideas to solve specific problems, execute them and implement the programming solutions, in an elegant, legible and efficient mode (in terms of time and space) using the Python programming language.</span></p>
+<p><span style="font-weight: 400;">Lecture classes are used to discuss the topics of the program and present related programming case-studies. Recitation classes are used to help students understand the program's topics and solve the weekly programming assignments.</span></p>
+<p><span style="font-weight: 400;">In-class and homework programming assignments are given on a weekly basis to improve the regular and effective development of autonomous learning processes. Automatic correction tools are used to increase the efficiency of the feedback given to the students.</span></p>
+<p><span style="font-weight: 400;">Students are encouraged to solve extra problems outside class proposed by the teachers.</span></p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Assessment consists of supervised <strong>computer-based tests</strong> (MT1, MT2, EN, ER) &#8212; in the classroom, to be carried out in Moodle and divided into theoretical multiple-answer questions and computer programming exercises.</p>
+<p><strong>MT1, MT2</strong>: <span style="font-weight: 400;">Computer-based exams, with 2 components, theoretical (25%) and practical (75%), to be taken during the semester.</span></p>
+<p><strong>EN</strong>: <span style="font-weight: 400;">Computer-based exam, with 2 components, theoretical (25%) and practical (75%), to be taken at the 1st examination period ("<em>Época Normal</em>").</span></p>
+<p><strong>ER</strong>: <span style="font-weight: 400;">Computer-based exam, with 2 components, theoretical (25%) and practical (75%), to be taken at the 2nd examination period ("</span><em><span style="font-weight: 400;">Época de Recurso</span></em><span style="font-weight: 400;">"), for:</span></p>
+<ul>
+<li>students who have not been approved in the ordinary examination period; and</li>
+<li>students who want to improve the grade</li>
+</ul>
+<p>The final grade for the Ordinary examination period ("<em>Época normal</em>") is given by the following formula:</p>
+<p><strong>Final grade</strong> =  (MT1+MT2+EN)/3</p>
+<p>The final grade for the supplementary examination period ("<em>Época de Recurso</em>") is given by the following formula:</p>
+<p><strong>Final grade</strong> = ER</p>
+
+## Obtenção de frequência
+<p>To obtain eligibility for exams, students must not exceed the absence limit, established in the rules (25% of the total number of estimated theoretical-practical lessons).</p>
+<p>Students who are exempt from attendance of classes under special statutes (for example, TE) must carry out, in the current academic year, all the assessment components indicated below.</p>
+
+## Melhoria de classificação
+<p>Students who wish to improve the classification obtained in the previous academic year for this curricular unit may take the ER exam in the supplementary examination period, being weighted at 100%.</p>
+

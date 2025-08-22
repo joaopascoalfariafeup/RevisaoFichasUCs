@@ -1,0 +1,119 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Aprendizagem Computacional I
+
+## Curso responsável
+Licenciatura em Inteligência Artificial e Ciência de Dados
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p>Esta UC faz uma introdução à Aprendizagem Computacional (AC) fornecendo aos estudantes uma breve contextualização histórica e referência a algumas das suas aplicac&#807;o&#771;es mais relevantes.</p>
+<p>Pretende-se que os estudantes façam um primeiro contacto com va&#769;rias tarefas e abordagens envolvidas em problemas de AC e que possam, desta forma, identificar as estratégias mais adequadas.</p>
+
+## Resultados de aprendizagem e competências
+Pretende-se que os(as) estudantes: <br /><ul><br /><li>conheçam os va&#769;rios tipos de tarefas de aprendizagem computacional (AC);</li><br /><li>identifiquem problemas que possam ser abordados como tarefas de AC;</li><br /><li>conheçam os fundamentos algori&#769;tmicos da AC;</li><br /><li>conheçam as fases de um projeto de AC;</li><br /><li>conheçam os principais me&#769;todos/algoritmos para cada tipo de tarefa de AC e compreender o essencial do seu funcionamento;</li><br /><li>avaliem, de forma correta, os resultados de um projeto de AC;</li><br /><li>desenvolvam e implementem estratégias em algoritmos de AC que visem superar desafios de domínio;</li><br /><li>utilizem, de forma adequada, software para a resoluc&#807;a&#771;o de problemas simples de AC.</li><br /></ul>
+
+## Programa
+<ul><br /><li>Introduc&#807;a&#771;o a&#768; Aprendizagem Computacional (AC). </li><br /><li>Aprendizagem supervisionada</li><br /><ul><br /><li>problemas de classificação e regressão</li><br /><li>métricas de avaliação</li><br /><li>metodologias de estimativa de desempenho</li><br /><li>algoritmos lineares e não lineares (por exemplo, discriminante linear, regressão linear, árvores de decisão, k-NN, Naive Bayes, SVM, ANN)</li><br /></ul><br /><li>Aprendizagem não supervisionada</li><br /><ul><br /><li>métricas de similaridade e distância</li><br /><li>clustering por partições e hierárquico</li><br /><li>validação de clusters</li><br /><li>descoberta de padrões frequentes </li><br /><li>algoritmos (por exemplo, k-Means, DBSCAN, Apriori)</li><br /></ul><br /><li>Aprendizagem por modelos múltiplos</li><br /><ul><br /><li>bagging e boosting</li><br /><li>algoritmos (por exemplo, Random Forest, AdaBoost)</li><br /></ul><br /><li>Tópicos avançados</li><br /><ul><br /><li>aprendizagem em domínios desbalanceados</li><br /><li>deteção de anomalias</li><br /><li>meta-aprendizagem</li><br /></ul><br /><li>Integração de AC num projeto de mineração de dados: metodologias.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<div class=&quot;page&quot; title=&quot;Page 32&quot;><br /><div class=&quot;section&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;>Nas aulas teóricas sera&#769; usado o me&#769;todo expositivo, sendo apresentada uma visa&#771;o organizada dos temas do programa.<br /><br />As aulas práticas consistirão na resolução de exerci&#769;cios de aplicac&#807;a&#771;o dos conceitos introduzidos nas aulas teóricas.<br /><br /></div><br /></div><br /></div><br /></div>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 30.0 %
+- Trabalho prático ou de projeto: 40.0 %
+- Teste: 30.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 56.0 horas
+- Estudo autónomo: 50.0 horas
+- Frequência das aulas: 56.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Fo&#769;rmula de ca&#769;lculo da classificac&#807;a&#771;o final:</p>
+<p>0.3* T1+ 0.4 * TP + 0.3*T2</p>
+<p><br />onde<br /> <br />T1 é nota do primeiro teste,</p>
+<p>TP é a nota do trabalho prático,</p>
+<p>T2 é nota do segundo teste - a realizar na data do exame final.<br /><br />Para aprovação, o estudante deve obter uma nota mínima de 35% em cada uma das três componentes.</p>
+
+## Obtenção de frequência
+<p>A avaliação final tem uma componente distribuída que consiste na realização de dois testes e um trabalho prático.<br /><br />O estudante que não entregue e apresente o trabalho prático perde frequência, não sendo elegível para o segundo teste nem para o exame de recurso.<br /><br /></p>
+
+## Melhoria de classificação
+<p>A avaliação do trabalhos prático não é passível de melhoria.</p>
+<p>O estudante pode melhorar a nota teórica submetendo-se ao exame de recurso.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Machine Learning I
+
+## Curso responsável
+Bachelor in Artificial Intelligence and Data Science
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p>This course introduces Machine Learning (ML), providing students with a brief historical background and reference to some of its most relevant applications.</p>
+<p>It is intended that students make first contact with various tasks and approaches involved in ML problems and that they can, in this way, identify the most appropriate strategies.</p>
+
+## Resultados de aprendizagem e competências
+It is intended that students:<br /><ul><br /><li>know the various types of machine learning (ML) tasks;</li><br /><li>identify problems that can be addressed as ML tasks;</li><br /><li>know the algorithmic fundamentals of ML;</li><br /><li>know the phases of an ML project;</li><br /><li>know the main methods/algorithms for each type of ML task and understand the essentials of its operation;</li><br /><li>correctly evaluate the results of an ML project;</li><br /><li>develop and implement strategies in ML algorithms that aim to overcome domain challenges;</li><br /><li>properly use software for solving simple ML problems.</li><br /></ul>
+
+## Programa
+<ul><br /><li>Introduction to Machine Learning (ML) </li><br /><li>Supervised learning</li><br /><ul><br /><li>classification and regression problems</li><br /><li>evaluation metrics</li><br /><li>performance estimation methodologies</li><br /><li>linear and non-linear supervised learning algorithms (e.g. linear discriminant, linear regression, decision trees, k-NN, Naive Bayes, SVM, ANN) </li><br /></ul><br /><li>Unsupervised learning</li><br /><ul><br /><li>similarity and distance metrics</li><br /><li>partitional and hierarchical clustering</li><br /><li>clustering validation</li><br /></ul><br /><ul><br /><li>frequent pattern mining</li><br /><li>unsupervised learning algorithms (e.g. k-Means, DBSCAN, Apriori)</li><br /></ul><br /><li>Ensemble learning</li><br /><ul><br /><li>bagging and boosting</li><br /><li>ensemble algorithms (e.g. Random Forest, AdaBoost) </li><br /></ul><br /><li>Advanced topics</li><br /><ul><br /><li>imbalanced domain learning</li><br /><li>anomaly detection</li><br /><li>meta-learning</li><br /></ul><br /><li>Integration of ML in a data mining project: methodologies.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The expository method will be used in theoretical classes, with an organized view of the program themes being presented.</p>
+<p>Practical classes will consist of solving exercises to apply the concepts introduced in theoretical classes.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 30.0 %
+- Trabalho prático ou de projeto: 40.0 %
+- Teste: 30.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 56.0 hours
+- Estudo autónomo: 50.0 hours
+- Frequência das aulas: 56.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Final grade calculation formula:</p>
+<p>0.3 *  T1+ 0.4 * TP + 0.3 * T2</p>
+<p>where</p>
+<p>T1 is the grade of the first test,</p>
+<p>TP is the grade of the practical assignment,</p>
+<p>T2 is the grade of the second test - to be held on the date of the final exam.</p>
+<p>To be approved, the student must obtain a minimum grade of 35% in each of the three components.</p>
+
+## Obtenção de frequência
+The final evaluation has a distributed component consisting of two tests and a practical assignment.<br /><br />The student who does not deliver and present the practical assignment does not have frequency and thus is not eligible for the &#64257;nal test or supplementary exam.
+
+## Melhoria de classificação
+<p>The assessment of practical work is not subject to improvement.</p>
+<p>The student can improve the theoretical grade by taking the supplementary exam.</p>
+

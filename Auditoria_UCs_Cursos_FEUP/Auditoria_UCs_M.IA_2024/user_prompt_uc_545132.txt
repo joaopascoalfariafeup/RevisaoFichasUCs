@@ -1,0 +1,120 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Complementos de Aprendizagem Computacional
+
+## Curso responsável
+Mestrado em Inteligência Artificial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>O objetivo geral é criar competências no tratamento de dados de natureza complexa. Pretende-se desenvolver a capacidade de tratar dados que não sejam simplesmente tabelas de observações i.i.d. Os tipos de dados complexos (DC) abordados incluem os que são importantes hoje (texto, grafos e dados espácio-temporalmente referenciados) mas irá também acomodar novos tipos ou fontes de dados para preparar os estudantes para o desenvolvimento de técnicas adequadas para os problemas com que sejam confrontados nas suas vidas profissionais.</p>
+
+## Resultados de aprendizagem e competências
+<p>Os <em>learning outcomes</em> são:</p>
+<ul>
+<li>compreender a natureza de tipos de DC comuns e o seu impacto nas metodologias de análise de dados, em particular em relação aos algoritmos e à avaliação.</li>
+<li>compreender as abordagens típicas e também o estado da arte para análise dos tipos de DC mais comuns.</li>
+<li>configurar e utilizar tecnologias para análise de tipos de DC.</li>
+<li>desenvolver (criar/adaptar) metodologias para análise de novos tipos e fontes de DC.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Competências básicas em Inteligência Artificial e Aprendizagem Computacional (<em>Machine Learning</em>), incluindo Estatística e Programação.
+
+## Programa
+<ul><br /><li>Tópicos avançados em sistemas de recomendação</li><br /><li>Processamento de linguagem natural/<em>Text mining</em></li><br /><li>Análise de Redes Sociais/<em>Social network analysis</em></li><br /><li>Análise de séries temporais</li><br /><li>Análise de dados espácio-temporalmente referenciados</li><br /><li>Tendências em análise de dados complexos</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>Exposição de conteúdos pelo docente.</li><br /><li>Realização de exercícios teórico-práticos pelos estudantes.</li><br /><li>Discussão de artigos científicos.</li><br /><li>Seminários por outros investigadores.</li><br /><li>Prova escrita.</li><br /></ul>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 45.0 horas
+- Estudo autónomo: 78.0 horas
+- Frequência das aulas: 39.0 horas
+
+## Fórmula de cálculo da classificação final
+50% Exame + 50% Projeto<br /><br />Nota mínima no Exame: 8,0 (oito) valores (em 20).
+
+## Obtenção de frequência
+No caso de falta de uma das componentes da avaliação, a nota respetiva é de 0 (zero) valores.<br /><br />Nota mínima no Projeto: 8,0 (oito) valores (em 20).
+
+## Melhoria de classificação
+Pode ser feita melhoria de classificação na prova escrita na época de recurso do ano em que o estudante é aprovado.<br /><br />Para os momentos em que não foi feita melhoria de classificação no ano em que o estudante é aprovado, pode ser feita melhoria em um ou mais dos momentos de avaliação no ano seguinte, na época normal ou de recurso.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Machine Learning Complements
+
+## Curso responsável
+Master in Artificial Intelligence
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>The general aim of the course is to create skills in the treatment of complex data. The goal is to develop the ability to process data that are not simply table of i.i.d. observations. The types of complex data (CD) covered include those that are important today (graphs, and spatio-temporal data). However, the course will be flexible to accommodate new types or sources of data. Students will be prepared for the development of techniques for new types of data that they are confronted with in their professional lives.</p>
+
+## Resultados de aprendizagem e competências
+<p>The learning outcomes are:</p>
+<ul>
+<li>understand the nature of common complex data types and their impact on data analysis methodologies, in particular regarding algorithms and evaluation.</li>
+<li>understand the most popular approaches as well as the state of the art for analyzing the most common types of complex data.</li>
+<li>configure and use technologies for analysis of complex data types.</li>
+<li>develop (create / adapt) methodologies for analysis of new types and sources of complex data.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<div style=&quot;padding-left: 30px;&quot;>Basic skills in Artificial Intelligence and Machine Learning, including Statistics and Programming.</div>
+
+## Programa
+<ul><br /><li>Advanced topics in recommender Systems</li><br /><li>Natural Language Processing/Text mining</li><br /><li>Social network analysis</li><br /><li>Time series analysis</li><br /><li>Analysis of spatio-temporal data</li><br /><li>Trends in analysis of complex data</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>Content presentation by the teacher.</li><br /><li>Solving theoretical and practical exercises by the students.</li><br /><li>Discussion of scientific papers.</li><br /><li>Seminars by other researchers.</li><br /><li>Written evaluation.</li><br /></ul>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 45.0 hours
+- Estudo autónomo: 78.0 hours
+- Frequência das aulas: 39.0 hours
+
+## Fórmula de cálculo da classificação final
+50% Exam + 50% Project<br /><br />Minimum grade in the Exam: 8.0 (out of 20)
+
+## Obtenção de frequência
+In case of a missing component of the evaluation, the respective grade is 0 (zero) values.<br /><br />Minimum grade in the Project: 8.0 (out of 20)
+
+## Melhoria de classificação
+Grade improvement may be done for the mini-test in the special season (<em>recurso</em>) of the year in which the student is approved.<br /><br />For components which no grade improvement has been done in the year in which the student is approved, improvement may be made in one or more of the components in the following year, during the regular or special season.
+

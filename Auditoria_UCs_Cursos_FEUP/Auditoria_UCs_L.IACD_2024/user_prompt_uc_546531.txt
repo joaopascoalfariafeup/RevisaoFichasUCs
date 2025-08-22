@@ -1,0 +1,108 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Introdução aos Sistemas Inteligentes e Autónomos
+
+## Curso responsável
+Licenciatura em Inteligência Artificial e Ciência de Dados
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>A UC apresenta uma perspetiva global das técnicas associadas aos sistemas inteligentes e autónomos, explorando a modelação e simulação de sistemas complexos e o desenvolvimento de aplicações de agentes inteligentes e de Sistemas Multi-Agente (SMA) com capacidade de adaptação/aprendizagem. O objetivo principal é especificar e implementar sistemas inteligentes autónomos, complexos e adaptativos. No final da UC, os estudantes deverão ser capazes de:<br />1. Compreender conceitos básicos relacionados com sistemas inteligentes autónomos e ser capaz de modelar e projetar sistemas inteligentes e autónomos complexos.<br />2. Compreender e ser capaz de utilizar conceitos de sistemas inteligentes multiagente tais como a comunicação, interação, coordenação, negociação e cooperação.<br />3. Compreender e ser capaz de utilizar o conceito de aprendizagem por reforço, incluindo algoritmos atuais e mecanismos de aprendizagem por reforço profunda.</p>
+
+## Resultados de aprendizagem e competências
+Capacidade para especificar e implementar sistemas inteligentes autónomos, complexos e adaptativos.
+
+## Pré-requisitos e co-requisitos
+Conhecimentos de programação em Python / Java e Inteligência Artificial.
+
+## Programa
+1. Sistemas Autónomos Inteligentes: Sistemas Inteligentes; Agentes; Arquiteturas para agentes.<br />2. Sistemas multi-agente. Simulação baseada em agentes. Teoria dos atos de discurso. Linguagens de comunicação para agentes. Plataformas de desenvolvimento.<br />3. Tomada de decisão multi-agente. Teoria de jogos. Teoria de escolha social. Mecanismos de interação: protocolos e leilões. Negociação.<br />4. Aprendizagem em sistemas autónomos. Aprendizagem por Reforço. Processos de decisão de Markov. Métodos model-based e model-free. Monte Carlo. Aprendizagem por diferença temporal: Q-learning, SARSA. Aproximação da função de valor. Métodos policy-gradient.
+
+## Métodos de ensino e atividades de aprendizagem
+Exposição com interação nas aulas teóricas. Exploração de ferramentas e resolução de exercícios nas aulas teórico-práticas. Acompanhamento da realização dos trabalhos práticos. Aprendizagem prática orientada por projetos.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 horas
+- Frequência das aulas: 48.0 horas
+- Trabalho laboratorial: 64.0 horas
+
+## Fórmula de cálculo da classificação final
+Nota Final = 0.35*TP1+0.15*TP2+0.5*E<br />TP1: trabalho prático 1<br />TP2: trabalho prático 2<br />E: exame<br /><br />A nota mínima no exame é de 7.5 valores (em 20).
+
+## Obtenção de frequência
+Condições de Frequência: Um estudante inscrito obtém frequência se cumprir a assiduidade às aulas teórico-práticas e obtiver uma nota mínima de 7.5 valores (em 20), em cada trabalho prático.
+
+## Melhoria de classificação
+O exame é melhorável na época de recurso. A parte prática não é melhorável.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Introduction to Intelligent Autonomous Systems
+
+## Curso responsável
+Bachelor in Artificial Intelligence and Data Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+This course presents a global perspective of the techniques associated with intelligent and autonomous systems, exploring the modeling and simulation of complex systems and the development of intelligent agents and Multi-Agent Systems with the ability to adapt/learn to solve complex problems. The main objective is to specify and implement autonomous, complex, and adaptive intelligent systems. At the end of the course, students should be able to:<br />1. Understand basic concepts related to autonomous intelligent systems and be able to model and design complex intelligent and autonomous systems.<br />2. Understand and be capable of using concepts of intelligent multi-agent systems such as communication, interaction, coordination, negotiation, and cooperation.<br />3. Understand and be capable of using reinforcement learning, including state-of-the-art algorithms and deep reinforcement learning mechanisms.
+
+## Resultados de aprendizagem e competências
+Ability to specify and implement autonomous, complex, and adaptive intelligent systems.
+
+## Pré-requisitos e co-requisitos
+Knowledge of Python / Java programming and Artificial Intelligence.
+
+## Programa
+1. Intelligent Autonomous Systems: Intelligent Systems; Agents; Agent architectures.<br />2. Multi-Agent Systems. Agent-based simulation. Speech-act theory. Agent communication languages. Development platforms.<br />3. Multi-agent decision making. Game theory. Social choice theory. Mechanism design: protocols and auctions. Negotiation.<br />4. Learning in autonomous systems. Reinforcement Learning. Markov Decision Processes. Model-based and model-free methods. Monte Carlo. Temporal-difference learning: Q-learning, SARSA. Value function approximation. Policy gradient methods.
+
+## Métodos de ensino e atividades de aprendizagem
+Oral presentation of the themes of the course in theoretical classes, with interaction with students. Tool exploration and exercise solving in the practical classes. Practical classes will also be based on the supervision of assignments.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 hours
+- Frequência das aulas: 48.0 hours
+- Trabalho laboratorial: 64.0 hours
+
+## Fórmula de cálculo da classificação final
+Final Grade = 0.35*TP1+0.15*TP2+0.5*E<br />TP1: practical assignment 1<br />TP2: practical assignment 2<br />E: exam<br /><br />The minimum grade for the exam is 7.5 (out of 20).
+
+## Obtenção de frequência
+Terms of frequency: Enrolled students must not exceed the allowed number of non-attendances to lab classes and achieve a minimum grade of 7.5 (out of 20) in each of the practical assignments.
+
+## Melhoria de classificação
+The exam grade can be improved in the appeal period. The practical part cannot be improved.
+

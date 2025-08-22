@@ -1,0 +1,108 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas Operativos
+
+## Curso responsável
+Licenciatura em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Os objetivos principais desta unidade curricular são fornecer os conhecimentos fundamentais sobre:<br />O1- a estrutura e o funcionamento de um sistema operativo genérico;<br />O2- a utilização da interface de programação (API) de um sistema operativo real.</p>
+
+## Resultados de aprendizagem e competências
+<p>Os estudantes que concluirem com sucesso esta unidade curricular, deverão ser capazes de:<br />OA1- descrever as funções e a estrutura geral de um sistema operativo, e identificar as abstracções principais que ele fornece; <br />OA2- descrever o funcionamento dos componentes essenciais de um sistema operativo, a forma como esses componentes interagem entre si e os algoritmos fundamentais usados na sua implementação; <br />OA3- desenvolver programas que usem e explorem a API de um sistema operativo tipo-Unix.</p>
+
+## Pré-requisitos e co-requisitos
+<p>São pré-requisitos o conhecimento e prática de programação em linguagem C. É conveniente a frequência com aproveitamento da unidade curricular de Programação.</p>
+
+## Programa
+<p>INTRODUÇÃO AOS SISTEMAS OPERATIVOS <br />- Objetivos e funções de um Sistema Operativo<br />- Arranque do Sistema Operativo<br />- Interface de comando: Shell<br />- Abstrações suportadas, chamadas de sistema e sua interface de programação <br />GESTÃO DE PROCESSOS<br />- Processos, ciclo de vida <br />- Escalonamento<br />- Comunicação entre processos: Sinais, mmap, pipes / sockets unix<br />THREADS E PROGRAMAÇÂO CONCORRENTE<br />- Threads, ciclo de vida<br />- Mecanismos de exclusão mútua: Peterson, test &amp; set<br />- Locks, semáforos e variáveis de condição <br />- Ordem de obtenção de locks e locking em duas fases.<br />- Estruturas de dados concorrentes: Filas, Barreiras, Registos leitor/escritor. <br />GESTÃO DE MEMÓRIA<br />- Hierarquia de memória<br />- Gestão básica de memória física<br />- Memória virtual<br />- Modelo de memória dos processos <br />- Segmentação e paginação<br />- Suporte ao nível do hardware<br />SISTEMA DE FICHEIROS<br />- Dispositivos de armazenamento de informação<br />- Partições, volumes, swap<br />- Sistemas de ficheiros <br />- Interface do sistema operativo e implementação<br />- Estruturas de dados auxiliares e gestão do espaço nas partições<br />SISTEMAS DE ENTRADA/SAÍDA <br />- Tipos de dispositivo de I/O e requisitos de largura de banda<br />- Interrupções e gestão de interrupções<br />- Controladores de dispositivos, devices drivers<br />- o directório /dev do UNIX<br /><br />Tema prático complementar (coberto ao longo da unidade curricular): <br />PROGRAMAÇÃO DE SISTEMA (utilização da API do UNIX/LINUX) <br />- Manipulação de ficheiros e directórios<br />- Criação e gestão de processos e "threads"<br />- Intercomunicação entre processos: sinais, "pipes", FIFOs, e memória partilhada<br />- Sincronização entre processos e "threads": semáforos, mutexes e variáveis de condição</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>- Aulas teóricas: exposição e discussão das matérias do programa.<br />- Aulas teórico-práticas: resolução de exercícios de programação envolvendo a utilização da API de Unix/Linux.<br />- Auto-aprendizagem: estudo das matérias, recorrendo à bibliografia e ao material disponibilizado na página Web da unidade curricular; resolução de exercícios e realização de trabalho prático, envolvendo a utilização da API.</p>
+<p> </p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 52.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho laboratorial: 58.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação é "distribuída sem exame final" e consiste em dois testes, T1 e T2, avaliados para 10 valores cada, cada um cobrindo sensivelmente metade da matéria teórica e exercicios das aulas TP. <br /><br />Assumindo que o aluno tem frequência, a nota final é obtida pela expressão:<br /><br />   Nota Final =  T1 + T2<br /><br />Os alunos reprovados (Nota Final &lt; 10) mas com frequência ou os alunos inscritos para melhoria devem fazer o exame de recurso que cobre a totalidade da matéria teórica e prática.<br /><br /><br /></p>
+
+## Obtenção de frequência
+<div class=&quot;page&quot; title=&quot;Page 3&quot;>Para obter frequência à UC, o aluno deve frequentar pelos menos 50% das aulas TP lecionadas na sua turma. <br /><br /></div>
+
+## Melhoria de classificação
+A nota pode ser melhorada nas épocas legalmente previstas, cobrindo a totalidade da matéria.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Operating Systems
+
+## Curso responsável
+Bachelor in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+The main objectives of this curricular unit are to provide the fundamental knowledge on:<br />O1- the structure and the operation of a generic operating system;<br />O2- the use of the Application Programming Interface (API) of a real operating system.
+
+## Resultados de aprendizagem e competências
+<p>The students who complete successfully this curricular unit should be able to:<br />LO1- describe the functions and the general structure of an operating system and identify the main abstractions that it provides;<br />LO2- describe the operation of the essential components of an operating system, the way they interact and the fundamental algorithms used to implement them;<br />LO3- develop programs using and exploring the API of an Unix-type operating system.</p>
+
+## Pré-requisitos e co-requisitos
+Previous knowledge of programming with the C language is required. Approval in the curricular unit of &quot;Programming&quot; is recommended.
+
+## Programa
+<p>INTRODUCTION TO OPERATING SYSTEMS <br />- Objectives and functions of an operating system<br />- System boot<br />- Command interface: Shell<br />- Supported abstractions, system calls and their programming interface <br />PROCESS MANAGEMENT <br />- Process life cycle<br />- Scheduling<br />- IPC: Signals, mmap, pipes / UNIX sockets<br />THREADS and CONCURRENT PROGRAMMING<br />- Thread live cycle<br />- Mutual exclusion: Peterson, test &amp; set<br />- Locks, semaphores and condition variables<br />- Lock order and two-phase locking<br />- Thread-safe structures: Queues, Barrier, RW registers<br />MEMORY MANAGEMENT<br />- Memory hierarchy<br />- Physical memory management<br />- Virtual memory<br />- Process memory model<br />- Segmentation and pagination<br />- Hardware-level support<br />FILE SYSTEMS<br />- Storage devices<br />- Partitioning, volumes, swap space<br />- File-system<br />- OS API and implementation<br />- Data structures and space management<br />INPUT/OUTPUT SYSTEMS<br />- Devices and bandwidth profile<br />- Interrupts and interrupt management<br />- Controllers and device drivers<br />- UNIX /dev directory </p>
+<p>Complementary practice (covered along the course )<br />SYSTEM PROGRAMMING (UNIX/LINUX API)<br />- File and directory manipulation<br />- Process and thread creation and management<br />- Interprocess communication: signals, pipes, FIFOs, and shared memory<br />- Process and thread synchronization: semaphores, mutexes and condition variables</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>- Theoretical classes: presentation and discussion of the subject matter.<br />- Theoretical/practical classes: resolution of programming exercises involving the use of the Unix/Linux API.<br />- Self-learning: study of the programme themes, using the bibliography and the materials available at the web page of the curricular unit; resolution of exercises and development of a project, involving the use of the API.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 52.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho laboratorial: 58.0 hours
+
+## Fórmula de cálculo da classificação final
+The assessment is &quot;distributed without a final exam&quot; and consists of two tests, T1 and T2, each worth 10 points, each covering approximately half of the theoretical material and exercises from the TP classes.<br /><br />Assuming that the student attends the class, the final grade is obtained by the following expression:<br /><br />Final Grade = T1 + T2<br /><br />Students who fail (Final Grade &lt; 10) but attend the class or students who are enrolled to improve their grades must take the retake exam, which covers all of the theoretical and practical material.
+
+## Obtenção de frequência
+Attend 50% of the TP Classes
+
+## Melhoria de classificação
+The grade can be improved at the legally stipulated times, covering all the lecture material.
+

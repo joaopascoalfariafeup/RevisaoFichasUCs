@@ -1,0 +1,116 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Aeroelasticidade
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Esta unidade curricular aborda a interação entre forças elásticas, de inércia e aerodinâmicas. Pretende-se que o\a estudante:</p>
+<ol>
+<li>compreenda o papel da aeroelasticidade em sistemas aeronáuticos;</li>
+<li>se familiarize com conceitos e métodos usados em aeroelasticidade;</li>
+<li>seja capaz de formular e resolver alguns problemas nas áreas da aeroelasticidade;</li>
+<li>desenvolva capacidades de análise, síntese e crítica em aeroelasticidade; identifique pontos fortes e fracos de diferentes modelos aerodinâmicos e estruturais.</li>
+</ol>
+
+## Resultados de aprendizagem e competências
+Os resultados de aprendizagem e as competências a obter são as descritas em objectivos.
+
+## Pré-requisitos e co-requisitos
+<ul><br /><li>Análise Matemática: derivação, integração, resolução de equações diferenciais lineares.</li><br /><li>Álgebra Linear e Geometria Analítica: cálculo vectorial e matricial.</li><br /><li>Mecânica dos Fluidos: análise dimensional, escoamento exterior em torno de corpos.</li><br /><li>Mecânica dos Sólidos: teoria da elasticidade, flexão de vigas e torção de veios.</li><br /><li>Vibrações: sistemas com 1 grau de liberdade, com n graus de liberdade e contínuos.</li><br /></ul>
+
+## Programa
+<ul><br /><li>Definição e relevância da aeroelasticidade</li><br /><li>Introdução à aerodinâmica estacionária</li><br /><li>Introdução à aerodinâmica não estacionária</li><br /><li>Aerodinâmica de escoamento potencial</li><br /><li>A seção típica: descrição e equação do movimento.</li><br /><li>Conceitos de dinâmica das estruturas.</li><br /><li>Pontos de equilíbrio, estabilidade e bifurcações. Instabilidades aeroelásticas: divergência e flutter.</li><br /><li>Aeroelasticidade estática - o efeito da flexibilidade da asa</li><br /><li>Aeroelasticidade dinâmica - <em>flutter</em>; método p; método pk; método k</li><br /><li>Manobras de equilíbrio</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+Exposição, discussão de casos e resolução de alguns problemas elementares no decurso das aulas, com participação das\dos estudantes. Faz-se uso de retroprojector e do quadro. Alguns problemas são resolvidos mais eficientemente recorrendo ao Matlab, Maple ou a uma ferramenta semelhante. Sugere-se o uso destas ferramentas.
+
+## Tipo de avaliação
+Avaliação por exame final
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 126.0 horas
+- Frequência das aulas: 36.0 horas
+
+## Fórmula de cálculo da classificação final
+<ul><br /><li>Exame escrito final.</li><br /><li>Para obter aprovação, é necessária um classificação igual ou superior a 9.5 valores.</li><br /></ul><br /><p><br /><strong>Nota final = Nota de exame</strong></p>
+
+## Obtenção de frequência
+Assiduidade a pelo menos 75% das aulas, respeitando o <em>Regulamento Específico de Avaliação dos Discentes da FEUP.</em>
+
+## Melhoria de classificação
+<p>A melhoria da classificação obtida no exame da época normal pode ser feita através da realização do exame de recurso.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Aeroelasticity
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>This course addresses the interaction of elastic, inertial, and aerodynamic forces. It is intended that the student:</p>
+<ol>
+<li>understands the role of aeroelasticity in aeronautical systems;</li>
+<li>becomes familiar with concepts and methods necessary for the analysis of aeroelastic problems (stability and response), understanding the physical processes that drive these phenomena;</li>
+<li>can formulate and solve some aeroelastic problems;</li>
+<li>identifies strengths and weaknesses of different aerodynamic and structural models.</li>
+</ol>
+
+## Resultados de aprendizagem e competências
+<div class=&quot;QmZWSe&quot;> <span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>Learning outcomes and skills to be obtained are the ones described in the objectives.</span></div>
+
+## Pré-requisitos e co-requisitos
+<ul><br /><li>Mathematical Analysis: derivation, integration, solving linear differential equations.</li><br /><li>Algebra: operations with vectors and matrices.</li><br /><li>Fluid Mechanics: dimensional analysis, external flow around a body.</li><br /><li>Solid Mechanics: theory of elasticity, flexure and torsion of bars.</li><br /><li>Vibrations: systems with 1 and n degrees of freedom, continuous systems.</li><br /></ul>
+
+## Programa
+<ul><br /><li>Definition and relevance of aeroelasticity</li><br /><li>Introduction to steady aerodynamics</li><br /><li>Introduction to unsteady aerodynamics</li><br /><li>Potential flow aerodynamics</li><br /><li>The typical section: description and equation of motion.</li><br /><li>Concepts of structural dynamics.</li><br /><li>Equilibrium points, stability and bifurcations. Aeroelastic instabilities: divergence and flutter.</li><br /><li>Static aeroelasticity &#8211; effect of wing flexibility on lift distribution</li><br /><li>Static aeroelasticity &#8211; effect of wing flexibility on control effectiveness</li><br /><li>Dynamic aeroelasticity - flutter; p-method; pk method; k method</li><br /><li>Equilibrium manoeuvres</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+Classes are based on exposition and discussion of the course&#8217;s themes, as well as problem solving. The theory is given with the support of an overhead projector and the whiteboard. Applications are performed using the whiteboard; some problems are better solved resorting to computers and Matlab, Maple, or an alternative tool; results are shown in class, the use of these tools is suggested to the students.
+
+## Tipo de avaliação
+Evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 126.0 hours
+- Frequência das aulas: 36.0 hours
+
+## Fórmula de cálculo da classificação final
+<ul><br /><li>Final written exam.</li><br /></ul><br /><ul><br /><li>To be approved, it is necessary to achieve a mark equal or greater than 9.5.</li><br /></ul><br /><p><br /><strong>Final = Exam</strong></p>
+
+## Obtenção de frequência
+According to General Evaluation Rules of FEUP, students must attend at least 75% of the classes.
+
+## Melhoria de classificação
+Students can improve their grade in the first written exam by attempting a second written exam.
+

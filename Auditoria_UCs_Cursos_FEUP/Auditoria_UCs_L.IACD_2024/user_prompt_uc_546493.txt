@@ -1,0 +1,92 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Arquitetura de Computadores
+
+## Curso responsável
+Licenciatura em Ciência de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>Fornecer aos estudantes os conceitos fundamentais da organização e funcionamento de um computador, nomeadamente, o seu modelo de representação de dados e programas, as suas componentes e interacções, e a forma de avaliar o seu desempenho.<br /><br /></p>
+
+## Resultados de aprendizagem e competências
+Ao concluir esta unidade curricular o estudante deverá:<br /><ul><br /><li>conhecer o modelo proposto pela arquitectura de von Neumann</li><br /><li>conhecer a relação íntima entre o software e o hardware </li><br /><li>compreender a forma como as componentes básicas do CPU interagem</li><br /><li>compreender o fluxo de informação e de controle do CPU numa implementação de ciclo-único, multi-ciclo e pipelining</li><br /><li>compreender a interacção entre o CPU e o sub-sistema de memória</li><br /><li>compreender a hierarquia de memória e o seu impacto na performance</li><br /><li>conhecer as métricas e técnicas básicas de análise de performance</li><br /></ul>
+
+## Programa
+<p>Evolução sucinta dos computadores. Arquitectura de von Neumann. Representação de dados e programas. Linguagens, compiladores, assembly e código binário. Conjuntos de instruções. Representação de um programa em memória. Componentes básicas do microprocessador. Fluxo de informação e de controlo numa implementação de ciclo-único, multi-ciclo e pipelining. Análise básica de desempenho. Hierarquia de memória. Memória Principal e caches. Memória virtual.<br /><br /></p>
+
+## Métodos de ensino e atividades de aprendizagem
+As aulas teóricas são para exposição e discussão dos conceitos fundamentais da teoria e prática da organização e funcionamento de um computador.<br /><p>As aulas práticas destinam-se à resolução de problemas ilustrativos dos conceitos expostos nas aulas teóricas.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 48.0 horas
+- Estudo autónomo: 114.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação dos estudantes faz-se por realização de dois testes escritos ou por exame final escrito.<br /><br />O primeiro teste será realizado a meio do semestre e o segundo durante a época normal de exames. Cada teste terá um peso de 10 em 20 valores na classificação final da unidade curricular.<br /><br />O exame final escrito será realizado na época de recurso e terá um peso de 20 em 20 valores na classificação final da unidade curricular.</p>
+
+## Obtenção de frequência
+N/A
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computer Architecture
+
+## Curso responsável
+Bachelor in Computer Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+Introduce the basic working concepts of modern computer organization and design, namely, the internal representation of programs and data, the hardware components and their interactions, and ways to evaluate its performance.
+
+## Resultados de aprendizagem e competências
+At the end of the course, the students are expected to know:<br /><ul><br /><li>the basic von Neumann architecture concept </li><br /><li>the intimate relationship between code and hardware</li><br /><li>the main components of a CPU and their interaction</li><br /><li>the data and control paths of a CPU in a single-cycle, multi-cycle and pipelinig implementation</li><br /><li>the interaction between CPU and the memory sub-system</li><br /><li>the memory hierarchy model and its relevance to performance</li><br /><li>the basic performance analysis metrics and techniques</li><br /></ul>
+
+## Programa
+<p>Computer history and evolution. The von Neumman architecture. Data and program representation. Languages, compilers, assembly and binary code. Instruction Sets. Basic CPU components. The data- and control-paths in a single-cycle, multi-cycle and pipelinig implementation. Basic performance analysis. Memory hierarchy. Main meory and caches. Virtual memory.<br /><br /></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>In the lectures, the fundamental concepts of computer design and organization are presented and discussed.<br /> <br />In the practical classes, students will get hands-on experience in solving problems that illustrate the concepts introduced in the lectures.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 48.0 hours
+- Estudo autónomo: 114.0 hours
+
+## Fórmula de cálculo da classificação final
+Students are assessed by their performance in two written assignments or in a final exam.<br /> <br />The first written assignment takes place in the middle of the semester and the second in the first exams epoch. Each assignment is worth 10 points out of 20. The final exam takes place in the second exams epoch and is worth 20 points out of 20.
+
+## Obtenção de frequência
+N/A
+

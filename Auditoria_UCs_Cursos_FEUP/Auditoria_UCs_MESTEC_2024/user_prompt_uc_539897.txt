@@ -1,0 +1,123 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Dinâmica de Solos e de Estruturas
+
+## Curso responsável
+Mestrado em Estruturas de Engenharia Civil
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>A presente unidade curricular visa complementar a formação na área científica de estruturas e geotecnia, dotando a formação geral com conhecimentos de dinâmica de estruturas e de solos. Com a frequência da Unidade Curricular um aluno deve:</p>
+<p>- Identificar os conceitos e as particularidades da formulação das equações de equilíbrio inerentes à dinâmica de estruturas;</p>
+<p>- Descrever os principais métodos de análise dinâmica de sistemas estruturais solicitados por diversos tipos de ações dinâmicas, incluindo a interação solo-estrutura;</p>
+<p>- Conhecer e interpretar ensaios de caracterização dinâmica de estruturas e de solos;</p>
+<p>- Analisar e distinguir as particularidades da resposta dinâmica de estruturas e de maciços geotécnicos;</p>
+- Resolver um conjunto de problemas práticos de estruturas de engenharia civil solicitados por ações dinâmicas.
+
+## Resultados de aprendizagem e competências
+<p>Identificar os conceitos e as particularidades da formulação das equações de equilíbrio inerentes à dinâmica de estruturas. Descrever os principais métodos de análise dinâmica de sistemas estruturais solicitados por diversos tipos de ações dinâmicas.</p>
+<p>Interpretar e resolver um conjunto de problemas práticos de estruturas de engenharia civil com um ou múltiplos graus de liberdade solicitados por ações dinâmicas, usando os métodos no domínio do tempo e da frequência. Realizar a avaliação experimental de modelos físicos, como complemento a previsões de comportamento com base em simulações numéricas.</p>
+
+## Pré-requisitos e co-requisitos
+Conhecimentos básicos de teoria das estruturas
+
+## Programa
+<p>Dinâmica de estruturas</p>
+<p>Sistemas lineares de um grau de liberdade</p>
+<p>- Resposta em vibração livre e forçada</p>
+<p>- Identificação experimental da frequência natural e do coeficiente de amortecimento</p>
+<p>- Funções de forma e definição de sistemas de 1 g.l. generalizados</p>
+<p>- Resposta a uma ação generalizada no domínio da frequência e do tempo</p>
+<p>Sistemas lineares com vários graus de liberdade</p>
+<p>- Determinação de frequências e modos de vibração</p>
+<p>- Método de sobreposição modal para determinação da resposta a uma excitação generalizada</p>
+<p>- Formulações para inclusão do amortecimento</p>
+<p>- Obtenção da resposta através da integração no domínio do tempo<br /><br />- Formulação de espaço de estado</p>
+<p>Dinâmica de solos</p>
+<p>- Noções básicas sobre propagação de ondas em maciços geotécnicos</p>
+<p>- Caracterização dinâmica de solos: ensaios in-situ e de laboratório</p>
+<p>- Modelação do comportamento dinâmico de maciços</p>
+<p>- Efeitos de amplificação local</p>
+<p>Interação dinâmica solo-estrutura</p>
+- Metodologias simplificadas para inclusão da interação solo-estruturas
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A apresentação e discussão de toda a matéria é efetuadas em aulas com cariz teórico-prático, com a explicação da teoria e a resolução de problemas práticos, incentivando-se o desenvolvimento e utilização de ferramentas de cálculo automático com recurso ao MatLab. Os trabalhos práticos propostos são discutidos e as dúvidas esclarecidas nas aulas.</p>
+
+## Tipo de avaliação
+Avaliação por exame final
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 49.0 horas
+- Estudo autónomo: 113.0 horas
+
+## Fórmula de cálculo da classificação final
+Nota do exame final.
+
+## Obtenção de frequência
+<p>A obtenção de classificação final exige o cumprimento de assiduidade à unidade curricular. Considera&#8208;se que um estudante cumpre a assiduidade a uma unidade curricular se, tendo estado regularmente inscrito, não exceder o número limite de faltas correspondente a 25% de cada um dos tipos de aulas previstos.</p>
+<p>Estão dispensados da verificação das condições de assiduidade os casos previstos na lei, nomeadamente os trabalhadores estudantes.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Dynamics of Soils and Structures
+
+## Curso responsável
+Master in Civil Engineering Structures
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+This curricular unit aims to complement students&#8217; education in the scientific field of structures and geotechnics by enriching the general training with specific knowledge on dynamics of soils and structures. Upon attendance of the Curricular Unit, students should:<br /><br />- Identify the concepts and specificities on the formulation of equilibrium equations related to the dynamics of structures&#894;<br /><br />- Describe the main dynamic analysis methods for structural systems subjected to several types of dynamic loads, including soil­structure interaction&#894;<br /><br />- Know and interpret tests for the dynamic characterisation of structures and soils&#894;<br /><br />- Analyse and distinguish the specificities of the dynamic behaviour of geotechnical structures and ground&#894;<br /><br />- Solve a set of practical problems on civil engineering structures subjected to dynamic actions.
+
+## Resultados de aprendizagem e competências
+Identify the concepts and particularities of the formulation of the equilibrium equations that characterize the dynamics of structures. Describe the main methods for dynamic analysis of structural systems subjected to several types of dynamic loads.<br /><br />Interpret and solve a set of practical problems of civil engineering structures with one or multiple degrees of freedom submitted to dynamic loads, using time and frequency domain methods. Perform the experimental evaluation of physical models, in addition to predictions based on numerical simulations.
+
+## Pré-requisitos e co-requisitos
+Basic concepts of structural analysis.
+
+## Programa
+Dynamics of structures<br /><br />SDOF (Single-degree­-of-­freedom) linear systems<br /><br />- Free and forced vibration response&#894;<br /><br />- Experimental identification of natural frequencies and damping ratio&#894;<br />­ <br />- Shape functions and setting up of generalised SDOF systems&#894;<br />­ <br />- Response to a generalised load in time and frequency domain.<br /><br />MDOF (Multi­-degree-­of-­freedom) linear systems<br />­ <br />- Determination of frequencies and mode shapes&#894;<br /><br />- Modal superposition method for determining the response to a generalised load&#894;<br /><br />- Formulations for inclusion of damping&#894;<br /><br />- Obtaining a response through integration in time domain<br /><br />- State-space formulation. <br /><br />Dynamics of soils<br />­ <br />- Basics on wave propagation in geotechnical ground&#894;<br />­ <br />- Dynamic characterization of soils: in situ and laboratory tests&#894;<br />­ <br />- Modelling of the dynamic behaviour of ground&#894;<br />­ <br />- Local amplification effects.<br /><br />Soil­structure dynamic interaction<br />­ <br />- Simplified methodologies for inclusion of soil­structure interaction.
+
+## Métodos de ensino e atividades de aprendizagem
+All the topics are presented and discussed in the theoretical/practical classes, with an explanation of theory and the resolution of practical problems, based on the development and use of routines in MatLab. The proposed practical assignments are discussed and the doubts  clarified in the classes.
+
+## Tipo de avaliação
+Evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 49.0 hours
+- Estudo autónomo: 113.0 hours
+
+## Fórmula de cálculo da classificação final
+Final exam grade.
+
+## Obtenção de frequência
+<p><span lang="EN-US">Achieving final classification requires compliance with attendance of the classes of the course unit. It is considered that students meet the attendance requirements if, having been regularly enrolled, the number of absences of 25% for each of the classes&#8217; types is not exceeded.</span></p>
+<p>Are exempted from verification of attendance conditions the cases provided for by law, including working students.</p>
+

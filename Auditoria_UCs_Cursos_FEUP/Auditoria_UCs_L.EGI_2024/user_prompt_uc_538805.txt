@@ -1,0 +1,110 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Resistência dos Materiais
+
+## Curso responsável
+Licenciatura em Engenharia e Gestão Industrial
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p style="text-align: justify;">Adquirir capacidade de identificar, definir e manipular as grandezas fundamentais para efeitos de quantificação do Processo de Deformação dos Sólidos. Proceder ao cálculo de Tensões, Deformações e Deslocamentos em Peças Lineares com vista à determinação da sua capacidade resistente em serviço. Dimensionar Peças Lineares. Aplicar o método dos elementos finitos.</p>
+
+## Resultados de aprendizagem e competências
+<p>Com esta UC pretende-se dotar o estudante com os fundamentos da análise estrutural e os conceitos básicos da Resistência dos Materiais. No final da UC o estudante deverá ser capaz de:</p>
+<p>-Conhecer e utilizar equações de equilíbrio estático;</p>
+<p>-Classificar sistemas materiais em função das ligações ao exterior;</p>
+<p>-Calcular reações e esforços internos em sistemas isostáticos;</p>
+<p>-Determinar centros de massa, momentos de inércia, produtos de inércia e eixos principais centrais de inércia;</p>
+<p>-Caracterizar o estado de tensão num ponto e identificar o estado plano de tensão;</p>
+<p>-Calcular as tensões principais e as facetas principais com recurso ao círculo de Mohr;</p>
+<p>-Caracterizar o estado de deformação e conhecer as relações tensões-deformações (Lei de Hooke generalizada - materiais isotrópicos);</p>
+<p>-Calcular tensões e deformações devido à torção em peças lineares de secção circular;</p>
+<p>-Calcular tensões em peças lineares submetidas a esforços de flexão;</p>
+<p>-Calcular deformações em peças submetidas à flexão plana (equação da elástica);<br /><br />-Calcular deslocamentos, deformações, tensões e reacções através do método dos elementos finitos.</p>
+
+## Programa
+<ul><br /><li style=&quot;text-align: justify;&quot;>Introdução à Teoria da Elasticidade: o conceito de tensão, equações de equilíbrio, tensões principais, estado plano de tensão e tensões em coordenadas cilíndricas;</li><br /><li style=&quot;text-align: justify;&quot;>Caracterização do Estado de Deformação: o conceito de deformação, leis de transformação das deformações, deformações principais, equações de compatibilidade, estado plano de deformação, equações das deformações em coordenadas cilíndricas;</li><br /><li style=&quot;text-align: justify;&quot;>Relações Tensões-Deformações. Tensões em peças cilíndricas;</li><br /><li style=&quot;text-align: justify;&quot;>Torção de Peças Lineares: veio cilíndrico de secção circular;</li><br /><li style=&quot;text-align: justify;&quot;>Flexão de Vigas: Flexão Pura; vigas compostas de diferentes materiais; Flexão desviada; Flexão combinada com esforço normal, com torção e com esforço cortante. Deformação duma viga à flexão;</li><br /><li style=&quot;text-align: justify;&quot;>Introdução ao Método dos Elementos Finitos: decomposição em elementos finitos, interpolação de variáveis de campo, cálculo do estado de deformação e de tensão, aplicação do princípio dos trabalhos virtuais, estabelecimento da matriz de rigidez.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p style="text-align: justify;">A unidade curricular funciona no regime de uma aula teórica com uma duração de 1,5h e duas teórico-práticas por semana com uma duração de 1,5h cada uma. Esta tipologia de aulas permite que seja feita a apresentação dos conceitos teóricos na aula teórica e, de seguida, vários exemplos práticos de aplicação resolvidos nas aulas teórico-práticas.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Teste: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 103.5 horas
+- Frequência das aulas: 58.5 horas
+
+## Fórmula de cálculo da classificação final
+Classificação final: 25% do primeiro teste + 75% do segundo teste. <br />No recurso os estudantes fazem uma prova final com toda a matéria. <br />Não é permitida a consulta de qualquer texto de apoio à UC durante o exame.
+
+## Obtenção de frequência
+<p>As referidas nas Normas Gerais de Avaliação em vigor.</p>
+
+## Melhoria de classificação
+<p>As referidas nas Normas Gerais de Avaliação em vigor.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Strength of Materials
+
+## Curso responsável
+Bachelor in Industrial Engineering and Management
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<div style=&quot;text-align: justify;&quot;>Gain the ability to identify, define and manipulate the fundamental quantities to quantify the deformation process of solids. Calculate stresses, deformations and displacements for linear parts to determine their service life. Dimension linear parts. Apply the finite element method.</div>
+
+## Resultados de aprendizagem e competências
+This Curricular Unit (CU) is designed to provide the student with the fundamentals of structural analysis and the basic concepts of strength of materials. At the end of the CU the student should be able to:<br /><br />- Understand and apply the equations of static equilibrium;<br /><br />- Classify material systems in terms of their external connections;<br /><br />- Evaluate reactions and internal forces in isostatic systems;<br /><br />- Determine centres of mass, moments of inertia, products of inertia and principal moments of inertia;<br /><br />- Characterise the stress state at a point and identify the plane stress state;<br /><br />- Calculate principal stresses and principal facets using the Mohr circle;<br /><br />- Characterise the strain state and know the stress-strain relationship (Hooke's law - isotropic materials);<br /><br />- Estimate shear stresses and strains due to torsion of solid circular rods and tubes;<br /><br />- Determine normal stresses due to bending of linear members;<br />- Estimate deflection of members by integrating differential equations;<br /><br />-Calculate displacements, strains, stresses and reactions using the finite element method.
+
+## Programa
+<ul><br /><li>Introduction to the Theory of Elasticity: concept of stress, equilibrium equations, principal stresses, stress state in cylindrical coordinates;</li><br /><li>Strain: concept of strain, transformation law of strain, principal strains, compatibility equations, graphical representation of strain;</li><br /><li>Stress-strain relationship; stresses in cylindrical bodies. Torsion of linear members: cylindrical shaft of circular section;</li><br /><li>Bending of beams - pure bending; a beam composed of different materials; deflected bending; combined bending with normal, torsional and cutting stresses; beam deformation in bending (elastic equation);</li><br /><li>Introduction to finite element method: finite element decomposition, interpolation of field variables, calculation of strain and stress state, application of virtual work principle, determination of stiffness matrix.</li><br /><li></li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p style="text-align: justify;">The course comprises one theoretical lesson of 1.5 hours and two theoretical-practical lessons per week of 1.5 hours each. This type of class allows for the presentation of theoretical concepts, followed by several practical application examples in the theoretical-practical classes.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Teste: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 103.5 hours
+- Frequência das aulas: 58.5 hours
+
+## Fórmula de cálculo da classificação final
+Final Classification: 25% of the first test + 75% of the second test. <br />In the resit exam, the students will carry out a final exam. <br />It is not allowed to consult any text during the examination.
+
+## Obtenção de frequência
+<p>There is a limit to absentism at practical classes, according to general rules of our faculty.</p>
+
+## Melhoria de classificação
+<p><span class="hps">Those</span> <span class="hps">in the</span> <span class="hps">General Evaluation Rules</span> <span class="hps">in force.</span></p>
+

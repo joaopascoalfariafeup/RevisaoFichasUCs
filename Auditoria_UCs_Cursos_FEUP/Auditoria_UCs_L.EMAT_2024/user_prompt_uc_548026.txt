@@ -1,0 +1,94 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Mini-projetos de sistemas de aprendizagem e controlo
+
+## Curso responsável
+Mini-projetos de sistemas de aprendizagem e controlo
+
+## Créditos ECTS
+1,5
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<ul><br /><li>dotar os estudantes de competências básicas na conceção, desenvolvimento e implementação de algoritmos simples de aprendizagem e controlo. Os algoritmos propostos fazem uso dos dados para melhorar a sua performance e têm aplicações em diversas áreas científicas de engenharia, incluindo, ambiental, bioengenharia, civil, ciências dos dados, ciências de computação e da informação, eletrotécnica, física, mecânica, nanotecnologia e química; o que torna este tópico transversal. </li><br /><li>preparar os estudantes para resolverem em grupo, mini-projetos, promovendo o desenvolvimento de competências complementares (soft skills), designadamente: trabalho em equipa, cooperação, comunicação interpares, gestão de tempo, gestão de recursos, gestão de stress.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<ul><br /><li>Explicação do funcionamento básico de simples algoritmos de aprendizagem e controlo;</li><br /><li>Desenvolvimento de pequenos projetos utilizando módulos de programas em Python na plataforma Colab notebook que inclui tratamento de dados e extração de atributos, aprendizagem e controlo;</li><br /><li>Desenvolvimento de soft skills nas áreas de trabalho em equipa, cooperação, comunicação interpares, gestão de tempo, gestão de recursos e gestão de stress.</li><br /></ul>
+
+## Programa
+<ul><br /><li>Introdução aos conceitos básicos de sistemas de aprendizagem para deteção e classificação.</li><br /><li>Introdução aos conceitos básicos de sistemas de controlo.</li><br /><li>Princípios básicos de um sistema completo de aquisição de dados/sinais, tratamento de dados e extração de atributos, aprendizagem e controlo.</li><br /><li>Desenvolvimento e teste de mini-projetos de aprendizagem e controlo utilizando módulos simples programados em linguagem python na plataforma Colab notebook.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+A metodologia de ensino-aprendizagem tem por base a não-exigência de algum pré-conhecimento ou competência anterior por parte dos estudantes em linguagens de programação e algoritmos, sendo por isso adequado a qualquer estudante de licenciatura ou de mestrado.<br /><br /><br />De acordo com o programa, as aulas compreendem tipologias teóricas e laboratoriais. A parte teórica consiste em palestras para exposição dos assuntos de aprendizagem e sistemas de controlo, acompanhadas de exemplos e demonstrações. A parte prático-laboratorial é focada nos trabalhos de aplicação, nomeadamente no desenvolvimento de mini-projetos de aprendizagem e controlo. Nesta fase, os estudantes terão a possibilidade de aplicar e testar os conhecimentos adquiridos
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho escrito: 15.0 %
+- Trabalho laboratorial: 85.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 28.5 horas
+- Frequência das aulas: 12.0 horas
+
+## Fórmula de cálculo da classificação final
+<ul><br /><li>Serão consideradas duas componentes:</li><br /></ul><br /><br /><br /><ul><br /><ul><br /><li>ETI - Exercícios propostos como Trabalho Individual em forma de mini-teste</li><br /></ul><br /></ul><br /><br /><br /><ul><br /><ul><br /><li>TL &#8211; Trabalho Laboratorial</li><br /></ul><br /></ul><br /><br /><br /><ul><br /><li>Fórmula de cálculo da classificação final = 15% ETI + 85% TL</li><br /></ul>
+
+## Obtenção de frequência
+Participação ativa nas atividades
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Mini projects on machine learning and control systems
+
+## Curso responsável
+Mini projects on machine learning and control systems
+
+## Créditos ECTS
+1,5
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<ul><br /><li>provide students with basic skills in the design, development and implementation of simple learning and control algorithms. The proposed algorithms make use of data to improve their performance and have applications in several scientific areas of engineering, including, environmental, bioengineering, civil, data sciences, computer and information sciences, electrotechnics, physics, mechanics, nanotechnology and chemistry; which makes this topic transversal.</li><br /><li>prepare students to solve mini-projects in groups, promoting the development of complementary skills (soft skills), namely: teamwork, cooperation, peer communication, time management, resource management, stress management.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<ul><br /><li>Explanation of the basic functioning of simple learning and control algorithms;</li><br /><li>Development of small projects using Python program modules on the Colab notebook platform that includes data processing and attribute extraction, learning and control;</li><br /><li>Development of soft skills in the areas of teamwork, cooperation, peer communication, time management, resource management and stress management.</li><br /></ul>
+
+## Programa
+<ul><br /><li>Introduction to basic concepts of machine learning systems for detection and classification.</li><br /><li>Introduction to the basic concepts of control systems.</li><br /><li>Basic principles of a complete system of data/signal acquisition, data processing and attribute extraction, learning and control.</li><br /><li>Development and testing of learning and control mini-projects using simple modules programmed in python on the Colab notebook platform.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+The teaching-learning methodology is based on the non-requirement of any pre-knowledge or previous competence on the part of students in programming languages and algorithms, and is therefore suitable for any undergraduate or master's student.<br /><br /><br />According to the program, classes include theoretical and laboratory typologies. The theoretical part consists of lectures to expose machine learning subjects and control systems, accompanied by examples and demonstrations. The practical-laboratory part is focused on application work, namely the development of learning and control mini-projects. At this stage, students will be able to apply and test the knowledge acquired
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho escrito: 15.0 %
+- Trabalho laboratorial: 85.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 28.5 hours
+- Frequência das aulas: 12.0 hours
+
+## Fórmula de cálculo da classificação final
+<ul><br /><li>Two components will be considered:</li><br /></ul><br /><br /><br /><ul><br /><ul><br /><li>EIW - Exercises proposed as Individual Work in the form of a mini-test</li><br /></ul><br /></ul><br /><br /><br /><ul><br /><ul><br /><li>TL - Laboratory Work</li><br /></ul><br /></ul><br /><br /><br /><ul><br /><li>Final classification calculation formula = 15% EIW + 85% TL</li><br /></ul>
+
+## Obtenção de frequência
+Active participation in the proposed activities
+

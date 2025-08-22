@@ -1,0 +1,102 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Regimes Transitórios do SEE
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<div style=&quot;text-align: justify;&quot;>1- Compreender o comportamento dinâmico do sistema elétrico face a perturbações.</div><br /><div style=&quot;text-align: justify;&quot;>2- Compreender os mecanismos que asseguram a estabilidade do sistema elétrico quando sujeito a perturbações.</div><br /><div style=&quot;text-align: justify;&quot;>3- Dominar as metodologias para a resolução dos principais problemas associados aos fenómenos transitórios em sistemas elétricos, incluindo métodos diretos e métodos numéricos.</div><br /><div style=&quot;text-align: justify;&quot;>4- Dominar o conhecimento sobre as malhas de controlo de tensão e frequência e sua modelização para estudos de estabilidade.</div><br /><div style=&quot;text-align: justify;&quot;>5- Compreender as funções do Controlo Automático de Geração e a afinação dos seus parâmetros de controlo.</div><br /><div style=&quot;text-align: justify;&quot;>6- Compreender os fenómenos transitórios rápidos associados a sobretensões de manobra e correntes transitórias na sequência de manobras no sistema elétrico.</div>
+
+## Resultados de aprendizagem e competências
+<div style=&quot;text-align: justify;&quot;>O curso visa desenvolver o interesse dos alunos e o conhecimento e compreensão de ferramentas e métodos para a análise da estabilidade e controlo do sistema elétricos e análise das sobretensões de manobra. O curso aborda a estabilidade em profundidade e as sobretensões de manobra.</div><br /><div style=&quot;text-align: justify;&quot;><br />Os alunos desenvolverão conhecimento e compreensão de:</div><br /><div style=&quot;text-align: justify;&quot;>1- Aquisição e demonstração de conhecimento avançado dos fenómenos transitórios e do comportamento dinâmico de equipamentos e sistemas elétricos.</div><br /><div style=&quot;text-align: justify;&quot;>2- Aquisição e demonstração de conhecimento das metodologias para a resolução dos principais problemas associados aos fenómenos transitórios em sistemas eléctricos.</div><br /><div style=&quot;text-align: justify;&quot;> </div>
+
+## Programa
+<div style=&quot;text-align: justify;&quot;>1 - Estabilidade de um sistema elétrico.</div><br /><div style=&quot;text-align: justify;&quot;>2 - Curva de oscilação de uma máquina síncrona.</div><br /><div style=&quot;text-align: justify;&quot;>3 - Princípios de estabilidade dinâmica.</div><br /><div style=&quot;text-align: justify;&quot;>4 - Tipos de estabilidade do sistema elétrico.</div><br /><div style=&quot;text-align: justify;&quot;>5 - Critério das áreas iguais para análise de estabilidade transitória.</div><br /><div style=&quot;text-align: justify;&quot;>6 - Métodos numéricos de resolução das equações de oscilação (método de Euler e de Runge-Kutta).</div><br /><div style=&quot;text-align: justify;&quot;>7 - Estabilidade de Sistemas com n máquinas síncronas.</div><br /><div style=&quot;text-align: justify;&quot;>8 - Controlo de frequência e tensão. Controlo primário e secundário de frequência. Controlo Automático de Geração.</div><br /><div style=&quot;text-align: justify;&quot;>9- Métodos para controlo da estabilidade transitória do Sistema Elétrico.</div><br /><div style=&quot;text-align: justify;&quot;>10 - Sobretensões em SEE. Tensões transitórias de restabelecimento. Fator de primeiro pólo. Corte de pequenas correntes indutivas.</div><br /><div style=&quot;text-align: justify;&quot;>11- Correntes de pico no fecho de circuitos capacitivos.</div>
+
+## Métodos de ensino e atividades de aprendizagem
+<div style=&quot;text-align: justify;&quot;>Aulas teóricas ministradas com apoio de slides, existindo publicados apontamentos que cobrem a globalidade da UC.</div><br /><div style=&quot;text-align: justify;&quot;>Aulas TP para resolução e discussão de problemas previamente disponibilizados aos estudantes e realização de um estudo de estabilidade de rede de pequena dimensão com recurso a meios informáticos.</div>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 65.0 %
+- Teste: 15.0 %
+- Trabalho prático ou de projeto: 20.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 116.5 horas
+- Frequência das aulas: 45.5 horas
+
+## Fórmula de cálculo da classificação final
+<div style=&quot;text-align: justify;&quot;><br /><p style=&quot;text-align: justify;&quot;>A avaliação será constituída por duas componentes:</p><br /><p style=&quot;text-align: justify;&quot;>1) Avaliação distribuída composta por: a) Mini-teste (MT), relativo à parte prática de estabilidade transitória; b) Trabalho (TP) sobre um problema de estabilidade, para ser resolvido utilizando o MatLab, Visual Basic ou Excel, do qual deverá ser entregue relatório e programa em formato digital.</p><br /><p style=&quot;text-align: justify;&quot;> 2) Exame final (EF) com uma parte teórica (peso de 85%) e uma parte prática (peso de 15%).</p><br /></div><br /><div style=&quot;text-align: justify;&quot;> </div><br /><div style=&quot;text-align: justify;&quot;>Valorização para um máximo de 20 valores:</div><br /><div style=&quot;text-align: justify;&quot;>- Mini teste (MT) - 3 valores;</div><br /><div style=&quot;text-align: justify;&quot;>- Trabalho de avaliação distribuída (TP) - 4 valores;</div><br /><div style=&quot;text-align: justify;&quot;>- Exame Final (EF) - 13 valores.</div><br /><div style=&quot;text-align: justify;&quot;> </div><br /><div style=&quot;text-align: justify;&quot;>Mínimo de 40% no mini-teste, no trabalho e no exame final.</div><br /><div style=&quot;text-align: justify;&quot;> </div><br /><div style=&quot;text-align: justify;&quot;>A componente TP permite avaliar as competências CDIO - 2.3 e 4.3</div><br /><div style=&quot;text-align: justify;&quot;>A componente EF permite avaliar as competências CDIO - 1.3,2.1, 2.3,3.3 e 4.3</div>
+
+## Obtenção de frequência
+<div style=&quot;text-align: justify;&quot;>Cumprimento das regras de assiduidade em vigor.</div><br /><div style=&quot;text-align: justify;&quot;>Realização de um mini-teste, relativo à parte prática de estabilidade transitória, com um mínimo de 40%.</div><br /><div style=&quot;text-align: justify;&quot;>Conclusão do trabalho de avaliação distribuída, com um mínimo de 40%.</div>
+
+## Melhoria de classificação
+<p style="text-align: justify;">Exame final (com componentes teórica e prática). A classificação da componente de avaliação distribuída é válida para todas as épocas de exame do ano letivo.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Electrical Transients in Power Systems
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<div style=&quot;text-align: justify;&quot;>1- Understand the dynamic behavior of the electric power system when facing system disturbances.</div><br /><div style=&quot;text-align: justify;&quot;>2- Understand the mechanisms that assure stability of the system when facing disturbances.</div><br /><div style=&quot;text-align: justify;&quot;>3- Master the methodologies for the solution of the main problems related with transient phenomena in power systems, including the usage of direct methods and numerical methods.</div><br /><div style=&quot;text-align: justify;&quot;>4- Master the know-how about voltage and frequency control loops in stability studies.</div><br /><div style=&quot;display: inline !important; text-align: justify;&quot;>5- Understand the functionalities of the AGC and the adjustments on its control parameters.<br />6- Understand the fast transient phenomena related with overvoltage&#8217;s and overcurrent&#8217;s that follow switching actions in the power system.</div>
+
+## Resultados de aprendizagem e competências
+<div style=&quot;text-align: justify;&quot;>The course aims to develop students' interest and knowledge and understanding of tools and methods for system stability analysis and control of power systems and analysis of switching overvoltages. The course covers, in depth, stability and switching overvoltages.</div><br /><div style=&quot;text-align: justify;&quot;> </div><br /><div style=&quot;text-align: justify;&quot;>Students will develop knowledge and understanding of:</div><br /><div style=&quot;text-align: justify;&quot;>1- Acquisition and demonstration of advanced knowledge of transient phenomena and the dynamic behavior of electrical equipment and systems.</div><br /><div style=&quot;text-align: justify;&quot;>2- Acquisition and demonstration of knowledge of methodologies for solving the main problems associated with transient phenomena in electrical systems.</div><br /><p><br /><br /></p>
+
+## Programa
+<div style=&quot;text-align: justify;&quot;>1- Power System Stability.</div><br /><div style=&quot;text-align: justify;&quot;>2- Synchronous generator swing equation.</div><br /><div style=&quot;text-align: justify;&quot;>3- Principles of dynamic stability.</div><br /><div style=&quot;text-align: justify;&quot;>4- Types of stability problems in the electric power system.</div><br /><div style=&quot;text-align: justify;&quot;>5- Equal area criterion for transient stability analysis.</div><br /><div style=&quot;text-align: justify;&quot;>6- Numerical methods for the solution of the swing equation (Euler and Runge-Kutta).</div><br /><div style=&quot;text-align: justify;&quot;>7- Stability of multi-machine systems.</div><br /><div style=&quot;text-align: justify;&quot;>8- Voltage and frequency control. Primary and secondary frequency control. Automatic Generation Control &#8211; AGC.</div><br /><div style=&quot;text-align: justify;&quot;>9- Methods of improving power system transient stability.</div><br /><div style=&quot;text-align: justify;&quot;>10- Switching overvoltages in the power system. Transient recovery voltages. First pole factor. Interruption of small inductive currents.</div><br /><div style=&quot;text-align: justify;&quot;>11- Peak currents following the connection of capacitive circuits.</div>
+
+## Métodos de ensino e atividades de aprendizagem
+Theoretical classes are carried out with the support of slides, and by documents covering the entirety contents of the course. In TP classes, some problems that were previously made available to students are solved and discussed. A study of the stability of a small power system is carried out by using computer means.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 65.0 %
+- Teste: 15.0 %
+- Trabalho prático ou de projeto: 20.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 116.5 hours
+- Frequência das aulas: 45.5 hours
+
+## Fórmula de cálculo da classificação final
+<div style=&quot;text-align: justify;&quot;>The evaluation comprises the following two components:</div><br /><div style=&quot;text-align: justify;&quot;> </div><br /><div style=&quot;text-align: justify;&quot;>1) Distributed evaluation composed by: a) Mini-test (MT) about the practical part of transient stability; b) Assignment (AS) of a stability problem, to be solved using MatLab, Visual Basic or Excel, for which a report and program must be delivered in digital format;<br /><br /></div><br /><div style=&quot;text-align: justify;&quot;>2) Final exam (FE), consisting of a theoretical part (max grade of 85%) and a practical part (max grade of 15%).</div><br /><div style=&quot;text-align: justify;&quot;> </div><br /><div style=&quot;text-align: justify;&quot;>The valorization (from 0 to 20) of the evaluation components is as follows:</div><br /><div style=&quot;text-align: justify;&quot;>- Mini-test (MT) - 3 values;</div><br /><div style=&quot;text-align: justify;&quot;>- Assignment (AS) - 4 values;</div><br /><div style=&quot;text-align: justify;&quot;>- Final Exam (FE) - 13 values.</div><br /><div style=&quot;text-align: justify;&quot;> </div><br /><div style=&quot;text-align: justify;&quot;>To pass it is mandatory to obtain a minimum of 40% in the assignment, in the mini-test and in the final exam.</div><br /><div style=&quot;text-align: justify;&quot;> </div><br /><div style=&quot;text-align: justify;&quot;>The AS component allows the assessment of CDIO skills - 2.3 and 4.3.</div><br /><div style=&quot;text-align: justify;&quot;>The FE component allows the assessment of CDIO skills - 1.3, 2.1, 2.3, 3.3 and 4.3.</div>
+
+## Obtenção de frequência
+<div style=&quot;text-align: justify;&quot;>Compliance with the attendance rules in force.</div><br /><div style=&quot;text-align: justify;&quot;>Realization of a mini-test, related to the practical part of power systems transient stability, with a minimum grade of 40%.</div><br /><div style=&quot;text-align: justify;&quot;>Fulfillment of an assignment, with a minimum grade of 40%.</div>
+
+## Melhoria de classificação
+Final exam (with theoretical and practical part). The classification of the distributed evaluation component is valid for all exam periods of the academic year.
+

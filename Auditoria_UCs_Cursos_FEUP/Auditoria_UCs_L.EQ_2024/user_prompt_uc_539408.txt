@@ -1,0 +1,132 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise Matemática II
+
+## Curso responsável
+Licenciatura em Engenharia Química
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>1. CONTEXTO: A Geometria Analítica e a extensão do Cálculo para funções de várias variáveis (introduzindo os conceitos de derivadas parciais e integrais múltiplos) são ferramentas importantes em cálculos de engenharia. Tópicos de Análise Vetorial inclui teoremas importantes (de Green, da divergência e de Stokes) que são uma base indispensável para a compreensão de importantes princípios de engenharia</p>
+<p>2. OBJETIVOS: - Compreensão de diferentes sistemas de coordenadas; - I;entificação, e representação, de curvas e superfícies no espaço 3D; - Saber calcular as derivadas parciais de funções de várias variáveis, assim como as suas aplicações práticas importantes (cálculo de máximos e minimos); - Saber efectuar o cálculo de integrais múltiplos, e suas importantes aplicações (em particular, o cálculo de áreas e volumes); - Saber calcular integrais de linha e integrais de superfície, assim como compreender as suas aplicações práticas;</p>
+<p>3. DISTRIBUIÇÃO PERCENTUAL: Componente científica 80%; Componente tecnológica 20%.</p>
+
+## Resultados de aprendizagem e competências
+<p><br />Depois deste curso, o estudante saberá (ou será capaz de):</p>
+<p>- Usar coordenadas polares, cilíndricas e esféricas;</p>
+<p>- Representar curvas (assim como a sua projeção sobre os planos coordenados) e superfícies no espaço 3D;</p>
+<p>- Calcular derivadas parciais de funções de várias variáveis (sejamfunções compostas ou implícitas);</p>
+<p>- Determinar extremos, condicionados ou não, de funções de várias variáveis;</p>
+<p>- Calcular áreas e volumes (entre outras aplicações) de regiões do plano e do espaço 3D usando integrais duplos e triplos, em coordenadas retangulares, cilíndricas ou esféricas;</p>
+<p>- Calcular o trabalho realizado por um campo vetorial ou o seu fluxo através de uma superfície usano integrais de linha e integrais de superfície.</p>
+
+## Pré-requisitos e co-requisitos
+<p> </p>
+<p>EQ0059: Cálculo diferencial e integral; Integrai definidos;</p>
+<p>EQ0058: Álgebra vetorial.</p>
+
+## Programa
+<p>1. COORDENADAS POLARES. CURVAS PARAMÉTRICAS NO PLANO Coordenadas polares no plano. Área em coordenadas polares. Curvas paramétricas no plano. Funções definidas por equações paramétricas: sua derivação e integração. 2. CURVAS E SUPERFÍCIES NO ESPAÇO. FUNÇÕES VETORIAIS Superfícies no espaço a três dimensões. Coordenadas cilíndricas e esféricas no espaço a três dimensões. Representação analítica de curvas no espaço a três dimensões. Funções (com valores) vetoriais: sua derivação e integração. 3. INTRODUÇÃO ÀS FUNÇÕES DE VÁRIAS VARIÁVEIS Funções de duas variáveis. Funções de três variáveis. 4. FUNÇÕES DE VÁRIAS VARIÁVEIS: DERIVADAS PARCIAIS Derivadas parciais. Diferencial de funções de duas ou mais variáveis. Derivação de funções compostas de duas ou mais variáveis. Funções implícitas e a sua derivação. Máximos e mínimos de funções de duas ou mais variáveis. Derivada direcional e gradiente. Máximos e/ou mínimos com restrições: método dos multiplicadores de Lagrange. 5. FUNÇÕES DE VÁRIAS VARIÁVEIS: INTEGRAIS MÚLTIPLOS Integrais duplos em domínios rectangulares de RxR. Integrais duplos em domínios limitados arbitrários de RxR. Aplicações de integrais duplos. Integrais duplos em coordenadas polares. Superfícies paramétricas e área superficial. Integrais triplos em domínios limitados arbitrários do espaço tridimensional. Aplicações de integrais triplos. Integrais triplos em coordenadas cilíndricas e esféricas. Integrais múltiplos impróprios. 6. TÓPICOS DE ANÁLISE VETORIAL Integrais de linha: sua definição e avaliação. Integrais de linha e campos vetoriais. Campos conservativos. Teorema de Green no plano. Integrais de superfície: sua definição e avaliação. Integrais de superfície e campos vetoriais. Fluxo de um campo vetorial. Teoremas de Gauss e de Stokes.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teóricas-práticas de exposição da matéria teórica, com resolução de exemplos. Aulas práticas dedicadas principalmente à resolução de problemas de aplicação da matéria dada nas aulas teórico-práticas.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Teste: 50.0 %
+- Exame: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação da unidade curricular consistirá na realização de dois testes ou de um exame final:<br /><br /></p>
+<p>Teste 1 - A realizar em abril (data a ser anunciada atempadamente).</p>
+<p>Teste 2 - Teste sobre os conteúdos não abrangidos pelo Teste 1, a realizar pelos estudantes que obtiveram classificação igual ou superior a 8 valores no Teste 1. O Teste 2 terá lugar na mesma data do exame da época normal.</p>
+<p>A classificação final (CF) será calculada por:</p>
+<p>CF = (NT1 + NT2)/2,</p>
+<p>em que NT1 e NT2 representam as classificações dos Testes 1 e 2, respetivamente (escala 0-20 valores). NT1 e NT2 têm nota mínima de 8 valores.</p>
+<p>Caso a classificação obtida no Teste 1 seja inferior a 8 valores (ou não seja realizado o Teste 1), em vez do Teste 2 será realizado o exame da época normal, que englobará toda a matéria lecionada. Neste caso, a classificação final será igual à nota do exame (EX): CF=EX.<br /><br />Aos estudantes com classificação obtida no Teste 1 superior a 8 valores, é dada a opção de realizar o exame normal em vez do Teste 2, englobando todos os conteúdos lecionados na unidade curricular. Neste caso, a classificação final será igual à nota do exame (EX): CF=EX.<br /><br />A aprovação em época normal se obtém sempre que CF&gt;=9,50. Se CF&lt;9,50, então o/a estudante terá de fazer o exame de recurso.<br /><br /><strong>O exame na época de recurso engloba todos os conteúdos lecionados nesta unidade curricular.</strong></p>
+
+## Obtenção de frequência
+Não será preciso obter frequência para poder fazer qualquer um dos exames.
+
+## Melhoria de classificação
+<p>Mediante exame nas épocas apropriadas. (Para efeito de melhoria de classificação, as notas obtidas nos minitestes não serão consideradas no cálculo da classificação final).</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Calculus II
+
+## Curso responsável
+Bachelor in Chemical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>1. BACKGROUND Analytic Geometry and the extension of basic concepts of Calculus to functions of several variables (partial differentiation and multiple integrals) are everyday tools in engineering calculations. Topics in Vector Analysis allows the student to understand essential theorems (Green, Divergence and Stokes) which provide the basis for understanding important principles in engineering.</p>
+<p>2. SPECIFIC AIMS - Get acquainted to different coordinate systems; - Learn about the representation of curves and surfaces in the 3D space; - Know how to calculate partial derivatives for functions of several variables (either composite or implicit); - To locate extreme values of functions (unconstrained and constrained); - Perform double and triple integrals evaluation (in rectangular, cylindrical and spherical coordinates systems) and understand its pratical applications; - Learn avout Vector Analysis, how to calculate Line and Surface Integrals and understand its pratical applications.</p>
+<p>3. PERCENT DISTRIBUTION Scientific Component (stablishes and develops scientific basis): 80% Technological Component (apply to design and process operation): 20%</p>
+
+## Resultados de aprendizagem e competências
+<p><br />After this couse, the student is able to:</p>
+<p>- Use polar, cylindrical and sperical coordinate systems;</p>
+<p>- Represent curves (as well as their projection over coordinate plans) and surfaces in the 3D space;</p>
+<p>- Calculate partial derivatives for functions of several variables (either composite or implicit);</p>
+<p>- Locate extreme values of functions (unconstrained and constrained);</p>
+<p>- Calculate double and triple integrals (in rectangular, cylindrical and spherical coordinates) and understand its pratical applications (calculation of area, volume, centroid);</p>
+<p>- Understand Vector Analysis, calculate line and surface integrals and understand its pratical applications (calculation of work done by a force and the flux of a vector field).</p>
+
+## Pré-requisitos e co-requisitos
+<p>EQ0059: Differential and Integral Calculus; - Definite Integrals;</p>
+<p>EQ0058: Vector Algebra.</p>
+<p> </p>
+
+## Programa
+<p>1. POLAR COODINATES. PARAMETRIC CURVES ON THE PLANE Polar coordinates on the plane; area in polar coordinate; parametric curves on the plane; functions defined by parametric equations: its derivation and integration 2. CURVES AND SURFACES IN SPACE. VECTOR FUNCTIONS Curves in three-dimensional surfaces; Cylindrical and spherical coordinates in three-dimensional space; Analytical representation of curves in three-dimensional space; Vector functions: derivation and integration 3. INTRODUCTION TO MULTIVARIABLE FUNCTIONS Function of two variables; Function of three variables 4. MULTIVARIABLE FUNCTIONS: PARTIAL DERIVATIVES Partial derivatives; Differentiation of functions of two or three variables; Implicit functions and their derivative; Functions of two or more variables: minimum and maximum; Directional derivative and gradient; Maximum and/or minimum with restrictions: Lagrange multiplier method 5. MULTIVARIABLE FUNCTIONS: MULTIPLE INTEGRALS Double integrals in rectangular domains (RxR); Double integrals in limited arbitrary domains (RxR); Application of double integrals; Double integrals in polar coordinates; Parametric surfaces and superficial area; Triple integrals in limited arbitrary domains of three-dimensional space; Application of triple integrals; Triple integrals in cylindrical and spherical coordinates; Improper multiple integrals 6. TOPICS IN VECTOR ANALYSIS Line integrals: definition and evaluation; Line integrals in vector fields; Conservative fields; Green&#8217;s theorem; Surface integrals: definition and evaluation; Surface integrals and vector fields; Vector field flow; Gauss&#8217; and Stokes&#8217; theorems</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>General theoretical-practical classes will be based on the presentation of theoretical themes, along with examples resolution. Theoretical-practical classes will be based on problem solving and application of the themes taught in general theoretical-practical classes.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Teste: 50.0 %
+- Exame: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The assessment of the subject will consist of two tests or a final exam:<br /><br /><br />Test 1 - To be carried out in April (date to be announced in due time).<br /><br />Test 2 - Test on content not covered by Test 1, to be taken by students who obtained a grade equal to or higher than 8 in Test 1. Test 2 will take place on the same date as the regular exam.<br /><br />The final classification (CF) will be calculated by:<br /><br />CF = (NT1 + NT2)/2,<br /><br />where NT1 and NT2 represent the classifications of Tests 1 and 2, respectively (scale 0-20 values). NT1 and NT2 have a minimum grade of 8 points.<br /><br />If the grade obtained in Test 1 is less than 8 points (or Test 1 is not taken), the regular exam will be taken instead of Test 2, which will cover all the material taught. In this case, the final grade will be equal to the exam grade (EX): CF=EX.<br /><br />Students with a score higher than 8 points in Test 1 are given the option of taking the normal exam instead of Test 2, covering all the content taught in the course unit. In this case, the final grade will be equal to the exam grade (EX): CF=EX.<br /><br />Approval in normal times is obtained whenever CF&gt;=9.50. If CF&lt;9.50, then the student will have to take the resit exam.<br /><br /><strong>The exam at the resit period covers all the content taught in this subject.</strong><br /><br /><br /></p>
+
+## Obtenção de frequência
+No need to take attendance in order to take any of the exams.
+
+## Melhoria de classificação
+<div class=&quot;lRu31&quot; dir=&quot;ltr&quot;><span class=&quot;HwtZe&quot; lang=&quot;en&quot;><span class=&quot;jCAhz ChMk0b&quot;><span class=&quot;ryNqvb&quot;>By means of examination at the appropriate times.</span></span> <span class=&quot;jCAhz ChMk0b&quot;><span class=&quot;ryNqvb&quot;>(For the purpose of improving the grade, the grades obtained in the tests will not be considered in calculating the final grade).</span></span></span><br /><div class=&quot;OvtS8d&quot;> </div><br /></div>
+

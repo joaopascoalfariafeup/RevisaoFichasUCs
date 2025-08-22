@@ -1,0 +1,128 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Eletromagnetismo
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+São objetivos desta unidade curricular que os estudantes:<br /><br />- adquiram conhecimentos fundamentais de eletromagnetismo, ciência base e estruturante da engenharia eletrotécnica;<br />- desenvolvam o raciocínio e adquiram competências na resolução autónoma e crítica de problemas;<br />- adquiram uma disciplina de trabalho continuado ao longo do semestre;<br />- tenham uma atitude respeitadora de valores éticos, tais como o respeito mútuo e a honestidade.<br />Em concreto, que adquiram as seguintes competências:<br />-Conhecer os fundamentos de fenómenos eletromagnéticos, incluindo como cargas produzem campos elétricos, e como<br />correntes são responsáveis por campos de indução magnética;<br />-Identificar grandezas fundamentais em Engenharia Eletrotécnica, designadamente Capacidade e Indutância com o fenómeno físico correspondente;<br />-Compreender propriedades e conceitos fundamentais da Eletrodinâmica, nomeadamente a lei de Faraday, corrente de<br />deslocamento, assim como a interdependência entre campo elétrico e campo magnético.<br />-Conhecimento sobre as propriedades magnéticas dos materiais magnéticos e análise quantitativa de circuitos magnéticos<br />eletroexcitados.
+
+## Resultados de aprendizagem e competências
+<p>No final desta unidade curricular, o estudante deve ser capaz de:</p>
+<p>- usar corretamente as leis que regem os fenómenos eletromagnéticos;</p>
+<p>- descrever o Eletromagnetismo como uma teoria unificadora dos vários fenómenos eletromagnéticos observados na Natureza e utilizados nas tecnologias;</p>
+<p>- usar vocabulário técnico apropriado para explicar os conceitos e os fenómenos eletromagnéticos;</p>
+<p>- descrever aplicações práticas de Eletromagnetismo, tais como, condensadores, resistências, bobinas, motores elétricos, geradores elétricos, transformadores elétricos e circuitos magnéticos;</p>
+<p>- ter uma atitude critica perante os resultados finais obtidos, recorrendo à análise dimensional (análise de unidades), a estimativas das ordens de grandeza esperadas, ao estudo da interdependência entre as grandezas envolvidas e ao estudo do comportamento da solução em casos-limite.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Admite-se que os estudantes têm:<br /><br />i) conhecimentos de mecânica newtoniana, isto é, que sabem enunciar as três leis de Newton e que são capazes de descrever as forças e os movimentos que produzem;</p>
+<p>ii) alguns conhecimentos elementares de estrutura atómica da matéria;</p>
+<p>iii) conhecimentos de circuitos elétricos, isto é, conhecem as leis de Ohm e de Kirchhoff e sabem como lidar com resistências, condensadores e bobinas;</p>
+<p>iv) alguns conhecimentos sobre vetores (por exemplo, que sabem somar vetores, escrever o raio vetor de posição de uma partícula no espaço tridimensional e calcular os produtos interno e externo de dois vetores) e cálculo elementar (isto é, que sabem derivar e integrar funções simples).</p>
+
+## Programa
+1) Lei de Coulomb: distribuições discretas e contínuas de carga elétrica.<br />2) Campo Elétrico; Lei de Gauss.<br />3) Potencial Eletrostático. As equações de Poisson e de Laplace. Energia eletrostática.<br />4) Eletrostática de Materiais Condutores: condutores em equilíbrio eletrostático.<br />5) Capacidade Elétrica e Condensadores.<br />6) Eletrostática de Materiais Dielétricos.<br />7) Corrente Elétrica: vetor densidade de corrente. Lei de Ohm. Equação de continuidade<br />8) Campo Magnético: o campo magnético B; lei de Biot-Savart; lei de Ampère. Equação de Lorentz. Coeficientes de auto-indução<br />e indução mútua.<br />9) Materiais Magnéticos: o campo magnético H; tipos de magnetismo. Circuitos Magnéticos.<br />10) Indução Eletromagnética: lei da indução de Faraday; lei de Lenz. Energia magnética.<br />11) Corrente de deslocamento; as equações de Maxwell no vácuo e na matéria.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Nas aulas teóricas é apresentada a matéria a lecionar, discutem-se e resolvem-se vários problemas ilustrativos dessa mesma matéria. Sempre que for possível, estas aulas incluirão a demonstração de algumas atividades experimentais.<br /><br />Uma importante parte das aulas práticas consiste na resolução de problemas pelos estudantes. Sempre que for possível, estas aulas incluirão a realização de alguns trabalhos experimentais.<br /><br />As aulas TEORICAS (T) consistem na exposição da matéria a lecionar e na discussão e resolução pelo docente de exemplos de aplicação.<br /><br /> As aulas TEÓRICO-PRÁTICAS (TP) consistem na discussão e na resolução pelo docente e/ou pelos estudantes, sob supervisão do docente, de problemas propostos (retirados do &#8220;caderno de exercícios&#8221; da unidade curricular) ilustrativos dessa mesma matéria.<br /><br />Será também facultada a realização de um trabalho experimental que consiste em estudar o campo  magnético usando o magnetómetro 3D dum smartphone.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 116.5 horas
+- Frequência das aulas: 45.5 horas
+
+## Fórmula de cálculo da classificação final
+<p>&#9658; CF = min(0.4*T1 + 0.6*T2 + AF, 20)</p>
+<p>ou</p>
+<p>&#9658; CF = min(0.4*ER1 + 0.6*ER2 + AF, 20).<br /><br />onde:</p>
+<p>CF: classificação final.</p>
+<p>T1(T2): Classificação no 1º(2º) teste de avaliação distribuída.</p>
+<p>ER1(ER2): Classificação na parte 1(2) do exame da época de recurso, que<br />avaliam respetivamente a matéria avaliada em T1(T2).</p>
+<p>AF: Classificação na avaliação facultativa.<br /> <br /> - Teste T1 ou T2 &lt; 6,0 valores não é considerado no cálculo da classificação final.<br /> <br /> - Caso um estudante falte a um dos testes, a classificação atribuída a esse teste para o cálculo da classificação final é zero.</p>
+
+## Obtenção de frequência
+<p>&#9658; Assiduidade:<br /><br />- Para estudantes na 1ª inscrição:<br />Regime de faltas segundo o regulamento da UP<br /><br />- Para os restantes estudantes não há critério de assiduidade, isto é, não há marcação de faltas</p>
+
+## Melhoria de classificação
+A melhoria de classificação pode ser efetuada realizando o exame de recurso.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Electromagnetism
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+At the end of this curricular unit course, student should be able to:<br /><br />- correctly use the laws governing electromagnetic phenomena;<br />- describe electromagnetism as a unifying theory of various electromagnetic phenomena observed in nature and used in<br />technologies;<br />- use appropriate technical vocabulary;<br />- describe practical applications of Electromagnetism;<br />- have a critical attitude of the obtained final results.<br />Specifically, students should:<br />-Have insight of basic electromagnetic phenomena, including how charge create electric fields, and how currents are at the<br />origin of magnetic fields;<br />-Identify key quantities in Electrical Engineering, such as Capacity and Inductance with the corresponding physical meaning;<br />-Understand fundamental properties of electrodynamics, namely the physical nature Faraday&#8217;s law, the displacement current,<br />and the interdependence between electric and magnetic fields;<br />-Be familiar with magnetic properties of materials, and be able to undertake a quantitative analysis of electro excited magnetic<br />circuits.
+
+## Resultados de aprendizagem e competências
+<p style="margin-bottom: 0in;">At the end of this unit course, student should be able to:</p>
+<p style="margin-bottom: 0in;">- correctly use the laws governing electromagnetic phenomena;</p>
+<p style="margin-bottom: 0in;">- describe electromagnetism as a unifying theory of various electromagnetic phenomena observed in nature and used in technologies;</p>
+<p style="margin-bottom: 0in;">- use appropriate technical vocabulary;</p>
+<p style="margin-bottom: 0in;">- describe practical applications of Electromagnetism;</p>
+<p style="margin-bottom: 0in;">- have a critical attitude of the obtained final results.</p>
+
+## Pré-requisitos e co-requisitos
+<p><span id="result_box" lang="en"><span class="hps">It is assumed</span> <span class="hps">that students have:</span></span></p>
+<p><span id="result_box" lang="en"> <span class="hps">i</span>) <span class="hps">knowledge</span> <span class="hps">of</span> <span class="hps">Newtonian mechanics</span>, <span class="hps">that is,</span> <span class="hps">they know</span><span id="result_box" class="hps" lang="en"> the</span> <span class="hps">three laws</span> <span class="hps">of</span> <span class="hps">Newton</span> <span class="hps">and are</span> <span class="hps">able to describe</span> <span class="hps">the forces and</span> <span class="hps">movements</span> <span class="hps">they produce</span> </span></p>
+<p><span id="result_box" lang="en"><span class="hps">ii</span>) <span class="hps">some</span> <span class="hps">basic knowledge</span> <span class="hps">of</span> the <span class="hps">atomic structure of matter</span>; </span></p>
+<p><span id="result_box" lang="en"><span class="hps">iii</span>) <span class="hps">knowledge</span> <span class="hps">of</span> <span class="hps">electrical circuits</span>, <span class="hps">i.e.,</span> to <span class="hps">know the laws</span> <span class="hps">of</span> <span class="hps">Ohm</span> <span class="hps">and</span> <span class="hps">Kirchhoff</span> <span class="hps">and know how to</span> <span class="hps">deal with</span> <span class="hps">resistors</span>, <span class="hps">capacitors and inductors.</span></span></p>
+<p><span id="result_box" lang="en">iv) <span class="hps">some knowledge</span> <span class="hps">about vectors</span> <span class="hps atn">(</span>for example, <span class="hps">add</span> <span class="hps">vectors</span>, <span class="hps">write the</span> <span id="result_box" lang="en"> <span class="hps">position</span>-</span><span class="hps">vector </span><span id="result_box" class="hps" lang="en">of a particle in</span> <span class="hps">three-dimensional space</span> <span class="hps">and</span> <span class="hps">compute the</span> <span class="hps">inner and outer</span> <span class="hps">product</span> <span class="hps">of two vectors</span>) <span class="hps">and</span> <span class="hps">elementary calculus</span> <span class="hps">(<span id="result_box" lang="en"><span class="hps">i.e.</span></span></span>,<span class="hps"> to derive</span> <span class="hps">and integrate</span> <span class="hps">simple functions</span>).</span></p>
+
+## Programa
+1) Coulomb's Law : discrete and continuous distributions of electric charge.<br />2 ) Electric Field. Gauss's Law.<br />3) Electrostatic Potential: The equations of Laplace and Poisson. Electrostatic energy.<br />4) Electrostatic of Conducting Materials : conductors in electrostatic equilibrium.<br />5) Capacity and Electric Capacitors.<br />6) Electrostatic of Dielectric Materials<br />7) Electric Current: current density vector. Ohm's law . Continuity equation.<br />8) Magnetic field : magnetic force between stationary electric currents ,magnetic field B , Biot - Savart law , Ampere's law.<br />Lorentz equation. Self-induction and mutual induction coefficients.<br />9) Magnetic Materials: the magnetic dipole; types of magnetism. Magnetic circuits.<br />10) Electromagnetic Induction : Faraday's law of induction , Lenz's law. Magnetic energy.<br />11) The displacement current , the induced magnetic field; Maxwell's equations in vacuum and in the presence of matter.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical lectures are dedicated to the presentation of the main subjects, including a significant number of practical examples. Experimental demonstrations are conducted whenever possible.<br /><br />Practical lectures include exercise solving under the supervision of the teacher and eventually two or three lab works.<br /><br />Theoretical lectures (TEORICAS): complete discussion of the subjects and exercise solving of main basis cases.<br /><br />Exercise classes (TEÓRICO-PRÁTICAS): exercise solving under the supervision of the teacher of several exercises.</p>
+<p>Optionally an experimental activity can be performed, which consists of measuring the magnetic field, using the 3D magnetometer of a smartphone.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 116.5 hours
+- Frequência das aulas: 45.5 hours
+
+## Fórmula de cálculo da classificação final
+&#9658; CF = min(0.4*T1 + 0.6*T2 + AF, 20)<br /><br />or<br /><br />&#9658; CF = min(0.4*ER1 + 0.6*ER2 + AF, 20).<br /><br />where:<br /><br />CF: final classification<br /><br />T1(T2): Classification in the 1st(2nd) distributed assessment test.<br /><br />ER1(ER2): Classification in part 1(2) of the exam in the &quot;recurso&quot; period, which respectively assess the subject matter assessed in T1(T2).<br /><br />AF: Grade in the facultative assessment<br /><br />- Test T1 or T2 &lt; 6.0 is not taken into account when calculating the final grade.<br /><br />- If a student misses one of the tests, the grade assigned to that test when calculating the final grade is zero.
+
+## Obtenção de frequência
+<p>&#9658; Attendance:<br /><br />- For students enrolling for the first time:<br />Absence regime according to UP regulations<br /><br />- For all other students, there is no attendance criterion, i.e. no marking of absences.</p>
+
+## Melhoria de classificação
+Classification can be improved by taking the &quot;recurso&quot; exam.
+

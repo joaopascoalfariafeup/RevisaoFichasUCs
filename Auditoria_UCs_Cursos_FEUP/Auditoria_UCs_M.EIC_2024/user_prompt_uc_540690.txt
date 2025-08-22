@@ -1,0 +1,102 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Gestão de Redes e Sistemas
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+A comoditização das redes, serviços, e sistemas e o aumento do seu tamanho e complexidade mesmo em organizações de pequena a média dimensão, e a necessidade de adaptação rápida a mudanças da organização, a novas versões de software, a falhas, ou a ataques, torna impraticável a sua gestão e operação manual e aproxima a gestão e operação de redes e serviços do modelo devops seguido no desenvolvimento de software para a cloud numa lógica de infraestrutura programável. O objetivo desta UC é dar a conhecer ao estudante 1) os conceitos fundamentais da gestão e operação da rede, serviços, e sistemas de uma organização pequena a média, bem como 2) as técnicas de programação para a automatização da gestão e operação dessas redes, serviços, e sistemas.
+
+## Resultados de aprendizagem e competências
+No final desta unidade curricular, o estudante deverá:<br />1) conseguir explicar e discutir mecanismos de gestão, controlo, e operação de redes incluindo alocação de recursos em redes e monitorização;<br />2) compreender os conceitos fundamentais das operações de rede, serviços e sistemas de uma organização pequena a média;<br />3) conseguir aplicar técnicas de programação para automatizar a gestão e operação de rede, serviços, e sistemas;<br />4) conseguir explicar e discutir os conceitos fundamentais de virtualização de funções de rede (NFV) e de rede definida por software (SDN).
+
+## Pré-requisitos e co-requisitos
+Programação, redes de computadores, protocolos de comunicação.
+
+## Programa
+1. Fundamentos de gestão e controlo de redes incluindo monitorização, FCAPS, qualidade de serviço e de experiência, planeamento de capacidade da rede, e engenharia de tráfego.<br />2. Fundamentos de redes empresariais, incluindo endereçamento, controlo de acesso, roteamento interno e externo, resolução de nomes de domínios, proxies, balanceamento de carga, e virtualização de serviços.<br />3. Tópicos de programação e automatização da gestão e operação de redes (netdevops), incluindo configuração de dispositivos via API, extração de informação de dispositivos, utilização de templates, repositórios de código fonte, integração contínua, e gestão de chaves dos dispositivos.<br />4. Tópicos de softwarização da rede incidindo sobre as redes definidas por software (SDN) e a virtualização de funções de rede (NFV); dispositivos, protocolos, e aplicações SDN; conceitos, arquitetura, serviços virtuais e encadeamento de serviços NFV; relação entre SDN, NFV, e netdevops.
+
+## Métodos de ensino e atividades de aprendizagem
+1) Exploração dos conceitos fundamentais de gestão de redes, serviços, e sistemas através de a) exposição em sala de aula, b) pesquisa autónoma de artigos científicos, casos de estudo, e informação disponível na Internet, c) técnica de flipped classroom (sala de aula invertida) com auto-aprendizagem dos conteúdos disponibilizados previamente e discussão dos conceitos em sala de aula. <br />2) Trabalhos práticos no laboratório para explorar técnicas de programação para a gestão e operação de partes da rede e de serviços selecionados. <br />3) Projeto de caracterização da eficiência das técnicas de programação desenvolvidas, com escolha e definição pelo estudante de uma falha, atualização de software dos serviços, ataque, ou outra razão técnica para necessidade de alteração da configuração da rede e serviços.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Teste: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 52.0 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho laboratorial: 71.0 horas
+
+## Fórmula de cálculo da classificação final
+CF = 0,5*T + 0,5*P; se ( T &lt; 10,0 ou P &lt; 10,0 ) então CF =MIN(CF, 9.0)<br />T - teste<br />P - projeto
+
+## Obtenção de frequência
+Desenvolver o projeto (trabalho laboratorial) e submeter o seu relatório.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Networks and Systems Management
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+The commoditization of computer networks and services and the increase of their size and complexity even in small to medium sized organizations, and the need for quickly adapting to changes in the organization, to new software versions, to failures, and to attacks makes it impractical to manually manage and operate these networks and brings network management and operation closer to the devops model used in the development of software for the cloud under the logic of programmable infrastructure. The goal of this curricular unit is to familiarize the student with 1) the fundamental concepts of network, service, and system management and operations in a small to medium-sized organization, as well as with 2) the techniques for programming automated management and operations of these networks, services, and systems.
+
+## Resultados de aprendizagem e competências
+After completing this curricular unit, the student should:<br />1) be able to explain and discuss network management, control, and operation mechanisms including network resource allocation and monitoring;<br />2) understand the fundamental concepts of network, service, and system operations of a small to medium-sized organization<br />3) be able to apply programming techniques to automate the network, service, and system management and operations;<br />4) be able to explain and discuss the fundamental concepts of network function virtualization (NFV) and software defined networking (SDN).
+
+## Pré-requisitos e co-requisitos
+Programming, computer networking, communication protocols.
+
+## Programa
+1. Fundamentals of network management and control including monitoring, FCAPS, quality of service and experience, network capacity planning, and traffic engineering.<br />2. Fundamentals of enterprise networks, including addressing, access control, internal and external routing, domain name resolution, proxies, load balancing, and service virtualization.<br />3. Topics in programming and automation of network management and operation (netdevops), including network device configuration via API, extracting information from network devices, using templates, source code repositories, continuous integration, and device key management.<br />4. Topics in network softwarization focusing on software defined networks (SDN) and network function virtualization (NFV); SDN devices, protocols, and applications; NFV concepts, architecture, virtual services, and service chaining; relation between SDN, NFV, and netdevops.
+
+## Métodos de ensino e atividades de aprendizagem
+1) Exploration of the fundamental concepts in network, service, and system management through a) lectures, b) autonomous search for scientific papers, use case reports, and other information available online, c) flipped classroom technique with self-learning of previously identified content and with later discussion of these concepts in the classroom.<br />2) Practical assignments in the laboratory to explore programming techniques for management and operation of specific parts of the network and specific services.<br />3) Project whose goal is to characterise the efficiency of the programming techniques developed previously, with students choosing a failure, software update, attack, or any other technical reason that requires one to change the configuration of the network or services.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Teste: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 52.0 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho laboratorial: 71.0 hours
+
+## Fórmula de cálculo da classificação final
+CF = 0,5*T + 0,5*P; if ( T &lt; 10,0 or P &lt; 10,0 ) then CF =MIN(CF, 9.0)<br />T - test<br />P - project
+
+## Obtenção de frequência
+Develop the project (lab work) and submit a report for it.
+

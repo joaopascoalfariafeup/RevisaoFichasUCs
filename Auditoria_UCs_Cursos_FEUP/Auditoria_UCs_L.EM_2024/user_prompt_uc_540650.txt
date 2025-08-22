@@ -1,0 +1,110 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Mecânica I
+
+## Curso responsável
+Licenciatura em Engenharia Mecânica
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p style="text-align: justify;">JUSTIFICAÇÃO - A unidade curricular Mecânica I constitui o primeiro marco na formação específica do engenheiro mecânico com a introdução dos conceitos fundamentais que definem o equilíbrio das estruturas de engenharia e que estão na base do seu dimensionamento. Trata-se de uma disciplina da área da Física dedicada ao estudo da Estática e da Geometria das Massas.<br /><br />OBJETIVOS - A unidade curricular tem por objetivos instruir e desenvolver a capacidade para resolver problemas da mecânica dos sistemas de pontos materiais e dos corpos rígidos em repouso (estática), através da introdução dos conceitos teóricos e das metodologias práticas para as aplicações correntes da Engenharia. A identificação das principais ações sobre um corpo ou estrutura, forças e/ou momentos, a análise da cinemática das ligações desta ao exterior e a construção de um modelo de cálculo, diagrama de corpo livre, constituem os principais objetivos da componente dedicada ao estudo da estática. Da mesma forma deverão adquirir conhecimentos para estudar a distribuição de massa de um corpo para obter o centro de gravidade e a matriz de inércia de áreas e volumes.<br /><br />OBJETIVOS ESPECIFICOS - Na estática deverão ser capazes de identificar todas as ações e ligações externas numa estrutura, obter o diagrama de corpo livre desta e utilizar o cálculo vetorial para determinar as reações de apoio. Deverão ainda ser capazes de analisar as cargas internas em estruturas articuladas e identificar suas forças de ligação. Nesta UC o aluno deverá adquirir também uma boa formação no estudo do atrito estático a seco (Coulomb) e na sua contribuição para o equilibrio das estruturas. Na componente de Geometria de Massas o aluno deverá aprender a cálcular a posição do centro de gravidade e matriz de inércia de áreas e volumes.</p>
+
+## Resultados de aprendizagem e competências
+<p style="text-align: justify;">Os alunos deverão aprender os principais conceitos da estática, resolvendo problemas de equilíbrio de corpos com identificação das ações sobre eles e cálculo das forças de ligação ao exterior (reações). Deverão identificar corretamente os vários tipos de ações sobre as estruturas, forças por contacto, forças à distância atuando sobre a massa e os respetivos momentos e binários.<br />Aprender a caracterizar as forças de atrito seco de Coulomb geradas por contacto entre superfícies e os seus efeitos, através de algumas aplicações práticas.<br />Deverão também aprender a determinar o centro de massa de corpos e caracterizar a sua distribuição de massa através da obtenção da matriz de inércia.<br /><br />Espera-se que os alunos no final do período letivo:<br />- Consigam identificar todas as ações, forças e momentos, sobre uma dada estrutura e desenhar o respetivo diagrama de corpo livre;<br />- Saibam aplicar o cálculo vetorial ao estudo da estática 3D e dominem os conceitos de equilíbrio estático de sistemas de corpos;<br />- No que respeita à análise de estruturas os alunos deverão identificar corretamente as forças nas ligações e determiná-las, com e sem a presença de atrito seco;<br />-Os alunos deverão ainda aprender a caracterizar áreas e volumes determinando o seu centroide, centro de massa, momentos e produtos de inércia e obter a respetiva matriz de inércia.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Os alunos devem ter conhecimentos de álgebra vetorial e cálculo integral<br /><br />L.EM004 Álgebra Vetorial; Matrizes; Determinantes; Sistemas de Equações Lineares; Espaços Lineares, Transformações e Matrizes; Autovalores e autovetores.<br />L.EM005 Funções e gráficos. O conceito de limite, o conceito de continuidade num ponto e a derivada de uma função.<br />L.EM010 Avaliação de integrais duplas sobre regiões gerais em R2 usando coordenadas retangulares e polares. Cálculo de integrais triplas sobre regiões de R3 usando coordenadas retangulares, cilíndricas e esféricas.</p>
+<p> </p>
+
+## Programa
+<p style="text-align: justify;">ESTÁTICA: Teoria dos vetores deslizantes. Conceitos de força, momento, binário e resultante. Princípios gerais de equilíbrio estático em sistemas bi e tridimensionais. Definição de sistema e sua representação através do diagrama de corpo livre. Cálculo de reações. Sistemas articulados, cálculo de esforços internos. Traçado de diagramas de esforços em vigas. Noções elementares sobre o atrito seco e cálculo das forças geradas.<br /> <br /> GEOMETRIA das MASSAS: Determinação de centroides e centros de massa. Teoremas de Pappus. Momentos de inércia de linhas, áreas e sólidos. Produtos de inércia. Teorema de Steiner: momentos e produtos de inércia em eixos paralelos. Rotação de eixos. Matriz de inércia. Momentos e direções principais de inércia. A inércia segundo um eixo conhecida a matriz e o elipsoide de inércia.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p style="text-align: justify;">Duas aula teórico-práticas (TP) de 2:00h por  semana (em anfiteatro), para todos os alunos +  aulas práticas de 2:00h (em sala de 30 lugares) em semanas alternadas (15 em 15 dias) para resolução de problemas propostos e discussão de dúvidas levantadas pelos alunos. <br /><br />Todos os alunos em primeira inscrição devem também frequentar uma sessão laboratorial em bancada em que realizam trabalhos experimentais em grupos de até 7 alunos sobre as principais matérias lecionadas na UC (duração prevista de uma 1:00h). No final da sessão deverão entregar relatório escrito do trabalho realizado.<br /><br />Em todas as aulas serão controladas as presenças.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 95.0 %
+- Trabalho laboratorial: 5.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 104.0 horas
+- Frequência das aulas: 56.0 horas
+- Trabalho laboratorial: 2.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Classificações a atribuir: T1- 1º teste; T2 - 2º teste; EF - exame final; TP - trabalho prático laboratorial<br /><br />A aprovação na UC implica que:<br /><br />Se T1&gt;=8,0 e T2&gt;=8,0<br />Classificação final = 0,95*(0,5*(T1+T2))+0,05*TP&gt;=10<br /><br />Se T1&lt;8,0<br />Classificação final = 0,95*EF+0,05*TP&gt;=10<br /><br />O exame final coincide com a época de recurso para os alunos não aprovados em avaliação continua. <br /><br />No caso do exame de recurso para melhoria de nota será considerada a maior das duas classificações obtidas.</p>
+
+## Obtenção de frequência
+<em>A avaliação distribuida é realizada em dois testes, englobando cada um deles cerca metade dos assuntos incluidos no programa e exigindo nota mínima de 8.0 valores em cada teste. Os testes constituídos por 2 problemas que são realizados no período de 2:00h.</em><br /><br /><em>A avaliação por exame final para quem não obteve nota mínima no 1º teste, quem não conseguiu media de 1O valores nos dois testes e para aqueles que faltaram. O exame versa sobre toda a matéria é constituído por 3 problemas e decorre durante 2:30h.</em><br /><br /><em>A aprovação nesta disciplina exige a obtenção de uma nota final superior ou igual a 10 valores em 20.</em><br /><br /><em>Classificações superiores a 17 valores em 20 exigêm ratificação em prova oral.</em>
+
+## Melhoria de classificação
+<p>As referidas nas NORMAS GERAIS DE AVALIAÇÃO em vigor.</p>
+<p> </p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Mechanics I
+
+## Curso responsável
+Bachelor in Mechanical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<div style=&quot;text-align: justify;&quot;><br />JUSTIFICATION - The Mechanics I discipline constitutes the first milestone in the specific training of mechanical engineers with the introduction of fundamental concepts that define the balance of engineering structures and that are the basis of their design. This is a discipline in the area of &#8203;&#8203;Physics dedicated to the study of Statics and Geometry of Masses.<br /><br /><br /></div><br /><div style=&quot;text-align: justify;&quot;>OBJECTIVES - The objectives of the curricular unit are to instruct and develop the ability to solve problems in the mechanics of systems of material points and rigid bodies at rest (statics), through the introduction of theoretical concepts and practical methodologies for current Engineering applications. The identification of the main actions on a body or structure, forces and/or moments, the analysis of the kinematics of its connections to the outside and the construction of a calculation model, free body diagram, constitute the main objectives of the component dedicated to the study of statics. Likewise, they must acquire knowledge to study the mass distribution of a body to obtain the center of gravity and the inertia matrix of areas and volumes.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot;>SPECIFIC OBJECTIVES - In statics they should be able to identify all external actions and connections in a structure, obtain its free body diagram and use vector calculation to determine the support reactions. They must also be able to analyze the internal loads in articulated structures and identify their connection forces. In this UC, the student should also acquire good training in the study of dry static friction (Coulomb) and its contribution to the balance of structures. In the Mass Geometry component, the student must learn how to calculate the position of the center of gravity and inertia matrix of areas and volumes.</div>
+
+## Resultados de aprendizagem e competências
+<p style="text-align: justify;">Students must learn the main concepts of statics, solving problems involving the balance of bodies, identifying the actions on them and calculating the forces connecting them to the outside (reactions). They must correctly identify the different types of actions on structures, contact forces, distance forces acting on the mass and the respective moments and torques.<br />Learn to characterize the Coulomb dry friction forces generated by contact between surfaces and their effects, through some practical applications.<br /><br />They should also learn to determine the center of mass of bodies and characterize their mass distribution by obtaining the inertia matrix.<br /><br />At the end of the academic period, students are expected to:<br />- Be able to identify all actions, forces and moments on a given structure and draw the respective free body diagram;<br />- Know how to apply vector calculation to the study of 3D statics and master the concepts of static balance of systems of bodies;<br />- Regarding the analysis of structures, students must correctly identify the forces in the connections and determine them, with and without the presence of dry friction;<br />-Students should also learn to characterize areas and volumes by determining their centroid, center of mass, moments and products of inertia and obtain the respective inertia matrix.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Students must have knowledge of vector algebra and integral calculus<br /><br />L.EM004 Vector Algebra; Matrices; Determinants; Systems of Linear Equations; Linear Spaces, Transformations and Matrices; Eigenvalues and eigenvectors.<br />L.EM005 Functions and graphics. The concept of limit, the concept of continuity at a point and the derivative of a function.<br />L.EM010 Evaluation of double integrals over general regions in R2 using rectangular and polar coordinates. Calculation of triple integrals over regions of R3 using rectangular, cylindrical and spherical coordinates.<br /><br /><br /></p>
+
+## Programa
+<p style="text-align: justify;">STATICS - Introduction to vector mechanics applied to statics and presentation of the concepts of Force, Moment, couple and resultant of a force system. Static equilibrium in two and three dimensional systems. System Definition and its free body diagram. Introduction to structural mechanics: method of joints and method of sections in a simple truss. Introduction to the study of simple contact Friction (Coulomb).<br /> <br />GEOMETRY OF MASSES - Properties of surfaces and bodies. First moment of area and centroid. Theorems of Pappus-Guldinus. Second order moment of areas and solids and product of inertia. Transfer theorem (Steiner). Rotation of axes and relations between second moment and product second moment of area. Principal axes and matrix of inertia.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p style="text-align: justify;">Two theoretical-practical classes (TP) of 2:00 hours per week (in an amphitheater), for all students + practical classes of 2:00 hours (in a room with 30 seats) every other week (15 in 15 days) for problem solving proposals and discussion of doubts raised by students.<br /><br />All first-time students must also attend a bench laboratory session in which they carry out experimental work in groups of up to 7 students on the main subjects taught at the UC (expected duration of 1 hour). At the end of the session, they must submit a written report of the work carried out.<br /><br />Attendance will be monitored in all classes.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 95.0 %
+- Trabalho laboratorial: 5.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 104.0 hours
+- Frequência das aulas: 56.0 hours
+- Trabalho laboratorial: 2.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Classifications to be assigned: T1- 1st test; T2 - 2nd test; EF - final exam; TP - practical laboratory work<br /><br />Approval in the UC implies that:<br /><br />If T1&gt;=8.0 and T2&gt;=8.0<br />Final grade = 0.95*(0.5*(T1+T2))+0.05*TP&gt;=10<br /><br />If T1&lt;8.0<br />Final grade = 0.95*EF+0.05*TP&gt;=10<br /><br />The final exam coincides with the appeal period for students who did not pass continuous assessment.<br /><br />In the case of the appeal exam to improve grades, the higher of the two grades obtained will be considered.</p>
+
+## Obtenção de frequência
+<div style=&quot;text-align: justify;&quot;>The distributed assessment is carried out in two tests, each covering approximately half of the subjects included in the program and requiring a minimum score of 8.0 in each test. The tests consist of 2 problems that are carried out within 2:00 hours.<br /><br />Assessment by final exam for those who did not obtain a minimum grade in the 1st test, those who did not achieve an average of 10 in both tests and for those who were absent. The exam covers the entire subject and consists of 3 problems and takes place over 2:30 hours.<br /><br />Passing this subject requires obtaining a final grade greater than or equal to 10 out of 20.<br /><br />Classifications greater than 17 points out of 20 require ratification in an oral test.</div>
+
+## Melhoria de classificação
+<p> According to the FEUP regulations.</p>
+

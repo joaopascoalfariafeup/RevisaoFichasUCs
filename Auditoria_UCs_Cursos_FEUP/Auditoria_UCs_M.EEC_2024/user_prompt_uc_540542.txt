@@ -1,0 +1,114 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Supervisão, Controlo e Redes Inteligentes
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+1. Compreender e conhecer a constituição e o funcionamento dos sistemas de supervisão e controlo dos sistemas elétricos de energia e conhecer as suas funcionalidades principais ao nível do SCADA, EMS e DMS.<br />2. Compreender os princípios da estimação de estado (modelo DC e AC), resolvendo problemas concretos.<br />3. Compreender o problema do Despacho Ótimo Económico, resolvendo problemas concretos.<br />4. Conhecer o princípio de funcionamento dos principais dispositivos FACTS, sua utilização e modelização.<br />5. Caracterizar o racional da mudança de paradigma em curso no setor elétrico e a sua influência nos mecanismos de supervisão, operação e controlo.<br />6. Dominar o conceito de micro-rede e de multi-micro-rede e seus modos de funcionamento enquanto elementos seminais no âmbito do desenvolvimento das redes elétricas inteligentes.<br />7. Dominar a modelização em regime dinâmico de sistemas de produção de energia em microrredes e multi-microrredes e respetivas estratégias de controlo.
+
+## Resultados de aprendizagem e competências
+<p><span style="font-size: 8.5pt; font-family: 'Verdana',sans-serif; color: black;">Obter uma visão global sobre os problemas de monitorização, gestão e controlo das redes elétricas de transporte e distribuição, envolvendo conhecimentos sobre a arquitetura de sistemas SCADA e principais funcionalidades dos sistemas EMS e DMS.</span></p>
+<p style="font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;"><span style="font-size: 8.5pt; font-family: 'Verdana',sans-serif; color: black;">Ser capaz de compreender os principais problemas associados às funcionalidades residentes nos sistemas EMS e DMS e conhecer a formulação matemática adotada para resolver esses problemas.<br /> <br /> Compreender a mudança de paradigma associada à produção distribuída de eletricidade, relacionando-a com os impactos daí resultantes. </span></p>
+<p><span style="font-size: 8.5pt; font-family: 'Verdana',sans-serif; color: black;">Compreender o funcionamento de microgeradores, microrrredes e multi-microrredes no âmbito da mudança de paradigma associada à produção distribuída de eletricidade.</span></p>
+
+## Pré-requisitos e co-requisitos
+<p>Pré-requisitos: Álgebra, Métodos Numéricos, Programação, Circuitos, Sistemas Elétricos de Energia<br /><br />Co-requisitos: Regimes estacionários do SEE</p>
+
+## Programa
+<span style=&quot;text-align: justify;&quot;>1. Arquiteturas de centros de controlo com articulação entre SCADA, EMS, DMS.  Descrição das funcionalidades de um SCADA, EMS e DMS e sua articulação.</span><br style=&quot;text-align: justify;&quot; /><span style=&quot;text-align: justify;&quot;> 2. Estimação de Estado - formulação do problema (DC e AC) e métodos de resolução. Deteção de falsas medidas.</span><br style=&quot;text-align: justify;&quot; /><span style=&quot;text-align: justify;&quot;> 3. Introdução ao problema de despacho económico. Formulação e métodos de resolução. Breve introdução ao despacho hidro-térmico e à utilização de bombagem</span><span style=&quot;text-align: justify;&quot;> hidroelétrica.</span><br style=&quot;text-align: justify;&quot; /><span style=&quot;text-align: justify;&quot;> 4. Principais tipos de FACTS (SVC, STACOM). Modelização para análise de redes.</span><br style=&quot;text-align: justify;&quot; /><span style=&quot;text-align: justify;&quot;> 5. A mudança de paradigma no setor elétrico: integração de recursos distribuídos nas redes de distribuição, seus impactos e a necessidade de explorar mecanismos de gestão inteligente do consumo (telegestão/telecontagem da energia).</span><br style=&quot;text-align: justify;&quot; /><span style=&quot;text-align: justify;&quot;> 6. O conceito de microrrede, estratégias de operação e controlo e seus modos de operação. Extensão do conceito de microrrede: a multi-microrrede.</span><br style=&quot;text-align: justify;&quot; /><span style=&quot;text-align: justify;&quot;> 7. Modelos para operação em regime dinâmico de unidades de microgeração e estratégias de controlo das microrredes e multi-microrredes.</span>
+
+## Métodos de ensino e atividades de aprendizagem
+Aulas teóricas de exposição e aulas T/P para consolidação de conhecimentos teóricos, resolvendo problemas simples e utilizando programas de simulação computacional que permitirão aos alunos uma melhor compreensão dos problemas sob estudo. <br />As aulas T/P serão também utilizadas para apoiar os alunos no desenvolvimento dos trabalhos cujos relatórios serão objeto de avaliação.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 66.5 horas
+- Frequência das aulas: 45.5 horas
+- Trabalho escrito: 50.0 horas
+
+## Fórmula de cálculo da classificação final
+Fórmula de cálculo da classificação final: 0.6*Exame + 0.2*Trabalho1+0.2*Trabalho2.<br />Obtenção de classificação mínima de 50% em dois trabalhos de avaliação distribuída; <br />Obtenção de classificação mínima de 45% no exame.
+
+## Obtenção de frequência
+As componentes de avaliação são as seguintes: <br />- 2 trabalhos práticos e respetivos relatórios escritos; <br />- exame final.<br /> <br />Será obtida frequência se se verificarem simultaneamente as seguintes condições: <br />-Não exceder o número permitido de faltas; <br />-Obter no mínimo 50% na avaliação dos trabalhos.<br /> <br />Os trabalhos permitem avaliar as competências CDIO 1.2, 1.3, 1.4, 2.1, 2.3, 2.4, 3.1, 3.3, 4.1, 4.2 4.3, 4.4 e 4.6 O exame final permite avaliar as competências CDIO 1.2, 1.3, 1.4, 2.1, 2.3, 2.4
+
+## Melhoria de classificação
+<p>Só é admitida melhoria de classificação relativa à componente de avaliação referente ao exame final. <br /> <br /> A melhoria de classificação da avaliação distribuída exige nova frequência da unidade curricular e realização de dois trabalhos específicos.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Supervision, Control and Intelligent Power Systems
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+1. Understand and be aware of the constitution and operation of supervisory and control systems for electric power systems, as well as be aware of the main functionalities at the level of a SCADA, EMS and DMS.<br />2. Understand the principles of state estimation (DC and AC), solving concrete problems.<br />3. Understand the problem of the optimum economic dispatch, solving also concrete problems.<br />4. Understand the principles of operation of the main FACTS devices, their utilization and modeling.<br />5. Be able to characterize the change of paradigm in the electric power systems and its influence in the supervisory, control and operation strategies.<br />6. Master the microgrid and multi-microgrids concepts and the associated operation modes as seminal elements regarding the development of smart grids.<br />7. Understand the dynamic modelling of distributed generation and microsources within microgrids/multimicrogrid and the associated control strategies.
+
+## Resultados de aprendizagem e competências
+<p>Develop a consolidated view regarding the monitoring, control and management of electric power transmission and distribution grids, including the architecture of SCADA systems and the main functionalities integrated in EMS and DMS systems. </p>
+<p>To understand the main problems associated to the functionalities installed in EMS and DMS systems, including the mathematical formulation used to solve those problems.</p>
+<p>Understand the change of paradigm associated to distributed generation and impacts arising from it.</p>
+<p>Understand the working mode of microgenerators, microgrids and multimicrogrids within the scope of the change of paradigm associated to distributed generation.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Pre-requirements:  Algebra, Numerical Analysis, Programming , Circuits, Electric Power Systems, Electric Machinery Fundamentals</p>
+<p>Co-requirements &#8211; Steady state analysis of electric power systems</p>
+
+## Programa
+1. Architectures od power systems control centers with articulation between SCADA, EMS and DMS. Functionalities of SCADA, EMS and DMS systems and their coordination.<br />2. State Estimation &#8211; formulation of the problem (DC and AC) and solution methods. Detection of false measurements.<br />3. Introduction to the economic dispatch problem. Formulations and methods for the solution of the problem. Brief introduction to the hydro&#8211;thermal dispatch and the utilization of hydro pumping.<br />4. Main types of FACTS devices (SVC, STACOM). Modelling for power system analysis.<br />5. The change of paradigm in electric power systems: integration of distributed resources in distribution grids, associated impacts and the need of using new mechanisms for energy consumption management - smart metering.<br />6. The microgrid concept and its operation and control modes. Extending the microgrid concept: multi-microgrids.<br />7. Dynamic modeling of microgeneration units and control strategies for microgrids and multi-microgrids.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical classes will be based on the presentation of the topics of the course, while the theoretical-practical ones will be based on problem solving. In theoretical-practical classes it will be used computer programs of simulation, so that students can better understand the themes of the course. Students are expected to develop their assignments during theoretical-practical classes, where support will be also provided regarding the development of assignments whose technical reports will be evaluated. </p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 66.5 hours
+- Frequência das aulas: 45.5 hours
+- Trabalho escrito: 50.0 hours
+
+## Fórmula de cálculo da classificação final
+Formula for final grade: 0.6*Exam + 0.2*Assignment1+0.2*Assignment2<br />Having a minimum grade of 50% in two assignments;<br />Having a minimum of 45% in the exam.
+
+## Obtenção de frequência
+This course is composed by two assessment components: <br />- 2 practical assignments with reports;<br />- A final exam.<br /><br /><p>Students will be admitted to exams if the flowing conditions at met simultaneously:<br />- They do not miss more classes than allowed by the rules;<br />- They achieve a minimum mark of 50% in the assignments.</p><br />The assignments will assess the following CDIO Syllabus: 1.2, 1.3, 1.4, 2.1, 2.3, 2.4, 3.1, 3.3, 4.1, 4.2, 4.3, 4.4 and 4.6 The exam will assess the following CDIO Syllabus: 1.2, 1.3, 1.4, 2.1, 2.3, 2.4
+
+## Melhoria de classificação
+<p>It is only possible to improve the score of the final exam.<br /> <br /> The distributed evaluation can be improved through a new registration in the course to perform the two assignments. </p>
+

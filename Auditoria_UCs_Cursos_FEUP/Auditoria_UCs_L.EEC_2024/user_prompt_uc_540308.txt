@@ -1,0 +1,112 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Circuitos 2
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>É objetivo principal da unidade curricular fornecer aos estudantes formação em tópicos fundamentais de análise de circuitos elétricos, não abrangidos na unidade curricular anterior (Circuitos 1). Os estudantes começam por aprender os conceitos associados ao comportamento de condensadores e indutâncias e à análise de circuitos de primeira ordem a estímulos do tipo degrau (circuitos RC e RL). Em seguida aprendem a analisar circuitos em regime de corrente alternada sinusoidal permanente, incluindo os cálculos de potência associados e a introdução ao sistema trifásico. são em seguida introduzidos às técnicas de modelização e de análise de circuitos com 2 portos (biportos) e aprendem a analisar e a projetar circuitos elementares com amplficadores operacionais. É também objetivo da unidade curricular que os estudantes adequiram as competências técnicas necessárias para realizar protótipos laboratoriais e utilizar os equipamentos laboratoriais de teste e medida para observar e caracterizar circuitos elétricos (com ênfase no osciloscópio e gerador de funções).<br /><br /></p>
+
+## Resultados de aprendizagem e competências
+Após conclusão da unidade curricular os estudantes deverão ser capazes de:<br /> <br />1. Explicar as relações entre tensão, corrente e energia em condensadores e indutâncias, bem como analisar a resposta dinâmica de circuitos RC e RL a estímulos do tipo degrau.<br /> <br />2. Analisar circuitos elétricos em regime permanente alternado sinusoidal (AC) usando a análise fasorial e os conceitos de impedância e de admitância, bem como calcular e caracterizar a potência elétrica (ativa, reativa, aparente e complexa) transformada por elementos de circuitos elétricos em regime AC.<br /> <br />3. Explicar o conceito e as vantagens do sistema trifásico nas redes de distribuição de energia elétrica e analisar circuitos trifásicos, incluindo os cálculos de potência.<br /> <br />4. Aplicar o modelo de diporto linear para caracterizar amplificadores e analisar circuitos básicos com amplificadores operacionais ideais.<br /> <br />5. Utilizar ferramentas para simulação de circuitos elétricos e equipamento laboratorial para teste e medida, em especial o osciloscópio.
+
+## Pré-requisitos e co-requisitos
+Para frequentar a unidade curricular Circuitos 2 os estudantes deverão, idealmente, ter obtido aprovação à unidade curricular Circuitos 1.
+
+## Programa
+1. Condensadores e indutâncias; <br />2. Resposta em regime transitório de circuitos RC e RL (1a ordem) a estímulos do tipo degrau; <br />3. Sinais sinusoidais, transformada fasorial e relações fasoriais em elementos passivos: conceito de impedância e admitância; <br />4. Análise de circuitos elétricos lineares em regime permanente alternado sinusoidal;<br />5. Cálculo de potência em regime sinusoidal permanente;<br />6. Circuitos trifásicos;<br />7. Diportos lineares e circuitos com amplificadores operacionais ideais.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A lecionação da unidade curricular desenvolve-se em aulas teóricas e aulas práticas laboratoriais. Nas aulas teóricas (1.5h) tem lugar a exposição dos tópicos programáticos, acompanhada da resolução de exemplos ilustrativos. Nas aulas PL (2h) são realizados exercícios de aplicação dos temas expostos nas aulas teóricas, e são desenvolvidos trabalhos experimentais. Nestes são analisados e ensaiados circuitos reais e poderão ser usadas ferramentas de simulação para a análise de circuitos para os quais não é praticável a sua construção física em laboratório (por exemplo, circuitos trifásicos).<br /><br /><br /></p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Teste: 20.0 %
+- Trabalho laboratorial: 20.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 100.0 horas
+- Frequência das aulas: 45.5 horas
+- Trabalho laboratorial: 16.5 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final NF será calculada como NF = 0.60*EX + 0.40*AD sendo EX a nota obtida no exame final e AD a nota obtida na avaliação distribuída. A nota de avaliação distribuída é calculada como AD = 0.5*MT + 0.5*LAB, em que MT é a média das 3 melhores classificações obtidas nos 4 minitestes e AL é a nota obtida nos 2 trabalhos práticos laboratoriais. Todas as notas referidas nas expressões acima são na escala de 0 a 20 valores.<br /><br />Para obter aprovação têm que se verificar simultaneamente as 4 condições seguintes:<br />1. ter obtido frequência<br />2. a nota final NF deve ser superior ou igual a 10 valores;<br />3. a nota da avaliação distribuída AD ser superior ou igual a 40% (8 valores)<br />4. a nota do exame EX ser superior ou igual a 40% (8 valores)</p>
+
+## Obtenção de frequência
+<p>Para obter frequência (condição necessária para aprovação) o estudante deve realizar pelo menos 3 das 4 provas de avaliação realizadas na aula e os dois trabalhos laboratoriais, e não ter mais de 25% de faltas às aulas PL.</p>
+
+## Melhoria de classificação
+A melhoria da classificação obtida no exame final e nos mini-testes (60%+20% da classificação final) poderá ser realizada na prova de recurso, mantendo-se para o cálculo da classificação final a componente da avaliação laboratorial. A melhoria de classificação da componente de atividade laboratorial pode ser feita repetindo os trabalhos laboratoriais na edição seguinte da unidade curricular.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Circuits 2
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+The main objective of the course is to provide students with training on complementary topics of electric circuit analysis, not covered in previous course (Circuits 1). Students first learn the concepts associated to the electrical behavior of capacitors and inductors and the analysis of the step response of first-order RC and RL circuits. After understanding the fundamentals of the dynamic behavior of capacitors and inductors , they learn the techniques for analyzing electric linear circuits in steady state sinusoidal mode (AC), including the analysis of power in AC circuits and the introduction to the three-phase systems. After this, the students learn the concepts associated to the techniques of modeling two-port linear circuits and analyzing electric circuits built with two-port building blocks, including the analysis and design of simple circuits built with operational amplifiers. It is also objective of this course that the students acquire the technical competences for assembling prototypes of simple circuits and for using the laboratory test and measurement equipment for observing and characterizing the dynamic behavior of electric circuits (with emphasis on the oscilloscope and the function generator).
+
+## Resultados de aprendizagem e competências
+After concluding this course the students will be able to:<br /> <br />1. Explain the relationships between voltage, current and energy in capacitors and inductors, and analyze the step response of RC and RL circuits.<br /> <br />2. Analyze electric circuits in sinusoidal steady state using the phasorial transform and the concepts of electric impedance, and characterize and calculate the power transformed by electric elements in sinusoidal steady state (active, reactive, apparent and complex).<br /> <br />3. Explain the concept and advantages of the three-phase system in power distribution networks and analyze three-phase circuits, including power calculations.<br /> <br />4. Apply the linear two-port model to characterize amplifiers and analyze simple circuits with ideal operational amplifiers.<br /> <br />5. Use software tools for simulation of electric circuits (SPICE-based) and test and measurement laboratory equipment, in particular the oscilloscope.
+
+## Pré-requisitos e co-requisitos
+<p>The students should have been enrolled in the preceding course Circuits 1, and should be, preferably, approved in that curricular unit.</p>
+
+## Programa
+1. Capacitors and inductors <br />2. Step response of first-order electric circuits built with one capacitor or one inductor (RC and RL). <br />3. Sinusoidal signals, phasorial transform and the phasorial relationships in passive elements; the concept of impedance and admittance. <br />4. Analysis of linear electric circuits in sinusoidal steady state. <br />5. Power in electric circuits in sinusoidal steady state. <br />6. Three-phase circuits. <br />7. Linear two-port circuits and analysis of circuits with ideal operational amplifiers.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The curricular unit is organized in theoretical classes (1.5h) and laboratory classes (2h). The theoretical classes are used for presenting the syllabus topics and also to illustrate practical problem and solve examples of exercises. In the laboratory classes the students solve exercises addressing the matters presented previously in the theoretical classes and perform experimental laboratory works. In these works, real electric circuits are built and analyzed, and simulation tools are used to analyze circuits for which it is not feasible their physical construction in the laboratory (for example, three-phase circuits).</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Teste: 20.0 %
+- Trabalho laboratorial: 20.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 100.0 hours
+- Frequência das aulas: 45.5 hours
+- Trabalho laboratorial: 16.5 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final grade (FG) is calculated as FG = 0.60*FE + 0.40*DE, where FE is the classification obtained in the final exam and DE is the classification of the distributed evaluation. The grade of the distributed evaluation is calculated as DE = 0.50*MT + 0.50*LA, where MT is the average of the 3 best classifications btained in the 4 minitests and LA is the classification of the two laboratory assigments. All classifications are in the range 0 to 20<br /><br />To obtain a passing grade it is necessary to satisfy simultaneously the following conditions:<br />1. fulfill the requirements to obtain the "frequencia" status<br />2. obtain a final grade FG equal or superior to 10 points;<br />3. obtain a minimum grade of 40% in the distributed evaluation (DE);<br />4. obtain a minimum grade of 40% in the final exam (FE).</p>
+
+## Obtenção de frequência
+<p lang="en-US">The students must participate in at least 3 of the 4 minitests and all the laboratory assignments and attend at least 75% of the practical classes.</p>
+<p> </p>
+
+## Melhoria de classificação
+<p>The grade of the final exam and the minitests (60%+20% of the final grade) can be improved by taking the retake exam ("recurso"), maintaining the grades of the laboratory works. The grades obtained in the laboratory classes can be improved by repeating these evaluation activites in the next edition of the course.</p>
+<p> </p>
+

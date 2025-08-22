@@ -1,0 +1,98 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Fundamentos de Aprendizagem Computacional para Visão Computacional
+
+## Curso responsável
+Mestrado em Visão por Computador
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Esta Unidade Curricular tem por objetivo apresentar alguns dos tópicos centrais em aprendizagem computacional, dos fundamentais ao estado da arte. Será colocado especial ênfase nos conceitos teóricos e em exemplos práticos e projetos laboratoriais. Cada exercício será cuidadosamente escolhido para reforçar os conceitos explicados nas aulas teóricas e desenvolver e generalizá-los em diversas direções. Os estudantes que concluam com sucesso devem ter a:<br />-Capacidade de trabalhar em equipa, organização e planeamento. <br />-Capacidade de analisar e sintetizar conhecimento. <br />-Capacidade de desenvolver sistemas simples de aprendizagem computacional de acordo com as necessidades existentes e aplicar as ferramentas tecnológicas mais apropriadas. <br />-Conhecer os fundamentais das técnicas de aprendizagem. <br />-Adquirir capacidades de aprendizagem que permitam continuar a estudar de uma forma autónoma.
+
+## Resultados de aprendizagem e competências
+Os estudantes que concluam com sucesso devem ter a:<br />-Capacidade de trabalhar em equipa, organização e planeamento. <br />-Capacidade de analisar e sintetizar conhecimento. <br />-Capacidade de desenvolver sistemas simples de aprendizagem computacional de acordo com as necessidades existentes e aplicar as ferramentas tecnológicas mais apropriadas. <br />-Conhecer os fundamentais das técnicas de aprendizagem. <br />-Adquirir capacidades de aprendizagem que permitam continuar a estudar de uma forma autónoma.
+
+## Programa
+1. Introdução à Teoria da aprendizagem.<br />2. Modelos Lineares para Regressão (Critérios; equações normais; processos de optimização iterativos; regressão Ridge e Lasso; <br />3. Modelos generativos para classificação (decisão ótima Bayesiana; Analise discriminante linear; independência condicional e classificador Naïve Bayes; estimação não paramétrica de densidade: método das janelas de parzen)<br />4. Classificadores não generativos [regressão logística; discriminante de fisher]<br />Aplicações em visão por computador.<br />5. Seleção e avaliação de modelos<br />6. Introdução às redes neuronais <br />7. Introdução às máquinas de vetores de suporte <br />Aplicações em visão por computador.<br />8. Aprendizagem não-supervisionada &#8211; Clustering [algoritmos de Clustering; Kmeans, kmedoids, soft kmeans; mistura de Gaussianas; aprendizagem de Manifolds (PCA, MDA, ISOMAP and LLE)]<br />Aplicações em visão por computador.<br />9. Introdução a modelos para dados sequenciais <br />Aplicações em visão por computador.
+
+## Métodos de ensino e atividades de aprendizagem
+Palestras participativas, seminários e conferências, aprendizagem com base na resolução de casos práticos e projetos, trabalho autônomo e estudo independente pelos estudantes, trabalho em grupo e aprendizagem cooperativa.<br />Os assuntos serão abordados em palestras participativas, onde os alunos terão a oportunidade de implementar métodos por si próprios. Durante a parte da palestra, os tópicos do curso serão apresentados e discutidos. Os períodos práticos / laboratoriais serão usados para resolver exercícios e para o desenvolvimento dos trabalhos de avaliação.<br />Os alunos receberão tarefas de casa individuais semanais durante toda a duração do curso, envolvendo exercícios, leituras e sumarização de textos selecionados.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Participação presencial: 35.0 %
+- Trabalho prático ou de projeto: 65.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho escrito: 30.0 horas
+- Trabalho laboratorial: 30.0 horas
+
+## Fórmula de cálculo da classificação final
+As componentes de avaliação dos alunos são: &#8226; H &#8211; Trabalhos &#8226; P &#8211; Projecto.<br />Cada componente receberá uma classificação de 0 a 20.<br />A nota final será calculada de acordo com a seguinte regra: 35% * H+ 65% * P. A nota será de 0 a 20 valores.<br />A nota de aprovação corresponde a um mínimo de 10 valores.
+
+## Obtenção de frequência
+Irão ser atribuidos trabalhos semanais durante a duração da unidade curricular, envolvendo exercícios, leituras e resumos de textos seleccionados. Os trabalhos semanais terão um peso de 30% na nota final. O trabalho de projecto a desenvolver consistirá na abordagem de um tópico do curso e terá um peso de 65%.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Fundamentals of machine learning for computer vision
+
+## Curso responsável
+Master in Computer Vision
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+The aim of the course is to present some of the topics which are at the core of modern Machine Learning, from fundamentals to state-of-the-art methods. Emphasis will be put both on the essential theory and on practical examples and lab projects. Each exercise has been carefully chosen to reinforce concepts explained in the lectures or to develop and generalize them in significant ways. Upon the successful conclusion of the course, students should have the:<br />- Ability to work in team, organization and planning<br />-Ability to analyze and synthesize knowledge.<br />-knowledge of the fundamentals of machine learning.<br />-Ability to develop simple machine learning systems depending on existing needs and apply the most appropriate technological tools.<br />-Acquire the learning skills that allow to continue studying in a way that will be largely self-directed or autonomous
+
+## Resultados de aprendizagem e competências
+Upon the successful conclusion of the course, students should have the:<br />- Ability to work in team, organization and planning<br />-Ability to analyze and synthesize knowledge.<br />-knowledge of the fundamentals of machine learning.<br />-Ability to develop simple machine learning systems depending on existing needs and apply the most appropriate technological tools.<br />-Acquire the learning skills that allow to continue studying in a way that will be largely self-directed or autonomous
+
+## Programa
+1. Introduction to Learning Theory [Data driven process; Overfitting and generalization; Taxonomy of the Learning Settings; Taxonomy of the Learning Tools; Representation, Evaluation, Optimization]<br />2. Introduction to Linear Regression [Criterion (Evaluation); Normal Equation; The Least-Mean-Square (LMS) method; Steepest descent; Ridge and Lasso regression]<br />3. Generative Classifiers [Optimal Bayes decision; Gaussian based classifier (linear and quadratic);<br />Conditional Independence and Naïve Bayes classifier; Non-parametric density estimation: Parzen window method]<br />4. Non- Generative Classifiers [Logistic regression; Fisher Discriminant Analysis;]<br />Applications in computer vision<br />5. Model Selection and evaluation<br />6. Introduction to Neural Networks <br />7. Introduction to Support Vector Machines<br />Applications in computer vision<br />8. Unsupervised Learning &#8211; Clustering [Clustering algorithms; Kmeans, kmedoids, soft kmeans; Mixture of Gaussians; Manifold Learning (PCA, MDA, ISOMAP and LLE)]<br />Applications in computer vision<br />9. Introduction to models for sequential data<br />Applications in computer vision
+
+## Métodos de ensino e atividades de aprendizagem
+Participatory lectures, seminars and conferences, learning based on the resolution of practical cases and projects, autonomous work and independent study by students, group work and cooperative learning.<br />Subjects will be covered both in participatory lectures, where students will have the chance to implement methods for themselves. During the lecture part, the course topics will be presented and discussed. The practical/lab periods will be used for solving exercises and for the development of the assignments.<br />Students will be assigned weekly individual homework assignments during the whole duration of the course, involving exercises, readings and summarization of selected texts. They will account for 30% of the final grade. Practical work will consist of one project covering the course topics.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Participação presencial: 35.0 %
+- Trabalho prático ou de projeto: 65.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho escrito: 30.0 hours
+- Trabalho laboratorial: 30.0 hours
+
+## Fórmula de cálculo da classificação final
+The components for student evaluation are: &#8226; H &#8211; Homeworks &#8226; P - Project.<br />Each component will receive a grading in 0-20. <br />The final score will be calculated according to the following rule: 35% * H+ 65% * P. Grading will be from 0 to 20. <br />A PASSing grade corresponds to a minimum of 10.
+
+## Obtenção de frequência
+Students will be assigned weekly individual homework assignments during the whole duration of the course, involving exercises, readings and summarization of selected texts. Weekly assignments will have a weight of 30% in the final grade. The project work to be developed will consist of addressing a topic from the course and will have a weight of 65%.
+

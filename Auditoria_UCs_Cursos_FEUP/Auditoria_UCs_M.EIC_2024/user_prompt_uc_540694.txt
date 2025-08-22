@@ -1,0 +1,124 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Processamento de Linguagem Natural
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p><span style="font-weight: 400;">Esta unidade curricular fornece uma introdução à área do Processamento de Linguagem Natural (PLN). No final da mesma, os estudantes devem ter adquirido uma compreensão abrangente da área e do seu estado da arte, bem como tendências de investigação recentes.</span></p>
+
+## Resultados de aprendizagem e competências
+<p>Os objetivos de aprendizagem incluem:</p>
+<ol>
+<li>Adquirir os conceitos linguísticos fundamentais relevantes para o processamento de texto em linguagem natural.</li>
+<li>Entender os algoritmos e as técnicas básicas e do estado da arte para lidar com texto em linguagem natural.</li>
+<li>Familiarizar-se com as ferramentas e os recursos linguísticos mais avançados em PLN.</li>
+<li>Compreender e empregar métricas de avaliação para diferentes tarefas de PLN.</li>
+<li>Ser capaz de abordar um problema de PLN e resolvê-lo com as técnicas, algoritmos e ferramentas apropriados.</li>
+<li>Ler e compreender investigação atual sobre processamento de linguagem natural.</li>
+</ol>
+
+## Pré-requisitos e co-requisitos
+Conhecimentos de programação em Python.<br />Conhecimento básico de técnicas de aprendizagem computacional.
+
+## Programa
+- Introdução ao processamento de linguagem natural: definições, tarefas e aplicações<br />- Processamento básico de texto: expressões regulares, tokenização, normalização, lematização, stemming<br />- Modelos de linguagem: n-grams, perplexidade, geração de texto<br />- Classificação de texto: bag-of-words, n-grams, engenharia de features; classificadores generativos e discriminativos<br />- Representações vectoriais de palavras: semântica lexical, embeddings de palavras<br />- Modelos sequenciais: marcação de classe gramatical, reconhecimento de entidades mencionadas; hidden Markov models, conditional random fields<br />- Redes neuronais em processamento de linguagem natural: modelos neuronais de linguagem, redes neuronais recorrentes, redes encoder-decoder, attention<br />- Transformadores: self-attention, encodings posicionais, arquiteturas baseadas em transformadores, pré-treino, afinação<br />- Tradução automática e Resposta a questões: dados, modelos sequence-to-sequence, métricas de avaliação<br />- Grandes modelos de linguagem: modelos de linguagem neuronais, estratégias de decodificação, leis de escala, alinhamento, engenharia de prompts
+
+## Métodos de ensino e atividades de aprendizagem
+Os tópicos do curso serão abordados com aplicações motivadoras e com exemplos de código-fonte, quando aplicável. O objetivo é apresentar as ferramentas que serão utilizadas nos trabalhos práticos o mais cedo possível. Ao mesmo tempo, serão fornecidas sugestões para literatura relacionada, como oportunidades de leitura adicional.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Trabalho laboratorial: 60.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 horas
+- Frequência das aulas: 42.0 horas
+- Elaboração de projeto: 70.0 horas
+
+## Fórmula de cálculo da classificação final
+A avaliação será composta por:<br />- 2 trabalhos práticos (2x6/20)<br />- 1 exame final (8/20)<br /><br />Para obter aprovação, aplicam-se as seguintes classificações mínimas:<br /><br /><p>- Trabalho 1: 10.0 valores em 20<br />- Trabalho 2: 10.0 valores em 20<br />- Exame: 7.0 valores em 20</p>
+
+## Obtenção de frequência
+<p>Um aluno inscrito obtém frequência se cumprir a assiduidade às aulas teórico-práticas (máximo de faltas permitido corresponde a 25% das aulas previstas) e se entregar os trabalhos práticos previstos.</p>
+
+## Melhoria de classificação
+A melhoria da componente distribuída da avaliação só pode ser realizada na edição seguinte da Unidade Curricular.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Natural Language Processing
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p><span style="font-weight: 400;">This course provides an introduction to the field of Natural Language Processing (NLP). By the end of the course, students should have acquired a comprehensive understanding of the field and its state-of-the-art, and recent research trends.</span></p>
+
+## Resultados de aprendizagem e competências
+<p>Learning goals include:</p>
+<ol>
+<li>Acquire the fundamental linguistic concepts that are relevant to processing natural language text.</li>
+<li>Understand both basic and state-of-the-art algorithms and techniques for dealing with natural language text.</li>
+<li>Familiarize with state-of-the-art NLP tools and linguistic resources.</li>
+<li>Understand and employ evaluation metrics for different NLP tasks.</li>
+<li>Be able to address an NLP problem and solve it with the appropriate techniques, algorithms, and tools.</li>
+<li>Read and understand current research on natural language processing.</li>
+</ol>
+
+## Pré-requisitos e co-requisitos
+Knowledge of Python programming.<br />Basic knowledge of machine learning techniques.
+
+## Programa
+- Introduction to NLP: definitions, tasks, and applications<br />- Basic text processing: regular expressions, tokenization, normalization, lemmatization, stemming<br />- Language models: n-grams, perplexity, text generation<br />- Text classification: bag-of-words, n-grams, feature engineering; generative and discriminative classifiers<br />- Vectorized representations of words: lexical semantics, word embeddings<br />- Sequence models: POS-tagging, named entity recognition; hidden Markov models, conditional random fields<br />- Neural networks in NLP: neural language models, RNNs, encoder-decoder networks, attention<br />- Transformers: self-attention, positional encodings, Transformer-based architectures, pre-training, fine-tuning<br />- Machine Translation and Question Answering: data, sequence-to-sequence models, evaluation metrics<br />- Large Language Models: neural language models, decoding strategies, scaling laws, alignment, prompt engineering
+
+## Métodos de ensino e atividades de aprendizagem
+Course topics will be covered with motivating applications, and with source code examples, where applicable. The aim is to introduce the tools that are to be used in practical assignments as soon as possible. At the same time, pointers to related literature will be given as further reading opportunities.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Trabalho laboratorial: 60.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 hours
+- Frequência das aulas: 42.0 hours
+- Elaboração de projeto: 70.0 hours
+
+## Fórmula de cálculo da classificação final
+Evaluation will be composed of:<br />- 2 practical assignments (2x6/20)<br />- 1 final exam (8/20)<br /><br />To obtain approval, the following minimum ratings apply:<br />- Assignment 1: 10.0 points out of 20<br />- Assignment 2: 10.0 points out of 20<br />- Exam: 7.0 points out of 20
+
+## Obtenção de frequência
+An enrolled student obtains frequency if he/she attends theoretical-practical classes (maximum absences allowed corresponds to 25% of the scheduled classes) and submits the expected practical work.
+
+## Melhoria de classificação
+The improvement of classification in the distributed component (assignments and oral presentation) can only be obtained in the next edition of the course.
+

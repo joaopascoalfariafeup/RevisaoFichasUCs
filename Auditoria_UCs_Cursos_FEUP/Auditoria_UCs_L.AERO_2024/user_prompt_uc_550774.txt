@@ -1,0 +1,162 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Circuitos
+
+## Curso responsável
+Licenciatura em Engenharia Aeroespacial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p style="font-weight: 400;">Esta unidade curricular tem  como principal objetivo fornecer aos estudantes formação básica em:</p>
+<p style="font-weight: 400;">- Análise de circuitos elétricos lineares de corrente contínua (DC) e corrente alternada (AC) sinusoidal permanente.</p>
+<p style="font-weight: 400;">- Analise de circuitos elétricos não lineares, envolvendo díodos e transistores e o conceito de amplificação.</p>
+<p style="font-weight: 400;">- Montagens laboratoriais e utilização de equipamentos laboratoriais de teste e medida para analisar e caracterizar circuitos elétricos. <br /><br />- Pretende-se ainda que os estudantes desenvolvam competências pessoais, interpessoais e de trabalho em equipa.</p>
+
+## Resultados de aprendizagem e competências
+<p style="font-weight: 400;">No fim do período lectivo os estudantes devem ser capazes de:<br /><br />1. Aplicar as leis dos circuitos elétricos para analisar circuitos elétricos lineares, incluindo a capacidade de aplicar as leis básicas da teoria da eletricidade a circuitos de corrente contínua, analisar circuitos de primeira ordem a estímulos do tipo degrau (circuitos RC e RL), bem como analisar circuitos em regime de corrente alternada sinusoidal permanente, incluindo os cálculos de potência associados.<br /><br />2. Aplicar as leis dos circuitos elétricos para analisar circuitos básicos com díodos e transistores e compreender o conceito de amplificação, bem como analisar e projetar circuitos elementares com amplificadores operacionais.<br /><br />3. Realizar montagens laboratoriais e interpretar medidas experimentais em circuitos elétricos lineares e não lineares.</p>
+
+## Pré-requisitos e co-requisitos
+Nenhum
+
+## Programa
+<p style="font-weight: 400;">Grandezas elétricas (carga, corrente, tensão) e elementos básicos em circuitos elétricos (fontes ideais, resistências).&#8232;Leis fundamentais: Ohm, Kirchhoff, associações série/paralelo, divisores de tensão e corrente.</p>
+<p style="font-weight: 400;">Potência e energia elétricas, princípio da conservação de energia.</p>
+<p style="font-weight: 400;">Métodos estruturados de análise: nodal e de malhas.</p>
+<p style="font-weight: 400;">Teoremas de Thévenin e Norton, modelos equivalentes, condição de transferência de potência máxima.&#8232;Princípio da linearidade e sobreposição.</p>
+<p style="font-weight: 400;">Condensadores e indutores.</p>
+<p style="font-weight: 400;">Resposta transitória de circuitos RC e RL de 1ª ordem a estímulos degrau.</p>
+<p style="font-weight: 400;">Sinais sinusoidais, transformada fasorial, impedância e admitância.</p>
+<p style="font-weight: 400;">Análise de circuitos em regime permanente alternado sinusoidal.</p>
+<p style="font-weight: 400;">Cálculo de potência em regime sinusoidal permanente.</p>
+<p style="font-weight: 400;">Díodos de junção e circuitos básicos.</p>
+<p style="font-weight: 400;">Fundamentos de transistores Bipolares e MOSFETs.</p>
+<p style="font-weight: 400;">Conceito de amplificação e circuitos básicos de amplificação com transistores.</p>
+<p style="font-weight: 400;">Circuitos com amplificadores operacionais ideais.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p style="font-weight: 400;">A lecionação da unidade curricular desenvolve-se em aulas teóricas e aulas práticas laboratoriais. <br /><br />Nas aulas teóricas (3h/semana) tem lugar a exposição dos tópicos programáticos, acompanhada de exemplos de aplicação especialmente no fim de cada tópico, incluindo sessões onde os estudantes resolvem exercícios constantes em folhas elaboradas para o efeito. <br /><br />Nas aulas práticas laboratoriais (1.5h/semana) são desenvolvidos trabalhos experimentais, onde são analisados e ensaiados circuitos, permitindo aos estudantes lidar com componentes elétricos reais e com os instrumentos de medida comuns.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 75.0 %
+- Trabalho laboratorial: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 103.5 horas
+- Frequência das aulas: 43.5 horas
+- Trabalho laboratorial: 15.0 horas
+
+## Fórmula de cálculo da classificação final
+<p style="font-weight: 400;">A classificação final é calculada com base nas seguintes componentes:&#8232;<br /><br />1) Primeiro Teste (T1), abordando aproximadamente a metade do programa da Unidade Curricular, a realizar em dia, hora e sala a determinar; é exigida uma nota mínima de 8 valores (em 20); este teste terá um peso de 37,5% na nota final.&#8232;<br /><br />2) Segundo Teste (T2), abordando apenas a matéria posterior ao T1, a realizar na Época normal de exames; é exigida uma nota mínima de 8 valores (em 20); este teste terá um peso de 37,5% na nota final.&#8232;<br /><br />3) Trabalhos laboratoriais (TL), contabilizamdo-se apenas os 4 trabalhos melhor classificados (dos cinco trabalhos laboratoriais previstos), com um peso de 25% na nota final.</p>
+<p style="font-weight: 400;"><br />Exame de Recurso (ER) </p>
+<p style="font-weight: 400;">O exame de recurso, ER, será realizado obrigatoriamente pelos estudantes que não tenham obtido nota mínima em algum dos testes, T1 ou T2, ou que não tenham tido média de 10 valores no conjunto dos dois testes, e ainda para melhoria de classificação. <br /><br />Este exame também inclui toda a matéria, dividido em duas partes ER1 (matéria correspondente ao T1) e ER2 (matéria correspondente ao T2). Prova de 2h.<br /> </p>
+<p style="font-weight: 400;">A classificação final, CF, será assim obtida por:</p>
+<p style="font-weight: 400;">CF=0,375*T1+0,375*T2+0,25*TL,</p>
+<p style="font-weight: 400;">é exigida uma nota mínima de 8 valores (em 20) em cada uma das componentes T1 e T2.</p>
+
+## Obtenção de frequência
+<p style="font-weight: 400;">Para obter frequência os estudantes não devem ultrapassar o limite legal de faltas às aulas PL previsto no Regulamento específico de avaliação de discentes da FEUP. Devem também realizar pelo menos três dos cinco trabalhos laboratoriais previstos. Estão dispensados de obtenção de frequência alunos ao abrigo de estatutos especiais que lhes facultam esta dispensa.</p>
+
+## Melhoria de classificação
+<p style="font-weight: 400;">Os estudantes que frequentaram esta unidade curricular no presente ano letivo podem fazer melhoria das componentes T1 e/ou T2, na época de recurso. Mantendo-se a classificação de avaliação já obtida na componente laboratorial (25%).</p>
+<p style="font-weight: 400;"> </p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Circuits
+
+## Curso responsável
+Bachelor in Aerospace Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p class="p1">This course aims to provide students with fundamental training in:</p>
+<p class="p2">- Analysis of linear electrical circuits with direct current (DC) and steady-state alternating current (AC).</p>
+<p class="p2">- Analysis of non-linear electrical circuits, including those involving diodes and transistors, as well as the concept of amplification.</p>
+<p class="p2">- Laboratory setups and the use of testing and measurement equipment to analyze and characterize electrical circuits.</p>
+<p class="p2">- Additionally, the course seeks to develop students&#8217; personal, interpersonal, and teamwork skills.</p>
+
+## Resultados de aprendizagem e competências
+<p class="p1">By the end of the lective period, students should be able to:</p>
+<p class="p2">1. Apply electrical circuit laws to analyze linear electrical circuits, including the ability to apply basic electricity theory to DC circuits, analyze first-order circuits in response to step inputs (RC and RL circuits), and analyze circuits under steady-state sinusoidal AC conditions, including associated power calculations.</p>
+<p class="p2">2. Apply electrical circuit laws to analyze basic circuits with diodes and transistors, understand the concept of amplification, and analyze and design elementary circuits with operational amplifiers.</p>
+<p class="p2">3. Conduct laboratory experiments and interpret experimental measurements in both linear and non-linear electrical circuits.</p>
+
+## Pré-requisitos e co-requisitos
+None
+
+## Programa
+<p class="p1">Electrical quantities (charge, current, voltage) and basic circuit elements (ideal sources, resistances).</p>
+<p class="p1">Fundamental laws: Ohm&#8217;s Law, Kirchhoff&#8217;s Laws, series/parallel associations, voltage and current dividers.</p>
+<p class="p1">Electrical power and energy, principle of energy conservation.</p>
+<p class="p1">Structured analysis methods: nodal and mesh analysis.</p>
+<p class="p1">Thévenin and Norton theorems, equivalent models, maximum power transfer condition.</p>
+<p class="p1">Principle of linearity and superposition.<br /><br />Capacitors and inductors.</p>
+<p class="p1">Transient response of first-order RC and RL circuits to step inputs.</p>
+<p class="p1">Sinusoidal signals, phasor transform, impedance and admittance.</p>
+<p class="p1">Steady-state sinusoidal circuit analysis.</p>
+<p class="p1">Power calculations in steady-state sinusoidal circuits.</p>
+<p class="p1">Junction diodes and basic diode circuits.</p>
+<p class="p1">Fundamentals of Bipolar and MOSFET transistors.</p>
+<p class="p1">Concept of amplification and basic amplifier circuits using transistors.</p>
+<p class="p1">Circuits with ideal operational amplifiers.<br /><br /></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p class="p1">The course includes both theoretical lectures and practical laboratory classes.</p>
+<p class="p2">Theoretical classes (3h/week) &#8211; Presentation of syllabus topics, supported by application examples, especially at the end of each topic. These sessions include problem-solving exercises.</p>
+<p class="p2">Laboratory practical classes (1.5h/week) &#8211; Experimental work in which circuits are analyzed and tested, allowing students to handle real electrical components and common measurement instruments.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 75.0 %
+- Trabalho laboratorial: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 103.5 hours
+- Frequência das aulas: 43.5 hours
+- Trabalho laboratorial: 15.0 hours
+
+## Fórmula de cálculo da classificação final
+<p class="p1">The final grade is based on the following components:</p>
+<p class="p2">1.First Test (T1) &#8211; Covers approximately half of the course syllabus and is scheduled at a predetermined date, time, and location. A minimum grade of 8/20 is required. This test contributes 37,5% to the final grade.</p>
+<p class="p2">2.Second Test (T2) &#8211; Covers the syllabus after T1 and takes place during the regular exam period. A minimum grade of 8/20 is required. This test contributes 37,5% to the final grade.</p>
+<p class="p2">3.Laboratory Work (TL) &#8211; The best four out of five laboratory assignments are considered, contributing 25% to the final grade.</p>
+<p class="p3"> </p>
+<p class="p4">Resit Exam (ER)</p>
+<p class="p1">Students who do not achieve the minimum required grade in T1 or T2, or who do not achieve an overall average of 10/20, must take a resit exam (ER) to improve their grade.</p>
+<p class="p5">The resit exam covers the entire syllabus and is divided into ER1 (covering T1 topics) and ER2 (covering T2 topics). The exam duration is 2 hours.</p>
+<p class="p3"> </p>
+<p class="p4">Final Grade Calculation Formula</p>
+<p class="p7">CF=0,375*T1+0,375*T2+0,25*TL,</p>
+<p class="p5">A minimum grade of 8/20 is required in both T1 and T2 components.</p>
+
+## Obtenção de frequência
+<p class="p1">To be eligible for assessment, students must not exceed the allowed number of absences in laboratory classes, as per the FEUP Student Assessment Regulations. Additionally, students must complete at least three out of the five planned laboratory assignments. Students with special status exemptions are not required to meet attendance requirements.</p>
+
+## Melhoria de classificação
+<p class="p1">Students who have completed this course in the current academic year can retake T1 and/or T2 during the resit exam period. Their previous laboratory assessment grade (25%) will remain unchanged.</p>
+

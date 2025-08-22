@@ -1,0 +1,148 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Computação Gráfica
+
+## Curso responsável
+Licenciatura em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>ENQUADRAMENTO: A computação Gráfica tem vindo a afirmar-se e é hoje um componente muito importante em toda a envolvente de interação pessoa-computador. No entanto, a sua aplicabilidade vai muito além, tendo hoje em dia uma posição de relevo em indústrias importantes como sejam a cinematográfica e a dos jogos. Também na tecnologia e na ciência desempenha um papel insubstituível permitindo a visualização de fenómenos, muitas vezes ligada a simulação e a técnicas de realidade virtual. Nesta unidade curricular, efetua-se uma abordagem às matérias de Computação Gráfica segundo uma filosofia tipo Top-Down, iniciando-se com os temas mais relacionados com os 3D (síntese de imagem, modelação) e terminando com a visita a vários algoritmos mais elementares, no âmbito dos 2D. A componente 3D da matéria é acompanhada, nas aulas práticas, com exercícios baseados em tecnologias de grande utilização, o OpenGL e o WebGL.</p>
+<p>OBJETIVOS ESPECÍFICOS: - Transmitir o conhecimento de conceitos, técnicas, algoritmos, tecnologias e arquitecturas de Computação Gráfica. - Reforçar os conhecimentos teóricos com a sua aplicação prática, por meio da implementação, teste e avaliação de algoritmos abordados em teoria.</p>
+<p>DISTRIBUIÇÃO PERCENTUAL<br />- Componente científica: 50%<br />- Componente tecnológica: 50%</p>
+
+## Resultados de aprendizagem e competências
+<p>RESULTADOS DA APRENDIZAGEM:</p>
+<ul>
+<li>Compreender a interligação dos vários módulos de um sistema gráfico 3D;</li>
+<li>Desenhar e implementar pequenas aplicações orientadas para os 3D;</li>
+<li>Desenhar e implementar aplicações com interface gráfica, nas suas várias vertentes;</li>
+<li>Dominar a programação por eventos.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+- Programação<br />- Algoritmos e Estruturas de Dados.<br />- Operações algébricas de utilização comum.<br />- Álgebra e Matemática.
+
+## Programa
+<p>Panorâmica da Computação Gráfica e suas aplicações.<br /><br />Síntese de Imagem de cenas 3D:<br />    iluminação local e iluminação global;<br />   iluminação suavizada, texturas;<br />    cálculo de visibilidade;<br />   projeção de sombras.<br /><br />Representação de cor em Computação Gráfica<br />   perceção da cor;<br />   modelos de representação da cor.<br /><br />Transformações geométricas 2D/3D.<br /><br />Modelação<br />    malhas poligonais 3D;<br />    curvas;<br />    superfícies e sólidos.<br /><br />Interacção; conceitos para o desenvolvimento de interfaces gráficas.<br /><br />Computação Gráfica 2D<br />   algoritmos de rasterização de linhas;<br />   algoritmos de rasterização de regiões.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teóricas:</p>
+<ul>
+<li>Apresentação das principais teorias, técnicas e algoritmos utilizados em Computação Gráfica.</li>
+</ul>
+<p><br />Aulas Teórico-Práticas:</p>
+<ul>
+<li>Discussão e desenvolvimento de exercícios, testados em computador, ao nível de cada grupo de estudantes, com possíveis desenvolvimentos extra-escolares.</li>
+<li>Utilização de OpenGL/WebGL para verificação de alguns tópicos abordados teoricamente.</li>
+<li>Realização de um projeto final, agregador dos conhecimentos adquiridos.</li>
+</ul>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Teste: 15.0 %
+- Trabalho laboratorial: 35.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 78.0 horas
+- Frequência das aulas: 56.0 horas
+- Trabalho laboratorial: 30.0 horas
+
+## Fórmula de cálculo da classificação final
+<span style=&quot;text-decoration: underline;&quot;>Legenda</span>:<br />    CF: Classificação Final<br />    AvEx: Classificação de Exame (Ép. Normal ou de Recurso)<br />    AvDis: Avaliação Distribuída<br /><br />CF = 50% AvEx + 50% AvDis<br /><br />AvDis = 30% MiniTestes + 70% Projeto<br /><br /><br />NOTAS:<br /><br /><ul><br /><li>Os dois minitestes possuem igual peso na obtenção da classificação &quot;MiniTestes&quot;;</li><br /><li>Não serão aprovados os estudantes que não obtenham uma classificação mínima de 40% na componente de exame final, independentemente da avaliação distribuída que possam ter;</li><br /><li>Serão reprovados por falta de componente (RFC) os estudantes que não cumpram com alguma das situações seguintes:</li><br /><ul><br /><li>entrega de todos os trabalhos práticos e projetos enunciados;</li><br /><li>realização de todos os minitestes previstos.</li><br /></ul><br /><li>O acesso a exame de época normal e de recurso é interdito aos estudantes que tenham reprovado por falta de frequência (RFF, ver &quot;Obtenção de frequência&quot;) ou por falta de componente (RFC);</li><br /><li>O funcionamento da época de recurso é semelhante ao da época normal, nomeadamente no que respeita às classificações obtidas nos minitestes e no projeto e respetivos pesos;</li><br /><li>Os minitestes e o exame final são sem consulta.</li><br /></ul>
+
+## Obtenção de frequência
+<strong>Obtenção de frequência:</strong><br /><br />A obtenção de frequência é sujeita à regulamentação em vigor, devendo o estudante, nomeadamente, cumprir com a assiduidade mínima no que respeita às aulas teórico-práticas.<br /><br />Os estudantes trabalhadores e equivalentes não são sujeitos ao cumprimento da assiduidade.
+
+## Melhoria de classificação
+<strong>Melhoria de Classificação:</strong><br /><br />No cálculo de classificação final em situação de melhoria, pode dispensar-se a classificação dos minitestes se a situação for mais favorável ao estudante. A classificação final é calculada, neste caso, da seguinte forma:<br /><br />   CF = 65% AvEx + 35% Projeto
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computer Graphics
+
+## Curso responsável
+Bachelor in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>BACKGROUND Computer graphics has been stated and is today a very important component in the whole human-computer interaction ambience. However, its applicability goes far beyond, having nowadays a prominent position in major industries such as the cinema and electronic games. Also, in technology and science it plays an irreplaceable role allowing the visualization of phenomena, often linked to simulation and virtual reality techniques. In this course, the approach to computer graphics is made under a Top-Down philosophy, starting with the subjects most related to 3D (image synthesis, modelling) and ending with a visit to several most basic algorithms in 2D. The 3D components of the programme are accompanied, in practical lessons, with exercises based on the usual technologies, like OpenGL and WebGL.</p>
+<p>SPECIFIC AIMS -Transmit knowledge of concepts, techniques, algorithms, computer graphics technologies and architectures. -Strengthen the theoretical knowledge with practical application, through the implementation, testing and evaluation of algorithms discussed in theory.</p>
+<p>PERCENTAGE DISTRIBUTION<br />-Scientific Component: 50%<br />-Technological Component: 50%</p>
+
+## Resultados de aprendizagem e competências
+<p>LEARNING OUTCOMES:</p>
+<ul>
+<li>Understand the interconnection of multiple modules of a 3D graphics system;</li>
+<li>Design and implement small 3D oriented applications;</li>
+<li>Design and implement applications with graphical interface, in its various aspects;</li>
+<li>Dominate the schedule by events.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+- Programming<br />- Algorithms and data structures.<br />- Algebraic operations of common use.<br />- Algebra and Mathematics.
+
+## Programa
+<p>Computer Graphics panoramic and applications.<br /><br />3D image synthesis:<br />   local lighting and global lighting;<br />   smooth shading, textures;<br />    visibility calculation;<br />   shadows projection.<br /><br />Colour representation in Computer Graphics<br />   colour perception;<br />   models for colour representation.<br /><br />Geometric transformations: 3D/ 2D.<br /><br />Modelling<br />    3D meshes;<br />    curves;<br />    surfaces and solids.<br /><br />Interaction; concepts for the development of graphical interfaces.<br /><br />2D Computer Graphics<br />    rasterization of lines;<br />   rasterization of regions.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+Lectures (theory classes):<br /><br /><ul><br /><li>Presentation of the main theories, techniques and algorithms used in Computer Graphics.</li><br /></ul><br /><br />Recitations (theory-practical classes):<br /><br /><ul><br /><li>Discussion and development of exercises, tested on the computer, at the level of each students group, with possible extra-curricular developments.</li><br /><li>Use of OpenGL/WebGL to verify some of the topics covered in the theory.</li><br /><li>Carrying out a final project, consolidating the knowledge acquired.</li><br /></ul>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Teste: 15.0 %
+- Trabalho laboratorial: 35.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 78.0 hours
+- Frequência das aulas: 56.0 hours
+- Trabalho laboratorial: 30.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><span style="text-decoration: underline;">Legend</span>:<br />    FG: Final Grade<br />    ExGr: Exam grade<br />    DisGr: Distributed Evaluation Grade<br /><br />FG = 50% ExGr + 50% DisGr<br /><br />DisGr = 30% MiniTests + 70% Project<br /><br /></p>
+NOTES:<br />
+<ul>
+<li>The two mini-tests have equal weight in obtaining the &#8220;MiniTests&#8221; classification;</li>
+<li>Students who do not obtain a minimum mark of 40% in the final exam component will fail, regardless of the distributed assessment they may have;</li>
+<li>Students who do not comply with any of the following situations will fail due to a lack of component (RFC):</li>
+<ul>
+<li>submit all the practical works and projects listed;</li>
+<li>making all the mini-tests.</li>
+</ul>
+<li>Students who have failed due to lack of attendance (RFF, see &#8220;Obtaining attendance&#8221;) or lack of component (RFC) will not be able to take an exam in the ordinary or supplementary call.</li>
+<li>The supplementary call works in the same way as the ordinary call, namely with regard to the marks obtained in the mini-tests and in the project, and their respective weights;</li>
+<li>The mini-tests and the final exam are "closed book" style.</li>
+</ul>
+
+## Obtenção de frequência
+<strong>Obtaining attendance:</strong><br /><br />Attendance is subject to the regulations in force, and students must comply with the minimum attendance requirements for the Recitations (theory-practical classes).<br /><br />Working students and equivalent students are not subject to attendance requirements.
+
+## Melhoria de classificação
+<strong>Grade Improvment:</strong><br /><br />When calculating the grade in a situation of Classification improvement, the mini-tests grade may be waived if the result is favourable to the student, according to:<br /><br />   FG = 65% ExGr + 35% Project
+

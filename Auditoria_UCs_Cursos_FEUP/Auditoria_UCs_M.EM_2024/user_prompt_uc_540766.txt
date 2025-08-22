@@ -1,0 +1,207 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Conceção de Moldes e Ferramentas
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<ol><br /><li>Conhecer as tecnologias dos moldes de injeção de termoplásticos.</li><br /><li>Utilizar conceitos de TRANSFERÊNCIA DE CALOR para dimensionar canais de arrefecimento e caudais de água.</li><br /><li>Conhecer os conceitos de REOLOGIA necessários à caracterização do escoamento de POLÍMEROS.</li><br /><li>Utilizar conceitos de CÁLCULO ESTRUTURAL para dimensionar as estruturas do molde.</li><br /><li>Realizar o PROJETO de um molde.</li><br /><li>Conhecer as operações de MAQUINAGEM, com arranque de apara (fresagem e furação) e sem arranque de apara (eletroerosão) e técnicas de acabamento superficial.</li><br /></ol><br /><p> </p><br /><p> </p>
+
+## Resultados de aprendizagem e competências
+<p>No final da UC é esperado que o estudante adquira uma visão global de um projeto de moldes para a indústria dos termoplásticos.</p>
+<p> </p>
+<p> </p>
+<p>Competências Computacionais:</p>
+<p>Análise do enchimento de moldes utilizando o software Moldex3D. Projeto integral, utilizando o software Siemens NX.</p>
+<p> </p>
+<p>Competências Experimentais:</p>
+<p>Não aplicável</p>
+<p> </p>
+<p>Competências Transversais:</p>
+<p>Conceção computacional de sistemas complexos.</p>
+<p>Elaboração de relatórios e apresentações orais.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Conhecimentos básicos de Análise e Álgebra Matemática, Transferência de Calor, Mecânica de Fluidos, Análise Numérica e Método dos Elementos Finitos.</p>
+<p>Conhecimentos de básicos de Materiais metálicos (aços) e não metálicos (polímeros)</p>
+<p>Conhecimentos de metodologias CAD/CAM para a modelação de sólidos.<br /><br />Conhecimentos de Desenho Técnico.</p>
+
+## Programa
+<p>INTRODUÇÃO À TECNOLOGIA DE MOLDAÇÃO POR INJEÇÃO</p>
+<p>Ciclo de injeção e o funcionamento de uma máquina injetora, exemplos de peças típicas.</p>
+<p> </p>
+<p>TRANSFERÊNCIA DE CALOR</p>
+<p>Conceitos de transferência de calor. Utilização de uma formulação integral, para o dimensionamento de canais de arrefecimento de um molde.</p>
+<p> </p>
+<p>REOLOGIA</p>
+<p>Conceitos de mecânica dos fluidos e escoamentos reológicos. Escoamento de Couette. Fluidos Newtonianos Generalizados. Modelos viscoelásticos lineares e não lineares. Utilização do software comercial Moldex3D.</p>
+<p> </p>
+<p>CÁLCULO ESTRUTURAL</p>
+<p>Utilização do Método dos Elementos Finitos para dimensionar componentes do molde. Realizar cálculo à encurvadura para extratores esbeltos, sujeitos às elevadas pressões de injeção.</p>
+<p> </p>
+<p>PROJETO</p>
+<p>Utilização do software NX para realizar o projeto para um molde.</p>
+<p> </p>
+<p>MAQUINAGEM</p>
+<p>Conhecer as principais operações de maquinagem utilizadas no projeto de moldes, nomeadamente a fresagem, furação profunda, eletroerosão por elétrodo e por fio. Processos de texturização de superfícies de moldes.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>O objetivo essencial desta UC é providenciar aos estudantes os conceitos fundamentais para o projeto de moldes para a indústria dos termoplásticos.</p>
+<p> </p>
+<p>Os conceitos de transferência de calor são utilizados nos tópicos &#8220;Transferência de Calor&#8221; e posteriormente estendidos aos conceitos de &#8220;Reologia&#8221;. Com estes dois tópicos, os estudantes conseguem compreender o funcionamento do ponto de vista térmico e reológico de um molde.</p>
+<p> </p>
+<p>A realização de cálculo estrutural, no tópico &#8220;Cálculo Estrutural&#8221; é fundamental para que os alunos possam adquirir sensibilidade para o dimensionamento das estruturas que irão estar sujeitas às elevadas pressão de injeção.</p>
+<p> </p>
+<p>O projeto do molde é realizado no tópico &#8220;Projeto&#8221;, utilizando as mesmas ferramentas que são utilizadas atualmente na indústria.</p>
+<p> </p>
+<p>Uma vez que os processos de maquinagem representam o custo mais elevado na produção de um molde, eles são abordados no tópico &#8220;Maquinagem&#8221;. <br /><br /><br /><br />Carga horária semanal - 3h TP </p>
+<p>Horas de contacto totais previstas &#8211; 39h TP</p>
+<p>1º Trabalho Prático - Análise Reológica usando o software Moldex3D &#8211; 31h</p>
+<p>2º Trabalho Prático - Cálculo estrutural e realização de um Projeto de um molde no software Siemens NX &#8211; 92h</p>
+<p> </p>
+<p>Atendimento aos estudantes (horário a indicar por cada docente).</p>
+<p> </p>
+<p> </p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 100.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 39.0 horas
+- Elaboração de projeto: 72.0 horas
+- Elaboração de relatório/dissertação/tese: 20.0 horas
+- Estudo autónomo: 31.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>O estudante deve, obrigatoriamente, submeter-se à avaliação em todas as suas componentes.<br /><br />A nota final da disciplina resultará da média pesada das classificações obtidas em cada uma das componentes da avaliação.</p>
+
+## Obtenção de frequência
+<p>Avaliação:</p>
+<p>Um relatório individua a entregar durante o semestre, com pesos de 100% na classificação final. Os trabahos práticos realizados deverão de ser compilados num relatório final. O relatório deverá de incluir um estudo reológico e o projeto de um molde.<br /><br /></p>
+<p>De forma a obterem aprovação à UC, os estudantes têm de participar em todos os elementos de avaliação.</p>
+<p>Os estudantes que:<br />&#8226; não obtiverem a média de 10 valores;<br /><br />poderão apresentar um novo projeto na época de recurso. Os estudantes aprovados podem aceder ao Recurso, para melhoria de nota relativa aos trabalhos.</p>
+<p> </p>
+
+## Melhoria de classificação
+<p>Na prova de melhoria de classificação, a realizar de acordo com o artigo 10º das Normas Gerais de Avaliação, os alunos podem optar por manter válida qualquer uma das componentes da avaliação. Assim, pode realizar um novo trabalho de simulação reológica ou o projeto de um novo molde.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Design of Molds and Dies
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<ol><br /><li>Know the thermoplastics injection molds technologies.</li><br /><li>Use HEAT TRANSFER concepts to design cooling channels and water flows.</li><br /><li>Acquire concepts of REOLOGY, necessary to characterize the flow of POLYMERS.</li><br /><li>Use concepts of STRUCTURAL MECHANICS to dimension the structures of the mold.</li><br /><li>Perform the PROJECT of a mold.</li><br /><li>Know the operations of MACHINING, with chip removal (milling and drilling) and without chip removal (electroerosion) and surface finishing techniques.</li><br /></ol><br /><p> </p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of CU it is expected that the student will acquire a global vision of a mold design for the thermoplastics industry.</p>
+<p><em> </em></p>
+<p><em> </em></p>
+<p>Computer Skills:</p>
+<p>Mold filling analysis using Moldex3D software. Integral design using Siemens NX software.</p>
+<p><em> </em></p>
+<p>Experimental Skills:</p>
+<p>Not applicable</p>
+<p> </p>
+<p>Transversal Competencies:</p>
+<p>Computational project of complex systems.</p>
+<p>Preparation of reports and oral presentations.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Basic knowledge of Calculus and Algebra, Heat Transfer, Fluid Mechanics, Numerical Analysis and the Finite Element Method.<br /><br />Basic knowledge of metallic materials (steel) and non-metallic materials (polymers). <br /><br />Knowledge of CAD/CAM methodologies for solid modeling. <br /><br />Knowledge of Technical Drawing.</p>
+
+## Programa
+<p>INTRODUCTION TO INJECTION MOLDING TECHNOLOGY</p>
+<p>Injection cycle and the operation of an injection machine, examples of typical parts.</p>
+<p> </p>
+<p>HEAT TRANSFER</p>
+<p>Concepts of heat transfer. Use of an integral formulation for the dimensioning of the cooling channels of a mold.</p>
+<p> </p>
+<p> </p>
+<p>RHEOLOGY</p>
+<p>Concepts of fluid mechanics and rheological flows. Couette flow. Generalized Newtonian Fluids. Linear and non-linear viscoelastic models. Usage of the Moldex3D commercial software.</p>
+<p> </p>
+<p>STRUCTURAL MECHANICS</p>
+<p>Using the Finite Element Method to dimension mold components. Perform calculation on buckling for slender extractors, subjected to high injection pressures.</p>
+<p> </p>
+<p>PROJECT</p>
+<p>Using the NX software to perform the design for a mold.</p>
+<p> </p>
+<p>MACHINING</p>
+<p>Know the main machining operations used in the design of molds, namely milling, deep drilling, electroerosion by electrode and wire. Finishing of mold surfaces.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The essential objective of this CU is to provide students with the fundamental concepts for the design of molds for the thermoplastics industry.</p>
+<p> </p>
+<p>The concepts of heat transfer are used in the topics "Heat Transfer" and later extended to the concepts of "Rheology". With these two topics, students are able to understand the functioning of a mold, from the thermal and rheological point of view.</p>
+<p> </p>
+<p>The structural mechanics, in the topic "Structural Mechanics" is fundamental so that the students can acquire sensitivity for the dimensioning of the structures that will be subject to the high injection pressure.</p>
+<p> </p>
+<p>The design of the mold is performed in the topic "Design", using the same tools that are currently used in the industry.</p>
+<p> </p>
+<p>Since machining processes represent the highest cost in producing a mold, they are covered in the topic "Machining".<br /><br /><br /><br /><br /><br />Teaching methodologies:</p>
+<p>Weekly load - 3h TP</p>
+<p>Total contact hours - 39h TP</p>
+<p>1st Practical Work - Rheological Analysis using Moldex3D software - 31h</p>
+<p>2nd Practical Work - Structural dimensioning  and design of a mold in Siemens NX software - 92h</p>
+<p> </p>
+<p>Attendance to students (time to be indicated by each teacher).</p>
+<p> </p>
+<p> </p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 100.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 39.0 hours
+- Elaboração de projeto: 72.0 hours
+- Elaboração de relatório/dissertação/tese: 20.0 hours
+- Estudo autónomo: 31.0 hours
+
+## Fórmula de cálculo da classificação final
+The student must, obligatorily, submit to evaluation in all its components.<br /><br />The final grade of the course will result from the weighted average of the grades obtained in each of the evaluation components.
+
+## Obtenção de frequência
+<p>Evaluation:</p>
+<p>One individual report to be submitted in the end of the semester with a weight of 100% in the final classification. The practical works should be compiled on a final report. The report must include a rheological study and the design of a mold.</p>
+<p>In order to gain approval at CU, students must participate in all assessment elements.</p>
+<p>Students who:</p>
+<ul>
+<li>do not get the average of 10 values;</li>
+</ul>
+<p>may access to the Appeal period, to present new projects. Approved students may access the Appeal period for improvement of the projects grade.</p>
+
+## Melhoria de classificação
+<p>According to article 10 of General Evaluation Rules of FEUP, students can either do another practical assignment or a written exam.</p>
+

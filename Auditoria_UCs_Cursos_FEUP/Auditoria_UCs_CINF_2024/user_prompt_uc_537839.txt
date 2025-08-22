@@ -1,0 +1,114 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas de Apoio à Decisão
+
+## Curso responsável
+Licenciatura em Ciência da Informação
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Resultados de aprendizagem e competências
+<p>Dotar os estudantes com competências para:</p>
+<ul>
+<li>Identificar e abordar de forma hábil e estruturada problemas de decisão;</li>
+<li>Construir modelos de problemas de decisão;</li>
+<li>Identificar e recorrer a métodos analíticos para obtenção de soluções para os modelos construídos, como suporte para decisões fundamentadas;</li>
+<li>Usar folhas de cálculo para análise e obtenção de soluções para os modelos construídos;</li>
+<li>Formular problemas de decisão com vários critérios e aplicar metodologias de ajuda à decisão em ambientes de incerteza e risco.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>É recomendável que os estudantes tenham conhecimentos básicos sobre folhas de cálculo, incluindo a utilização de funções, manipulação de dados e criação de tabelas. Além disso, é útil possuir noções fundamentais de informática, como organização de ficheiros e uso de software para análise de dados.</p>
+
+## Programa
+<ul><br /><li><strong>Modelação de problemas de programação linear com variáveis contínuas:</strong> formulação matemática, interpretação das soluções ótimas e análise de casos práticos.</li><br /><li><strong>Modelação de problemas em redes com modelos de programação linear:</strong> representação de problemas em grafos, como problemas de fluxo, caminhos mínimos e árvores geradoras de comprimento mínimo.</li><br /><li><strong>Modelação de problemas de programação linear com variáveis inteiras e binárias:</strong> formulação e resolução de problemas combinatórios, incluindo restrições lógicas e de capacidade.</li><br /><li><strong>Utilização do Solver do Excel e análise de relatórios de sensibilidade:</strong> implementação de modelos de otimização no Excel, interpretação dos relatórios de sensibilidade e avaliação do impacto de variações nos parâmetros.</li><br /><li><strong>Teoria da Decisão:</strong> fundamentos da tomada de decisão, incluindo critérios de decisão sob certeza, risco e incerteza, bem como a construção e análise de árvores de decisão.</li><br /><li><strong>Problemas Multicritério:</strong> formulação e resolução de problemas de decisão com múltiplos critérios, abordagens como a programação por metas e métodos de apoio à decisão multicritério.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A exposição dos temas programáticos será acompanhada, sempre que possível, por métodos de aprendizagem ativa, promovendo a participação dos estudantes. Os conceitos serão ilustrados com casos práticos, exemplos e problemas reais, facilitando a compreensão e a aplicação dos métodos abordados.</p>
+<p>As aulas incluirão momentos de discussão e reflexão, incentivando os estudantes a analisarem criticamente os problemas apresentados e a explorarem diferentes abordagens de resolução. Serão propostos exercícios práticos para consolidar os conhecimentos adquiridos, com feedback contínuo por parte do docente.</p>
+<p>Além disso, serão disponibilizados materiais de apoio, como notas de aula, referências bibliográficas e tutoriais sobre ferramentas de modelação e otimização. O esclarecimento de dúvidas será promovido durante as aulas . Os estudantes serão encorajados a utilizar software apropriado para a resolução dos problemas abordados ao longo do curso.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 75.0 %
+- Trabalho prático ou de projeto: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 121.0 horas
+- Frequência das aulas: 41.0 horas
+
+## Fórmula de cálculo da classificação final
+<ul><br /><li><strong>Micro-testes realizados em aula (sem consulta) (0 a 10 valores):</strong> A classificação será a soma das pontuações obtidas nos micro-testes realizados no final de cada aula, excluindo as duas classificações mais baixas. Cada exercício será avaliado numa escala de 0 a 100%.</li><br /><li><strong>Teste intermédio (sem consulta) (0 a 5 valores):</strong> O teste intermédio será avaliado numa escala de 0 a 100%.</li><br /><li><strong>Trabalho de grupo (0 a 5 valores):</strong> O trabalho de grupo será avaliado numa escala de 0 a 100%.</li><br /></ul><br /><p>Os estudantes serão aprovados se a classificação final for igual ou superior a 10 valores.</p>
+
+## Obtenção de frequência
+<p>Para obter frequência na unidade curricular, os estudantes devem alcançar um mínimo de 5 valores na componente de avaliação distribuída.</p>
+<p>Além deste requisito, os estudantes devem cumprir as disposições estabelecidas nas normas gerais de avaliação da FEUP, disponíveis em: <a href="https://paginas.fe.up.pt/~contqf/producao/_SERAC/Legislacao/Regulamentos/RegulamentosFEUP/normas%20gerais%20de%20avaliacao.pdf" target="_blank"> Normas Gerais de Avaliação da FEUP </a>.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Decision Support Systems
+
+## Curso responsável
+Bachelor of Arts in Information Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Resultados de aprendizagem e competências
+<p>Equip students with the skills to:</p>
+<ul>
+<li>Identify and systematically approach decision-making problems;</li>
+<li>Develop decision problem models;</li>
+<li>Identify and apply analytical methods to obtain solutions for the developed models, supporting well-founded decisions;</li>
+<li>Use spreadsheets for analysis and solution generation for the developed models;</li>
+<li>Formulate decision problems with multiple criteria and apply decision support methodologies in environments of uncertainty and risk.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>It is recommended that students have basic knowledge of spreadsheets, including the use of functions, data manipulation, and table creation. Additionally, fundamental computing skills, such as file organization and the use of software for data analysis, are beneficial.</p>
+
+## Programa
+<ul><br /><li><strong>Formulating linear programming problems with continuous variables:</strong> mathematical modeling, interpretation of optimal solutions, and analysis of practical cases.</li><br /><li><strong>Formulation of network problems using linear programming models:</strong> representation of problems in graphs, including flow problems, shortest paths, and minimum spanning trees.</li><br /><li><strong>Formulation of linear programming problems with integer and binary variables:</strong> modeling and solving combinatorial problems, including logical and capacity constraints.</li><br /><li><strong>Use of Excel Solver and sensitivity report analysis:</strong> implementation of optimization models in Excel, interpretation of sensitivity reports, and evaluation of parameter variations.</li><br /><li><strong>Decision Theory:</strong> fundamentals of decision-making, including decision criteria under certainty, risk, and uncertainty, and the construction and analysis of decision trees.</li><br /><li><strong>Multicriteria Decision Problems:</strong> formulation and resolution of decision problems with multiple criteria, approaches such as goal programming, and multicriteria decision support methods.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The presentation of the course topics will be complemented, whenever possible, with active learning methods, encouraging student participation. Concepts will be illustrated through practical cases, examples, and real-world problems to enhance understanding and application.</p>
+<p>Classes will include moments of discussion and reflection, encouraging students to analyze the presented problems and explore different solution approaches critically. Practical exercises will be provided to consolidate acquired knowledge, with continuous feedback from the instructor.</p>
+<p>Additionally, support materials such as lecture notes, bibliographic references, and tutorials on modeling and optimization tools will be made available. Doubt clarification will be encouraged during classes. Students will be encouraged to use appropriate software to solve the problems addressed throughout the course.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 75.0 %
+- Trabalho prático ou de projeto: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 121.0 hours
+- Frequência das aulas: 41.0 hours
+
+## Fórmula de cálculo da classificação final
+<ul><br /><li><strong>In-class micro-tests (closed book) (0 to 10 points):</strong> The final score will be the sum of the scores obtained in the micro-tests conducted at the end of each class, excluding the two lowest scores. Each exercise will be graded on a scale from 0 to 100%.</li><br /><li><strong>Mid-term test (closed book) (0 to 5 points):</strong> The mid-term test will be graded on a scale from 0 to 100%.</li><br /><li><strong>Group assignment (0 to 5 points):</strong> The group assignment will be graded on a scale from 0 to 100%.</li><br /></ul><br /><p>Students will pass if their final grade is equal to or greater than 10 points.</p>
+
+## Obtenção de frequência
+<p>To obtain attendance in this course, students must achieve a minimum of 20% of 12 points in the continuous assessment component.</p>
+<p>In addition to this requirement, students must comply with the provisions in the FEUP general assessment regulations (in Portuguese) available at<span style="box-sizing: border-box; margin: 0px; padding: 0px;"><a href="https://paginas.fe.up.pt/~contqf/producao/_SERAC/Legislacao/Regulamentos/RegulamentosFEUP/normas%20gerais%20de%20avaliacao.pdf" target="_blank"> </a></span><a href="https://paginas.fe.up.pt/~contqf/producao/_SERAC/Legislacao/Regulamentos/RegulamentosFEUP/normas%20gerais%20de%20avaliacao.pdf" target="_blank">FEUP General Assessment Regulations</a>.</p>
+

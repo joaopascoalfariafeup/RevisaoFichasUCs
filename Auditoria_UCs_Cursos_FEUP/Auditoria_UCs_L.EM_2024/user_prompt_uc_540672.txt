@@ -1,0 +1,117 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Transferência de Calor
+
+## Curso responsável
+Licenciatura em Engenharia Mecânica
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p><strong>Objectivos</strong>: Conhecer e compreender os mecanismos e os modos de transferência de calor e as equações que os caraterizam; saber aplicar essas equações a situações práticas, quer em problemas de análise quer em problemas de projeto; ter um primeiro contacto com técnicas experimentais de transferência de calor; compreender os fundamentos da análise de TC usando métodos numéricos.</p>
+
+## Resultados de aprendizagem e competências
+<div style=&quot;color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: #ffffff; outline-width: 0px; outline-style: initial; outline-color: initial; margin: 8px;&quot;><br /><p><strong>Competências</strong>: </p><br /><p>Ser capaz de efetuar análise qualitativa, e também quantitativa em situações para as quais existem soluções analíticas conhecidas ou correlações experimentais expeditas. Usar a análise quantitativa para situações de projeto e dimensionamento, incluindo quando necessário cálculos iterativos.</p><br /><br /><br /><p><strong>Resultados da aprendizagem e competências</strong>:</p><br /><p>Capacidade de compreender e interpretar os fenómenos físicos envolvendo processos de Transferência de Calor.</p><br /><p>Capacidade de efetuar análise quantitativa dos processos, através de métodos analíticos ou envolvendo correlações experimentais.</p><br /><p>Ser capaz de aplicar os conhecimentos adquiridos à análise e projeto de equipamentos.</p><br /></div>
+
+## Pré-requisitos e co-requisitos
+<p>Conhecimentos fundamentais de Álgebra e Análise Matemática, Análise Numérica, Mecânica de Fluidos e Termodinâmica.</p>
+
+## Programa
+<p><strong>1. Introdução aos mecanismos e modos de Transferência de Calor</strong>: Processos físicos fundamentais da condução, convecção e radiação; Equações para noção de resistência térmica.</p>
+<p><strong>2. Condução</strong>: equação de Fourier; condutibilidade e difusibilidade térmica; equação geral da condução; condução monodimensional estacionária (placa plana, cilindro e esfera, com e sem geração de calor interna; alhetas); condução transiente (sistema global, soluções analíticas monodimensionais para placa plana, cilindro e esfera); breve introdução à solução numérica da condução multidimensional estacionária.</p>
+<p><strong>3. Convecção monofásica:</strong> equação da energia para um escoamento; números adimensionais; coeficiente de convecção; escoamentos internos e externos e respetivas correlações; convecção natural em geometrias simples (placa, cilindro, cavidade rectangular) e correlações. <br /><br /><strong>4. Conveção com mudança de fase:</strong> condensação em filme no exterior de placas e tubos e respetivas correlações; ebulição em reservatório: regimes e correlações respectivas. </p>
+<p><strong>5. Radiação</strong>: radiação eletromagnética e térmica; conceitos fundamentais; corpo negro e suas propriedades; propriedades radiativas dos materiais; trocas de radiação em meio não participante (radiosidade, fator de forma e balanços); radiação e convecção combinadas; escudos de radiação; analogia reo-eléctrica e suas limitações.<br /><br /><strong>6. Permutadores de calor: </strong>tipos e geometria; diferença de temperatura média logarítmica e eficiência; relações eficiência-NTU para diferentes geometrias.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teórico-práticas com exposição dos conceitos e equações, e análise de exemplos práticos (duas sessões semanais de 1,5 h cada). Uma outra sessão semanal de 1,5 h é dedicada à resolução acompanhada de problemas e ao esclarecimento de dúvidas.<br /><br /> Prática laboratorial de introdução à transferência de calor, que consiste na realização de 2 trabalhos, em grupo, e na resposta a um questionário sobre cada trabalho.</p>
+<p> </p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho laboratorial: 10.0 %
+- Teste: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 100.0 horas
+- Frequência das aulas: 58.5 horas
+- Trabalho laboratorial: 4.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Em regime/época NORMAL:<br /> <br /> CF=0,10xTL+max(0.40xTI+0,50xENV1; 0,90xENV2), onde:<br /> <br /> CF=Classificação Final (0-20);<br /> TL=Classificação dos Trabalhos Laboratoriais (0-20);<br /> TI=Classificação do Teste Intermédio (0-20);<br /> ENV1*=Classificação do Exame relativo à segunda parte da matéria (0-20).<br /> ENV2*=Classificação do Exame relativo à matéria toda &#8211; opção para estudantes com classificação inferior a 8,5 valores no Teste Intermédio.</p>
+<p><br /> Para a componente TL, os estudantes que realizaram trabalhos laboratoriais nos dois anos anteriores podem contar com as classificações então obtidas.<br /> <br /> Em regime/época de RECURSO:<br /> <br /> CF=1,00xER, onde:<br /> <br /> CF=Classificação Final (0-20);<br /> ER=Classificação do Exame de Recurso (0-20).</p>
+<p>Para outras épocas de exame (Setembro, Conclusão de curso, etc): aplicam-se as mesmas regras que para a avaliação em época de recurso.</p>
+
+## Obtenção de frequência
+<p>Terão acesso às provas os estudantes regularmente inscritos à data de realização das mesmas que tenham participado pelo menos em 75% das aulas com registo de presença.</p>
+
+## Melhoria de classificação
+<p>Através do exame de época de recurso.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Heat Transfer
+
+## Curso responsável
+Bachelor in Mechanical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>To understand the mechanisms and modes of heat transfer and to identify the corresponding governing fundamental equations. The focus is on the comprehension of the physical phenomena, and their modelling through simplified mathematical models. Another objective is to provide a first contact with heat transfer experimental techniques.</p>
+
+## Resultados de aprendizagem e competências
+<div style=&quot;color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: #ffffff; outline-width: 0px; outline-style: initial; outline-color: initial; margin: 8px;&quot;><br /><p><strong>Competences</strong>: to be able to perform qualitative and quantitative analyses in cases where relatively simple analytical solutions or simplified correlations exist. To use quantitative analysis tools in design situations, through the use of supporting calculation means.</p><br /><br /><br /><p><strong>Resultados da aprendizagem e competências</strong>: </p><br /><div style=&quot;color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: #ffffff; outline-width: 0px; outline-style: initial; outline-color: initial; margin: 8px;&quot;><br /><p>Ability to understand and interpreter  the phenomena involving heat transfer processes.<br /><br />Ability to develop quantitative analyis of processes, though analytical melhods invilving experimental correlations.<br /><br />Being able to ally the knowledge in the analysis and design of equipments, regarding temperature distributions and heat fluxes.</p><br /></div><br /></div>
+
+## Pré-requisitos e co-requisitos
+<p>Fundamental knowledge in Mathematics, Algebra, Numerical Analysis, Fluid Mechanics and Thermodynamics.<br /><br /></p>
+
+## Programa
+<div style=&quot;color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: #ffffff; outline-width: 0px; outline-style: initial; outline-color: initial; margin: 8px;&quot;><br /><p><strong>1. Introduction to Heat Transfer mechanisms and modes</strong>: difference between the Heat Transfer and the Thermodynamics approaches; simple cases of conduction, convection and radiation; notion of thermal resistance.</p><br /><p><strong>2. Conduction</strong>: Fourier equation; thermal conductivity and difusivity; general conduction equation; steady unidimensional conduction (plane wall, cylinder and sphere, without and with internal generation, fins); brief introduction to numerical solutions for multidimensional steady conduction; transient conduction (global system, unidimensional analytical solutions for plane wall, cylinder and sphere).</p><br /><p><strong>3. Convection:</strong> energy equation for fluid flow; dimensionless numbers; convection coefficient; internal and external flows and their correlations; natural convection in simple geometries (plate, cylinder, rectangular cavity) and correlations. <br /><br /><strong>4. Phase change:</strong> film condensation outside plane walls and tubes, and their correlations; pool boiling: regimes and correlations.</p><br /><p><strong>5. Radiation</strong>: eletromagnetic and thermal radiation; fundamental concepts; black body and its properties; radiative properties of materials; radiation exchanges in a non-participating media (radiosity, view factor and balances); combined radiation and convection; radiation shields; electrical analogy and its limitations.</p><br /><strong>6. Heat exchangers: </strong>types and geometry; mean log temperature difference and efficiency; efficiency-NTU relationships for different geometries.<br /><br /><p> </p><br /></div>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical-practical sessions to explain the concepts and equations, and analyse practical examples (two weekly sessions of 1.5 h each). An additional weekly session of 1.5 h will be dedicated to assist in the solution of practical problems.<br />The laboratory practice consists of 2 works during the semester, in group, followed by a questionnaire about each work.</p>
+<p> </p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho laboratorial: 10.0 %
+- Teste: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 100.0 hours
+- Frequência das aulas: 58.5 hours
+- Trabalho laboratorial: 4.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>NORMAL:<br />Distributed evaluation with final exam:<br />- Labotaory works, weight 10%;<br />- Intermediate test, weight 40%;<br />- Final exam, weight 50% (version1) or 90%(version2, overruning the intermediate test).<br /><br />Recurso/RUN-UP ans special exams:<br />- Final exam, weight 100%.</p>
+
+## Obtenção de frequência
+<p>All students duly registered and with over 75% registered attendance are admited.</p>
+
+## Melhoria de classificação
+<p>Recurso exam.</p>
+

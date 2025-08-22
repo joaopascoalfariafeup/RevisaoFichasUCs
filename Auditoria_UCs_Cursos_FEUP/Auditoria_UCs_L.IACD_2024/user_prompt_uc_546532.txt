@@ -1,0 +1,109 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Aprendizagem Computacional II
+
+## Curso responsável
+Licenciatura em Inteligência Artificial e Ciência de Dados
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<span lang=&quot;PT&quot;>Esta UC consiste numa introdução a alguns dos fundamentos algorítmicos de aprendizagem computacional profunda e por reforço. <br /><br />Pretende-se que os estudantes façam um primeiro contacto com tais conceitos e com métodos concretos de implementação de tais algoritmos.<br /><br />Deverão ser capazes de selecionar fundamentadamente algoritmos adequados assim como detalhes de arquiteturas de modelos e técnicas de aprendizagem para cada tarefa apresentada. </span><span lang=&quot;PT&quot;><br /><br />Deverão saber estimar o desempenho dos métodos aplicados e usar esta informação para desenho iterativo dos modelos.<br /></span>
+
+## Resultados de aprendizagem e competências
+- Compreensão dos fundamentos dos algoritmos e metodologias de aprendizagem profunda e aprendizagem por reforço.<br />- Capacidade de justificar a escolha de uma solução de aprendizagem profunda ou por reforço a um determinado problema<br />- Capacidade de desenho de soluções para novos problemas com base em métodos de aprendizagem profunda ou por reforço<br />- Capacidade de avaliação do desempenho da solução proposta e otimização do modelo
+
+## Pré-requisitos e co-requisitos
+- Conhecimentos iniciais de inteligência artificial e ciência de dados <br />- Conhecimentos iniciais de aprendizagem computacional (por exemplo, frequência da UC de Aprendizagem Computacional I).<br />- Conhecimentos de programação de preferência Python. <br />- Conhecimentos de álgebra matricial básica e de cálculo em R e em R^n
+
+## Programa
+<p>- Introdução às redes neuronais e aprendizagem profunda<br />- Técnicas de treino<br />- Redes neuronais convolucionais<br />- Redes neuronais recorrentes<br />- Modelos generativos<br />- Aprendizagem por reforço<br />- Elementos de explicabilidade em aprendizagem profunda<br /><br /></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Nas aulas teóricas sera&#769; usado o me&#769;todo expositivo, sendo apresentados os temas do programa.</p>
+<p>As aulas práticas consistirão na resolução de exerci&#769;cios de aplicac&#807;a&#771;o dos conceitos introduzidos nas aulas teóricas e no desenvolvimento de um trabalho prático.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 64.0 horas
+- Frequência das aulas: 48.0 horas
+- Elaboração de projeto: 50.0 horas
+
+## Fórmula de cálculo da classificação final
+F = 0.6*E + 0.4*P<br /><br />F: nota final<br />E: Exame<br />P:Trabalhos práticos<br /><br />Para serem aprovados, os alunos devem ter nota superior a 7 valores em 20 no exame.
+
+## Obtenção de frequência
+- Nota superior a 6 valores em 20 nos trabalhos práticos.
+
+## Melhoria de classificação
+O exame é melhoráveis na época de recurso. A componente prática não é melhorável.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Machine Learning II
+
+## Curso responsável
+Bachelor in Artificial Intelligence and Data Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+This UC consists of an introduction to some of the algorithmic foundations of deep and reinforcement learning.<br /><br />It is intended that students have a first contact with such concepts and with concrete methods of implementing such algorithms.<br /><br />They should be able to carefully select suitable algorithms and details of model architectures and learning techniques for each of the tasks presented.<br /><br />They should know how to estimate the performance of the applied methods and use this information for iterative model design.
+
+## Resultados de aprendizagem e competências
+- Understanding the fundamentals of deep learning and reinforcement learning algorithms and methodologies.<br />- Ability to justify the choice of a deep or reinforcement learning solution to a given problem<br />- Ability to design solutions to new problems based on deep or reinforcement learning methods<br />- Ability to evaluate the performance of the proposed solution and optimize the model
+
+## Pré-requisitos e co-requisitos
+- Initial knowledge of artificial intelligence and data science<br />- Initial knowledge of computational learning (for example, attendance at the UC of Aprendizagem Computacional I).<br />- Programming knowledge preferably Python.<br />- Knowledge of basic matrix algebra and calculus in R and R^n
+
+## Programa
+- Introduction to neural networks and deep learning<br />- Training techniques<br />- Convolutional neural networks<br />- Recurring neural networks<br />- Generative models<br />- Reinforcement learning<br />- Elements of explainability in deep learning
+
+## Métodos de ensino e atividades de aprendizagem
+In theoretical classes, the expository method will be used, presenting the themes of the program.<br /><br />The practical classes will consist of the resolution of exercises to apply the concepts introduced in the theoretical classes and the development of a practical work.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 64.0 hours
+- Frequência das aulas: 48.0 hours
+- Elaboração de projeto: 50.0 hours
+
+## Fórmula de cálculo da classificação final
+F = 0.6*E + 0.4*P<br /><br />F: final grade<br />E: exam<br />P: practical work<br /><br />In order to pass, students must have a grade higher than 7 points out of 20 in the exam.
+
+## Obtenção de frequência
+- Grade above 6 out of 20 in practical work.
+
+## Melhoria de classificação
+The exam grade can be improved in the appeal season. The practical work grade cannot be improved after submission.
+

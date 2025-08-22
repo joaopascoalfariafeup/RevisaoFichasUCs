@@ -1,0 +1,140 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Arquitetura de Computadores
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+Esta unidade curricular introduz os princípios de funcionamento de um computador moderno e a sua arquitetura geral, com ênfase na contribuição de cada subsistema para o desempenho global.<br /><br /><p>A análise da tecnologia de implementação física dos computadores (em especial da organização do CPU e da hierarquia de memória), assim como da arquitetura do conjunto de instruções (ISA), possibilitará aos estudantes identificar e descrever princípios fundamentais da operação dos computadores, das linguagens de programação (<em>assembly</em> em particular), e do desenvolvimento de <em>software</em>.</p>
+
+## Resultados de aprendizagem e competências
+<p>Após completarem esta unidade curricular, os estudantes deverão ser capazes de:</p>
+<ul>
+<li>Identificar e descrever os principais subsistemas de um computador pessoal: unidade de processamento, memória e periféricos;</li>
+<li>Explicar e avaliar o desempenho de computadores em cenários simples envolvendo a equação fundamental do desempenho e a lei de Amdahl;</li>
+<li>Classificar e caracterizar os tipos de instruções de uma unidade de processamento;</li>
+<li>Explicar os princípios básicos da codificação de instruções e identificar o seu impacto sobre o desempenho;</li>
+<li>Escrever programas simples em linguagem <em>assembly</em> RISC-V envolvendo operações aritméticas e booleanas, comparações e saltos;</li>
+<li>Descrever o funcionamento de uma unidade de processamento uniciclo;</li>
+<li>Descrever e explicar o conceito de <em>pipeline</em> e o seu impacto no desempenho;</li>
+<li>Descrever o funcionamento de uma unidade de processamento em <em>pipeline</em>;</li>
+<li>Aplicar os conhecimentos de máquinas de estados à análise da unidade de controlo de uma unidade de processamento em <em>pipeline</em>;</li>
+<li>Identificar os conflitos de dados e de controlo que podem surgir numa unidade de processamento em <em>pipeline</em>;</li>
+<li>Calcular o impacto dos conflitos de <em>pipeline</em> no desempenho para cenários simples;</li>
+<li>Distinguir entre memórias estáticas e dinâmicas, e identificar as respetivas áreas de utilização;</li>
+<li>Explicar o princípio de funcionamento dos dois tipos de memórias;</li>
+<li>Identificar os vários níveis da hierarquia de memória de um computador;</li>
+<li>Explicar o princípio de funcionamento da memória <em>cache</em>;</li>
+<li>Descrever a organização de uma memória <em>cache</em> (associatividade) e o tratamento de faltas no acesso a memória;</li>
+<li>Avaliar a influência da hierarquia de memória sobre o desempenho.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Bons conhecimentos na área de Sistemas Digitais assim como noções básicas de Programação.
+
+## Programa
+O programa de Arquitetura de Computadores é composto pelos seguintes tópicos:<br /><br /><ul><br /><li>Introdução. Áreas de aplicação de computadores e suas características. Programas: linguagens de alto nível versus linguagens de baixo nível. Modelo conceptual da execução de um programa.</li><br /><li>Componentes de um computador: CPU (percurso de dados e unidade de controlo), memória e periféricos de entrada/saída. Evolução da tecnologia de processadores e memórias.</li><br /><li>Noções básicas de desempenho de CPUs. Equação básica de desempenho. Benchmarks (SPEC). Consumo de energia. Lei de Amdahl.</li><br /><li>Conjunto de instruções de um processador RISC-V. Tipos de instruções: aritméticas, lógicas, acessos a memória, comparações e saltos. Modos de endereçamento. Codificação de instruções.</li><br /><li>Conceitos básicos de programação em linguagem <em>assembly</em>. Análise e implementação de programas simples com recurso a um emulador da arquitetura RISC-V (RARS).</li><br /><li>Organização de uma unidade de processamento. Organização uniciclo de um CPU. Conceito de <em>pipelining</em>. Organização de um percurso de dados em <em>pipeline</em>. Controlo de pipeline. Conflitos de <em>pipeline</em>: conflitos de dados e de controlo. Estratégias de tratamento dos conflitos. Impacto dos conflitos sobre o desempenho.</li><br /><li>Memórias estáticas e dinâmicas: organização e modelo conceptual. Hierarquia de memória.</li><br /><li>Memória <em>cache</em>: princípio de funcionamento, organização interna, associatividade e tratamento de faltas. Desempenho de CPU com memória <em>cache</em>. Redução da penalidade associada a faltas no acesso.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Nas aulas teóricas serão expostos os assuntos sobre arquitetura de computadores em geral e a arquitetura RISC-V em particular, acompanhados da apresentação de exemplos.<br /><br />Nas aulas práticas laboratoriais serão resolvidos exercícios envolvendo os assuntos abordados nas aulas teóricas. Adicionalmente serão desenvolvidos e testados programas simples em <em>assembly</em> RISC-V recorrendo a um simulador (RARS), assim como ferramentas de <em>software</em> que detalham a operação interna do CPU e de memória <em>cache</em>.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Teste: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final (CF) da época normal é calculada pela expressão:<br /><br />CF = 0,4 x Q + 0,6 x E</p>
+<p>em que:</p>
+<ul style="list-style-type: disc;">
+<li>Q = Questionários realizados em aulas PL</li>
+<li>E = Exame</li>
+</ul>
+<p>Estudantes que tenham obtido frequência (assiduidade) no ano letivo anterior podem obter CF realizando apenas o exame (CF=E) ou, em alternativa, usando a componente de avaliação distribuída (Q) obtida no ano anterior e fazer o exame.<br />Estes estudantes podem ainda optar por se inscrever em turmas, perdendo a frequência (assiduidade) anterior, sendo avaliados como se fossem estudantes de primeira inscrição.<br /><br />Estudantes sem obtenção de frequência não são admitidos a exame.<br /><br />A classificação obtida no exame da época de recurso, se superior, substitui a classificação obtida no exame (E).</p>
+
+## Obtenção de frequência
+<p>A obtenção de frequência exige que os estudantes se inscrevam em turmas (para participarem nas aulas PL) e não excedam o número limite de faltas, correspondente a 25% das aulas PL previstas, isto é, não tenham mais de 3 faltas.</p>
+<p>A inscrição em turma faz perder a frequência que possam ter obtido em ano letivo anterior.</p>
+
+## Melhoria de classificação
+<p>A melhoria de classificação pode ser efetuada realizando o exame de recurso ou o exame na época normal do ano letivo seguinte.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computer Architecture
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+This course introduces the principles of operation of a modern computer and its overall architecture, with emphasis on the contribution of each subsystem to the overall performance.<br /><br /><p>The analysis of the physical implementation technology of computers (especially the organization of their CPU and memory hierarchy), as well as the instruction set architecture (ISA), will enable students to identify and describe fundamental principles of computer operation, programming languages &#8203;&#8203;(assembly in particular), and software development.</p>
+
+## Resultados de aprendizagem e competências
+After completing this course, students should be able to:<br /><br /><ul><br /><li>Identify and describe the major subsystems of a personal computer: processing unit, memory and peripherals;</li><br /><li>Explain and evaluate the performance of computers in simple scenarios involving the performance equation of and Amdahl's law;</li><br /><li>Classifying and characterizing the types of instructions in a processing unit;</li><br /><li>Explain the basic principle of encoding instructions and identify their impact on performance;</li><br /><li>Write simple programs in RISC-V assembly language involving arithmetic, boolean, comparison and jump operations;</li><br /><li>Describe the operation of a unicycle processing unit;</li><br /><li>Describe and explain the concept of &quot;pipeline&quot; and its impact on performance;</li><br /><li>Describe the operation of a pipelined processing unit;</li><br /><li>Apply knowledge of finite state machines to the analysis of the control unit of a pipelined processing unit;</li><br /><li>Identify data and control hazards that can arise in a pipelined processing unit;</li><br /><li>Calculate the impact of conflicts in the performance of a &quot;pipeline&quot; in simple scenarios;</li><br /><li>Distinguish between static and dynamic memories, and identify the respective areas of use;</li><br /><li>Explain the principle of operation of both types of memories;</li><br /><li>Identify the various levels of the memory hierarchy in a computer;</li><br /><li>Explain the working principle of &quot;cache&quot; memory;</li><br /><li>Describe the organization of a &quot;cache&quot; memory (associativity) and the handling of memory misses;</li><br /><li>Evaluate the influence of memory hierarchy on performance.</li><br /></ul>
+
+## Pré-requisitos e co-requisitos
+Good knowledge in the field of Digital Systems as well as basics of Programming.
+
+## Programa
+The sylabus of Computer Architecture consists of the following topics:<br /><br /><ul><br /><li>Introduction. Areas of application of computers and their characteristics. Programs: high-level languages versus low-level languages. Conceptual model of program execution.</li><br /><li>Components of a computer: CPU (data path and control unit), memory, peripheral input/output. Evolution of processors and memories technology.</li><br /><li>Understanding the performance of CPUs. Performance equation. Benchmarks (SPEC). Energy consumption. Amdahl's Law.</li><br /><li>Instruction set of a RISC-V processor. Types of instructions: arithmetic, logical, comparison and jump. Addressing modes. Instruction coding.</li><br /><li>Basic concepts of programming in &quot;assembly&quot; language. Analysis and implementation of simple programs using a RISC-V architecture emulator (RARS).</li><br /><li>Organization of a processing unit. Unicycle organization of a CPU. Pipelining concept. Organization of a pipeline data path. Pipeline control. Pipeline conflicts: data and control hazards. Strategies for dealing with conflicts. Impact of conflict on performance.</li><br /><li>Static and Dynamic Memory: organization and conceptual model. Memory hierarchy.</li><br /><li>Cache Memory: principle of operation, internal organization, associativity and handling cache misses. CPU performance with cache memory. Reduction of penalties associated with access misses.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>In theoretical classes, subjects about computer architecture in general and the RISC-V architecture in particular will be exposed, accompanied by examples.</p>
+<p>In practical laboratory classes, exercises involving the topics covered in theoretical classes will be solved. Additionally, simple RISC-V assembly programs will be developed and tested using a simulator (RARS), as well as software tools that detail the internal operation of the CPU and cache memory.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Teste: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final grade (CF) is calculated by:<br /><br />CF = 0,4 x Q + 0,6 x E</p>
+<p>where:</p>
+<ul>
+<li>Q = Quizzes taken in PL classes</li>
+<li>E = Final exam</li>
+</ul>
+<p><span class="VIiyi" lang="en"><span class="JLqJ4b ChMk0b" data-language-for-alternatives="en" data-language-to-translate-into="pt" data-phrase-index="0">Students who have obtained attendance in the previous academic year can obtain CF by taking the exam only (CF=E) or, alternatively, by using the distributed assessment (Q) obtained in the previous year and taking the exam.<br />These students can also choose to enrol in classes, losing their previous attendance and being assessed as if they were students enrolling for the first time.<br /><br />Students without "Frequência" (attendance) are not admitted to the exam.<br /><br />The grade obtained in the appeal period exam, if higher, replaces the grade obtained in the exam (E).<br /></span></span></p>
+
+## Obtenção de frequência
+<p>Obtaining attendance requires students to enroll in classes (to participate in PL classes) and not exceed the limit number of absences, corresponding to 25% of the foreseen PL classes, that is, they do not have more than 3 absences.</p>
+<p>Enrolling in a practical class makes them lose the "Frequência" (attendance) they may have obtained in previous academic year.</p>
+
+## Melhoria de classificação
+<p>Classification improvement can be done by taking the "appeal" exam or taking the exam <span class="VIiyi" lang="en"><span class="JLqJ4b ChMk0b" data-language-for-alternatives="en" data-language-to-translate-into="pt" data-phrase-index="0">at the normal season of the following academic year.</span></span></p>
+

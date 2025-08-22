@@ -1,0 +1,110 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Conceção e Fabrico Assistidos por Computador
+
+## Curso responsável
+Licenciatura em Engenharia Mecânica
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+Os conteúdos programáticos abordados nesta UC foram estruturados de modo a que os estudantes possam:<br /><br />1. Aprofundar a sua análise funcional de mecanismos.<br />2. Conhecer os fundamentos, as caraterísticas e as funcionalidades de sistemas CAD 2D e 3D.<br />3. Utilizar eficientemente sistemas CAD 2D e 3D para modelar e simular componentes e sistemas mecânicos.<br />4. Realizar testes computacionais de resistência mecânica baseados em soluções integradas em sistemas CAD.<br />5. Conhecer os fundamentos, as caraterísticas e as funcionalidades de sistemas de comando numérico de máquinas ferramentas.<br />6. Programar eficientemente sistemas de comando numérico de máquinas ferramentas.<br />7. Desenvolver aplicações de interface entre sistemas CAD/CAM/CNC/Simulação envolvendo informação geométrica e não geométrica.
+
+## Resultados de aprendizagem e competências
+No final, os estudantes deverão ser capazes de:<br /><br />1) Conhecer os sistemas CAD/CAM mais usuais, bem como saber utilizar as funções disponibilizadas pelos mesmos;<br />2) Executar adequadamente um desenho de definição ou de conjunto usando sistemas CAD;<br />3) Modelar tridimensionalmente componentes de sistemas mecânicos bem como proceder à sua montagem usando sistemas CAD;<br />4) Obter automaticamente desenhos de conjunto de sistemas mecânicos ou desenhos de definição de um dos seus componentes previamente modelados usando sistemas CAD;<br />5) Realizar testes/simulações computacionais de resistência mecânica usando soluções integradas em sistemas CAD;<br />6) Desenvolver programas computacionais para processar informação de sistemas CAD/CAM/CNC/Simulação;<br />8) Conhecer os princípios base de sistemas de comando numérico e de máquinas ferramenta associadas;<br />9) Desenvolver programas de comando numérico para operações de maquinagem em torno e fresadora.
+
+## Pré-requisitos e co-requisitos
+Pré-requisitos<br /><br />Conhecimento sobre conceitos relativos à Normalização em Desenho de Construção Mecânica (unidade de Desenho de Construção Mecânica).<br />Capacidade de realizar análises funcionais de mecanismos (unidade de Desenho de Construção Mecânica).<br />Capacidade de ler e elaborar desenhos de conceção, conjunto e definição de produto acabado (unidade de Desenho de Construção Mecânica).<br />Capacidade de estabelecer relações entre as fases de conceção, definição e fabrico (unidade de Desenho de Construção Mecânica)<br />Conhecimentos sobre processos de fabrico e desenvolvimento de produto (unidade de Introdução à Engenharia Mecânica).<br />Conhecimentos sobre programação de computadores (unidade de Programação de Computadores).
+
+## Programa
+O programa da Unidade Curricular engloba:<br /><br />I) Sistemas CAD, sua descrição e classificação.<br />II) Utilização de sistemas de desenho assistido por computador CAD 2D e de conceção 3D, desenho paramétrico.<br />III) Utilização de sistemas para teste/simulação de resistência mecânica baseados em métodos de simulação integrados em sistemas CAD.<br />IV) Introdução à computação gráfica, curvas, superfícies de interpolação e bibliotecas gráficas.<br />V) Interfaces desenho-conceção, desenho-análise e desenho-fabrico. Desenvolvimento de programas computacionais para processar informação de sistemas CAD/CAM/CNC/Simulação.<br />VI) Programação manual e automática de máquinas CNC.
+
+## Métodos de ensino e atividades de aprendizagem
+O funcionamento previsto para a Unidade Curricular é o seguinte:<br /><br />- Apresentação dos temas abordados na Unidade Curricular durante as aulas teóricas (1,5 h T) com análise de exemplos de aplicação.<br />- Nas aulas práticas laboratoriais (2 h PL), são apresentadas algumas particularidades e propostos exercícios, a realizar em computador, para aplicação dos conceitos apresentados nas aulas teóricas.<br />- Durante as primeiras aulas da Unidade Curricular são propostos diversos temas possíveis para os trabalhos práticos a realizar pelos estudantes durante o semestre.<br />- As últimas aulas da Unidade Curricular são destinadas a um apoio mais intenso aos trabalhos práticos. <br /><br />O atendimento aos estudantes, por parte dos docentes, existe ao longo de todo o semestre, em horário pré-estabelecido. Nos dias antecedentes aos exames, os docentes disponibilizam períodos de atendimento mais prolongados para esclarecimento de dúvidas.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 horas
+- Elaboração de relatório/dissertação/tese: 4.5 horas
+- Estudo autónomo: 52.0 horas
+- Frequência das aulas: 45.5 horas
+
+## Fórmula de cálculo da classificação final
+Avaliação é distribuída com exame final, baseada nas classificações de de um exame final e de um trabalho prático.<br /><br />Cada estudante deve submeter-se à avaliação em todas as suas componentes: exame escrito sem consulta com duas partes: I - Sistemas de CAD 2D/3D, II - Programação CNC + Desenvolvimento de Aplicações de Interface CAD/CAM/CNC/Simulação, entrega do trabalho prático.<br /><br />A nota final resulta da média pesada das classificações em cada uma das componentes da avaliação, com os pesos:<br /><br />- Exame escrito: 25% + 25%; sendo necessário uma classificação média &gt;= 30/100%;<br />- Trabalho prático: 50%.<br /><br />Relativamente aos trabalhos, os estudantes, individualmente ou em grupos de dois, deverão definir o seu tema e propô-lo aos docentes que os deverão validar.<br /><br />Está prevista a possibilidade de realização de uma prova de recurso versando a matéria de uma ou das duas partes do exame final.
+
+## Obtenção de frequência
+A aprovação na Unidade Curricular está condicionada à prévia obtenção de frequência às aulas práticas laboratoriais.<br /><br />Cada estudante deve, obrigatoriamente, submeter-se à avaliação em todas as suas componentes: exame escrito final (Com 2 partes: I - Sistemas de CAD 2D/3D, II - Programação CNC + Desenvolvimento de Aplicações de Interface CAD/CAM/CNC), entrega do trabalho prático, e eventual apresentação e discussão do trabalho entregue.
+
+## Melhoria de classificação
+A melhoria de classificação será realizada de acordo com as Normas Gerais de Avaliação da FEUP.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computer Aided Design and Manufacturing
+
+## Curso responsável
+Bachelor in Mechanical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+The syllabus contents covered in this curricular unit were structured so that the students can:<br /><br />1. To deepen their functional analysis of mechanisms.<br />2. Know the fundamentals, features, and functionalities of 2D and 3D CAD systems.<br />3. Efficiently use 2D and 3D CAD systems to model and simulate components and mechanical systems.<br />4. Carry out computational tests of mechanical resistance based on integrated solutions in CAD systems.<br />5. To know the fundamentals, the characteristics, and the functionalities of numerical control systems of machine tools.<br />6. Efficiently program numerical control systems for machine tools.<br />7. Develop interface applications between CAD/CAM/CNC/Simulation systems involving geometric and non-geometric information.
+
+## Resultados de aprendizagem e competências
+At the end, the students should be able to:<br /><br />1) Know the most common CAD/CAM systems, as well as know how to use the functions offered by them;<br />2) Properly execute definition and assembly drawings using CAD systems;<br />3) Modeling three-dimensional mechanical system components as well as assembling them using CAD systems;<br />4) Automatically obtain assembly and definition drawings of previously three-dimensional modeled mechanical systems or of one of their components using CAD systems;<br />5) Perform computational tests/simulations of mechanical resistance using solutions integrated in CAD systems;<br />6) Develop computer programs to process information from CAD/CAM/CNC/Simulation systems;<br />8) Know the basic principles of numerical control systems and associated machine tools;<br />9) Develop numerical control programs for machining operations in lathe and milling machines.
+
+## Pré-requisitos e co-requisitos
+Prerequisites<br /><br />Knowledge about the Normalization in Mechanical Construction Design (Mechanical Construction Design unit) concepts.<br />Ability to perform functional analysis of mechanisms (Mechanical Construction Design unit).<br />Ability to read and elaborate drawings of conception, assembly, and definition of finished product (Mechanical Construction Design unit).<br />Ability to establish relationships between the conception, definition, and manufacturing phases (Mechanical Construction Design unit).<br />Knowledge of manufacturing processes and product development (Introduction to Mechanical Engineering unit).<br />Knowledge of computer programming (Computer Programming unit).
+
+## Programa
+Prerequisites<br /><br />Knowledge about the Normalization in Mechanical Construction Design (Mechanical Construction Design unit) concepts.<br />Ability to perform functional analysis of mechanisms (Mechanical Construction Design unit).<br />Ability to read and elaborate drawings of conception, assembly, and definition of finished product (Mechanical Construction Design unit).<br />Ability to establish relationships between the conception, definition, and manufacturing phases (Mechanical Construction Design unit).<br />Knowledge of manufacturing processes and product development (Introduction to Mechanical Engineering unit).<br />Knowledge of computer programming (Computer Programming unit).
+
+## Métodos de ensino e atividades de aprendizagem
+The expected functioning of the Curricular Unit is as follows:<br /><br />- Presentation of the topics covered in the Curricular Unit during the theoretical classes (1.5 h T) with analysis of application examples. <br />- In the practical laboratorial classes (2 h L), particularities will be presented, and exercises, to be developed in computer, proposed for application of the concepts presented in the theoretical classes.<br />- During the first classes of the Curricular Unit, several possible topics are proposed for the students&#8217; practical works during the semester.<br />- The last lessons of the Curricular Unit are devoted to give more support to the practical works.<br /><br />Throughout the semester, attending to the students by the Professors is possible during pre-established hours. In the days preceding the exams, the Professors offer extended attending periods to clarify doubts.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 hours
+- Elaboração de relatório/dissertação/tese: 4.5 hours
+- Estudo autónomo: 52.0 hours
+- Frequência das aulas: 45.5 hours
+
+## Fórmula de cálculo da classificação final
+The course assessment is distributed with a final written exam and one practical work.<br /><br />Each student must submit to the evaluation in all its components: one written exam without consultation allowed and made of two parts: I - 2D/3D CAD systems, II - CNC Programming + CAD/CAM/CNC/Simulation Interface Applications Development, delivery of the practical work.<br /><br />The final grade results from the weighted average of the grades obtained in each of the evaluation components, with the following weights:<br /><br />- Written exam: 25% + 25%; a average rating &gt;= 30/100% is required;<br />- Practical work: 50%.<br /><br />As to the practical work, students, individually or in groups of two, should define their theme and propose it to the teachers, who should validate them. <br /><br />It is foreseen an appealing test regarding the subjects addressed in one or two parts of the final written exam.
+
+## Obtenção de frequência
+To complete this curricular unit, the students must attain the required frequency of the practical laboratorial classes.<br /><br />The students must also undergo all evaluation components, the final written exam (with 2 parts: I - CAD, II - CNC + CAD/CAM interfaces programming), the delivery of the practical assignment, and possibly its presentation and discussion.
+
+## Melhoria de classificação
+According to the General Evaluation Rules of FEUP.
+

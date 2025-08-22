@@ -1,0 +1,169 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Projeto em Gestão de Operações
+
+## Curso responsável
+Mestrado em Engenharia e Gestão Industrial
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p class="MsoNormal"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">Os gestores de qualquer empresa &#8211; sector privado ou público, industrial ou serviços &#8211; têm que tomar decisões sobre como afectar os recursos da organização. Sendo parte da informação necessária para tomar estas decisões quantitativa/numérica, os gestores de hoje devem ser capazes de a valorizar, analisar e utilizar. O objectivo da disciplina é o de, recorrendo à análise de modelos quantitativos e ferramentas teóricas que suportam as melhores práticas de gestão de operações de empresas, dotar os estudantes de competências de análise e tratamento de dados para a preparação de decisões.</span></p>
+
+## Resultados de aprendizagem e competências
+<p class="MsoNormal">Criar, actualizar e desenvolver nos estudantes competências em métodos quantitativos de apoio à decisão, que lhes permitam:</p>
+<p class="MsoNormal">- Compreender o papel da previsão da procura nas empresas, e perceber a forma como deve ser implementado um sistema de previsão;</p>
+<p class="MsoNormal">- Implementar e usar métodos estatísticos de extrapolação direta, para prever o comportamento de variáveis não controláveis;</p>
+<p class="MsoNormal">- Identificar problemas de otimização, particularmente no contexto da gestão de operações e da otimização combinatória, e abordá-los de uma forma estruturada;</p>
+<p class="MsoNormal">- Identificar as técnicas algorítmicas mas adequadas para resolver um dado problema de otimização;</p>
+<p class="MsoNormal">- Usar métodos heurísticos e meta-heurísticos para obter soluções para os problemas;</p>
+<p class="MsoNormal">- Implementar, testar e validar métodos de pesquisa para resolver diferentes classes de problemas de otimização.</p>
+<p> </p>
+<p class="MsoNormal"> </p>
+
+## Pré-requisitos e co-requisitos
+<p>Investigação Operacional</p>
+<p>Estatística</p>
+
+## Programa
+<p class="MsoNormal">1ª parte: Previsão e Tomada de decisões.</p>
+<p class="MsoListParagraphCxSpFirst" style="text-indent: -18.0pt; mso-list: l1 level1 lfo1;"><!-- [if !supportLists]-->a)<span style="font-size: 7pt; font-family: 'Times New Roman';">       </span><!--[endif]-->Papel dos métodos de previsão (MP) em processos de decisão.</p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l1 level1 lfo1;"><!-- [if !supportLists]-->b)<span style="font-size: 7pt; font-family: 'Times New Roman';">       </span><!--[endif]-->Classificação dos MP. Métodos quantitativos: hipóteses subjacentes e condições de aplicabilidade.</p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l1 level1 lfo1;"><!-- [if !supportLists]-->c)<span style="font-size: 7pt; font-family: 'Times New Roman';">       </span><!--[endif]-->Selecção dos MP.</p>
+<p class="MsoListParagraphCxSpLast" style="text-indent: -18.0pt; mso-list: l1 level1 lfo1;"><!-- [if !supportLists]-->d)<span style="font-size: 7pt; font-family: 'Times New Roman';">       </span><!--[endif]-->Análise de séries temporais: Regressão, Decomposição Clássica e Amortecimento exponencial.</p>
+<p class="MsoNormal">2ª parte: Visão geral de modelos, aplicações e algoritmos para problemas de Optimização Combinatória;</p>
+<p class="MsoListParagraphCxSpFirst" style="text-indent: -18.0pt; mso-list: l0 level1 lfo2;"><!-- [if !supportLists]-->a)<span style="font-size: 7pt; font-family: 'Times New Roman';">       </span><!--[endif]-->Comparação entre métodos exactos e abordagens heurísticas;</p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l0 level1 lfo2;"><!-- [if !supportLists]-->b)<span style="font-size: 7pt; font-family: 'Times New Roman';">       </span><!--[endif]-->Desempenho dos algoritmos; Heurísticas construtivas e de melhoramento;</p>
+<p class="MsoListParagraphCxSpLast" style="text-indent: -18.0pt; mso-list: l0 level1 lfo2;"><!-- [if !supportLists]-->c)<span style="font-size: 7pt; font-family: 'Times New Roman';">       </span><!--[endif]-->Metaheuristicas: princípios gerais e componentes; exemplos de metaheuristicas populacionais e não-populacionais.</p>
+<p> </p>
+<p class="MsoNormal">3ª parte: Análise de modelos quantitativos e ferramentas que suportam as melhores práticas de gestão de operações de empresas de topo; Resolução de um caso real.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p class="MsoNormal">A Unidade Curricular baseia-se numa combinação de exposição dos conteúdos e conceitos com fases de resolução e discussão em grupo de casos de estudo e de artigos científicos.</p>
+<p class="MsoNormal">Aulas teóricas: aulas de apresentação e discussão de casos.</p>
+<p class="MsoNormal">Aulas práticas: resolução de problemas (recorrendo a folhas de cálculo) e esclarecimento de dúvidas.</p>
+<p class="MsoNormal">Na primeira parte do semestre, grupos de 4 alunos terão que analisar um caso de estudo sobre métodos de previsão e produzir um relatório.</p>
+<p class="MsoNormal">Na segunda parte recorrer-se-á a a uma vasta gama de artigos científicos clássicos e recentes sobre gestão de operações e otimização combinatória. Cada grupo de alunos deverá analisar um artigo científico e apresentá-lo. Segue-se um período de arguição, coordenado por um outro grupo de alunos. Tentar-se-á estimular uma aprendizagem activa através de uma discussão aberta.</p>
+<p class="MsoNormal">Na terceira parte, os alunos deverão implementar um procedimento heurístico para resolver uma aplicação real e elaborar um pequeno relatório, num estilo semelhante a um artigo científico.</p>
+<p> </p>
+<p class="MsoNormal">A avaliação inclui a resolução de um caso de estudo em grupo de métodos de previsão, a resolução de um caso de estudo em otimização combinatória, a discussão do artigo científico e dois testes individuais.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Defesa pública de dissertação, de relatório de projeto ou estágio, ou de tese: 5.0 %
+- Participação presencial: 28.0 %
+- Teste: 27.0 %
+- Trabalho escrito: 40.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 12.0 horas
+- Estudo autónomo: 50.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho de campo: 75.0 horas
+
+## Fórmula de cálculo da classificação final
+<p class="MsoNormal">A classificação final (P) é a média pesada da classificação obtida no caso prático de MP (com peso de 0.125)- P1.1, na resolução de um teste individual de métodos de previsão (0.275)-P1.2, na análise do artigo, apresentação intermédia  e implementação de um algoritmo e escrita do relatório (0.45)-P2.1 e num teste individual sobre otimização (0.15)-P2.2.</p>
+<p> </p>
+<p class="MsoNormal">P = 0.125*P1.1 + 0.275*P1.2 + 0.45*P2.1 + 0.15*P2.2</p>
+
+## Obtenção de frequência
+<p class="MsoNormal"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">Presença nas aulas de discussão do caso de métodos de previsao, de artigos e dos resultados intermédios do caso de otimização combinatória.</span></p>
+
+## Melhoria de classificação
+<p class="MsoNormal">Os estudantes podem repetir numa prova de recurso o mini-teste P1.2 e o P2.2 em que tiveram a pior classificação.</p>
+<p> </p>
+<p class="MsoNormal">Os estudantes que pretendam obter melhoria da classificação poderão também fazê-lo no ano letivo seguinte repetindo apenas as componentes de avaliação cuja classificação pretendem melhorar.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Operations Management Project
+
+## Curso responsável
+Master in Industrial Engineering and Management
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">The managers of every company &#8211; from the private or public sectors &#8211; have to make decisions on how to allocate the organization resources. Being part of the necessary information to take decisions quantitative, the managers of today&#8217;s world must be able to assess, analyse and use it. The aim of this course is to provide the students the suitable analytical skills and data treatment tools and quantitative models to support decision making procedures.</span></p>
+
+## Resultados de aprendizagem e competências
+<p class="MsoNormal" style="margin-top: 0cm;"><span lang="EN-US" style="font-size: 9pt; font-family: 'Trebuchet MS', sans-serif;">To allow the students to create, update and develop broad but simultaneously in-depth competences in quantitative methods for management, which may allow them to:  </span></p>
+<p class="MsoNormal" style="margin-top: 0cm;"><span lang="EN-US" style="font-size: 9pt; font-family: 'Trebuchet MS', sans-serif;"> </span></p>
+<p class="MsoNormal" style="margin-top: 0cm;"><span lang="EN-US" style="font-size: 9pt; font-family: 'Trebuchet MS', sans-serif;">- understand the role of demand planning in organizations, and master the way a forecasting system must be implemented:</span></p>
+<p class="MsoNormal" style="margin-top: 0cm;"><span lang="EN-US" style="font-size: 9pt; font-family: 'Trebuchet MS', sans-serif;"> </span></p>
+<p class="MsoNormal" style="margin-top: 0cm;"><span lang="EN-US" style="font-size: 9pt; font-family: 'Trebuchet MS', sans-serif;">- implement and use direct extrapolation statistical methods, to forecast the behavior of non-controllable variables;</span></p>
+<p class="MsoNormal" style="margin-top: 0cm;"><span lang="EN-US" style="font-size: 9pt; font-family: 'Trebuchet MS', sans-serif;"> </span></p>
+<p class="MsoNormal" style="margin-top: 0cm;"><span lang="EN-US" style="font-size: 9pt; font-family: 'Trebuchet MS', sans-serif;">-identify optimization problems, particulary in the context of operations management and combinatorial optimization,  and approach them in a structured way;</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 9pt; font-family: 'Trebuchet MS', sans-serif;">- define the most adequate abstraction level to model optimization problems for an algorithmic approach to their resolution.</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 9pt; font-family: 'Trebuchet MS', sans-serif;">- identify the algorithmic techniques to solve a particular optimization problem;</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 9pt; font-family: 'Trebuchet MS', sans-serif;">- use heuristics and metaheuristics methods to obtain solutions for the problems;</span></p>
+<p> </p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 9pt; font-family: 'Trebuchet MS', sans-serif;">- implement, test and validate, search methodologies to solve different classes of optimization problems.</span></p>
+
+## Pré-requisitos e co-requisitos
+<p>Operations Research</p>
+<p>Statistics</p>
+
+## Programa
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">1st part: Forecasting Methods FORECASTING and DECISIONS MAKING : Role of the FM in decision processes. Classification of the FM. Quantitative Methods: methods based on time series and causal methods. Underlying hypotheses and conditions of applicability. FM Selection. ANALYSIS OF DATA: How to present data. How to detect and handle exceptional data points. Advantages and risks of the aggregation of data. ANALYSIS OF TIME SERIES: Introduction. Regression (revision of concepts studied in Statistics). Classical decomposition. Exponential Smoothing Methods </span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">2nd part: Overview of models, applications and solution techniques of Combinatorial Optimization; Comparison between exact and approximate methods; algorithms performance; constructive and improvement heuristics. Metaheuristics: introduction; examples of population-based metaheuristics and neighborhood based. </span></p>
+<p> </p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">3rd part: Management Science: analysis of quantitative models and tools that support the best management practice of operations in state-of-the art companies; Solving a real-world problem.</span></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p class="MsoNormal"><span lang="EN-US">The course relies on a combination of case discussions, lectures, readings, and assignments.</span></p>
+<p class="MsoNormal"><span lang="EN-US">Theoretical classes: Presentation sessions and case studies discussion. </span></p>
+<p class="MsoNormal"><span lang="EN-US">Practical classes: problem solving (based on worksheets).</span></p>
+<p class="MsoNormal"><span lang="EN-US">1st part: groups of students have to analyse a case study on Forecasting Methods and produce and present a report. </span></p>
+<p class="MsoNormal"><span lang="EN-US">2nd part. Analysis of scientific papers on Operations Management and Combinatorial Optimization. Each group must analyse and present a scientific paper, which will then be discussed by a second group of students. Active learning is motivated throughout the course.</span></p>
+<p> </p>
+<p class="MsoNormal"><span lang="EN-US">3rd part: students must develop and implement a heuristic procedure to solve real-world applications and write a small report, with a scientific style.</span></p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Defesa pública de dissertação, de relatório de projeto ou estágio, ou de tese: 5.0 %
+- Participação presencial: 28.0 %
+- Teste: 27.0 %
+- Trabalho escrito: 40.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 12.0 hours
+- Estudo autónomo: 50.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho de campo: 75.0 hours
+
+## Fórmula de cálculo da classificação final
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">Final grade is a weighted average of the individual marks obtained in the Forecasting Methods (FM) case study (0.125) &#8211;P1.1, individual test on FM (0.275)-P1.2, analysis of a paper and development of the algorithm and respective report (0.45)-P2.1 and an individual test on optimization (0.15)-P2.2.</span></p>
+<p> </p>
+<p class="MsoNormal">P = 0.125*P1.1 + 0.275*P1.2 + 0.45*P2.1 + 0.15*P2.2</p>
+
+## Obtenção de frequência
+<p class="MsoNormal"><span lang="EN-US">Presence at the practical classes for the discussion of the forecasting methods case study, scientific papers and intermediate results of the combinatorial optimization assignment.</span></p>
+
+## Melhoria de classificação
+<p class="MsoNormal"><span lang="EN-US">Students may repeat in the period of exams at the end of the semester the P1.2 and P2.2 short exams with the lowest mark (just one).</span></p>
+<p> </p>
+<p class="MsoNormal"><span lang="EN-US">Students may also improve their marks in the following academic year, by improving the components they wish to.</span></p>
+

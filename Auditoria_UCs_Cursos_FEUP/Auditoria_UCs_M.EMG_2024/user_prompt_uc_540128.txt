@@ -1,0 +1,111 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Geoestatística
+
+## Curso responsável
+Mestrado em Engenharia de Minas e Geo-Ambiente
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Introdução aos conceitos e procedimentos fundamentais da análise de dados com variabilidade espacial e/ou temporal- Geoestatística - com o intuito de virem a formar um corpo de conhecimento passível de uma eficaz e criteriosa aplicação prática, nomeadamente nos domínios mineiro, geoambiental e geotécnico.</p>
+
+## Resultados de aprendizagem e competências
+<p>Familiarização com os conceitos e procedimentos básicos da Geoestatística de forma a constituírem uma ferramenta teórica e de aplicação prática, utilizável de forma criteriosa e rigorosa. </p>
+
+## Pré-requisitos e co-requisitos
+<p>Análise Matemática I e II; Estatística Clássica.</p>
+
+## Programa
+<p>Apresentação da disciplina com ênfase nas diferenças conceptuais entre estatística clássica e geoestatística. Introdução histórica.<br /><br />Revisão de conceitos da estatística descritiva uni- e bi-variável: tabelas de frequências e histogramas, momentos, modelos teóricos, comparação entre distribuições, representações gráficas de distribuições de duas variáveis, correlação e regressão linear, esperança condicional.<br /><br /> Algumas aplicações estatísticas a problemas mineiros, nomeadamente no cálculo de reservas: introdução ao estimador T-Sichel, ao conceito de variância de dispersão e à relação de aditividade de Krige.<br /><br /> Geo-referenciação: descrição espacial - vários tipos de representação gráfica. Análise estrutural: definição de variável regionalizada e pressupostos fundamentais da geoestatística; o variograma - experimental, teórico e modelos admissíveis - situações de isotropia e anisotropia; ajuste de modelos teóricos. Estimação global e pontual e respectiva variância do erro de estimação. O método da krigagem - normal, simples, da indicatriz, com deriva, cokrigagem e cokrigagem colocalizada. O método do ponto fictício ("cross-validation").<br /><br /> Introdução à simulação geoestatística.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas genericamente teórico-práticas, no entanto, algumas destinam-se prioritariamente à exposição teórica da matéria, eventualmente acompanhada por concretizações práticas pontuais e, noutras, de cariz mais prático, são sucessivamente desenvolvidos exemplos de aplicação, com base em dados geo-referenciados, recorrendo nomeadamente a ábacos, à folha de cálculo, Matlab e software específico.<br /><br /> Um ou mais conjuntos de dados geo-referenciados serão utilizados como "matéria-prima" dos desenvolvimentos resultantes da aplicação dos conceitos e procedimentos introduzidos. Aos referidos dados está associado um conjunto integrado de objectivos a serem progressivamente atingidos. O corpo conceptual deverá ir crescendo em sintonia com as necessidades práticas sentidas no processo de tratamento conducente à prossecução dos objectivos referidos.<br /><br /><br /></p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 10.0 %
+- Teste: 50.0 %
+- Trabalho escrito: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 70.0 horas
+- Frequência das aulas: 45.0 horas
+- Trabalho escrito: 47.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final será a da Avaliação Distribuída.<br /><br />A avaliação distribuída durante o semestre inclui: 2 testes, trabalhos e desempenho. <br /><br />A clasificação da Avaliação Distribuida é obtida através de média pesada usando os pesos a seguir indicados: <br />55% para dois testes de avaliação: 25%, 1º teste e 30%, 2º teste;<br />45% para trabalhos e desempenho.<br /><br />Classificações superiores a 18 valores poderão ser objeto de defesa oral.<br /><br />Os estudantes sem aprovação mas com obtenção de frequência, poderão realizar um exame escrito de recurso. Neste caso, a classificação final será calculada atribuindo um peso de 70% ao exame de recurso e de 30% à componente da Avaliação Distribuída - trabalhos e desempenho.</p>
+<p> </p>
+
+## Obtenção de frequência
+<p>Não exceder o número de faltas previsto nas Normas Gerais de Avaliação e ter classificação na Avaliação Distribuída igual ou superior a 6.0 valores. <br /><br /><br /></p>
+
+## Melhoria de classificação
+<p>Por prova escrita e/ou oral, provavelmente coincidente com o exame de recurso.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Geostatistics
+
+## Curso responsável
+Master in Mining and Geo-Environmental Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Introduction to the fundamental concepts and procedures of data analysis with spatial and/or temporal variability - Geostatistics - aiming at enabling students to apply them, namely in a mining, geoenvironmental or geotechnical context.</p>
+
+## Resultados de aprendizagem e competências
+<p><span lang="EN-US" style="mso-ansi-language: EN-US;"><span style="font-size: medium;"><span style="font-family: Calibri;">To familiarize the students with the basic concepts and procedures of Geostatistics allowing them to be used theoretically and practically in a rigorous way. </span></span></span></p>
+
+## Pré-requisitos e co-requisitos
+<p>Matthematical Analysis I and II; Classical Statistics</p>
+
+## Programa
+<p>Presentation of the course unit with emphasis on the conceptual differences between classical statistics and geostatistics. Historical introduction.<br /><br />Review of concepts of uni- and bi-variable descriptive statistics: frequency tables and histograms, moments, theoretical models, comparison between distributions, graphical representations of distributions of two variables, correlation and linear regression, conditional expectation.<br /><br />Some statistical applications to mining problems, notably in the calculation of reserves: introduction to the T-Sichel estimator, the concept of dispersion variance and Krige's additivity relation.<br /><br />Geo-referencing: spatial description - various types of graphical representation. Structural analysis: definition of regionalised variable and fundamental assumptions of geostatistics; the variogram - experimental, theoretical and admissible models - situations of isotropy and anisotropy; adjustment of theoretical models. Global and point estimation and the variance of the estimation error. The kriging method - normal, simple, indicatrix, with drift, cokriging and colocalised cokriging. The cross-validation method.<br /><br />Introduction to geostatistical simulation.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The course is formally set in theoretical-applied lectures. Some will be mainly used for a theoretical introduction of the different matters with sporadic examples of application. In others, there will be successive development of application examples using geospatial data sets, with the help of charts, Excel spreadsheet, MatLab and specific software.<br /><br /> One or more geospatial data sets will be used as &#8220;raw -material&#8221; for the developments resulting from the application of the concepts previously introduced. The referred data will have associated an integrated set of objectives to be gradually attained. The conceptual framework will be growing and structured intone with practical needs, felt in the data treatment process leading to attaining the referred objectives.<br /><br /><br /></p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 10.0 %
+- Teste: 50.0 %
+- Trabalho escrito: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 70.0 hours
+- Frequência das aulas: 45.0 hours
+- Trabalho escrito: 47.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><span id="result_box" lang="en">The final classification will be the Distributed Assessment.<br /><br />The distributed assessment during the semester includes: 2 tests, assignments and performance.<br /><br />The grading of the Distributed Assessment is obtained by weighted average using the following weights:<br />55% for two assessment tests: 25%, 1st test and 30%, 2nd test;<br />45% for assignments and performance.<br /><br />Grades above 18 must be subject to oral defence.<br /><br />Students who do not pass the course but have obtained frequency may take an appeal written exam. In these case, the final grade will be calculated by assigning a weight of 70% to the appeal exam and 30% to the Distributed Assessment component - assignments and performance.<br /><br /></span></p>
+
+## Obtenção de frequência
+<p>Not exceed the number of absences established in the General Evaluation Rules and have a mark in the Distributed Evaluation equal to or higher than 6.0 points.<br /><br /><br /></p>
+
+## Melhoria de classificação
+<p>By written and/or oral test, probably coinciding with the appeal examination.</p>
+

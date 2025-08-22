@@ -1,0 +1,98 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Modelos de Computação
+
+## Curso responsável
+Licenciatura em Ciência de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>Ensinar conceitos e resultados fundamentais sobre três modelos de computação básicos (autómatos finitos, autómatos de pilha e máquinas de Turing) e sobre as classes de linguagens formais associadas, com foco nas linguagens regulares e independentes de contexto.</p>
+
+## Resultados de aprendizagem e competências
+<p>Capacidade de especificar linguagens formais simples usando formas de descrição alternativas e de determinar a sua classificação na hierarquia de poder computacional.</p>
+
+## Programa
+<p>Noção de linguagem formal. Autómatos finitos determinísticos e não determinísticos. Expressões regulares e autómatos finitos. Propriedades das linguagens regulares. Minimização de autómatos finitos. Lema da repetição para linguagens regulares. Linguagens e gramáticas independentes de contexto. Árvores de derivação. Ambiguidade. Simplificações de gramáticas independentes de contexto e formas normais. Autómatos de pilha. Propriedades das linguagens independentes de contexto (LIC). Lema da repetição para LICs. Máquinas de Turing e noção de computabilidade.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teóricas de exposição dos conteúdos programáticos. <br />Aulas práticas de resolução de exercícios propostos semanalmente.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 114.0 horas
+- Frequência das aulas: 48.0 horas
+
+## Fórmula de cálculo da classificação final
+Classificação final corresponde à classificação obtida <br />- como média aritmética dos dois testes, o primeiro a realizar durante o semestre e o segundo na data do exame da época normal (cada um com nota mínima de 6 valores). Os dois testes incidem respectivamente sobre a matéria lecdionada durante a primeira e a segunda parte do semestre.<br />- o exame da época de recurso não contabiliza a nota obtida nos testes e aborda toda a matéria leccionada durante o semestre.
+
+## Obtenção de frequência
+<p>Presença a pelo menos 3/4 das aulas práticas</p>
+
+## Melhoria de classificação
+Exame final (época de recurso)
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computational Models
+
+## Curso responsável
+Bachelor in Computer Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>Teach fundamental concepts and results about three computational models (finite automata, pushdown automata, Turing machines) and the related classes of formal languages, with emphasis on regular and context free languages.</p>
+
+## Resultados de aprendizagem e competências
+<p>Students are expected to be able to describe simple formal languages using different models of computation and classify them in the Chomsky hierarchy.</p>
+
+## Programa
+<p>Notion of formal language. Deterministic finite automata and non-deterministic finite automata. Regular expressions and finite automata. Properties of regular languages. Minimization of finite automata. Pumping lemma for regular languages. Context-free grammars and languages. Derivation trees. Ambiguity. Simplification of context-free grammars and normal forms. Push-down automata. Properties of context-free languages. Pumping lemma for context-free grammars. Turing machines and notion of computability.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Lectures: exposition of  the syllabus topics and examples. <br />Practical Lectures: exercise solving and discussion.<br /><br /></p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 114.0 hours
+- Frequência das aulas: 48.0 hours
+
+## Fórmula de cálculo da classificação final
+The final mark corresponds to the classification obtained <br />- as average grade of the tests to be realized during the semester and at the date of the first exam (each with a classification of at least 6 out of 20 points); <br />- or the grade of the second exam (época de recurso).
+
+## Obtenção de frequência
+<p>Students must attend at least 3/4 of the pratical classes to be admitted to the exams.</p>
+
+## Melhoria de classificação
+Final exam (
+

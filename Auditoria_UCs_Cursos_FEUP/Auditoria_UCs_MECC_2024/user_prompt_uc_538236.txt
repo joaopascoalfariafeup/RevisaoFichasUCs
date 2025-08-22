@@ -1,0 +1,133 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Raciocínio Computacional
+
+## Curso responsável
+Mestrado em Ciências da Comunicação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Através da aprendizagem de uma nova forma de literacia, esta unidade curricular forma competências para uma mais fácil vivência do mundo profissional digital atual. Através de conceitos fundamentais para a ciência dos computadores pretende-se que o estudante desenvolva competências sobre os seguintes objetivos (de alto nível):</p>
+<ol>
+<li>estudar e entender melhor processos;</li>
+<li>usar uma nova forma importante de literacia;</li>
+<li>desenvolver uma nova habilidade de trabalho para a sua vida profissional;</li>
+<li>usar melhor os computadores;</li>
+<li>perceber como os métodos computacionais podem resolver problemas.</li>
+</ol>
+Por último &#8211; e não menos importante para o domínio das ciências da comunicação - os objetivos enumerados anteriormente potenciam uma mais fácil entrada na área do data science, uma vez que dotam este público de literacia em processos, métodos, e conhecimento de algoritmos e que &#8211; quando aplicados &#8211; permitem a extração de novas perspetivas a partir de informação digital.
+
+## Resultados de aprendizagem e competências
+<p style="font-weight: 400;"> </p>
+<p>A abordagem integrada e progressiva do programa desta unidade curricular permite aos estudantes a prossecução dos objetivos. A coerência entre os conteúdos programáticos e os objetivos programados encontra-se formulada na seguinte lista:</p>
+<ul>
+<li>Os conteúdos do ponto 1 do programa, de caráter  introdutório, serão recorrentemente relacionados ao longo da UC.</li>
+<li>Os conteúdos 2 e 3 assentam sobre o conteúdo 1 e constituem uma sequência relacionada e incremental de domínio destas competências.</li>
+<li>Os conteúdos 4, 5, 6 e 7 suportam-se sobre os conteúdos anteriores e formam competências básicas no processamento de dados, numa perspetiva de data science. Contribuem integralmente para o objetivo final;</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Nenhum.
+
+## Programa
+<p>O programa desta unidade curricular é composto por:</p>
+<ol>
+<li>Princípios do pensamento computacional: decomposição, abstração e generalização, reconhecimento de padrões e algoritmos;</li>
+<li>Algoritmos e pensamento computacional (sem programação);</li>
+<li>Programação criativa;</li>
+<li>Programação procedimental: Funções e utilização de argumentos. Estruturas de decisão e ciclos;</li>
+<li>Primitivas e estruturas de dados;</li>
+<li>Testes e debug;</li>
+<li>Processamento de informação.</li>
+</ol>
+
+## Métodos de ensino e atividades de aprendizagem
+O desenvolvimento dos conteúdos relativos ao ponto 1 é realizado com base na abordagem teórica de fundamentos, conceitos, convenções. Apresentação de casos práticos de modo a facilitar o processo de aprendizagem. <br /><br />Ponto 2: é utilizada uma abordagem pedagógica de natureza essencialmente prática suportada em exercícios, com interação entre docente e estudantes. <br /><br />Ponto 3: é utilizada uma ferramenta computacional simples e intuitiva para desenvolvimento destas competências no âmbito da programação criativa.<br /><br />Para os pontos 4,5 e 6 a abordagem é essencialmente prática, incluindo um conjunto substancial de tutoriais e exercícios práticos em computador para consolidação dos conteúdos. <br /><br />Para o pontos 7 recorre-se a uma abordagem projetual.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 20.0 %
+- Trabalho laboratorial: 50.0 %
+- Trabalho prático ou de projeto: 30.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 50.0 horas
+- Trabalho laboratorial: 50.0 horas
+
+## Fórmula de cálculo da classificação final
+A avaliação é distribuída e sem Exame Final, realizada através de provas praticas (30%), de um projeto final de grupo (50%) e da avaliaçao contínua (20%) desenvolvida segundo uma abordagem de ludificação (gamification).
+
+## Obtenção de frequência
+Média das provas práticas superior a 40% e avaliaçao contínua superior a 40%.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computational Thinking
+
+## Curso responsável
+Master in Communication Sciences
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tradução" data-ved="2ahUKEwjA5KDh5IyLAxXe3gIHHQFPG9wQ3ewLegQICRAV"><span class="Y2IQFc" lang="en">Through learning a new form of literacy, this curricular unit builds skills for an easier experience of today's digital professional world. Through fundamental concepts for computer science, the student is expected to develop skills on the following (high-level) objectives:</span></p>
+<ul>
+<li><span style="font-family: Verdana, Arial, Helvetica, sans-serif;">study and better understand processes;</span></li>
+<li><span style="font-family: Verdana, Arial, Helvetica, sans-serif;">use an important new form of literacy;</span></li>
+<li><span style="font-family: Verdana, Arial, Helvetica, sans-serif;">develop a new work skill for your professional life;</span></li>
+<li><span style="font-family: Verdana, Arial, Helvetica, sans-serif;">use computers better;</span></li>
+<li><span style="font-family: Verdana, Arial, Helvetica, sans-serif;">understand how computational methods can solve problems.</span></li>
+</ul>
+<p id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tradução" data-ved="2ahUKEwjA5KDh5IyLAxXe3gIHHQFPG9wQ3ewLegQICRAV"><span class="Y2IQFc" lang="en">Lastly &#8211; and no less important for the field of communication sciences &#8211; the objectives listed above facilitate easier entry into the area of data science, as they provide this audience with literacy in processes, methods, and knowledge of algorithms and which &#8211; when applied &#8211; they allow the extraction of new perspectives from digital information.<br /></span></p>
+
+## Resultados de aprendizagem e competências
+<p id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tradução" data-ved="2ahUKEwjA5KDh5IyLAxXe3gIHHQFPG9wQ3ewLegQICRAV"><span class="Y2IQFc" lang="en">The integrated and progressive approach of this curricular unit's program allows students to pursue their objectives. The coherence between the programmatic contents and the programmed objectives is formulated in the following list: The <br /><br />Point 1 of the program, which are introductory in nature, will be repeatedly listed throughout the course. <br /><br />Ponts 2 and 3 build on content 1 and constitute a related and incremental sequence of mastery of these skills. <br /><br />Points 4, 5, 6 and 7 build on the previous contents and form basic skills in data processing, from a data science perspective. All these points fully contribute to the final objective;</span></p>
+
+## Pré-requisitos e co-requisitos
+None.
+
+## Programa
+<div class=&quot;n4sEPd&quot;> <br /><pre class=&quot;tw-data-text tw-text-large tw-ta&quot; dir=&quot;ltr&quot; data-placeholder=&quot;Tradução&quot; data-ved=&quot;2ahUKEwjA5KDh5IyLAxXe3gIHHQFPG9wQ3ewLegQICRAV&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>The program of this curricular unit consists of:</span></pre><br /><ul><br /><li><span style=&quot;font-family: Verdana, Arial, Helvetica, sans-serif;&quot;>Principles of computational thinking: decomposition, abstraction and generalization, pattern recognition and algorithms;</span></li><br /><li><span style=&quot;font-family: Verdana, Arial, Helvetica, sans-serif;&quot;>Algorithms and computational thinking (without programming);</span></li><br /><li><span style=&quot;font-family: Verdana, Arial, Helvetica, sans-serif;&quot;>Creative programming;</span></li><br /><li><span style=&quot;font-family: Verdana, Arial, Helvetica, sans-serif;&quot;>Procedural programming: Functions and use of arguments. Decision structures and cycles;</span></li><br /><li><span style=&quot;font-family: Verdana, Arial, Helvetica, sans-serif;&quot;>Primitives and data structures;</span></li><br /><li><span style=&quot;font-family: Verdana, Arial, Helvetica, sans-serif;&quot;>Testing and debugging;</span></li><br /><li><span style=&quot;font-family: Verdana, Arial, Helvetica, sans-serif;&quot;>Information processing.</span></li><br /></ul><br /></div>
+
+## Métodos de ensino e atividades de aprendizagem
+<p id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tradução" data-ved="2ahUKEwjA5KDh5IyLAxXe3gIHHQFPG9wQ3ewLegQICRAV"><span class="Y2IQFc" lang="en">The development of content relating to point 1 is carried out based on the theoretical approach of foundations, concepts, conventions. Presentation of practical cases to facilitate the learning process. <br /><br /> Point 2: a pedagogical approach of an essentially practical nature is used, supported by exercises, with interaction between teacher and students. <br /><br /> Point 3: a simple and intuitive computational tool is used to develop these skills within the scope of creative programming. <br /><br />For points 4,5 and 6, the approach is essentially practical, including a substantial set of tutorials and practical exercises on a computer to consolidate the content.<br /><br />For point 7, a design approach is used.</span></p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 20.0 %
+- Trabalho laboratorial: 50.0 %
+- Trabalho prático ou de projeto: 30.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 50.0 hours
+- Trabalho laboratorial: 50.0 hours
+
+## Fórmula de cálculo da classificação final
+<p id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tradução" data-ved="2ahUKEwjrqa3Wuo6LAxX4T6QEHfL7FRMQ3ewLegQIBxAV"><span class="Y2IQFc" lang="en">The assessment is distributed and without a Final Exam, <br />carried out through practical tests (30%), a final group<br />project (50%) and continuous assessment (20%) developed<br />according to a gamification approach.</span></p>
+
+## Obtenção de frequência
+<p id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tradução" data-ved="2ahUKEwjrqa3Wuo6LAxX4T6QEHfL7FRMQ3ewLegQIBxAV"><span class="Y2IQFc" lang="en">Average of the practical tests above 40% and continuous <br />assessment above 40%.</span></p>
+

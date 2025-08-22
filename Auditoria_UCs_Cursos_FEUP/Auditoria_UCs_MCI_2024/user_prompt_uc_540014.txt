@@ -1,0 +1,154 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Arquivos e Bibliotecas Digitais
+
+## Curso responsável
+Mestrado em Ciência da Informação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Conduzir os estudantes numa análise dos princípios, teoria e tecnologia dos repositórios digitais, apoiados em ferramentas que lhes permitam construir na prática sistemas desta natureza. <br /> <br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p>Ao completar a unidade curricular, espera-se que os estudantes sejam capazes de: <br /><br /></p>
+<ul>
+<li>Estabelecer distinções entre repositórios digitais, arquivos digitais, bibliotecas digitais e sítios na web;</li>
+<li>Identificar domínios de aplicação dos repositórios digitais e dar exemplos de repositórios existentes, indicando as instituições que os acolhem e os tipos de coleções;</li>
+<li>Desenvolver uma biblioteca digital básica, com base numa colecção de documentos e recorrendo a software apropriado;- Avaliar a biblioteca desenvolvida e contabilizar o esforço requerido para cada uma das tarefas;</li>
+<li>Analisar as diferenças entre as bibliotecas físicas e as digitais e identificar os aspectos em que estas requerem procedimentos diferentes para construção e manutenção;</li>
+<li>No projecto de uma biblioteca digital, identificar os requisitos em termos de tratamento de documentos, tecnologia e serviços e planear o seu desenvolvimento; </li>
+<li>Comparar caraterísticas de sistemas existentes para a construção de repositórios digitais;</li>
+<li>Aplicar os conhecimentos de descrição de documentos à sua organização num repositório digital;</li>
+<li>Nomear alguns dos problemas em aberto na investigação em Bibliotecas Digitais.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>Pré-requisitos: conhecimentos básicos de descrição de documentos, familiaridade com os conceitos e técnicas da indexação e recuperação automática de documentos, facilidade em lidar com os formatos comuns de documentos digitais.</p>
+<p>Co-requisitos: a unidade curricular desenvolve competências que podem ser articuladas com as unidades de "Análise de Conteúdo e Indexação" e "Direito da Informação".</p>
+
+## Programa
+<ul><br /><li>Arquivos e bibliotecas digitais.</li><br /></ul><br /><p style=&quot;padding-left: 60px;&quot;>Caraterísticas dos repositórios digitais. Domínios de aplicação. Questões sociais, económicas e técnicas.</p><br /><ul><br /><li>Objectos digitais.</li><br /></ul><br /><p style=&quot;padding-left: 60px;&quot;>Texto, imagem,multimédia. Formatos. Digitalização.</p><br /><ul><br /><li>Arquitecturas e modelos.</li><br /></ul><br /><ul><br /><li>Organização de colecções.</li><br /></ul><br /><p style=&quot;padding-left: 60px;&quot;>Descrição e meta-informação.</p><br /><ul><br /><li>Interface com o utilizador.</li><br /></ul><br /><p style=&quot;padding-left: 60px;&quot;>Modos de interação. Pesquisa e modelos de utilizador.</p><br /><ul><br /><li>Plataformas de desenvolvimento de repositórios. Greenstone, DSpace, Fedora.</li><br /></ul><br /><ul><br /><li>Planeamento e implementação de uma biblioteca digital.</li><br /></ul><br /><p style=&quot;padding-left: 60px;&quot;>Uso dos sistemas de desenvolvimento de bibliotecas digitais Greenstone e DSpace.</p><br /><ul><br /><li>Serviços sobre bibliotecas digitais.</li><br /></ul><br /><ul><br /><li>Gestão e preservação em repositórios digitais.</li><br /></ul><br /><p style=&quot;padding-left: 60px;&quot;>Requisitos e normas de descrição.</p><br /><ul><br /><li>Interoperabilidade em repositórios digitais.</li><br /></ul><br /><p style=&quot;padding-left: 60px;&quot;>Normas.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As componentes teóricas das aulas são usadas para exposição de temas, com referência para a bibliografia, e para a realização de pequenos exercícios que estimulem a aprendizagem. <br />Nos tempos dedicados a trabalho prático são discutidos temas propostos para investigação aos estudantes, realizados trabalhos práticos sobre bibliotecas e arquivos digitais e apresentados os resultados dos trabalhos práticos.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 55.0 %
+- Exame: 30.0 %
+- Trabalho laboratorial: 15.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 40.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 10.0 horas
+- Elaboração de projeto: 70.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação é composta por:</p>
+<ul>
+<li>3 exercícios (EXE): desenvolvidos nas aulas e em casa, e defendidos em aula. Individual - nota mínima 8.</li>
+<li>2 projetos:</li>
+</ul>
+<blockquote>
+<ol>
+<li>PROJ1: Trabalho de GreenStone, desenvolvido na aula e em casa, e defendido em aula. Individual - nota mínima 8.</li>
+<li>PROJ2: Trabalho de OMEKA, desenvolvido na aula e em casa, e defendido em aula. Individual - nota mínima 8.</li>
+</ol>
+</blockquote>
+<ul>
+<li>Exame (EXAME): que abrange toda a matéria e é realizado na época de exames (nota mínima 10).</li>
+</ul>
+<p><strong> Estudantes Ordinários</strong> <br />Classificação Final =  25% * PROJ1 + 30% * PROJ2 + 15% * EXE + 30% * EXAME<br /><br /><strong>Estudantes em regime de avaliação especial</strong> <br />Classificação Final =  25% * PROJ1 + 30% * PROJ2 + 15% * TESTE + 30% * EXAME<br /><br /><strong>Observações</strong>:</p>
+<ol>
+<li>
+<p>O teste do regime de avaliação especial é realizado na mesma data que o exame.</p>
+</li>
+</ol>
+
+## Obtenção de frequência
+<p>Presença obrigatória em 75% das aulas. Aprovação de acordo com a regra de cáculo (ver fórmula).</p>
+
+## Melhoria de classificação
+<p>A componente de exame pode ser melhorada na mesma edição, no exame de recurso. As componentes Projeto e Exercícios (ou teste) não são passíveis de melhoria no mesmo ano letivo, podendo, porém, ser melhoradas na edição seguinte da unidade curricular.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Digital Archives and Libraries
+
+## Curso responsável
+Master in Information Science
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Guide students through an analysis of digital repositories' principles, theory and technology, supported by tools that allow them to build systems of this nature in practice.<br /> <br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p>Upon completion of this course unit, students should be capable of: </p>
+<ul>
+<li>Distinguishing digital repositories, digital archives, digital libraries and websites; </li>
+<li>Identifying the application domains of digital repositories and give examples by mentioning the institutions which use them and the types of collections; </li>
+<li>Developing a basic digital library based on a collection of documents and using appropriate software;</li>
+<li>Assessing the library and calculate the amount of work required to carry out each task;</li>
+<li>Analysing the differences between physical and digital libraries and identifying the aspects which require different procedures to develop and maintain those libraries;</li>
+<li>Identifying the necessary requirements concerning document treatment, technologies, services and plans while designing a digital library;</li>
+<li>Comparing the characteristics of systems for the design of digital repositories;</li>
+<li>Applying their knowledge of document description to the organization of a digital repository;</li>
+<li>Naming some problems in Digital Library research.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>Pre-requisites: basic knowledge of document description, familiarity with the concepts and techniques of automatic indexing and information retrieval, ease in the manipulation of common formats for digital documents.</p>
+<p>Co-requisites: this unit develops concepts and skills which can be articulated with the "Content Analysis and Indexing" and "Information Law".</p>
+
+## Programa
+<ul><br /><li>Digital libraries and digital archives.</li><br /></ul><br /><p style=&quot;padding-left: 60px;&quot;>Characteristics of digital repositories. Application domains. Social, economic and technical issues.</p><br /><ul><br /><li>Digital objects</li><br /></ul><br /><p style=&quot;padding-left: 60px;&quot;>Text, image, multimedia. Formats. Digitization.</p><br /><ul><br /><li>- Architectures and models.</li><br /></ul><br /><ul><br /><li>- Collection organization.</li><br /></ul><br /><p style=&quot;padding-left: 60px;&quot;>Description and metadata.</p><br /><ul><br /><li>- User interface. </li><br /></ul><br /><p style=&quot;padding-left: 60px;&quot;>Interaction modes. User search and models.</p><br /><ul><br /><li>-Platforms of repository development. Greenstone, DSpace, Fedora.</li><br /></ul><br /><ul><br /><li>- Planning and implementation of a digital library. </li><br /></ul><br /><p style=&quot;padding-left: 60px;&quot;>Use of the digital library systems Greenstone and DSpace.</p><br /><ul><br /><li>- Services for digital libraries.</li><br /></ul><br /><ul><br /><li>- Management and preservation of digital repositories.</li><br /></ul><br /><p style=&quot;padding-left: 60px;&quot;>Requirements and description standards.</p><br /><ul><br /><li>- Interoperability in digital repositories.</li><br /></ul><br /><div style=&quot;padding-left: 60px;&quot;>Standards.</div>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The lectures are used to explain topics concerning the bibliography and to carry out small exercises to stimulate learning.During the time dedicated to practical work, topics proposed for student research are discussed, practical work on digital libraries and archives is carried out, and the results of the practical work are presented.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 55.0 %
+- Exame: 30.0 %
+- Trabalho laboratorial: 15.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 40.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 10.0 hours
+- Elaboração de projeto: 70.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The assessment consists of:<br /><br />    3 exercises (EXE): developed in class and at home and defended in class. Individual - minimum mark 8.<br />    2 projects:<br /><br />        PROJ1: GreenStone work, developed in class and at home and defended in class. Individual - minimum mark 8.<br />        PROJ2: Work on OMEKA, developed in class and at home and defended in class. Individual - minimum mark 8.<br /><br />    Exam (EXAM): covers the whole syllabus and is taken at exam season (minimum mark 10).<br /><br /><strong>Regular Students</strong><br />Final Grade = 25% * PROJ1 + 30% * PROJ2 + 15% * EXE + 30% * EXAM<br /><br /><strong>Special assessment students</strong><br />Final Grade = 25% * PROJ1 + 30% * PROJ2 + 15% * TEST + 30% * EXAM<br /><br />Observations:<br /><br />    The special assessment regime test is taken on the same date as the exam.</p>
+
+## Obtenção de frequência
+<p>Compulsory attendance at 75% of classes. Approval according to the calculation rule (see formula).</p>
+
+## Melhoria de classificação
+<p>The exam component can be improved in the same edition, in the appeal exam. The Project and Exercises (or test) components cannot be improved in the same academic year but can be improved in the next edition of the course.</p>
+

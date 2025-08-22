@@ -1,0 +1,102 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Música Interativa
+
+## Curso responsável
+Mestrado em Multimédia
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+1) Conhecimento aprofundado sobre técnicas de análise de conteúdo musical e de geração automática de música;<br /><br />2) Contacto com a literatura mais relevante sobre análise de conteúdo musical e de geração automática de música, incluindo obras musicais generativas históricas;<br /><br />3) Conhecimento sobre as potencialidades e o estado da arte da análise de conteúdo musical e da geração automática de música;<br /><br />4) Implementação de aplicações de música interactiva com análise de conteúdo musical e geração automática de música.
+
+## Resultados de aprendizagem e competências
+<p class="MsoNormal" style="mso-pagination: none; tab-stops: 28.3pt 56.65pt 85.0pt 113.35pt 141.7pt 170.05pt 198.4pt 226.75pt 255.1pt 283.45pt 311.8pt 340.15pt; mso-layout-grid-align: none; text-autospace: none;">No final da frequência desta disciplina, os alunos serão capazes de:<br /><br />1) Conhecer os domínios da análise de conteúdo musical e da geração automática de música, o seu estado da arte e os seus desafios;<br /><br />2) Reconhecer quais as técnicas e ferramentas de análise de conteúdo musical e de geração automática de música adequadas para aplicação à música interactiva;<br /><br />3) Implementar técnicas e ferramentas de análise de conteúdo musical e de geração automática de música em software.</p>
+
+## Programa
+1) Análise de conteúdo musical:<br />a. algoritmos de descrição rítmica;<br />b. algoritmos de descrição tímbrica;<br />c. algoritmos de descrição melódica;<br />d. algoritmos de descrição harmónica;<br />e. algoritmos de recomendação musical automática.<br /><br />2) Geração automática de música:<br />a. algoritmos de geração rítmica;<br />b. algoritmos de geração melódica;<br />c. algoritmos de geração harmónica;<br />d. algoritmos de geração formal.<br /><br />3) Música interactiva:<br />a. aplicações de algoritmos de análise de conteúdo musical e de geração automática de música;<br />b. novas interfaces para expressão musical.
+
+## Métodos de ensino e atividades de aprendizagem
+<p class="MsoNormal" style="mso-pagination: none; tab-stops: 28.3pt 56.65pt 85.0pt 113.35pt 141.7pt 170.05pt 198.4pt 226.75pt 255.1pt 283.45pt 311.8pt 340.15pt; mso-layout-grid-align: none; text-autospace: none;">Unidade curricular ministrada sob a forma de Seminário compreensivo intercalado com sessões de aplicação prática sobre as tecnologias abordadas. Aulas de exposição com audição de exemplos sonoros intercaladas com algumas sessões de trabalho prático orientado em aula.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 60.0 %
+- Trabalho laboratorial: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 horas
+- Frequência das aulas: 45.0 horas
+- Trabalho laboratorial: 70.0 horas
+
+## Fórmula de cálculo da classificação final
+<p class="MsoNormal" style="mso-pagination: none; tab-stops: 28.3pt 56.65pt 85.0pt 113.35pt 141.7pt 170.05pt 198.4pt 226.75pt 255.1pt 283.45pt 311.8pt 340.15pt; mso-layout-grid-align: none; text-autospace: none;">Fórmula de avaliação: 0,3 * acm + 0,3 * gam + 0,4 * tf<br /><br />acm - componente de avaliação contínua de análise de conteúdo musical;<br />gam - componente de avaliação contínua de geração automática de música;<br />tf - trabalho individual final.</p>
+
+## Obtenção de frequência
+O trabalho prático será avaliado, durante as aulas laboratoriais, através da entrega dos trabalhos previstos.<br /><br /><br /><p>Dada a natureza prática da disciplina, não é possível realizar um único exame em substiuição dos trabalhos práticos.</p>
+
+## Melhoria de classificação
+Melhoria considerável do trabalho final ou apresentação de outro trabalho previamente aprovado pelo regente da Unidade Curricular.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Interactive Music
+
+## Curso responsável
+Master in Multimedia
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+1) Thorough knowledge of techniques of music information retrieval and automatic generation of music;<br /><br />2) Contact with the relevant literature on music information retrieval and automatic generation of music, including historical generative musical works;<br /><br />3) Knowledge about the potential and the state of the art of music information retrieval and automatic generation of music;<br /><br />4) Implementation of interactive music applications with music information retrieval and automatic generation of music.
+
+## Resultados de aprendizagem e competências
+<p class="MsoNormal" style="mso-pagination: none; tab-stops: 28.3pt 56.65pt 85.0pt 113.35pt 141.7pt 170.05pt 198.4pt 226.75pt 255.1pt 283.45pt 311.8pt 340.15pt; mso-layout-grid-align: none; text-autospace: none;">After successfully finishing this class, the student will be able to:<br /><br />1) Know the fields of music information retrieval and automatic music generation, their state of the art and challenges;<br /><br />2) Identify suitable techniques and tools of music information retrieval and automatic music generation for interactive music;<br /><br />3) Implement software tools and techniques for music information retrieval and automatic music generation.</p>
+
+## Programa
+<p class="MsoNormal" style="mso-pagination: none; tab-stops: 28.3pt 56.65pt 85.0pt 113.35pt 141.7pt 170.05pt 198.4pt 226.75pt 255.1pt 283.45pt 311.8pt 340.15pt; mso-layout-grid-align: none; text-autospace: none;">1) Music information retrieval:<br />a. algorithms of rhythmical description;<br />b. algorithms of timbral description;<br />c. algorithms of melodic description;<br />d. algorithms of harmonic description;<br />e. algorithms of automatic musical recommendations.<br /><br />2) Automatic music generation:<br />a. algorithms for rhythmic generation;<br />b. algorithms for melodic generation;<br />c. algorithms for harmonic generation;<br />d. algorithms for formal generation.<br /><br />3) Interactive music:<br />a. applications of algorithms of music information retrieval and automatic generation of music;<br />b. new interfaces for musical expression.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p class="MsoNormal">This course unit is composed by comprehensive seminars and sessions where practical exercises related to the mentioned technologies are carried out. Theoretical classes will be based on presentation of examples of sounds and sessions to carry out practical exercises.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 60.0 %
+- Trabalho laboratorial: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 hours
+- Frequência das aulas: 45.0 hours
+- Trabalho laboratorial: 70.0 hours
+
+## Fórmula de cálculo da classificação final
+<p class="MsoNormal" style="mso-pagination: none; tab-stops: 28.3pt 56.65pt 85.0pt 113.35pt 141.7pt 170.05pt 198.4pt 226.75pt 255.1pt 283.45pt 311.8pt 340.15pt; mso-layout-grid-align: none; text-autospace: none;">Evaluation Formula: 0,3 * acm + 0,3 * gam + 0,4 * tf<br /><br />acm - assignments carried out during the semester of music information retrieval;<br />gam - assignments carried out during the semester of automatic generation of music;<br />tf - final individual assignment.<br /><br /> </p>
+
+## Obtenção de frequência
+The practical assignments will be evaluated during the laboratory classes, based on the submission of the planned deliveries.<br /><br /><br /><p>Given the pratical nature of the course, it is not possible to take a single evaluation exam to replace the pratical assignments. </p>
+
+## Melhoria de classificação
+Substantial improvement of the final assignment or presentation of another assignment previously approved by the professor.
+

@@ -1,0 +1,114 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Reconhecimento Visual
+
+## Curso responsável
+Mestrado em Visão por Computador
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+As tarefas de reconhecimento visual vão desde a deteção de objetos em imagens e vídeos, classificação de objetos e reconhecimento de instâncias até ao reconhecimento de ações humanas. Neste curso faremos um estudo das primeiras tarefas de reconhecimento visual, visto que o reconhecimento de ações é o tema principal da unidade curricular Reconhecimento da Ação Humana.<br /><br />O objetivo é que os alunos adquiram conhecimentos e competências que lhes permitam projetar sistemas de deteção de movimento por vídeo, segmentação e rastreio baseado em movimento, classificação e deteção de objetos em imagens e vídeo, bem como rastreio visual de objetos.
+
+## Resultados de aprendizagem e competências
+Atenção especial será dada às competências específicas (CE) listadas abaixo e, em diferente grau, de acordo com as características da disciplina, as seguintes competências escolhidas entre as competências de níveis gerais (GC), transversais (CT) e de formação básica (CB):<br /><br />Fundamentos:<br />CB8: Espera-se que os estudnates sejam capazes de integrar conhecimentos e enfrentar a complexidade de fazer julgamentos com base em informações que, sendo incompletas ou limitadas, incluem reflexões sobre responsabilidades sociais e éticas vinculadas à aplicação de seus conhecimentos e julgamentos.<br /><br />CB10: Espera-se que os estudantes adquiram as competências de aprendizagem que lhes permitem continuar estudando de uma forma que será em grande parte autodirigida ou autónoma.<br /><br />Transversal:<br />CT3: Desenvolvimento do espírito inovador e empreendedor.<br /><br />Em geral:<br />CG1: Capacidade de analisar e sintetizar conhecimento.<br />CG7: Capacidade de aprender de forma independente para se especializar em uma ou mais áreas de estudo.<br /><br />Específico:<br />CE1: Espera-se que os estudantes conheçam e apliquem os conceitos, metodologias e tecnologias de processamento de imagem.<br />CE2: Espera-se que os estudantes conheçam e apliquem técnicas de aprendizagem máquina e reconhecimento de padrões aplicadas à visão computacional.<br />CE3: Espera-se que os estudanets conheçam e apliquem os conceitos, metodologias e tecnologias de análise de imagem e vídeo.<br />CE5: Espera-se que os estudantes saibam como analisar e aplicar métodos do estado-da-arte em visão computacional.<br />CE9: Espera-se que os estudantes conheçam e apliquem os conceitos, metodologias e tecnologias para o reconhecimento de padrões visuais em cenas reais.
+
+## Programa
+* PARTE 1 UPorto:<br /><br />-------------------------<br />1-Introdução à análise de vídeo.<br />Percepção de movimento<br />Imagens multidimensionais e sequências de imagens<br />Amostragem espaço-temporal de imagem<br />Desfoque de movimento e filtragem espaço-temporal<br /><br />2-Deteção e estimação de movimento<br />Alinhamento e registo de imagem<br />Estimação de movimento densa e hierárquica<br />Pirâmides de imagens discretas multiresolução<br />Cálculo de fluxo óptico: baseado em intensidade, energia e fase<br /><br />3-Segmentação e rastreio de movimento<br />Movimento paramétrico, movimento baseado em splines, movimento em camadas<br />Rastreio de movimento tradicional: filtros Kalman, filtros de partículas<br /><br />* PARTE 2 USC:<br />-------------<br />4-Extração e correspondência de características invariantes<br />Descritores binários locais<br />Descritores Espetrais<br />Descritores de espaço de base<br />Métodos de codificação esparsa<br /><br />5-Métodos clássicos de classificação de imagens e deteção de objetos<br />Métodos Geométricos<br />Métodos baseados em aparência<br />Abordagens baseadas em características<br />Abordagens de janela deslizante<br />Sacos de palavras visuais<br />Modelos baseados em partes<br /><br />6-Métodos de deteção e rastreio de objetos baseados em aprendizagem máquina profunda<br />Redes Neurais Convolucionais para deteção de objetos em imagens.<br />Redes Neurais Convolucionais para deteção de objetos em vídeos.<br />Abordagens de aprendizagem profunda para rastreio visual.<br /><br />O programa inclui os principais tópicos de interesse atual em reconhecimento visual e que são transversais a vários domínios de aplicação.
+
+## Métodos de ensino e atividades de aprendizagem
+O desenvolvimento das aulas será efetuado harmonizando as metodologias de ensino com os objetivos fundamentais da disciplina. Esta será uma disciplina com exposição e aplicações, onde os estudantes aprenderão não só o porquê, mas também como implementar, avaliar e decidir sobre sistemas de reconhecimento visual.<br /><br />A disponibilização das informações e conhecimentos científicos previstos nos objetivos será desenvolvida no início de cada tema a abordar, onde será estabelecida a relação com outros tópicos já tratados em aulas anteriores ou noutra disciplina. Estas sessões terão como objetivo desenvolver as competências dos estudantes e sensibilizá-los para a importância das temáticas abordadas no contexto real atual, contribuindo para um melhor enquadramento e também para uma melhor perceção dos objetivos que se pretende atingir.<br /><br />Atendendo ao caráter prático dos temas a tratar, serão apresentados e propostos vários exercícios e casos práticos, resultantes de trabalhos de investigação desenvolvidos. Os estudantes aprenderão fazendo, refletindo e tomando decisões sobre os problemas e alternativas propostas, aprimorando suas competências nos tópicos em análise. Tentará estimular-se um processo de diálogo no qual todos participem, por meio de sua própria experiência e conhecimento. Assim, conhecimentos, dúvidas e questões serão compartilhados, de forma a beneficiar a aprendizagem dos estudamtes e motivá-los a se motivarem. No essencial, serão envidados esforços para assegurar o desenvolvimento das capacidades de &#8220;aplicar em diferentes contextos&#8221; os conhecimentos adquiridos sob a influência de diferentes fatores e variáveis.<br /><br />Os trabalhos práticos de grupo terão um importante contributo para a concretização dos objetivos definidos para a disciplina, proporcionando a compreensão e aplicação dos temas em estudo, bem como evidenciando os benefícios dos projetos de visão computacional na eficiência das empresas. Tal permitirá identificar os diferentes recursos e componentes de um projeto, as suas relações internas e externas, bem como utilizar de forma geral e integrada os conceitos e metodologias abordadas ao longo desta e outras unidades curriculares.<br /><br />A realização do trabalho prático terá também as vantagens de compartilhar conhecimentos entre os membros do grupo, em busca de informações externas e, portanto, do contato com a realidade. A sua posterior apresentação e defesa, bem como a análise de um projeto realizado por outro grupo da turma, contribuirão de forma decisiva para o reforço da capacidade de análise considerada essencial para a concretização dos objetivos desta disciplina.<br /><br />As competências CE1, CE2, CE3 e CE5 possuem conteúdos teóricos e práticos específicos associados à disciplina e serão avaliados explicitamente ao longo do curso.<br />O trabalho das competências CG1, CG7, CB8 e CB10 são trabalhados principalmente através da análise e discussão em grupo de artigos do estado da arte.<br />As competências CT3 são especialmente trabalhadas em projetos em grupo.<br /><br />A avaliação dos alunos servirá para aferir a eficácia das metodologias de ensino desenvolvidas de acordo com os objetivos da disciplina.<br /><br />Veja Plano de Contingência para Cenários Alternativos (Distanciamento, Fecho de Instalações).
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Apresentação/discussão de um trabalho científico: 10.0 %
+- Exame: 60.0 %
+- Trabalho escrito: 10.0 %
+- Trabalho laboratorial: 10.0 %
+- Trabalho prático ou de projeto: 10.0 %
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 10.0 horas
+- Elaboração de projeto: 30.0 horas
+- Estudo autónomo: 30.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho escrito: 20.0 horas
+- Trabalho laboratorial: 30.0 horas
+
+## Fórmula de cálculo da classificação final
+A avaliação da disciplina é composta por três partes:<br /><br />Parte A<br />60%: A parte relativa à apresentação das sessões será avaliada através de um teste escrito final com questões teóricas e problemas práticos. Alternativamente, esta parte pode ser realizada através da avaliação contínua das práticas laboratoriais, que avaliarão a adequação das soluções propostas aos problemas, a qualidade dos resultados obtidos e a compreensão das técnicas utilizadas.<br />É usado para avaliar as competências CE1, CE2, CE3 e CE3 principalmente.<br /><br />Parte B<br />30%: Resolução de casos práticos (projeto de investigação). Será avaliada a adequação das soluções propostas para os problemas, a qualidade dos resultados obtidos e a compreensão das técnicas utilizadas.<br />É utilizado para avaliar o CT3, além das competências específicas.<br /><br />Parte C<br />10%: Análise de estado da arte de artigo em reconhecimento visual.<br />É usado para avaliar principalmente as competências CG1, CG7, CB8 e CB10.<br /><br />O resultado final (RF) será obtido pela fórmula: RF = 0,6 A + 0,3 B + 0,1 C<br /><br />Nos casos de execução fraudulenta de exercícios ou provas, aplicar-se-á o disposto no Regulamento de avaliação do rendimento escolar dos alunos e de revisão de habilitações.<br />Em aplicação do Regulamento do ETSE sobre plágio (aprovado pelo Conselho do ETSE em 19/12/2019) a cópia total ou parcial de qualquer exercício de prática ou teoria irá supor uma falha em ambas as oportunidades do curso, com a classificação de 0.0 em ambos os casos.<br /><br />Veja Plano de Contingência para Cenários Alternativos (Distanciamento, Fechamento de Instalações).
+
+## Obtenção de frequência
+O estudante deve comparecer à maioria das aulas de acordo com o regulamento da universidade e concluir com sucesso os trabalhos propostos durante o curso.
+
+## Melhoria de classificação
+O estudante poderá fazer um exame de recurso e/ou resubmeter os trabalhos nos períodos adequados para melhorar a nota em qualquer uma das partes da avaliação.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Visual recognition
+
+## Curso responsável
+Master in Computer Vision
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+Visual recognition tasks range from object detection in images and videos, object classification, and instance recognition, to human action recognition. In the course we will undertake a study of the first tasks, as action recognition is the main topic of Human Action Recogniton subject.<br /><br /><p align=&quot;justify&quot;>The objective is for students to acquire knowledge and skills that allow them to design systems for video motion detection, motion-based segmentation and tracking, classification and detection of objects in images and video, as well as visual tracking of objects.<br /><br /></p>
+
+## Resultados de aprendizagem e competências
+Special attention will be paid to the specific competencies (CE) listed below, and to a different extent, according to the characteristics of the subject, the following competencies chosen from the general of the degree (GC), transversals (CT) and basic training (CB):<br /><p align=&quot;justify&quot;>Basics:<br /> CB8: Students are expected to be able to integrate knowledge and face the complexity of making judgments based on information that, being incomplete or limited, includes reflections on social and ethical responsibilities linked to the application of their knowledge and judgments.<br /> <br /> CB10: Students are expected to acquire the learning skills that allow them to continue studying in a way that will be largely self-driven or autonomous.</p><br /><p>Transversal:<br /> CT3: Development of the innovative and entrepreneurial spirit.<br /> <br /> General:<br /> CG1: Ability to analyze and synthesize knowledge.<br /> CG7: Ability to learn independently for specialization in one or more fields of study.<br /> <br /> Specific:<br /> CE1: Students are expected to know and apply the concepts, methodologies and technologies of image processing.<br /> CE2: Students are expected to know and apply machine learning and pattern recognition techniques applied to computer vision.<br /> CE3: Students are expected to know and apply the concepts, methodologies and technologies of image and video analysis.<br /> CE5: Students are expected to know how to analyze and apply state of the art methods in computer vision.<br /> CE9: Students are expected to know and apply the concepts, methodologies and technologies for the recognition of visual patterns in real scenes.<br /><br /></p>
+
+## Programa
+*PART 1 UPorto:<br /><p>-------------------------<br /> 1-Introduction to video analysis.<br />Motion perception<br />Multidimensional images and image sequences<br />Spatio temporal image sampling <br /> Motion blur and spatiotemporal filtering<br /> <br /> 2-Motion detection and estimation.<br /> Image alignment and registration<br /> Hierarchical and dense motion estimation<br /> Discret coarse-to-fine image pyramids<br /> Optical flow computation: intensity, energy and phase based<br /> <br /> 3-Motion segmentation and tracking.<br /> Parametric motion, Spline-based motion, Layered motion<br /> Traditional motion tracking: Kalman filters, particles filters<br /> <br /> *PART 2 USC:<br /> -------------<br /> 4-Invariant feature extraction and matching. <br /> <span style=&quot;color: #000000;&quot;>Local Binary Descriptors<br /></span>Spectra Descriptors<br />Basis Space Descriptors<br />Sparse Coding Methods</p><br /><p>5-Classical methods of image classification and object detection. <br /> Geometric Methods<br />Appearance-based Methods<br /> Feature-based Approaches<br />Sliding Window Approaches<br />Bags of Visual Words<br /> Part-based Models<br /> <br /> 6-Methods for object detection and tracking based on deep learning. <br /> Convolutional Neural Networks for object detection in images.<br /> Convolutional Neural Networks for object detection in videos.<br /> Deep learning approaches to visual tracking.</p><br /><p>The syllabus includes the main topics of current interest in visual recognition and that are transversal to several domains of application.<br /><br /></p>
+
+## Métodos de ensino e atividades de aprendizagem
+The development of the classes will be carried out harmonizing the teaching methodologies with the fundamental objectives of the subject. This will be a subject with exposition and applications, where students will learn not only why, but also how to implement, evaluate and decide over visual recognition systems.<br /><p align=&quot;justify&quot;>The provision of information and scientific knowledge foreseen in the objectives will be developed at the beginning of each subject to be addressed, where the relation with other topics already treated in previous classes or in other subject will be established. These sessions will aim to develop students' competences and sensitize them to the importance of the topics addressed in the current real context, contributing to a better framework and also easier to perceive the objectives that are intended to be achieved.</p><br /><p align=&quot;justify&quot;>Given the practical nature of the topics to be dealt with, several exercises and practical cases, resulting from developed research work, will be presented and proposed. Students will learn by doing, reflecting and making decisions about proposed problems and alternatives, improving their skills in the topics under analysis. It will try to stimulate a process of dialogue in which all participate, through their own experience and knowledge. Thus, knowledge, doubts and questions will be shared, so as to benefit students' learning and motivate them to become more motivated. Essentially, efforts will be made to ensure the development of the abilities to &quot;apply in different contexts&quot; the knowledge acquired under the influence of different factors and variables. <br /> <br /> The practical group work will have an important contribution to the achievement of the objectives defined for the subject, providing the understanding and application of the themes under study, as well as show the benefits of computer vision projects in the efficiency of companies. This will allow to identify the different resources and components of a project, its internal and external relations, as well as to use in a general and integrated way the concepts and methodologies addressed throughout this and other curricular units.</p><br /><p>The realization of the practical work will also have the advantages of sharing knowledge among the members of the group, searching for external information and, therefore, contact with reality. Its subsequent presentation and defense, as well as the analysis of a project carried out by another group of the class, will contribute in a decisive way to the reinforcement of the analysis capacity considered essential for the achievement of the objectives of this subject. <br /> <br /> Competences CE1, CE2, CE3 and CE5 have specific theoretical and practical associated contents in the subject and will be evaluated explicitly throughout the course.<br /> The work of competences CG1, CG7, CB8 and CB10 are worked mainly through the analysis and group discussion of state of the art papers.<br /> Competences CT3 are specially worked in group projects.</p><br /><p align=&quot;justify&quot;>The evaluation of the students will serve to gauge the effectiveness of teaching methodologies developed in compliance with the objectives of the subject.</p><br /><p align=&quot;justify&quot;>See Contingency Plan for Alternative Scenarios (Distancing, Closure of Facilities).<br /><br /></p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Apresentação/discussão de um trabalho científico: 10.0 %
+- Exame: 60.0 %
+- Trabalho escrito: 10.0 %
+- Trabalho laboratorial: 10.0 %
+- Trabalho prático ou de projeto: 10.0 %
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 10.0 hours
+- Elaboração de projeto: 30.0 hours
+- Estudo autónomo: 30.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho escrito: 20.0 hours
+- Trabalho laboratorial: 30.0 hours
+
+## Fórmula de cálculo da classificação final
+The evaluation of the subject consists of three parts:<br /><p>Part A<br /> 60%: The part related to the presentation of the master sessions will be evaluated by means of a final written test with theoretical questions and practical problems. Alternatively, this part can be overcome through the continuous evaluation of laboratory practices, which will assess the adequacy of the proposed solutions to the problems, the quality of the results obtained and the understanding of the techniques used.<br /> It is used to assess CE1, CE2, CE3 and CE3 competencies mainly.</p><br /><p>Part B<br /> 30%: Resolution of practical cases (research project). The adequacy of the proposed solutions to the problems, the quality of the results obtained and the understanding of the techniques used will be assessed.<br /> It is used to evaluate the CT3, besides the specific competences.<br /> <br />Part C<br /> 10%: Analysis of state of the art article in visual recognition.<br /> It is used to assess CG1, CG7, CB8 and CB10 competencies mainly.<br /> <br /> The final result (RF) will be obtained by the formula: RF = 0.6 A + 0.3 B + 0.1 C<br /> <br /> For cases of fraudulent performance of exercises or tests, the provisions of the Regulations for the evaluation of students' academic performance and the review of qualifications will apply.<br /> In application of the ETSE Regulation on plagiarism (approved by the ETSE Board on 19/12/2019) the full or partial copy of any exercise of practice or theory will suppose a failure in both opportunities of the course, with a rating of 0.0 in both cases.<br /> <br /> See Contingency Plan for Alternative Scenarios (Distancing, Closure of Facilities).<br /><br /></p>
+
+## Obtenção de frequência
+The student must attend the majority of the lectures according to the universities regulations and successfully complete the assignments proposed during the course.
+
+## Melhoria de classificação
+The student can take a resit exam and/or resubmit the assignments in the appropriate periods to improve the grade in any of the evaluation parts.
+

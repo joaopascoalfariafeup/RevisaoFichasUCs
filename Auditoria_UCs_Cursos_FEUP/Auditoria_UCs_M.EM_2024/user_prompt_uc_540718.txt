@@ -1,0 +1,153 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Investigação Operacional
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<strong>CONTEXTO</strong><br /><br />Esta unidade curricular está centrada na aplicação de métodos analíticos para tomar melhores decisões e fornece aos estudantes ferramentas de modelação e de otimização que serão de grande utilidade na abordagem e resolução de problemas das organizações (indústria e serviços).<br /><br /><strong>OBJETIVOS ESPECÍFICOS</strong><br /><br />O objetivo principal desta unidade curricular é, através da criação de modelos, desenvolver competências para análise de um conjunto vasto de situações reais. Essas competências baseiam-se na capacidade de reconhecer o problema-chave numa situação não estruturada, na capacidade de desenvolver uma estrutura para analisar a tratar o problema e na aplicação de métodos analíticos na sua resolução.<br /><br /><strong>OBJETIVOS DE APRENDIZAGEM</strong><br /><br />Dotar os estudantes com competências para:<br /><br />- identificar e abordar de forma hábil e estruturada problemas de decisão;<br />- construir modelos de problemas de decisão;<br />- identificar e recorrer a métodos analíticos para obtenção de soluções para os modelos construídos, como suporte para decisões fundamentadas;<br />- usar ferramentas informáticas para análise e obtenção de soluções para os modelos construídos;<br />- extrair informação dos modelos e utilizá-la para comunicar e motivar mudanças organizacionais.
+
+## Resultados de aprendizagem e competências
+Esta unidade curricular contribuirá para a aquisição, por parte dos estudantes, das seguintes competências, de acordo com a nomenclatura CDIO:<br /><br />1. Conhecimento Técnico e Raciocínio<br /><br />1.1. Adquirir com a necessária proficiência conhecimentos de ciências básicas e ser capaz de os utilizar na formulação, resolução e discussão de problemas da sua área de formação;<br /><br />Os conteúdos da unidade curricular constroem sobre conhecimentos de Álgebra, Análise Matemática e Probabilidades e Estatística, organizando-os, desenvolvendo-os e aplicando-os num contexto de apoio à resolução de problemas de decisão. Por natureza, estes conhecimentos são transversais a todas as áreas de Engenharia e pertencem às suas ciências básicas. Durante as aulas há a preocupação de usar exemplos e casos da área científica do curso onde os estudantes estão envolvidos, fazendo a ponte entre as ciências básicas e a área de formação específica do curso.<br /><br />Todos os elementos de avaliação usados na unidade curricular endereçam a avaliação destas competências.<br /><br />2. Capacidades e Atitudes Pessoais e Profissionais<br /><br />2.1. Raciocínio em engenharia e resolução de problemas<br /><br />   2.1.1 identificação e formulação de problemas<br />   2.1.2 modelização<br />   2.1.3 estimação e análise qualitativa<br />   2.1.4 análise com incerteza<br />   2.1.5 solução e recomendação<br /><br />A metodologia de ensino e os seus conteúdos podem ser descritos precisamente por estes pontos. Assim, a formulação de problemas de acordo com cada um dos modelos estudados ao longo da unidade curricular, a sua modelização e resolução são uma atividade permanente ao longo da aprendizagem. A análise qualitativa é particularmente tratada na análise de sensibilidade, enquanto a incerteza é abordada em Filas de Espera e em Teoria da Decisão.<br /><br />Todos os elementos de avaliação usados na unidade curricular endereçam a avaliação destas competências.<br /><br />2.2 Experimentação e descoberta do conhecimento<br /><br />   2.2.1 formulação de hipóteses<br />   2.2.2 pesquisa de literatura<br />   2.2.3 inquérito experimental<br />   2.2.4 teste de hipóteses e defesa<br /><br />2.3 Pensamento sistémico<br /><br />   2.3.1 pensamento holístico<br />   2.3.2 emergência e interação entre sistemas<br />   2.3.3 priorização e focagem<br />   2.3.4 &quot;trade-offs&quot;, julgamento e balanceamento na resolução<br /><br />O endereçamento destas competências é de algum modo indireto, podendo ser mais diretamente descritas como:<br /><br />   (1) competências de análise, enquanto capacidade de formular conceptualizar e resolver problemas não familiares;<br />   (2) competências de projeto, enquanto solução com criatividade de problemas não familiares, complexos e com incerteza técnica;<br />   (3) competências de investigação, enquanto capacidade de modelação e investigação de aplicabilidade de técnicas emergentes (descrição de acordo com os critérios EURO-ACE).<br /><br />A formulação e modelização de problemas, que implica a identificação da família de modelos aplicável, o desenvolvimento de modelos originais e a sua avaliação, contribui claramente para estas competências. Novamente os tópicos relacionados com análise de sensibilidade contribuem para o entendimento de conceitos relacionados com &quot;trade-offs&quot; e balanceamento.<br /><br />Todos os elementos de avaliação usados na unidade curricular endereçam a avaliação destas competências.<br /><br />Os objetivos de aprendizagem estão relacionados com as competências (saberes, competências e atitudes que os estudantes devem possuir) e exprimem-se como declarações sobre as coisas que os estudantes que frequentam com sucesso a unidade curricular devem ser capazes de fazer, explicar, calcular, deduzir, projetar, etc...<br /><br />Para todos os tópicos programáticos, junto aos materiais pedagógicos de apoio à aprendizagem, estão disponíveis objetivos de aprendizagem muito detalhados.
+
+## Pré-requisitos e co-requisitos
+Cursos básicos de álgebra, estatística e teoria das probabilidades.
+
+## Programa
+modelação | sem variáveis inteiras<br />resolução de modelos | sem variáveis inteiras<br />     - programação linear<br />     - resolução gráfica + análise de sensibilidade<br />     - fundamentos do método Simplex<br />     - solver do Excel<br />     - relatório de sensibilidade do solver<br />modelação | problemas em redes<br />modelação | com variáveis inteiras<br />modelação | com variáveis auxiliares inteiras<br />resolução de problemas com variáveis inteiras<br />     - branch and bound<br />     - solver<br />filas de espera<br />teoria da decisão
+
+## Métodos de ensino e atividades de aprendizagem
+Exposição dos temas programáticos, sempre que possível com recurso a métodos de aprendizagem ativa. A exposição será sempre ilustrada por casos, exemplos e problemas. Esclarecimento de dúvidas sobre a resolução dos problemas propostos.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 30.0 %
+- Teste: 70.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+<strong>AVALIAÇÃO DISTRIBUÍDA</strong><br /><br />Micro-exercícios a realizar na aula (sem consulta) (0 a 10 valores)<br />Soma das classificações obtidas por cada estudante nos exercícios de avaliação propostos para resolução no fim de cada aula, retirando as duas classificações mais baixas.<br />Cada exercício será classificado numa escala de 0 a 100%.<br /><br />Teste intermédio (sem consulta) (0 a 4 valores)<br /><br />Classificação da avaliação distribuída entre 0 e 14 valores.<br /><br /><strong>EXAME </strong>(sem consulta) (0 e 6 valores).
+
+## Obtenção de frequência
+Para terem frequência à unidade curricular os estudantes deverão obter a classificação mínima de 4 valores (dos 14 valores possíveis) na componente de avaliação distribuída (micro-exercícios e teste intermédio).<br /><br />Para além do requisito anterior, para terem frequência a esta unidade curricular os estudantes devem cumprir o disposto nas normas gerais de avaliação da FEUP <br />(https://paginas.fe.up.pt/~contqf/producao/_SERAC/Legislacao/Regulamentos/RegulamentosFEUP/normas%20gerais%20de%20avaliacao.pdf)
+
+## Melhoria de classificação
+Os estudantes poderão inscrever-se para realização de melhoria das componentes de avaliação:<br /><br />Componente - exercícios - será avaliada através de uma prova sem consulta (classificação de 0 a 10 valores).<br />Componente - teste - será avaliada através de uma prova sem consulta (classificação de 0 a 4 valores).<br />Componente EXAME - será avaliada através de uma prova sem consulta (classificação de 0 a 6 valores).<br /><br />Em todos os casos o cálculo da classificação final será feito da forma indicada no ponto &quot;Fórmula de Cálculo da Classificação Final&quot;, considerando a melhor avaliação obtida pelo estudante em cada uma das componentes, consideradas a época normal e de melhoria.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Operational Research
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p class="p1"><strong>BACKGROUND</strong></p>
+<p class="p1">This course focuses on the application of analytical methods to make better decisions and provides students with tools for modelling and optimization that will be very useful in various roles in several types of organizations (industry and services).</p>
+<p class="p1"><strong>SPECIFIC OBJECTIVES</strong></p>
+<p class="p1">The main objective of this course is, through the creation of models, to develop skills for analysing a wide range of real situations. These competencies are based on the ability to recognize the key problem in a non-structured situation, on the ability to develop a framework for analysing and treating the problem and on the application of analytical methods for its resolution.</p>
+<p class="p1"><strong>LEARNING OBJECTIVES</strong></p>
+<p class="p1">Endow the students with the skills to:</p>
+<div style="padding-left: 30px;">- identify and address decision problems in a structured way;</div>
+<div style="padding-left: 30px;">- build models of decision problems;</div>
+<div style="padding-left: 30px;">- identify and use analytical methods to obtain solutions for the models, that should act as a support for informed decisions;</div>
+<div style="padding-left: 30px;">- use software packages to analyse and obtain solutions for the models;</div>
+<div style="padding-left: 30px;">- extract information from the models to communicate and motivate organizational changes.</div>
+
+## Resultados de aprendizagem e competências
+<p class="p1">This course will contribute to the acquisition, by the students, of the following CDIO competencies:</p>
+<p class="p2"><strong> 1. Technical Knowledge and Reasoning</strong></p>
+<p class="p1">1.1. Acquire proficiency with the necessary knowledge of basic sciences and be able to use them in the formulation, discussion and resolution of problems of their area;</p>
+<p class="p1">The contents of the course unit build on the knowledge of Algebra, Mathematical Analysis and Probabilities and Statistics, organizing them, developing them and applying them in a context of decision support. By nature, this knowledge is transversal to all areas of Engineering and belongs to its basic sciences. Throughout the classes there is a concern to use examples and case studies from the scientific area of each course, bridging the gap between the basic sciences and the area of the degree.</p>
+<p class="p1">The assessment in the course addresses these skills.</p>
+<p class="p1"><strong>2. Personal and Professional Skills and Attitudes </strong></p>
+<p class="p1">2.1. Engineering reasoning and problem-solving</p>
+<div class="p1" style="padding-left: 30px;">2.1.1 problem identification and formulation</div>
+<div class="p1" style="padding-left: 30px;">2.1.2 modelling</div>
+<div class="p1" style="padding-left: 30px;">2.1.3 estimation and qualitative analysis</div>
+<div class="p1" style="padding-left: 30px;">2.1.4 analysis with uncertainty</div>
+<div class="p1" style="padding-left: 30px;">2.1.5 solution and recommendation</div>
+<p class="p1">Exactly these points can describe the teaching methodology and the contents of this course. Thus, the formulation of problems according to each of the models studied throughout the course, their modelling and resolution are an ongoing activity. The qualitative analysis is addressed in the sensitivity analysis, while uncertainty is addressed in Queueing Theory and in Decision Theory.</p>
+<p class="p1">The assessment in the course addresses these skills.</p>
+<p class="p1">2.2 Experimentation and knowledge discovery</p>
+<div class="p1" style="padding-left: 30px;">2.2.1 hypothesizing</div>
+<div class="p1" style="padding-left: 30px;">2.2.2 literature search</div>
+<div class="p1" style="padding-left: 30px;">2.2.3 Experimental investigation</div>
+<div class="p1" style="padding-left: 30px;">2.2.4 test and defence of hypotheses</div>
+<p class="p1">2.3 systemic thinking</p>
+<div class="p1" style="padding-left: 30px;">2.3.1 holistic thinking</div>
+<div class="p1" style="padding-left: 30px;">2.3.2 emergency and interaction between systems</div>
+<div class="p1" style="padding-left: 30px;">2.3.3 prioritization and focus</div>
+<div class="p1" style="padding-left: 30px;">2.3.4 trade-offs, judgment and balancing the resolution</div>
+<p class="p1">These skills are addressed indirectly and maybe more directly described as:</p>
+<div class="p1" style="padding-left: 30px;">(1) analysis competencies - ability to conceptualize, formulate and solve unfamiliar problems;</div>
+<div class="p1" style="padding-left: 30px;">(2) project competencies - ability to address with creativity, unfamiliar, complex and technically uncertain problems;</div>
+<div class="p1" style="padding-left: 30px;">(3) research competencies - ability to model and evaluate the applicability of emerging techniques (description of the criteria according to Euro-ACE).</div>
+<p class="p1">Problem design and modelling, involving the identification of the applicable family of models and the development and evaluation of original models, clearly contributes to these skills. The topics related to sensitivity analysis contribute to the understanding of concepts related to trade-offs and balancing.</p>
+<p class="p1">The assessment in the course addresses these skills.</p>
+<p class="p1">The learning objectives are related to the competencies (knowledge, skills and attitudes that students should have) and are expressed as statements about things that students should be able to explain, calculate, deduct, design, etc ...</p>
+<p class="p1">For all program topics, detailed learning objectives are available from the website, along with educational materials to support learning.</p>
+
+## Pré-requisitos e co-requisitos
+Basic courses in algebra, statistics and probability theory.
+
+## Programa
+modelling | without integer variables<br />resolution of models | without integer variables<br />          - linear programming<br />          - graphic resolution + sensitivity analysis<br />          - simplex method fundamentals<br />          - Excel solver<br />          - solver sensitivity report<br /><div>modelling | network problems<br />modelling | with integer variables<br />modelling | with integer auxiliary variables<br />resolution of problems with integer variables<br />          - branch and bound<br />          - solver<br />queueing theory<br />decision theory</div>
+
+## Métodos de ensino e atividades de aprendizagem
+The themes are presented using active learning methods. The problems are illustrated with examples. The problems from a list of proposed problems are discussed and solved by the students.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 30.0 %
+- Teste: 70.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><strong>DISTRIBUTED EVALUATION</strong></p>
+<p>Micro-exercises in class (closed book) (0 to 10 points)</p>
+<p>The sum of the scores obtained by each student in the assessment exercises proposed for resolution at the end of each lesson, removing the two lowest scores.</p>
+<p>Each exercise will be rated on a scale from 0 to 100%.</p>
+<p>Test (closed book) (0 to 4 points).</p>
+<p style="color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;">Distributed evaluation: final rate between 0 and 14 points.</p>
+<p style="color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;"><strong>EXAM</strong> (closed book) (0 to 6 points).</p>
+
+## Obtenção de frequência
+To be able to access the exam the students must obtain a minimum classification of 4 points (out of 14 possible points) in the distributed assessment component (micro-exercises and intermediate test).<br /><br />In addition to the previous requirement, to attend this curricular unit students must follow FEUP general rules of assessment<br />(in Portuguese https://paginas.fe.up.pt/~contqf/producao/_SERAC/Legislacao/Regulamentos/RegulamentosFEUP/normas%20gerais%20de%20avaliacao.pdf)
+
+## Melhoria de classificação
+Students may register for completion of the components:<br /><br />Component - exercises - will be assessed through a closed book test (classification from 0 to 10 values).<br />Component - test - will be assessed by a closed-book test (classification of 0 to 4).<br />EXAM component will be assessed through a closed book exam (classification from 0 to 6).<br /><br />In all cases, the final mark will be calculated as described in the section &quot;Calculation of the Final Classification&quot;, considering the best assessment obtained by the student in each component, considering the normal season and the improvement season.
+

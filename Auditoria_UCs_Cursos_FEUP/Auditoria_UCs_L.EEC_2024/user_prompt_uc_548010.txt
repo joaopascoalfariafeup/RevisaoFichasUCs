@@ -1,0 +1,98 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Competições de Swarm Robotics
+
+## Curso responsável
+Competições de Swarm Robotics
+
+## Créditos ECTS
+1,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<ul><br /><li>dotar os estudantes de competências básicas na conceção, desenvolvimento e implementação de algoritmos simples de cooperação e consensos de múltiplos agentes com foco especial em competições de <em>swarm robotics</em>. Os algoritmos de inteligência e controlo swarm têm aplicações em diversas áreas científicas, incluindo, ambiental, bioengenharia, civil, ciências dos dados, ciências de computação e da informação, eletrotécnica, física, mecânica, nanotecnologia e química; o que torna este tópico transversal.</li><br /><li>preparar os estudantes para a competição de <em>swarm robotics, </em>promovendo o desenvolvimento de competências complementares (soft skills), designadamente: trabalho em equipa, cooperação, comunicação interpares, gestão de tempo, gestão de recursos, gestão de stress.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<ul><br /><li>Explicação do funcionamento básico de simples algoritmos de consensos e inteligência swarm entre agentes;</li><br /><li>Desenvolvimento de pequenos módulos de programas em Python na plataforma notebook para a competição que consiste na utilização de robots móveis para procurar e colecionar o maior número de recursos num determinado período de tempo fixo.</li><br /><li>Desenvolvimento de soft skills nas áreas de trabalho em equipa, cooperação, comunicação interpares, gestão de tempo, gestão de recursos, gestão de stress</li><br /></ul>
+
+## Programa
+<ul><br /><li>Introdução aos algoritmos de cooperação e consensos de múltiplos agentes.</li><br /><li>Introdução às arquiteturas distribuídas de sistemas de swarm robotics para tarefas de controlo de formação e cobertura.</li><br /><li>Introdução ao python em notebook.</li><br /><li>Desenvolvimento, implementação e simulação de programas de swarm robotics tendo por objetivo atingir a máxima pontuação na competição.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A metodologia de ensino-aprendizagem tem por base a não-exigência de algum pré-conhecimento ou competência anterior por parte dos estudantes em linguagens de programação, algoritmos e hardware associado aos sistemas de robótica móvel, sendo por isso adequado a qualquer estudante de licenciatura ou de mestrado.</p>
+<p>De acordo com o programa, as aulas compreendem tipologias teóricas e laboratoriais. A parte teórica consiste em palestras para exposição dos assuntos a tratar, acompanhadas de exemplos e demonstrações. A parte laboratorial é focadas nos trabalhos de aplicação, nomeadamente no desenvolvimento de programas de swarm robotics, simulação e teste na competição. Nesta fase, os estudantes terão a possibilidade de aplicar e testar os conhecimentos adquiridos.</p>
+<p> </p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho escrito: 15.0 %
+- Trabalho laboratorial: 85.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 28.5 horas
+- Frequência das aulas: 12.0 horas
+
+## Fórmula de cálculo da classificação final
+<ul><br /><li>Serão consideradas duas <u>componente</u>s:</li><br /><ul><br /><li>ETI - Exercícios propostos como Trabalho Individual</li><br /><li>TL &#8211; Trabalho Laboratorial</li><br /></ul><br /><li>Fórmula de cálculo da classificação final = 15% ETI + 85% TL</li><br /></ul>
+
+## Obtenção de frequência
+participação ativa nas atividades
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Swarm Robotics Competitions
+
+## Curso responsável
+Swarm Robotics Competitions
+
+## Créditos ECTS
+1,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<ul><br /><li>provide students with basic skills in the design, development and implementation of simple algorithms for cooperation and consensus of multiple agents with a special focus on robotic swarm competitions. Swarm intelligence and control algorithms have applications in many scientific fields, including, environmental, bioengineering, civil, data science, computer and information science, electrotechnics, physics, mechanics, nanotechnology and chemistry; what makes this topic cross-cutting.</li><br /><li>prepare students for the robotics swarm competition, promoting the development of complementary skills (soft skills), namely: teamwork, cooperation, peer communication, time management, resource management, stress management.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<ul><br /><li>Explanation of the basic functioning of simple consensus algorithms and swarm intelligence between agents;</li><br /><li>Development of small Python program modules on the Notebook platform for the competition that consists of using mobile robots to search and collect the greatest number of resources in a fixed period of time.</li><br /><li>Development of soft skills in the areas of teamwork, cooperation, peer communication, time management, resource management, stress management</li><br /></ul>
+
+## Programa
+<ul><br /><li>Introduction to multi-agent cooperation and consensus algorithms.</li><br /><li>Introduction to distributed architectures of robotics swarm systems for formation and coverage control tasks.</li><br /><li>Introduction to Notebook python.</li><br /><li>Development, implementation, and simulation of robotics swarm programs aiming to achieve the maximum score in the competition.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The teaching-learning methodology is based on the non-requirement of any prior knowledge or competence on the part of students in programming languages, algorithms and hardware associated with mobile robotics systems, and is therefore suitable for any undergraduate or Master's degree.</p>
+<p>According to the program, the classes comprise theoretical and laboratory typologies. The theoretical part consists of lectures to expose the subjects to be dealt with, accompanied by examples and demonstrations. The laboratory part is focused on application work, namely the development of robotics swarm programs, simulation and competition testing. At this stage, students will have the possibility to apply and test the acquired knowledge.</p>
+<p> </p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho escrito: 15.0 %
+- Trabalho laboratorial: 85.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 28.5 hours
+- Frequência das aulas: 12.0 hours
+
+## Fórmula de cálculo da classificação final
+<pre class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; data-placeholder=&quot;Tradução&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>Two components will be considered:</span></pre><br /><ul><br /><li><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>ETI - Exercises proposed as Individual Work</span></li><br /><li><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>TL - Laboratory Work</span></li><br /></ul><br /><pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; data-placeholder=&quot;Tradução&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>Final grade calculation formula = 15% ETI + 85% TL<br /></span></pre>
+
+## Obtenção de frequência
+active participation in the proposed activities
+

@@ -1,0 +1,115 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Matemática I
+
+## Curso responsável
+Licenciatura em Bioengenharia
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Pretende-se que os alunos adquiram conhecimentos teóricos e práticos básicos sobre Álgebra Linear e Geometria Analítica e ainda sobre Cálculo Diferencial e Integral para funções reais de uma variável real.</p>
+
+## Resultados de aprendizagem e competências
+<p>Os resultados de aprendizagem e as competências esperadas no fim deste semestre devem ser:</p>
+<p>1 - Efectuar as operações com matrizes.<br />2 - Calcular determinantes de qualquer ordem e saber utilizar as suas principais propriedades.<br />3 -Classificar e discutir sistemas de equações lineares quanto ao tipo de soluções e resolução dos sistemas pelo método de eliminação de Gauss.<br />4 - Analisar a dependência e independência linear de um conjunto de vetores em R2 e R3.<br />5 - Determinar a dimensão e construir bases para subespaços de R2 e R3.<br />6 -Determinar valores e vetores próprios de uma matriz bem como os respectivos subespaços próprios. <br />7 - Calcular a projeção ortogonal, o produto interno e o produto externo entre 2 vetores.<br />8 - Obter as funções inversas das funções trigonométricas bem como conhecer as suas derivadas. <br />9 - Calcular primitivas pelos métodos de substituição e partes. <br />10 - Calcular primitivas de frações racionais. <br />11 - Calcular integrais definidos usando os teoremas fundamentais. <br />12 - Calcular áreas de regiões planas usando integrais definidos.</p>
+
+## Programa
+<p>A - <strong>Tópicos de Álgebra Linear e de Geometria Analítica</strong> <br /><br />I &#8211; Matrizes: definição, dimensão e operações. O caso especial das matrizes quadradas: matrizes triangulares, matrizes simétricas e transposição de matrizes. Matriz inversa e suas propriedades. Matrizes ortogonais. Potência de uma matriz.  Método da condensação de matrizes. <br /><br />II &#8211; Determinantes: definição e propriedades; cálculo de determinantes &#8211; Teorema de Laplace; aplicações dos determinantes à determinação da matriz inversa e da característica de uma matriz.<br /> <br />III &#8211; Sistemas de equações lineares: sistemas homogéneo e não homogéneo; espaço vetorial das soluções; forma matricial dos sistemas; discussão e resolução de sistemas &#8211; método de Gauss-Jordan; regras de Cramer.<br /><br />IV &#8211; Espaços vetoriais: definição; o caso de Rn; subespaços vetoriais; dependência e independência linear; bases e dimensão. <br /><br />V &#8211; Valores próprios e vetores próprios: definição; polinómio característico e determinação dos valores próprios de uma matriz; subespaço próprio associado a um valor próprio. <br /><br />VI &#8211; Geometria analítica: norma de um vetor; projecção ortogonal de um vetor sobre outro; produto interno ou escalar; produto vetorial ou externo e produto misto em R3.<br /> <br />B &#8211; <strong>Cálculo diferencial e integral de funções reais de variável real<br /></strong> <br />I &#8211; Revisão de algumas funções reais de variável real: a função exponencial e logarítmica. Suas propriedades e gráficos. Breve revisão dos conceitos de limite e continuidade e suas aplicações a algumas funções; estudo de indeterminações; funções trigonométricas e suas inversas; funções hiperbólicas.<br /> <br />II &#8211; Derivação: definição e interpretação da derivada; regras de derivação da função composta e da função inversa; problemas de aplicação ao crescimento das funções e à determinação de máximos e mínimos; exemplo do crescimento exponencial e da curva logística; regra de l&#8217;Hôpital; noção de diferencial.<br /> <br />III &#8211; Primitivação: definição de primitiva ou antiderivada; exemplos imediatos; regras elementares; primitivação por substituição e por partes; decomposição e primitivação de frações racionais. Primitivação de algumas expressões trigonométricas.<br /> <br />IV - Integral de Riemann num intervalo [a,b]: definição através das somas de Riemann; propriedades básicas; teorema fundamental do cálculo; aplicações do integral ao cálculo de áreas ; valor médio de uma função e teorema do valor médio.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Nas aulas teórico-práticas, haverá exposição da matéria teórica com exemplos de aplicação. Nas aulas práticas serão resolvidos pelos estudantes exercícios propostos, com orientação e acompanhamento do professor. É maximizada a interação com os estudantes durante as aulas. <br /><br />A unidade curricular é complementada com uma página Moodle onde, para além de todo o material pedagógico de apoio (acetatos, apontamentos, folhas de exercícios, resoluções, vídeos, etc.), são disponibilizadas atividades de autoavaliação on-line para possibilitar a aferição do ensino/aprendizagem.<br /><br /><br /></p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 90.0 %
+- Trabalho prático ou de projeto: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 horas
+- Frequência das aulas: 56.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Esta UC tem avaliação distribuída sem exame final. Assim, a classificação final (CF) é definida por: <br /><br />CF = máximo{0,45 x nota do MT1 + 0,45 x nota do MT2 + 0.1 x MDL; 0,5 x nota do MT1 + 0,5 x nota do MT2}<br /><br />onde:<br /><br />- MT1: 1º Mini-Teste (que só incluirá a matéria de Cálculo), <br /> <br />- MT2: 2º Mini-Teste (que só incluirá a matéria de Álgebra);<br /><br />- MDL: média das notas de atividades no Moodle (ou em papel) ao longo do semestre<br /><br /></p>
+<p>Caso os estudantes não obtenham aprovação através da avaliação distribuída ou pretendam realizar melhoria de nota, poderão realizar um teste de recurso relativo a uma única parte da matéria (1º Mini-Teste de Recurso - MTR1 para a parte de Cálculo ou 2º Mini-Teste de Recurso - MTR2 para a parte de Álgebra) ou realizar um exame de recurso Global (ER). Desta forma a classificação final (CFR) da época de recurso será:<br /><br />CFR=nota do ER (se faz exame global)</p>
+<p>Ou</p>
+<p>CFR=0,5 x nota do MTR1 + 0,5 x nota do MT2 (se 'repete' o MT1 - Cálculo)</p>
+<p>Ou</p>
+<p>CFR=0,5 x nota do MT1 + 0,5 x nota do MTR2 (se 'repete' MT2 - Álgebra)</p>
+<p><br />Em qualquer dos casos, para obter uma classificação superior a 18 valores, o estudante deverá realizar uma prova suplementar.<br /><br />Todas as componentes de avaliação são expressas na escala de 0 a 20 valores.</p>
+
+## Obtenção de frequência
+<p>Nos termos das normas gerais de avaliação um aluno obterá frequência se o número de faltas às aulas não exceder 25% das aulas previstas.</p>
+
+## Melhoria de classificação
+<p>No exame de recurso.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Mathematics I
+
+## Curso responsável
+Bachelor in Bioengineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>This course unit aims to provide students with theoretical and practical knowledge in Linear Algebra and Analytical Geometry, as well as Differential and Integral Calculus of a real functions of a real variable.</p>
+
+## Resultados de aprendizagem e competências
+<p>LEARNING OUTCOMES<br /> <br />Students should be capable of: <br /><br />1- carry out matrix operations.<br />2- calculate determinants of any order and be capable of using their main properties.<br />3- classify systems of linear equations regarding the type of solution and resolution of systems by using Gaussian elimination method.<br />4- analyse linear dependence and independence of a group of vectors in R2 and R3. <br />5- determine the dimension and bases of R2 and R3 subspaces <br />6- determine eigenvalues and eigenvectors, as well as their eigensubspaces. <br />7- calculate the orthogonal projection, internal and external product between 2 vectors.<br />8- obtain inverse trigonometric functions, as well as their derivatives.<br />9- calculate primitives by substitution and parts method. <br />10- calculate primitives of rational fractions. <br />11- calculate defined Riemann integrals using fundamental theorems. <br />12- obtain the areas of plane regions using defined integrals.</p>
+
+## Programa
+<p>A - <strong>Topics of Linear Algebra and Analytical Geometry</strong><br /> <br />I- Matrices: definition, dimension and operations; the special case of square matrices: triangular matrices, symmetric matrices and matrix transposition; inverse matrix and its properties; orthogonal matrices; power of a matrix; matrices condensation method. <br /><br />II- Determinants: definition and properties; determinants calculation- Laplace theorem; application of determinants to the calculation of the inverse matrix and the matrix rank. <br /><br />III- Systems of linear equations: homogeneous and non-homogeneous systems; vector space of solutions; matrix form of systems; discussion and resolution of systems- Gauss-Jordan method; Cramer rules.<br /><br />IV- Vector spaces: definition; Rn case; vector subspaces; linear dependence and independence; basis and dimension <br /><br />V- Eigenvalues and eigenvectors: definition;  characteristic polynomial and determination of eigenvalues of a matrix; eigensubspaces associated to an eigenvalue. <br /><br />VI- Analytical geometry: vector norm; orthogonal projection of a vector onto another; scalar or internal product; vector or external product and mixed product in R3.<br /> <br />B - <strong>Differential and Integral Calculus of real-valued functions of a real variable</strong> <br /><br />I- Revision of some real functions of real variable: exponential and logarithmic function; its properties and graphs. Brief revision of the concepts of limits and continuity and its application to some functions; some indeterminate forms; trigonometric functions and their inverse; hyperbolic function. <br /><br />II- Derivation: definition and interpretation of the derivative; rules of derivation of composed and inverse functions; problems of application to the growth of function and determination of maximum and minimum; examples of exponential growth and logistic curve; l&#8217;Hôpital&#8217;s rule; notion of differential. <br /><br />III- Primitives: definition of primitive or antiderivative; simple examples and elementary rules; methods of substitution and parts; decomposition and primitives of rational fractions. <br /><br />IV- Riemann integral on an interval [a,b]:definition by Riemann sums; basic properties; fundamental theorem of calculus; application of integral to the calculation of areas; mean value and mean value theorem.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+In theoretical-practical classes, the theoretical material will be presented with examples of application. In practical classes, students will solve proposed exercises, with guidance and monitoring by the teacher. Interaction with students during classes is maximised. <br /><br />The curricular unit is complemented with a Moodle page where, in addition to all the pedagogical support material (acetates, notes, exercise sheets, resolutions, videos, etc.), online self-assessment activities are made available to enable the measurement of teaching / learning.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 90.0 %
+- Trabalho prático ou de projeto: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 hours
+- Frequência das aulas: 56.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>This course has distributed assessment without final exam. Thus, the final classification (FC) is defined by:<br /><br />CF = maximum{0.45 x MT1 grade + 0.45 x MT2 grade + 0.1 MDL; 0.5 x MT1 grade + 0.5 x MT2 grade}<br /><br />where:<br /><br />- MT1: 1st Mini-Test (which will only include the subjects related with Calculus),<br /><br />- MT2: 2nd Mini-Test (which will only include the subjects related with Algebra);<br /><br />- MDL: average of Moodle (or paper) activities grades over the semester<br /><br /></p>
+<p>If students do not pass with the distributed assessment or wish to improve their grade, they may take an appeal test related to a single part of the subject (Appeal of the 1st Mini-Test - MTR1 for the Calculus part or Appeal of the 2nd Mini-Test - MTR2 for the Algebra part) or take a global exam (ER).</p>
+<p>Therefore, the final classification (CFR) of the appeal season will be:</p>
+<p>CFR=ER grade (if a global exam is taken)</p>
+<p>Or</p>
+<p>CFR=0.5 x MTR1 grade + 0.5 x MT2 grade (if 'repeats' MT1 - Calculus)</p>
+<p>Or</p>
+<p>CFR=0.5 x MT1 grade + 0.5 x MTR2 grade (if 'repeats' MT2 - Algebra)</p>
+<p><br />In any case, to obtain a grade higher than 18, the student must take a supplementary exam.<br /><br />All assessment components are expressed on a scale of 0 to 20.</p>
+
+## Obtenção de frequência
+<p>To be admitted to exams, students cannot miss more than 25% of classes (according to the General Evaluation Rules of FEUP).</p>
+
+## Melhoria de classificação
+<p>Appeal exam.</p>
+

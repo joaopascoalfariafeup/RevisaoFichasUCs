@@ -1,0 +1,456 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Fundamentos de Mecânica dos Fluidos
+
+## Curso responsável
+Mestrado em Engenharia do Ambiente
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Analisar, compreender e caraterizar, com base nas leis fundamentais da mecânica e metodologias específicas, o comportamento dos fluidos, em repouso e em movimento, com vista à resolução de problemas de mecânica de fluidos em engenharia.</p>
+<p>Criar as bases para a resolução de problemas em domínios mais específicos, com os conhecimentos complementares a transmitir no âmbito da Mecânica dos Fluidos II.</p>
+<br />
+<p><!-- [if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--></p>
+
+## Resultados de aprendizagem e competências
+<p>Espera-se que no final do semestre os alunos:</p>
+<ol>
+<li>Consigam caraterizar os fluidos pelas suas propriedades e resolver problemas simples com a lei de Newton da viscosidade;</li>
+<li>Sejam capazes de aplicar os princípios da estática dos fluidos à manometria e à caraterização das forças de pressão sobre superfícies planas imersas;</li>
+<li>Dominem os aspetos fundamentais da cinemática e da dinâmica no contexto da mecânica dos fluidos;</li>
+<li>Entendam as vantagens de utilizar a análise dimensional e os princípios da semelhança na solução de problemas de mecânica dos fluidos;</li>
+<li>Saibam aplicar as equações de conservação da massa e da energia a escoamentos viscosos em condutas, calcular perdas de carga, necessidades de energia, estimar o caudal disponível e dimensionar condutas simples;</li>
+<li>Saibam caraterizar as forças resultantes da ação de escoamentos sobre corpos neles imersos.</li>
+</ol>
+
+## Pré-requisitos e co-requisitos
+Análise Matemática; Álgebra; Estática, Cinemática e Dinâmica; Termodinâmica
+
+## Programa
+<strong>Introdução</strong>. Âmbito da Mecânica dos Fluidos. Conceito de fluido e propriedades termodinâmicas mais relevantes. Hipótese de meio contínuo. Viscosidade e Lei de Newton da viscosidade. Fluidos newtonianos e não-newtonianos. Pressão de vapor e cavitação. Tensão superficial.<br /><strong>Estática dos fluidos</strong>. Pressão no seio de um fluido em repouso. Invariabilidade da pressão com a direção. Princípio de Pascal. Equação fundamental da hidrostática. Manometria. Forças em superfícies planas imersas. Impulsão.<br /><strong>Noções de cinemática</strong>. Propriedades do campo de velocidades. Aceleração local e convectiva. Perspetivas Lagrangeana e Euleriana. Sistemas e volumes de controlo. Caudal e velocidade média, lei da conservação da massa (continuidade).<br /><strong>Introdução à dinâmica dos fluidos, equações de Bernoulli e energia</strong>: 2ª lei de Newton ao longo de uma linha de corrente. Equação de Euler. Equação de Bernoulli. Conceito de fluido ideal. Interpretações da equação de Bernoulli. Pressão dinâmica e pressão de estagnação. Medições de velocidade e de caudal e respetivos sistemas (sondas de Pitot e de Prandtl, placa orifício). 2ª lei de Newton na direção normal a uma linha de corrente. <br /><strong>Formulação integral</strong>. Teorema do transporte de Reynolds. Conservação da massa. Lei de Newton e equação da quantidade de movimento linear. Força resultante sobre um volume de controlo, força de reação hidrodinâmica. Conservação da energia (1ª lei da Termodinâmica). <br /><strong>Análise dimensional e semelhança</strong>. Variáveis e dimensões de referência de um problema. Grupos adimensionais mais comuns em mecânica de fluidos e seu significado. Regras de semelhança e modelação de escoamentos.<br /><strong>Escoamento viscoso em condutas</strong>. Regimes laminar e turbulento. Zona de desenvolvimento. Perda de carga em linha. Coeficiente de Darcy e equação de Darcy-Weisback. Perfil parabólico e solução para o caso laminar. Perfil logarítmico, equação de Colebrooke e diagrama de Moody. Perdas localizadas. Problemas inversos: determinação do caudal e dimensionamento de condutas. Associação de condutas.<br /><strong>Escoamentos exteriores</strong>. Noções elementares de camada limite. Ação de escoamentos sobre corpos não fuselados. Forças e coeficientes de arrasto e de sustentação.
+
+## Métodos de ensino e atividades de aprendizagem
+Aulas teóricas: duas sessões semanais de 1,5h. Exposição dos conceitos teóricos, discussão, apresentação e resolução de exemplos tipo de aplicação. <br /><br />Aulas teórico-práticas: uma sessão semanal de 1,5 h. Apresentação, resolução e discussão de exemplos tipo de aplicação. Esclarecimentos das dúvidas dos alunos.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 92.0 horas
+- Frequência das aulas: 70.0 horas
+
+## Fórmula de cálculo da classificação final
+Avaliação continua composta por dois exames teórico/práticos presenciais um a meio e outro no final do semestre. Neste caso cada teste terá um peso de 50% para a nota final. As provas terão sempre a duração de 90 minutos. A nota mínima de aprovação será 9,5/20, considerando a média ponderada dos 2 testes.<br /><br />A avaliação na época de recurso/melhoria de nota incide, como um todo, sobre as duas provas. Haverá uma única prova teórica/prática, englobando todo o programa. Terá um peso de 100% para a nota final. A nota mínima de aprovação será 9,5/20.
+
+## Obtenção de frequência
+<p><!-- [if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--></p>
+<p><!-- [if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:DoNotShowPropertyChanges/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>PT</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="--"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!-- [if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--><!-- [if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Tabela normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-fareast-language:EN-US;}
+</style>
+<![endif]--></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; line-height: normal;">Segundo o regulamento da FEUP para as aulas regulares</p>
+
+## Melhoria de classificação
+<p>De acordo com as normas da FEUP, em simultâneo e com o mesmo formato e regras da prova de recurso.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Fundamentals of Fluid Mechanics
+
+## Curso responsável
+Master in Environmental Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>To analyze, understand and characterize, based on the fundamental laws of mechanics and specific methodologies, the behavior of fluids, at rest and in motion, in order to solve problems of fluid mechanics in engineering.<br /><br />To create the basis for solving problems in more specific areas, with the complementary knowledge to be transmitted in the scope of Fluid Mechanics II.</p>
+<p><span id="" lang=""> </span></p>
+
+## Resultados de aprendizagem e competências
+<p><span id="result_box" class="" lang="en">It is expected that at the end of the semester students:<br /></span></p>
+<ol>
+<li><span id="result_box" class="" lang="en"><span class="">Be able to characterize fluids by their properties and solve simple problems with Newton's law of viscosity;</span></span></li>
+<li><span id="result_box" class="" lang="en"><span class="">Be able to apply the principles of fluid statics to manometry and to the characterization of pressure forces on immersed flat surfaces;</span></span></li>
+<li><span id="result_box" class="" lang="en">Be familiar with the fundamental aspects of kinematics and dynamics in the context of fluid mechanics;</span></li>
+<li><span id="result_box" class="" lang="en"><span class="">Understand the advantages of using dimensional analysis and the principles of similarity in solving fluid mechanics problems;</span></span></li>
+<li><span id="result_box" class="" lang="en"><span class="">Know how to apply the mass and energy conservation equations to viscous flows in ducts, calculate load losses, energy requirements, estimate of the available flow and dimension simple ducts;</span></span></li>
+<li><span id="result_box" class="" lang="en"><span class="">Be able to characterize the forces resulting from the action of flows on bodies immersed in them.</span></span></li>
+</ol>
+
+## Pré-requisitos e co-requisitos
+Math analysis; Algebra; Statics, Kinematics and Dynamics; Thermodynamics
+
+## Programa
+<span title=&quot;Introdução.&quot;><strong>Introduction</strong>. </span><span title=&quot;Âmbito da Mecânica dos Fluidos.&quot;>Scope of Fluid Mechanics. </span><span title=&quot;Conceito de fluido e propriedades termodinâmicas mais relevantes.&quot;>Fluid concept and more relevant thermodynamic properties. H<span title=&quot;Hipótese de meio contínuo.&quot;>ypothesis of</span> c</span><span title=&quot;Hipótese de meio contínuo.&quot;>ontinuous medium . </span><span title=&quot;Viscosidade e Lei de Newton da viscosidade.&quot;>Viscosity and Newton's Law of viscosity. </span><span title=&quot;Fluidos newtonianos e não-newtonianos.&quot;>Newtonian and non-Newtonian fluids. </span><span title=&quot;Tensão de vapor e cavitação.<br />&quot;>Vapor pressure and cavitation. Surface tension.<br /></span><span title=&quot;Estática dos fluidos.&quot;><strong>Statics of fluids</strong>. </span><span title=&quot;Pressão no seio de um fluido em repouso.&quot;>Pressure in fluid at rest. </span><span title=&quot;Invariabilidade da pressão com a direção.&quot;>Invariability of pressure with direction. </span><span title=&quot;Princípio de Pascal.&quot;>Pascal principle. H<span title=&quot;Equação fundamental da hidrostática.&quot;>ydrostatics</span> f</span><span title=&quot;Equação fundamental da hidrostática.&quot;>undamental equation. </span><span title=&quot;Manometria.&quot;>Manometry. </span><span title=&quot;Forças em superfícies planas imersas.&quot;>Forces on immersed flat surfaces. </span><span title=&quot;Impulsão.<br />&quot;>Buoyancy.<br /></span><span title=&quot;Noções de cinemática.&quot;><strong>Notions of kinematics</strong>. </span><span title=&quot;Propriedades do campo de velocidades.&quot;>Velocity field properties. </span><span title=&quot;Aceleração local e convectiva.&quot;>Local and convective acceleration. </span><span title=&quot;Perspetivas Lagrangeana e Euleriana.&quot;>Lagrangean and Eulerian perspectives. S</span><span title=&quot;Sistemas e volumes de controlo.&quot;>ystems and control volumes. Volume and mass f</span><span title=&quot;Caudal e velocidade média, lei da conservação da massa (continuidade).<br />&quot;>lux and average velocity, law of mass conservation (continuity).<br /><span title=&quot;Introdução à dinâmica dos fluidos.&quot;><strong>Introduction to fluid dynamics</strong>. </span><span title=&quot;2ª lei de Newton aplicada a uma partícula de fluido, integração ao longo de uma linha de corrente.&quot;>Newton's 2nd law applied to a fluid particle, integration along a streamline. </span><span title=&quot;Conceito de escoamento ideal.&quot;>Ideal flow concept. </span><span title=&quot;Equações de Euler e de Bernoulli.&quot;>Equations of Euler and Bernoulli. </span><span title=&quot;Interpretações da equação de Bernoulli.&quot;>Interpretations of the Bernoulli equation. </span><span title=&quot;Pressão dinâmica e pressão de estagnação.&quot;>Dynamic pressure and stagnation pressure. </span><span title=&quot;Medições da velocidade e do caudal.&quot;>Velocity and volume flux measurements. </span><span title=&quot;Integração da 2ª lei de Newton na direção normal às linhas de corrente.&quot;>Integration of Newton's 2nd law in the direction normal to streamlines.</span><br /></span><span title=&quot;Formulação integral.&quot;><strong>Integral formulation</strong>. <span title=&quot;Teorema de transporte de Reynolds.&quot;>Reynolds transport theorem. </span><span title=&quot;Lei da conservação da massa.&quot;>Law of mas  conservation. </span><span title=&quot;Lei de Newton e equação da quantidade de movimento linear.&quot;>Newton's law and linear momentum equation. </span><span title=&quot;Balanço de forças atuantes num volume de controlo, forças de contacto e forças internas.&quot;>Balance of forces acting on a control volume, contact forces and internal forces. <span title=&quot;Princípio da conservação da energia, 1ª Lei da termodinâmica.&quot;>Principle of conservation of energy, 1st law of thermodynamics.</span></span></span><span title=&quot;Medições da velocidade e do caudal.<br />&quot;><br /></span><span title=&quot;Análise dimensional e semelhança.&quot;><strong>Dimensional analysis and similarity</strong>. </span><span title=&quot;Variáveis e dimensões de referência de um problema.&quot;>Reference variables and dimensions of a problem. </span><span title=&quot;Grupos adimensionais mais comuns em mecânica de fluidos e seu significado.&quot;>More common dimensionless groups in fluid mechanics and their meaning. </span><span title=&quot;Regras de semelhança e modelação de escoamentos.<br />&quot;>Rules of similarity and flow modeling.<br /></span><span title=&quot;Escoamento viscoso em condutas.&quot;><strong>Viscous flow in ducts</strong>. </span><span title=&quot;Regimes laminar e turbulento.&quot;>Laminar and turbulent regimes. </span><span title=&quot;Zona de desenvolvimento.&quot;>Development zone. I</span><span title=&quot;Perda de carga em linha.&quot;>n line heath losses. </span><span title=&quot;Coeficiente de Darcy e equação de Darcy-Weisback.&quot;>Darcy's coefficient and Darcy-Weisback's equation. </span><span title=&quot;Perfil parabólico e solução para o caso laminar.&quot;>Parabolic profile and solution for the laminar case. </span><span title=&quot;Perfil logarítmico, equação de Colebrooke e diagrama de Moody.&quot;>Logarithmic profile, Colebrooke equation and Moody diagram. </span><span title=&quot;Perdas localizadas.&quot;>Minor losses in pipes. </span><span title=&quot;Problemas inversos: determinação do caudal e dimensionamento de condutas.&quot;>Inverse problems: determination of flow rate and dimensioning of ducts. Multiple pipe systems</span><span title=&quot;Associação de condutas.<br />&quot;>.<br /></span><strong><span title=&quot;Escoamentos exteriores.&quot;>External flows. </span></strong><span title=&quot;Noções elementares de camada limite.&quot;>Basic concepts of boundary layer. </span><span title=&quot;Ação de escoamentos sobre corpos não fuselados.&quot;>Action of flows on non-fuselated bodies. </span><span title=&quot;Forças e coeficientes de arrasto e de sustentação.&quot;>Drag and lift forces and coefficients.</span>
+
+## Métodos de ensino e atividades de aprendizagem
+Lectures: two weekly sessions of 1.5h. Presentation of theoretical concepts and discussion. <span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b ChMk0b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;es&quot; data-phrase-index=&quot;1&quot;>The theoretical classrooms are pre-recorded and placed on the moodle platform</span></span>.<br /><br />Theoretical-practical sessions: a weekly session of 1.5 h. Examples, exercises and discussion of student&#8217;s questions.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 92.0 hours
+- Frequência das aulas: 70.0 hours
+
+## Fórmula de cálculo da classificação final
+<span class=&quot;tlid-translation translation&quot;><span title=&quot;&quot;>Two theoretical / practical tests throughout the semester.</span> <span class=&quot;&quot; title=&quot;&quot;><span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b ChMk0b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;auto&quot; data-phrase-index=&quot;1&quot;>each test will have a weight of 50% for the final grade</span></span>. T<span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b ChMk0b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;auto&quot; data-phrase-index=&quot;5&quot;>he tests will always last 90 minutes. The minimum mark for approval is 9,5/20 of the weighted sum.</span></span></span></span><br /><br />For the  grade improvement/final examination, t<span class=&quot;tlid-translation translation&quot;><span class=&quot;&quot; title=&quot;&quot;>here will be a single theoretical / practical test, encompassing the entire program. </span></span><span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b ChMk0b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;auto&quot; data-phrase-index=&quot;9&quot;>It will have a weight of 100% for the final grade. The minimum mark for approval is 9,5/20. </span></span>
+
+## Obtenção de frequência
+<p>According to the FEUP regulation for regular classes</p>
+
+## Melhoria de classificação
+<p><span id="result_box" class="" lang="en"><span class="">According to the FEUP rules, simultaneously and with the same format and rules of the resit exam.<br /></span></span></p>
+

@@ -1,0 +1,148 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Programação Imperativa
+
+## Curso responsável
+Licenciatura em Ciência de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>Introduzir os conceitos fundamentais de programação imperativa enfatizando a noção de algoritmo e de modularidade, tendo por base a linguagem de programação C. Será dada ênfase à resolução prática de problemas, algoritmos básicos de contagem, pesquisa e ordenação, e à qualidade de escrita de código.<br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p>Ao concluirem esta unidade curricular os estudantes deverão saber:</p>
+<ul>
+<li>usar a sintaxe e semântica de constituintes fundamentais da linguagem C.</li>
+<li>escrever, testar e executar programas para resolução de problemas simples a partir de uma especifição informal.</li>
+<li>implementar alguns algoritmos elementares em C.</li>
+<li>usar o conceito de apontador e usá-lo no processamento de variáveis indexadas e cadeias de carateres.</li>
+<li>utilizar a alocação dinâmica de memória.</li>
+<li>utilizar funções da biblioteca padrão da linguagem C para processamento de cadeias e leitura/escrita de ficheiros.</li>
+<li>aplicar técnicas de programação estruturada.</li>
+<li>utilizar estruturas elementares de dados (listas ligadas, arvores).</li>
+</ul>
+<p>   </p>
+
+## Pré-requisitos e co-requisitos
+N/A
+
+## Programa
+<p>Introdução à linguagem C. Breve contextualização histórica. Características da linguagem. Vantagens e desvantagens da linguagem. Perigos e cuidados na sua utilização.<br /><br />Fundamentos de linguagem C. Estrutura sintática de programas. Diretivas, declarações, expressões. Compilação e execução.<br /><br />Tipos básicos (inteiros, virgula flutuante, carateres). Controlo de fluxo. Ciclos. Definição de funções. Entrada e saida formatada.<br /><br />Algoritmos numéricos e semi-numéricos elementares.<br /><br />Variáveis indexadas. Algortimos fundamentas: contagem, pesquisa e ordenação. Cadeias de carateres.<br /><br />Organização de programas: ficheiros "header" e bibliotecas padrão.<br /><br />Deteção e correção de erros. Utilização de um "debugger" e uso de asserções.<br /><br />Introdução ao modelo de memória da linguagem C. Programação com apontadores. Utilização de apontadores para processar cadeias e variáveis indexadas.<br /><br />Recursividade. Resolução de problemas simples usando algoritmos iterativos e recursivos.<br /><br />Definição de novos tipos de dados (estruturas, unions).<br /><br />Leitura e escrita de ficheiros.<br /><br />Definição e uso de estruturas de dados elementares (listas ligadas, arvores).</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teóricas: exposição oral de conceitos suportada por apresentação de "slides"; resolução interativa de exemplos de programação ilustrativos e exercícios complementares.<br /><br />Aulas laboratoriais: resolução de problemas em computador; utlização de ferramentas de desenvolvimento (editor, debugger, sistema de testes automático) como auxiliar para a deteção e correção de erros em exercícios selecionados.<br /><br />Utilização de sistemas de avaliação automática (Mooshak). <br /><br /></p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Trabalho laboratorial: 30.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 48.0 horas
+- Estudo autónomo: 64.0 horas
+- Trabalho laboratorial: 50.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação tem em conta as seguintes provas:<br /><br /><strong>E</strong>:   classificação do exame escrito: época normal e recurso (0 a 100)<br /><strong>P</strong>:   2 avaliações práticas em computador (0 a 100)<br /><strong>R:</strong>   resolução de exercícios práticos Mooshak (0 a 100)<br /><strong>CF</strong>:   classificação final<br /><br />A classificação final é C<strong>F = E*0.7 + P*0.25 + R*0.05</strong> <br /><br />Ficam aprovados os estudantes que satisfaçam as seguintes condições:</p>
+<ul>
+<li><strong>E &#8805; 35%</strong> (nota mínima no exame E).</li>
+</ul>
+<ul>
+<li><strong>CF &#8805; 9.5</strong> valores (em 20).</li>
+</ul>
+<p><br /><br /><br /></p>
+
+## Obtenção de frequência
+<p>Perdem frequência os estudantes que não tenham uma assiduidade às aulas superior a 50% das aulas dadas.</p>
+
+## Melhoria de classificação
+<p>Os exames de melhoria de nota para quem fez esta UC no ano letivo anterior são cotados para 100% da classificação.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Imperative Programming
+
+## Curso responsável
+Bachelor in Computer Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>Introduce the fundamental concepts of imperative programming, emphasizing structured programming, using the C programming language as a basis. Emphasis will be placed on practical problem-solving, basic algorithms for counting, searching, and sorting, and on code quality.</p>
+
+## Resultados de aprendizagem e competências
+<p>Upon completing this curricular unit, students should be able to:</p>
+<ul>
+<li>Use the syntax and semantics of fundamental constituents of the C language.</li>
+<li>Write, test, and execute programs to solve simple problems based on an informal specification.</li>
+<li>Implement some basic algorithms in C.</li>
+<li>Understand the concept of pointers and use them for processing indexed variables and character strings.</li>
+<li>Use dynamic memory allocation.</li>
+<li>Utilize standard C library functions for string processing and file reading/writing.</li>
+<li>Apply structured programming techniques.</li>
+<li>Use basic data structures (linked lists, trees).</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+N/A
+
+## Programa
+Introduction to the C programming language. Brief historical context. Caracteristics of the language. Strengths and weaknesses of C. Pitfalls and general guidelines in effective use of the language.<br /><br />Fundamentals of the C language. Basic syntatic structure: directives, declarations, expressions. Compilation and execution.<br /><br />Basic types (integers, floating point numbers and characters). Flow of control. Cycles. Definition functions. Fomated I/O.<br /><br />Elementary numerical and semi-numerical algorithms.<br /><br />Indexed variables. Fundamental algorithms: counting, searching, and sorting. Processing character strings.<br /><br />Program organization: header files, standard libraries.<br /><br />Error detection and prevention. Use of a &quot;debugger&quot; and assertions.<br /><br />Introduction to programming with pointers. Using pointers to process strings and indexed variables.<br /><br />Recursion. Algorithmic problem solving: iterative and recursive approaches.<br /><br />Definition of new data types (structs, unions).<br /><br />File input/output.<br /><br />Definition and use of some basic data structures (linked lists, trees).
+
+## Métodos de ensino e atividades de aprendizagem
+Lectures: oral presentation supported by slides; interactive resolution of illustrative programming examples and complementary exercises.<br /><br />Laboratory classes: solving proposed exercises using computer with standard development tools (text editor, compiler, debugger). Use of automatic assessment tools for programming tests to aid in detecting and correcting errors in solutions of selected exercises.<br /><br />Use of automatic evaluation tools (Mooshak).
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Trabalho laboratorial: 30.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 48.0 hours
+- Estudo autónomo: 64.0 hours
+- Trabalho laboratorial: 50.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The assessment takes into account the following evaluations:</p>
+<ul>
+<li><strong>E:</strong> Written exam score: regular and resit period (0 to 100)</li>
+<li><strong>P:</strong> Two practical assessments on the computer (0 to 100)</li>
+<li><strong>R:</strong> Resolution of practical exercises in Mooshak (0 to 100)</li>
+<li><strong>CF:</strong> Final grade</li>
+</ul>
+<p>The final grade is calculated as:<br /><strong>CF = E * 0.7 + P * 0.25 + R * 0.05</strong></p>
+<p>Students will pass if they meet the following conditions:</p>
+<ul>
+<li><strong>E &#8805; 35%</strong> (minimum score in the written exam)</li>
+<li><strong>CF &#8805; 9.5</strong> (out of 20)</li>
+</ul>
+
+## Obtenção de frequência
+Students who do not attend more than 50% of the classes lose their course attendance status (cannot attend the exams).
+
+## Melhoria de classificação
+<p>The grade improvement exams for students who took this course in the previous academic year are weighted at 100% of the final grade.</p>
+

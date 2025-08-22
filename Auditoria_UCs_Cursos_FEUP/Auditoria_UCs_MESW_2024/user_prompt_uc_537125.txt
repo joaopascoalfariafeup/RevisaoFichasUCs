@@ -1,0 +1,184 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Princípios e Paradigmas de Engenharia de Software
+
+## Curso responsável
+Mestrado em Engenharia de Software
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Esta unidade curricular  tem como objetivo principal abordar conceitos e técnicas de Engenharia de Software transversais às várias fases do ciclo de vida do desenvolvimento de software (Requisitos, Arquitetura, Desenho, Construção, Teste, Evolução) e que têm tratamento especializado noutras UCs do 1º ou 2º semestre do curso.</p>
+
+## Resultados de aprendizagem e competências
+<p>O1. Descrever o âmbito, história, importância e desafios da engenharia de software.</p>
+<p>O2. Explicar os conceitos de processo e ciclo de vida do desenvolvimento de software (SDLC) e descrever as fases e modelos mais comuns do SDLC.</p>
+<p>O3. Diferenciar métodos preditivos, adaptativos (ágeis) e híbridos em engenharia de software.</p>
+<p>O4. Descrever e comparar processos de software usados na indústria como RUP, Scrum e XP.</p>
+<p>O5. Compreender a importância da modelação de sistemas e as principais notações usadas, como UML, SysML e BPMN.</p>
+<p>O6. Aplicar técnicas de modelação estrutural e comportamental e de análise de modelos.</p>
+<p>O7.  Compreender o âmbito e objetivos da gestão de projetos e descrever algumas técnicas de planeamento, estimação, monitorização e controlo.</p>
+<p>O8. Descrever os desafios e boas práticas de formação e gestão de equipas em projetos de software.</p>
+<p>O9. Discutir questões éticas e legais, responsabilidades profissionais e o impacto da engenharia de software na sociedade.</p>
+
+## Pré-requisitos e co-requisitos
+Conhecimentos e experiência de desenvolvimento de software.
+
+## Programa
+<p>T1. Introdução à engenharia de software: âmbito, história, importância e desafios na sociedade moderna.</p>
+<p>T2. Processos e métodos de engenharia de software: conceito de processo de desenvolvimento de software e ciclo de vida do desenvolvimento de software (SDLC); fases e modelos do SDLC; métodos preditivos, adaptativos (ágeis) e híbridos; exemplos de processos de software de nível industrial (RUP, Scrum, XP, etc.).</p>
+<p>T3. Modelação em engenharia de software: definição, importância e notações (UML, OCL, SysML, BPMN, etc.); modelação estrutural e comportamental; modelação com contratos; análise de modelos; desenvolvimento guiado por modelos.</p>
+<p>T4. Gestão em engenharia de software: âmbito e objetivos da gestão de projetos; planeamento, estimação, monitorização e controlo de projetos; formação e gestão de equipas.</p>
+T5. Prática profissional em engenharia de software: discussão sobre questões éticas, responsabilidades profissionais, aspetos legais e o impacto da engenharia de software na sociedade.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>ENSINO</p>
+<p>As aulas terão uma componente de exposição, discussão e revisão dos tópicos programáticos (com base em pequenos questionários), e outra componente de realização de exercícios práticos e de desenvolvimento e acompanhamento de trabalhos em grupo relacionados com as componentes de avaliação E2 e E3.</p>
+<p>Serão reservadas algumas aulas para palestras convidadas sobre processos e ferramentas de engenharia de software usadas na indústria e para apresentação de temas explorados pelos estudantes (no âmbito da componente de avaliação E3).<br /><br /></p>
+<p>AVALIAÇÃO</p>
+<p>A avaliação é baseada nas seguintes componentes:</p>
+<p>E1) Resposta a pequenos questionários de revisão dos tópicos expostos nas aulas, com um peso de 5%;</p>
+<p>E2) Trabalho prático em grupo de modelação estrutural e/ou comportamental de um sistema de software, usando uma ou mais das notações estudadas (UML, SysML, BPMN), com um peso de 35% e classificação mínima de 45%;</p>
+<p>E3) Trabalho em grupo de pesquisa e apresentação sobre um tema relacionado com o âmbito da unidade curricular, com foco em ferramentas e processos de engenharia de software, com um peso de 15%;</p>
+<p>E4) Exame final individual, com um peso de 45% e classificação mínima de 45%.</p>
+<p> </p>
+<p><strong>. Demonstração da coerência dascom os objetivos de aprendizagem da unidade curricular:</strong><br /><br /></p>
+<p>As metodologias de ensino e avaliação foram cuidadosamente alinhadas com os objetivos de aprendizagem para assegurar que os estudantes desenvolvam conhecimentos teóricos sólidos e competências práticas essenciais na engenharia de software.</p>
+<p> </p>
+<p>Aulas teóricas e discussão (M1 a M5): As aulas expositivas e as discussões na aula são projetadas para cobrir amplamente os conceitos fundamentais e avançados da engenharia de software, abordando objetivos como a descrição do âmbito, história e importância (O1), explicação dos conceitos de processos de desenvolvimento de software e ciclos de vida (O2), diferenciação entre métodos preditivos, adaptativos e híbridos (O3), e compreensão das notações de modelação (O5).</p>
+<p> </p>
+<p>Exercícios práticos e trabalhos de grupo (M3, M4): A realização de exercícios práticos e o desenvolvimento de trabalhos de grupo estão diretamente alinhados com os objetivos de aplicar técnicas de modelação estrutural e comportamental (O6), planeamento e estimação de projetos (O7) e a gestão de equipas (O8). Estes componentes garantem que os alunos pratiquem a aplicação de conhecimentos teóricos em cenários práticos.</p>
+<p> </p>
+<p>Palestras convidadas e apresentações (M2, M5): As palestras convidadas sobre processos e ferramentas usados na indústria e as apresentações dos estudantes permitem uma ligação direta com a prática profissional, refletindo a importância de compreender os processos usados na indústria e as responsabilidades profissionais e os impactos sociais da engenharia de software (O2, O9).</p>
+<p> </p>
+<p>Avaliação contínua (E1 a E4): A avaliação contínua, incluindo questionários, trabalhos práticos, pesquisa e apresentações, e o exame final, assegura que os alunos demonstrem a compreensão e a aplicação dos conteúdos programáticos de forma abrangente e integrada. Os questionários de revisão (E1) mantêm os alunos engajados e focados na compreensão contínua dos tópicos discutidos em aula, alinhando-se com vários objetivos de aprendizagem (O1, O2, O3, O4, O5).</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 45.0 %
+- Trabalho escrito: 15.0 %
+- Trabalho prático ou de projeto: 35.0 %
+- Participação presencial: 5.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 78.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho de investigação: 42.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final (CF) da disciplina será calculada segundo a seguinte fórmula: CF= 0,45*EF + 0,55*IP em que:</p>
+<p>- EF &#8211; Classificação obtida no exame final;</p>
+<p>- IP &#8211; Classificação obtida nas trabalhos práticos.</p>
+<p>A componente IP compreendendo :</p>
+<p>- um trabalho em grupo de pesquisa e apresentação sobre um tema relacionado com o âmbito da unidade curricular (peso 15%);</p>
+<p>- um trabalho em grupo de desenvolvimento de um projeto de modelação (peso 35%);<br /><br />- resposta a questionários (peso de 5%).</p>
+<p> <br />É exigido um mínimo de 40% em cada uma das 2 componentes.<br /><br /></p>
+<p> </p>
+
+## Obtenção de frequência
+<p>Obtenção de um mínimo de 40% na avaliação distribuída.</p>
+
+## Melhoria de classificação
+<p>A classificação do exame pode ser melhorada em exame de recurso. As classificações obtidas nos trabalhos podem ser melhoradas na edição seguinte da unidade curricular.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Software Engineering Fundamentals and Paradigms
+
+## Curso responsável
+Master in Software Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>This curricular unit aims to address key concepts and techniques in Software Engineering that are applicable across various phases of the software development lifecycle (Requirements, Architecture, Design, Construction, Testing, Evolution), and which are covered in more detail in other curricular units during the first or second semester of the program.</p>
+
+## Resultados de aprendizagem e competências
+<p>O1. Describe the scope, history, importance and challenges of software engineering.</p>
+<p>O2. Explain the concepts of &#8216;software development process&#8217; and &#8216;software development lifecycle&#8217; (SDLC) and describe common SDLC phases and models.</p>
+<p>O3. Differentiate between predictive, adaptive (agile), and hybrid methods in software engineering.</p>
+<p>O4. Describe and compare industrial-strength software processes such as RUP, Scrum, and XP.</p>
+<p>O5. Understand the importance of system modeling and the main notations used, such as UML, SysML and BPMN.</p>
+<p>O6. Apply structural and behavioral modeling and model analysis techniques for complex software systems.</p>
+<p>O7. Understand the scope and goals of project management and describe some project planning, estimation, monitoring and control techniques.</p>
+<p>O8. Describe common team building and team management challenges and best practices.</p>
+<p>O9. Discuss ethical and legal issues, professional responsibilities, and the impact of software engineering on society.</p>
+
+## Pré-requisitos e co-requisitos
+Knowledge and experience in software development.
+
+## Programa
+<p>T1. Introduction to software engineering: scope, history, importance and challenges in modern society.</p>
+<p>T2. Software engineering processes and methods: concept of software development process and software development lifecycle (SDLC); phases and models of the SDLC; predictive (plan-drive), adaptive (agile) and hybrid methods; examples of industrial-strength software processes (RUP, Scrum, XP, etc.).</p>
+<p>T3. Software engineering models: definition, importance and notations (UML, OCL, SysML, BPMN); structural and behavioral modeling; modeling with contracts; analysis of models; model-driven development.</p>
+<p>T4. Software engineering management: project management scope and goals; project planning, estimation, monitoring and control; team building and team management.</p>
+T5. Software engineering professional practice: discussion on ethical issues, professional responsibilities, legal aspects, and the impact of software engineering on society.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>TEACHING</p>
+<p>The classes will include a component of presentation, discussion, and review of the program topics (based on small quizzes), and another component of performing practical exercises and developing and monitoring group projects related to the assessment components E2 and E3. Some classes will be reserved for guest lectures on software engineering processes and tools used in the industry and for the presentation of topics explored by students (within the scope of assessment component E3).<br /><br /></p>
+<p>EVALUATION</p>
+<p>The evaluation is based on the following components:</p>
+<p>E1) Response to small quizzes reviewing the topics covered in class, with a weight of 5%;</p>
+<p>E2) A group practical work on structural and/or behavioral modeling of a software system, using one or more of the notations studied (UML, SysML, BPMN), with a weight of 35% and a minimum grade of 45%;</p>
+<p>E3) A group research and presentation work on a topic related to the scope of the course, focusing on software engineering tools and processes, with a weight of 15%;</p>
+<p>E4) Individual final exam, with a weight of 45% and a minimal grade of 45%.</p>
+<p><br /><br /></p>
+<p>DEMONSTRATION OF THE COHERENCE WITH THE CURRICULAR UNIT&#8217;S INTENDED LEARNING OUTCOMES:</p>
+<p>The teaching and assessment methodologies are carefully aligned with the learning objectives to ensure that students develop both solid theoretical knowledge and essential practical skills in software engineering.</p>
+<p> </p>
+<p>Theoretical lectures and discussions (M1 to M5): Theoretical presentations and class discussions are designed to broadly cover fundamental and advanced concepts in software engineering, addressing objectives such as describing the scope, history, and importance (O1), explaining the concepts of software development processes and lifecycles (O2), differentiating between predictive, adaptive, and hybrid methods (O3), and understanding modeling notations (O5).</p>
+<p> </p>
+<p>Practical exercises and group projects (M3, M4): Performing practical exercises and developing group projects are directly aligned with the objectives of applying structural and behavioral modeling techniques (O6), planning and estimating projects (O7), and managing teams (O8). These components ensure that students practice applying theoretical knowledge to practical scenarios.</p>
+<p> </p>
+<p>Guest lectures and presentations (M2, M5): Guest lectures on industry processes and tools and student presentations provide a direct link to professional practice, reflecting the importance of understanding processes used in the industry, professional responsibilities and the societal impacts of software engineering (O4, O9).</p>
+<p> </p>
+<p>Continuous assessment (E1 to E4): Continuous assessment, including quizzes, practical work, research and presentations, and the final exam, ensures that students demonstrate a comprehensive and integrated understanding and application of the course content. Review quizzes (E1) keep students engaged and focused on the ongoing comprehension of topics discussed in class, aligning with various learning objectives (O1, O2, O3, O4, O5).</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 45.0 %
+- Trabalho escrito: 15.0 %
+- Trabalho prático ou de projeto: 35.0 %
+- Participação presencial: 5.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 78.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho de investigação: 42.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Final Mark will be based on the following formula: FM= 0,45*FE + 0,5*A where FE is the classification in Final Exam and A is classification in assignments.</p>
+<p>Assignments comprise:</p>
+<p>- one group work researching and presenting a topic related with the course syllabus (15% of the final grade);</p>
+<p>- a group work consisting of the development of a modeling project (35% of the final grade);<br /><br />- answers to quizzes (5%). </p>
+<p>To complete the course students have to reach a minimum mark of 40% in the two components </p>
+
+## Obtenção de frequência
+<p>Obtaining a minimum grade of 40% in the distributed assessment.</p>
+
+## Melhoria de classificação
+<p>Students can improve the mark of the exam in recurso (resit) season. Students can improve the mark of the assignments in the following year.</p>
+

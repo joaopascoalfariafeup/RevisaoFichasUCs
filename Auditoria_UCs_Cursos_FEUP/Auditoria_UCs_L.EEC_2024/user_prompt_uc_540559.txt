@@ -1,0 +1,116 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Redes de Computadores
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p><span style="font-family: 'Trebuchet MS';">O objectivo desta unidade curricular é permitir aos alunos o desenvolvimento, de forma articulada, de um conjunto de aptidões técnicas, profissionais, e inter-pessoais centradas no tópico de Redes de Comunicação de Dados. Este desenvolvimento é baseado numa formação fundamental no domínio das redes de comutação de pacotes que é assistida por uma formação laboratorial endereçando 1) a concepção e implementação de software de rede em camadas, e 2) a configuração e validação de cenários de comunicação em redes de computadores locais.</span></p>
+
+## Resultados de aprendizagem e competências
+<p class="MsoNormal"><span lang="PT" style="font-family: 'Trebuchet MS'; mso-bidi-font-family: 'Trebuchet MS';">Após a formação nesta unidade curricular, os estudantes serão capazes de:</span></p>
+<p class="MsoNormal"><span lang="PT" style="font-family: 'Trebuchet MS'; mso-bidi-font-family: 'Trebuchet MS';">- aplicar conceitos fundamentais de comutação de pacotes, multiplexagem estatística, filas de espera, framing, deteção de erros, retransmissão automática, controlo de acesso a meio partilhado, endereçamento, encaminhamento, e controlo de congestionamento a qualquer cenário de comutação de pacotes em rede.</span></p>
+<p class="MsoNormal"><span lang="PT" style="font-family: 'Trebuchet MS'; mso-bidi-font-family: 'Trebuchet MS';">- planear, implementar, e configurar 1) software de comunicações aplicando os conceitos de pilha protocolar, de serviço, e de protocolo; 2) aplicações distribuídas utilizando a abstração de sockets de rede; 3) uma rede local de comutação de pacotes.</span></p>
+
+## Pré-requisitos e co-requisitos
+Os conteúdos pressupõem conhecimentos de arquitectura de computadores bem como de programação em C.
+
+## Programa
+<p>1. Introdução às redes de computadores. Arquitectura da Internet. Principºios de tansmissão de informação.<br /><br />2. Camada física. Acesso ao meio. Revisão de aspectos relevantes de meio físico, incluindo meio sem fios.<br /><br />3. Camada de ligação de dados. Controlo da ligação de dados. Técnicas de transmissão de dados.<br /><br />4. Camada de rede. Plano de dados. Endereçamento e encaminhamento. Plano de controlo. Algoritmos de roteamento. Protocolos: IP, ICMP, DHCP, ... Filas de espera como modelos de redes de computadores.<br /><br />5. Camada de transporte. Comunicação fiável. Controlo de fluxo e de congestionamento. UDP, TCP.<br /><br />6. Aplicações.<br /><br /><br /></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas teóricas são dedicadas à exposição da matéria do curso, incluindo resolução de problemas para ilustração e discussão de casos. <br /><br />Nas aulas teórico-práticas serão realizados 2 trabalhos laboratoriais para consolidação aprofundada de conceitos adquiridos nas aulas teóricas, tendo cada um uma parte de introdução a conceitos e ferramentas.<br />  <br />O primeiro consiste  no desenvolvimento de um protocolo de ligação de dados e sua integração com uma aplicação implementando um protocolo básica de nível de Aplicação.<br />.<br />O segundo consiste na configuração, teste e verificação de cenários reais de comunicação em redes TCP/IP e familiarização com os principais protocolos usados em ambiente LAN.<br /><br />Poderá ainda ser oferecido um projecto alternativo mais simples (análise aprofundada de acesso a uma página web) que os estudantes podem escolher para subsituir um dos dois projectos maiores. Este projecto terá uma penalização na avaliação de 25% para acomodar a menor dificuldade.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho laboratorial: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 78.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho laboratorial: 26.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Notas atribuídas de 0 a 20 valores. <br />E - nota do exame final, <br />FQ - NOTA DE FREQUÊNCIA, <br />CF - CLASSIFICAÇÃO FINAL. <br /><br />CF = min(0,5*FQ + 0,5*E, FQ+6, E+6)  <br />se ( E &lt; 8,0 ou CF &lt; 9,5 ) então CF =MIN(CF, 9)</p>
+
+## Obtenção de frequência
+<p>Notas atribuídas de 0 a 20 valores, com 1 casa decimal.</p>
+<p>L1 - nota do 1º trabalho laboratorial <br /> L2 - nota do 2º trabalho laboratorial</p>
+<p>Notas laboratoriais L1 e L2, incluem avaliação semanal feita na aula pelo docente.</p>
+<p><br /> AvalDist - Avaliação Distribuída inclui 2 Labs e os trabalhos de casa (H):<br /> <br /> AvalDist =<span class="Apple-converted-space">  </span>0,4*L1+ 0.4*L2+0,2*H<br /> <br /> se ( AvalDist &lt; 8,0 ), AvalDist = RFC (Reprovado por Falta de Component) - "Sem Frequência" <br /><br /><br /></p>
+
+## Melhoria de classificação
+<p>A classificação da componente de FREQUÊNCIA pode ser melhorada na ocorrência seguinte da Unidade Curricular. <br /><br />A componente de FREQUÊNCIA é utilizada no cálculo da classificação final, quer no exame normal quer no de recurso.<br /><br />A componente FREQUÊNCIA pode ser mantida nos três anos lectivos seguintes ao da otenção de aprovação.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computer Networks
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>The objective of this course unit is to allow the students to develop, in an articulate way, a set of technical, professional, and inter-personal skills centered in the topic of data communication networks. This development is based on fundamental training in the domain of packet switching networks, which is assisted by laboratorial training focusing 1) the design and implementation of layered network software, and 2) the configuration and validation of communication scenarios in local computer networks.</p>
+
+## Resultados de aprendizagem e competências
+<p class="MsoNormal"><span style="font-family: 'Trebuchet MS'; mso-bidi-font-family: 'Trebuchet MS'; mso-ansi-language: EN-US;">After completing this course unit, students will be able to:</span></p>
+<p class="MsoListParagraphCxSpFirst" style="text-indent: -18.0pt; mso-list: l0 level1 lfo1;"><span style="font-family: 'Trebuchet MS'; mso-fareast-font-family: 'Trebuchet MS'; mso-bidi-font-family: 'Trebuchet MS'; mso-ansi-language: EN-US;">        -<span style="font-size: 7pt; font-family: 'Times New Roman';">  </span></span><span style="font-family: 'Trebuchet MS'; mso-bidi-font-family: 'Trebuchet MS'; mso-ansi-language: EN-US;">apply fundamental concepts of packet switching, statistical multiplexing, queuing, framing, error detection, automatic retransmission, shared medium access control, addressing, routing, and congestion control to any network packet switching scenario</span></p>
+<p class="MsoListParagraphCxSpLast" style="text-indent: -18.0pt; mso-list: l0 level1 lfo1;"><span style="font-family: 'Trebuchet MS'; mso-fareast-font-family: 'Trebuchet MS'; mso-bidi-font-family: 'Trebuchet MS'; mso-ansi-language: EN-US;">        -<span style="font-size: 7pt; font-family: 'Times New Roman';">  </span></span><span style="font-family: 'Trebuchet MS'; mso-bidi-font-family: 'Trebuchet MS'; mso-ansi-language: EN-US;">plan, implement, and configure 1) communication software using the concepts of protocol, service, and protocol stack; 2) distributed applications using the network socket abstraction; 3) a local packet switching network</span></p>
+
+## Pré-requisitos e co-requisitos
+The course syllabus requires previous knowledge of computer architectures and C programming.
+
+## Programa
+1. Introduction to computer networks. Internet Architecture. Principles of information transmission.<br /><br />2. Physical layer. Access to the environment. Review of relevant aspects of physical media, including wireless media.<br /><br />3. Data link layer. Data connection control. Data transmission techniques.<br /><br />4. Network layer. Data plan. Addressing and routing. Control plan. Routing algorithms. Protocols: IP, ICMP, DHCP, ... Queues as models of computer networks.<br /><br />5. Transport layer. Reliable communication. Flow and congestion control. UDP, TCP.<br /><br />6. Applications.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical classes are dedicated to presenting course material, including problem solving for illustration and case discussion.<br /><br />In the theoretical-practical classes, 2 laboratory projects will be carried out to further consolidate concepts acquired in the theoretical classes, each with an introduction to concepts and tools.<br /><br />The first consists of developing a data link protocol and integrating it with an application implementing a basic Application level protocol.<br />.<br />The second consists of configuring, testing and verifying real communication scenarios in TCP/IP networks and familiarizing yourself with the main protocols used in a LAN environment.<br /><br />A simpler alternative project (in-depth analysis of access to a web page) may also be offered, which students can choose to replace one of the two larger projects. This project will have a 25% grading penalty to accommodate the lower difficulty.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho laboratorial: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 78.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho laboratorial: 26.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The grading scale is from 0 to 20. <br />E - grade of the final exam, <br />FG - Frequency Grade, <br />CF - FINAL GRADE. <br /><br />CF = min(0,5*FQ + 0,5*E, FQ+6, E+6) <br />if ( E &lt; 8,0 or CF &lt; 9,5 ) then CF = MIN(CF, 9)</p>
+
+## Obtenção de frequência
+<p>Grades awarded from 0 to 20 points, with 1 decimal place. &#8232;<br /><br />L1 - grade for the 1st laboratory work L2 - grade for the 2nd laboratory work &#8232;<br /><br />L1 and L2 lab notes include weekly assessment done in class by the teacher.<br /><br />&#8232;AvalDist - Distributed Evaluation comprises the 2 Labs and the Homeworks:<br /><br /> AvalDist = 0.4*L1+ 0.4*L2+0.2*H<br /><br />if ( AvalDist &lt; 8.0 ), AvalDist =  FMC (Failed due to Missing Component) -  "Without Frequency" </p>
+<p> </p>
+
+## Melhoria de classificação
+<p>The classification of the laboratory component can be improved in the next occurrence of the course. <br /><br />The classification of the laboratory component is used on the final classification calculation in both exams &#8211; normal and re-sit one.<br /><br />The classification of the laboratory component can be re-used in the three years after obtaining approval.</p>
+

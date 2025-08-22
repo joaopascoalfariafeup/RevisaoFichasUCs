@@ -1,0 +1,165 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas Gráficos Interativos
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>ENQUADRAMENTO</p>
+<p>Esta unidade curricular pressupõe alguns conhecimentos de Computação Gráfica, nomeadamente na sua vertente 3D. Possui um caráter prático, com desenvolvimento de aplicações interativas baseando-se em tecnologia de larga utilização e, dentro do possível, multiplataforma.</p>
+<p>OBJETIVOS ESPECÍFICOS</p>
+<p>Esta unidade curricular possui os seguintes objetivos:</p>
+<ul>
+<li>Aprofundar conhecimentos em Computação Gráfica como forma de potenciar a sua utilização em aplicações interativas, profissionais, científicas, ou mesmo de entretenimento, baseadas na representação tridimensional, manipulação, visualização e animação de objetos.</li>
+<li>Desenvolver um conjunto de competências práticas, com recurso a tecnologias de utilização comum, visando tópicos avançados.</li>
+<li>Explorar trabalhos práticos de desenvolvimento, preferencialmente multidisciplinares, nomeadamente nas áreas de Computação Gráfica e Interação.</li>
+</ul>
+<p>Pretende-se dotar os estudantes de capacidade de exploração adequada ao desenvolvimento de software, nomeadamente na criação de ambientes 3D (representação poligonal, iluminação e interacção).<br /><br />DISTRIBUIÇÃO PERCENTUAL<br />Componente científica: 30%<br />Componente tecnológica: 70%</p>
+<p><br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p>Uma vez concluída a unidade curricular, os estudantes devem ser capazes de:</p>
+<ul>
+<li>Projectar aplicações e as respectivas estruturas adequadas à utilização em tecnologia de síntese de imagem, </li>
+<li>Conceber, desenvolver e avaliar aplicações com interface gráfica 3D recorrendo a uma tecnologia adequada de síntese de imagem, </li>
+<li>Conceber interfaces avançadas,</li>
+<li>Avaliar, com utilizadores, as aplicações desenvolvidas e a sua usabilidade.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>É necessário o conhecimento prévio de matérias relacionadas com Computação Gráfica 3D, nomeadamente: Malhas Poligonais, Curvas e Superfícies Paramétricas, Transformações Geométricas, Iluminação Local, Sombreamento, Texturas.<br /><br />Nota: no contexto da unidade curricular poderáo ser lecionados, de forma resumida, alguns destes tópicos.</p>
+
+## Programa
+O programa a lecionar compõe-se dos seguintes tópicos:<br /><br /><ol><br /><li>Síntese de imagem: Modelo de iluminação de Phong, Rendering de superfícies poligonais, Mapeamento de texturas.</li><br /><li>Modelação 3D: Polígonos, Malhas Poligonais; Quádricas; Superfícies curvas.</li><br /><li>Programação de shaders.</li><br /><li>Animação: procedimental e por quadros-chave.</li><br /><li>Técnicas de aceleração em visualização/rendering, deteção de colisões: várias formas de culling; nível de detalhe; divisão espacial; volumes envolventes.</li><br /><li>Interface Pessoa-Máquina: Funcionalidade e usabilidade Gestão de eventos e interação com utilizador.</li><br /><li>Construção de interfaces GUI; interfaces multimodais.</li><br /><li>Avaliação de interfaces com utilizadores.</li><br /><li>Sistemas Operativos / Distribuídos: Comunicações, Sincronização.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teóricas:</p>
+<div style="padding-left: 30px;">Exposição teórica: Exposição, baseada em slides e exposição no quadro, dos temas relevantes para a elaboração de cada um dos trabalhos práticos, cobrindo desde o conceito teórico até aos detalhes de implementação dos mesmos.<br /><br />Apresentação das principais características das tecnologias a utilizar (OpenGL, WebGL...).</div>
+<p>Aulas práticas:</p>
+<p style="padding-left: 30px;">Desenvolvimento de 3 projectos de software versando os temas referidos no programa da disciplina, em grupos de 2 estudantes.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 20.0 %
+- Trabalho laboratorial: 80.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 45.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho laboratorial: 65.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Av. Contínua 20% (avaliação individual, efectuada pelos docentes durante as aulas práticas)<br />Av. Trabalhos 80% (critérios a definir em cada trabalho)</p>
+<p>Cálculo:<br />CF = 20% AC + 80% AT</p>
+<p>AT = 25% T1 + 35% T2 + 40% T3<br /><br /></p>
+<p>Legenda:<br />CF: Classificação Final<br />AC: Avaliação Contínua/Frequência nas aulas<br />AT: Classificação obtida em Trabalhos<br />T1: Classificação global obtida pelo estudante no trabalho 1<br />T2: Classificação global obtida pelo estudante no trabalho 2<br />T3: Classificação global obtida pelo estudante no trabalho 3<br /><br />Nota: as classificações T1, T2 e T3 poderão ser diferentes para cada estudante do mesmo grupo.</p>
+
+## Obtenção de frequência
+<p>Não exceder o número limite de faltas e participar activamente na elaboração dos três trabalhos que devem ser submetidos para avaliação.<br /><br />Os trabalhadores estudantes e equivalentes dispensados das aulas devem contactar os docentes das turmas práticas e, com periodicidade a combinar com os mesmos, desde o início do semestre, apresentar a evolução dos seus trabalhos, assim como devem fazer a apresentação destes, simultaneamente com os alunos ordinários, e realizar as provas práticas de avaliação individual que vierem a ser previstas.</p>
+
+## Melhoria de classificação
+<p>Realização de trabalhos alternativos na ocorrência seguinte da unidade curricular.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Interactive Graphics Systems
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>BACKGROUND</p>
+<p>This curricular unit assumes some knowledge of Computer Graphics, namely in its 3D aspect. It has a practical character, with development of interactive applications based on widely used technology and, as far as possible, multiplatform.</p>
+<p>SPECIFIC AIMS </p>
+This curricular unit has the following objectives:<br />
+<ul>
+<li>To deepen knowledge in the area of Computer Graphics as a way to enhance its use in interactive applications, both professional and scientific, or even entertainment, based on three-dimensional representation, manipulation, visualization and animation of objects.</li>
+<li>Develop a set of practical skills, using common technologies, targeting advanced topics.</li>
+<li>Explore practical development work, preferably multidisciplinary, namely in the areas of Computer Graphics, Interaction, Operating / Distributed Systems and others.</li>
+</ul>
+<p>It is also an objective to give the students the capacity to develop software, namely in the creation of 3D environments (polygonal representation, illumination and interaction).</p>
+<p>PERCENTUAL DISTRIBUTION<br />Scientific Component: 30%<br />Technological Component: 70%</p>
+<div> </div>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>Uma vez concluída a unidade curricular, os estudantes devem ser capazes de:</p>
+<ul>
+<li>Design applications and their respetctive structures, suitable for use in image synthesis technology;</li>
+<li>Design, develop and test applications with 3D graphic interface using technologies of visualization and image synthesis;</li>
+<li>Design simple and advanced interfaces;</li>
+<li>Evaluate, with users, the developed applications and its usability.</li>
+</ul>
+<p> </p>
+
+## Pré-requisitos e co-requisitos
+It is necessary the previous knowledge of topics related to 3D Computer Graphics, namely: Polygonal Meshes, Parametric Curves and Surfaces, Geometric Transformations, Local Lighting, Shading, Textures.<br /><br />Note: in the context of this course, some of these topics may be taught, in a summarized way.
+
+## Programa
+<p>O programa a lecionar compõe-se dos seguintes tópicos:</p>
+<ol>
+<li>Image synthesis: Phong illumination model, Rendering of polygonal surfaces, texture mapping.</li>
+<li>3D Modeling: Polygons, Polygonal meshes; Quadricas; Curved surfaces.</li>
+<li>Shaders programming</li>
+<li>Animation: procedural and keyframe animations.</li>
+<li>Acceleration techniques in visualization/rendering, collision detection: various forms of culling; level of detail; spatial division; surrounding volumes.</li>
+<li>Person-Machine Interface: Functionality and usability Event management and user interaction.</li>
+<li>Construction of GUI interfaces; multimodal interfaces.</li>
+<li>Evaluation of user interfaces.</li>
+<li>Operating / Distributed Systems: Communications, Synchronization.</li>
+</ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theory classes:</p>
+<p style="padding-left: 30px;">Theory exposition: Exposure, based on slides and exposure in the whiteboard, of the relevant subjects for the elaboration of the practical works, covering from the theoretical concept to the implementation details of each one.<br /><br />Presentation of the main characteristics of the technologies to be used (OpenGL, WebGL...).</p>
+Practical classes:<br />
+<p style="padding-left: 30px;">Development of 3 software projects, in groups of two students, oriented to the themes mentioned in the "Contents" above.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 20.0 %
+- Trabalho laboratorial: 80.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 45.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho laboratorial: 65.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Continuous Evaluation: 20% (evaluation performed by teachers in all practical classes)<br />Assignments Assessment: 80% (criteria to be defined in each practical works)</p>
+<p>Calculation:<br />FG = 20% CE + 80% AA</p>
+<p>AA = 25% W1 + 35% W2 + 40% W3<br /><br /><br />Legenda:<br />FG: Final Grade<br />CE: Continuous Evaluation in classes<br />AA: Assignments Assessment<br />W1: Global grade obtained in assignment 1<br />W2: Global grade obtained in assignment 2<br />W3: Global grade obtained in assignment 3<br /><br />Note: Grades T1, T2 and T3 may be different for each student in the same group.</p>
+
+## Obtenção de frequência
+Not exceed the limit number of absences and actively participate in the preparation of the assignments. All the assignments must be submitted for evaluation.<br /><br />Working Students and equivalents exempted from classes must contact the teachers of the practical classes and, at time intervals to be agreed with them, since the beginning of the semester, present the progress of their work. They must also present the practical works simultaneously with the regular students and take the practical tests for individual assessment that may eventually be defined.
+
+## Melhoria de classificação
+<p>Development of alternative works in the next course term.</p>
+

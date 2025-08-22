@@ -1,0 +1,123 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Mecânica dos Fluidos Computacional
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<ul><br /><li><br /><p>Analisar o escoamento de fluidos nos seus casos gerais mais frequentes (escoamento incompressível com e sem transferência de calor ou massa) e saber como estudá-lo com recurso a técnicas de mecânica dos fluidos computacional.</p><br /><p> <br />Espera-se que no final do semestre os alunos:</p><br /><ol><br /><li>Reconheçam a utilidade das técnicas computacionais na resolução de problemas de mecânica dos fluidos no contexto da engenharia mecânica.</li><br /><li>Conheçam as capacidades e limitações da mecânica dos fluidos computacional.</li><br /><li>Saibam escolher e usar de entre as bibliotecas de software comercial existentes a mais apropriada para a resolução de problemas com que venham a ser confrontados no decurso da sua atividade futura.</li><br /></ol><br /></li><br /></ul>
+
+## Resultados de aprendizagem e competências
+Competências Computacionais <br /><br /><br /><ul><br /><ul><br /><li>Utilização de técnicas de resolução numérica ou computacional.</li><br /></ul><br /></ul><br /><br /><br />Outras competências   <br /><br /><br /><ul><br /><li>Programação.</li><br /></ul>
+
+## Pré-requisitos e co-requisitos
+<ul><br /><li>Análise Matemática: derivação, integração, resolução de equações diferenciais de 1ª e 2ª ordens.</li><br /><li></li><br /><li>Álgebra Linear e Geometria Analítica: cálculo vetorial e matricial.</li><br /><li></li><br /><li>Análise numérica.</li><br /><li></li><br /><li>Computação.</li><br /><li></li><br /><li>Mecânica dos Fluidos I e II. Termodinâmica I e II.</li><br /></ul>
+
+## Programa
+1. INTRODUÇÃO. CONCEITOS FUNDAMENTAIS.<br />Origem e utilidade da mecânica dos fluidos computacional. Princípios de conservação. Equações do escoamento (Navier-Stokes). Tipo e classificação dos escoamentos e equações. Passos principais na modelação computacional. Software comercial.<br /><br />2. TÉCNICAS DE DISCRETIZAÇÃO E RESOLUÇÃO DE SISTEMAS DE EQUAÇÕES ALGÉBRICAS LINEARES<br />Propriedades da discretização e soluções numéricas (consistência, estabilidade, convergência, conservação, limitação, realizabilidade e exatidão). Diferenças finitas: aproximação por série de Taylor e erro da discretização, discretização de primeiras e segundas derivadas, e de outros termos. Volumes finitos: integrais de superfície e volume, esquemas de discretização de rdem superior. Condições de fronteira e sistemas algébricos de equações. Métodos diretos e iterativos. Critérios de convergência. Métodos para problemas não estacionários.<br /><br />3. ALGORITMOS DE RESOLUÇÃO DAS EQUAÇÕES DO ESCOAMENTO<br />Características das equações de Navier-Stokes e algoritmos para a sua resolução. Discretização e tipos de malhas. O tratamento da equação de pressão em escoamentos compressíveis e incompressíveis. O algoritmo SIMPLE. Outros algoritmos.<br /><br />4. GEOMETRIAS COMPLEXAS<br />Escolha e geração da malha. Preservação das propriedades das equações fundamentais. Condições de fronteira.<br /><br />5. MODELAÇÃO DA TURBULÊNCIA<br />Modelos de turbulência. Simulação direta (DNS), simulação das grandes escalas (LES) e abordagem de médias de Reynolds (RaNS). Modelo de turbulência de duas equações (k-e, RaNS) e Smagorinsky (LES). A modelação da região de parede. Condições de parede.<br /><br /> 6. VERIFICAÇÃO E VALIDAÇÃO<br />Verificação e validação. Metodologias para verificação da exatidão. Ordem de discretização e ordem de convergência. Erros de arredondamento ectruncatura. Extrapolação de Richardson. Refinamento de malha. Metodologias e exemplos de validação.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A unidade está organizada em duas sessões semanais com a duração de 2 horas cada.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 65.0 %
+- Trabalho escrito: 35.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 39.5 horas
+- Estudo autónomo: 30.0 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação inclui duas componentes:</p>
+<ol>
+<li>trabalho computacional individual (35 %); e</li>
+<li>trabalho (projecto) por grupos com o máximo de 3 alunos (65 %).</li>
+</ol>
+<p> <br />TRABALHO INDIVIDUAL</p>
+<p>Enunciado único em que o aluno terá de derivar matematicamente e construir método numérico de volumes finitos de raíz para a resolução de uma equação de transporte mono-dimensional.<br /><br /></p>
+<p>TRABALHO DE GRUPO (PROJETO)<strong><br /></strong></p>
+<p>O trabalho replica os passos no uso da mecânica dos fluidos computacional, desde a definição do problema, domínio de integração e condições de fronteira, execução do cálculo e análise dos resultados e a sua comparação com resultados experimentais ou analíticos.<br /><br />A atribuição definitiva dos trabalho ocorre durante as duas primeiras semanas semestre; o tempo suficiente para os alunos escolherem de entre os trabalhos propostos ou apresentarem proposta, cuja aceitação está dependente do docente.<br /><br />A realização do trabalho durante o semestre é fundamental, porque é ele também um meio de lecionação. Muitas das dificuldades na aprendizagem da mecânica dos fluidos computacional revelam-se na sua aplicação, que deve realizar-se sob supervisão de alguém mais experiente.<br /><br />A entrega e avaliação do relatório ocorre durante a última semana de aulas, para que não interfira com o período de avaliação reservado a exames.<br /><br />O apoio à realização do trabalho faz-se ao longo do semestre em horário pré-estabelecido.<br /><br />A avaliação dos trabalhos é antecedida da sua apresentação pública, na presença de toda a turma. Cada trabalho tem particularidades diferentes, que não são lecionadas durante as aulas e o seu conhecimento é do interesse de toda a turma.<br /><br />A classificação é baseada no desempenho dos alunos durante as aulas e qualidade final do trabalho demonstrada através do relatório, apresentação e prova oral..</p>
+<p> </p>
+<p>CLASSIFICAÇÃO FINAL</p>
+<p>Para aprovação é necessária:</p>
+<ul>
+<li>média igual ou superior a 10 valores</li>
+</ul>
+Nota final = 0.35 trabalho individual + 0.65 trabalho de grupo
+
+## Obtenção de frequência
+Inscrição e número de faltas não superior ao máximo permitido pelas normas em vigor na FEUP.
+
+## Melhoria de classificação
+A estabelecida pelos regulamentos da FEUP
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computational Fluid Dynamics
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<ul><br /><li>    Analyze fluid flow in its most frequent general cases (incompressible flow with and without heat or mass transfer) and know how to study it using computational fluid mechanics techniques.<br /><br />     <br />    At the end of the semester, students are expected to:<br />        Recognize the usefulness of computational techniques in solving fluid mechanics problems in mechanical engineering.<br />        Know the capabilities and limitations of computational fluid mechanics.<br />        Know how to choose and use the most appropriate commercial software library to solve the problems they will face in their future work.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+Computational skills<br /><br />        Use of numerical or computational solving techniques.<br /><br /><br /><br />Other skills  <br /><br />    Programming.
+
+## Pré-requisitos e co-requisitos
+Mathematical Analysis: derivation, integration, solving 1st and 2nd order differential equations.<br /><br />    Linear Algebra and Analytical Geometry: vector and matrix calculus.<br /><br />    Numerical analysis.<br /><br />    Computing.<br /><br />    Fluid Mechanics I and II. Thermodynamics I and II.
+
+## Programa
+<span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;0&quot;>1. INTRODUCTION. FUNDAMENTAL CONCEPTS. <br /></span></span><span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;0&quot;>Origin and usefulness of computational fluid dynamics. Conservation principles. Flow equations (Navier-Stokes). Type and classification of flows and equations. Main steps in computer modelling. Commercial software.</span></span><br /><br /><span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;0&quot;> 2. DISCRETIZATION AND RESOLUTION TECHNIQUES OF LINEAR ALGEBRAIC EQUATION SYSTEMS <br />Discretization properties and numerical solutions (consistency, stability, convergence, conservation, limitation, reasability and accuracy). Finite differences: Taylor series approximation and discretization error, discretization of first and second derivatives, and other terms. Finite volumes: surface and volume integrals, higher-order discretization schemes. Boundary conditions and algebraic systems of equations. Direct and iterative methods. Convergence criteria. Methods for non-stationary problems. </span></span><br /><br /><span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;0&quot;>3. FLUID FLOW ALGORITHMS <br />Characteristics of Navier-Stokes equations and fluid flow algorithms. Discretization and types of meshes. The treatment of the pressure equation in compressible and incompressible flows. The SIMPLE algorithm. Other algorithms. </span></span><br /><br /><span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;0&quot;>4. COMPLEX GEOMETRIES<br /> Choice and generation of the mesh. Preservation of the properties of fundamental equations. Boundary conditions. </span></span><br /><br /><span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;0&quot;>5. TURBULENCE MODELLING <br />Turbulence models. Direct numerical simulation (DNS), large eddy simulation (LES) and Reynolds averaged Navier-Stokes (RANS). Two-equation modelling (k-e, RaNS) and Smagorinsky (LES). Wall conditions. </span></span><br /><br /><span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;0&quot;>6. VERIFICATION AND VALIDATION<br /> Verification and validation. Methodologies for checking accuracy. Discretization order and convergence order. Rounding and truncation errors. Richardson Extrapolation. Mesh refinement. Validation methodologies and examples.</span></span>
+
+## Métodos de ensino e atividades de aprendizagem
+The course is organized in two weekly sessions lasting 2 hours each.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 65.0 %
+- Trabalho escrito: 35.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 39.5 hours
+- Estudo autónomo: 30.0 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;0&quot;>The evaluation includes two components: <br /></span></span><br /><ol><br /><li><span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;0&quot;>individual computational assignment (35%); and<br /></span></span></li><br /><li><span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;0&quot;> a group project by a maximum of 3 students (65%). </span></span></li><br /></ol><br /><span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;0&quot;><br />INDIVIDUAL ASSIGNMENT<br /><br />Individual assignment where each student will need to derive mathematically and program the implementation of a finite volume code to solve a one-dimensional transport equation.<br /><br /></span></span></span><br /><p>GROUP WORK (PROJECT)</p><br /><p>Students should use the OpenFOAM tool to replicate the study of a published article, including choosing the appropriate mathematical model, defining the domain and calculation mesh, applying appropriate boundary conditions, satisfying relevant dimensionless numbers, and using the appropriate turbulence model. Students should conduct pertinent analyses of the results, refine these results through mesh convergence tests, use of alternative models, and analysis of the impact of varying relevant parameters. Numerical results should be compared with published results, either in the original article or in others found in the literature review they must conduct. The outcome of the group work should be presented in the form of a scientific article, in Portuguese or English, written with the language and style rules of a scientific journal.</p><br /><p>The assignment of the tasks will take place during the first three weeks of the semester; students may also propose an article themselves, whose acceptance depends on the teacher.</p><br /><p>The completion of the work during the semester is fundamental because it is also a teaching tool. Many of the difficulties in learning computational fluid mechanics are revealed in its application, which should be done under the supervision of someone more experienced.</p><br /><p>The delivery and presentation of the report take place during the last week of classes, so as not to interfere with the exam period.</p><br /><p>Support for the completion of the work is provided throughout the semester during PL classes.</p><br /><p>The evaluation of the work is preceded by its public presentation, in the presence of the entire class. The grading is based on the students' performance during the classes, final quality of the work demonstrated through the report and presentation.</p><br /><span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;0&quot;><br /><br />FINAL CLASSIFICATION <br /><br />For approval is required: <br /></span></span><br /><ul><br /><li><span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;0&quot;>average equal to or greater than 10 values</span></span></li><br /></ul><br /><span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;0&quot;>Final grade = 0.35 individual assignment + 0.65 g</span></span>
+
+## Obtenção de frequência
+Established by FEUP regulations.
+
+## Melhoria de classificação
+Established by FEUP regulations.
+

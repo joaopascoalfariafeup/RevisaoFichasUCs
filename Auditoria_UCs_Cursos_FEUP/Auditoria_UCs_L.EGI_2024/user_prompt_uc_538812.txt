@@ -1,0 +1,154 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Informática Industrial
+
+## Curso responsável
+Licenciatura em Engenharia e Gestão Industrial
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>A unidade curricular tem por objetivo proporcionar ao estudante uma visão abrangente dos sistemas, aplicações e tecnologias no domínio da informática industrial, desde os sistemas de gestão da produção e da cadeia de abastecimento, até aos sistemas de controlo dos equipamentos de fabrico.</p>
+<p>Para o efeito, serão considerados os sistemas a 3 níveis:</p>
+<p>- Sistemas de gestão das operações (produção e logística)</p>
+<p>- Sistemas de controlo e supervisão das instalações produtivas</p>
+<p>- Sistemas de controlo automáticos dos equipamentos.</p>
+<p>Em cada um dos níveis, serão tratados os processos, sistemas e tecnologias mais relevantes.</p>
+<p><br /><br />Ao completar esta unidade curricular o estudante deverá ser capaz de:</p>
+<ol style="list-style-type: upper-alpha;">
+<li>Identificar as principais aplicações no domínio da informática industrial e compreender as suas funcionalidades chave e interações, numa perspetiva integrada.</li>
+<li>Caracterizar os fluxos de informação verticais/horizontais existentes num sistema industrial.</li>
+<li>Identificar e explicar as tecnologias utilizadas na supervisão e controlo de execução de processos industriais.</li>
+<li>Compreender as aplicações do tipo SCADA, MES e ERP.</li>
+<li>Desenvolver aplicações (simples), multinível, para um sistema de gestão industrial.</li>
+</ol>
+
+## Resultados de aprendizagem e competências
+<p>Será adotada uma estratégia de ensino/aprendizagem do tipo &#8216;learning by doing&#8217; em que o estudante, ao longo do semestre, vai aprendendo e aplicando os conceitos adquiridos através do seu trabalho individual com o apoio da equipa docente. Esta atividade é complementada por uma abordagem do tipo &#8216;project based learning&#8217; em que os alunos trabalham em grupo para resolver problemas mais complexos e próximos da realidade prática.</p>
+<p>Os objetivos de aprendizagem de A) a D) serão alcançados sobretudo através das aulas e do estudo feito fora das aulas pelo estudante. As aulas são de exposição de matérias, ilustradas por casos de uso, seguidos de períodos de discussão relacionados com os tópicos apresentados. Os exemplos que vão sendo apresentados garantem que os conceitos mais importantes ficam consolidados formalmente.<br /><br />Ao completar esta unidade curricular o estudante deverá ser capaz de:<br /><br />A) Identificar as principais aplicações no domínio da informática industrial e compreender as suas funcionalidades chave e interações, numa perspetiva integrada.<br /><br />B) Caracterizar os fluxos de informação verticais/horizontais existentes num sistema industrial.<br /><br />C) Identificar e explicar as tecnologias utilizadas na supervisão e controlo de execução de processos industriais.</p>
+<p>D)  Desenvolver aplicações (simples), multinível, para um sistema de gestão industrial.<br /><br /></p>
+
+## Pré-requisitos e co-requisitos
+Fundamentos de programação.<br />Noções básicas de sistemas de informação.
+
+## Programa
+<p>1. Landscape das principais aplicações: ERP (Enterprise Resource Planning), CRM (Customer Relationship Management) e SCM (Supply Chain Management)<br /><br />2. Apresentação da plataforma de deenvolvimento do software: IDE Lazarus, SGBD PostgreSQL, CodeSys e Factory I/O<br /><br />3. Análise, especificação e desenvolvimento de aplicações do tipo SCADA e MES<br /><br />4. Análise, especificação e e aplicações do tipo ERP<br /><br /></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas TP: exposição dos assuntos a tratar, acompanhadas de exemplos e exercícios práticos ilustrativos. <br /><br />Uma parte do tempo letivo será reservada para a orientação dos estudantes durante o desenvolvimento de uma aplicação de um sistema de gestão industrial.</p>
+<p>Tipo de avaliação: distribuída sem exame final</p>
+<p>Classificação final: CF = 40% Exercícios de continuidade + 50% Projeto + 10% Apresentação final<br /><br />A aprovação final requer a obteção de uma classiifcação mínima de 40% em cada uma destas 3 componentes</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho escrito: 40.0 %
+- Trabalho prático ou de projeto: 50.0 %
+- Apresentação/discussão de um trabalho científico: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 40.0 horas
+- Frequência das aulas: 56.0 horas
+- Trabalho laboratorial: 64.0 horas
+- Apresentação/discussão de um trabalho científico: 2.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Trabalho pratico (TP) (100%):</p>
+<ul>
+<li>6 Entregas parciais : 90%</li>
+<li>Relatório e Apresentação: 10%</li>
+</ul>
+<p>IF (TP&gt;=7.00) THEN<br />       Classificação final = TP<br />ELSE<br />       Classificação final = RFC /* reprovado por falta de componente */<br />END_IF</p>
+
+## Obtenção de frequência
+-- Frequência de um mínimo de 75% das aulas.<br />-- Realização e apresentação do trabalho pratico.<br />-- Nota mínima de 7.00 (sete) valores
+
+## Melhoria de classificação
+A componente TP não é susceptível de melhoria para os exames de recurso, especiais, conclusão de curso ou de qualquer outra natureza especial.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Industrial Informatics
+
+## Curso responsável
+Bachelor in Industrial Engineering and Management
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>This course aims to provide the student with a comprehensive overview of systems, applications and technologies used in the industrial informatics domain, from production and supply chain management systems to manufacturing equipment control systems.</p>
+<p>For this purpose systems at 3 levels will be considered:</p>
+<p>- Operations management systems (production and logistics)</p>
+<p>- Control and supervision systems of production facilities</p>
+<p>- Automatic equipment control systems.</p>
+<p>At each level, the most relevant processes, systems and technologies will be addressed.</p>
+<p><br /><br />Upon completion of this course the student should be able to:</p>
+<ol style="list-style-type: upper-alpha;">
+<li>Identify the main applications in the field of industrial informatics and understand their key functionalities and interactions, in an integrated perspective.</li>
+<li>Characterize vertical /horizontal information flows in an industrial system.</li>
+<li>Identify and explain the technologies used in supervising and execution control of industrial processes.</li>
+<li>Understand SCADA, MES and ERP application.</li>
+<li>Develop (simple) multilevel applications for an industrial management system.</li>
+</ol>
+
+## Resultados de aprendizagem e competências
+<p>A learning by doing teaching / learning strategy will be adopted in which the student, throughout the semester, learns and applies the concepts acquired through their individual work with the support of the teaching team. This activity is complemented by a project based learning approach in which students work in groups to solve more complex problems that are close to practical reality.<br /><br />Learning objectives from A) to D) will be achieved through lectures and student's out-of-class study. In classes there are periods for exposition of the syllabus with discussion of illustrative examples, followed by discussion periods related to the topics, usually made around questions posed by the teacher.</p>
+<p>Learning objective I) will be particularly reinforced with the development of a multilevel industrial management system application. This application will consist of several modules that will be develop by the students throughout the semester so that, at the end of the course, they obtain a functionally complete, albeit elementary, industrial management system<br /><br />Upon completion of this course the student should be able to:<br /><br />A) Identify the main applications in the field of industrial informatics and understand their key functionalities and interactions, in an integrated perspective</p>
+<p>B) Characterize vertical /horizontal information flows in an industrial system.<br /><br />C) Identify and explain the technologies used in supervising and execution control of industrial processes.</p>
+D) Develop (simple) multilevel applications for an industrial management system.
+
+## Pré-requisitos e co-requisitos
+Programming skills<br />Basics of information systems.
+
+## Programa
+1. Landscape of the main applications: ERP (Enterprise Resource Planning), CRM (Customer Relationship Management) and SCM (Supply Chain Management<br /><br />2. Presentation of the software development platform: Lazarus IDE, PostgreSQL DBMS, CodeSys and Factory I/O<br /><br />3. Analysis, specification and development of SCADA and MES applications<br /><br />4. Analysis, specification and development of ERP applications
+
+## Métodos de ensino e atividades de aprendizagem
+<p>TP classes: lectures for exposition of the syllabus with discussion of illustrative examples and exercises. <br /><br />Part of the class time will be used for student guidance in the implementation of an industrial management system application.</p>
+<p>Assessment type: distributed without final exam</p>
+Final mark: CF = 40% Continuing Exercises + 50% Project + 10% Final Presentation<br /><br />The final approval requires a minimum grade of 40% in each of these 3 components
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho escrito: 40.0 %
+- Trabalho prático ou de projeto: 50.0 %
+- Apresentação/discussão de um trabalho científico: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 40.0 hours
+- Frequência das aulas: 56.0 hours
+- Trabalho laboratorial: 64.0 hours
+- Apresentação/discussão de um trabalho científico: 2.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Laboratory work (TP) (100%):</p>
+<ul>
+<li>Application functional requirements (6 assignments): 90%</li>
+<li>Report and presentation: 10%</li>
+</ul>
+<p><br />IF (TP&gt;=7.00)  THEN<br />       Final grade = TP<br />ELSE<br />       Final grade =RFC /* not approved for missing component */<br />END_IF</p>
+
+## Obtenção de frequência
+-- Attendance at a minimum of 75% of classes.<br />-- Completion of the laboratory work. <br />-- Minimum grade of 7.00 (seven).
+

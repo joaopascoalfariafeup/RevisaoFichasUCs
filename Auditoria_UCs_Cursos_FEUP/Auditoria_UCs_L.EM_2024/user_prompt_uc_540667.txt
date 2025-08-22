@@ -1,0 +1,130 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Mecânica dos Fluidos II
+
+## Curso responsável
+Licenciatura em Engenharia Mecânica
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>Analisar, compreender e caraterizar o comportamento dos fluidos em escoamentos interiores, as necessidades energéticas de um escoamento e o funcionamento de bombas e ventiladores centrífugos, a medição de grandezas fundamentais em escoamentos, a interação entre um fluido em movimento e um objeto nele imerso, e alguns aspetos fundamentais dos escoamentos em superfície livre e compressíveis, tendo em vista a resolução de problemas de mecânica dos fluidos em engenharia.</p>
+
+## Resultados de aprendizagem e competências
+Espera-se que no final do semestre os alunos:<br />1. Reconheçam as diferenças fundamentais entre escoamentos com variação desprezável da massa volúmica do fluido e escoamentos compressíveis;<br />2. Saibam aplicar as equações de conservação da massa e da energia a escoamentos viscosos em condutas, calcular perdas de carga, necessidades de energia e caudal disponível, e dimensionar condutas simples;<br />3. Conheçam os princípios fundamentais do funcionamento e as curvas caraterísticas de bombas e ventiladores centrífugos, visando a seleção e a análise do funcionamento desses equipamentos;<br />4. Os princípios de funcionamento e os domínios de utilização dos tipos de medidores de velocidade, de caudal e de pressão mais comuns;<br />5. As características gerais do escoamento em superfície livre, assim como o uso do diagrama de energia específica.<br />6. Compreendam os aspetos essenciais dos escoamentos em torno de corpos neles imersos e caraterizar as forças resultantes da interação escoamento-corpo.
+
+## Pré-requisitos e co-requisitos
+Análise Matemática<br />Mecânica I e II
+
+## Programa
+<p>ESCOAMENTO NO INTERIOR DE TUBAGENS<br />Características gerais do escoamento viscoso no interior de tubagens. Regime laminar e regime turbulento. Região de entrada e escoamento completamente desenvolvido. Distribuição de pressão e tensão de corte. Escoamento laminar completamente desenvolvido (esc de Hagen-Poiseuille). Obtenção de equações fundamentais através de: (1) balanço de forças num elemento de volume de fluido. Escoamento laminar completamente desenvolvido. Obtenção de equações fundamentais através de: (2) equações de Navier Stokes (Mecânica dos  Fluidos I); (3) análise dimensional; (4) equação de energia). Coeficiente de fricção de Darcy. Resolução de problema Diagrama de Moody. Equação de Colebrook. Efeito da rugosidade (escoamento hidraulicamente liso e escoamento rugoso). Perda de carga em linha em condutas lisas de secção circular. Equação de Darcy-Weisbach. Escoamento turbulento completamente desenvolvido. Transição de regime laminar para regime turbulento. Componentes média e flutuante da velocidade. Decomposição de Reynolds. Tensões de corte em regime turbulento. Perfil de velocidades em regime turbulento. Lei de parede. Modelação de turbulência. Análise dimensional do escoamento no interior de tubagens. Escoamento turbulento completamente desenvolvido. Transição de regime laminar para regime turbulento. Componentes média e flutuante da velocidade. Decomposição de Reynolds. Tensões de corte em regime turbulento. Perfil de velocidades em regime turbulento. Lei de parede. Modelação de turbulência. Análise dimensional do escoamento no interior de tubagens. Perdas de carga localizadas. Condutas não circulares. Tipo de problemas de instalações.Tubagens em série e tubagens em paralelo. Medição de caudal e velocidade. Medidores de caudal. Placa-orifício. Venturi. Rotâmetro.</p>
+<p> </p>
+<p>ESCOAMENTOS EXTERIORES<br />Características gerais de escoamentos em torno de corpos. Conceitos de sustentação e arrasto e respectivos coeficientes aerodinâmicos. Escoamento separado, zona de recirculação, esteira, pontos de estagnação, separação e recolagem. Camada limite sobre uma superfície plana. Espessura de deslocamento, espessura de quantidade de movimento e factor de forma. Equações de camada limite laminar em formulação diferencial. Análise dimensional das equações de camada limite bi-dimensional. Solução de Prandtl/Blasius. Soluções aproximadas da camada limite turbulenta. Formulação integral de camada limite. Transição de camada limite de regime laminar a turbulento. Camada limite turbulenta. Camada limite na presença de gradiente de pressão. Formulação integral de camada limite com gradiente de pressão. Resistência aerodinâmica. Resistência devido a forças de pressão e forças viscosas. Influência da forma do corpo e do número de Reynolds. Resistência aerodinâmica do escoamento em torno de objectos bi e tri-dimensionais. Sustentação. Escoamento em torno de perfis alares. Distribuição de pressão na superfície do corpo. Conceito de circulação.</p>
+<p> </p>
+<p>ESCOAMENTO EM SUPERFÍCIE LIVRE<br />Características gerais. Ondas de superfície: velocidade da onda e efeitos do número de Froude. Considerações energéticas: equilíbrio energético e energia especifica. Escoamento uniforme: aproximações de escoamento uniforme e equações Chezy e Manning. Escoamento gradualmente variado. Escoamento rapidamente variado: salto hidráulico, descarregadores e comportas.</p>
+<p> </p>
+<p>ESCOAMENTO COMPRESSÍVEL<br />Classificação de escoamentos compressíveis. Conservação de massa e quantidade de movimento em escoamento compressível. A velocidade do som - número de Mach.Propagação de som a partir de uma fonte pontual em movimento. Cone de Mach. Efeitos de compressibilidade na equação de Bernoulli. Categorias de escoamento compressível. Efeito da variação da área da secção. Escoamento isentrópico numa tubeira convergente-divergente. Escoamento numa tubeira de secção uniforme. Escoamento não-isentrópico de um gás perfeito: escoamento em conduta s/atrito  de área constante com transferência de calor (Rayleigh). Escoamento bidimensional. Escoamento numa conduta de área constante com atrito. Analogia com escoamento incompressível numa conduta. Linha de Fanno. Escoamento de um gás ideal em condições adiabáticas e com atrito (escoamento de Fanno). Escoamento inviscido numa conduta de área constante com aquecimento ou arrefecimento. Linha de Rayleigh. Escoamento in víscido de um gás ideal com aquecimento ou arrefecimento (escoamento de Rayleigh). Linhas de Rayleigh, linhas de Fanno e choques normais. Analogia entre escoamento  compressível e escoamento em superfície livre. Escoamento  supersónico bidimensional.</p>
+<p> </p>
+<p>TURBOMÁQUINAS<br />Princípios fundamentais: tipos de máquinas e triângulo de velocidadesBomba centrífuga. Determinação da curva característica da máquina. Curva real e outros parâmetros de funcionamento. Cavitação e altura de sucção. Curva característica de uma instalação. Compatibilização entre as características de uma instalação e de uma bomba. Associação de bombas. Análise dimensional e semelhança em turbomáquinas. Velocidade específica e outros parâmetros adimensionais. Bombas axiais e bombas mistas. Turbinas hidráulicas e turbomáquinas compressíveis.</p>
+<p> </p>
+<p>INTRODUÇÂO À MECÂNICA DOS FLUIDOS COMPUTACIONAL<br />Introdução. Discretização e algoritmos de resolucão. Fases e passos principais na na modelação computacional. Software comercial. Aplicações e vantagens.</p>
+<p><br /><br /></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A unidade está organizada em duas sessões semanais (uma aula teórica e uma aula teórico-prática) com a duração de 2 horas cada. <br /><br />A participação nas 3 sessões laboratoriais (cada uma delas com a duração de 2 horas) é obrigatória para os alunos em primeira inscrição.<br /><br />Os alunos que tenham realizado as sessões de laboratório no ano letivo 2023-2024 poderão optar por não as realizar e manter a classificaçao já obtida.<br /><br /><br /></p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Teste: 30.0 %
+- Trabalho laboratorial: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 104.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho laboratorial: 6.0 horas
+
+## Fórmula de cálculo da classificação final
+<strong>Durante o semestre: duas provas (questionário) de tipo teórico, em plataforma Moodle.</strong><br />Questionário 1:  a 4 de Novembro, hora a anunciar.   <br />Questionário 2:  a 16 de Dezembro, hora a anunciar.<br /><br />Sem consulta, com a duração de 30 minutos. Classificada de 0 a 20, e peso de 30% (15% cada) na classificação final.<br /><strong><br />Durante o semestre: sessões de laboratório.</strong><br />Três sessões de laboratório (com a duração de 2 horas cada) para realização de trabalho experimental. Em todas as sessões é respondido e avaliado um questionário, que no seu conjunto constituirão a classificação de laboratório.<br /><br /><strong>Na época de exame, prova escrita de caráter prático.<br /></strong><br /><ul><br /><li><strong> Exame </strong>(10  de Janeiro de 2025, hora a anunciar); ou</li><br /><li><strong> Recurso</strong> (28 de Janeiro de 2025, hora a anunciar)</li><br /></ul><br />Consulta limitada (formulário de duas páginas A4), duração de 90 minutos. O acesso a esta prova exige um mínimo de 7/20 valores na prova teórica (Moodle) e provas de laboratório.<br /><br />A obtenção da classificação mínima de 7 valores na prova do Moodle e sessões de laboratório é condição para a participação na parte escrita do Exame ou do Recurso.<br /><ol><br /><li>A época de recurso ou melhoria de nota inclui, como um todo, avaliação nas duas componentes, teórica e prática. Os pesos das componentes teórica e prática na classificação final serão os mesmos da época de exame. Na época de recurso é exigida igualmente a classificação mínima de 7 valores nas componentes teóricas.</li><br /><li>A classificação obtida na prova de Moodle no final do semestre é parte integrante do Exame. A prova de Recurso terá a sua prova de Moodle, horas antes da componente escrita.</li><br /></ol><br /><br /><strong>A classificação final</strong> será determinada com pesos de 30% e 10% da classificação das provas no Moodle e laboratório, e 60% da prova escrita.<br /><br /><br /><div style=&quot;padding-left: 30px;&quot;>Classificação final = 0,6 x (Exame ou Recurso) + 0,3 x Moodle + 0,1 x Laboratório</div><br /><br />em todas estas componentes (Exame ou Recurso, Moodle e Laboratório) é exigida a classificação mínima de 7 (sete) valores.<br /><br />A classificação final poderá ser ajustada em mais ou menos 1/20, função de critérios de assiduidade, participação nas aulas, etc..<br /><br />Alunos com classificação superior a 16 valores poderão ser submetidos a prova oral.
+
+## Obtenção de frequência
+<p>Presença nas três sessões de laboratório e no mínimo de 70% das aulas.<br /><br />A participação nas 3 sessões laboratoriais (cada uma delas com a duração de 2 horas) é obrigatória para os alunos em primeira inscrição.<br /><br />Os alunos que tenham realizado as sessões de laboratório no ano letivo 2023-2024 poderão optar por não as realizar e manter a classificaçao já obtida.</p>
+
+## Melhoria de classificação
+<p>De acordo com as normas da FEUP, em simultâneo e com as mesmas regras da prova de recurso.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Fluid Mechanics II
+
+## Curso responsável
+Bachelor in Mechanical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>Analyse, understand and characterise the behaviour of fluids in internal flows, the energy requirements of a flow and the operation of pumps and centrifugal fans, the measurement of fundamental quantities in fluid flows, the interaction between a moving fluid and an object immersed in it, and some basic aspects of open-channel and compressible flows. Solve and understand fluid mechanics problems.</p>
+
+## Resultados de aprendizagem e competências
+It is expected that, at the end of the semester, students will be able to/know:<br />1. The fundamental differences between flows with negligible fluid density variation and compressible flows;<br />2. Apply the mass conservation and energy equations to viscous flows in pipes, calculate pressure drop, energy needs and available flux, and dimensioning simple pipes and ducts;<br />3. The fundamental principles of operation and the characteristic curves of centrifugal fans and pumps,  and selecting and analysing the operation of such equipment;<br />4. The principles of operation and the domains of use of the most common types of speed meters, flow meters and pressure transducers;<br />5. The general characteristics of open-channel flow and the use of a specific energy diagram.<br />6. Understand the essential aspects of flows around immersed bodies and characterise the forces resulting from the interaction flow-body.
+
+## Pré-requisitos e co-requisitos
+Mathematics, Mechanics I and II
+
+## Programa
+<p>VISCOUS FLOW IN PIPES<br />General Characteristics of Pipe Flow. Laminar or Turbulent Flow. Entrance Region and Fully Developed Flow. Pressure and Shear Stress. Fully Developed Laminar Flow. From F = ma Applied Directly to a Fluid Element. From the Navier&#8211;Stokes Equations. From Dimensional Analysis. Energy Considerations. Fully Developed Turbulent Flow. Transition from Laminar to Turbulent Flow. Turbulent Shear Stress. Turbulent Velocity Profile. Turbulence Modeling. Chaos and Turbulence. Dimensional Analysis of Pipe Flow. Major Losses. Minor Losses. Noncircular Conduits. Pipe Flow Examples. Single Pipes. Multiple Pipe Systems. Pipe Flowrate Measurement. Pipe Flowrate Meters. Volume Flowmeters. Chapter Summary and Study Guide. References. Problems.</p>
+<p> </p>
+<p>FLOW OVER IMMERSED BODIES.<br />General External Flow Characteristics. Lift and Drag Concepts. Characteristics of Flow Past an Object. Boundary Layer Characteristics. Boundary Layer Structure and Thickness on a Flat. Prandtl/Blasius Boundary Layer Solution. Momentum Integral Boundary Layer Equation for a F. Transition from Laminar to Turbulent Flow. Turbulent Boundary Layer Flow. Effects of Pressure Gradient. Momentum Integral Boundary Layer Equation with No. Drag. Friction Drag. Pressure Drag. Drag Coefficient Data and Examples. Lift. Surface Pressure Distribution. Circulation. Chapter Summary and Study Guide. References. Problems.</p>
+<p> </p>
+<p>OPEN CHANNEL FLOW<br />General Characteristics of Open-Channel Flow. Surface Waves. Wave Speed. Froude Number Effects. Energy Considerations. Energy Balance. Specific Energy. Uniform Flow. Uniform Flow Approximations. The Chezy and Manning Equations. Uniform Flow Examples. Gradually Varied Flow. Rapidly Varied Flow. The Hydraulic Jump. Sharp-Crested Weirs. Broad-Crested Weirs. Underflow (Sluice) Gates.</p>
+<p> </p>
+<p>COMPRESSIBLE FLOW<br />Ideal Gas Thermodynamics. Stagnation Properties. Mach Number and Speed of Sound. Compressible Flow Regimes. Shock Waves. Normal Shock. entropic Flow. Steady Isentropic Flow of an Ideal Gas. Incompressible Flow and Bernoulli&#8217;s Equation. The Critical State. One-Dimensional Flow in a Variable Area Duct. General Considerations. Isentropic Flow of an Ideal Gas With Area Change. Operation of a Converging Nozzle. Operation of a Converging&#8211;Diverging Nozzle. Constant-Area Duct Flow With Friction. Preliminary Consideration: Comparison with Incompr. The Fanno Line. Adiabatic Frictional Flow (Fanno Flow) of an Ideal. Frictionless Flow in a Constant-Area Duct with Hea. The Rayleigh Line. Frictionless Flow of an Ideal Gas with Heating. Rayleigh Lines, Fanno Lines, and Normal Shocks. The analogy between Compressible and Open-Channel Flow. Two-Dimensional Supersonic Flow.</p>
+<p> </p>
+<p>TURBOMACHINES<br />Introduction. Basic Energy Considerations. Angular Momentum Considerations. The Centrifugal Pump. Theoretical Considerations. Pump Performance Characteristics. Net Positive Suction Head (NPSH). System Characteristics, Pump-System Matching, and . Dimensionless Parameters and Similarity Laws. Special Pump Scaling Laws. Specific Speed. Suction Specific Speed. Axial-Flow and Mixed-Flow Pumps. Fans. Turbines. Impulse Turbines. Reaction Turbines. Compressible Flow Turbomachines. Compressors. Compressible Flow Turbines.</p>
+<p><br />INTRODUCTION TO COMPUTATIONAL FLUID DYNAMICS (CFD)<br />Introduction. Discretisation and solution algorithms. Main stages and steps in computational modelling. Commercial software. Applications and advantages.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The unit is organised into two weekly sessions (one theoretical class and one theoretical-practical class) lasting 2 hours each.<br /><br />The three laboratory sessions (each lasting 2 hours) are compulsory for first-time students.<br /><br />Students who took the laboratory sessions in the 2023-2024 academic year may choose not to attend them and keep the grade they have already obtained.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Teste: 30.0 %
+- Trabalho laboratorial: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 104.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho laboratorial: 6.0 hours
+
+## Fórmula de cálculo da classificação final
+<strong>During the semester: two theoretical quizzes on the Moodle platform.</strong><br />Quiz 1: on 4 November, time to be announced.  <br />Quiz 2: 16 December, time to be announced.<br /><br />No consultation, 30 minutes. It is graded from 0 to 20, weighing 30% (15% each) in the final grade.<br /><br /><strong>During the semester: laboratory sessions.</strong><br />Three laboratory sessions (each lasting 2 hours) to carry out experimental work. A questionnaire is answered and evaluated in each session, constituting the laboratory grade.<br /><strong><br />During the evaluation period, a practical written test.</strong><br /><br /><br /><ul><br /><li>     <strong>Exam</strong> (10  January 2025, time to be announced) or</li><br /><li>     <strong>Appeal</strong> (28 January 2025, time to be announced)</li><br /></ul><br /><br />Limited consultation (two-page A4 form), 90 minutes duration. Access to this test requires a minimum of 7/20 in the theory test (Moodle) and laboratory tests.<br /><br />Obtaining a minimum mark of 7 in the Moodle test and laboratory sessions is a condition for taking part in the written portion of the Exam or Appeal.<br /><br />    The appeal period or grade improvement includes, as a whole, assessment in both the theoretical and practical components. The weights of the theoretical and practical components in the final classification will be the same as in the exam period. The theoretical components also require a minimum mark of 7 in the appeal period.<br />    The mark obtained in the Moodle test at the end of the semester is an integral part of the exam. The Appeal exam will have its Moodle exam hours before the written component.<br /><br /><br /><strong>The final grade</strong> will be determined with weights of 30 per cent and 10 per cent from the Moodle and laboratory tests and 60 per cent from the written test.<br /><br />Final grade = 0.6 x (Exam or Supplementary) + 0.3 x Moodle + 0.1 x Laboratory<br /><br />In all these components (Exam or Appeal, Moodle and Laboratory), a minimum mark of 7 (seven) is required.<br /><br />The final mark may be adjusted by plus or minus 1/20 depending on attendance criteria, class participation, etc.<br /><br />Students with a mark of more than 16 may be given an oral exam.
+
+## Obtenção de frequência
+<p>Attendance of, at least, 70% of theoretical-practical and lab sessions.<br /><br />Participation in the 3 laboratory sessions (each lasting 2 hours) is compulsory for first-time students. <br /><br />Students who have held laboratory sessions in the 2023-2024 academic year may choose not to attend these sessions, maintaining the previous year's classification.</p>
+
+## Melhoria de classificação
+<p>According to FEUP regulations, simultaneously with improvement/final examination, with the same rules.</p>
+

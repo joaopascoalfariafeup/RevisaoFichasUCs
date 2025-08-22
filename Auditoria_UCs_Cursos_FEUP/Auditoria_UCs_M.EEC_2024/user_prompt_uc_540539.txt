@@ -1,0 +1,102 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas de Controlo de Potência
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+O objetivo desta UC é formar no domínio do controlo de sistemas baseados em máquinas elétricas, suportado no projeto em domínios de aplicação tais como  sistemas de produção de energia elétrica, de mobilidade elétrica e acionamentos industriais.
+
+## Resultados de aprendizagem e competências
+No final da UC, como resultados de aprendizagem o estudante deve ser capaz de:<br />- Analisar os requisitos de um sistema deste tipo em malha fechada, baseado na análise de fluxos de potência ativa e reativa;<br />- Analisar as principais funções e arquiteturas;<br />- Especificar as caraterísticas técnicas do sistema;<br />- Desenvolver modelos para análise de comportamento por simulação de sistemas de controlo de potência, em particular pesquisando literatura relevante, formulando hipóteses e testando soluções;<br />- Utilizar um ambiente de simulação computacional como ferramenta de análise;<br />- Projetar sistemas de potência em malha fechada, enquadrando estruturas e métodos de controlo e critérios de seleção dos sistemas estudados na disciplina, e  considerando a interação entre os diversos subsistemas e os compromissos a estabelecer no balanceamento da solução bem como as diversas fases do ciclo de vida do sistema;<br />- Participar com trabalho próprio num projeto desenvolvido em equipa de engenharia simultânea;<br />- Estruturar e elaborar relatórios técnicos;<br />- Preparar e auto avaliar o conteúdo de uma apresentação oral.
+
+## Programa
+1. Introdução ao controlo de sistemas baseados em eletrónica de potência. Diversos subsistemas: fonte de alimentação; barramento de corrente contínua (CC); conversor de potência trifásico; máquina elétrica/carga (rotativa, industrial ou tração elétrica, rede elétrica);<br />2. Transformada dq; controlo de potência ativa e reativa; Controlo vetorial de máquinas elétricas de corrente alternada (CA) (orientação de campo e controlo direto de binário);<br />3. Controlo de tensão em barramento CC; Arquitetura e funcionamento de conversor de potência trifásico: teorema da amostragem, técnicas de modulação;<br />4. Sistemas de controlo de potência: produção de energia renovável; mobilidade elétrica; acionamentos industriais, em velocidade e posição.
+
+## Métodos de ensino e atividades de aprendizagem
+As aulas teóricas são de exposição, incluindo no desenvolvimento do programa casos de estudo.<br /><br />As aulas práticas são de três tipos:<br />- Aulas de análise dos diversos subsistemas;<br />- Aulas de acompanhamento relativas à simulação destes sub-sistemas utilizando um pacote de software, realizadas em laboratório<br />- Aulas de apoio à realização de um projeto de um sistema de controlo de natureza industrial.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho laboratorial: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 46.0 horas
+- Estudo autónomo: 77.0 horas
+- Frequência das aulas: 39.0 horas
+
+## Fórmula de cálculo da classificação final
+<strong>1. Componentes de avaliação:<br /></strong><br />- Trabalho prático-laboratorial (PL), obrigatório e com avaliação individual, avaliando:<br /><div>      - As capacidades de projetar e implementar, avaliar e analisar criticamente soluções;<br />      - Presença e participação ativa nas aulas e trabalhos e apresentação oral do trabalho, para avaliar o empenho no acompanhamento da UC e a capacidade de comunicar em público para uma audiência específica;<br />      - Processo de desenvolvimento do trabalho de projeto em equipa: organização da equipa; planeamento e controlo do trabalho;<br />      - Qualidade da documentação e do relatório técnico;<br /><br /></div><br /><div>- Prova Escrita (PE), avaliando a capacidade de analisar o funcionamento de sistemas de controlo de potência, bem como a criatividade e rigor na proposta de soluções.</div><br /><br /><strong>2. Cálculo da classificação final (CF)<br /><br /></strong>As classificações prático-laboratorial (PL) e Prova Escrita (PE) estão limitadas a uma diferença máxima entre si de 5 valores (em 20) condicionado o valor máximo de PL e PE:<br />Classificação Prático-Laboratorial Efetiva (PLE): PLE = minimo(PL, PE+5)<br />Classificação Prova Escrita Efetiva (PEE): PEE = minimo(PE, PL+5)<br /><br />Classificação Final (CF): CF = 0.5 * PLE + 0.5 * PEE<br /><br />As avaliações PL, PLE, PE e PEE, são efetuadas numa escala de zero a vinte valores arredondadas à decima de unidade.<br /><br />A aprovação está condicionada a um mínimo de 35% nas componentes PL e PE.<br /><br />Classificações finais acima de 18 valores têm de ser defendidas com a realização de uma prova oral.
+
+## Obtenção de frequência
+<p>Só serão admitidos a exame (EX) os estudantes que frequentarem as aulas práticas/laboratoriais e atingirem pelo menos uma classificação de 35% na componente PL.</p>
+
+## Melhoria de classificação
+Apenas a componente Prova Escrita (PE) é suscetível de melhoria, nas épocas a isso destinadas.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Power Control Systems
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+The aim of this course is to train in the field of control of systems based on electric machines, supported on project in application domains such as electric power generation systems, electric mobility and industrial drives.
+
+## Resultados de aprendizagem e competências
+At the end of the course, as learning outcomes the student should be able to:<br />- Analyze the requirements of such a closed loop system based on the analysis of active and reactive power flows;<br />- Analyze the main functions and architectures;<br />- Specify the technical characteristics of the system;<br />- Develop models for behavior analysis by simulation of power control systems, in particular by researching relevant literature, formulating hypotheses and testing solutions;<br />- Use a computer simulation environment as an analysis tool;<br />- Design closed-loop power system, framing control structures and methods and selection criteria of the systems studied in the course, and considering the interaction between the different subsystems and the compromises to be established in balancing the solution as well as the various phases of the system life cycle;<br />- Participate with their own work in a project developed in a simultaneous engineering team;<br />- Structure and prepare technical reports;<br />- Prepare and self-evaluate the content of an oral presentation.
+
+## Programa
+1. Introduction to the control of systems based on power electronics. Several subsystems: power supply; direct current bus (DC); three phase power converter; electric machine / load (rotary, industrial or electric traction, electric network);<br />2. dq transform; active and reactive power control; vector control of alternating current (AC) electric machines (field orientation and direct torque control);<br />3. DC bus voltage control; Architecture and operation of three-phase power converter: sampling theorem, modulation techniques;<br />4. Power control systems: renewable energy production; electric mobility; industrial drives, in speed and position.
+
+## Métodos de ensino e atividades de aprendizagem
+The lectures are expository, including in the development of the case study program.<br /><br />The practical classes are of three types:<br />- Lessons of analysis of the various subsystems;<br />- Follow-up lessons related to the simulation of these subsystems using a software package, carried out in the laboratory.<br />- Classes to support the implementation of a project of an industrial control system.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho laboratorial: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 46.0 hours
+- Estudo autónomo: 77.0 hours
+- Frequência das aulas: 39.0 hours
+
+## Fórmula de cálculo da classificação final
+<strong>1. Evaluation Components:<br /><br /></strong>- Practical-laboratory work (PL), mandatory and with individual assessment, evaluating:<br /><div>       - The capabilities to design and implement, evaluate and critically analyze solutions;</div><br /><div>       - Presence and active participation in classes and assignments and oral presentation of the work, to assess the commitment to monitoring the UC and the ability to communicate in public for a specific audience;</div><br /><div>       - Team project work development process: team organization; work planning and control;</div><br /><div>       - Quality of documentation and technical report;<br /><br /></div><br />- Exam (PE), assessing the ability to analyze the operation of power control systems, as well as creativity and rigor in proposing solutions.<br /><br /><strong>2. Calculation of final grade:</strong><br /><br /><p>The grades for Practical-Laboratory Work (PL) and Written Exam (PE) are limited to a maximum difference of 5 points (out of 20) between them, with the maximum values for PL and PE being conditioned as follows: Effective Practical-Laboratory Grade (PLE): PLE = min(PL, PE + 5) Effective Written Exam Grade (PEE): PEE = min(PE, PL + 5)</p><br /><p>Final Grade (CF): CF = 0.5 * PLE + 0.5 * PEE</p><br />The grades PL, PLE, PE, and PEE are evaluated on a scale from zero to twenty, rounded to the nearest tenth.<br /><br />Passing the course is subject to a minimum of 35% in the components PL and PE.<br /><br />Students may only achieve very high grades, namely 19 and 20 out of 20, if they obtain a compatible result in a special oral exam.
+
+## Obtenção de frequência
+Students will only be admitted to the Exam (EX) if they attend practical/laboratory classes and if they reach a minimum mark of 35% in the PL component.
+
+## Melhoria de classificação
+Only the component Exam (EX) can be improved in the appropriate dates.
+

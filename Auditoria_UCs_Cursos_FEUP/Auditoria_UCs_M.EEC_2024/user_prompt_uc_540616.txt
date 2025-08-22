@@ -1,0 +1,110 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Arquiteturas de Sistemas Heterogéneos
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+Nas últimas décadas, os computadores desfrutaram da disponibilidade aparentemente ilimitada de transístores. As plataformas de computador evoluíram de um processador com um único núcleo para <em>multicores</em> polivalentes com núcleos especializados que oferecem desempenho sem precedentes graças ao alto grau de paralelismo. Recentemente, a eficiência energética tornou-se um grande problema, pois a maioria das aplicações emergentes (por exemplo, em processamento de imagem ou aprendizagem computacional) realizam grande numero de cálculos enquanto respeita restrições rígidas de energia e desempenho. Isso levou a sistemas com unidades computacionais personalizadas na forma de Field-Programmable Gate Arrays (FPGA) e outras formas de unidades computacionais reconfiguráveis.<br /><br />Essas tendências têm um grande impacto no domínio da computação embarcada, particularmente nos sistemas de computação embarcada de alto desempenho. Para atingir esses objetivos, os engenheiros estão cada vez mais a conceber sistemas de computação especializados, feitos sob medida para essas tarefas específicas. Os sistemas de computação resultantes são heterogéneos e contêm vários núcleos de computação com modelos de execução muito diferentes. Portanto, torna-se necessário compreender o mapeamento fundamental entre a aplicação e as arquiteturas  de destino para poder explorar totalmente os seus recursos.
+
+## Resultados de aprendizagem e competências
+<span class=&quot;fontstyle0&quot;>A unidade curricular deverá dotar os estudantes das capacidades necessárias para:<br /></span><br /><ol><br /><li><span class=&quot;fontstyle0&quot;>Analisar os requisitos de desempenho de aplicações computacionais para conceber, justificar e caracterizar soluções baseadas em sistemas computacionais heterogéneos, envolvendo categorias diversas de processadores de uso geral e aceleradores especializados construídos em FPGA, com o objetivo de conseguir propostas competitivas face a soluções construídas em torno de processadores convencionais ou agregados homogéneos de processadores.</span></li><br /><li><span class=&quot;fontstyle0&quot;>Desenvolver soluções para plataformas de computação heterogénea baseadas em dispositivos System-on-Chip reconfiguráveis (como a família Zynq da XILINX) com 2 ou mais núcleos de processadores integrados, fazendo uso de ferramentas de desenvolvimento de hardware para FPGA baseadas em síntese de alto nível.</span></li><br /></ol>
+
+## Pré-requisitos e co-requisitos
+Fundamentos de arquiteturas de computadores<br />Fundamentos de projeto de sistemas digitais para tecnologias integradas (projeto com linguagens de descrição de hardware digital)<br />Programação em C
+
+## Programa
+<ol><br /><li><span class=&quot;fontstyle0&quot;>Plataformas de computação: domínios de aplicação, requisitos, história e tendências.</span></li><br /><li><span class=&quot;fontstyle0&quot;>Plataformas programáveis de usos gerais (CPU, GPU, MCU, DSP) e aceleradores especializados em FPGA.</span></li><br /><li><span class=&quot;fontstyle0&quot;>Caraterização de métricas de desempenho: rapidez (débito), consumo de potência e de energia.</span></li><br /><li><span class=&quot;fontstyle0&quot;>Sistemas de comunicação entre unidades de computação: topologias, tecnologias e métricas desempenho.</span></li><br /><li><span class=&quot;fontstyle0&quot;>Sistema de memória: tecnologias, hierarquia e métricas de desempenho.</span></li><br /><li><span class=&quot;fontstyle0&quot;>Quantificação do desempenho de aplicações de software por análise da execução (&#8220;profiling&#8221;).</span></li><br /><li><span class=&quot;fontstyle0&quot;>Modelos de computação e particionamento de aplicações em sistemas heterogéneos.</span></li><br /><li><span class=&quot;fontstyle0&quot;> Mapeamento de aplicações para dispositivos programáveis &#8220;System-on-Chip&#8221; integrando processadores de uso geral e FPGA.<br /></span></li><br /><li><span class=&quot;fontstyle0&quot;>Síntese de alto nível de hardware digital para dispositivos FPGA; otimização e exploração do espaço de soluções: transformações de código-fonte, transformações de ciclos, especialização de<br />funções.</span></li><br /><li><span class=&quot;fontstyle0&quot;>Reconfiguração dinâmica de hardware.<br style=&quot;font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;&quot; /> </span></li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<span class=&quot;fontstyle0&quot;>Esta unidade curricular usa uma abordagem de aula invertida (&quot;flipped classroom&quot;). As sessões são usadas para discutir os principais pontos dos assuntos, aplicar esse conhecimento ao estudo de casos e experimentar fluxos e ferramentas de projeto.</span>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Trabalho laboratorial: 40.0 %
+- Teste: 20.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 50.0 horas
+- Frequência das aulas: 39.0 horas
+- Estudo autónomo: 73.0 horas
+
+## Fórmula de cálculo da classificação final
+<span class=&quot;fontstyle0&quot;>A avaliação inclui uma componente de avaliação distribuída e um exame final com pesos de 60% e 40%, respetivamente. <br /><br />A avaliação distribuída é constituída por um conjunto de trabalhos laboratoriais (40% da avaliação final) e um teste (20% da avaliação final). <br /><br />Os trabalhos laboratoriais serão desenvolvidos por grupos de 2 estudantes, apresentados e discutidos nas aulas PL, mas realizados essencialmente em horário extra-aula; os trabalhos práticos incidirão na análise de desempenho de uma aplicação e o seu mapeamento para uma plataforma SoC reconfigurável recorrendo a ferramentas de síntese de alto nível de hardware.</span>
+
+## Obtenção de frequência
+Para obtenção de frequência é obrigatório realizar todos os pontos de avaliação distribuída.
+
+## Melhoria de classificação
+A melhoria da nota de exame e do teste pode ser realizada na época de recurso (uma prova conjunta). A classificação dos  projetos laboratoriais não pode ser melhorada.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Heterogeneous Systems Architectures
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+In recent decades, computer users have enjoyed the seemingly unlimited availability of transistors. Computer platforms evolved from a single processor core to multipurpose multicores and specialized cores that deliver unprecedented performance thanks to the high degree of parallelism. Recently, power efficiency has become a major issue as most emerging applications in image processing and machine learning need to perform large amounts of computation while meeting strict power and performance constraints. This has led to systems with custom computational units in the form of Field-Programmable Gate Arrays (FPGA) and other forms of reconfigurable computational units. <br /><br />These trends are having a major impact on the embedded computing domain, particularly high-performance embedded computing systems. To achieve these goals, engineers are increasingly building specialized compute engines tailored to these specific tasks. The resulting computing systems are heterogeneous and contain multiple compute cores with very different execution models. Therefore, developers must understand the fundamental mapping between the application and the target computer architectures in order to fully exploit their capabilities.
+
+## Resultados de aprendizagem e competências
+<span class=&quot;fontstyle0&quot;>The course provides students with the necessary skills to:<br /></span><br /><ol><br /><li><span class=&quot;fontstyle0&quot;>Analyse the performance requirements of computational applications to design, justify and characterize solutions based on heterogeneous computing systems, involving diverse categories of general purpose processors and specialized accelerators built on FPGA, with the objective of obtaining competitive proposals against solutions built on conventional processors or homogeneous processor aggregates.</span></li><br /><li><span class=&quot;fontstyle0&quot;>Develop solutions for heterogeneous computing platforms based on reconfigurable System-on-Chip devices (such as the XILINX Zynq family) with two or more integrated processor cores, making use of high level-synthesis tools and design flow for FPGAs.</span></li><br /></ol>
+
+## Pré-requisitos e co-requisitos
+Fundaments of computer architectures<br />Fundaments of digital design for integrated technologies (HDL-based design)<br />C programming
+
+## Programa
+<ol><br /><li><span class=&quot;fontstyle0&quot;>Computing platforms: application domains, requirements, history and trends.</span></li><br /><li><span class=&quot;fontstyle0&quot;>General purpose programmable platforms (CPU, GPU, MCU, DSP) and FPGA-based specialized accelerators.</span></li><br /><li><span class=&quot;fontstyle0&quot;>Characterization of performance metrics: speed (throughput), power and energy consumption.</span></li><br /><li><span class=&quot;fontstyle0&quot;>Communication systems between computing units: topologies, technologies and performance metrics.</span></li><br /><li><span class=&quot;fontstyle0&quot;>Memory system: technologies, hierarchy, and performance metrics.</span></li><br /><li><span class=&quot;fontstyle0&quot;>Quantification of software application performance by profiling.</span></li><br /><li><span class=&quot;fontstyle0&quot;>Computation models and application partitioning in heterogeneous systems.</span></li><br /><li><span class=&quot;fontstyle0&quot;>Application mapping for programmable &#8220;System-on-Chip&#8221; devices integrating general-purpose processors and FPGAs.</span></li><br /><li><span class=&quot;fontstyle0&quot;>High-level synthesis of digital hardware for FPGA devices; optimization and design space exploration: source code transformations, loop transformations, function specialization.</span></li><br /><li><span class=&quot;fontstyle0&quot;>Dynamic Hardware Reconfiguration.</span></li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+This course uses a flipped-classroom approach. Sessions are used to discuss the main points of the subject, apply that knowledge to case studies, and experiment with design flows and tools.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Trabalho laboratorial: 40.0 %
+- Teste: 20.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 50.0 hours
+- Frequência das aulas: 39.0 hours
+- Estudo autónomo: 73.0 hours
+
+## Fórmula de cálculo da classificação final
+<span class=&quot;fontstyle0&quot;>Grading will include a distributed evaluation component and a final written exam, with weights of 60% and 40%, respectively.<br /><br />The distributed evaluation will be formed by the development of a set of laboratory projects (40% of the final grading) and a mid-term (20% of the final grading).<br /><br />The laboratory projects will be done by groups of 2 students, presented and discussed in class, but mainly done outside class hours; the practical work focuses on the performance analysis of an application and its mapping to a reconfigurable SoC platform with high-level hardware synthesis tools.</span>
+
+## Obtenção de frequência
+To obtain the &quot;frequencia&quot; status the students must participate in all the points of the distributed evaluation.
+
+## Melhoria de classificação
+The grades of the test and of the final exam may be improved by doing the second exam (&quot;recurso&quot; / retake) of similar (combined) complexity. The grades of the projects cannot be improved.
+

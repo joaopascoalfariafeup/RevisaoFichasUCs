@@ -1,0 +1,106 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Segurança em Engenharia de Software
+
+## Curso responsável
+Mestrado em Engenharia de Software
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+No final desta unidade curricular, pretende-se que os estudantes:<br />1. Reconheçam os problemas mais importantes de segurança em sistemas de computação baseados em software, respetivas causas e consequências, e reconheçam a importância da utilização de boas práticas de engenharia de software para a prevenção, deteção e mitigação desses problemas&#894;<br />2. Conheçam e sejam capazes de aplicar boas práticas genéricas e específicas para o desenvolvimento de<br />sistemas de software seguros nas diversas fases do ciclo de vida do software: captura de requisitos,<br />arquitetura e desenho, implementação, verificação e validação, distribuição, instalação e manutenção&#894;<br />3. Conheçam e sejam capazes de usar processos e ferramentas de engenharia de software especialmente<br />direcionados para questões de segurança&#894;<br />4. Conheçam normas relevantes para o desenvolvimento de sistemas de software seguros.
+
+## Resultados de aprendizagem e competências
+Os conteúdos programáticos foram definidos em função dos objetivos e competências a serem adquiridos<br />pelos estudantes nesta UC. Os conteúdos programáticos incluem as abordagens consideradas estado da arte<br />em segurança em engenharia de software bem como técnicas específicas que conferem aos estudantes a<br />capacidade de selecionar de forma crítica o método apropriado a utilizar para, na prática, resolver problemas de segurança na engenharia de aplicações informáticas. Ao mesmo tempo, os estudantes serão capazes de interpretar e analisar o comportamento dos algoritmos e os resultados obtidos pelos mesmos. Para atingir os objectivos de aprendizagem, a UC irá abordar não só processos e algoritmos, bem como ferramentas off-the-shelf.
+
+## Programa
+1) Introdução, conceitos fundamentais e terminologia<br />2) Processos de engenharia de software com foco na segurança&#894;<br />3) Engenharia de requisitos de segurança&#894;<br />4) Programação e desenvolvimento de software seguro<br />5) Criptografia<br />6) Software de sistema (SOs), utilizadores e controlo de acesso<br />7) Segurança nos sistemas distribuídos<br />8) Segurança nas aplicações web<br />9) Verificação e validação de aspetos de segurança<br />10) Segurança na distribuição, instalação e manutenção dos sistemas de software
+
+## Métodos de ensino e atividades de aprendizagem
+As aulas terão uma componente de exposição e discussão dos tópicos programáticos, e outra componente de realização de exercicíos práticos e pequenos projetos de aplicação dos conceitos e técnicas e experimentação de ferramentas. Será reservada uma ou duas aulas para a apresentação de tópicos e projetos explorados pelos estudantes.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho laboratorial: 30.0 %
+- Trabalho prático ou de projeto: 20.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 horas
+- Estudo autónomo: 40.0 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho laboratorial: 23.0 horas
+
+## Fórmula de cálculo da classificação final
+Avaliação contínua (50% da nota final) baseada em trabalho e desenvolvimento prático com duas componentes:<br /><span style=&quot;display: inline !important; float: none; background-color: #ffffff; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 11px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;>    Trabalho laboratorial: 20%</span><br />    Projeto prático: 30%<br />Exame Final (50% da nota final)<br />Para aprovação é necessário um mínimo de 40% no exame final.
+
+## Obtenção de frequência
+Entrega de todos os elementos de avaliação e exame.
+
+## Melhoria de classificação
+- As classificações obtidas na avalaição contínua podem ser melhoradas na edição seguinte da unidade curricular<br />- A classificação do exame pode ser melhorada em exame de recurso.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Security in Software Engineering
+
+## Curso responsável
+Master in Software Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+By the end of this module, it is intended that students:<br />1. Recognise the most important security problems of software based computing systems, the respective causes and consequences, and recognise the importance of using good software engineering practices for the prevention, detection and mitigation of those problems&#894;<br />2. Know and are able to apply generic and specific practices for developing secure software systems in the<br />various phases of the software life cycle: requirements capture, architecture and design, implementation,<br />verification and validation, deployment, installation and maintenance&#894;<br />3. Know and are able to use software engineering processes and tools specially targeted at security issues&#894;<br />4. Know relevant standards for the development of secure software systems.
+
+## Resultados de aprendizagem e competências
+The syllabus was defined according to the objectives and competencies to be acquired by the students. The<br />syllabus includes understanding state of the art approaches to security in software engineering as well as<br />specific techniques, which will make students capable of critically selecting the appropriate method to use to<br />solve the engineering problem at hand. At the same time, students will be able to interpret and analyse the<br />behaviour and performance of the algorithms and the results obtained by them. In order to achieve the proposed learning outcomes, the module will not only discuss processes and algorithms, but also off the shelf tools.
+
+## Programa
+1) Introduction, key concepts and terminology<br />2) Software engineering processes with a security focus<br />3) Security requirements engineering<br />4) Secure coding<br />5) Crytpography<br />6) System software (OSs), users and access control<br />7) Distributed systems security<br />8) Web applications security<br />9) Verification and validation of security aspects<br />10) Security in the deployment and maintenance of software systems
+
+## Métodos de ensino e atividades de aprendizagem
+The classes will comprise the presentation and discussion of topics and the development of practical exercises and small projects by the students. Slots will be reserved for the presentation of special topics and projects explored by the students.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho laboratorial: 30.0 %
+- Trabalho prático ou de projeto: 20.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 hours
+- Estudo autónomo: 40.0 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho laboratorial: 23.0 hours
+
+## Fórmula de cálculo da classificação final
+Continuous assessment (50% of the final grade) comprises practical work with two components:<br /><span style=&quot;display: inline !important; float: none; background-color: #ffffff; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 11px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;>    Lab work: 20%</span><br />    Project work: 30%<br />Final Exam (50% of the final grade).<br />For approval, a minimum grade of 40% in the final exam is required.
+
+## Obtenção de frequência
+Submitting all evaluation elements and exam.
+
+## Melhoria de classificação
+- The marks obtained in continuous assessment can be improved in the next edition of the course <br />- The classification of the exam can be improved in the appeal exam.
+

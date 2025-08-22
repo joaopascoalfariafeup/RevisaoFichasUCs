@@ -1,0 +1,144 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise Numérica
+
+## Curso responsável
+Licenciatura em Engenharia Mecânica
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p><strong>Gerais:</strong></p>
+<div style="text-align: justify;">Conhecer os métodos de resolução numérica mais adequados e mais eficientes, para cada problema típico de Análise Numérica, bem como as condições de aplicabilidade e teoremas de convergência destes métodos.</div>
+<div style="text-align: justify;">Espera-se que executem testes de aplicação prática em computador, discutindo os resultados obtidos, e a sua precisão e que através da programação de alguns desses métodos em Matlab, por exemplo, adquiram prática de programação numérica.</div>
+<p><br /><strong>Específicos:</strong></p>
+<div style="text-align: justify;">Para cada capítulo do programa os alunos devem ser capazes de:<br /><br />- listar as condições de aplicabilidade dos métodos e enunciar os respetivos teoremas de convergência; <br /><br />- aplicar os métodos, fórmulas e algoritmos dados, a problemas concretos; <br /><br />- descrever o funcionamento dos métodos dados, traduzi-los em algoritmos e subprogramas (Functions) em Matlab e testá-los sobre exemplos, comparando e analisando os resultados;<br /><br />- explicar as demonstrações de alguns dos teoremas dados, e aplicar as técnicas aí descritas a outras situações relacionadas;<br /><br />- resolver problemas novos com as ferramentas numéricas dadas e comparar o desempenho de vários métodos numéricos quando à velocidade e fiabilidade.</div>
+
+## Resultados de aprendizagem e competências
+<div style=&quot;text-align: justify;&quot;>Ao concluir a disciplina de Análise Numérica, os alunos deverão ter desenvolvido as seguintes competências e alcançado os seguintes resultados de aprendizagem:<br /><br /></div><br /><div style=&quot;text-align: justify;&quot;><strong>1.</strong> <strong>Domínio dos Métodos Numéricos e Teoremas de Convergência:</strong></div><br /><div style=&quot;text-align: justify;&quot;><br /><ul><br /><li>Compreender e aplicar os principais métodos numéricos abordados na disciplina, identificando as condições de aplicabilidade de cada um e os respetivos teoremas de convergência.</li><br /><li>Demonstrar capacidade de analisar criticamente a eficiência e robustez dos métodos para diferentes tipos de problemas numéricos.</li><br /></ul><br /></div><br /><div style=&quot;text-align: justify;&quot;><strong>2.</strong> <strong>Capacidade de Programação e Implementação Computacional:</strong></div><br /><div style=&quot;text-align: justify;&quot;><br /><ul><br /><li>Traduzir métodos e algoritmos matemáticos em código computacional, especialmente em Matlab, implementando funções que resolvam problemas numéricos com precisão.</li><br /><li>Executar simulações numéricas e interpretar os resultados, ajustando os parâmetros e refinando as soluções para obter a melhor precisão possível.</li><br /></ul><br /></div><br /><div style=&quot;text-align: justify;&quot;><strong>3.</strong> <strong>Aplicação Prática e Solução de Problemas:</strong></div><br /><div style=&quot;text-align: justify;&quot;><br /><ul><br /><li>Aplicar os métodos numéricos aprendidos a situações práticas, como a resolução de equações não lineares, integração e diferenciação numérica, sistemas de equações lineares e análise de valores próprios.</li><br /><li>Analisar e resolver problemas novos utilizando as ferramentas numéricas estudadas, comparando o desempenho dos diferentes métodos em termos de velocidade, precisão e robustez.</li><br /></ul><br /></div><br /><div style=&quot;text-align: justify;&quot;><strong>4.</strong> <strong>Capacidade de Análise Teórica e Demonstração:</strong></div><br /><div style=&quot;text-align: justify;&quot;><br /><ul><br /><li>Explicar as demonstrações de teoremas e aplicar os conceitos teóricos a novos contextos, mostrando uma compreensão profunda dos fundamentos matemáticos subjacentes.</li><br /><li>Demonstrar a capacidade de derivar novos resultados ou métodos a partir dos conceitos estudados, aplicando o raciocínio lógico e matemático.</li><br /></ul><br /></div><br /><div style=&quot;text-align: justify;&quot;><strong>5.</strong> <strong>Pensamento Crítico e Avaliação Comparativa:</strong></div><br /><div style=&quot;text-align: justify;&quot;><br /><ul><br /><li>Avaliar criticamente os resultados obtidos nas simulações, discutindo a precisão, a eficiência e as limitações dos métodos numéricos aplicados.</li><br /><li>Comparar diferentes abordagens numéricas, selecionando a mais adequada para cada problema com base em critérios como velocidade de convergência, simplicidade de implementação e robustez.</li><br /></ul><br /></div><br /><div style=&quot;text-align: justify;&quot;><strong>6.</strong> <strong>Competências de Comunicação e Trabalho em Equipa:<br /><br /></strong></div><br /><ul style=&quot;list-style-type: square;&quot;><br /><li>Desenvolver a capacidade de comunicar conceitos técnicos e resultados de forma clara e objetiva.</li><br /><li>Trabalhar de forma colaborativa em equipas, partilhando ideias, discutindo soluções e contribuindo para o desenvolvimento coletivo de projetos numéricos.</li><br /></ul>
+
+## Pré-requisitos e co-requisitos
+<p style="text-align: justify;">Os estudantes devem saber as matérias das unidades curriculares de Álgebra Linear e Geometria Analítica, Análise Matemática I, II e III e de Programação de Computadores.</p>
+
+## Programa
+<div style=&quot;text-align: justify;&quot;><strong>Capítulo 1</strong> <br /><br />Erros de arredondamento e sua propagação; possível instabilidade dos métodos numéricos; origem dos erros de arredondamento, sistemas de numeração em computadores: sistemas de vírgula fixa e flutuante.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot;><strong>Capítulo 2</strong> <br /><br />Sistemas de equações lineares: método de eliminação de Gauss em aritmética finita. Erros de arredondamento e possível instabilidade dos métodos numéricos; técnicas pivotagem. Resolução de sistemas triangulares. Sistemas tridiagonais. Factorização LU. Aplicação ao cálculo de determinantes e da inversa de uma matriz. Métodos iterativos: Jacobi and Gauss-Seidel; teoremas de convergência e algoritmos. Definição de erro de truncatura, estimativa dos erros de truncatura dos métodos anteriores.</div><br /><div style=&quot;text-align: justify;&quot;><br /><strong>Capítulo 3</strong> <br /><br />Equações não lineares: condições gerais para a resolução, critérios de paragem dos métodos iterativos; métodos de cálculo: bissecções, Newton, secante, iterativo simples (ponto fixo). Teoremas de convergência, estimativa e majoração dos erros de truncatura ordem de convergência.<br /><br /><strong>Capítulo 4</strong> <br /><br />Aproximação polinomial no sentido dos mínimos quadrados; polinómios ortogonais. Sistemas de equações lineares sobredeterminados.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot;><strong>Capítulo 5</strong> <br /><br />Interpolação polinomial: métodos de Newton e de Lagrange; erro de interpolação. Interpolação de Hermite e Splines. Derivação numérica e diferenças divididas.<br /><br /><strong>Capítulo 6</strong> <br /><br />Integração numérica: fórmulas de Newton-Cotes (ex: Trapézios e Simpson); fórmulas compostas; erros de integração numérica. Quadratura de Gauss.</div><br /><div style=&quot;text-align: justify;&quot;><br /><strong>Capítulo 7</strong> <br /><br />Equações diferenciais ordinárias: método de Euler para equações diferenciais de 1ª ordem. Métodos de Taylor. Ordem de um método de resolução de equações diferenciais de 1ª ordem. Métodos de Runge-Kutta de ordem 2 e de ordem 4.</div>
+
+## Métodos de ensino e atividades de aprendizagem
+<div style=&quot;text-align: justify;&quot;>As exposições teóricas são principalmente apresentadas no quadro e através de apresentações em PowerPoint, com um foco forte nos conceitos de Análise e Álgebra. Essas sessões são acompanhadas, sempre que possível, por exemplos práticos motivadores. São sugeridos exemplos adicionais para os alunos testarem no computador, permitindo-lhes observar o comportamento prático, que é posteriormente explicado à luz da teoria aprendida.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot;>Nas aulas de laboratório, os alunos concluem e apresentam pequenos projetos propostos durante as aulas teórico-práticas. Esses projetos são preparados fora do horário de aula em salas equipadas com computadores e o software necessário.</div>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 0.0 %
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 120.0 horas
+- Frequência das aulas: 45.5 horas
+
+## Fórmula de cálculo da classificação final
+<p><u>A avaliação desta unidade curricular (u.c.) será feita do seguinte modo: </u></p>
+<p>- 1º teste, T1, obrigatório, em data a comunicar aos estudantes; este teste terá um peso de 25% na nota final; é exigida uma nota mínima de 7 valores (em 20);</p>
+<p>- 2º teste, T2, exclusivamente para estudantes que tiveram classificação em T1, igual ou superior a 7 valores (em 20), e que só incluirá a matéria posterior ao T1; este teste terá um peso de 75% na nota final e é exigida também uma nota mínima de 7 valores (em 20);</p>
+<p>- exame final, EF, A EFECTUAR SIMULTANEAMENTE COM O 2º TESTE, e que terá de ser realizado OBRIGATORIAMENTE por aqueles estudantes que tenham obtido nota inferior a 7 valores em T1; no entanto, qualquer estudante poderá optar por realizar este exame em alternativa ao 2º teste; o EF inclui toda a matéria;</p>
+<p>- exame de recurso, ER, será realizado pelos estudantes que não tenham obtido nota mínima nalgum dos testes, T1 ou T2, ou que não tenham tido média de 10 valores nos dois testes ou no exame EF, e ainda para melhoria de classificação. Este exame também inclui toda a matéria.</p>
+<p> </p>
+<p>A classificação final, CF, será assim obtida por: CF=0.25*nota de T1+0.75*nota de T2 desde que T1&gt;=7 e T2&gt;=7 ou CF=Nota de EF ou ainda CF=Nota de ER.</p>
+<p> </p>
+<p><u>Notas importantes: </u></p>
+<ol>
+<li>Classificação CF igual ou superior a 18 valores (em 20), está sujeita à realização de uma prova oral;</li>
+<li>As classificações das componentes da avaliação dos anos anteriores não são consideradas assim como as que são obtidas não são transferidas para os anos seguintes;</li>
+<li>A melhoria de classificação é realizada através de um exame, de acordo com o Regulamento específico de avaliação de discentes da FEUP. Este exame será efectuado apenas na época seguinte(s) ao apuramento da Classificação Final (CF) definitiva.</li>
+</ol>
+
+## Obtenção de frequência
+<p>Para obter frequência o estudante deverá cumprir o Regulamento específico de avaliação de discentes da FEUP, em particular no que concerne à assiduidade às aulas práticas laboratoriais (PL) da unidade curricular.</p>
+
+## Melhoria de classificação
+<p>A melhoria de classificação é realizada através de um exame, de acordo com o Regulamento específico de avaliação de discentes da FEUP. Este exame será efectuado apenas na época seguinte(s) ao apuramento da Classificação Final (CF) definitiva.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Numerical Analysis
+
+## Curso responsável
+Bachelor in Mechanical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<div style=&quot;text-align: justify;&quot;><strong>General: <br /><br /></strong>The students will be able to choose the most efficient methods for the solution of each typical Numerical Analysis problem. The students are expected to understand the theorems and convergence conditions of each of the methods described, to be able to program them, to test them effectively on a computer and discuss the results obtained.</div><br /><p><strong>Specific: <br /><br /></strong>For each chapter in the program the students will be able to:<br /><br />- list the applicability conditions of the numerical methods and state the corresponding theorems of convergence<em>; <br /><br /></em>- apply the methods, formula and algorithms taught to real problems; <br /><br />- describe the behavior of the methods, translate them into algorithms and &#8216;Matlab Functions&#8217; as well as test them on examples comparing and analyzing the results; <br /><br />- explain the proofs of the theorems given and apply the proof techniques involved to other related situations; <br /><br />- solve new problems with the numerical tools here taught and compare the performance of the various numerical methods in terms of speed and accuracy.</p>
+
+## Resultados de aprendizagem e competências
+<div style=&quot;text-align: justify;&quot;>Upon completing the Numerical Analysis course, students should have developed the following competencies and achieved the following learning outcomes:<br /><br /><strong>1. Mastery of Numerical Methods and Convergence Theorems:<br /><br /></strong><br /><ul style=&quot;list-style-type: square;&quot;><br /><li>Understand and apply the main numerical methods covered in the course, identifying the conditions for their applicability and the respective convergence theorems.</li><br /><li>Demonstrate the ability to critically analyze the efficiency and robustness of the methods for different types of numerical problems.</li><br /></ul><br /><strong>2. Programming Skills and Computational Implementation:<br /><br /></strong><br /><ul style=&quot;list-style-type: square;&quot;><br /><li>Translate mathematical methods and algorithms into computational code, particularly in Matlab, by implementing functions that accurately solve numerical problems.</li><br /><li>Perform numerical simulations and interpret the results, adjusting parameters and refining solutions to achieve optimal accuracy.</li><br /></ul><br /><strong>3. Practical Application and Problem-Solving:<br /><br /></strong><br /><ul style=&quot;list-style-type: square;&quot;><br /><li>Apply the numerical methods learned to practical situations, such as solving nonlinear equations, numerical integration and differentiation, linear systems, and eigenvalue analysis.</li><br /><li>Analyze and solve new problems using the numerical tools studied, comparing the performance of different methods in terms of speed, precision, and robustness.</li><br /></ul><br /></div><br /><div style=&quot;text-align: justify; display: inline !important;&quot;><strong>4. Theoretical Analysis and Proof Skills:</strong></div><br /><div style=&quot;text-align: justify;&quot;><br /><ul><br /><li>Explain theorem proofs and apply theoretical concepts to new contexts, demonstrating a deep understanding of the underlying mathematical principles.</li><br /><li>Show the ability to derive new results or methods based on the concepts studied, applying logical and mathematical reasoning.</li><br /></ul><br /></div><br /><div style=&quot;text-align: justify; display: inline !important;&quot;><strong>5. Critical Thinking and Comparative Evaluation:</strong></div><br /><div style=&quot;text-align: justify;&quot;><br /><ul><br /><li>Critically assess the results obtained from simulations, discussing the accuracy, efficiency, and limitations of the numerical methods applied.</li><br /><li>Compare different numerical approaches, selecting the most appropriate one for each problem based on criteria such as convergence speed, ease of implementation, and robustness.</li><br /></ul><br /></div><br /><div style=&quot;text-align: justify;&quot;><strong>6. Communication Skills and Teamwork:</strong></div><br /><ul><br /><li style=&quot;text-align: justify;&quot;><br /><div>Develop the ability to clearly and objectively communicate technical concepts and results.</div><br /></li><br /><li><br /><div style=&quot;text-align: justify;&quot;>Collaborate effectively in teams, sharing ideas, discussing solutions, and contributing to the collective development of numerical projects.</div><br /></li><br /></ul>
+
+## Pré-requisitos e co-requisitos
+<p style="text-align: justify;">The students are supposed to know the subjects taught in Linear Algebra and Mathematical Analysis as well as in Computer programming.</p>
+
+## Programa
+<div style=&quot;text-align: justify;&quot;><strong>Chapter 1</strong> <br /><br />Number systems and errors; number systems on computers; representation of integers and floating point arithmetic; round-off error; absolute error and relative error, significant digits, Taylor's formula and error estimation; error analysis.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot;><br /><div><strong>Chapter 2</strong><br /><br />Linear systems of equations: Gaussian elimination. Round off errors and possible instability of the numerical methods, pivoting strategies. Solution of triangular systems. Tridiagonal systems. LU factorization; application to the computation of determinants and to the inversion of matrices. Iterative methods: Jacobi and Gauss-Seidel; convergence theorems and algorithms. Definition of truncation error, estimation of truncation errors for the previous methods.</div><br /><div> <br /><br /><div><strong>Chapter 3</strong><br /><br />Non linear equations: general conditions for the solution, stopping criteria for iterative methods; some iterative methods: successive bisection, fixed point iteration, Newton's method, secant method. Convergence theorems, estimation and upper bound of truncation errors, order of convergence.</div><br /><div> </div><br /></div><br /><div><strong>Chapter 4</strong><br /><br />Least squares approximation. Orthogonal polynomials. Curve fitting. Over-determined systems of equations.</div><br /><div> </div><br /><strong><br />Chapter 5</strong><br /><br />Polynomial interpolation: methods of Newton and Lagrange; error of the interpolating polynomial. Hermite interpolation and Splines. Numerical differentiation and divided differences.</div><br /><div style=&quot;text-align: justify;&quot;><br /><strong>Chapter 6</strong><br /><br />Numerical integration: Newton-Cotes formulae. Composite rules. Numerical integration errors. Gaussian quadrature.</div><br /><div style=&quot;text-align: justify;&quot;><br /><strong>Chapter 7</strong> <br /><br />Ordinary differential equations: Euler's method for ODE of order 1. Taylor methods. Order of a method for ODE of order 1. Runge-Kutta methods of order 2 and 4.</div>
+
+## Métodos de ensino e atividades de aprendizagem
+<table><br /><tbody><br /><tr><br /><td width=&quot;780&quot;><br /><div style=&quot;text-align: justify;&quot;>Theoretical expositions are primarily delivered on the board and through PowerPoint presentations, with a strong focus on Analysis and Algebra concepts. These sessions are accompanied, whenever possible, by motivating practical examples. Additional examples are suggested for students to test on the computer, allowing them to observe practical behavior, which is subsequently explained through the learned theory.<br /><br />In the laboratory sessions, students complete and present small projects proposed during the theoretical-practical classes. These projects are prepared outside of class hours in computer-equipped rooms with the necessary software. </div><br /></td><br /></tr><br /></tbody><br /></table>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 0.0 %
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 120.0 hours
+- Frequência das aulas: 45.5 hours
+
+## Fórmula de cálculo da classificação final
+<p><span style="text-decoration: underline;">The assessment of this curricular unit (u.c.) will be carried out as follows:</span></p>
+<ul>
+<li>
+<p>1st test, T1, mandatory, on a date to be communicated to students; this test will have a weight of 25% in the final grade; a minimum grade of 7 out of 20 is required;</p>
+</li>
+<li>
+<p>2nd test, T2, exclusively for students who scored 7 or higher in T1, and will only cover the topics after T1; this test will have a weight of 75% in the final grade and also requires a minimum grade of 7 out of 20;</p>
+</li>
+<li>
+<p>final exam, EF, TO BE TAKEN SIMULTANEOUSLY WITH THE 2nd TEST, which must be taken MANDATORILY by students who scored less than 7 in T1; however, any student may choose to take this exam instead of the 2nd test; the EF covers all the topics;</p>
+</li>
+<li>
+<p>retake exam, ER, will be taken by students who did not obtain the minimum grade in either T1 or T2, or who did not achieve an average of 10 in the two tests or in the EF exam, and also for grade improvement. This exam also covers all the topics.</p>
+</li>
+</ul>
+<p>The final grade, CF, will thus be obtained by: CF = 0.25 * T1 grade + 0.75 * T2 grade, provided that T1 &gt;= 7 and T2 &gt;= 7, or CF = EF grade, or CF = ER grade.</p>
+<p><span style="text-decoration: underline;">Important notes:</span></p>
+<ol>
+<li>A CF grade of 18 or higher (out of 20) is subject to an oral exam;</li>
+<li>Grades from assessment components from previous years are not considered and are not carried over to subsequent years;</li>
+<li>Grade improvement is done through an exam, according to the specific assessment regulations of FEUP. This exam will only be taken in the following term(s) after the final CF grade is determined.</li>
+</ol>
+
+## Obtenção de frequência
+<p>To obtain attendance, the student must comply with the specific assessment regulations of FEUP, particularly regarding the attendance of at least 75% of the curricular unit classes.</p>
+
+## Melhoria de classificação
+Grade improvement is done through an exam, according to the specific assessment regulations of FEUP. This exam will only be taken in the following term(s) after the final CF grade is determined.
+

@@ -1,0 +1,343 @@
+# Curso a analisar
+Mestrado em Mecânica Computacional
+
+## Descrição
+Acreditação pela A3ES
+O ciclo de estudo encontra-se acreditado pela Agência de Avaliação e Acreditação do Ensino Superior (A3ES).Mais informação pode ser encontrada nos
+relatórios produzidos pela A3ES
+.
+Course Overview
+The Master's Programme in Computational Mechanics (specializations in Solids and Fluids) offers an interdisciplinary education combining engineering principles and advanced computational methods. Students will acquire expertise in numerical modelling, simulation techniques, and the application of computational tools to solve complex engineering problems in solids, fluids, and interdisciplinary fields. The program emphasizes theoretical foundations and practical applications, preparing graduates for industry, research, and academic careers.
+Program Profile
+This program provides comprehensive training in computational mechanics, covering topics such as finite element methods, computational fluid dynamics, and structural analysis. Students will engage in hands-on projects, collaborative research, and exposure to industry practices. The curriculum is designed to develop skills in modelling, formulation, analysis, and implementation of simulation tools, fostering an innovative and entrepreneurial mindset essential for modern engineering challenges.
+Students will acquire:
+Advanced knowledge of computational algorithms for simulating solid and fluid behaviour.
+A deep understanding of modelling and analysis techniques applied to complex engineering systems.
+Skills to develop, optimize, and use computational tools for industrial and research applications. This program fosters innovation, autonomy, and responsibility, preparing students to excel in diverse professional settings.
+Expertise and Skills
+Graduates of this program will develop:
+Specialized knowledge in Computational Mechanics
+: Proficiency in advanced computational techniques and numerical methods, and ability to model and simulate complex mechanical systems.
+Advanced technical skills:
+Including developing, formulating, and analysing computational tools for the simulation of mechanical phenomena.
+Problem-solving capabilities
+: Strong analytical and problem-solving skills.
+Expertise in computational codes:
+Experience with industry-standard software and programming languages. Understanding existing simulation modules and customizing them for industrial applications.
+Soft skills:
+Capability to conduct independent research and contribute to innovative engineering solutions. Effective communication skills for multidisciplinary collaboration. Improve creativity, initiative, autonomy, and teamwork, ensuring readiness for a global job market.
+Professional Opportunities
+Graduates are uniquely positioned to serve as agents of change, driving technological and industrial advancements and being well-prepared for various roles in aerospace, automotive and civil engineering, advanced manufacturing, energy, bioengineering, and materials science sectors.
+Potential career paths include:
+Computational Engineer
+Simulation Specialist
+Structural Analyst
+Research and Development Engineer
+Academic Researcher or Lecturer
+The program also lays a solid foundation for those pursuing doctoral studies in related fields.
+Why Study Computational Mechanics?
+Computational Mechanics is a pivotal field in modern engineering, enabling the analysis and design of complex systems that are beyond the reach of traditional methods. By mastering computational techniques, graduates can innovate and optimize products and processes across various industries. Studying this discipline equips you with the skills to address contemporary engineering challenges, drive technological advancements, and contribute to developing efficient and sustainable solutions.
+Additional Note
+The Master’s Thesis serves as the program's culminating work, integrating knowledge from coursework into developing an original research project. This capstone enables students to apply advanced computational models to real-world challenges, solidifying their technical and analytical skills while contributing to the field’s ongoing development.
+Contactos
+Director of the Program:
+Professor José Joaquim da Mota Machado
+jjmm
+fe.up.pt
+Academic Management Services:
+Drª Cíntia Alves
+Drª Rosa Silva
+Telefone: 22 5081751/1642
+E-mail:
+mmc@fe.up.pt
+Office Hours: 10am-12pm and 2pm-4pm
+Room: L 007
+
+# Unidade curricular: Dinâmica de Estruturas Computacional
+
+## Ano: 1
+## Semestre: 2
+## Ramo(s) a que pertence: Sólidos
+## ECTS: 7.5
+## Objetivos: A disciplina tem por objectivos permitir que os estudantes desenvolvam conhecimentos:<br /><br />&#8226; que permitam a compreensão da fenomenologia das vibrações mecânicas; <br />&#8226; sobre métodos - incluindo métodos que se usam em mecânica computacional - para obter equações de movimento de estruturas e de sistemas mecânicos; <br />&#8226; sobre métodos, incluindo métodos computacionais, de resolução de equações de movimento; <br />&#8226; que permitam a análise e caracterização do movimento oscilatório de sistemas mecânicos e de estruturas.
+
+## Resultados de aprendizagem: <p>No final do período lectivo pretende-se que o\a estudante:</p>
+<ul>
+<li>conheça os conceitos básicos e a terminologia da teoria das vibrações mecânicas;</li>
+<li>conheça o comportamento tipo de sistemas canónicos;</li>
+<li>seja capaz de estabelecer modelos físicos/matemáticos discretos e contínuos unidimensionais para análise da vibração de sistemas mecânicos e estruturas, se necessário, recorrendo a métodos computacionais;</li>
+<li>saiba aplicar adequados métodos de solução, incluindo métodos computacionais, para determinação das características dinâmicas e da resposta de estruturas e de sistemas mecânicos sujeitos a solicitações dinâmicas;</li>
+<li>tenha conhecimentos úteis para o dimensionamento de sistemas mecânicos e de estruturas segundo critérios de comportamento dinâmico.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos: &#8226;Os estudantes devem possuir alguns conhecimentos de cálculo vectorial e matricial, de resolução de equações diferenciais, e de integração.
+
+# Unidade curricular: Mecânica dos Fluídos Avançada
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 7.5
+## Objetivos: <p>Analisar, compreender e caracterizar o comportamento dos fluidos newtonianos, não-newtonianos a macro e micro escala e seus escoamentos nos regimes laminar e turbulento.</p>
+<p>Ser capaz de identificar as técnicas a utilizar na resolução de escoamentos de engenharia e resolvê-los pelas vias analítico-numérico e experimental quando possível, e ao  mesmo tempo criar a base para a resolução de problemas de escoamentos mais complexos pela via dos conhecimentos complementares a adquirir no âmbito da Mecânica de Fluidos Computacional.</p>
+
+## Resultados de aprendizagem: Espírito crítico e capacidade de resolução de problemas complexos  de mecânica de fluidos e transferência de calor, seja envolvendo fluidos simples seja envolvendo fluidos de comportamento reológico complexo.
+
+## Pré-requisitos e co-requisitos: Análise Matemática I e II, Álgebra Linear e Geometria Analítica, Programação de Computadores, Análise Numérica, Mecânica I e  II,  Termodinâmica I e II, Mecânica de Fluidos I e II, e Transferência de Calor.<br /><br />É assumido um conhecimento profundo de equações diferenciais e sua integração.
+
+# Unidade curricular: Métodos Avançados de  Discretização
+
+## Ano: 2
+## Semestre: 1
+## Ramo(s) a que pertence: Fluidos, Sólidos
+## Grupo(s) de opção a que pertence: Unidades Curriculares Optativas - 2.º Grupo, Unidades Curriculares Optativas- 4.º Grupo
+## ECTS: 7.5
+## Objetivos: Apprehension of the fundamental concepts of available advanced discretization techniques (meshless methods). Developing the ability to use the knowledge acquired to solve simple computational mechanics problems using meshless methods.
+
+## Resultados de aprendizagem: Capability to design simple structures and mechanical components.
+
+## Pré-requisitos e co-requisitos: It is necessary to have basic knowledge in: Solid Mechanics, Approximation numerical techniques, Algebra, programming.
+
+# Unidade curricular: Reologia Computacional
+
+## Ano: 2
+## Semestre: 1
+## Ramo(s) a que pertence: Fluidos
+## Grupo(s) de opção a que pertence: Unidades Curriculares Optativas- 4.º Grupo
+## ECTS: 7.5
+## Objetivos: 
+
+## Resultados de aprendizagem: 
+
+# Unidade curricular: Processamento e Análise de Imagens em Engenharia
+
+## Ano: 1
+## Semestre: 2
+## Ramo(s) a que pertence: Sólidos
+## Grupo(s) de opção a que pertence: Unidades Curriculares Optativas - 1.º Grupo
+## ECTS: 7.5
+## Objetivos: <p>Objetivos Gerais:</p>
+<p>O domínio do Processamento e Análise de Imagem tem um elevado potencial em diversas áreas do conhecimento humano como, por exemplo, em inspeção visual, biomecânica, bio-engenharia, medicina, interfaces homem-máquina, videovigilância, biometria e realidade virtual.</p>
+<p><span style="font-size: 11px;">A Unidade Curricular de Processamento e Análise de Imagens em Engenharia tem uma perspetiva integradora, no sentido de que combina conhecimentos de diferentes áreas científicas; nomeadamente, da psicofísica e neurofisiologia, ciência de computadores, engenharia de sistemas, mecânica computacional e modelação de sistemas.</span></p>
+<p> </p>
+<p>Objetivos Específicos:</p>
+<p>Proporcionar aos estudantes conhecimentos abrangentes na área multidisciplinar do Processamento e Análise de Imagem, quer no âmbito dos processos da visão biológica, quer no âmbito dos métodos e sistemas computacionais de processamento e análise de imagem, nomeadamente em engenharia.</p>
+
+## Resultados de aprendizagem: <p><span style="font-size: 11px;">No final da Unidade Curricular Processamento e Análise de Imagens em Engenharia, os estudantes deverão ser capazes de:</span></p>
+<p>1. Entender o sistema de perceção visual humano;<br />2. Entender o processo de formação de imagens digitais;<br />3. Conhecer os principais métodos de processamento de imagem;<br />4. Conhecer os principais métodos de análise de imagem;<br />5. Explicar e desenvolver sistemas computacionais de representação e análise de objetos em imagens, de deteção, seguimento e análise de movimento e deformação em sequências de imagem bem como de reconstrução 3D de objetos a partir de imagens.</p>
+
+## Pré-requisitos e co-requisitos: <p><span style="font-size: 11px;">É desejável que os estudantes tenham prévios conhecimentos de programação de computadores.</span></p>
+
+# Unidade curricular: Hidráulica Computacional
+
+## Ano: 1
+## Semestre: 2
+## Ramo(s) a que pertence: Fluidos
+## Grupo(s) de opção a que pertence: Unidades Curriculares Optativas - 3.º Grupo
+## ECTS: 7.5
+## Objetivos: Revisão dos princípios fundamentais que regem os problemas mais frequentes da Hidráulica e aquisição de capacidade para: (i) formular e desenvolver soluções numéricas e os correspondentes modelos computacionais para os problemas mais simples; (ii) compreender e utilizar aplicações computacionais existentes para os problemas de formulação e resolução mais pesada e/ou complexa.
+
+## Resultados de aprendizagem: Conhecimento e compreensão dos conceitos fundamentais inerentes aos escoamentos com superfície livre e em pressão e à qualidade da água em sistemas de abastecimento de água.<br />Aplicação a exemplos de estudo, com particular ênfase na formulação, desenvolvimento e aplicação de modelos numéricos para a respectiva resolução.
+
+## Pré-requisitos e co-requisitos: Análise Matemática. Mecânica dos Fluidos. Programação Computacional.
+
+# Unidade curricular: Dissertação
+
+## Ano: 2
+## Semestre: None
+## Ramo(s) a que pertence: Sólidos, Fluidos
+## Grupo(s) de opção a que pertence: Unidades Curriculares Optativas - 2.º Grupo, Unidades Curriculares Optativas - 3.º Grupo
+## ECTS: 45.0
+## Objetivos: 
+
+## Resultados de aprendizagem: 
+
+# Unidade curricular: Mecânica dos Fluidos Computacional
+
+## Ano: 1
+## Semestre: 2
+## Ramo(s) a que pertence: Fluidos, Sólidos
+## Grupo(s) de opção a que pertence: Unidades Curriculares Optativas - 1.º Grupo
+## ECTS: 7.5
+## Objetivos: 
+
+## Resultados de aprendizagem: 
+
+# Unidade curricular: Dano e Fractura Computacional
+
+## Ano: 1
+## Semestre: 2
+## Ramo(s) a que pertence: Sólidos
+## Grupo(s) de opção a que pertence: Unidades Curriculares Optativas - 1.º Grupo
+## ECTS: 7.5
+## Objetivos: 
+
+## Resultados de aprendizagem: 
+
+# Unidade curricular: Mecânica do Contacto Computacional
+
+## Ano: 2
+## Semestre: 1
+## Ramo(s) a que pertence: Sólidos
+## Grupo(s) de opção a que pertence: Unidades Curriculares Optativas - 2.º Grupo
+## ECTS: 7.5
+## Objetivos: <p>Esta unidade curricular visa introduzir os conceitos fundamentais sobre a mecânica do contacto e os aspetos numéricos mais importantes da sua modelação. Adicionalmente fazem-se aplicações práticas do seu uso na modelação numérica de problemas de processos de fabrico em que o contacto corresponde a uma variável de primordial importância.</p>
+<p> </p>
+
+## Resultados de aprendizagem: <p>Espera-se que, no final do período lectivo, os estudantes tenham conhecimento dos métodos numéricos mais importantes da modelação do contacto com atrito, assim como da sua implementação através de programação. Pretende-se ainda que os conceitos estudados sejam aplicados na modelação de processos de fabrico envolvendo contacto, e.g., processos de conformação plástica de metais, em que o contacto das ferramentas com o material é responsável pela geometria final desejada do componente.</p>
+
+# Unidade curricular: Modelação da Agitação Marítima
+
+## Ano: 1
+## Semestre: 2
+## Ramo(s) a que pertence: Fluidos
+## Grupo(s) de opção a que pertence: Unidades Curriculares Optativas - 3.º Grupo
+## ECTS: 7.5
+## Objetivos: Understanding of the physical concepts of generation, propagation, deformation and dissipation of ocean waves sea. Understanding of the mathematical models for these concepts.
+
+## Resultados de aprendizagem: Competence for the use of computational tools to model the generation and propagation of waves and wave-structure interaction problems in the context of oceanography (sea wave prediction) and coastal engineering (simulating design scenarios).
+
+## Pré-requisitos e co-requisitos: Calculus; mechanics of vibrations; fluid mechnics; computer programming.
+
+# Unidade curricular: Métodos Avançados de  Discretização
+
+## Ano: 1
+## Semestre: 2
+## Ramo(s) a que pertence: Sólidos, Fluidos
+## Grupo(s) de opção a que pertence: Unidades Curriculares Optativas - 3.º Grupo, Unidades Curriculares Optativas - 1.º Grupo
+## ECTS: 7.5
+## Objetivos: Apprehension of the fundamental concepts of available advanced discretization techniques (meshless methods). Developing the ability to use the knowledge acquired to solve simple computational mechanics problems using meshless methods.
+
+## Resultados de aprendizagem: Capability to design simple structures and mechanical components.
+
+## Pré-requisitos e co-requisitos: It is necessary to have basic knowledge in: Solid Mechanics, Approximation numerical techniques, Algebra, programming.
+
+# Unidade curricular: Processamento e Análise de Imagens em Engenharia
+
+## Ano: 2
+## Semestre: 1
+## Ramo(s) a que pertence: Sólidos
+## Grupo(s) de opção a que pertence: Unidades Curriculares Optativas - 2.º Grupo
+## ECTS: 7.5
+## Objetivos: <p>Objetivos Gerais:</p>
+<p>O domínio do Processamento e Análise de Imagem tem um elevado potencial em diversas áreas do conhecimento humano como, por exemplo, em inspeção visual, biomecânica, bio-engenharia, medicina, interfaces homem-máquina, videovigilância, biometria e realidade virtual.</p>
+<p><span style="font-size: 11px;">A Unidade Curricular de Processamento e Análise de Imagens em Engenharia tem uma perspetiva integradora, no sentido de que combina conhecimentos de diferentes áreas científicas; nomeadamente, da psicofísica e neurofisiologia, ciência de computadores, engenharia de sistemas, mecânica computacional e modelação de sistemas.</span></p>
+<p> </p>
+<p>Objetivos Específicos:</p>
+<p>Proporcionar aos estudantes conhecimentos abrangentes na área multidisciplinar do Processamento e Análise de Imagem, quer no âmbito dos processos da visão biológica, quer no âmbito dos métodos e sistemas computacionais de processamento e análise de imagem, nomeadamente em engenharia.</p>
+
+## Resultados de aprendizagem: <p><span style="font-size: 11px;">No final da Unidade Curricular Processamento e Análise de Imagens em Engenharia, os estudantes deverão ser capazes de:</span></p>
+<p>1. Entender o sistema de perceção visual humano;<br />2. Entender o processo de formação de imagens digitais;<br />3. Conhecer os principais métodos de processamento de imagem;<br />4. Conhecer os principais métodos de análise de imagem;<br />5. Explicar e desenvolver sistemas computacionais de representação e análise de objetos em imagens, de deteção, seguimento e análise de movimento e deformação em sequências de imagem bem como de reconstrução 3D de objetos a partir de imagens.</p>
+
+## Pré-requisitos e co-requisitos: <p><span style="font-size: 11px;">É desejável que os estudantes tenham prévios conhecimentos de programação de computadores.</span></p>
+
+# Unidade curricular: Método dos Elementos Finitos
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 7.5
+## Objetivos: <p>A unidade curricular de Método dos Elementos Finitos visa dotar os estudantes de conhecimentos na área dos métodos numéricos para aplicação na simulação associada à mecânica estutural com especial  enfâse no Método dos Elementos Finitos.</p>
+Espera-se que, no final do período lectivo, os estudantes tenham adquirido conhecimentos que lhes permitam a utilização de ferramentas tendo em vista a construção de modelos (discretização, imposição de condições de contorno e propriedades de material) e a correta interpretação de resultados, pelo que devem ganhar competências ao nível elementar, tais como, a formulação de um elemento finito (estabelecimento da matriz de rigidez, cálculo do campo de deformações de de tensões).
+
+## Resultados de aprendizagem: <span style=&quot;font: 12px/normal Calibri, sans-serif; text-align: left; color: #222222; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; background-color: #f5f5f5; -webkit-text-stroke-width: 0px;&quot;>Os estudantes devem adquirir competências para efectuar uma análise relacionada com a mecânicaestrutural por recurso ao método dos elementos finitos.<br /><br /><br /></span>
+
+# Unidade curricular: Mecânica do Contacto Computacional
+
+## Ano: 1
+## Semestre: 2
+## Ramo(s) a que pertence: Sólidos
+## Grupo(s) de opção a que pertence: Unidades Curriculares Optativas - 1.º Grupo
+## ECTS: 7.5
+## Objetivos: <p>Esta unidade curricular visa introduzir os conceitos fundamentais sobre a mecânica do contacto e os aspetos numéricos mais importantes da sua modelação. Adicionalmente fazem-se aplicações práticas do seu uso na modelação numérica de problemas de processos de fabrico em que o contacto corresponde a uma variável de primordial importância.</p>
+<p> </p>
+
+## Resultados de aprendizagem: <p>Espera-se que, no final do período lectivo, os estudantes tenham conhecimento dos métodos numéricos mais importantes da modelação do contacto com atrito, assim como da sua implementação através de programação. Pretende-se ainda que os conceitos estudados sejam aplicados na modelação de processos de fabrico envolvendo contacto, e.g., processos de conformação plástica de metais, em que o contacto das ferramentas com o material é responsável pela geometria final desejada do componente.</p>
+
+# Unidade curricular: Métodos de Aproximação em Engenharia
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 7.5
+## Objetivos: <p>A disciplina visa introduzir os conceitos essenciais e uma base unificadora dos métodos numéricos mais utilizados em modelos computacionais na Mecânica dos Sólidos e dos Fluidos.</p>
+<p> </p>
+
+## Resultados de aprendizagem: <p>Pretende-se que o aluno adquira um conceito mais abrangente da natureza e aplicabilidade desses métodos e, consequentemente, alguma desenvoltura para abordar problemas diferentes daqueles por ele já estudados mas que podem ser tratados com os mesmos métodos.</p>
+
+# Unidade curricular: Mecanobiologia Computacional
+
+## Ano: 1
+## Semestre: 2
+## Ramo(s) a que pertence: Sólidos
+## Grupo(s) de opção a que pertence: Unidades Curriculares Optativas - 1.º Grupo
+## ECTS: 7.5
+## Objetivos: 
+
+## Resultados de aprendizagem: 
+
+# Unidade curricular: CFD com Transporte de Calor e Massa e Reacção Química
+
+## Ano: 1
+## Semestre: 2
+## Ramo(s) a que pertence: Fluidos
+## Grupo(s) de opção a que pertence: Unidades Curriculares Optativas - 1.º Grupo
+## ECTS: 7.5
+## Objetivos: 
+
+## Resultados de aprendizagem: 
+
+# Unidade curricular: Mecânica dos Sólidos Computacional
+
+## Ano: 1
+## Semestre: 2
+## Ramo(s) a que pertence: Sólidos, Fluidos
+## Grupo(s) de opção a que pertence: Unidades Curriculares Optativas - 1.º Grupo
+## ECTS: 7.5
+## Objetivos: 
+
+## Resultados de aprendizagem: 
+
+# Unidade curricular: Mecanobiologia Computacional
+
+## Ano: 2
+## Semestre: 1
+## Ramo(s) a que pertence: Sólidos
+## Grupo(s) de opção a que pertence: Unidades Curriculares Optativas - 2.º Grupo
+## ECTS: 7.5
+## Objetivos: 
+
+## Resultados de aprendizagem: 
+
+# Unidade curricular: Mecânica dos Meios Contínuos
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 7.5
+## Objetivos: <p>Apreensão dos conceitos fundamentais da Mecânica dos Sólidos. Desenvolvimento da capacidade da utilização dos conhecimentos adquiridos na resolução de problemas estruturais simples.</p>
+
+## Resultados de aprendizagem: <p>Capacidade de analisar e projetar estruturas e componentes mecânicos simples.</p>
+
+# Unidade curricular: Modelação da Agitação Marítima
+
+## Ano: 2
+## Semestre: 1
+## Ramo(s) a que pertence: Fluidos
+## Grupo(s) de opção a que pertence: Unidades Curriculares Optativas- 4.º Grupo
+## ECTS: 7.5
+## Objetivos: Understanding of the physical concepts of generation, propagation, deformation and dissipation of ocean waves sea. Understanding of the mathematical models for these concepts.
+
+## Resultados de aprendizagem: Competence for the use of computational tools to model the generation and propagation of waves and wave-structure interaction problems in the context of oceanography (sea wave prediction) and coastal engineering (simulating design scenarios).
+
+## Pré-requisitos e co-requisitos: Calculus; mechanics of vibrations; fluid mechnics; computer programming.
+
+# Unidade curricular: Hidráulica Computacional
+
+## Ano: 2
+## Semestre: 1
+## Ramo(s) a que pertence: Fluidos
+## Grupo(s) de opção a que pertence: Unidades Curriculares Optativas- 4.º Grupo
+## ECTS: 7.5
+## Objetivos: Revisão dos princípios fundamentais que regem os problemas mais frequentes da Hidráulica e aquisição de capacidade para: (i) formular e desenvolver soluções numéricas e os correspondentes modelos computacionais para os problemas mais simples; (ii) compreender e utilizar aplicações computacionais existentes para os problemas de formulação e resolução mais pesada e/ou complexa.
+
+## Resultados de aprendizagem: Conhecimento e compreensão dos conceitos fundamentais inerentes aos escoamentos com superfície livre e em pressão e à qualidade da água em sistemas de abastecimento de água.<br />Aplicação a exemplos de estudo, com particular ênfase na formulação, desenvolvimento e aplicação de modelos numéricos para a respectiva resolução.
+
+## Pré-requisitos e co-requisitos: Análise Matemática. Mecânica dos Fluidos. Programação Computacional.
+

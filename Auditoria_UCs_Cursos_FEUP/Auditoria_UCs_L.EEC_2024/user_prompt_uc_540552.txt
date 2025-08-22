@@ -1,0 +1,138 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Fundamentos de Processamento de Sinal
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+Esta unidade curricular (UC) pretende motivar os estudantes para o domínio de conceitos fundamentais, técnicas e ferramentas de análise e projeto na área do Processamento de Sinal (PS). É dada particular ênfase aos tópicos de amostragem e reconstrução de sinal; Transformada Z; projeto e realização de filtros do tipo FIR e IIR; Transformada Discreta de Fourier (DFT) e seu cálculo rápido através da FFT; aplicações práticas da DFT mormente em estudos de correlação e análise espectral; introdução à filtragem linear adaptativa. Um objetivo central é capacitar os estudantes para a resolução de problemas de processamento de sinal e motivar para a experimentação laboratorial através do projeto, ensaio e validação prática de soluções para desafios selecionados numa abordagem de &quot;active learning&quot;, &quot;hands-on&quot; e &quot;learning-by-doing&quot;.
+
+## Resultados de aprendizagem e competências
+<p>A frequência e conclusão bem sucedida desta unidade curricular permitirá aos estudantes</p>
+<p>-compreender o processo de amostragem e reconstrução de sinal e antecipar as suas implicações quando aplicado a sinais reais;</p>
+<p>-projetar, implementar e testar filtros digitais FIR e IIR mediante objetivos especificados de operação e condicionamento de sinal, incluindo na filtragem adaptativa;</p>
+<p>-dominar a DFT, suas propriedades circulares e alternativas de implementação rápida (FFT);</p>
+-saber identificar e concretizar potencialidades de aplicação da DFT, nomeadamente na filtragem FIR rápida, em estudos de correlação e na análise espectral de sinal.
+
+## Pré-requisitos e co-requisitos
+Sinais e Sistemas (L.EEC015), ou equivalente
+
+## Programa
+1. Caracterização e representação de sinais e sistemas discretos. Sinais discretos determinísticos e aleatórios.<br />2. Transformada de Fourier em tempo discreto. Propriedades e pares de transformadas.<br />3. Amostragem e reconstrução de sinais. Teorema da amostragem e 'aliasing'. Processamento discreto de sinais contínuos.<br />4. A Transformada Z. Condições de estabilidade e causalidade. Caracterização no domínio Z de sistemas discretos FIR e IIR.<br />5. Sistema inverso, passa-tudo, sistemas de fase mínima, linear e máxima. Sistemas FIR de fase linear.<br />6. Projeto de filtros discretos IIR e FIR e suas estruturas de realização.<br />7. Introdução à filtragem linear adaptativa.<br />8. A Transformada de Fourier Discreta (DFT) e suas propriedades periódicas.<br />9. Cálculo da DFT através da Fast Fourier Transform (FFT).<br />10. Aplicação da FFT na convolução FIR rápida, no cálculo da correlação e na estimação espectral.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A metodologia de ensino apoia-se em aulas teóricas -T (2h/semana) e aulas laboratoriais -PL (2h/semana).<br /> <br /> As aulas teóricas não se destinam à apresentação clássica de conteúdos. Ao invés, presumem um postura de "active learning" por parte dos estudantes já que, sempre que possível, estas aulas adotarão o princípio de "flipped classroom" segundo o qual a componente expositiva dos conteúdos teóricos será disponibilizada em vídeo e para visionamento fora das aulas.<br /> <br /> O foco das aulas teóricas será, portanto, i) o resumo dos conteúdos teóricos da UC e, sempre que oportuno, a sua discussão e ilustração aplicada, ii) a introdução a problemas ilustrativos de aplicação dos conceitos teóricos e aos temas de trabalhos de laboratório, e iii) a motivação para Questões de Verificação como uma forma de avaliação distribuída.<br /> <br /> As aulas laboratoriais incluem duas componentes, ambas com impacto na avaliação distribuída (AD): i) a resolução convencional, ou em ambiente Matlab, de problemas práticos, sobretudo numa perspetiva &#8220;peer-to-peer learning/teaching&#8221; (componente ponderada a 25% na AD), e ii) a realização de trabalhos laboratoriais em grupos de 4 estudantes usando uma plataforma de processamento digital de sinal em tempo-real (componente ponderada a 50% na AD).<br /> <br /> A avaliação decorrente das aulas laboratoriais (PL) é ponderada a 75% na avaliação distribuída no final do semestre. A restante componente de 25% decorre da resposta a micro-testes rápidos (quizzes), durando 10 minutos cada, a responder via Moodle em horário extra-aula a combinar com os estudantes. A classificação de avaliação distribuída é combinada (peso de 50%) com a classificação de um exame final (peso 50%) para produzir a classificação final.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Participação presencial: 12.5 %
+- Exame: 50.0 %
+- Trabalho laboratorial: 37.5 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho laboratorial: 26.0 horas
+- Trabalho de campo: 24.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>O exame final consta de uma prova escrita com a duração de duas horas, sem consulta de apontamentos para além do formulário da unidade curricular.</p>
+<p>A classificação final (C) será obtida da classificação da frequência (F&gt;=10.0), correspondendo à classificação de AD, e da classificação da prova escrita (E&gt;=6.0) através da fórmula</p>
+<p> </p>
+<p>C = 0.5×F + 0.5×E.</p>
+<p> </p>
+<p>A classificação final está condicionada à obtenção da classificação mínima de 6 valores (em 20) na prova escrita e à obtenção da classificação mínima de 10 valores (em 20) na componente de AD.</p>
+Todas as classificações referem-se à escala [0, 20].
+
+## Obtenção de frequência
+<p>A obtenção de frequência é indispensável para acesso ao exame final.</p>
+A classificação de frequência (F) é dada aos estudantes que não excedam o limite de faltas (previsto nas Normas Gerais de Avaliação) e tenham efetuado os micro-testes online e preparado e realizado os trabalhos práticos e de laboratório solicitados para avaliação distribuída (AD).<br /><br />Os micro-testes online são realizados individualmente e alguns trabalhos práticos, assim como os de laboratório, são realizados/avaliados em grupos de 4 estudantes.<br /><br />Os micro-testes online (Questões de Verificação) são realizados via Moodle em horário extra-aula a combinar com os estudantes e representam 25% da AD.<br /><br />Nas aulas PL, serão propostos exercícios para  realização individual, mas avaliados em grupo, numa perspetiva &#8220;peer-to-peer&#8221;, e são ponderados a 25% na AD. Os trabalhos de laboratório são avaliados pelo Docente nas aulas PL e são ponderados a 50% na AD.
+
+## Melhoria de classificação
+Pelo facto da classificação de frequência (F) fundamentar-se em diversas componentes avaliadas em diferentes tipos de aula e ao longo do semestre, a classificação de frequência não é passível de melhoria através de alguma modalidade de substituição no final do semestre. Em consequência, só o exame final (E) é passível de melhoria de acordo com as regras em vigor.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Fundamentals of Signal Processing
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+This course aims to motivate students to the fundamental concepts, techniques and tools of analysis and design in the field of Signal Processing (SP). A particular emphasis is given to specific topics, notably sampling and reconstruction of signals; the Z-Transform; the design and realization of FIR and IIR filters; the Discrete Fourier Transform (DFT) and its fast computation through the FFT; practical applications of the DFT mainly in correlation studies and spectral analysis; introduction to linear adaptive filtering. A central objective is to empower students to solve signal processing-related problems and to motivate them to laboratory experimentation through the design, testing, and practical validation of solutions for selected challenges by following a &quot;hands-on&quot;, &quot;learning-by-doing&quot;, and &quot;active learning&quot; approach.
+
+## Resultados de aprendizagem e competências
+<p>Attendance and successful completion of this course will enable students</p>
+<p>-to understand the process of sampling and signal reconstruction and to anticipate its implications when applied to real signals;</p>
+<p>-to design, implement and test digital FIR and IIR filters according to specific operation and signal conditioning requirements, including in adaptive filtering;</p>
+<p>-to fully understand the DFT, its circular properties, and fast implementation alternatives (FFT);</p>
+-to be able to identify and realize potential applications of the DFT, particularly in fast FIR filtering, correlation studies, and in spectral analysis.
+
+## Pré-requisitos e co-requisitos
+Signals and Systems (L.EEC015), or equivalent
+
+## Programa
+1. Characterization and representation of discrete-time signals and systems. Discrete-time deterministic and random signals.<br />2. The discrete-time Fourier Transform. Properties and transform pairs.<br />3. Sampling and reconstruction of signals. The sampling theorem and aliasing. Discrete-time processing of continuous-time signals.<br />4. The Z-Transform. Causality and stability conditions. Characterization in the Z domain of FIR and IIR discrete-time systems.<br />5. Inverse systems, all-pass systems, minimum-phase, linear-phase, and maximum-phase systems. FIR linear-phase systems.<br />6. Design of discrete-time IIR and FIR filters and their realization structures<br />7. Introduction to linear adaptive filtering.<br />8. The Discrete Fourier Transform (DFT) and its periodic properties.<br />9. The computation of the DFT using the Fast Fourier Transform (FFT).<br />10. Application of the FFT in FIR fast-convolution, in correlation studies, and in spectral estimation.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The teaching methodology is based on lectures -T (2h/week) and laboratory classes -PL (2h/week).</p>
+<p>Lectures are not intended for the classical presentation of the course contents. Instead, they assume an "active learning" attitude on the part of the students given that, whenever possible, these classes will adopt the "flipped classroom" principle, according to which the theory presentation of the course topics will be made available on video and for viewing outside the classes.</p>
+<p>The focus of lectures will therefore be i) the summary of the theory related to the course topics and, whenever appropriate, their discussion and illustrative application, ii) the introduction to problems illustrating the application of the theory, and the themes of laboratory assignments, and iii) the motivation for Verification Questions as a form of distributed assessment.</p>
+<p>The laboratory classes include two components, both with an impact on distributed assessment (DA): i) the discussion of conventional or Matlab-based exercises, especially from a "peer-to-peer learning/teaching" perspective (25% weighting on the DA), and ii) the realization of laboratory experiments in groups of 4 students using a real-time digital signal processing platform (50% weighting on the DA).</p>
+<p>The assessment resulting from laboratory classes (PL) is weighted at 75% in the final distributed assessment at the end of the semester. The remaining 25% comes from the response to quick micro-tests (quizzes), for 10 minutes each, to be answered via Moodle at an extra-class time to be decided with students. The distributed assessment score is combined (50% weight) with the final exam score (50% weight) to produce the final grade.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Participação presencial: 12.5 %
+- Exame: 50.0 %
+- Trabalho laboratorial: 37.5 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho laboratorial: 26.0 hours
+- Trabalho de campo: 24.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final exam consists of a written exam lasting 2 hours. This exam is closed book but a formulae sheet will be provided.</p>
+<p>The final grade (C) is obtained by combining the participation score (F&gt;=10.0) corresponding to the DA score, and the score of the written exam (E&gt; = 6.0) using the formula</p>
+<p> </p>
+<p>C = 0.5×F + 0.5×E.</p>
+<p> </p>
+<p>The final grade is conditional on a minimum score of 6.0/20 in the written exam and a minimum score of 10.0/20 in the DA component.</p>
+All scores/grades presume the [0, 20] range.
+
+## Obtenção de frequência
+<p>Attending T and PL classes and obtaining an attendance grade is essential for admission to the final exam.</p>
+The attendance grade (F) is given to students who do not exceed the absence limit (according to the FEUP General Assessment Regulation) and who have taken the online quizzes and prepared and performed the practical and laboratory work requested for distributed assessment (DA).<br /><br />Online quizzes are carried out individually and some practical work, as well as laboratory work, are carried out in groups of 4 students.<br /><br />Online quizzes (Verification Questions) are answered via Moodle at an extra-class time to be decided with students and represent 25% of DA.<br /><br />Exercises will be proposed in PL classes to be solved individually, but evaluated in groups, in a &#8220;peer-to-peer&#8221; perspective, and are weighted at 25% in DA. Laboratory work is assessed in PL classes by the Instructor and is weighted at 50% in DA.
+
+## Melhoria de classificação
+Due to the fact that the participation score (F) is based on several components evaluated in different types of classes and throughout the semester, the participation score is not subject to improvement through any modality replacing it at the end of the semester. As a consequence, only the final exam score (E) can be improved according to the current rules.
+

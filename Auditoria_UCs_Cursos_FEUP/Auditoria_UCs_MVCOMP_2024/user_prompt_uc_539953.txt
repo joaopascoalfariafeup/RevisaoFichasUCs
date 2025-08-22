@@ -1,0 +1,110 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Descrição e Modelação de Imagem
+
+## Curso responsável
+Mestrado em Visão por Computador
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+O objetivo desta unidade curricular é familiarizar-se com as características fundamentais da imagem digital e as suas formas de representação, a descrição do conteúdo visual através de características locais de cor, forma e textura, e a aplicação prática destes conceitos a problemas de processamento de imagem.
+
+## Resultados de aprendizagem e competências
+Competências do programa de estudos: Específicas<br />A1 CE1 &#8211; Conhecer e aplicar os conceitos, metodologias e tecnologias de processamento de imagem<br /><br />Competências do programa de estudos: Básico/Geral<br />B1 CB6 &#8211; Possuir e compreender conhecimentos que proporcionem uma base ou oportunidade para ser original no desenvolvimento e/ou aplicação de ideias, muitas vezes num contexto de investigação<br />B2 CB7 &#8211; Os estudantes podem aplicar os conhecimentos adquiridos e as competências de resolução de problemas em ambientes novos ou desconhecidos, em contextos mais amplos (ou multidisciplinares) relacionados com a sua área de estudo<br />B6 CG1 &#8211; Capacidade de analisar e sintetizar conhecimentos<br />B8 CG3 &#8211; Capacidade de desenvolver sistemas de visão por computador em função das necessidades existentes e aplicar as ferramentas tecnológicas mais adequadas<br /><br />Competências do programa de estudos: Transversal / Nuclear<br />C1 CT1 &#8211; Exercer a profissão com uma clara consciência das suas dimensões humana, económica, jurídica e ética e com um claro compromisso com a qualidade e a melhoria contínua<br />C2 CT2 &#8211; Capacidade de trabalhar em equipa, organizar e planear
+
+## Pré-requisitos e co-requisitos
+Subjects that are recommended to be taken simultaneously:<br /><br /><ul><br /><li>Fundamentals of Machine Learning for Computer Vision</li><br /><li>Fundamentals of Image Analysis and Processing</li><br /></ul>
+
+## Programa
+Representação e modelação de imagem: espaço-frequência, orientação e fase, espaço-escala.<br />Wavelets e bancos de filtros.<br />Codificação e reconstrução de imagem.<br />Descrição da cor, forma e textura.<br />Aplicações de modelação e descrição de imagens.
+
+## Métodos de ensino e atividades de aprendizagem
+Palestra/apresentação convidada:<br />Aulas participativas para conhecer o conteúdo teórico da disciplina<br /><br />Estudo de caso:<br />Elaboração e apresentação de metodologias selecionadas do estado da arte relacionadas com o tema.<br /><br />Teste objetivo:<br />Testes contínuos de autoavaliação durante o curso. Avaliação por exame no final do curso como alternativa.<br /><br />Prática laboratorial:<br />Análise e resolução de casos práticos para reforçar a aplicação prática dos conteúdos teóricos. Prática em salas de informática, aprendizagem baseada na resolução de casos práticos, trabalho autónomo e estudo independente dos alunos, e em grupo<br />trabalho e a aprendizagem cooperativa.<br /><br />Investigação (projeto de investigação):<br />A aprendizagem assenta na resolução de casos práticos, no trabalho autónomo e estudo independente dos alunos, e no trabalho de grupo e na aprendizagem cooperativa.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Teste: 25.0 %
+- Apresentação/discussão de um trabalho científico: 15.0 %
+- Trabalho laboratorial: 40.0 %
+- Trabalho prático ou de projeto: 20.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 40.0 horas
+- Frequência das aulas: 42.0 horas
+- Apresentação/discussão de um trabalho científico: 20.0 horas
+- Elaboração de projeto: 20.0 horas
+- Trabalho laboratorial: 40.0 horas
+
+## Fórmula de cálculo da classificação final
+Estudo de caso (15).<br />Competências: A1 B1 B2 B6 B8 C1 C2<br />Elaboração e apresentação de trabalhos sobre o estado da arte selecionado<br /><br />Teste objetivo (25):<br />Competências: A1 B1 B2 B6 B8 C2 C1<br />Testes contínuos de autoavaliação durante o curso. Avaliação por exame no final do curso como alternativa<br /><br />Prática laboratorial (40)<br />Competências: A1 B1 B2 B6 B8 C1 C2<br />Análise e resolução de casos práticos para fortalecer a aplicação prática dos conteúdos teóricos<br /><br />Projeto de investigação (20):<br />Competências:A1 B1 B2 B6 B8 C1 C2<br />Resolução de casos práticos de aplicação da matéria através de trabalho autónomo do aluno e com recurso às técnicas aprendidas ao longo do curso
+
+## Obtenção de frequência
+Realização dos trabalhos práticos/projetos propostos ao longo do semestre.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Image description and modeling
+
+## Curso responsável
+Master in Computer Vision
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+The aim of this course is to become familiar with the fundamental characteristics of the digital image and its forms of representation, the description of visual content through local characteristics of colour, shape and texture, and the practical application of these concepts to problems of image processing and analysis.
+
+## Resultados de aprendizagem e competências
+Study programme competencies: Specific<br />A1 CE1 &#8211; To know and apply the concepts, methodologies and technologies of image processing<br /><br />Study programme competencies: Basic / General<br />B1 CB6 &#8211; To possess and understand knowledge that provides a basis or opportunity to be original in the development and/or application of ideas, often in a research context<br />B2 CB7 &#8211; Students can apply their acquired knowledge and problem-solving skills in new or unfamiliar environments within broader (or multidisciplinary) contexts related to their area of study<br />B6 CG1 &#8211; Ability to analyze and synthesize knowledge<br />B8 CG3 &#8211; Ability to develop computer vision systems depending on existing needs and apply the most appropriate technological tools<br /><br />Study programme competencies: Transversal / Nuclear<br />C1 CT1 &#8211; Practice the profession with a clear awareness of its human, economic, legal and ethical dimensions and with a clear commitment to quality and continuous improvement<br />C2 CT2 &#8211; Ability to work as a team, organize and plan
+
+## Pré-requisitos e co-requisitos
+Unidades curriculares que são recomendadas para serem frequentadas em simultâneo:<br /><br /><ul><br /><li>Fundamentos de aprendizagem automática para visão computacional</li><br /><li>Fundamentos de análise e processamento de imagem</li><br /></ul>
+
+## Programa
+Image representation and modelling: space-frequency, orientation and phase, space-scale.<br />Wavelets and filter banks.<br />Image coding and reconstruction.<br />Description of colour, shape and texture.<br />Applications of modelling and description of images.
+
+## Métodos de ensino e atividades de aprendizagem
+Guest lecture/keynote:<br />Participatory lectures to learn the theoretical content of the subject<br /><br />Case study:<br />Elaboration and presentation of selected state-of-the-art methodologies related to the subject.<br /><br />Objective test:<br />Continuous self-evaluation tests during the course. Evaluation by examination at the end of the course as an alternative.<br /><br />Laboratory practice:<br />Analysis and resolution of practical cases to strengthen the practical application of the theoretical content. Practice in computer classrooms, learning based on the resolution of practical cases, autonomous work and independent study of the students, and group<br />work and cooperative learning.<br /><br />Research (Research project):<br />Learning is based on the resolution of practical cases, autonomous work and independent study of the students, and group work and cooperative learning.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Teste: 25.0 %
+- Apresentação/discussão de um trabalho científico: 15.0 %
+- Trabalho laboratorial: 40.0 %
+- Trabalho prático ou de projeto: 20.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 40.0 hours
+- Frequência das aulas: 42.0 hours
+- Apresentação/discussão de um trabalho científico: 20.0 hours
+- Elaboração de projeto: 20.0 hours
+- Trabalho laboratorial: 40.0 hours
+
+## Fórmula de cálculo da classificação final
+Case study (15).<br />Competences: A1 B1 B2 B6 B8 C1 C2<br />Elaboration and presentation of works on selected state-of-the-art<br /><br />Objective test (25):<br />Competences: A1 B1 B2 B6 B8 C2 C1<br />Continuous self-evaluation tests during the course. Evaluation by examination at the end of the course as an alternative<br /><br />Laboratory practice (40)<br />Competences: A1 B1 B2 B6 B8 C1 C2<br />Analysis and resolution of practical cases to strengthen the practical application of theoretical content<br /><br />Research project (20):<br />Competences:A1 B1 B2 B6 B8 C1 C2<br />Resolution of practical cases of application of the subject through autonomous work of the student and using the techniques learned during the course
+
+## Obtenção de frequência
+Carrying out practical work/projects proposed throughout the semester.
+

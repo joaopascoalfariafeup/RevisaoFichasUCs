@@ -1,0 +1,108 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Robótica
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+A. Compreender o funcionamento e utilização de sistemas robóticos.<br /><br />B. Dominar os aspetos tecnológicos envolvidos na conceção, nas características de funcionamento, na<br />programação e nas aplicações de sistema robotizados.
+
+## Resultados de aprendizagem e competências
+No final os estudantes estarão habilitados a:<br /><br />- Conhecer os diferentes tipos de sensores utilizados em robótica.<br /><br />- Compreender os diferentes módulos que constituem um robô móvel.<br /><br />- Fazer uma análise da cinemática direta e inversa de um manipulador.<br /><br />- Compreender algoritmos de controlo de velocidade, posição e força.<br /><br />- Compreender os diversos componentes de uma célula ou um sistema robótico.<br /><br />- Analisar as diferentes configurações cinemáticas de robôs móveis.<br /><br />- Programar manipuladores industriais.
+
+## Pré-requisitos e co-requisitos
+Álgebra, cálculo matricial, trigonometria.
+
+## Programa
+I. Introdução à robótica, sua evolução e tendências futuras.<br />II. Diferentes configurações de robôs móveis e manipuladores.<br />III. Sensores e atuadores normalmente utilizados em robótica. Sistemas inerciais.<br />IV. Princípios do Controlo de Robôs: Controlo de velocidade; Controlo de posição; Controlo de força<br />V. Representação de rotações (matrizes, quaterniões, ângulos de Euler)<br />VI. Transformações homogéneas<br />VII. Análise da Cinemática direta de manipuladores pelo método Denavit-Hartenberg<br />VIII. Análise da Cinemática inversa de manipuladores.<br />IX. O Jacobiano de um manipulador. Singularidades, velocidades, forças e binários.<br />X. Simuladores, arquiteturas e ferramentas de apoio ao desenvolvimento de aplicações robóticas.<br />XI. Linguagens de Programação de manipuladores e tipo de trajetórias.<br />XII. Células robotizadas. Células e manipuladores colaborativos.<br />XIII. Análise da Cinemática de robôs móveis.<br />XIV. Introdução à estimação da localização de robôs móveis.
+
+## Métodos de ensino e atividades de aprendizagem
+* A lecionação da disciplina desenvolve-se em aulas teóricas e laboratoriais/práticas.<br />- Aulas teóricas: exposição formal da matéria, sempre que possível acompanhada de exemplos.<br />- Aulas laboratoriais/práticas: realização de trabalhos práticos em grupo com situações reais e/ou simuladas.<br />* É proposto um trabalho prático para desenvolvimento e avaliação contínua do qual se deve realizar um<br />relatório/apresentação final de forma individual. O trabalho consiste no desenvolvimento em simulador de uma célula<br />robotizada e programação do manipulador para efetuar uma tarefa especificada. Posteriormente o programa<br />desenvolvido poderá ser implementado e testado num manipulador real.
+
+## Tipo de avaliação
+Avaliação por exame final
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Participação presencial: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 80.0 horas
+- Frequência das aulas: 45.5 horas
+- Trabalho escrito: 36.5 horas
+
+## Fórmula de cálculo da classificação final
+(Exame final)*0.75 + (avaliação nas aulas práticas)*0.25
+
+## Obtenção de frequência
+Regras gerais aplicadas na FEUP, presença e participação nas aulas práticas, média igual ou superior a 7 na avaliação distribuida realizada nas aulas práticas.
+
+## Melhoria de classificação
+No exame de melhoria de classificação apenas a componente relativa ao exame final pode ser melhorada. A componente relativa à avaliação distribuída não pode ser melhorada.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Robotics
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+A. Understand the operation and use of robotic systems.<br /><br />B. Master the technological aspects involved in the design, operating characteristics, programming and<br />robotic system applications.
+
+## Resultados de aprendizagem e competências
+In the end students will be able to:<br /><br />- Know the different types of sensors used in robotics.<br /><br />- Understand the different modules that make up a mobile robot.<br /><br />- Perform an analysis of the direct and inverse kinematics of a manipulator.<br /><br />- Understand speed, position and force control algorithms.<br /><br />- Understand the various components of a cell or a robotic system.<br /><br />- Analyze the different kinematic configurations of mobile robots.<br /><br />- Program industrial manipulators.
+
+## Pré-requisitos e co-requisitos
+Algebra, matrix calculus, trigonometry.
+
+## Programa
+I. Introduction to robotics, its evolution and future trends.<br />II. Different configurations of mobile robots and manipulators.<br />III. Sensors and actuators normally used in robotics. Inertial systems.<br />IV. Principles of Robot Control: Speed control; Position control; Force control<br />V. Representation of rotations (matrices, quaternions, Euler angles)<br />VI. Homogeneous transformations<br />VII. Direct kinematics analysis of manipulators by the Denavit-Hartenberg method<br />VIII. Inverse kinematics analysis of manipulators.<br />IX. The Jacobian of a manipulator. Singularities, velocities, forces and binaries.<br />X. Simulators, architectures and tools to support the development of robotic applications.<br />XI. Programming languages of manipulators and type of trajectories.<br />XII. Robotic cells. Collaborative cells and collaborative manipulators.<br />XIII. Analysis of the kinematics of mobile robots.
+
+## Métodos de ensino e atividades de aprendizagem
+* The teaching of this course is developed in theoretical and laboratory lessons.<br />* Lectures: formal theoretical basis exhibition, wherever possible with real application examples.<br />* Laboratory/practical: exploration of some existing software and implementation of practical work with real situations<br />(work in group).<br />* It is proposed a practical work for continuous evaluation and development, which must have an individual final<br />report/presentation. The work consists of the development, in simulation, of a robotic cell and programming the<br />manipulator to perform a specified task. Later the developed program could be implemented and tested in a real<br />manipulator.
+
+## Tipo de avaliação
+Evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Participação presencial: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 80.0 hours
+- Frequência das aulas: 45.5 hours
+- Trabalho escrito: 36.5 hours
+
+## Fórmula de cálculo da classificação final
+(Final exam)*0.75 + (average evaluation in practical classes)*0.25
+
+## Obtenção de frequência
+General rules applied at FEUP, attendance and participation in practical classes, average of 7 or more in the distributed evaluation carried out in practical classes.
+
+## Melhoria de classificação
+In the grade improvement examination, only the final examination component can be improved. The distributed assessment component cannot be upgraded.
+

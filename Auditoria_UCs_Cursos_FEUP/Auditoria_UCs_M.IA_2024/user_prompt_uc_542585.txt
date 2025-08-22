@@ -1,0 +1,114 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Inteligência Artificial e Sociedade
+
+## Curso responsável
+Mestrado em Inteligência Artificial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Esta UC tem como principal objectivo capacitar os estudantes com conhecimentos fundamentais e técnicos sobre o impacto e os desafios da Inteligência Artificial (IA) no contexto social e ético. Para isso, serão abordados vários temas atualmente discutidos tanto na investigação como na indústria relativos ao desenvolvimento e implementação de sistemas de IA em diversos domínios da vida quotidiana.
+
+## Resultados de aprendizagem e competências
+A UC visa preparar os estudantes para reconhecer, mitigar, e solucionar os desafios que emergem no decorrer do desenvolvimento de sistemas de IA com aplicações na sociedade. No decorrer da UC, é esperado que os estudantes desenvolvam as seguintes competências:<br /><br /><ul><br /><li>Compreender as implicações da integração da IA na sociedade atual, nas suas vertentes sociais, éticas e técnicas;</li><br /><li>Avaliar criticamente a qualidade e complexidade dos dados e o seu impacto nos sistemas de IA;</li><br /><li>Quantificar e mitigar os desafios relacionados com as características intrínsecas dos dados, nomeadamente os problemas de missing data e imbalanced data;</li><br /><li>Identificar possíveis vieses existentes em aplicações de IA e implementar estratégias para a sua correção, promovendo a construção de sistemas de IA justos e equitativos.</li><br /><li>Implementar e discutir técnicas que promovam a explicabilidade dos sistemas de IA, fomentando a sua transparência e adoção;</li><br /><li>Reconhecer os desafios de privacidade em IA e propor soluções para a sua preservação.</li><br /></ul>
+
+## Pré-requisitos e co-requisitos
+Conhecimentos prévios dos fundamentos de Inteligência Artificial e Ciência de Dados (e.g., processamento de dados, construção e avaliação de modelos de aprendizagem supervisionada e não-supervisionada). Conhecimentos intermédios de programação na linguagem Python.
+
+## Programa
+Esta UC está estruturada em 10 módulos fundamentais:<br /><br /><ol><br /><li>Introdução à IA e Sociedade: implicações, riscos, benefícios e impacto ético e social.</li><br /><li>IA Centrada nos Dados (<em>Data-Centric AI)</em>. O papel da qualidade dos dados no resultado dos modelos de IA. Características intrínsecas dos dados. Estratégias e ferramentas de <em>data profiling</em> e validação de dados.</li><br /><li>Complexidade dos problemas de classificação. Medidas de complexidade dos dados e meta-aprendizagem.</li><br /><li>Tratamento de dados desequilibrados (<em>imbalanced data</em>). Quantificação, principais estratégias de mitigação e avaliação.</li><br /><li>Tratamento de dados em falta (<em>missing data</em>). Quantificação, principais estratégias de mitigação e avaliação.</li><br /><li>Viés e Justiça em IA. Fontes de viés nos dados e modelos de IA. Estratégias de identificação e mitigação.</li><br /><li>Explicabilidade em IA. Estratégias para promoção da transparência de modelos de IA.</li><br /><li>Privacidade e Segurança de dados em IA. Desafios de privacidade e estratégias de preservação.</li><br /><li>Dados Sintéticos. Conceitos fundamentais, ferramentas e aplicações.</li><br /><li>IA e Impacto Social: O potencial da IA na amplificação das desigualdades sociais. Regulação e governança da IA.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+A UC está estruturada em aulas teórico-práticas incorporando 4 principais componentes:<br /><br /><ul><br /><li>Componente expositiva de introdução aos conceitos, podendo incluir, quando possível, apresentações por convidados.</li><br /><li>Componente técnica de exploração de ferramentas e técnicas de IA, aplicando os conceitos aprendidos à análise de <em>datasets</em> reais.</li><br /><li>Componente de discussão e projeto em grupo, em que os estudantes são desafiados a trabalhar em grupos para resolver problemas de IA aplicados que considerem questões de qualidade de dados, privacidade e justiça.</li><br /><li>Avaliação continuada em que serão desenvolvidos trabalhos individuais para consolidação dos conceitos teórico-práticos. </li><br /></ul><br />A avaliação está estruturada da seguinte forma:<br /><br /><ul><br /><li><strong>(TI)</strong> Trabalhos individuais realizados semanalmente e escrita de relatórios: 30% (6 valores). Nota mínima: 2 valores.</li><br /><li><strong>(TP)</strong> Trabalho de projeto integrador dos diferentes conteúdos: 30% (6 valores). Nota mínima: 2 valores.</li><br /><li><strong>(T)</strong> Teste: 40% (8 valores). Nota mínima: 3 valores.</li><br /></ul>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 40.0 %
+- Trabalho laboratorial: 30.0 %
+- Trabalho prático ou de projeto: 30.0 %
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 6.0 horas
+- Elaboração de projeto: 39.0 horas
+- Estudo autónomo: 39.0 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho laboratorial: 39.0 horas
+
+## Fórmula de cálculo da classificação final
+NotaFinal = (0.3 * TI) + (0.3 * TP) + (0.4 * T)<br /><br /><strong>TI:</strong> Média ponderada dos Trabalhos Individuais<br /><strong>TP:</strong> Média ponderada do Trabalho de Projeto<br /><strong>T:</strong> Nota do Teste<br /><br />As componentes estão sujeitas a nota mínima, a saber: <strong>TI: 2 valores; TP: 2 valores; T: 3 valores.</strong> Os estudantes que não cumpram os mínimos reprovam por falta de componente. Em caso de Exame, este substituirá a componente de Teste (T).
+
+## Obtenção de frequência
+Para obtenção de frequência deverão ser cumpridos os seguintes requisitos:<br /><br /><ul><br /><li>Submeter pelo menos metade (25%) dos trabalhos individuais;</li><br /><li>Participar, entregar, apresentar e defender o projeto de grupo;</li><br /><li>Não faltar a mais de 4 aulas (excepto se for concedida uma exceção).</li><br /></ul>
+
+## Melhoria de classificação
+Apenas a componente de Teste (T) se encontra sujeita a melhoria.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Artificial Intelligence and Society
+
+## Curso responsável
+Master in Artificial Intelligence
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+This curricular unit aims to provide students with fundamental and technical knowledge about the impact and challenges of Artificial Intelligence (AI) in social and ethical contexts. To this purpose, various topics currently being discussed in both research and industry will be addressed, focusing on the development and implementation of AI systems across different areas of everyday life.
+
+## Resultados de aprendizagem e competências
+The curricular unit aims to prepare students to identify, mitigate, and address the challenges that arise during the development of AI systems with applications in society. Throughout the course, students are expected to develop the following skills:<br /><br /><ul><br /><li>Understand the implications of integrating AI into contemporary society, from social, ethical, and technical perspectives;</li><br /><li>Critically assess the quality and complexity of data and its impact on AI systems;</li><br /><li>Quantify and mitigate challenges related to the intrinsic characteristics of data, particularly issues such as missing data and imbalanced data;</li><br /><li>Identify potential biases in AI applications and implement strategies to correct them, promoting the development of fair and equitable AI systems;</li><br /><li>Implement and discuss techniques that enhance the explainability of AI systems, fostering transparency and adoption;</li><br /><li>Identify privacy challenges in AI and propose solutions to ensure privacy protection.</li><br /></ul>
+
+## Pré-requisitos e co-requisitos
+Prior knowledge of the fundamentals of Artificial Intelligence and Data Science (e.g., data processing, modeling and evaluating supervised and unsupervised learning models). Intermediate proficiency in programming with Python.
+
+## Programa
+The curricular unit comprises 10 fundamental topics:<br /><br /><ol><br /><li>Introduction to AI and Society: implications, risks, benefits, and ethical and social impact.</li><br /><li>Data-Centric AI: The role of data quality in AI model outcomes. Intrinsic characteristics of data. Strategies and tools for data profiling and validation.</li><br /><li>Complexity of classification problems: Data complexity measures and meta-learning.</li><br /><li>Handling imbalanced data: Quantification, key mitigation strategies, and evaluation.</li><br /><li>Handling missing data: Quantification, key mitigation strategies, and evaluation.</li><br /><li>Bias and Fairness in AI: Sources of bias in data and AI models. Strategies for identification and mitigation.</li><br /><li>Explainability in AI: Strategies to promote the transparency of AI models.</li><br /><li>Privacy and Data Security in AI: Privacy challenges and privacy preservation. </li><br /><li>Synthetic Data: Fundamental concepts, tools, and applications.</li><br /><li>AI and Social Impact: The potential of AI to amplify social inequalities. AI regulation and governance.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+The curricular unit is structured into theoretical-practical classes incorporating 4 main components:<br /><br /><ul><br /><li>Theoretical component introducing key concepts, potentially including invited lectures when applicable.</li><br /><li>Technical component exploring AI tools and techniques, experimenting with the analysis of real datasets.</li><br /><li>Group research and project component, where students are challenged to work in teams to solve applied AI problems that address issues of data quality, privacy, and fairness.</li><br /><li>Continuous assessment component, involving individual assignments designed to consolidate theoretical and practical concepts.</li><br /></ul><br />The evaluation is structured as follows:<br /><br /><ul><br /><li><strong>(TI)</strong> Individual assignments completed weekly, along with their respective reports: 30% (6 points). Minimum grade: 2 points.</li><br /><li><strong>(TP)</strong> Group project integrating the various topics discussed in the course: 30% (6 points). Minimum grade: 2 points.</li><br /><li><strong>(T)</strong> Test: 40% (8 points). Minimum grade: 3 points.</li><br /></ul>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 40.0 %
+- Trabalho laboratorial: 30.0 %
+- Trabalho prático ou de projeto: 30.0 %
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 6.0 hours
+- Elaboração de projeto: 39.0 hours
+- Estudo autónomo: 39.0 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho laboratorial: 39.0 hours
+
+## Fórmula de cálculo da classificação final
+FinalGrade = (0.3 * TI) + (0.3 * TP) + (0.4 * T)<br /><br /><strong>TI:</strong> Weighted average of the Individual Assignments<br /><strong>TP</strong>: Weighted average of the Group Project <br /><strong>T:</strong> Test Score<br /><br />The evaluation components are subject to minimum grades, as follows:<strong> TI: 2 points; TP: 2 points; T: 3 points.</strong> Students who do not meet these requirements will fail due to insufficient component scores. In the case of an exam, it will replace the Test (T) component.
+
+## Obtenção de frequência
+To obtain course credit, the following requirements must be met:<br /><br /><ul><br /><li>Submit at least half (25%) of the individual assignments;</li><br /><li>Collaborate in, submit, present, and defend the group project;</li><br /><li>Attend at least 70% of classes (a maximum of 4 absences is allowed).</li><br /></ul>
+
+## Melhoria de classificação
+Only the Test component (T) is subject to improvement.
+

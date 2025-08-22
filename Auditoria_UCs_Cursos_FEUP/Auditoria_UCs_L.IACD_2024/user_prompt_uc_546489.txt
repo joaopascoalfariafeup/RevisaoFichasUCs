@@ -1,0 +1,127 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Álgebra Linear e Geometria Analítica
+
+## Curso responsável
+Licenciatura em Ciência de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p align="LEFT">Ao completar esta unidade curricular, o estudante deve dominar os principais conceitos de Álgebra Linear e Geometria Analítica. Nomeadamente, deve compreender, ser capaz de trabalhar e usar as propriedades dos conceitos de matriz, determinante, espaço vetorial real e função linear.</p>
+
+## Resultados de aprendizagem e competências
+<p>Ao completarem esta unidade curricular, o estudante deve ser capaz de: efetuar as principais operações com matrizes; resolver sistemas de equações lineares usando matrizes; utilizar matrizes para discutir sistemas de equações lineares; calcular determinantes; aplicar as propriedades dos determinantes; reconhecer espaços e subespaços vetoriais reais; determinar bases de espaços vetoriais reais; calcular a dimensão de espaços vetoriais; reconhecer funções lineares e as suas principais propriedades; determinar ou justificar porque não existem funções lineares satisfazendo determinadas condições; trabalhar com matrizes associadas a funções lineares; determinar vetores e valores próprios de matrizes; diagonalizar uma matriz (caso seja possível); usar algumas propriedades da diagonalização de matrizes. Identificar cónicas<br /><br /></p>
+
+## Programa
+<ol><br /><li>Sistemas lineares e matrizes</li><br /><li>Matrizes</li><br /><li>Determinantes de matrizes quadradas</li><br /><li>Espaços vetoriais reais</li><br /><li>Funções (aplicações) lineares</li><br /><li>Vetores e valores próprios e diagonalização de matrizes</li><br /><li>Cónicas</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As horas de contacto estão distribuídas em aulas teóricas e teórico-práticas. Nas primeiras são apresentados os conteúdos do programa, recorrendo-se a exemplos para ilustrar os conceitos tratados e orientar os estudantes. Nas aulas teórico-práticas são resolvidos exercícios e problemas, previamente indicados. São disponibilizados materiais de apoio na página moodle da disciplina. Para além das aulas, os estudantes poderão agendar sessões presenciais ou online para esclarecerem as suas dúvidas.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 114.0 horas
+- Frequência das aulas: 48.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A matéria desta UC será dividida em duas partes, cada uma avaliada separadamente, na escala de 0 a 10 pontos. É condição necessária para obter aprovação a esta UC ter uma classificação mínima de 2,5 pontos na segunda parte. Caso a condição anterior seja cumprida, a classificação final será obtida através da soma dos pontos obtidos nas duas partes.</p>
+<p><strong>Época normal:</strong></p>
+<ul>
+<li>A primeira parte será avaliada por teste durante o semestre em data a marcar.</li>
+<li>A segunda parte será avaliada na data marcada para o exame desta UC durante a época normal. Note-se que a primeira parte da matéria já foi avaliada anteriormente e não voltará a ser avaliada nesta altura.</li>
+</ul>
+<p><strong>Época de recurso </strong>(exceto exames de melhoria de classificação)<strong>:</strong></p>
+<ul>
+<li>O exame da época de recurso é constituído por duas partes, correspondentes às duas partes da matéria desta UC.</li>
+<li>Os estudantes podem optar por não resolver uma das partes ficando, nessa parte, com a classificação obtida na época normal.</li>
+<li>Nas partes resolvidas no exame de recurso, a classificação final dessa parte será calculada da seguinte forma (CN - classificação da época normal; CR - classificação da época de recurso):</li>
+<ul>
+<li>Se CR&gt;=CN-2, a classificação final dessa parte será máximo{CN,CR};</li>
+<li>Se CR&lt;CN-2, a classificação final dessa parte será média{CN,CR}.</li>
+</ul>
+</ul>
+
+## Obtenção de frequência
+Não aplicável
+
+## Melhoria de classificação
+<ul><br /><li>Os estudantes que queiram realizar um exame de melhoria de classificação na época normal terão de seguir as regras indicadas acima para a avaliação dos restantes estudantes durante a época normal.</li><br /><li>Os estudantes que queiram fazer melhoria de classificação na época de recurso terão de realizar as duas partes no dia marcado para o exame de recurso e a classificação final será a que obtiverem nesse exame. Assim, as classificações obtidas na época normal não contam na época de recurso para efeitos de melhoria de classifcação. </li><br /></ul>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Linear Algebra and Analytic Geometry
+
+## Curso responsável
+Bachelor in Computer Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p><span class="hps">Upon</span> <span class="hps">completing this course</span>, the <span class="hps">student</span> <span class="hps">should master</span> <span class="hps">the main concepts of</span> <span class="hps">Linear Algebra</span> <span class="hps">and Analytic Geometry</span>. <span class="hps">Namely,</span> he <span class="hps">must understand</span>, <span class="hps">be able to work with</span> <span class="hps">and</span> <span class="hps">use the main properties</span> <span class="hps">of the concepts of</span> <span class="hps">matrix,</span> <span class="hps">determinant</span>, <span class="hps">real</span> <span class="hps">vector space</span> <span class="hps">and</span> <span class="hps">linear function</span>.</p>
+
+## Resultados de aprendizagem e competências
+<p><span class="hps">Upon completing</span> <span class="hps">this course</span>, the student <span class="hps">should be able to</span>: <span class="hps">make the</span> <span class="hps">main</span> <span class="hps">matrix operations</span>; <span class="hps">solve</span> <span class="hps">systems of linear equations</span> <span class="hps">using</span> <span class="hps">matrices</span>; <span class="hps">using matrices</span> <span class="hps">to discuss</span> <span class="hps">systems of linear equations</span>; <span class="hps">calculate</span> <span class="hps">determinants;</span> <span class="hps">apply the</span> <span class="hps">properties of determinants</span>; <span class="hps">recognize</span><span class="hps"> real</span> <span class="hps">vector</span> <span class="hps">subspaces</span>; <span class="hps">determine</span> <span class="hps">bases</span> for<span class="hps"> real</span> <span class="hps">vector spaces</span>; <span class="hps">calculate the</span> <span class="hps">dimension</span> <span class="hps">of</span> <span class="hps">vector spaces</span>; <span class="hps">recognize</span> <span class="hps">linear functions</span>, and <span class="hps">their</span> <span class="hps">main properties</span>; <span class="hps">determine</span> <span class="hps">or</span> <span class="hps">justify why</span> <span class="hps">there are</span> <span class="hps">no linear functions</span> <span class="hps">satisfying</span> <span class="hps">certain conditions</span>; <span class="hps">work with</span> <span class="hps">matrices</span> <span class="hps">associated with</span> <span class="hps">linear functions</span>; <span class="hps">determine</span> eigen<span class="hps">vectors and</span> <span class="hps">eigenvalues &#8203;&#8203;of</span> <span class="hps">matrices</span>; <span class="hps">diagonalize a</span> <span class="hps atn">matrix (</span>if possible); <span class="hps">using</span> <span class="hps">some properties of </span><span class="hps">matrix diagonalization</span>. Identify conic sections.</p>
+
+## Programa
+<ol><br /><li>Linear systems and matrices</li><br /><li>Matrices</li><br /><li>Determinants of square matrices</li><br /><li>Real vector spaces</li><br /><li>Linear functions</li><br /><li>Eigenvectors and eigenvalues and diagonalization of matrices</li><br /><li>Conic sections</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<span class=&quot;hps&quot;>Contact hours</span> <span class=&quot;hps&quot;>are</span> <span class=&quot;hps&quot;>divided into</span> <span class=&quot;hps&quot;>theoretical and</span> <span class=&quot;hps&quot;>practical classes</span>. <span class=&quot;hps&quot;>In the first,</span> <span class=&quot;hps&quot;>the contents</span> <span class=&quot;hps&quot;>of the course are presented</span> using <span class=&quot;hps&quot;>examples</span> <span class=&quot;hps&quot;>to illustrate them </span><span class=&quot;hps&quot;>and to guide</span> <span class=&quot;hps&quot;>the students</span>. <span class=&quot;hps&quot;>In the practical classes, previously announced</span> <span class=&quot;hps&quot;>exercises and problems</span> <span class=&quot;hps&quot;>are solved.</span> <span class=&quot;hps&quot;>Support materials</span> <span class=&quot;hps&quot;>are</span> <span class=&quot;hps&quot;>available</span> <span class=&quot;hps&quot;>on the course webpage</span>. <span class=&quot;hps&quot;>In addition to the</span> <span class=&quot;hps&quot;>classes</span>, <span class=&quot;hps&quot;>the students can schedule presencial or online sessions to clarify their questions.</span>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 114.0 hours
+- Frequência das aulas: 48.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The content of this course will be divided into two parts, each evaluated separately, on the scale of 0 to 10 points. It is a necessary condition to obtain approval to have a minimum of 2,5 points in the second part. If the previous condition is met, the final grade will be the sum of the points of the two parts.<br /><br /><strong>Regular Season</strong>:</p>
+<ul>
+<li>The first part will be evaluated by test during the semester. The date will be announced later.</li>
+<li>The second part will be evaluated on the date set for the examination of this UC during the regular season. It should be noted that the first part will not be evaluated on the date set for the examination of this UC during the regular season.</li>
+</ul>
+<p><strong>Second examination season </strong>(except for classification improvement exams):</p>
+<ul>
+<li>The exam of the second examination season will be divided into two parts.</li>
+<li>Students may choose not to do one of the parts. In that case, the grade of that part will be the one obtained in the regular season.</li>
+<li>If a part is solved in the second examination season exam, its grade is calculated as follows (CN - regular season grade; CR - second examination season exam grade):</li>
+<ul>
+<li>If CR&gt;=CN-2, the final grade of that part will be the maximum{CN,CR};</li>
+<li>If CR&lt;CN-2, the final grade of that part will be the mean{CN,CR}.</li>
+</ul>
+</ul>
+
+## Obtenção de frequência
+Not applicable
+
+## Melhoria de classificação
+<ul><br /><li>Students wishing to take a grade improvement examination in the regular season will have to follow the rules indicated above for the evaluation of the remaining students during the regular season.</li><br /><li>Students who want to improve their grades at the second examination season will have to do both parts on the day scheduled for the second season exam and the final grade will be the one obtained in that exam. Thus, the grades obtained in the regular season do not count in the second examination season for the purpose of grade improvement.</li><br /></ul>
+

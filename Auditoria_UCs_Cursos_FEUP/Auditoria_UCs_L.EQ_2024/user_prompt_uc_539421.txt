@@ -1,0 +1,148 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Métodos Estatísticos Aplicados à Engenharia Química
+
+## Curso responsável
+Licenciatura em Engenharia Química
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p>Enquadramento:<br />A utilização de ferramentas de análise estatística constitui uma inegável vantagem para melhoria de processos e da qualidade de produtos.<br /><br />Objectivos específicos:<br />- Aquisição de conhecimentos fundamentais na área da estatística em particular em estatística descritiva e inferencial potenciando o desenvolvimento da literacia e do racíocinio em estatística<br />- Identificação e formulação de problemas de análise estatística, sua resolução analítica e computacional (recorrendo à utilização da aplicação R®) fomentando o pensamento crítico.</p>
+
+## Resultados de aprendizagem e competências
+<p>Os estudantes devem ser capazes de:</p>
+<ul style="list-style-type: square;">
+<li>Aplicar os conceitos fundamentais na análise exploratória de dados.</li>
+<li>Compreender os conceitos básicos de probabilidade e variáveis aleatórias.</li>
+<li>Compreender o conceito da distribuição amostral de uma estatística, e descrever, em particular o comportamento da média amostral.</li>
+<li>Entender as bases da inferência estatística envolvendo intervalos de confiança e testes de hipóteses.</li>
+<li>Aplicar os métodos inferenciais relativamente a médias, variâncias e proporções.</li>
+<li>Aplicar e interpretar técnicas básicas de modelação para dados bivariados e utilizar métodos de inferência no contexto de modelos lineares simples.</li>
+<li>Compreender a importância do planeamento experimental para a melhoria de processos.</li>
+<li>Utilizar ferramentas computacionais na análise estatística.</li>
+<li>Compreender que a estatística sugere conclusões e não certezas.</li>
+<li>Valorizar o papel que a estatística pode ter num trabalho de investigação.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Probabilidades e Estatística do Secundário.
+
+## Programa
+<p>1. Estatística descritiva<br />2. Introdução à Teoria da Probabilidade<br />3. Variáveis Aleatórias Discretas e Contínuas e Distribuições de Probabilidade<br />4. Algumas Distribuições de Probabilidade Discretas Importantes<br />5. Algumas Distribuições de Probabilidade Contínuas Importantes<br />6. Distribuições Amostrais<br />7. Estimação Pontual e Intervalar de Parâmetros<br />8. Testes de Hipóteses<br />9. Modelo de Regressão Linear Simples<br />10. Introdução ao Planeamento de Experiências</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>TP - Aulas Teórico-Práticas Gerais de 90 + 90 minutos de exposição dos principais conceitos acompanhada de resolução de problemas.<br /><br />L - Aulas Laboratoriais por turma de 90 minutos em salas com equipamento informático de resolução de exercícios com ou sem a utilização do R + R Commander</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Teste: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 103.5 horas
+- Frequência das aulas: 58.5 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final (CF) é calculada pela seguinte fórmula:</p>
+<p>CF = max(0,25 x AD + 0,75 x EF,EF)</p>
+<p>em que:</p>
+<p>AD = (Teste1+Teste2)/2<br />EF = nota do exame final<br /><br /><strong>Condições para obtenção de aprovação:</strong></p>
+<ul style="list-style-type: square;">
+<li>nota mínima de 6 na componente de avaliação distribuída (AD)</li>
+<li>nota mínima de 6 no exame final (TP)</li>
+</ul>
+<p>A realização dos testes é obrigatória para os estudantes sem frequência anterior. A não realização dum teste na data definida corresponde a uma classificação de zero.</p>
+<p style="text-align: left;">Não é mantida a nota da componente da avaliação distribuída de anos anteriores. A realização dos testes é opcional para estudantes com frequência anterior. Caso pretendam realizá-los, os estudantes deverão informar o docente na primeira semana de aulas, ficando dessa forma vinculados à nova avaliação distribuída.<span style="font-size: x-small;"><br /></span></p>
+
+## Obtenção de frequência
+<p>Obtêm frequência os alunos inscritos que obtenham uma nota mínima de 6 na componente de avaliação distribuída (AD).</p>
+<p>Estudantes sem frequência no ano corrente ou sem frequência em anos anteriores não poderão comparecer ao exame de Época Normal.</p>
+Estudantes que não obtenham uma nota mínima de 6 na componente de avaliação distribuída poderão comparecer ao exame da Época de Recurso, obtendo assim frequência à UC.
+
+## Melhoria de classificação
+<p>A prova de melhoria de classificação terá lugar no exame de recurso. A fórmula de cálculo é idêntica à da classificação final enunciada atrás.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Statistical Methods Applied to Chemical Engineering
+
+## Curso responsável
+Bachelor in Chemical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p>Framework:<br />The use of statistical analysis tools is an undeniable advantage for improving processes and product quality.<br /><br />Specific aims:<br />- Acquisition of fundamental knowledge in the area of statistics, in particular in descriptive and inferential statistics, enhancing the development of literacy and reasoning in statistics<br />- Identification and formulation of statistical analysis problems, their analytical and computational resolution (using the R® application) fostering critical thinking.</p>
+
+## Resultados de aprendizagem e competências
+<p><span id="result_box" lang="en"><span lang="EN-GB">Students should be able to:<br /></span></span></p>
+<ul style="list-style-type: square;">
+<li><span id="result_box" lang="en"><span lang="EN-GB">Apply the fundamental concepts in exploratory data analysis.</span></span></li>
+<li><span id="result_box" lang="en"><span lang="EN-GB">Understand the basic concepts of probability and random variables.</span></span></li>
+<li><span id="result_box" lang="en"><span lang="EN-GB">Understand the concept of the sample distribution of a statistic, and describe, in particular, the behavior of the sample mean.</span></span></li>
+<li><span id="result_box" lang="en"><span lang="EN-GB">Understand the foundations for classical inference involving confidence intervals and hypothesis testing.</span></span></li>
+<li><span id="result_box" lang="en"><span lang="EN-GB">Apply the inferential methods in relation to means, variances and proportions.</span></span></li>
+<li><span id="result_box" lang="en"><span lang="EN-GB">Apply and interpret basic modeling techniques for bivariate data and use inference methods in the context of simple linear models.</span></span></li>
+<li><span id="result_box" lang="en"><span lang="EN-GB">Understand the importance of experimental planning for process improvement.</span></span></li>
+<li><span id="result_box" lang="en"><span lang="EN-GB"><span id="result_box" lang="en"><span class="hps">Use</span> <span class="hps">computational tools</span> <span class="hps">in</span> <span class="hps">statistical analysis</span></span></span></span></li>
+<li><span id="result_box" lang="en"><span lang="EN-GB"><span id="result_box" lang="en"><span class="hps">Understand that statistics suggest conclusions and not certainties</span></span></span></span></li>
+<li><span id="result_box" lang="en"><span lang="EN-GB"><span id="result_box" lang="en"><span class="hps">Value the role</span> <span class="hps">that statistics</span> <span class="hps">can have</span> in<span class="hps"> research</span> <span class="hps">work.</span></span></span></span></li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Probabilities and Statistics from high school.
+
+## Programa
+<p>1. Descriptive statistics<br />2. Introduction to the Theory of Probability<br />3. Discrete and Continuous Random Variables and Probability Distributions<br />4. Some Important Discrete Probability Distributions<br />5. Some Important Continuous Probability Distributions<br />6. Sample Distributions<br />7. Point and Interval Estimation of Parameters<br />8. Tests of Hypotheses<br />9. Simple Linear Regression Model<br />10. Introduction to the Design of Experiments</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>TP - Theoretical-practical classes of 90 + 90 minutes <span id="result_box" lang="en"><span class="hps">of exposition of the main concepts accompanied by problem solving</span></span></p>
+<p>L - Laboratory classes of 90 minutes in <span id="result_box" lang="en"><span class="hps alt-edited">rooms with computer equipment for solving exercises</span> <span class="hps">with or without</span> <span class="hps">the use of</span> <span class="hps">R </span></span>+ R Commander.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Teste: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 103.5 hours
+- Frequência das aulas: 58.5 hours
+
+## Fórmula de cálculo da classificação final
+<p><span id="result_box" lang="en"><span class="hps">T</span>he final rating <span class="hps atn">(</span>CF) <span class="hps">is calculated</span> <span class="hps">by the following formula</span>:<br /><br /><span class="hps">CF =</span> max(<span class="hps">0.25 x AD</span> <span class="hps">+</span> <span class="hps">0.75</span><span class="hps"> x </span><span class="hps">EF,EF)</span><br /><br /><span class="hps">wherein:</span><br /><span class="hps">AD</span> <span class="hps">=</span> (Teste1+Teste2)/2<br /><span class="hps">EF</span> <span class="hps">=</span> <span class="hps">marks obtained</span> <span class="hps">Final Exam</span><br /></span></p>
+<p><span lang="en"><br /><span style="font-size: x-small;"><span style="font-size: x-small;"><strong>Conditions for obtaining approval</strong>:<br /></span></span></span></p>
+<ul style="list-style-type: square;">
+<li><span style="font-size: x-small;"><span id="result_box" lang="en"><span id="result_box" lang="en">a minimum score <span class="hps">of 6</span> </span></span>in the distributed evaluation component (AD)</span></li>
+<li><span style="font-size: x-small;"><span id="result_box" lang="en"><span id="result_box" lang="en">a </span></span>minimum score of 6 in the final exam (EF)</span></li>
+</ul>
+<p><span id="result_box" lang="en"><span class="hps"><br />The tests are compulsory for students without previous attendance. Failure to take a test on the set date corresponds to a zero-rating.<br /><br />The score of the distributed evaluation component from previous years is not maintained. Taking the tests is optional for students with previous attendance. If they intend to take them, the students must inform the teacher in the first week of classes, being this way linked to the new distributed evaluation.<br /></span></span></p>
+
+## Obtenção de frequência
+Registered students who obtain a minimum mark of 6 in the distributed assessment component (AD) will obtain attendance.<br /><br />Students without attendance in the current year or without attendance in previous years will not be able to attend the Normal Season exam.<br /><br />Students who do not obtain a minimum mark of 6 in the distributed assessment component may attend the exam in the second call, thus obtaining frequency for the CU.
+
+## Melhoria de classificação
+<p>The improvement in classification will take place in the appeal examination. The calculation formula is identical to the final rating listed above.</p>
+

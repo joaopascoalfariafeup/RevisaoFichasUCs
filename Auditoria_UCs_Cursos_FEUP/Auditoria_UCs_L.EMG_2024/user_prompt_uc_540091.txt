@@ -1,0 +1,325 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Métodos Numéricos
+
+## Curso responsável
+Licenciatura em Engenharia de Minas e Geo-Ambiente
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>A disciplina pretende em primeiro lugar fornecer aos estudantes competências sólidas no cálculo numérico. Será organizada por tópicos, cobrindo os problemas de representação numérica, a resolução de equações e sistemas de equações algébricas e diferenciais, a integração definida, a optimização não linear e o ajuste de curvas.</p>
+<p> </p>
+<p>O estudante deverá:</p>
+<p> </p>
+<p> </p>
+<ul>
+<ul>
+<li>desenvolver a capacidade de identificar os problemas numéricos, propondo diferentes metodologias de resolução, escolhendo e implementando adequadamente um método de resolução. A escolha decorrerá de um processo de experimentação;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<ul>
+<li>compreender o enquadramento dos métodos numéricos no contexto da engenharia, pelo que os problemas propostos serão, sempre que possível, situações concretas da engenharia, de forma a que o método numérico seja entendido no seu contexto de aplicação;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<ul>
+<li>desenvolver a capacidade crítica, pelo que os resultados obtidos serão sempre objecto de crítica, quer em termos do método, quer em termos da implementação, quer em termos do próprio problema.</li>
+</ul>
+</ul>
+<p> </p>
+<p> </p>
+<p>Como o enfoque da disciplina não é a algoritmia dos métodos mas a compreensão da sua aplicabilidade e da sua implementação, as ferramentas informáticas mais usadas nas aulas serão as que fornecem uma maior clareza no processo de cálculo, rapidez de desenvolvimento e flexibilidade,essencialmente 'super máquinas de calcular', como são as folhas de cálculo, os manipuladores algébricos ou matriciais.</p>
+<p> </p>
+<p>Dominado o processo numérico, é pedido ao aluno que faça a sua implementação usando ferramentas mais eficientes, mas menos flexíveis e de maior exigência em termos de preparação, como são as linguagens de programação.</p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>Espera-se que o estudante tenha adquirido a capacidade de:</p>
+<p><br /><br /></p>
+<ul>
+<ul>
+<li>Reconhecer os problemas de engenharia para os quais a resolução numérica é adequada;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<ul>
+<li>Propor solução numérica para um problemas dado, comparando e escolhendo métodos apropriados;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<ul>
+<li>Identificar as dificuldades dessa solução;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<ul>
+<li>Criticar os resultados obtidos;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<li>Implementar essa solução com razoável eficiência computacional.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>Análise Matemática, Álgebra, Programação.</p>
+<p> </p>
+<p>Capacidade de utilização de ambientes interativos de cálculo - follhas de cálculo, calculadoras, CAS.<br />Familiaridade com linguagens de programação de computadores.</p>
+
+## Programa
+<p> </p>
+<ul>
+<ul>
+<li>Representação numérica de quantidades;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<ul>
+<li>O erro em métodos numéricos;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<ul>
+<li>Zeros de funções reais - Métodos: Bissecções, Falsa Posição, Falsa Posição Modificado, Picard-Peano, Newton;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<ul>
+<li>Sistemas de equações não-lineares - Métodos: Newton, Aproximações Sucessivas ou Picard-Peano, Seidel;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<ul>
+<li>Sistemas de equações lineares - Métodos Directos e Iterativos ( Gauss, Cholesky, Seidel);</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<ul>
+<li>Quadratura e Cubatura - Métodos: Trapézios, Simpson;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<ul>
+<li>Integração de equações diferenciais de 1ª e de 2ª ordem - Métodos: Euler, Euler Melhorado, Runge-Kutta de 2ª e de 4ª ordem; </li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<ul>
+<li>Optimização uni e multidimensional, não linear convexa - Métodos: Pesquisa, Secção áurea, Quádrica, Gradiente, Levenberg-Marquardt;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<li>Ajuste de curvas &#8211; método dos mínimos quadrados.</li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas teórico-práticas são todas apoiadas em recursos informáticos, recorrendo-se por vezes à máquina de calcular. Nestas aulas as peças de software mais utilizadas são o MAXIMA, MATLAB, folha de cálculo, para além dos ambientes e linguagens de programação.</p>
+<p>Propõe-se aos estudantes que desenvolvam programas (numa linguagem de programação à sua escolha) para a resolução dos exercícios dados nas aulas, e que ao mesmo tempo explorem os problemas em termos de precisão, eficiência e robustez quer dos métodos quer dos meios de cálculo.</p>
+<p>Aos estudantes serão propostos desafios ao longo das aulas, que consistirão em pequenos problemas de resposta não trivial.<br />Em qualquer aula poderão ser postos aos estudantes pequenos testes de avaliação de conhecimentos.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Teste: 40.0 %
+- Participação presencial: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação de frequência será feita em dois testes (Ti), sem recurso, sendo a falta classificada com zero (0).<br /><br /><br />Para aceder ao exame de primeira época, é condição necessária que a média dos testes seja maior ou igual a 5,0 valores (MTi &gt;= 5,0) .<br /><br />A componente presencial será da discrição dos docentes, e depende, entre outras observações, da assiduidade, da participação nas aulas, da resposta aos problemas de sala.<br /><br />A nota final da primeira época será calculada pela fórmula: <br /><br />NE1 = 0,4* MTi +0,5*NE +0,1 P<br /><br />sendo: <br />MTi - média da nota dos testes;<br />NE1 - Nota da primeira época; <br />P - classificação presencial<br /><br />Quem não obtiver aprovação na 1ª época, submeter-se-à a exame de recurso. <br /><br />A classificação da época de recurso é o maior valor obtido ponderando o exame de recurso e a avaliação distribuída ou apenas o exame de recurso. <br /><br />NER = max( 0,4* MTi + 0,1 P +0.5*NR ; NR) <br /><br />em que :<br />NER - nota da época de recurso <br />NR - nota do exame de recurso <br /><br />Notas superiores a 18 serão objecto de defesa oral. </p>
+<div><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;"> </span></div>
+
+## Obtenção de frequência
+<p>Para a obtenção de frequência à disciplina, os estudantes não poderão exceder o número limite de faltas às aulas (o registo de presenças far-se-à em todas as aulas).<br /><br /></p>
+
+## Melhoria de classificação
+<p>A melhoria de classificação a esta disciplina far-se-à através de exame global, coincidente com a época de recurso.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Numerical Methods
+
+## Curso responsável
+Bachelor in Mining and Geo-Environmental Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>The course aims at providing the student with solid numerical methods foundations. It is topic oriented, covering numerical error analysis, algebraic and differential equation and systems solving, definite integration, non-linear optimization and curve fitting.</p>
+<p> </p>
+<p>The student will be able to:</p>
+<p><br /><br /></p>
+<ul>
+<ul>
+<li>dentify numerical problems, choosing and implementing the right solution method, after doing numerical experimentation;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<ul>
+<li>understand numerical methods in the context of engineering, working on examples from engineering practice;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<li>criticise results, from the methodological, implementation and problem context points of view.</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p>The student will be able to:</p>
+<p><br /><br /></p>
+<ul>
+<ul>
+<li>Identify numerically solvable  engineering problems;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<ul>
+<li>Put forward numerical solutions for a given engineering problem, comparing and choosing appropriate methods;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<ul>
+<li>Identify issues in that solution;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<ul>
+<li>Criticise results;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<li>Implement a reasonably efficient computational solution.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>Calculus, Algebra, Introductory Programming.</p>
+<p> </p>
+<p>Ability for the  use of interactive calculation environments - worksheets, calculators, CAS.<br />Familiarity with computer programming languages.</p>
+
+## Programa
+<p> </p>
+<ul>
+<ul>
+<li>Number representation;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<ul>
+<li>Numerical error analysis;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<ul>
+<li>Roots of equations;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<ul>
+<li>Systems of non linear equations;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<ul>
+<li>Systems of linear equations;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<ul>
+<li>Numerical integration;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<ul>
+<li>Ordinary Differential equations;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<ul>
+<li>Single and multi-variable unconstrained optimization;</li>
+</ul>
+</ul>
+<p> </p>
+<ul>
+<li>Curve fitting.http://en.wikipedia.org/wiki/Glenn_Gould</li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Classes are computer based, using packages such as Maxima, MatLab and Excel.</p>
+<p> </p>
+<p>Students will also implement computer solutions in their choice programming language.</p>
+<p> </p>
+<p>Working focus will be on precision, efficiency and robustness of computer solutions.</p>
+<p> </p>
+<p>Students will be challenged by small non trivial problems.<br />Students may be subject to small assessment quizzes during classes.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Teste: 40.0 %
+- Participação presencial: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Students will be assessed on two class quizzes (Ti).<br />They must also attend a final exam. <br />The quiz final score  (MTi) will be the quiz average.<br /><br />To access the first call exam, the quiz average (MTi)  must be greater or equal to 5,0.<br /><br />The presential component depends on attendance, class participation, problem answering, ... <br />The final score after the first call exam will be calculated as follows: <br /><br />NE1 = 0,4* MTi +0,5*NE +0,1 P<br /><br />Where: <br />NE1 &#8211; Final grade after the first call; <br />MTi- individual assessment tests average;<br />NE &#8211; Exam score;<br />P - presential score<br /><br />Students with score NE1 <br />The grade after the 2nd call is the highest value obtained by weighing the exam and the distributed evaluation grades  (NMT) or just the 2nd call exam. <br /><br />NER = max( 0,4* MTi + 0,1 P +0.5*NR ; NR) <br /><br />Where: <br />NER &#8211; Final grade after 2nd call; <br />NR &#8211; 2nd call exam grade; <br /><br /><br />Grades over 18/20 will be subject to an oral discussion.</p>
+<div><span style="font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12px;"> </span></div>
+
+## Obtenção de frequência
+<p>To obtain attendance students may not exceed the maximum number of missed classes, complying with school attendance rules. (Attendance registration will be done in every class).<br /><br /></p>
+
+## Melhoria de classificação
+<p>Special global examination, simultaneous with 2nd call.</p>
+

@@ -1,0 +1,116 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Recuperação da Informação
+
+## Curso responsável
+Licenciatura em Ciência da Informação
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>A unidade curricular "Recuperação da Informação" tem como contexto a existência de grandes coleções de informação e a necessidade de oferecer métodos e ferramentas para a pesquisa de informação em coleções heterogéneas. <br /> <br />Pretende-se:<br />1. Sensibilizar os estudantes para as diferenças entre informação estruturada e não estruturada, entre documentos com e sem descrição associada. <br />2. Familiarizar os estudantes com os conceitos principais na pesquisa de documentos textuais, e da sua aplicação em ferramentas. <br />3. Usar os métodos estabelecidos na recuperação de informação para avaliar ferramentas de pesquisa. </p>
+
+## Resultados de aprendizagem e competências
+<p>No final desta unidade curricular o estudante deverá ser capaz de:</p>
+<p>-Identificar tarefas de recuperação de informação realizadas com ferramentas específicas ou embebidas em serviços; <br />-Descrever o funcionamento de uma ferramenta de pesquisa e os seus componentes; <br />-Distinguir os modelos clássicos de recuperação de informação, identificando os seus princípios, os modelos de documentos e as medidas de semelhança; <br />-Distinguir nas ferramentas de pesquisa as tarefas de indexação de coleções de documentos das de resposta a interrogações; <br />-Realizar tarefas de recuperação de informação na Web usando as pesquisas avançadas dos motores; <br />-Dada uma coleção de documentos e uma tarefa de recuperação, criar um modelo apropriado dos documentos e especificar um método automático para a sua extração; <br />-Calcular os valores de diversas medidas de referência na avaliação de sistemas de recuperação; <br />-Participar em tarefas de avaliação da recuperação de informação, fornecendo informação de relevância de documentos para tópicos selecionados;<br />-Descrever a recuperação de informação na Web, em particular nos aspetos da diversidade de documentos e da estimação da sua autoridade;<br />-Relacionar a recuperação de informação textual com as suas extensões para voz e imagem, identificando os problemas em aberto. </p>
+
+## Programa
+<p>A recuperação de informação e as suas tarefas. Recuperação de informação versus recuperação de dados. O desenvolvimento da recuperação de informação. O processo de recuperação de informação. Características gerais dos sistemas de recuperação. <br /> <br />Modelos de recuperação de informação. Modelo Booleano, modelo vectorial e modelo probabilístico. <br /><br />Processamento de documentos e de interrogações: análise lexical, extração de raízes, compressão. Construção de índices. <br /><br />Pesquisa sobre índices. Pesos e ordenação de documentos. <br /> <br />Recuperação de informação na Web. "Crawling" e indexação. Análise de ligações. <br /> <br />Avaliação de sistemas de recuperação de informação. Coleções de teste, tópicos e avaliações de relevância.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas teóricas são usadas para exposição da matéria, discussão de temas e apresentação de trabalhos. <br /><br />Nas aulas práticas, os estudantes vão realizar exercícios de aplicação dos conceitos e técnicas estudados. As aulas no final do semestre são reservadas para a apresentação de um trabalho prático.</p>
+<p>A avaliação da unidade inclui um trabalho prático na forma de um projeto de avaliação de sistemas de recuperação de informação. O trabalho envolve a realização de pesquisas e de julgamentos de relevância e o cálculo de indicadores.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Participação presencial: 10.0 %
+- Trabalho escrito: 10.0 %
+- Trabalho laboratorial: 30.0 %
+- Apresentação/discussão de um trabalho científico: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 58.0 horas
+- Frequência das aulas: 41.0 horas
+- Trabalho escrito: 13.0 horas
+- Trabalho laboratorial: 40.0 horas
+- Apresentação/discussão de um trabalho científico: 10.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Estudantes Ordinários <br />Nota final = arredonda (40% * nota do exame + 10% * exercícios aulas práticas + 30% * trabalho prático + 10% * participação nas aulas teóricas + 10% apresentação/discussão artigo)<br /> <br />Estudantes em regime de avaliação especial <br />Nota final = arredonda (50% * nota do exame + 40% * trabalho prático + 10% apresentação/discussão artigo)<br /><br />A classificação final do trabalho prático pode variar de elemento para elemento do mesmo grupo, em mais ou menos 2 valores, com base na autoavaliação e heteroavaliação a realizar internamente em cada grupo.<br /><br />Nota mínima de 40% no Trabalho Prático e Exame.</p>
+
+## Obtenção de frequência
+<p>Condições para obtenção de frequência: não exceder o limite de faltas estabelecido nas normas gerais (25% do número de aulas práticas) e obter uma classificação mínima de 40% no trabalho prático.</p>
+<p><br />Os estudantes que obtiveram frequência no ano letivo anterior podem manter a nota da avaliação distribuída que obtiveram nesse ano. Devem, neste caso, informar o docente responsável pela UC durante a primeira semana de aulas.</p>
+
+## Melhoria de classificação
+A componente de exame pode ser melhorada na mesma edição no exame de recurso. A componente do trabalho prático não é passível de melhoria no mesmo ano letivo, podendo, porém, ser melhorada na edição seguinte da unidade curricular. As restantes componentes não são passíveis de melhoria.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Information Retrieval
+
+## Curso responsável
+Bachelor of Arts in Information Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>The "Information Retrieval" course assumes as its context the existence of large collections of information and the need for methods and tools for information retrieval on extensive heterogeneous collections. <br /> <br />We aim to:<br />1. Make the students feel the difference between structured and unstructured information and the difference between documents having associated descriptions or not. <br />2. Make the students familiar with the main concepts in textual information retrieval and their application in retrieval tools. <br />3. Use well-established methods in information retrieval to evaluate retrieval tools.</p>
+
+## Resultados de aprendizagem e competências
+<p>On completion of this course, the student should be able to: <br /><br />-Identify information retrieval tasks performed with specific tools or embedded in services; <br />-Describe the retrieval tools and their components; <br />-Distinguish classical information retrieval models, identifying their principles, document models and similarity measures; <br />-Clearly separate the indexing and search modules in information retrieval tools; <br />-Perform web retrieval tasks using advanced search modes; <br />-For a document collection and a retrieval task, create an appropriate document model and specify automatic methods for processing the documents; <br />-Calculate several reference measures for evaluating retrieval systems; <br />-Participate in retrieval evaluation efforts, providing relevance judgments for selected topics;<br />-Describe web information retrieval, namely in what concerns document diversity and authority estimation;<br />-Relate textual information retrieval with its extensions to voice and image, identifying the open problems. </p>
+
+## Programa
+<p>Information retrieval and its tasks. Information retrieval versus data retrieval. The evolution of information retrieval. The information retrieval process. General features of retrieval systems. <br /> <br />Information retrieval models. Boolean model, vectorial model, probabilistic model. <br /><br />Processing documents and queries: lexical analysis, stemming, compression. Index construction. <br /><br />Retrieval using indexes. Term weights and document ranking. <br /> <br />Web information retrieval. Crawling and indexing. Link analysis. <br /> <br />Evaluation in retrieval systems. Test collections, topics and relevance judgments.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Lectures are used to present the course subjects, discuss selected topics, and make workshop sessions with student project results.<br /><br /> Lab classes are used for small exercises applying the concepts and techniques introduced in the course. Classes at the end of the semester are reserved for the presentation of practical work.</p>
+<p>The evaluation of the unit includes practical work in the form of an information retrieval evaluation project. The project involves performing search, relevance judgments on the results and the calculation of retrieval measures.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Participação presencial: 10.0 %
+- Trabalho escrito: 10.0 %
+- Trabalho laboratorial: 30.0 %
+- Apresentação/discussão de um trabalho científico: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 58.0 hours
+- Frequência das aulas: 41.0 hours
+- Trabalho escrito: 13.0 hours
+- Trabalho laboratorial: 40.0 hours
+- Apresentação/discussão de um trabalho científico: 10.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Ordinary students <br />Mark = round (40% * exam + 10% * practical exercises + 30% * project + 10% * participation in lectures + 10% article presentation/discussion) <br /> <br />Students with special "non-atendance" status <br />Mark = round( 50% * exam + 40% * project + 10% article presentation/discussion)<br /><br />The final classification of the project can vary from element to element in the same group, plus or minus 2 values, based on the inner assessment performed by each group.<br /><br />Minimum grade of 40% in Project and Exam.</p>
+
+## Obtenção de frequência
+<p>Conditions for obtaining attendance: not exceeding the absence limit established in the general rules (25% of the number of practical classes) and obtaining a minimum grade of 40% in the project.<br /><br /><br />Students who obtained attendance in the previous academic year can maintain the grade for the distributed evaluation they obtained that year. In this case, they must inform the professor responsible for the course during the first week of classes.</p>
+
+## Melhoria de classificação
+The exam component can be improved in the same edition in the appeal exam. The project component cannot be improved in the same academic year, but can, however, be improved in the following edition of the course. The remaining components cannot be improved.
+

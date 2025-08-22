@@ -1,0 +1,160 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Projeto de Circuitos VLSI
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>ENQUADRAMENTO</p>
+<p>A integração em larga escala de sistemas digitais (VLSI) constitui um dos fundamentos tecnológicos dos sistemas eletrónicos e computacionais de que o crescimento económico das sociedades atuais depende. Os circuitos VLSI têm um papel vital em muitas áresa da engenharia eletrotécnica e de computadores, tais como as telecomunicações e as tecnologias da informação, com impacto social importante em domínios muito variados como os cuidados de saúde, a utilização eficiente da energia, a segurança individual e coletiva.</p>
+<p>OBJETIVOS</p>
+<p>Esta unidade curricular permite aos estudante adquirirem conhecimentos básicos sobre os aspetos elétricos e tecnológicos dos circuitos integrados, bem como o domínio das técnicas de projecto correspondentes, por forma a que sejam capazes de conceber e realizar circuitos integrados digitais em tecnologia CMOS. Os estudantes adquirem experiência prática com o fluxo de projeto e as ferramentas de CAD usadas no desenvolvimento de sistemas integrados complexos. </p>
+<p>DISTRIBUIÇÃO PERCENTUAL</p>
+<ul>
+<li>Componente científica: 60%</li>
+<li>Componente tecnológica: 40%</li>
+</ul>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>Após completar esta unidade curricular, os estudantes serão capazes de:</p>
+<ol>
+<li><span class="fontstyle0">Descrever e explicar o fluxo de projeto para circuitos integrados digitais [conhecimento &amp; compreensão]</span></li>
+<li><span class="fontstyle0">Identificar e caraterizar as alternativas tecnológicas de implementação de ASICs [conhecimento &amp; compreensão]</span></li>
+<li><span class="fontstyle0">Aplicar modelo de 1.ª ordem do transístor MOS na análise e projeto de circuitos digitais [análise de engenharia  &amp; projeto]</span></li>
+<li><span class="fontstyle0">Explicar e aplicar modelos das interligações [análise de engenharia &amp; projeto]</span></li>
+<li><span class="fontstyle0">Explicar e avaliar o comportamento elétrico e temporal das principais famílias lógicas CMOS [análise de engenharia]</span></li>
+<li><span class="fontstyle0">Analisar e projetar portas lógicas [análise de engenharia &amp; projeto]</span></li>
+<li><span class="fontstyle0">Explicar e aplicar o método do "esforço lógico" para dimensionamento de portas lógicas [conhecimento &amp; compreensão, análise de engenharia]</span></li>
+<li><span class="fontstyle0">Projetar células lógicas incluindo "layout" e simulação "post-layout" [projeto de engenharia]</span></li>
+<li><span class="fontstyle0">Utilizar um fluxo de projeto comercial para sintetizar um circuito digital tipo ASIC [projeto de engenharia]</span></li>
+</ol>
+<p>Competências: Projeto e validação de sistemas integrados, processo e ferramentas de desenvolvimento de sistemas digitais integrados, trabalho em grupo (todas as atividades de projeto são realizadas em grupo); gestão de tempo (o projeto de maior dimensão requerem a gestão cuidadosa do processo de desenvolvimento ao longo do tempo).</p>
+
+## Programa
+<span class=&quot;fontstyle0&quot;>M1. Introdução aos circuitos digitais de elevado nível de integração: modelos, tarefas e ferramentas. Fluxos de projeto &quot;standard-cell&quot; (baseado em células lógicas) e &quot;full-custom&quot;.<br />M2. Tecnologia CMOS (processo de fabrico e regras de projeto). Modelação de transístores MOS de pequenas dimensões. Modelação de interligações.<br />M3. Circuitos lógicos combinatórios: técnicas de implementação de circuitos estáticos e dinâmicos, incluindo circuitos com portas de transmissão. Dimensionamento de portas lógicas.<br />M4. Circuitos sequenciais: trincos, &#8220;flip-flops&#8221;; medidas de qualidade.<br />M5. Ferramentas para projeto &quot;full-custom&quot;: simulação, edição de &quot;layout&quot;, LVS, extração.<br />M6. Implementação de CIs de aplicação específica baseados em &quot;standard cells&quot;: &quot;floorplanning&quot;, colocação e encaminhamento, síntese de rede de distribuição de sinal de relógio, extração e verificação.</span>
+
+## Métodos de ensino e atividades de aprendizagem
+<span class=&quot;fontstyle0&quot;>Nas aulas teóricas (1,5h por semana) é apresentada a matéria fundamental sendo discutidos aspetos relevantes relacionados com os trabalhos propostos. As aulas laboratoriais são usadas para a execução de trabalhos práticos de<br />conceção e projeto de circuitos CMOS digitais, bem como para a realização de exercícios práticos de avaliação. Os estudantes realizam um trabalho de projeto (em grupos de 2, quase totalmente fora das aulas) &#8220;full custom&#8221; de um módulo  lógico.</span>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 35.0 %
+- Trabalho prático ou de projeto: 65.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 40.0 horas
+- Estudo autónomo: 83.0 horas
+- Frequência das aulas: 39.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação tem as seguintes componentes:</p>
+<ul>
+<li>um trabalho prático (T)</li>
+<li>exame final (E)</li>
+</ul>
+<p>Qualquer componente não realizada vale zero.</p>
+<p style="text-align: left;">A classificação final é dada por:  NFinal = 0,65×T + 0,35×E</p>
+<p>Para a obtenção de aprovação é necessário satisfazer a condição E &gt;= 7,0.</p>
+<p>Exame final de 2:00H com consulta de livro e/ou apontamentos.</p>
+
+## Obtenção de frequência
+Sem restrições.
+
+## Melhoria de classificação
+<p>Melhoria da nota de exame: prova de caraterísticas similares à do exame. A nota de projeto não pode ser melhorada.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+VLSI Circuit Design
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>BACKGROUND</p>
+<p>Very large scale integration (VLSI) of digital systems belong to the technological foundation of electronic and coputing systems  that enable the economic growth on which present day societies depend. VLSI circuits play a vital role in many areas of eletrical and computer engineering like telecommunications and information technology, with social profund social impact on many domains like health care, wnergy efficiency, and security.</p>
+<p>OBJECTIVES</p>
+<p>This course provides the students with basic knowledge about the technological and electrical aspects of digital CMOS integrated circuits and the corresponding design techniques, so that they are able to specify, design and implement CMOS ICs. The students will also acquire practical experience with ECAD design flows and tools for the development of complex ICs.</p>
+<p>PERCENT DISTRIBUTION</p>
+<ul>
+<li>Scientific component: 60%</li>
+<li>Technological component: 40%</li>
+</ul>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>After taking the course, the student will be able to:<br /><br /></p>
+<ol>
+<li><span class="fontstyle0">Describe and explain the design flow for digital integrated circuit design [knowledge &amp; understanding]</span></li>
+<li><span class="fontstyle0">Identify and characterize the technological alternatives for implementing ASICs [knowledge &amp; understanding]</span></li>
+<li><span class="fontstyle0">Apply first-order MOS transistor model to digital circuit analysis and design [engineering analysis &amp; design]</span></li>
+<li><span class="fontstyle0">Analyse and design logic gates [engineering analysis &amp; design]</span></li>
+<li><span class="fontstyle0">Explain and apply interconnection models [engineering analysis &amp; design]</span></li>
+<li><span class="fontstyle0">Explain and apply the method of logical effort for gate sizing [knowledge &amp; understanding, engineering analysis]</span></li>
+<li><span class="fontstyle0">Explain and evaluate the electrical and temporal behaviour of the main CMOS logic families [engineering analysis]</span></li>
+<li><span class="fontstyle0">Design logic cells, including layout design and post-layout simulation [engineering project]</span></li>
+<li><span class="fontstyle0"> Use a commercial project flow to synthesize a digital ASIC [engineering project]</span></li>
+</ol>
+<p>Competencies: VLSI systems design and validation, VLSI design process and tools, team work (all the design activities are done in groups); Time management (the larger projects requires careful management of the design process over time)</p>
+
+## Programa
+<span class=&quot;fontstyle0&quot;>M1 Introduction to VLSI digital circuits: models, tasks and tools. Standard-cell and full-custom design flows.<br />M2 CMOS technology (manufacturing process and design rules). Modelling of small MOS transistors. Interconnection modelling.<br />M3. Combinational logic circuits: techniques for implementing static and dynamic circuits, including transmission gate circuits. Sizing of logical gates.<br />M4. Sequential circuits: latches, flip-flops; quality measures.<br />M5. Tools for full-custom design: simulation, layout editing, LVS, extraction.<br />M6. Implementation of application-specific ICs based on standard cells: floorplanning, placement and routing, clock signal distribution network synthesis, extraction and verification</span>
+
+## Métodos de ensino e atividades de aprendizagem
+<span class=&quot;fontstyle0&quot;>The lectures are used to present and discuss the fundamentals about a topic; relevant aspects related to the proposed work projects are discussed. The laboratory sessions are used for practising the design of digital CMOS circuits, as well as for practical evaluation exercises. Students also undertake one project assignments (in groups of two, almost entirely<br />out of class), the  full-custom design of a logic module.</span>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 35.0 %
+- Trabalho prático ou de projeto: 65.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 40.0 hours
+- Estudo autónomo: 83.0 hours
+- Frequência das aulas: 39.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Student assessment has two components:</p>
+<ul>
+<li>a design project  (T)</li>
+<li>final exam (E)</li>
+</ul>
+<p>Any missed components count as zero.</p>
+<p style="text-align: left;">The final grade is calculated as follows: NFinal = 0.65×T + 0.35×E</p>
+<p>To successfully complete the course unit, it is necessary to have E &gt;= 7.0.</p>
+<p>Final exam: open book, open notes, 2:00H.</p>
+
+## Obtenção de frequência
+No constraints.
+
+## Melhoria de classificação
+<p>The classification of the final exam may be improved by doing an exam of similar complexity. The project grade cannot be improved.</p>
+

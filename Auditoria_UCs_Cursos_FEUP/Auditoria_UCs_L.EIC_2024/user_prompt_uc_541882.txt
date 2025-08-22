@@ -1,0 +1,139 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Engenharia de Software
+
+## Curso responsável
+Licenciatura em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p>Familiarizar-se com os métodos de engenharia e gestão necessários ao desenvolvimento de sistemas de software complexos e/ou em larga escala, de forma economicamente eficaz e com elevada qualidade.</p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>No final da unidade curricular, os estudantes deverão ser capazes de:</p>
+<ul>
+<li>descrever os princípios, conceitos e práticas da engenharia de software e do ciclo de vida do software;</li>
+<li>conhecer e saber aplicar as técnicas e ferramentas necessárias para executar e gerir as várias atividades do processo de desenvolvimento de software de qualidade;</li>
+<li>explicar os métodos e processos de construção de diferentes tipos de sistemas de software.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Conhecimentos de programação, desenho orientado por objetos e teste unitário adquiridos em unidades curriculares anteriores.
+
+## Programa
+<ol><br /><li><span style=&quot;font-size: x-small;&quot;>INTRODUÇÃO: desafios do desenvolvimento de software em larga escala; objetivos e âmbito da engenharia de software; história da engenharia de software.</span></li><br /><li>PROCESSO DE SOFTWARE: noção de processo de software; atividades do processo; modelos de processos; exemplos de processos (RUP, XP, Scrum, etc.).</li><br /><li>GESTÃO DE PROJETOS DE SOFTWARE: planeamento, monitorização e controlo de projeto; estimação de software; gestão ágil e gestão clássica de projetos.</li><br /><li>REQUISITOS DE SOFTWARE: conceito de requisito de software; tipos de requisitos; identificação, análise, especificação e validação de requisitos; modelação de requisitos com UML; prototipagem de interfaces.</li><br /><li>DESENHO DE SOFTWARE: desenho de arquitetura; modelação de arquitetura com UML; reutilização de software; desenho detalhado. </li><br /><li>CONSTRUÇÃO E EVOLUÇÂO DE SOFTWARE: ambientes de desenvolvimento; integração contínua; gestão de versões e alterações; desenvolvimento ágil com XP; evolução e manutenção de software.</li><br /><li>VERIFICAÇÃO E VALIDAÇÃO DE SOFTWARE: conceitos básicos; testes unitários, de integração, de sistema e de aceitação; revisões e inspeções de software; registo de defeitos; análise estática de código.</li><br /></ol><br /><p> </p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A disciplina tem uma componente teórica baseada em aulas de exposição e discussão, que incluem a descrição dos problemas, as metodologias de análise e as soluções e boas práticas preconizadas. <br /><br />As aulas teórico-práticas serão dedicadas à aplicação prática e aprofundamento dos conceitos e técnicas apresentados nas aulas teóricas, através de um pequeno projeto de desenvolvimento de software, em grupo, envolvendo uma componente escrita (relatório de desenvolvimento, incluindo texto e modelos sobre o projeto) e a componente mais prática de software desenvolvido (código).<br /><br />- Relatório de Desenvolvimento, englobando documentação sobre todas as fases do projeto de desenvolvimento de software, escrito na perspetiva da equipa de desenvolvimento atual, para uma hipotética equipa de desenvolvimento futura.<br /><br />- Software, englobando todo o código desenvolvido pelo grupo, publicado no github, bem como instruções de instalação e execução.<br /><br /><br /></p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Trabalho escrito: 25.0 %
+- Trabalho prático ou de projeto: 30.0 %
+- Exame: 35.0 %
+- Participação presencial: 10.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 28.0 horas
+- Estudo autónomo: 50.0 horas
+- Frequência das aulas: 56.0 horas
+- Trabalho escrito: 28.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Componentes de classificação:</p>
+<ul>
+<li>PA - classificação relacionada com participação nas aulas;</li>
+<li>TP - classificação obtida no projeto em equipa;</li>
+<li>EF - classificação obtida no exame final. </li>
+</ul>
+Fórmula de cálculo da classificação final:<br />
+<p>    CF = round(10% PA + 55% TP + 35% EF)<br /><br />É exigida uma nota mínima de 40% no exame final (EF).<br /><br />No caso dos estudantes dispensados da regra de assiduidade, a componente PA não se aplica, passando o exame final a ter um peso de 45%.  <br /><br />A classificação da componente TP é individual podendo variar significativamente entre estudantes da mesma equipa de projeto, dependendo da dinâmica individual relativa face à da equipa.</p>
+
+## Obtenção de frequência
+<p>Ter participação e contribuição efetiva para o projeto em equipa.<br /><br />Não exceder o número limite de faltas, conforme regulamento da UP. Os estudantes dispensados das regras de assiduidade devem, com periodicidade a combinar com os docentes, apresentar a evolução dos seus trabalhos, assim como devem fazer a apresentação destes, simultaneamente com os alunos ordinários.</p>
+
+## Melhoria de classificação
+<p>Apenas a classificação da componente EF pode ser melhorada na época de recurso.<br /> </p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Software Engineering
+
+## Curso responsável
+Bachelor in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p>This course aims to acquaint students with the engineering and management methods necessary for the cost-effective development and maintenance of high-quality complex software systems.</p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of the semester, students should:</p>
+<ul>
+<li>be capable of describing the principles, concepts and practices of software engineering and software life cycle;</li>
+<li>be acquainted with and be capable of applying the required tools and techniques to carry out and manage the various tasks in the development of high-quality software;</li>
+<li>be capable of explaining the development methods and processes of different types of software systems.</li>
+</ul>
+<p> </p>
+
+## Pré-requisitos e co-requisitos
+<p id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tradução"><span class="Y2IQFc" lang="en">Knowledge of programming, object-oriented design, and unit testing acquired in previous curricular units.</span></p>
+
+## Programa
+<ol><br /><li>INTRODUCTION: large-scale software development challenges; objectives and scope of software engineering; history of software engineering.</li><br /><li>SOFTWARE PROCESS: the concept of software process; process activities; process models; examples of software processes (RUP, XP, Scrum, etc.).</li><br /><li>SOFTWARE PROJECT MANAGEMENT: project planning, monitoring, and control; software estimation; agile and classic project management.</li><br /><li>SOFTWARE REQUIREMENTS: concept of software requirements; types of requirements;  requirements elicitation, analysis, specification, and validation; requirements modeling with UML; user interface prototyping.</li><br /><li>SOFTWARE DESIGN: architectural design; architectural modeling with UML; software reuse; detailed design.</li><br /><li>SOFTWARE CONSTRUCTION AND EVOLUTION: development environments; continuous integration; version and change management; agile development with XP; software evolution and maintenance.</li><br /><li>SOFTWARE VERIFICATION AND VALIDATION: basic concepts; unit, integration, system and acceptance testing; software inspections and reviews; defect tracking; static code analysis.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical classes will be based on the oral presentation of the themes and description of problems, as well methodology analysis and solutions/good practices. <br /><br />Theoretical-practical classes will be based on a small software development project, in groups, encompassing a written part (development report, including text and models about the project) and the software developped  (source code).<br /><br />- TP1 (Trabalho escrito) - Development Report, including documentation about all software development project phases, written in a perspective of the present development team, for an eventual future development team.<br /><br />- TP2 (Trabalho prático) - Software, including all source code developed by the group, published in github, with instructions to install and run.<br /><br /><br /></p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Trabalho escrito: 25.0 %
+- Trabalho prático ou de projeto: 30.0 %
+- Exame: 35.0 %
+- Participação presencial: 10.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 28.0 hours
+- Estudo autónomo: 50.0 hours
+- Frequência das aulas: 56.0 hours
+- Trabalho escrito: 28.0 hours
+
+## Fórmula de cálculo da classificação final
+<p class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tradução"><span class="Y2IQFc" lang="en">Classification components: <br /></span></p>
+<ul>
+<li><span class="Y2IQFc" lang="en"> PA - classification related to class participation;</span></li>
+<li><span class="Y2IQFc" lang="en">TP - classification obtained in the team project; </span></li>
+<li><span class="Y2IQFc" lang="en">EF - classification obtained in the final exam.</span></li>
+</ul>
+<p id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tradução"><span class="Y2IQFc" lang="en">Final classification calculation formula: <br /><br />      CF = round(10% PQ + 55% TP + 35% EF)<br /><br /> A minimum grade of 40% is required in the final exam (EF). <br /><br />In the case of students exempt from the attendance rule, the PA component does not apply, with the final exam having a weight of 45%. <br /><br /> The classification of the TP component may vary significantly among students of the same project team, depending on the individual dynamics relatively to the team.</span></p>
+
+## Obtenção de frequência
+<p>To participate and contribute effectively to the team project.<br /><br />Not exceed the absence limits and actively participate in the practical works that will be subject to evaluation. Students dispensed from attendance rules must, in time periods defined with teachers, present the evolution of their works, and participate in the final presentations sessions as regular students.</p>
+
+## Melhoria de classificação
+<p>The grade of the EF component can be improved in the second exam.</p>
+

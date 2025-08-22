@@ -1,0 +1,113 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Desenho e Análise de Algoritmos
+
+## Curso responsável
+Licenciatura em Ciência de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>Aprendizagem de técnicas de concepção e análise de algoritmos eficientes.</p>
+
+## Resultados de aprendizagem e competências
+<p>Enriquecimento do conhecimento sobre modelos genéricos para alguns tipos de problemas e sobre técnicas algorítmicas a eles associadas. Experiência prática na aplicação de algoritmos genéricos a problemas concretos. Competência na análise da complexidade assintótica de algoritmos.<br /><br /></p>
+
+## Pré-requisitos e co-requisitos
+<p>Conhecimentos de programação (C/C++ ou JAVA), de algoritmos básicos (de contagem, pesquisa e de ordenação) e de algumas estruturas de dados. O estudante deve preferencialmente ter já aprovação à unidade curricular de  "Programação Imperativa" (CC1003) e a  "Estruturas de Dados" (CC1007), ou a unidades curriculares equivalentes.  <br /><br /><br /></p>
+
+## Programa
+<p>Análise assintótica de algoritmos: Notação <em>Big O</em> (O, &#937; e &#920;), estimativas de tempo de execução, análise de programas iterativos e recursivos;<br /><br />Ordenação: ordenação como peça básica de outros algoritmos, algoritmos comparativos e não comparativos, pesquisa binária e aplicações diretas e indiretas;<br /><br />Técnicas de desenho de algoritmos: pesquisa exaustiva, algoritmos ávidos (<em>greedy</em>), divisão-e-conquista, programação dinâmica;<br /><br />Algumas estruturas de dados especializadas: filas de prioridade, conjuntos disjuntos;<br /><br />Árvores binárias de pesquisa balanceadas: árvores Red-Black.<br /><br />Algoritmos de grafos: representação de grafos, pesquisas em profundidade e largura, árvore de suporte de custo mínimo, distâncias mínimas, fluxo máximo.<br /><br />Problemas computacionalmente difíceis. Breve introdução às classes de complexidade de problemas P, NP, NP-hard e NP-Completos. Introdução aos algoritmos de aproximação e paramétricos.<br /><br /></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teóricas para exposição da matéria acompanhada da discussão de alguns exemplos. Aulas práticas laboratoriais para resolução de folhas de exercícios e de problemas em computador com avaliação e <em>feedback</em> automatizado pelo sistema Mooshak.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 65.0 %
+- Teste: 30.0 %
+- Trabalho laboratorial: 5.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 72.0 horas
+- Frequência das aulas: 48.0 horas
+- Trabalho laboratorial: 42.0 horas
+
+## Fórmula de cálculo da classificação final
+<ul><br /><li><strong>NP (7 valores): </strong>obtida através de <strong>dois</strong> testes práticos (3 valores cada) e de exercícios (1 ponto), a realizar durante o semestre. Necessário NP &gt;= 2.5 (na escala 0 a 7).</li><br /><li><strong>Ex (13 valores):</strong> nota teórica, vale 65% da nota final.</li><br /><li>Nota Final (requer NP &gt;= 2.5 em 7.0 e Ex &gt;= 8.0 em 20) calculdada por  NF = Ex * 0.65 + NP &gt;= 9.5</li><br /><li><strong>Casos de fraude académica: será aplicado o regulamento em vigor na FCUP/Universidade do Porto.</strong></li><br /></ul>
+
+## Obtenção de frequência
+<p>Serão registadas as presenças às aulas práticas. Perde a frequência por falta de assiduidade o estudante que faltar a mais de 25% das aulas práticas previstas (o que implica não ter possibilidade de obter aprovação à UC em 2024/2025). O número máximo de faltas às aulas práticas é de <strong>três.</strong></p>
+
+## Melhoria de classificação
+<p>Os estudantes aprovados em 2023/2024 que pretendam efetuar melhoria de classificação, devem realizar os testes práticos de programação - 6 valores -  a menos que tenham obtido 3 ou 4 valores em 4 nessa componente em 2023/2024  e realizar o exame (na época normal ou de recurso).  <br /><br />Nota final = 0.7*Ex + TP<br /><br />onde  TP  é  a nota obtida nos testes práticos.<br /><br />Para os casos em que a nota prática em 2023/2024 foi de 3 ou 4 valores, TP será essa nota multiplicada por 1.5 (a menos que o estuda queira repetir os testes).</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Algorithm Design and Analysis
+
+## Curso responsável
+Bachelor in Computer Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>To learn techniques for designing and analyzing algorithms.</p>
+
+## Resultados de aprendizagem e competências
+<p>Improving background on generic models of common problems and the algorithmic techniques for solving them. Practical experience in applying generic algorithms to specific problems. Competence in the asymptotic analysis of the running time of algorithms.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Students should know simple algorithms and data structures (for counting, searching and sorting) and a programming language (C/C++ or JAVA).</p>
+<p>Prerequisites: "Imperative Programming" (CC1003) and  "Data Structures"(CC1007), or some course unit with equivalent content.</p>
+<p> </p>
+
+## Programa
+<p>Asymptotic analysis of algorithms: Big O notation (O, &#937; e &#920;), estimating execution time, analyzing iterative and recursive programs;<br /><br />Sorting: sorting as basic element of other algorithms; comparative and non comparative algorithms, binary search and direct and indirect applications;<br /><br />Algorithm design techniques: exhaustive search, greedy algorithms, divide and conquer, dynamic programming;</p>
+<p>Some specialized data structures: priority queues, disjoint sets;<br /><br />Balanced Binary Search Trees: Red-Black trees;<br /><br />Graph algorithms: graph representation, depth-first search, breadth-first search, minimum spanning trees, minimum distances, maximum flow.<br /><br />Computtaionally hard problems. Brief introduction to the complexity classes P, NP, NP-hard, NP-complete for decision problems. Introduction to approximation and parameterized algorithms.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Regular lectures for exposing the program topics and discussing examples. Laboratory classes for solving exercise sheets and programming problems for implementation, with automatic feedback and evaluation by the Mooshak system.<br /><br /></p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 65.0 %
+- Teste: 30.0 %
+- Trabalho laboratorial: 5.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 72.0 hours
+- Frequência das aulas: 48.0 hours
+- Trabalho laboratorial: 42.0 hours
+
+## Fórmula de cálculo da classificação final
+<ul><br /><li style=&quot;text-align: left;&quot;><strong>NP (7 points)</strong>: Obtained with 3 components: 2 practical tests (3 points each) and continuous evaluation solving exercises during the semester (1 point). Required NP&gt;=2.5 (scale from 0 to 7).</li><br /><li style=&quot;text-align: left;&quot;><strong>Ex (13 points):</strong> theoretical grade, worth 65% of the final grade.</li><br /><li style=&quot;text-align: left;&quot;>Final Grade  (requires NP &gt;= 2.5 in 7 and Ex &gt;= 8.0 in 20.0) and </li><br /></ul><br />               NF = Ex * 0.65 + NP &gt;= 9.5<br /><br /><ul><br /><li><strong style=&quot;font-size: 11px;&quot;>Academic integrity violations</strong><span style=&quot;font-size: 11px;&quot;>: the regulations from FCUP/University of Porto will be applied.</span></li><br /></ul>
+
+## Obtenção de frequência
+<p>Students must attend at least 75% of the pratical classes to be admitted to the exams. Students who miss more than<strong> three </strong>classes cannot attend the exams. </p>
+
+## Melhoria de classificação
+<p>Students approved in 2023/2024, who wish to improve their grade, must take the practical tests - 6 points - (unless they obtained 3 or 4 points out of 4 in 2023/2024 in that component) - take the final exam (in the regular ou resit period).<br /><br />Final gradel = 0.7*Ex + TP<br /><br />where TP is the score in practical tests.<br /><br />For cases where the practical grade in 2023/2024 was 3 or 4 points, TP will be that grade multiplied by 1.5 (unless the student wants to repeat the tests).</p>
+

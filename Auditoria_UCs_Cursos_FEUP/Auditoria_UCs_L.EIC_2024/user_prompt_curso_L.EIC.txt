@@ -1,0 +1,1163 @@
+# Curso a analisar
+Licenciatura em Engenharia Informática e Computação
+
+## Descrição
+Acreditação pela A3ES
+O ciclo de estudo encontra-se acreditado pela Agência de Avaliação e Acreditação do Ensino Superior (A3ES). Mais informação pode ser encontrada nos
+relatórios produzidos pela A3ES
+.
+A Licenciatura em Engenharia Informática e Computação (L.EIC) é um curso oferecido em conjunto pela FEUP e pela FCUP, numa iniciativa com vista a reforçar a oferta de formação superior em Engenharia Informática na Universidade do Porto e assim responder às necessidades da sociedade nesta área de grande evolução e impacto. O curso funciona nas instalações da FEUP.
+O objetivo geral da L.EIC é promover a excelência da qualificação nos fundamentos científicos e técnicos da Engenharia Informática e Computação (EIC), habilitando os licenciados para aprofundar estudos a nível de 2º ciclo com vista ao desempenho de funções de liderança e inovação em contextos complexos, ou ingressar no mercado de trabalho para desempenhar funções ao nível do desenvolvimento e operação de sistemas baseados em Tecnologias da Informação e Comunicação (TIC). Para isso, oferece uma formação que concilia:
+formação cuidada nas ciências básicas de Engenharia, nomeadamente Matemática e Física;
+formação de base abrangente nas grandes áreas científicas e técnicas de EIC (programação, algoritmos, arquitetura de computadores, sistemas operativos, redes de computadores, engenharia de software, bases de dados, cibersegurança, computação gráfica, interação e inteligência artificial), alinhada com as boas práticas e recomendações internacionais, nomeadamente do ACM e IEEE;
+formação flexível em competências transversais.
+Objetivos
+OBJETIVOS DE APRENDIZAGEM:
+De forma geral, os objetivos são adquirir com a necessária proficiência conhecimentos de ciências básicas, como Matemática e Física, e ciências de engenharia e de tecnologias na área das TIC, bem como capacidades e atitudes pessoais, profissionais e interpessoais, e ser capaz de os utilizar na resolução de problemas no domínio das TIC e na conceção, projeto, implementação e operação de sistemas baseados em TIC no contexto social e empresarial.
+De forma mais específica, os objetivos são adquirir com a necessária proficiência competências de nível e-3 (licenciatura) do European e-Competence Framework (e.g., Application Design, Application Development, Testing, Information & Knowledge Management, Information Security Management) e ser capaz de desempenhar funções profissionais indicadas nos European ICT Professionals Role Profiles que requerem essas competências, nomeadamente integrando equipas de desenvolvimento de aplicações e de operações de TIC.
+Saídas Profissionais
+As saídas profissionais incluem:
+integração em equipas de desenvolvimento de aplicações para variadas plataformas (Web, dispositivos móveis, etc.) e domínios de aplicação (saúde, transportes, comércio eletrónico, indústria, banca e seguros, entretenimento, governo eletrónico, etc.);
+integração em equipas de gestão de operações de TIC (atuando ao nível da administração de sistemas, administração de redes de computadores, administração de dados, cibersegurança, etc.);
+ingresso num curso de mestrado (mestrado de continuidade ou mestrados mais especializados) para aprofundamento e especialização de conhecimentos numa área de interesse individual.
+Informações
+Contactos
+leic@fe.up.pt
+Sala
+: I 012A
+Horário:
+Segunda a sexta | 10h00 - 12h00 / 14h30 - 16h30*
+*na impossibilidade de se dirigir à Secretaria do DEI dentro do horário de atendimento, poderá solicitar a marcação de uma hora de atendimento (entre as 8h e as 17h30) através do email leic@fe.up.pt.
+Tlf:
++351 220 414 538
+Tlf. Geral:
++351 225 082 134
+Morada:
+Faculdade de Engenharia da Universidade do Porto
+Departamento de Engenharia Informática
+Rua Dr. Roberto Frias, s/n
+4200-465 Porto, Portugal
+
+# Unidade curricular: Competições de Swarm Robotics
+
+## Ano: 1
+## Semestre: 1
+## Grupo(s) de opção a que pertence: Competências Transversais I 2ºA - 1ºS, Competências Transversais III 3ºA - 1ºS
+## ECTS: 1.5
+## Objetivos: <ul><br /><li>dotar os estudantes de competências básicas na conceção, desenvolvimento e implementação de algoritmos simples de cooperação e consensos de múltiplos agentes com foco especial em competições de <em>swarm robotics</em>. Os algoritmos de inteligência e controlo swarm têm aplicações em diversas áreas científicas, incluindo, ambiental, bioengenharia, civil, ciências dos dados, ciências de computação e da informação, eletrotécnica, física, mecânica, nanotecnologia e química; o que torna este tópico transversal.</li><br /><li>preparar os estudantes para a competição de <em>swarm robotics, </em>promovendo o desenvolvimento de competências complementares (soft skills), designadamente: trabalho em equipa, cooperação, comunicação interpares, gestão de tempo, gestão de recursos, gestão de stress.</li><br /></ul>
+
+## Resultados de aprendizagem: <ul><br /><li>Explicação do funcionamento básico de simples algoritmos de consensos e inteligência swarm entre agentes;</li><br /><li>Desenvolvimento de pequenos módulos de programas em Python na plataforma notebook para a competição que consiste na utilização de robots móveis para procurar e colecionar o maior número de recursos num determinado período de tempo fixo.</li><br /><li>Desenvolvimento de soft skills nas áreas de trabalho em equipa, cooperação, comunicação interpares, gestão de tempo, gestão de recursos, gestão de stress</li><br /></ul>
+
+# Unidade curricular: Computação Paralela e Distribuída
+
+## Ano: 3
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: <p><span style="font-weight: 400;">Dotar os estudantes com:<br /></span></p>
+<ul>
+<li><span style="font-weight: 400;">conhecimentos conducentes à utilização simultânea de várias unidades de processaento num sistema de computação;</span></li>
+<li><span style="font-weight: 400;">bases sólidas sobre paralelização de algoritmos, modelos de programação, sincronização de processos e medidas de desempenho, através do desenvolvimento de programas;</span></li>
+<li><span style="font-weight: 400;">conhecimentos teóricos sobre sistemas distribuídos para que possam tomar decisões correctas quando confrontados com a necessidade de conceber/desenvolver/administrar um sistema ou aplicação distribuídos;</span></li>
+<li><span style="font-weight: 400;">experiência de programação para que possam desenvolver aplicações distribuídas.</span></li>
+</ul>
+
+## Resultados de aprendizagem: <p>Após conclusão desta UC, os estudantes deverão ser capazes de:</p>
+<ul>
+<li>Analisar um problema e identificar o modelo de paralelização mais adequado;</li>
+<li>Escrever programas segundo o modelo de memória partilhada;</li>
+<li>Elaborar soluções paralelas para novos problemas;</li>
+<li>Utilizar modelos computacionais para estimar o tempo de computação das aplicações;</li>
+<li>Conhecer boas práticas para efetuar partilha de recursos entre processos concorrentes;</li>
+<li><span style="font-weight: 400;">Explicar as implicações da latência de comunicação, falhas parciais e assincronia numa aplicação distribuída;</span></li>
+<li><span style="font-weight: 400;">Implementar uma aplicação distribuída quer recorrendo a "threads" quer usando uma abordagem orientada a eventos;</span></li>
+<li><span style="font-weight: 400;">Identificar aplicações práticas de algoritmos básicos de sincronização, como eleições, e explicar porque pequenas alterações nesses algoritmos, podem quebrá-los;</span></li>
+<li><span style="font-weight: 400;">Explicar o funcionamento de algoritmos básicos de tolerância a falhas e das garantias por eles dadas;</span></li>
+<li><span style="font-weight: 400;">Compreender a utilidade e o desafio da replicação de dados/serviços em aplicações distribuídas;</span></li>
+<li><span style="font-weight: 400;">Avaliar os compromissos entre desempenho, tolerância a falhas e consistência em serviços replicados.</span></li>
+</ul>
+
+## Pré-requisitos e co-requisitos: Sistemas Operativos<br /><br />Redes de Computadores
+
+# Unidade curricular: Álgebra Linear e Geometria Analítica
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 4.5
+## Objetivos: <p>Esta unidade tem dois objetivos fundamentais: por um lado, tratando-se de uma disciplina propedêutica tem um carácter didático/científico, promovendo o desenvolvimento do raciocínio lógico e de métodos de análise e, por outro, visa introduzir e desenvolver em termos teóricos um conjunto de conceitos que serão ferramentas essenciais para apoio às disciplinas mais específicas da Engenharia. </p>
+
+## Resultados de aprendizagem: <p>A unidade visa desenvolver ferramentas matemáticas usadas em Engenharia.</p>
+<p>O estudante deverá dominar conceitos de cálculo vetorial em R^n, especialmente R^2 e R^3. Deve ser capaz de usar propriedades de matrizes, determinantes, espaços vetoriais e aplicações lineares.</p>
+<p>Em particular, o estudante deve ser capaz de:</p>
+<p>- reconhecer espaços e subespaços vetoriais reais, determinar suas bases, calcular sua dimensão e coordenadas de vetores numa base;</p>
+<p>- reconhecer aplicações lineares e as suas principais propriedades;</p>
+<p>- efetuar operações com matrizes e usá-las para resolver sistemas de equações lineares e discuti-los, operar com matrizes associadas a aplicações lineares, determinar vetores e valores próprios, diagonalizar (se possível) uma matriz, e (caso o tempo permita) identificar cônicas e quádricas usando matrizes e valores próprios;</p>
+<p>- calcular determinantes, aplicar as suas propriedades e sua interpretação em termos de áreas e volumes.</p>
+<p> </p>
+
+# Unidade curricular: Laboratório de Bases de Dados e Aplicações Web
+
+## Ano: 3
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p>A unidade curricular de LBAW tem como objetivo sedimentar as matérias expostas nas unidades curriculares de Bases de Dados e Linguagens e Tecnologias Web. Esta unidade curricular oferece uma perspetiva prática sobre duas áreas centrais da engenharia informática.</p>
+<p>Nesta unidade curricular pretende-se dotar os estudantes da capacidade de projetar e desenvolver sistemas de informação baseados em tecnologias web e suportados por sistemas de gestão de bases de dados relacionais.</p>
+
+## Resultados de aprendizagem: <p>Ao completar esta unidade curricular, o estudante deve ser capaz de projetar e implementar um sistema de informação baseado em tecnologias web e suportado por um sistema de gestão de base de dados relacional. Em particular, o estudante deve ser capaz de:</p>
+<ol>
+<li>Especificar os requisitos;</li>
+<li>Desenhar a arquitetura de informação, as interfaces com o utilizador, e os fluxos de navegação;</li>
+<li>Desenhar o modelo conceptual de dados;</li>
+<li>Obter e validar o esquema lógico relacional da base de dados;</li>
+<li>Obter o esquema físico da base de dados e afinar o esquema lógico relacional;</li>
+<li>Desenhar e implementar interrogações para acesso à base de dados em SQL;</li>
+<li>Desenhar e implementar mecanismos para a manutenção da integridade dos dados;</li>
+<li>Desenhar e especificar os recursos web para suportar a interação com o utilizador e a lógica de negócio;</li>
+<li>Implementar os componentes web do sistema com recurso a tecnologias web, baseadas no servidor e no cliente;</li>
+<li>Assegurar que as interfaces com o utilizador estão de acordo com as normas e boas práticas de acessibilidade e usabilidade web.</li>
+</ol>
+
+## Pré-requisitos e co-requisitos: <p>Bases de Dados: modelação de dados em UML, Modelo Relacional, linguagem SQL.</p>
+<p>Linguagens e Tecnologias Web: protocolo HTTP, paradigma REST, linguagens HTML, CSS e JavaScript.</p>
+
+# Unidade curricular: Introdução à Robótica
+
+## Ano: 1
+## Semestre: 1
+## Grupo(s) de opção a que pertence: Competências Transversais I 2ºA - 1ºS, Competências Transversais III 3ºA - 1ºS
+## ECTS: 1.5
+## Objetivos: <p>A introdução à Robótica tem como objetivo permitir o desenvolvimento de competências de desenvolvimento e integração de diversos conhecimentos de uma forma muito atrativa e baseada em trabalhos práticos com equipamento real. A compreensão do princípio de funcionamento de diversos sensores e atuadores e a sua aplicação em sistemas reais, alargará a compreensão e a atratividade da Física e da Matemática.</p>
+<p>A introdução às linguagens de programação é algo relevante em qualquer curso de engenharia, tecnologias e ciências exatas. Os estudantes, ao adquirirem competências básicas de programação aplicada à robótica, aumentarão o seu potencial de desenvolver aplicações que envolvam hardware e software/firmware; sendo assim que esta formação em CT é transversal a várias áreas de estudo.</p>
+<p>É também objetivo desta formação em CT promover o desenvolvimento de soft skills. Assim, será através do trabalho em grupo a desenvolver sobre a matéria lecionar e para aplicação das aprendizagens que os estudantes terão oportunidade de desenvolver soft-skills como a capacidade de trabalhar em equipa e desenvolver vários papeis, a cooperação entre os membros da mesma.</p>
+<p>A avaliação irá permitir aos estudantes desenvolver soft-skills nas áreas de elaboração de relatórios científicos e de comunicação/apresentações orais com a defesa de ideias e argumentação.</p>
+
+## Resultados de aprendizagem: <p>- competências básicas de programação aplicada à robótica</p>
+<p>- desenvolvimento de aplicações que envolvam hardware e software/firmware</p>
+<p>- seleção de diversos sensores e atuadores para aplicação em sistemas robóticos reais</p>
+<p>- cooperação e trabalho em equipa</p>
+<p>- elaboração de relatórios científicos</p>
+<p>- comunicação e apresentações orais</p>
+- defesa de ideias e argumentação
+
+## Pré-requisitos e co-requisitos: Conhecimentos básicos de programação.
+
+# Unidade curricular: Os Desafios do Desenvolvimento Sustentável
+
+## Ano: 1
+## Semestre: 1
+## Grupo(s) de opção a que pertence: Competências Transversais I 2ºA - 1ºS, Competências Transversais III 3ºA - 1ºS
+## ECTS: 1.5
+## Objetivos: Esta unidade curricular (UC) tem como objetivo principal a aquisição de competências sobre os aspetos fundamentais da ligação entre Engenharia e Sustentabilidade e respetivos desafios. Para esse fim, esta UC aborda conceitos fundamentais sobre sustentabilidade nas suas vertentes ambiental, económica e social.
+
+## Resultados de aprendizagem: <p>Esta Unidade de Competência Transversal destina-se a alunos de 1º ciclo das várias licenciaturas em engenharia e pretende promover a aprendizagem de um conjunto de conhecimentos na área do desenvolvimento sustentável, nomeadamente, a obtenção de uma visão geral sobre:</p>
+<ul>
+<li>Os fundamentos do Desenvolvimento Sustentável;</li>
+<li>O enquadramento regulatório e estratégico do Desenvolvimento Sustentável, designadamente, a Agenda 2030 das Nações Unidas para o Desenvolvimento Sustentável, o Acordo de Paris para as Alterações Climáticas e o Plano de Ação para o Financiamento ao Desenvolvimento.</li>
+<li>A abordagem empresarial do desenvolvimento sustentável e os padrões ambientais, sociais e de governança corporativa.</li>
+<li>Os desafios da transição climática e energética: cenários e impactos; enquadramento regulatório; trajetórias de neutralidade carbónica e avaliação custo-benefício da descarbonização; estratégias de promoção das energias renováveis, da eficiência energética e da mobilidade sustentável.</li>
+<li>Os desafios, as estratégias, a regulamentação, as tecnologias e a avaliação económica na gestão dos recursos hídricos, na proteção da biodiversidade e na valorização do capital natural.</li>
+<li>Os mecanismos de financiamento do desenvolvimento sustentável, a relevância da cooperação para o desenvolvimento e os instrumentos inovadores de financiamento sustentável.</li>
+</ul>
+
+# Unidade curricular: Física I
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: <ol><br /><li>Apresentar uma discussão detalhada dos conceitos básicos da Mecânica Clássica, com ênfase nos aspetos essenciais, procurando desenvolver a intuição e a capacidade de pensar em termos físicos;</li><br /><li>Introduzir as ferramentas matemáticas necessárias para descrever os conceitos fundamentais da Mecânica Clássica.</li><br /><li>Desenvolver a capacidade de aplicar a matemática a problemas do mundo real da física e da engenharia;</li><br /><li>Incluir exemplos de aplicação não triviais para ilustrar o alcance</li><br /></ol>
+
+## Resultados de aprendizagem: <p>Os estudantes que tiverem aproveitamento deverão ser capazes de:</p>
+<p> 1 - Explicar conceitos e fenómenos físicos básicos de Mecânica Clássica newtoniana, usando o vocabulário apropriado.</p>
+<p>2 - Resolver equações de movimento simples, usando o método de separação de variáveis.</p>
+<p>3 - Enunciar as leis de Newton, e leis de conservação de: quantidade de movimento, energia e momento angular</p>
+<p>4 - Identificar as forças e torques que atuam num sistema mecânico e escrever as equações de movimento</p>
+<p>5 - Usar as leis que regem os fenómenos fundamentais da Mecânica Clássica para calcular grandezas físicas relevantes.</p>
+<p>6 - Trabalhar em grupo, na resolução de problemas e serem igualmente capazes de resolverem problemas de forma independente.</p>
+
+## Pré-requisitos e co-requisitos: <p>Pré-requisitos: cálculo vetorial, diferencial e integral.</p>
+
+# Unidade curricular: Competências Transversais para a Engenharia: Introdução ao Linux
+
+## Ano: 1
+## Semestre: 1
+## Grupo(s) de opção a que pertence: Competências Transversais I 2ºA - 1ºS, Competências Transversais III 3ºA - 1ºS
+## ECTS: 1.5
+## Objetivos: <p>Os objectivos desta unidade curricular de competências transversais são:</p>
+<ul>
+<li>Apresentar a filosofia de código aberto e o seu impacto no desenvolvimento de software;</li>
+<li>Fornecer uma compreensão abrangente do sistema operativo Linux e dos seus princípios básicos;</li>
+<li>Desenvolver práticas de navegação e operação no ambiente Linux;</li>
+<li>Desenvolver a capacidade de personalizar e otimizar sistemas Linux para diversas aplicações;</li>
+<li>Promover habilidades de resolução de problemas na gestão e "troubleshooting" de sistemas operativos Linux.</li>
+</ul>
+Desta forma, pretende-se que os estudantes <span class="HwtZe" lang="pt" style="text-align: justify;"><span class="jCAhz ChMk0b"><span class="ryNqvb">reconheçam as vantagens de personalizar o sistema operativo para atender as necessidades específicas e melhorar a eficiência no seu uso como ferramenta de trabalho. </span></span></span>
+
+## Resultados de aprendizagem: <p style="text-align: justify;">No final da presente unidade curricuar de competências, as/os estudantes deverão ser capazes de:</p>
+<ul>
+<li style="text-align: justify;">Utilizar a interface de linha de comandos para executar várias tarefas com eficiência;</li>
+<li style="text-align: justify;">Escrever e executar "scripts shell" básicos para automatizar tarefas de rotina;</li>
+<li style="text-align: justify;">Adequar as ferramentas à utilização académica típica (escrita de relatórios, bibliografias, etc);</li>
+<li style="text-align: justify;">Compreender e aplicar conceitos de segurança e ferramentas básicas de rede no ambiente Linux;</li>
+<li style="text-align: justify;">Gerir recursos do sistema operativo, incluindo contas de utilizador, processos e serviços;</li>
+<li style="text-align: justify;">Instalar, atualizar e gerir pacotes de software do sistema operativo;</li>
+<li style="text-align: justify;">Solucionar problemas comuns e realizar manutenção regular para garantir a fiabilidade do sistema.</li>
+</ul>
+
+# Unidade curricular: Introdução à análise de dados em Python
+
+## Ano: 1
+## Semestre: 1
+## Grupo(s) de opção a que pertence: Competências Transversais I 2ºA - 1ºS, Competências Transversais III 3ºA - 1ºS
+## ECTS: 1.5
+## Objetivos: <p>Procura-se que os estudantes adquiram competências transversais na resolução de problemas de gestão e análise de dados com recurso à linguagem Python e às suas bibliotecas, nomeadamente utilizando séries de dados disponíveis na Pordata e no INE.</p>
+
+## Resultados de aprendizagem: <p>Pretende-se que os estudantes desenvolvam as seguintes competências no final da UC:</p>
+<ul>
+<li>Utilização de Python e suas bibliotecas de suporte à análise de dados.</li>
+<li>Compreensão dos conceitos essenciais da análise e gestão de dados.</li>
+<li>Resolução de problemas envolvendo um grande volume de dados, nomeadamente utilizando séries de dados disponíveis na Pordata e no INE.</li>
+</ul>
+
+# Unidade curricular: Teoria da Computação
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: <p><span style="font-weight: 400;">Preparar os estudantes em tópicos relacionados com modelos da computação e sobre as classes de linguagens formais associadas.</span></p>
+<p><span style="font-weight: 400;">Munir os estudantes dos conhecimentos necessários que lhes permitam utilizar corretamente  linguagens regulares, expressões regulares, autómatos finitos determinísticos e não-determinísticos, linguagens e gramáticas  independentes de contexto, autómatos de pilha, e Máquinas de Turing.</span></p>
+<p><span style="font-weight: 400;">Capacitar os estudantes para que estes sejam capazes de expressar problemas computacionais usando linguagens formais, autómatos e máquinas de Turing.</span></p>
+<p><span style="font-weight: 400;">Capacitar os estudantes de métodos para formalizar problemas computacionais relacionados com linguagens  formais.</span><br style="font-weight: 400;" /><br /></p>
+
+## Resultados de aprendizagem: <p><span style="font-weight: 400;">Ao completar a unidade curricular, espera-se que os estudantes sejam capazes de:</span></p>
+<p><span style="font-weight: 400;">Capacidade de especificar linguagens formais simples usando formas de descrição alternativas e de determinar a sua classificação na hierarquia de poder computacional. Em particular:</span></p>
+<p><span style="font-weight: 400;">- Identificar problemas tratáveis com autómatos finitos e exprimi-los com notação rigorosa;</span></p>
+<p><span style="font-weight: 400;">- Comparar os autómatos finitos determinísticos, não-determinísticos e as expressões regulares no reconhecimento das linguagens regulares;</span></p>
+<p><span style="font-weight: 400;">- Usar as propriedades das linguagens regulares;</span></p>
+<p><span style="font-weight: 400;">- Identificar problemas que se podem tratar com gramáticas independentes de contexto e descrevê-los usando esses formalismos;</span></p>
+<p><span style="font-weight: 400;">- Comparar as gramáticas independentes de contexto e os autómatos de pilha no reconhecimento das LICS;</span></p>
+<p><span style="font-weight: 400;">- Exprimir problemas usando máquina de Turing;</span></p>
+<p><span style="font-weight: 400;">- Relacionar os modelos de computação estudados com as suas aplicações na teoria da computabilidade e da complexidade.</span></p>
+<p><br style="font-weight: 400;" /><br /></p>
+
+## Pré-requisitos e co-requisitos: É recomendado que os estudantes tenham frequentado a unidade curricular de Matemática Discreta.
+
+# Unidade curricular: Redes de Computadores
+
+## Ano: 3
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p>Redes de Computadores (RCOM) é a unidade curricular que introduz os estudantes no domínio de conhecimento das redes de comunicações. Os conceitos fundamentais endereçados em RCOM incluem os seguintes: canais de comunicação e controlo da ligação de dados, modelos de erro e atraso, comunicações multi-acesso, encaminhamento, controlo de fluxo e controlo de congestionamento. As principais tecnologias discutidas em RCOM são a Ethernet comutada, a Wireless LAN 802.11, a Internet e a pilha de comunicações TCP/IP. As implementações e projetos a desenvolver em RCOM incluem um protocolo de ligação de dados com controlo de fluxo, uma aplicação a funcionar em modo cliente, e a configuração e teste de redes Ethernet e IP.</p>
+
+## Resultados de aprendizagem: <p>Depois de ter frequentado RCOM o estudante deverá ser capaz de: a) perceber e explicar os conceitos fundamentais das redes de comunicações; b) escolher, comparar ou empregar as tecnologias de redes de comunicações atuais; c) implementar, configurar e testar mecanismos e componentes essenciais de uma rede de comunicações.</p>
+
+# Unidade curricular: SAFE - Segurança química e microbiológica em laboratórios de investigação
+
+## Ano: 3
+## Semestre: 1
+## Grupo(s) de opção a que pertence: Competências Transversais I 2ºA - 1ºS, Competências Transversais III 3ºA - 1ºS
+## ECTS: 1.5
+## Objetivos: <p>São objetivos gerais da unidade de formação:</p>
+<p>- Capacitar os estudantes que desenvolvem a atividade em laboratórios para uma atuação condizente com as normas de segurança.</p>
+<p>- Identificar riscos de acidentes decorrentes do manuseamento de agentes tóxicos, corrosivos e inflamáveis, falhas na infraestrutura dos laboratórios ou nas condições operacionais e formas de solucionar esses problemas.</p>
+<p>- Criar e manter atualizados documentos padronizados para uso nos laboratórios.</p>
+
+## Resultados de aprendizagem: <p>Pretendem-se que os estudantes adquiram conhecimentos relativos aos seguintes tópicos:</p>
+<p><br />1. Fundamentos de segurança laboratorial em laboratórios de química.</p>
+<p> </p>
+<p> <br />2. Riscos biológicos</p>
+<p> </p>
+<p> <br />3. Plano de Segurança Interno da FEUP<br /><br /></p>
+<p>4. Procedimentos de emergência em laboratório<br /><br /></p>
+<p>O módulo teórico-prático terá a duração total de 14 horas, incluindo uma componente experimental no próprio laboratório onde o investigador desenvolve a atividade, permitindo a aprendizagem através de uma abordagem <em>learning by doing</em>.</p>
+
+# Unidade curricular: Bases de Dados
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p><strong>Enquadramento</strong></p>
+<p>Sistemas de Informação (SI) é uma área fundamental em engenharia informática. Bases de dados são repositórios de dados necessários em qualquer SI. A unidade curricular de bases de dados é uma unidade chave na área de SI. O objetivo principal desta unidade curricular é preparar os estudantes para projetar e desenvolver sistemas de bases de dados que atendam às necessidades dos utilizadores de acordo com os objetivos de gestão organizacionais.</p>
+<p><strong>Objetivos Específicos</strong></p>
+<p>Este é um curso introdutório sobre bases de dados. Aborda o paradigma relacional. Abrange o desenho (modelo UML e normalização relacional), construção (linguagem de definição de dados SQL), consulta (linguagem de manipulação de dados SQL) e gestão (organização física e optimização de SQL) de bases de dados relacionais.</p>
+<p><strong>Distribuição Percentual</strong></p>
+<p>Componente científica: 50%<br /> Componente tecnológica: 50% </p>
+
+## Resultados de aprendizagem: Após a conclusão desta unidade, o estudante deve ser capaz de:<br /><ul><br /><li>Explicar as principais características de um sistema de gestão de bases de dados;</li><br /><li>Criar um modelo conceptual para uma base de dados num contexto específico;</li><br /><li>Mapear um modelo conceptual para um esquema relacional;</li><br /><li>Identificar dependências funcionais numa relação;</li><br /><li>Diferenciar formas normais em esquemas relacionais;</li><br /><li>Decompor esquemas relacionais para a forma normal Boyce-Codd e 3a forma normal;</li><br /><li>Criar uma base de dados relacional usando a linguagem SQL a partir de um esquema relacional;</li><br /><li>Usar álgebra relacional para interrogar bases de dados;</li><br /><li>Consultar bases de dados relacionais usando a linguagem SQL;</li><br /><li>Compreender a necessidade de índices e identificar o melhor índice a criar numa dada situação;</li><br /><li>Usar transações e concorrência que garantam a integridade dos dados de uma base de dados;</li><br /><li>Identificar as diferenças entre uma base de dados relacional, bases de dados multi-dimensionais e bases de dados NoSQL e qual a mais adequada a uma dada situação.</li><br /></ul>
+
+## Pré-requisitos e co-requisitos: <p>Conhecimentos básicos de teoria de conjuntos.</p>
+
+# Unidade curricular: Programação Funcional e em Lógica
+
+## Ano: 3
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p>Os paradigmas de Programação Funcional e de Programação em Lógica apresentam abordagens declarativas e baseadas em processos formais de raciocínio à programação, mais apropriada para a resolução de alguns tipos de problemas.</p>
+<p>Objetivos: Adquirir familiaridade com os paradigmas da Programação Funcional e da Programação em Lógica. Desenvolver as capacidades de raciocínio abstracto e de representação de problemas de forma declarativa.</p>
+
+## Resultados de aprendizagem: <p>No final da UC, os estudantes deverão ser capazes de:</p>
+<ol>
+<li>Usar tipos pré-definidos e algébricos de Haskell para representar valores de um domínio específico</li>
+<li>Definir transformações genéricas sobre estruturas de dados indutivas (por exemplo: árvores) como funções polimórficas em Haskell</li>
+<li>Decompor problemas de programação em funções puras em Haskell operando sobre tipos de dados estruturados</li>
+<li>Provar correção de programas em Haskell usando definições com equações e indução</li>
+<li>Representar factos e relações como programas em Prolog</li>
+<li>Compreender o modelo de execução de programas em Prolog</li>
+<li>Modelar problemas de pesquisa como programas lógicos e <em>queries</em> em Prolog</li>
+</ol>
+
+# Unidade curricular: Mini-projetos de sistemas de aprendizagem e controlo
+
+## Ano: 3
+## Semestre: 1
+## Grupo(s) de opção a que pertence: Competências Transversais I 2ºA - 1ºS, Competências Transversais III 3ºA - 1ºS
+## ECTS: 1.5
+## Objetivos: <ul><br /><li>dotar os estudantes de competências básicas na conceção, desenvolvimento e implementação de algoritmos simples de aprendizagem e controlo. Os algoritmos propostos fazem uso dos dados para melhorar a sua performance e têm aplicações em diversas áreas científicas de engenharia, incluindo, ambiental, bioengenharia, civil, ciências dos dados, ciências de computação e da informação, eletrotécnica, física, mecânica, nanotecnologia e química; o que torna este tópico transversal. </li><br /><li>preparar os estudantes para resolverem em grupo, mini-projetos, promovendo o desenvolvimento de competências complementares (soft skills), designadamente: trabalho em equipa, cooperação, comunicação interpares, gestão de tempo, gestão de recursos, gestão de stress.</li><br /></ul>
+
+## Resultados de aprendizagem: <ul><br /><li>Explicação do funcionamento básico de simples algoritmos de aprendizagem e controlo;</li><br /><li>Desenvolvimento de pequenos projetos utilizando módulos de programas em Python na plataforma Colab notebook que inclui tratamento de dados e extração de atributos, aprendizagem e controlo;</li><br /><li>Desenvolvimento de soft skills nas áreas de trabalho em equipa, cooperação, comunicação interpares, gestão de tempo, gestão de recursos e gestão de stress.</li><br /></ul>
+
+# Unidade curricular: Introdução à Mecânica Quântica
+
+## Ano: 1
+## Semestre: 1
+## Grupo(s) de opção a que pertence: Competências Transversais I 2ºA - 1ºS, Competências Transversais III 3ºA - 1ºS
+## ECTS: 1.5
+## Objetivos: 
+
+## Resultados de aprendizagem: 
+
+# Unidade curricular: Linguagens e Tecnologias Web
+
+## Ano: 2
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: <p>Pretende-se, nesta unidade curricular, que os alunos desenvolvam competências nas linguagens e tecnologias WEB mais significativas, no contexto tecnológico atual, ou que foram determinantes no processo evolutivo da WEB. </p>
+
+## Resultados de aprendizagem: <p>Pretende-se que os estudantes que obtenham aprovação à disciplina, consigam:<br />1 - Estruturar documentos usando a linguagem HTML.<br />2 - Usar a linguagem CSS para fazer o layout e o design de uma página web.<br />3 - Criar páginas web dinâmicas com acesso a uma base de dados usando a linguagem PHP.<br />4 - Usar a linguagem Javascript, do lado do cliente, de forma a melhorar a interação entre o utilizador e a página web.<br />5 - Perceber o funcionamento do protocolo HTTP, os seus vários tipos de pedidos e respostas.<br />6 - Analisar os vários tipos de problemas de segurança que podem ocorrer no desenvolvimento de uma página web e saber como os resolver.<br />7 - Usar expressões regulares para validar e limpar dados em formato de texto.<br />8 - Perceber a relação entre o XML e o desenvolvimento web assim como as várias tecnologias associadas como o XPath.</p>
+
+## Pré-requisitos e co-requisitos: Conhecimentos de programação procedimental, desenho e utilização de bases de dados relacionais, e utilização do Git adquiridos em unidades curriculares anteriores.
+
+# Unidade curricular: Métodos Estatísticos
+
+## Ano: 2
+## Semestre: 2
+## ECTS: 4.5
+## Objetivos: <p style="text-align: justify;">Garantir que os alunos adquiram uma visão integrada de conceitos e técnicas básicas da Estatística no âmbito do curso de Engenharia Informática.</p>
+
+## Resultados de aprendizagem: <p>No final da unidade curricular, os estudantes devem ser capazes de:</p>
+<p>- utilizar métodos para explorar, sumarizar e apresentar dados;</p>
+<p>- utilizar métodos de inferência estatística.</p>
+
+# Unidade curricular: Programação
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: <p><span style="font-weight: 400;">O objetivo desta unidade curricular é dotar os estudantes com conhecimentos fundamentais sobre a programação imperativa e orientada a objetos em C/C++.</span></p>
+<p> </p>
+
+## Resultados de aprendizagem: <p><span style="font-weight: 400;">Os estudantes que concluírem com sucesso esta unidade curricular deverão ser capazes de resolver problemas de programação usando código em C/C++ que seja bem estruturado, legível, documentado e validado.</span><br /><br /></p>
+
+## Pré-requisitos e co-requisitos: <span style=&quot;font-weight: 400;&quot;>Nenhum conhecimento prévio é necessário.<br /><br /><br /></span>
+
+# Unidade curricular: Arquitetura de Computadores
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: <p><strong>ENQUADRAMENTO</strong></p>
+<p>A arquitetura de um computador reflete o avanço tecnológico atual, mas também estabelece os limites das suas capacidades e do seu desempenho.  Tanto a arquitetura do sistema como o conjunto de instruções têm um impacto profundo na prática diária dos engenheiros informáticos.</p>
+<p><strong>OBJETIVOS ESPECÍFICOS </strong></p>
+<p>A unidade curricular "Arquitetura de Computadores" tem por objetivo desenvolver, combinar e aplicar de forma integrada conceitos das áreas de Arquitetura de Computadores e de Linguagens de Programação.  Assim, a unidade curricular explora os mecanismos de apoio à execução eficiente de programas, como memórias "cache", encadeamento de instruções e predição de saltos. Reconhecendo que a arquitetura de computadores vai muito para além da arquitetura do CPU, a unidade curricular abordará também os subsistemas de memória, armazenamento e periféricos. Após a conclusão com sucesso desta unidade curricular, o estudante terá adquirido a capacidade de identificar e descrever a arquitetura das plataformas computacionais em uso atualmente, bem como a capacidade de aplicar as técnicas de programação "assembly" na implementação de algoritmos.</p>
+<p><strong>DISTRIBUIÇÃO PERCENTUAL </strong></p>
+<ul>
+<li>Componente científica: 60%</li>
+<li>Componente tecnológica: 40%</li>
+</ul>
+
+## Resultados de aprendizagem: <p>Após frequentar esta unidade curricular, o estudante deve ser capaz de:</p>
+<ol>
+<li>Descrever organizações de memória &#8220;cache&#8221; e explicar o seu uso para melhorar o desempenho.</li>
+<li>Explicar &#8220;pipelining&#8221; básico no nível das instruções e o seu efeito no desempenho.</li>
+<li>Explicar os mecanismos para lidar com dependências de dados e de controlo.</li>
+<li>Descrever arquiteturas superescalares (emissão simultânea de instruções; execução fora de ordem).</li>
+<li>Descrever instruções SIMD/vetoriais e aplicá-las em sub-rotinas de elevado desempenho.</li>
+<li>Discutir as limitações de desempenho dos processadores de núcleo único.</li>
+<li>Descrever a organização básica de um multiprocessador simétrico (com vários núcleos e memória partilhada).</li>
+<li>Explicar a interação do processador com os dispositivos de entrada / saída (E/S).</li>
+<li>Avaliar as diferentes abordagens à gestão de E/S (varrimento, interrupções, DMA)</li>
+<li>Descrever as características das atuais tecnologias de armazenamento secundário e avaliar o seu impacto sobre o desempenho.</li>
+</ol>
+
+## Pré-requisitos e co-requisitos: <p>Pré-requisito:</p>
+<p>- Fundamentos de sistemas computacionais (L.EIC004) : princípios da programação em linguagem "assembly" (RISC-V) e de organização de computadores.</p>
+
+# Unidade curricular: Introdução à análise de dados em Excel
+
+## Ano: 1
+## Semestre: 1
+## Grupo(s) de opção a que pertence: Competências Transversais I 2ºA - 1ºS, Competências Transversais III 3ºA - 1ºS
+## ECTS: 1.5
+## Objetivos: <p>Nesta formação em competências transversais procura-se que os estudantes adquiram competências na utilização de Folhas de Cálculo, em particular o MS Excel, para a resolução de problemas de gestão e análise de grandes volumes de dados, nomeadamente utilizando séries de dados disponíveis na Pordata, no INE e outros.</p>
+
+## Resultados de aprendizagem: <p>Pretende-se que os estudantes atinjam os seguintes objetivos:</p>
+<ul>
+<li>Utilização de Folhas de Cálculo.</li>
+<li>Compreensão dos conceitos essenciais da análise e gestão de dados.</li>
+<li>Resolução de problemas envolvendo um grande volume de dados, nomeadamente utilizando séries de dados disponíveis na ordata, no INE e outros.</li>
+</ul>
+
+# Unidade curricular: Compiladores
+
+## Ano: 3
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: <p>Fornecer os conceitos que permitam:</p>
+<ul>
+<li>compreender as fases de compilação de linguagens, em especial das linguagens imperativas e orientada por objectos;</li>
+<li>especificar a sintaxe e semântica de uma linguagem de programação;</li>
+<li>compreender e utilizar as estruturas de dados e os algoritmos principais usados na implementação de compiladores;</li>
+<li>realizar a engenharia de um compilador como projecto software de larga escala</li>
+</ul>
+
+## Resultados de aprendizagem: <p>As competências adquiridas permitirão aos estudantes:</p>
+<ul style="list-style-type: square;">
+<li>desenvolver e implementar em software processadores de linguagens artificiais e de informação especificada textualmente segundo determinadas regras lexicais e sintácticas;</li>
+<li>conceber e implementar em software as várias etapas relacionadas com compiladores, nomeadamente:</li>
+<ul>
+<li>expressões regulares e autómatos finitos;</li>
+<li>analisadores sintácticos e semânticos;</li>
+<li>analisadores semânticos;</li>
+<li>ambientes de execução e máquinas virtuais;</li>
+<li>geração de código intermédio e estruturas de suporte de análise (tabela de simbolos);</li>
+<li>analise de fluxo de dados e de controle e optimizações de código;</li>
+<li>geradores de código para processadores ou para máquinas virtuais;</li>
+</ul>
+</ul>
+
+## Pré-requisitos e co-requisitos: <ul><br /><li><span lang=&quot;PT&quot; style=&quot;font-family: 'Trebuchet MS','sans-serif'; font-size: 9pt;&quot;>Linguagens de programação imperativas, orientadas por objetos.</span></li><br /><li><span lang=&quot;PT&quot; style=&quot;font-family: 'Trebuchet MS','sans-serif'; font-size: 9pt;&quot;>Algoritmos e estruturas de dados.</span></li><br /><li><span lang=&quot;PT&quot; style=&quot;font-family: 'Trebuchet MS','sans-serif'; font-size: 9pt;&quot;>Teoria da Computação.</span></li><br /><li><span lang=&quot;PT&quot; style=&quot;font-family: 'Trebuchet MS','sans-serif'; font-size: 9pt;&quot;>Arquitectura de Computadores.</span></li><br /></ul>
+
+# Unidade curricular: Projeto UP
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 1.5
+## Objetivos: <ul><br /><li>Receber e integrar no ambiente FEUP os estudantes recém chegados</li><br /><li>Dar a conhecer os principais serviços disponíveis no c<em>ampus</em></li><br /><li>Dar formação inicial em &#8220;Soft Skills&#8221; (trabalho em equipa, comunicação, etc.) e alertar para a sua importância ao longo da carreira em engenharia</li><br /><li>Discutir cientificamente um Tema / resolver um Projeto de dificuldade limitada nas áreas de engenharia.</li><br /></ul>
+
+## Resultados de aprendizagem: <p>No final desta Unidade Curricular (UC), a equipa de estudantes deverá ter:</p>
+<ul>
+<li>Produzido um Relatório Técnico/Científico</li>
+<li>Produzido um Poster</li>
+<li>Preparado uma Apresentação oral</li>
+<li>Apresentado e defendido publicamente o trabalho do Tema/Projeto.</li>
+</ul>
+<p> Listagem de Resultados:</p>
+<ul>
+<li>RES_1 Conhecer a FEUP e utilizar os serviços comuns mais CICA, SICC, SERAC e SDI</li>
+<li>RES_2 Demonstrar capacidades de comunicação (relatório, apresentação oral e poster)</li>
+<li>RES_3 Demonstrar capacidades de pesquisa, organização e síntese de informação</li>
+<li>RES_4 Demonstrar capacidades de trabalho em equipa: integrar a equipa; ser avaliado pelos pares; ter flexibilidade no relacionamento interpessoal; interiorizar e respeitar as regras da equipa</li>
+<li>RES_5 Atingir os objetivos específicos do Tema/Projeto.</li>
+<li>Demonstrar consciência dos Objetivos de Desenvolvimento Sustentável (ODS) estabelecidos pelas Nações Unidas, e ser capaz de identificar princípios de sustentabilidade nas práticas de Engenharia.</li>
+</ul>
+<p> </p>
+
+## Pré-requisitos e co-requisitos: <p>Conhecimentos básicos de trabalho em equipa e aplicações informáticas (ótica utilizador)</p>
+
+# Unidade curricular: Fundamentos de Segurança Informática
+
+## Ano: 3
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: Esta Unidade Curricular tem como objetivo fornecer aos estudantes uma perspetiva integrada dos fundamentos da segurança informática; visa dotar os estudantes de uma visão abrangente dos aspetos de segurança inerentes ao desenvolvimento e operação de sistemas informáticos, contextualizando problemas e soluções tecnológicas específicas para tecnologias abordadas em outras Unidades Curriculares do Ciclo de Estudos.
+
+## Resultados de aprendizagem: <p>Conhecer os princípios da construção de programas e sistemas informáticos seguros.<br />Aprender a pensar sobre sistemas informáticos como um atacante.<br />Compreender como se identificam ameaças a um sistema informático e como se avalia a sua relevância.<br />Reconhecer limitações e justificar medidas de proteção de um sistema informático.<br />Explicar como diversos tipos de ataques funcionam na prática.</p>
+
+# Unidade curricular: Radiação natural em materiais de origem geológica
+
+## Ano: 3
+## Semestre: 1
+## Grupo(s) de opção a que pertence: Competências Transversais I 2ºA - 1ºS, Competências Transversais III 3ºA - 1ºS
+## ECTS: 1.5
+## Objetivos: <div style=&quot;text-align: justify;&quot;>O objetivo geral desta CT é a capacitação e consciencialização dos estudantes para a integração e quantificação da radiação natural em avaliações ambientais e ocupacionais.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot;>Esta formação, pela natureza emergente do tema e pela sua abordagem holística , pode ser frequentada por qualquer estudante independentemente das áreas de tecnologia, ciências exatas e engenharia.</div>
+
+## Resultados de aprendizagem: <p>No final desta CT, os estudantes deverão ser capazes de:</p>
+<ul>
+<li>Identificar as fontes de radiação natural,</li>
+<li>Quantificar a radiação nos materiais de origem geológica,</li>
+<li>Estabelecer e caraterizar as vias de exposição,</li>
+<li>Avaliar os efeitos na saúde e no ambiente, através do cálculo das doses,</li>
+<li>Enquadrar e interpretar os resultados obtidos no âmbito da legislação aplicável,</li>
+<li>Apresentar e comunicar de forma adequada os resultados da quantificação da radiação.</li>
+</ul>
+
+# Unidade curricular: Algoritmos e Estruturas de Dados
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p>No final da unidade curricular, os estudantes deverão ser capazes de:</p>
+<ol style="list-style-type: lower-alpha;">
+<li>analisar a complexidade temporal e espacial de algoritmos;</li>
+<li>analisar a correção de algoritmos simples;</li>
+<li>conhecer os principais algoritmos de pesquisa e ordenação e a sua complexidade;</li>
+<li>compreender o conceito de tipo abstrato de dados e saber organizar programas em torno desse conceito;</li>
+<li>conhecer as estruturas de dados fundamentais (e algoritmos associados e respetiva complexidade) usadas para implementar eficientemente tipos abstratos de dados comuns em bibliotecas de coleções;</li>
+<li>saber escolher coleções, estruturas de dados e algoritmos apropriados para resolver problemas práticos;</li>
+<li>escrever programas em C++ que implementam e usam as estruturas de dados e algoritmos fundamentais.</li>
+</ol>
+
+## Resultados de aprendizagem: <p>No final da unidade curricular, os estudantes deverão ter competência para: modelar problemas recorrendo ao paradigma da orientação por objetos; resolver problemas fazendo uso de tipos de dados abstratos e estruturas de dados simples lineares e não lineares.</p>
+
+## Pré-requisitos e co-requisitos: <p>O estudante deve possuir conhecimentos básicos de programação e linguagem C++.</p>
+
+# Unidade curricular: Análise Matemática I
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p>Aquisição de conhecimentos teóricos e práticos sobre cálculo diferencial e integral em R que possibilitem a aplicação das ferramentas básicas da análise matemática ao tratamento e resolução dos problemas mais adaptados ao perfil da Engenharia Informática e Computação. Capacitar o estudante para a inovação, complementando os conhecimentos de forma a desenvolver soluções para resolução de novas questões. No final da disciplina, os estudantes devem possuir as seguintes competências:<br />1. Saber derivar funções, desenhar gráficos e estudar funções<br />2. Saber integrar e utilizar os integrais em aplicações de engenharia<br />3. Conhecer técnicas de integração e de resolução de equações diferenciais<br />4. Relacionar séries e polinómios e perceber os conceitos de aproximação.</p>
+
+## Resultados de aprendizagem: <p>Como resultado da aprendizagem ao longo desta UC, o estudante deve ter adquirido as seguintes competências:<br />1. Analisar funções, derivar e desenhar gráficos<br />2. Dominar as técnicas de integração e utilizar os integrais em aplicações de engenharia<br />3. Compreender e utilizar as equações diferenciais e transformadas de Laplace<br />4. Saber relacionar séries e polinómios e perceber os conceitos de aproximação<em>.</em></p>
+
+## Pré-requisitos e co-requisitos: <p>Conhecimentos ao nível do pré-calculo de acordo com o programa de Matemática A do ensino secundário.</p>
+
+# Unidade curricular: Competências Transversais: Montagem e Teste de Instalações Laboratoriais
+
+## Ano: 1
+## Semestre: 1
+## Grupo(s) de opção a que pertence: Competências Transversais I 2ºA - 1ºS, Competências Transversais III 3ºA - 1ºS
+## ECTS: 1.5
+## Objetivos: Esta unidade curricular visa promover competências transversais de base para um engenheiro com responsabilidades em contexto de laboratório, nomeadamente em tópicos relacionados com a identificação e utilização de materiais e de ferramentas com utilidade na montagem e teste de instalações laboratoriais.
+
+## Resultados de aprendizagem: <p>Adquirir com proficiência:<br /><br />&#8226; aptidões na área da experimentação (formulação e teste de hipóteses, planeamento experimental, pesquisa de informação);</p>
+&#8226; capacidades de pensamento crítico e criativo na resolução de problemas de engenharia; conceber, implementar, testar e operar unidades em contexto laboratorial.
+
+# Unidade curricular: Laboratório de Computadores
+
+## Ano: 2
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: <p>1- Enquadramento</p>
+<p> Os dispositivos periféricos são uma parte fundamental dum computador, sem a qual a utilidade ou a facilidade de uso dos computadores seriam significativamente inferiores. A importância destes dispositivos em sistemas baseados em computadores tem crescido desde os primórdios dos computadores (cerca de 1950) e continua com a difusão cada vez maior de sistemas embebidos. Contudo, a programação dos dispositivos periféricos usando a sua interface programática, i.e. a interface de "hardware", requer conhecimentos e técnicas específicas.<br /> <br />2- Objetivos Específicos<br /><br />Os objetivos da unidade curricular são dotar os estudantes com conhecimentos essenciais para serem capazes de:</p>
+<ul>
+<ul>
+<li>usar a interface de "hardware" de periféricos comuns;</li>
+<li>desenvolver "software" de baixo nível, p.ex. "device drivers", e de "software" embebido;</li>
+<li>usar a linguagem de programação C de modo estruturado;</li>
+<li><span style="font-weight: 400;">desenvolver programas codificados em C e em &#8220;assembly&#8221;</span></li>
+<li><span style="font-weight: 400;"> fazer &#8220;debugging&#8221; de forma sistemática (com base no método experimental científico)</span></li>
+<li>utilizarem várias ferramentas de desenvolvimento de software <span style="font-weight: 400;">(compiladores e compiladores cruzados, &#8220;assemblers&#8221;, &#8220;linkers&#8221;, "build automation tools", sistemas de controlo de versões)</span></li>
+</ul>
+</ul>
+<p>3- Distribuição Percentual</p>
+<p>Científica: 30%<br />Tecnológica: 70%</p>
+
+## Resultados de aprendizagem: <p>Todos os estudantes que terminarem a unidade curricular com sucesso deverão compreender os principais modelos de acesso a dispositivos periféricos e ser capazes de os aplicar em programas de alto nível relativamente complexos.</p>
+<p> </p>
+
+## Pré-requisitos e co-requisitos: <p>Considera-se como essencial para alcançar os objetivos acima enunciados, a aprovação a unidades curriculares (UC) cujo conteúdo é o das UCs:</p>
+<ul>
+<ul>
+<li>Programação</li>
+<li>Arquiteturas de Computadores</li>
+<li>Sistemas Operativos</li>
+</ul>
+</ul>
+
+# Unidade curricular: Sistemas Operativos
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p>Os objetivos principais desta unidade curricular são fornecer os conhecimentos fundamentais sobre:<br />O1- a estrutura e o funcionamento de um sistema operativo genérico;<br />O2- a utilização da interface de programação (API) de um sistema operativo real.</p>
+
+## Resultados de aprendizagem: <p>Os estudantes que concluirem com sucesso esta unidade curricular, deverão ser capazes de:<br />OA1- descrever as funções e a estrutura geral de um sistema operativo, e identificar as abstracções principais que ele fornece; <br />OA2- descrever o funcionamento dos componentes essenciais de um sistema operativo, a forma como esses componentes interagem entre si e os algoritmos fundamentais usados na sua implementação; <br />OA3- desenvolver programas que usem e explorem a API de um sistema operativo tipo-Unix.</p>
+
+## Pré-requisitos e co-requisitos: <p>São pré-requisitos o conhecimento e prática de programação em linguagem C. É conveniente a frequência com aproveitamento da unidade curricular de Programação.</p>
+
+# Unidade curricular: Computação Gráfica
+
+## Ano: 3
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: <p>ENQUADRAMENTO: A computação Gráfica tem vindo a afirmar-se e é hoje um componente muito importante em toda a envolvente de interação pessoa-computador. No entanto, a sua aplicabilidade vai muito além, tendo hoje em dia uma posição de relevo em indústrias importantes como sejam a cinematográfica e a dos jogos. Também na tecnologia e na ciência desempenha um papel insubstituível permitindo a visualização de fenómenos, muitas vezes ligada a simulação e a técnicas de realidade virtual. Nesta unidade curricular, efetua-se uma abordagem às matérias de Computação Gráfica segundo uma filosofia tipo Top-Down, iniciando-se com os temas mais relacionados com os 3D (síntese de imagem, modelação) e terminando com a visita a vários algoritmos mais elementares, no âmbito dos 2D. A componente 3D da matéria é acompanhada, nas aulas práticas, com exercícios baseados em tecnologias de grande utilização, o OpenGL e o WebGL.</p>
+<p>OBJETIVOS ESPECÍFICOS: - Transmitir o conhecimento de conceitos, técnicas, algoritmos, tecnologias e arquitecturas de Computação Gráfica. - Reforçar os conhecimentos teóricos com a sua aplicação prática, por meio da implementação, teste e avaliação de algoritmos abordados em teoria.</p>
+<p>DISTRIBUIÇÃO PERCENTUAL<br />- Componente científica: 50%<br />- Componente tecnológica: 50%</p>
+
+## Resultados de aprendizagem: <p>RESULTADOS DA APRENDIZAGEM:</p>
+<ul>
+<li>Compreender a interligação dos vários módulos de um sistema gráfico 3D;</li>
+<li>Desenhar e implementar pequenas aplicações orientadas para os 3D;</li>
+<li>Desenhar e implementar aplicações com interface gráfica, nas suas várias vertentes;</li>
+<li>Dominar a programação por eventos.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos: - Programação<br />- Algoritmos e Estruturas de Dados.<br />- Operações algébricas de utilização comum.<br />- Álgebra e Matemática.
+
+# Unidade curricular: Projeto Integrador
+
+## Ano: 3
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: <p><span style="font-weight: 400;">Esta unidade curricular pretende expor os estudantes a um projeto de Engenharia Informática em ambiente real, aplicando conhecimentos e competências adquiridas ao longo do curso. <br /><br />A metodologia de ensino com base num projeto permite que os estudantes, não só adquiram e pratiquem os conceitos abordados num ambiente real, mas igualmente desenvolvam o espirito de colaboração, cooperação e trabalho em equipa. O acompanhamento semanal da evolução dos projetos, quer presencial, quer através das ferramentas utilizadas para o efeito, permite uma aferição efetiva da evolução dos conhecimentos e competências adquiridas. <br /><br />Através da metodologia de ensino baseado em projetos, é possível não só aplicar os conceitos já adquiridos, como também aprofundá-los através da prática e integração dos mesmos, com um acompanhamento e monitorização regulares por parte dos docentes. <br /><br />Desta forma, adota-se uma filosofia pedagógica de "aprender, fazendo" que estimula a interiorização dos conhecimentos e expõe os estudantes aos problemas reais que surgem durante um projeto de engenharia informática. Através da demonstração pública dos resultados dos projetos, os estudantes são igualmente estimulados ao conceito de "produto" de software, apelando a uma componente inovadora e viabilizadora da possível atração de investidores interessados num produto real. </span></p>
+<p><span style="font-weight: 400;">No caso de um estágio em ambiente industrial ou de um projeto I&amp;D multidisciplinar, será garantido pelo corpo docente que o estudante será integrado num ambiente de trabalho que permita a persecução dos objetivos de aprendizagem. </span></p>
+
+## Resultados de aprendizagem: <p>(A) Ser capaz de aplicar metodologias, ferramentas e técnicas adequadas à resolução de um problema real de média complexidade no domínio da Engenharia Informática e Computação, em ambiente empresarial ou de investigação, abrangendo a análise do problema, a conceção, implementação e validação da solução, e a respetiva documentação e demonstração.</p>
+<p>(B) Compreender e saber descrever aspetos organizacionais e funcionais de contextos empresariais ou de investigação e desafios que se colocam à prática de Engenharia Informática e Computação nesses contextos.<br /><br />(C) Ser capaz de desenvolver trabalho colaborativo em Engenharia Informática e Computação em ambiente real, interagindo com colegas de equipa, clientes e outras partes interessadas, e utilizando ferramentas e meios adequados de comunicação e colaboração.<br /><br />(D) Ser capaz de desenvolver trabalho em Engenharia Informática e Computação em ambiente real, com elevado grau de autonomia e autodisciplina, e ser capaz de comunicar adequadamente os resultados do trabalho desenvolvido, de forma escrita e oral.</p>
+
+# Unidade curricular: Fundamentos de Sistemas Computacionais
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p><span style="font-weight: 400;">Esta unidade curricular introduz os princípios de funcionamento de um processador moderno e a sua arquitetura geral. A análise da tecnologia de implementação física dos computadores (circuitos lógicos e de memória), associada à explicação das formas elementares de representação de informação em formato digital, permitirá aos estudantes identificar e descrever princípios fundamentais da operação dos computadores, das linguagens de programação e do desenvolvimento de &#8216;software&#8217;.</span></p>
+<p> </p>
+
+## Resultados de aprendizagem: <p><span style="font-weight: 400;">Após completarem a unidade curricular, os estudantes serão capazes de:</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Descrever os principais subsistemas de um computador;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Descrever e interpretar formatos numéricos básicos;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Efetuar operações aritméticas em binário; </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Manipular expressões de álgebra de Boole;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Definir e usar circuitos lógicos combinatórios e sequenciais simples;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Explicar a funcionalidade de circuitos lógicos padrão;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Explicar o modelo conceptual de funcionamento de memórias de estado sólido;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Explicar os princípios básicos da codificação de instruções e modos de endereçamento (arquitetura do conjunto de instruções);</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Escrever programas simples em linguagem &#8220;assembly&#8221; com operações aritméticas e booleanas, testes, e saltos.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Descrever o funcionamento de uma unidade de processamento simples;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Avaliar o desempenho de processadores em cenários simples.</span></li>
+</ol>
+
+# Unidade curricular: Competências transversais: aquisição automatizada de dados laboratoriais
+
+## Ano: 1
+## Semestre: 1
+## Grupo(s) de opção a que pertence: Competências Transversais I 2ºA - 1ºS, Competências Transversais III 3ºA - 1ºS
+## ECTS: 1.5
+## Objetivos: Esta formação visa promover competências transversais na área da automação da aquisição de dados, envolvendo a ligação de instrumentos a sistemas de conversão analógica/digital e o desenvolvimento de software para monitorização e armazenamento dos dados adquiridos a partir desses instrumentos.
+
+## Resultados de aprendizagem: <p>Após concluírem a formação, os estudantes deverão ser capazes de:</p>
+<p>- Identificar as características de um medidor que são relevantes para implementação da aquisição de dados.</p>
+<p>- Identificar as caraterísticas do sistema de conversão analógica/digital mais adequado para as necessidades.</p>
+<p>- Efetuar corretamente as ligações elétricas entre os instrumentos de medição e o sistema de conversão analógica/digital.</p>
+- Desenvolver um programa de monitorização e armazenamento de dados adquiridos através do sistema de conversão analógica/digital, incluindo algum processamento básico desses dados.
+
+# Unidade curricular: Engenharia de Software
+
+## Ano: 2
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: <p>Familiarizar-se com os métodos de engenharia e gestão necessários ao desenvolvimento de sistemas de software complexos e/ou em larga escala, de forma economicamente eficaz e com elevada qualidade.</p>
+<p> </p>
+
+## Resultados de aprendizagem: <p>No final da unidade curricular, os estudantes deverão ser capazes de:</p>
+<ul>
+<li>descrever os princípios, conceitos e práticas da engenharia de software e do ciclo de vida do software;</li>
+<li>conhecer e saber aplicar as técnicas e ferramentas necessárias para executar e gerir as várias atividades do processo de desenvolvimento de software de qualidade;</li>
+<li>explicar os métodos e processos de construção de diferentes tipos de sistemas de software.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos: Conhecimentos de programação, desenho orientado por objetos e teste unitário adquiridos em unidades curriculares anteriores.
+
+# Unidade curricular: Inteligência Artificial
+
+## Ano: 3
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: <p>Esta unidade curricular apresenta um conjunto de assuntos nucleares para a área da Inteligência Artificial (IA) e dos Sistemas Inteligentes. Os objetivos principais são:<br />1. Compreender os fundamentos da Inteligência Artificial e dos Sistemas Inteligentes, o que os caracteriza e distingue e qual a sua aplicabilidade.<br />2. Ser capaz de projetar e implementar Agentes e Sistemas Multi-Agente para resolver diferentes problemas.<br />3. Aprender métodos e algoritmos heurísticos e sistemáticos de resolução de problemas, com e sem adversários e algoritmos de otimização.<br />4. Aprender métodos de aquisição, representação e manipulação do Conhecimento impreciso utilizando diferentes formalismos.<br />5. Compreender as bases do processamento da linguagem natural e suas aplicações.<br />6. Conhecer e ser capaz de aplicar algoritmos de aprendizagem com diferentes paradigmas (supervisionada, não supervisionada, por reforço, evolucionária, em profundidade) e algoritmos (árvores de decisão, redes neuronais, SVMs).<br />7. Conhecer tópicos avançados em IA e ser capaz de formular uma visão sobre o futuro da IA.<br />8. Desenvolver projetos simples, mas completos, usando técnicas de IA.</p>
+<p>Distribuição Percentual: Componente científica: 50%; Componente tecnológica: 50%</p>
+
+## Resultados de aprendizagem: <p style="display: inline !important;">No final da unidade curricular, o estudante deverá ter capacidade para Representar, Adquirir, Manipular e Aplicar Conhecimento usando Sistemas Computacionais. Mais especificamente, o estudante deverá ser capaz de:</p>
+<ul>
+<li>Compreender os fundamentos da Inteligência Artificial e dos Sistemas Inteligentes.</li>
+<li>Compreender a noção de Agente computacional e de Sistema Multi-Agente e ser capaz de projetar e implementar Agentes e Sistemas Multi-Agente para resolver diferentes problemas.</li>
+<li>Ser capaz de apliar métodos e algoritmos de pesquisa e de optimização para resolução de problemas complexos com e sem Adversários.</li>
+<li>Aprender métodos de Representação do Conhecimento Impreciso e Raciocínio utilizando diferentes formalismos.</li>
+<li>Ser capaz de aplicar algoritmos de aprendizagem com diferentes paradigmas (Indução, evolucionário, por reforço, neuronal, em profundidade/"Deep Learning", etc.).</li>
+<li>Compreender tópicos avançados em Inteligência Artificial e ser capaz de formular uma visão sobre o futuro da IA e as suas aplicações práticas no presente e no futuro.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos: <p>Conhecimentos de algoritmia, estruturas de dados e programação.</p>
+
+# Unidade curricular: Competências Transversais: Comunicação Profissional
+
+## Ano: 1
+## Semestre: 2
+## Grupo(s) de opção a que pertence: Competências Transversais II 2ºA - 2ºS
+## ECTS: 1.5
+## Objetivos: <ul><br /><li>Identificar diferentes estilos de relacionamento interpessoal e determinar os fatores comportamentais, atitudinais e relacionais mais adequados à eficiência de cada situação de comunicação profissional.</li><br /><li>Aplicar atitudes geradoras de satisfação no ambiente profissional e técnicas práticas de comunicação para gerir situações de interação cujas exigências e/ou dificuldades implicam um elevado controlo do processo comunicacional.</li><br /><li>Autodiagnosticar necessidades de evolução do seu potencial de comunicação e ter consciência das mudanças a promover para assegurar uma forte proficiência do seu desempenho comunicacional no exercício de funções profissionais nas áreas de engenharia e tecnologias de informação, comunicação e eletrónica.</li><br /></ul>
+
+## Resultados de aprendizagem: Promovendo uma postura de elevado profissionalismo, esta CT visa proporcionar a aprendizagem de conhecimentos aprofundados, o desenvolvimento de competências e atitudes específicas para gerar uma capacidade de exercer uma comunicação altamente eficaz em contexto de trabalho, enquanto fator-chave para o autoaperfeiçoamento ao longo da carreira nas áreas de engenharia e tecnologias, sobretudo relacionadas com as Tecnologias de Informação, Comunicação e Eletrónica (TICE).
+
+# Unidade curricular: Análise Matemática II
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: <p>Aquisição de conhecimentos teóricos e práticos sobre cálculo diferencial e integral de funções reais e vetoriais de uma ou várias variáveis, onde se inclui uma breve introdução às equações diferenciais parciais lineares, que possibilitem a aplicação das ferramentas básicas da análise matemática ao tratamento e resolução dos problemas mais adaptados ao perfil da Engenharia Informática e Computação.</p>
+<p>Capacitar o estudante para a inovação, complementando os conhecimentos de forma a desenvolver soluções para resolução de novas questões.</p>
+
+## Resultados de aprendizagem: <p>Como resultado da aprendizagem ao longo desta UC, o estudante deve ter adquirido as seguintes competências:</p>
+<ol>
+<li>Representar parametricamente curvas em R2 e R3. Determinar o seu vetor tangente e normal. Obter o comprimento de arco e a curvatura de uma curva. Calcular integrais de linha ao longo dessas curvas.</li>
+<li>Discutir a continuidade de funções escalares de várias variáveis. Obter derivadas parciais e direcionais (ou dirigidas) para campos escalares e campos vetoriais e construir o respetivo vetor gradiente e a matriz jacobiana. Calcular derivadas de funções compostas, de campos escalares e vetoriais, bem como de funções definidas implicitamente. Obter máximos e mínimos livres e condicionados de funções de duas ou três variáveis.</li>
+<li>Calcular integrais duplos sobre regiões limitadas de R2, quer em coordenadas cartesianas quer em coordenadas polares.</li>
+<li>Calcular integrais triplos sobre regiões limitadas de R3, obter o volume dessas regiões por integração e transformar integrais triplos em coordenadas cartesianas para integrais em coordenadas cilíndricas e esféricas.</li>
+<li>Representar parametricamente superfícies e calcular integrais de superfície. Calcular integrais de fluxo de um campo vetorial. Utilizar os Teoremas da Divergência e Stokes para calcular o fluxo de campos vetoriais.</li>
+<li>Encontrar soluções gerais e particulares de equações diferenciais parciais lineares.</li>
+</ol>
+
+## Pré-requisitos e co-requisitos: <br />São considerados essenciais para a frequência desta unidade curricular os conhecimentos relativos ao cálculo diferencial e integral, adquiridos na Unidade Curricular Análise Matemática I, e os relativos à álgebra vetorial e à geometria analítica, adquiridos na Unidade Curricular Álgebra, ambas lecionadas no 1º Ano, 1º Semestre da L.EIC.
+
+# Unidade curricular: Física II
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 4.5
+## Objetivos: <p>Atualmente o processamento, armazenamento e transmissão de informação são feitos usando fenômenos eletromagnéticos. Consequentemente, a formação de base de um engenheiro informático deve incluir o estudo da eletricidade, do magnetismo e dos circuitos elétricos</p>
+<p>Esta unidade curricular visa dotar os estudantes com conhecimentos básicos de eletromagnetismo e processamento de sinais. A abordagem é experimental, com recurso a experiências simples que os estudantes podem realizar durante as aulas teórico-práticas para consolidar os conhecimentos teóricos e adquirir experiência no uso dos instrumentos de medição. O Sistema de Computação Algébrica (CAS) usado na unidade curricular Física 1 é também aproveitado para facilitar a resolução de problemas e para visualizar campos elétricos e magnéticos.</p>
+
+## Resultados de aprendizagem: <p>Para obter aprovação nesta unidade curricular, os estudantes devem ser capazes de:</p>
+<ul>
+<li>Analisar circuitos elétricos simples e explicar o seu funcionamento.</li>
+<li>Identificar fenómenos eletromagnéticos na sua experiência quotidiana.</li>
+<li>Usar princípios físicos para explicar o funcionamento dos aparelhos elétricos.</li>
+<li>Avaliar diferentes dispositivos elétricos com funções semelhantes (por exemplo: ecrãs de CRT, plasma, LCD e LED) apontando as vantagens e desvantagens de cada um.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos: <p>Espera-se que os estudantes tenham conhecimentos básicos de mecânica: velocidade, aceleração, força, leis de Newton, trabalho e energia, e de matemáticas: geometria, álgebra, trigonometria, álgebra linear, vetores, funções, derivadas, primitivas e integrais.</p>
+
+# Unidade curricular: Fundamentos da Programação
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p><strong>INTRODUÇÃO</strong></p>
+<p>A fluência no processo de desenvolvimento de software é um pré-requisito essencial para o trabalho de Engenheiros Informáticos. Para usar computadores na resolução eficaz de problemas, os estudantes devem ser competentes em ler e escrever programas usando linguagens de programação de alto nível.</p>
+<p><strong>OBJETIVOS ESPECÍFICOS</strong></p>
+<p>O objetivo global desta Unidade é dar ao estudante a capacidade de criar algoritmos e de usar uma linguagem de programação para implementar, testar e depurar algoritmos para resolver problemas simples.</p>
+<p>O estudante será capaz de entender e usar os conceitos fundamentais de programação e a abordagem funcional da programação, especificamente a programação "livre de efeitos", onde as chamadas de função não têm efeitos colaterais e as variáveis são imutáveis, e de contrastar esta abordagem com a abordagem imperativa.</p>
+<p> </p>
+
+## Resultados de aprendizagem: <p>No final da unidade curricular, espera-se que o estudante consiga lidar com problemas de programação de baixa/média complexidade, utilizando as abordagens ou paradigmas de programação imperativa ou funcional.</p>
+<p>Mais especificamente, o estudante deverá ser capaz de:</p>
+<ol>
+<li>Projetar, implementar, testar e depurar um programa que use as construções fundamentais de programação, cálculos básicos, estruturas condicionais e iterativas padrão, entrada/saída simples, persistência (ficheiros) e exceções.</li>
+<li>Entender a abstração de dados e usar tipos de dados simples ou compostos.</li>
+<li>Entender a abstração procedimental e usar a definição de funções, passagem de parâmetros, recursão.</li>
+<li>Escrever funções úteis que aceitem e devolvam outras funções.</li>
+<li>Implementar algoritmos básicos que evitem atribuir a um estado mutável ou considerar igualdade de referências.</li>
+<li>Entender variáveis e escopo léxico num programa.</li>
+<li>Definir operações em coleções, incluindo operações que tomam funções como argumentos (<em>map</em>, <em>reduce/fold</em> e <em>filter</em>) e listas em compreensão.</li>
+<li>Usar ferramentas de programação que ajudam a escrever, testar e documentar programas em computador de acordo com as melhores práticas de programação.</li>
+<li>Resolver problemas numéricos usando programas de computador.</li>
+</ol>
+
+## Pré-requisitos e co-requisitos: Nenhum conhecimento prévio é necessário.
+
+# Unidade curricular: Laboratório de Desenho e Teste de Software
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p><span style="font-weight: 400;">Pretende-se, nesta unidade curricular, que os alunos desenvolvam competências no desenho de aplicações usando o paradigma orientado a objetos. Pretende-se que os estudantes que obtenham aprovação à unidade curricular, consigam:</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Usar o <em>Git</em> como ferramenta de controlo de versões;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Usar a linguagem Java como linguagem orientada a objetos;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Desenhar testes unitários usando <em>JUnit</em>;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Aplicar os princípios <em>SOLID</em> no desenho de aplicações e entender a sua importância;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Aplicar </span><em><span style="font-weight: 400;">design patterns</span></em><span style="font-weight: 400;"> para resolver problemas no desenho de aplicações;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Identificar </span><em><span style="font-weight: 400;">code smells</span></em><span style="font-weight: 400;"> em código orientado a objetos;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Usar técnicas de </span><em><span style="font-weight: 400;">refactoring</span></em><span style="font-weight: 400;"> para melhorar atributos não-funcionais e resolver </span><em><span style="font-weight: 400;">code smells</span></em><span style="font-weight: 400;">;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Aplicar o padrão arquitetural <em>MVC</em> no desenho de aplicações </span><em><span style="font-weight: 400;">event-driven;</span></em></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Patterns of Enterprise Applications</span></li>
+</ol>
+
+## Resultados de aprendizagem: <ol><br /><li>Saber desenvolver (desenhar, codificar, documentar, analisar, testar e manter) programas orientados por objetos com Java e UML;</li><br /><li>Saber utilizar ferramentas de suporte às várias fases do desenvolvimento e manutenção de programas;</li><br /><li>Ser capaz de conceber e desenhar software modular, flexível e fácil de manter e evoluir;</li><br /><li>Ser capaz de reutilizar padrões e <em>frameworks;</em></li><br /><li>Compreender a importância dos testes durante o desenvolvimento de software. </li><br /></ol><br /><p> </p>
+
+## Pré-requisitos e co-requisitos: <p>Conhecimentos de programação, sendo uma mais valia ter conhecimentos de programação orientada por objetos em C++.</p>
+
+# Unidade curricular: Interação Pessoa Computador
+
+## Ano: 3
+## Semestre: 1
+## ECTS: 4.5
+## Objetivos: <p><span style="font-weight: 400;">Os principais objetivos a atingir pelos estudantes são contactar com, praticar e experimentar, no contexto de software e sistemas interativos, os seguintes tópicos:</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Fundações de Interação Humano Computador (HCI): Principais conceitos de HCI e sua importância, incluindo a perceção humana e processos de cognição, sistemas informáticos e seus mecanismos de interação, assim como história resumida de HCI.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interação com o Utilizador (UI) e Design para a Experiência (UX): metodologias de design de interação, nomeadamente Design Centrado no Utilizador (UCD) e testes.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Estudos de utilizadores: Como avaliar e validar projetos de UI e UX e sua usabilidade.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interação multimodal: Como aplicar os temas apresentados para a criação de interfaces multimodais utilizando novas tecnologias interativas.</span></li>
+</ol>
+<p> </p>
+
+## Resultados de aprendizagem: <p>Os estudantes, no final da unidade curricular, devem ser capazes de atingir os seguintes resultados de aprendizagem (RA):</p>
+<ol>
+<li>Analisar criticamente os sistemas/dispositivos existentes e a qualidade das interações e experiências proporcionadas aos utilizadores.</li>
+<li>Aplicar UCD e outras metodologias para estudar desafios na área da interação e propor, avaliar e aperfeiçoar soluções para os mesmos.</li>
+<li>Utilizar ferramentas apropriadas para criar e testar protótipos de UI/UX em vários níveis de fidelidade/complexidade.</li>
+<li>Definir e realizar estudos com utilizadores, no contexto de UI/UX, e avaliações de usabilidade.</li>
+</ol>
+
+# Unidade curricular: Matemática Discreta
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p><!-- [if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--></p>
+<p><!-- [if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>PT</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="--"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!-- [if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--><!-- [if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+</style>
+<![endif]--></p>
+<p><strong>Enquadramento</strong></p>
+<p>A Lógica constitui a base de qualquer raciocínio científico e essa é a razão primeira da sua inclusão no 1º ano do curso. Para além disso, no caso da Engenharia Informática, a Lógica tem um interesse direto operacional em múltiplas dimensões da profissão.</p>
+<p><strong>Objetivos específicos</strong></p>
+<p>Os objetivos são o desenvolvimento de competências de raciocínio rigoroso e de técnicas de matemática discreta necessárias em várias áreas da informática, como a resolução de problemas, a criação e análise de algoritmos, a teoria da computação, a representação de conhecimento e a segurança.</p>
+<p><strong>Distribuição percentual</strong></p>
+<p>Componente científica: 100%</p>
+<p>Componente tecnológica: 0%.</p>
+
+## Resultados de aprendizagem: <p>As competências a adquirir incluem: (1) representar situações utilizando lógica proposicional e lógica de primeira ordem e analisá-las quer na perspetiva de modelos quer na da prova; (2) dominar os conceitos básicos de conjuntos, relações, ordens parciais e funções; (3) resolver problemas simples de teoria dos números; (4) resolver equações de aritmética modular; (5) realizar provas indutivas; (6) formular e resolver problemas através de relações de recorrência. (7) resolver problemas simples de teoria de grafos.</p>
+
+## Pré-requisitos e co-requisitos: <p>Conhecimentos de matemática elementar.</p>
+
+# Unidade curricular: Desenho de Algoritmos
+
+## Ano: 2
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: <p style="font-weight: 400;">Esta unidade curricular visa complementar e aprofundar os conhecimentos de implementação e concepção de algoritmos assimilados na unidade curricular de Algoritmos e Estruturas de Dados (AED), pela introdução de técnicas de concepção de algoritmos para a resolução de diferentes tipos de problemas, dado particular relevo a técnicas estruturantes como &#8220;brute-force&#8221;, &#8220;backtracking&#8221;, &#8220;divide-and-conquer&#8221;, &#8220;greedy&#8221; e &#8220;dynamic programming&#8221; ubíquas em algoritmos avançados na vida real. Pretende-se igualmente, introduzir os conceitos de problemas de grande complexidade formalizados nos conceitos de hierarquia de complexidade polinomial determinística e não-deterministica, e respectiva técnica de redução polinomial entre problemas e sua abordagem na práctica com o uso de algoritmos de aproximação. Finalmente, esta unidade curricular aborda ainda as técnicas algorítmicas de optimização de problemas usando a formalização de programação linear inteira ou real.</p>
+
+## Resultados de aprendizagem: <p style="font-weight: 400;">No final da unidade curricular, espera-se que o estudante seja capaz de:</p>
+<ul>
+<li>Conhecer e saber aplicar técnicas genéricas de concepção de algoritmos;</li>
+<li>Conhecer e saber aplicar algoritmos avançados em árvores e grafos;</li>
+<li>Identificar problemas intratáveis e algoritmos que fornecem soluções aproximadas;</li>
+<li>Identificar problemas de optimização matemática e conhecer e saber aplicar algoritmos para resolução de alguns tipos de problemas de optimização usando técnicas de backtracking e de optimização linear.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos: <p style="font-weight: 400;">É desejável e necessário que os estudantes tenham conhecimentos fundamentais de programação orientada por objectos, estruturas de dados e tipos abstratos de dados. É recomendável que os estudantes já tenham concluído com sucesso as seguintes unidades curriculares: L.EIC009 - PROG; L.EIC011 &#8211; AED.</p>
+

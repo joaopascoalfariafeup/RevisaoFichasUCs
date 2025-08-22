@@ -1,0 +1,103 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Aquisição e Análise de Dados
+
+## Curso responsável
+Licenciatura em Engenharia de Minas e Geo-Ambiente
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+Podem distinguir-se quatro objectivos fundamentais: <br />- Adquirir as noções técnicas fundamentais e saber manipulá-las; <br />- Saber escolher em face de uma estrutura particular da informação, o objecto estatístico ou proto-estatístico adequado à questão a resolver; <br />- Compreender os algoritmos utilizados em análise de dados e saber construí-los utilizando uma linguagem de alto nível; <br />- Compreender as ligações que existem entre a análise de dados e a investigação empírica tradicional e a subjectividade inerente à ausência da incorporação dos fenómenos em estudo numa teoria científica fundamentada e abrangente.
+
+## Resultados de aprendizagem e competências
+Podem distinguir-se quatro objectivos fundamentais: <br />- Adquirir as noções técnicas fundamentais e saber manipulá-las; <br />- Saber escolher em face de uma estrutura particular da informação, o objecto estatístico ou proto-estatístico adequado à questão a resolver; <br />- Compreender os algoritmos utilizados em análise de dados e saber construí-los utilizando uma linguagem de alto nível; <br />- Compreender as ligações que existem entre a análise de dados e a investigação empírica tradicional e a subjectividade inerente à ausência da incorporação dos fenómenos em estudo numa teoria científica fundamentada e abrangente.
+
+## Programa
+O espaço ocupado pela disciplina de Aquisição e Análise de Dados pode ser sumariamente caracterizado pela introdução de ferramentas estatísticas e proto-estatísticas que permitam abordar: <br />- Fenómenos onde intervenham variáveis qualitativas, expressas em escalas nominais e ordinais, donde se justifica a necessidade da formação em Estatística Não Paramétrica, ou Estatísticas Isentas de Distribuição; <br />- Análise de Dados Sequenciais, implicando no mínimo a Análise da Regressão e as sucessões estocásticas, entre as quais as Cadeias de Markov; <br />- Interpretação de resultados experimentais e programação da investigação (Reseach Design), com correspondentes técnicas de maximização da variância sistemática experimental, controlo da variância sistemática estranha e minimização das variância do erro, que se traduz na necessidade da formação em Análise da Variância e algumas das suas aplicações; <br />- Análise de dados complexos, expressos por múltiplas variáveis, por vezes expressas em sistemas de medida distintos, implicando uma formação em Estatística Multivariável e Estatística Direccional. <br /> <br />A concretização destes objectivos, que não são totalmente coerentes numa perspectiva de praxis e de harmonia teórica intrínseca, uma vez que compreendem temas normalmente englobados em corpos disciplinares teóricos autónomos, não é uma tarefa simples, nem inócua, e é justificada pelo pragmatismo da formação universitária. Com efeito não é hoje em dia de todo possível, sob pena de alienação da realidade e de autismo disciplinar, apresentar numa Licenciatura apenas disciplinas que se fundamentam num corpo teórico auto-constituído e auto-construído. No entanto deve-se sempre procurar, pelo menos, uma coerência intrínseca entre os temas abordados e as suas exigências formais. Por essa razão o agrupamento dos temas tratados foi feito em blocos coerentes, ou do ponto de vista doutrinal ou do ponto de vista temático. O arranjo proposto é o seguinte: <br /> <br />- Interpretação e Programação da Investigação: Planeamento de ensaios e sua interpretação crítica (Análise Monovariável da Variância e Plano Factorial de Ensaios); <br />- A Estatística Não-Paramétrica: testes paramétricos e não paramétricos; os conceitos fundamentais: hipótese nula, nível de significação, tamanho da amostra, distribuição da amostragem, região de rejeição; o modelo estatístico e as escalas de medida: testes com uma única amostra: distribuições binomiais, do Qui-quadrado e de Kolmogorov-Smirnov; Testes de Sequências (Run); Testes de igualdade: Wilcoxon-Mann-Whitney; Medidas de Associação (Spearman e Kendall); <br />- Análise de Dados Sequenciais e o Ajustamento de dados experimentais a modelos matemáticos: Análise da Regressão linear monovariável, linearização e multi-variável e sucessões estocásticas (cadeias de Markov); <br />- Introdução à Análise Estatística Multivariável: Momentos de vectores aleatórios multi-dimensionais; a distribuição normal multi-variável e respectivos eixos principais de densidade. Teste de hipóteses: igualdades de médias ou T2 de Hotelling, e teste das variâncias generalizadas de Bartlett; <br />- Análise de Dados Multi-Variáveis: Análise em componentes principais, análise de factores (modo Q e modo R) e Análise de correspondências.; <br />- A classificação e o agrupamento da informação: Funções Discriminantes bi-grupais e Análise Grupal (Cluster Analysis). <br />- Introdução à Estatística direccional: Medidas estatísticas caracterizadoras das variáveis circulares, distribuições teóricas e testes de ajustamento. Coeficientes de correlação entre variáveis lineares-circulares, circulares-circulares.
+
+## Métodos de ensino e atividades de aprendizagem
+O conteúdo é abordado nas aulas teóricas numa perspectiva da sua fundamentação matemática, enquanto que nas aulas práticas é encarado numa visão algorítmica. A avaliação contínua torna-se então imprescindível à didáctica da disciplina. Os alunos nas aulas práticas devem obrigatoriamente construir o algoritmo de cálculo, apesar de se utilizarem ferramentas informáticas em que a função programação é bastante aliviada. Os alunos devem realizar um exame no final do semestre em que lhes será atribuído, por sorteio, um problema (enquadrado nos temas abordados durante o semestre), sobre qual deverão proceder à respectiva resolução. Serão ainda submetidos nas aulas práticas a vários MINI-TESTES sem prévio aviso, de curta duração (20 a 25 minutos) onde deverão elaborar rotinas de cálculo extremamente simples e avaliados os conhecimentos teóricos sobre os conteúdos leccionados. Destinam-se estes testes a verificar a capacidade de realização algorítmica, o domínio da linguagem de programação e a apreensão dos conceitos teóricos por parte dos alunos. <br /> A linguagem de programação utilizada é o MATLAB. As aulas práticas serão ministradas em salas do CICA da FEUP. Os alunos deverão obrigatoriamente inscrever-se no Centro de Cálculo afim de terem acesso à rede interna e à consequente utilização dos programas e linguagens utilizados na Disciplina.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Participação presencial: 25.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 56.0 horas
+- Estudo autónomo: 106.0 horas
+
+## Fórmula de cálculo da classificação final
+Cada aluno efectuará um mínimo de quatro MINI-TESTES de curta duração (10 a 15 minutos), feitos sem prévio aviso e que implicam, não só sobre a realização de um curto algoritmo de programação (75%), mas também a resposta a um pequeno questionário (teste tipo americano) sobre o conteúdo teórico da disciplina (25%). Estes mini-testes destinam-se a verificar a capacidade de programação dos alunos, o acompanhamento da matéria leccionada e portanto a ajuizar a apreensão dos conceitos ministrados ao longo do semestre. Esta forma de avaliação entrará com um peso de 25% na avaliação global e o aluno estará obrigado à realização de pelo menos 3 dos mini-testes propostos. A nota mínima para que o aluno possa realizar o exame final da Época Normal é de 6 valores (numa escala de 0 a 20). Aos alunos que satisfaçam os critérios de frequência da disciplina (75% de presenças, mínimo de 6 valores nos Mini-teste e realização de pelo menos 3 Mini-Testes) será exigido a realização de um exame no final do semestre com um peso de 75% na nota final. O exame final terá uma componente teórica (25%) e uma componente prática (75%). O exame final deverá ser feito utilizando métodos informáticos, envolvendo a construção obrigatória de um algoritmo e a entrega dos resultados. A classificação do exame final (prática) discriminará as seguintes: <br />1. Análise crítica e enquadramento conceptual do problema proposto. A sua fundamentação teórica (15%); <br />2. Construção do algoritmo de resolução que será classificado de acordo com os seguintes critérios: (55%); <br />a) Correcção da resolução; <br />b) Generalidade e flexibilidade do algoritmo construído; <br />c) Elegância da arquitectura algorítmica e das soluções parcelares; <br />3. Interpretação dos resultados obtidos (30%). <br />O exame de recurso, a que terão acesso todo os estudantes de acordo com as normas vigentes na FEUP, será constituído por uma componente Teórica (25%) e uma Componente Prática (75%). A classificação final da classificação, ponderada, das diversas componentes do exame final de recurso.
+
+## Obtenção de frequência
+ASSIDUIDADE: A assistência às aulas práticas é obrigatória, exceptuando-se os casos expressamente previstos na legislação (trabalhadores estudantes e regimes especiais). O aluno que não realize um Mini-Teste terá classificação nula nessa avaliação. Como é atribuído um peso de 25% da avaliação global, à frequência das aulas práticas e a correspondente realização de mini-testes, torna-se esta obrigatória, independentemente de os alunos já terem obtido frequência anterior na disciplina. Para os alunos com regime especial, será estudada uma modalidade de realização dos mini-testes que satisfaça simultaneamente a sua condição e a essência dos referidos testes (faz-se notar, nestes últimos casos, que deverá o aluno, no inicio do semestre, entrar em contacto com o docente afim de serem estabelecidos os pressupostos da avaliação). Não será ainda atribuída frequência aos alunos que não estejam regularmente inscritos e aos que excedam um número de faltas correspondente a 25% das aulas teórico/práticas.
+
+## Melhoria de classificação
+As melhorias de classificação final serão efectuadas por exame final que compreendem uma componente teórica e uma componente prática.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Data Acquisition and Statistical Analysis
+
+## Curso responsável
+Bachelor in Mining and Geo-Environmental Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+This course unit have four main aims: <br />- to acquire the fundamental technical notions and be capable of handling them; <br />- to be able to choose the adequate statistical or proto-statistical object considering the particular structure of information; <br />- to understand the algorithms used in data analysis and be capable of developing them using a simple spreadsheet; <br />- to understand the relationship between data analysis and traditional empirical research and the subjectivity related to the lack of incorporation of the studied phenomena in a reasoned and comprehensive scientific theory.
+
+## Resultados de aprendizagem e competências
+This course unit have four main aims: <br />- to acquire the fundamental technical notions and be capable of handling them; <br />- to be able to choose the adequate statistical or proto-statistical object considering the particular structure of information; <br />- to understand the algorithms used in data analysis and be capable of developing them using a simple spreadsheet; <br />- to understand the relationship between data analysis and traditional empirical research and the subjectivity related to the lack of incorporation of the studied phenomena in a reasoned and comprehensive scientific theory.
+
+## Pré-requisitos e co-requisitos
+Previous knowledge: <br /> Probabilities: mathematical expectation, moments, means, characteristic functions, characterization of a distribution using moments, including joint distributions; random convergence and normal law. <br />Statistics: Underlying principles of estimation theory, Student test; <br />Matrix Algebra: Matrix multiplication, inversion, determination of eigenvalues, eigenvectors and singular values
+
+## Programa
+The course unit of Data Acquisition and Analysis can be briefly characterized by the introduction of statistical and proto-statistical tools which enable the approach to the: <br />- Phenomena of qualitative variables expressed in nominal and ordinal scales, being thus necessary training in nonparametric statistics and distribution statistics; <br />- Sequential data analysis, involving Regression Analysis and stochastic successions and Markov chains; <br />- Interpretation of experimental results and research planning with the corresponding techniques of maximisation of experimental systematic variance, control of systematic variance and minimisation of error variance, which requires training in Analysis of Variance and some of its applications; <br />- Complex data analysis expressed by multiple variables, occasionally expressed in different measurement systems, which requires training in multivariable statistics. <br /> <br />The fulfilment of the above mentioned aims is not an easy or innocuous task, since they are not entirely coherent in a practical and intrinsic theoretical point of view. Besides, they comprise subject matters which encompass autonomous theoretical subjects, being that justified by the pragmatism of university training. <br />It is in fact not possible, at risk of alienating the reality, to create a Masters programme only composed by course units based on a self-constituted theoretical basis. However, an intrinsic coherence between the subject matters should at least always be sought. For that reason, the subject matters of this course unit were organized in coherent groups, from a doctrinal or thematic point of view. The suggested organisation is as follows: <br />- Interpretation and Research Planning: tests planning and their critical interpretation (Univariate analysis of variance); <br />- Nonparametric statistics: parametric and nonparametric tests; fundamental concepts: null hypothesis, significance level, sample size, sampling distribution, rejection region, statistical model and measurement scales: One sample tests: binomial, chi-square and Kolmogorov-Smirnov distributions; Run tests; Tests of equality: Wilcoxon-Mann-Whitey; Measures of association (Spearman and Kendall); <br />- Sequential data analysis and experimental data adjustment: analysis of univariate linear regression, linearization and multivariate and stochastic successions (Markov chain); <br />- Brief introduction to multivariate data analysis: analysis of the main components, analysis of factors (Q mode and R mode), correspondence analysis. <br />- Reliability: definitions, statistics and reliability, components and equipment reliability, most common distributions in reliability.
+
+## Métodos de ensino e atividades de aprendizagem
+In theoretical-practical classes the subject matters are approached in a mathematical perspective, whereas in practical classes takes place an algorithmic approach. The continuous supervision of the different subject matters is thus indispensible to the course unit teaching. <br />In practical classes students have to develop a calculation algorithm, although they can use computer tools, which make this task easier. Practical classes take place at CICA rooms at FEUP with the support of PC&#180;s. Students must enrol at Centro de Cálculo in order to have access to the internal network and be able to use the necessary programs for this course unit.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Participação presencial: 25.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 56.0 hours
+- Estudo autónomo: 106.0 hours
+
+## Fórmula de cálculo da classificação final
+Students have to attend a final exam at the end of the semester. It encompasses a theoretical component (American type) and a practical component. <br />The practical component is to be done using computer tools, which includes the compulsory development of an algorithm and corresponding results. <br />The practical component is worth 70% of the grade, whereas the theoretical one the remaining 30%. <br />The practical component of the final exam comprises the following methodological phases: <br />1. Critical analysis and conceptual integration of the problem. Theoretical explanation (10%); <br />2. Development of an algorithm which will be assessed based on the following criteria (70%): <br />a) Resolution accuracy; <br />b) General features and flexibility of the algorithm; <br />c) Aspect of the algorithmic architecture and parcelled solutions; <br />3. Interpretation of the results (20%)
+
+## Obtenção de frequência
+According to the rules of this Masters programme.
+
+## Melhoria de classificação
+According to General Evaluation Rules of FEUP and Masters programme rules.
+

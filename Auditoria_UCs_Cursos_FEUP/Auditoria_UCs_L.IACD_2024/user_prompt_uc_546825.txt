@@ -1,0 +1,116 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Eletrónica Digital e Circuitos
+
+## Curso responsável
+Licenciatura em Ciência de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>Introdução à teoria de circuitos, electrónica analógica básica e sistemas digitais.</p>
+
+## Resultados de aprendizagem e competências
+<p>No final do curso os alunos deverão ser capazes de:</p>
+<p>- entender e aplicar a álgebra Booleana a problemas de lógica;</p>
+<p>- reconhecer alguns circuitos digitais básicos relevantes e compreender o seu funcionamento;<br /><br />A formação em lógica Booleana e os vários exemplos e problemas resolvidos ao longo do curso suportam estes objetivos.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Aritmética e lógica. </p>
+
+## Programa
+0.0 Componente Laboratorial<br /><p>0.1 Introdução a Componentes Básicos e Montagem de Circuitos Simples</p><br /><p>0.2 Lei de Ohm, Resistências e Divisores de Tensão</p><br /><p>0.3 Circuitos RC e Filtragem de Sinais</p><br /><p>0.4 Transístores como Interruptores Digitais</p><br /><p>0.5 Utilização e caracterização de Portas Logicas (IC)</p><br /><p>0.6 Leitura de Sinais Analógicos e Conversão A/D</p><br /><br /><br />1. Introdução à Eletrónica Digital <br />    1.1. Digital versus analógico <br />    1.2. Vantagens dos sistemas digitais <br />2. Sistemas de representação numérica <br />    2.1. Numeração decimal, binária, octal e hexadecimal <br />    2.2. Operações aritméticas <br />    2.3. Numeração em complemento de 2 <br />    2.4. Conversão entre sistemas de numeração <br />3. Códigos binários <br />    3.1. Códigos binários <br />    3.2. Códigos alfanuméricos <br />4. Álgebra booleana e portas lógicas <br />    4.1. Portas AND, OR e NOT <br />    4.2. Portas NAND, NOR <br />    4.3. Portas XOR e XNOR <br />    4.4. Inversores <br />    4.5. Universalidade da porta NAND <br />5. Simplificação de circuitos lógicos <br />    5.1. Expressões booleanas de soma de produtos <br />    5.2. Expressões booleanas de produto de somas <br />    5.3. Aplicação das leis de De Morgan <br />    5.4. Utilização de portas lógicas NAND e NOR <br />    5.5. Mapas de Karnaugh <br />6. Circuitos integrados TTL e CMOS <br />    6.1. Circuitos integrados e níveis de integração <br />    6.2. Circuitos integrados TTL <br />    6.3. Circuitos integrados CMOS <br />    6.4. Conversão D/A e A/D <br />7. Conversão de códigos <br />    7.1. Codificação <br />    7.2. Descodificação de BCD para decimal <br />    7.3. Descodificação de BCD para código de visor de sete segmentos <br />8. Aritmética binária e circuitos aritméticos <br />    8.1. Adição e subtração binária <br />    8.2. Circuitos semi-somador e somador completo <br />    8.3. Circuitos semi-subtrator e subtrator completo <br />    8.4. Somadores e subtratores paralelos <br />    8.5. Utilização de somadores completos <br />    8.6. Utilização de somadores para subtração <br />    8.7. Adição e subtração em complemento de 2 <br />9. Circuitos lógicos sequenciais <br />    9.1. Multivibradores <br />           9.1.1. Flip-flop SR <br />           9.1.2. Flip-flop SR com relógio <br />           9.1.3. Outros tipos de Flip-flops <br />           9.1.4. Multivibradores astáveis <br />           9.1.5. Multivibradores monoestáveis <br />    9.2. Contadores digitais <br />           9.2.1. Contadores assíncronos <br />           9.2.2. Contadores paralelos <br />           9.2.3. Contadores TTL <br />           9.2.4. Contadores CMOS <br />    9.3. Relógio digital <br />    9.4. Latches e buffers de três estados <br />    9.5. Registos de deslocamento <br />           9.5.1. Configurações básicas de registos de deslocamento <br />           9.5.2. Registos de deslocamento TTL <br />           9.5.3. Registos de deslocamento CMOS <br />10. Memória de computador <br />    10.1. Memória RAM <br />    10.2. Memória ROM <br />    10.3. Memórias PROM e EPROM <br />11. Outros dispositivos e técnicas <br />    11.1. Multiplexadores <br />    11.2. Desmultiplexadores <br />    11.3. Matrizes de portas e dispositivos lógicos programáveis <br />    11.4. Comparador de magnitude <br />    11.5. Transmissão digital de dados
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teóricas com exposição da matéria e exemplos; <br /><br />Aulas praticas com resolução de exercicios.<br /><br />Aula laboratoriais com montagem experimental e análise de circuitos analogios e digitais.</p>
+
+## Tipo de avaliação
+Avaliação por exame final
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 114.0 horas
+- Frequência das aulas: 48.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Classificação obtida no exame final.</p>
+
+## Obtenção de frequência
+<p>Os alunos têm que frequentar pelo menos 3/4 das aulas teórico-práticas previstas.</p>
+
+## Melhoria de classificação
+<p>Unicamente por melhoria do exame final.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Digital Systems
+
+## Curso responsável
+Bachelor in Computer Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>This course provides an introduction to electric circuit theory, basic analog electronics and digital systems.</p>
+
+## Resultados de aprendizagem e competências
+<p>Upon successful completion of the course, the students should be capable of:</p>
+<p>- applying Boolean algebra to logic problems;</p>
+<p>- recognizing some basic relevant digital circuits and understanding their operation;<br /><br />Training in Boolean logic, together with examples and solved exercises throughout the course, support these objectives.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Arithmetic and logic.</p>
+
+## Programa
+<p>0.0 Laboratory Component</p>
+<p>0.1 Introduction to Basic Components and Assembly of Simple Circuits</p>
+<p>0.2 Ohm's Law, Resistances, and Voltage Dividers</p>
+<p>0.3 RC Circuits and Signal Filtering</p>
+<p>0.4 Transistors as Digital Switches</p>
+<p>0.5 Use and Characterization of Logic Gates (IC)</p>
+<p>0.6 Reading Analog Signals and A/D Conversion</p>
+<br /><br />1. Introduction to Digital Electronics <br />    1.1. Digital versus analogic <br />    1.2. Advantages of digital systems <br />2. Number systems <br />    2.1. Decimal, binary, octal and hexadecimal numbers <br />    2.2. Arithmetic operations <br />    2.3. Two&#8217;s complement numbers <br />    2.4. Number system conversion <br />3. Binary codes <br />    3.1. Binary codes <br />    3.2. Alphanumeric codes <br />4. Boolean algebra and logic gates <br />    4.1. AND, OR and NOT gates <br />    4.2. NAND and NOR gates <br />    4.3. XOR and XNOR gates <br />    4.4. Inverters <br />    4.5. Universality of NAND gate <br />5. Simplification of logic circuits <br />    5.1. Boolean expressions of sums of products <br />    5.2. Boolean expressions of products of sums <br />    5.3. Application of De Morgan&#8217;s laws <br />    5.4. Using NAND and NOR logic gates <br />    5.5. Karnaugh maps <br />6. TTL and CMOS integrated circuits <br />    6.1. Integrated circuits and integration levels <br />    6.2. TTL family <br />    6.3. CMOS family <br />    6.4. D/A and A/D conversion <br />7. Code conversion <br />    7.1. Coding <br />    7.2. Decoding from BCD to decimal <br />    7.3. Decoding from BCD to 7-segment display code <br />8. Binary arithmetic and arithmetic circuits <br />    8.1. Binary addition and subtraction <br />    8.2. Half- and full-adder circuits <br />    8.3. Half- and full-subtractor circuits <br />    8.4. Parallel adders and subtractors <br />    8.5. Using full-adders <br />    8.6. Using adders for subtraction <br />    8.7. Addition and subtraction in two&#8217;s complement <br />9. Sequential logic circuits <br />    9.1. Multivibrators <br />           9.1.1. SR flip-flop <br />           9.1.2. SR flip-flop with clock <br />           9.1.3. Other types of flip-flops <br />           9.1.4. Astable multivibrators <br />           9.1.5. Monostable multivibrators <br />    9.2. Digital counters <br />           9.2.1. Asynchronous counters <br />           9.2.2. Parallel counters <br />           9.2.3. TTL counters <br />           9.2.4. CMOS counters <br />    9.3. Digital clock <br />    9.4. Latches and tri-state buffers <br />    9.5. Shift registers <br />           9.5.1. Basic configurations of shift registers <br />           9.5.2. TTL shift registers <br />           9.5.3. CMOS shift registers <br />10. Memory <br />    10.1. RAM memory <br />    10.2. ROM memory <br />    10.3. PROM and EPROM memories <br />11. Other devices and techniques <br />    11.1. Multiplexer <br />    11.2. Demultiplexer <br />    11.3. Gate arrays and programmable logic devices <br />    11.4. Magnitude comparator <br />    11.5. Digital data transmission
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theory classes (presentation of main topics and examples);<br /><br />Practical classes with resolution of pratical exercises.<br /><br />Laboratory classes with experimental assembly and analisys of analog and digital circuits.</p>
+
+## Tipo de avaliação
+Evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 114.0 hours
+- Frequência das aulas: 48.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Grade obtained in the final examination.</p>
+
+## Obtenção de frequência
+<p>Students must frequent at least 3/4 of the scheduled problem-solving classes.</p>
+
+## Melhoria de classificação
+<p>By improving the grade of the final exam only.</p>
+<div> </div>
+

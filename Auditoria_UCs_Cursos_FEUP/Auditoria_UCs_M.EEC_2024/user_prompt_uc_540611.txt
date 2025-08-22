@@ -1,0 +1,110 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas Autónomos
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+Analise, projeto e conceção se Sistemas Robóticos Autónomos e sua aplicação nas mais diversas situações na<br />industria, nos serviços, em monitorização, em vigilância, busca e salvamento, etc.
+
+## Resultados de aprendizagem e competências
+- Utilizar mapas e estimar a localização de robôs móveis dentro desses mesmos mapas.<br />- Controlar a navegação de robôs móveis evitando obstáculos e incluindo comportamentos reativos e<br />preditivos.<br />- Reconhecer objetos através da sua forma, textura, volume ou outros padrões.<br />- Tomar decisões de uma forma autónoma, adaptando-se e aprendendo com as novas situações.
+
+## Pré-requisitos e co-requisitos
+Operações e cáculos com matrizes.<br />Cinemática e dinâmica de robôs.
+
+## Programa
+I. Estimação da localização de robôs móveis.<br />II. Algoritmos baseados em Filtros de Kalman com balizas, Filtros de Kalman com marcos, ajuste de<br />mapas, Markov e Monte Carlo.<br />III. Introdução à localização e mapeamento simultâneos (SLAM - Simultaneous Localization and<br />Mapping)<br />IV. Controlo de alto nível em robôs móveis.<br />V. Comportamentos reativos e preditivos.<br />VI. Planeamento de trajetórias e desvio de obstáculos<br />VII. Atribuição e escalonamento de tarefas<br />VIII. Reconhecimento de formas/padrões e respetiva pose.<br />IX. Adaptabilidade, aprendizagem e autonomia em sistemas robóticos.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>* A lecionação da disciplina desenvolve-se em aulas teóricas e laboratoriais/práticas.</p>
+<p>* Aulas teóricas: exposição formal da matéria, sempre que possível acompanhada de exemplos.</p>
+<p>* Aulas laboratoriais/práticas: realização de trabalhos práticos em grupo com situações reais e/ou simuladas.</p>
+
+## Tipo de avaliação
+Avaliação por exame final
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Teste: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 116.5 horas
+- Frequência das aulas: 45.5 horas
+
+## Fórmula de cálculo da classificação final
+(Exame final)*0.75 + (média de testes realizados em avaliação contínua)*0.25
+
+## Obtenção de frequência
+Regras gerais aplicadas na FEUP, presença e participação nas aulas práticas.
+
+## Melhoria de classificação
+No exame de melhoria de classificação apenas a componente relativa ao exame final pode ser melhorada. A componente relativa à avaliação distribuída não pode ser melhorada.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Autonomous Systems
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+Analysis, design and development of Autonomous Mobile Robots and its application in industry, services,<br />monitoring, surveillance, search and rescue, etc.
+
+## Resultados de aprendizagem e competências
+- Use maps and estimate the localisation of mobile robots within those same maps.<br />- Control the navigation of mobile robots avoiding obstacles and including reactive and predictive behavior.<br />- Recognize objects through their shape, texture, volume or other patterns.<br />- Make decisions in an autonomous way, adapting and learning with the new situations.
+
+## Pré-requisitos e co-requisitos
+Matriz operarions and calculus.<br />Kinematics and dynamics of robots.
+
+## Programa
+I. Estimation of the localisation of mobile robots.<br />II. Algorithms based on Kalman Filters with beacons, Kalman Filters with landmarks, map-matching,<br />Markov and Monte Carlo.<br />III. Introduction to Simultaneous Localization and Mapping (SLAM)<br />IV. High level control in mobile robots.<br />V. Reactive and predictive behaviour.<br />VI. Planning of trajectories and obstacle avoidance.<br />VII. Tasks assignment and scheduling<br />VIII. Recognition of shapes / patterns and their pose.<br />IX. Adaptability, learning and autonomy in robotic systems.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>* The teaching of this course is developed in theoretical and laboratory lessons</p>
+<p>* Lectures: formal theoretical basis exhibition, wherever possible with real application examples.</p>
+<p>* Laboratory/practical: exploration of some existing software and implementation of practical work with real situations (work in group).</p>
+
+## Tipo de avaliação
+Evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Teste: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 116.5 hours
+- Frequência das aulas: 45.5 hours
+
+## Fórmula de cálculo da classificação final
+(Final exam)*0.75 + (average of tests taken in continuous evaluation)*0.25
+
+## Obtenção de frequência
+General rules applied at FEUP, presence and participation in practical classes.
+
+## Melhoria de classificação
+In the grade improvement examination, only the final examination component can be improved. The distributed assessment component cannot be upgraded.
+

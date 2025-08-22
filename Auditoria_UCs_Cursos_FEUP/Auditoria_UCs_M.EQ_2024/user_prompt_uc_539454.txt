@@ -1,0 +1,138 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Automação Industrial e Processamento de Dados Multivariados
+
+## Curso responsável
+Mestrado em Engenharia Química
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Fornecer competências em aquisição e análise e processamento de dados em contexto industrial.</p>
+
+## Resultados de aprendizagem e competências
+<ul><br /><li>Capacidade de implementar um sistema de aquisição de dados analógicos e/ou digitais, tendo selecionado os equipamentos adequados para o efeito.</li><br /><li>Capacidade de identificar diferentes formas e protocolos de comunicação de sinais de campo usados a nível industrial, reconhecendo as respetivas características determinantes e vantagens/desvantagens.</li><br /><li>Capacidade de identificar diferentes sistemas de controlo usados a nível industrial, reconhecendo a sua especificidade e aplicabilidade.</li><br /><li>Capacidade de identificar diferentes métodos de análise de composição química em processos industriais, reconhecendo as respetivas potencialidades e implicações em termos de implementabilidade na monitorização e controlo de processos industriais.</li><br /><li>Capacidade de implementar métodos de análise multivariada de dados de contextos industriais.</li><br /><li>Capacidade de implementar metodologias de aprendizagem automática.</li><br /><li>Capacidade de desenvolver ferramentas de aprendizagem automática suportadas em Python e suas bibliotecas.</li><br /><li>Capacidade de aplicar ferramentas de aprendizagem automática a diferentes contextos industriais.</li><br /></ul>
+
+## Programa
+<p>I - Automação industrial (duração 4 semanas)</p>
+<ul>
+<li>Sistemas de aquisição de dados: placas DAQ, microcontroladores, programação em DAQExpress.</li>
+<li>Comunicações industriais: tipos de sinais, protocolos, integração com instrumentos.</li>
+<li>Automação industrial: níveis de automação, sistemas de controlo PLC e DCS, sistemas de supervisão SCADA, conceitos de Indústria 4.0.</li>
+<li>Medição de propriedades físicas em contexto industrial: temperatura, força, pressão, nível de líquido e caudal.</li>
+</ul>
+<ul>
+<li>Análise de composição química em contexto industrial: métodos convencionais, espetroscopia NIR e espetroscopia Raman. Análise <em>off-line, at-line, on-line </em>e<em>in-line</em>.</li>
+</ul>
+<p>II - Processamento de dados (duração 9 semanas)</p>
+<ul>
+<li>Métodos para pré-processamento de dados: dados em falta, deteção de erros grosseiros, normalização, centralização na média, aplicação de filtros, análise por classes.</li>
+<li>Ferramentas de aprendizagem automática em problemas que envolvam aprendizagem não-supervisiona e aprendizagem supervisionada.</li>
+<li>Sensores inferenciais e quimiometria: seleção de conjuntos de dados (treino, validação e teste), análise por componentes principais, desenvolvimento de modelos, índices de desempenho dos modelos.</li>
+<li>Utilização da ferramenta Python e bibliotecas no desenvolvimento dos projetos.</li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Ensino teórico-prático integrado; sessões práticas em laboratório com sistemas de aquisição de dados e desenvolvimento de ferramentas informáticas.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 15.0 %
+- Trabalho prático ou de projeto: 85.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 50.0 horas
+- Estudo autónomo: 30.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho de investigação: 15.0 horas
+- Trabalho laboratorial: 15.0 horas
+
+## Fórmula de cálculo da classificação final
+<ul><br /><li>Questionários sobre tópicos de automação industrial (QTP);</li><br /><li>Um trabalho prático laboratorial sobre aquisição de dados (TPL)</li><br /><li>Um projeto sobre processamento de dados multivariados (PDM)</li><br /></ul><br /><p>Fórmula de avaliação: a classificação final - CF - será atribuída com base na avaliação do minitestes, do trabalho prático e do projeto (inclui apresentação e discussão dos relatórios)</p><br /><p> CF = 3x0,075*QTP + 0,075*TPL+ 0,70*PDM<br /><br /><strong>Nota importante:</strong>  Os projetos PDM serão sugeridos por várias empresas.  Os projetos serão desenvolvidos em grupos, com 4 elementos, havendo interação com as empresas durante o semestre.</p><br /><p>Os estudantes terão de assinar um acordo de confidencialidade por terem acesso a informação reservada das empresas.</p>
+
+## Obtenção de frequência
+Frequência das aulas e realização dos trabalhos propostos
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Industrial Automation and Multivariate Data Processing
+
+## Curso responsável
+Master in Chemical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>To provide competencies in automatic data collection, analysis and processing in an industrial setting.</p>
+
+## Resultados de aprendizagem e competências
+<ul><br /><li>Ability to implement an analogue and/or digital data acquisition system, having selected the appropriate equipment for the purpose.</li><br /><li>Ability to identify different forms and protocols of field signal communication used at industrial level, recognising their determining characteristics and advantages/disadvantages.</li><br /><li>Ability to identify different control systems used at the industrial level, recognising their specificity and applicability.</li><br /><li>Ability to identify different methods for analysing chemical composition in industrial processes, recognising their potential and implications in implementation in monitoring and controlling industrial processes.</li><br /><li>Ability to implement multivariate data analysis methods in industrial contexts.</li><br /><li>Ability to implement machine learning methodologies.</li><br /><li>Ability to develop machine learning tools supported by Python and its libraries.</li><br /><li>Ability to apply machine learning tools to different industrial contexts</li><br /></ul>
+
+## Programa
+<p>I - Industrial automation (4 weeks)</p>
+<ul>
+<li>Data acquisition systems: DAQ boards, microcontrollers, programming in DAQExpress.</li>
+<li>Industrial communications: types of signals, protocols, integration with instruments.</li>
+<li>Industrial automation: automation levels, PLC and DCS control systems, SCADA supervision systems, Industry 4.0 concepts.</li>
+<li>Measurement of physical properties in an industrial context: temperature, force, pressure, liquid level and flow rate.</li>
+<li>Analysing chemical composition in an industrial context: conventional methods, NIR spectroscopy and Raman spectroscopy. Off-line, at-line, on-line and in-line analysis.</li>
+</ul>
+<p>II - Data processing (9 weeks)</p>
+<ul>
+<li>Methods for data pre-processing: missing data, detection of gross errors, normalisation, mean-centring, application of filters, class analysis.</li>
+<li>Machine learning tools for problems involving unsupervised and supervised learning.</li>
+<li>Inferential sensors and chemometrics: selection of data sets (training, validation and testing), principal component analysis, model development, and model performance indices.</li>
+<li>Use of the Python tool and libraries in project development.</li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Practical sessions with data acquisition systems and development of software tools using several software.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 15.0 %
+- Trabalho prático ou de projeto: 85.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 50.0 hours
+- Estudo autónomo: 30.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho de investigação: 15.0 hours
+- Trabalho laboratorial: 15.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>- Quizes on industrial automation topics (QTP);</p>
+<p>- A practical lab assignment on data acquisition (TPL)</p>
+<p>- A project on multivariate data processing (PDM)</p>
+<p>Assessment formula: the final mark - CF - will be awarded on the basis of the assessment of the mini-tests, the practical work and the project (includes presentation and discussion of the reports)</p>
+<p> </p>
+<p>CF = 3x0,075*QTP + 0,075*TPL+ 0,70*PDM</p>
+<p><strong> </strong></p>
+<p><strong>Important note</strong>: PDM projects will be suggested by several companies.  The projects will be developed in groups of 4 elements, with interaction with the companies during the semester.</p>
+<p>Students will have to sign a confidentiality agreement because they will have access to confidential company information.</p>
+
+## Obtenção de frequência
+<p>Attendance in lectures and delivery of proposed work.</p>
+

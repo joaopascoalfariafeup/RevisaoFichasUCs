@@ -1,0 +1,180 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Dinâmica e Controlo de Processos
+
+## Curso responsável
+Mestrado em Engenharia Química
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p><span style="font-size: 9pt; line-height: 115%; font-family: 'Trebuchet MS', sans-serif; background-position: initial initial; background-repeat: initial initial;">A Unidade Curricular tem como objetivo fundamental a formação nas áreas de i) modelação/simulação de sistemas dinâmicos, e ii) análise, projeto e operação de sistemas de controlo de processos. Como complemento, pretende-se transmitir conhecimentos básicos de instrumentação para controlo de processos. </span><span style="font-size: 9pt; line-height: 115%; font-family: 'Trebuchet MS', sans-serif;"><br /> <!--[endif]--></span></p>
+
+## Resultados de aprendizagem e competências
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">Espera-se que após concluírem com sucesso a unidade curricular os estudantes sejam capazes de:</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Desenvolver modelos matemáticos de sistemas dinâmicos.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Analisar e elaborar diagramas de blocos de sistemas dinâmicos lineares, identificando as funções de transferência intervenientes.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Obter respostas temporais e em frequência de sistemas dinâmicos lineares.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Identificar os principais instrumentos usados em controlo de processos químicos e biológicos, efetuando a análise crítica da sua relevância e contexto de uso.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Projetar e sintonizar controladores clássicos de acordo com determinadas especificações de desempenho.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Projetar e sintonizar algumas estratégias de controlo avançado, efetuando a análise crítica da sua pertinência.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"> </p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;"> </span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;"> </span></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt;"><span style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif;">COMPETÊNCIAS CDIO* A ADQUIRIR</span><span style="font-size: 7.5pt; line-height: 115%; font-family: 'Verdana','sans-serif';">:<br /> 1. Aquisição de conhecimentos técnicos</span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">1.2 Conhecimentos nucleares de engenharia na área da computação e programação: comportamento dinâmico de sistemas; controlo de processos e instrumentação.</span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">1.3 Conhecimentos avançados de engenharia: técnicas computacionais e utilização de software específico.</span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">2. Aquisição de aptidões pessoais e profissionais</span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">2.1 Pensamento e resolução de problemas: identificação e formulação de problemas; modelização e simulação de sistemas.</span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">2.2 Conhecimentos avançados de engenharia: definições e interacções em sistemas; filosofias de controlo de processos; simulação de processos controlados por computador.</span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">3. Aquisição de aptidões inter-pessoais</span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">3.3 Comunicação em línguas estrangeiras: inglês.</span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">4. Concepção, projecto, implementação e operação de sistemas</span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">4.3 Concepção e engenharia de sistemas: conceitos de dinâmica de sistemas associados à operação de processos industriais; filosofias de controlo de processos.</span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">4.4 Projecto: projecto de sistemas de controlo por realimentação negativa e de sistemas por antecipação-realimentação negativa; projecto de sistemas de aquisição de dados e de controlo por computador; conceitos sobre projecto industrial de sistemas de controlo distribuído.</span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">4.5 Implementação: simulação de operação de processos controlados por computador; conceitos sobre instrumentação associada à operação de processos;</span></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt;"><span style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif;"> </span></p>
+<p><em><span style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif;">* conforme descrição em www.cdio.org</span><span style="font-size: 7.5pt; line-height: 115%; font-family: 'Verdana','sans-serif'; mso-fareast-font-family: Calibri; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: PT; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"> </span></em></p>
+
+## Programa
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">O conteúdo da Unidade Curricular está organizado de acordo com os seguintes tópicos:</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Tipos de sistemas dinâmicos. Sistemas contínuos e discretos.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Modelos dinâmicos. Solução nos domínios do tempo e de frequência. Função de transferência. Linearização de sistemas.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Sistemas de parâmetros concentrados. Sistemas de 1ª ordem; ganho estacionário e constante de tempo. Sistemas de 2ª ordem; ganho estacionário, constante de tempo e factor de amortecimento. Sistemas de ordem superior.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Sistemas de parâmetros distribuídos.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Sistemas complexos. Identificação.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Análise da resposta em frequência. Diagramas de Bode e Nyquist.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Estabilidade. Sistemas não lineares. Natureza dos pontos singulares. Aplicações em sistemas de Engenharia Química e Biológicos.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Controlo em anel fechado (retroação). Algoritmos on-pff e PID.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Comportamento dinâmico de um sistema em anel fechado. Análise de estabilidade.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Sintonização de controladores: critérios e métodos.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Controlo por antecipação e controlo de razão.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Controlo em cascata.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Representação de sistemas de controlo em diagramas P&amp;I.</span></p>
+<p>&#8226; Elementos finais de controlo usados em controlo de processos.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">Aulas teórico-práticas de exposição de conceitos e discussão de casos de estudo. Realização de dois testes de avaliação durante o semestre, realizados em computador. Utilização de aplicações computacionais (Scilab/Xcos) para o ensino assistido por computador de dinâmica e controlo de processos.</span></p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Teste: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 70.0 horas
+- Frequência das aulas: 70.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><span style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">A classificação final é calculada de acordo com a seguinte fórmula:</span><span style="font-size: 7.5pt; line-height: 115%; font-family: 'Verdana','sans-serif'; mso-fareast-font-family: Calibri; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: PT; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"> <span style="background-position: initial initial; background-repeat: initial initial;"><br /> CF = 0,15 * T1 + 0,15 * T2 + 0.70 * EX</span> <span style="background-position: initial initial; background-repeat: initial initial;"><br /> em que T1 e T2 são as notas de cada teste e EX é a nota do exame.</span> <span style="background-position: initial initial; background-repeat: initial initial;"><br /> <br /> Está definido o seguinte critério de aprovação:</span> <span style="background-position: initial initial; background-repeat: initial initial;"> CF &gt;= 9.5</span>.</span></p>
+
+## Obtenção de frequência
+<p>Frequência das aulas nos termos legais. Realização dos 2 testes em computador.</p>
+
+## Melhoria de classificação
+<p><span style="font-family: Verdana, sans-serif; line-height: 11px;">Os estudantes poderão optar por efetuar o exame de recurso para melhorar apenas a nota do primeiro exame, mantendo as notas dos testes, ou melhorar as notas do exame e dos testes, de forma que a nota final será a do exame de recurso.</span></p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Process Dynamics and Control
+
+## Curso responsável
+Master in Chemical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p><span class="apple-converted-space"><span lang="EN-US" style="font-size: 9pt; line-height: 115%; font-family: 'Trebuchet MS', sans-serif; background-position: initial initial; background-repeat: initial initial;">The main objective for this course is to provide knowledge in the areas of i) modeling/simulation of dynamic systems, and ii) analysis, design and operation of process control systems. as a complement, it is intended to provide basic knowledge on instrumentation for process control (sensors, controllers and final control elements).</span></span></p>
+
+## Resultados de aprendizagem e competências
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;">It is expected that after successfully concluding the course, students should be able to:</span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;"> </span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Develop mathematical models of dynamic systems.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Analyze and create block diagrams of linear dynamic systems, identifying the intervening transfer functions.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Obtain time and frequency responses of linear dynamic systems.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Identify the main instrumentation used in control of chemical and biological processes, being able to critically analyze their relevance and usage context.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Design and tune classic controllers according to specified performance criteria.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Design and tune some advanced control strategies, being able to critically analyze their pertinence.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Identify the main methods for analog and digital signal processing. </span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;"> </span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><em><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;"> </span></em></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;">CDIO* LEARNING OUTCOMES</span><span lang="EN-US" style="font-size: 7.5pt; font-family: 'Verdana','sans-serif'; mso-ansi-language: EN-US;"> <br /> 1. Technical Knowledge and Reasoning</span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;">1.2 Core engineering fundamental knowledge: engineering computation and programming; behaviour of dynamic system; process control and instrumentation.</span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;">1.3 Advanced engineering fundamental knowledge: computational techniques and specific software usage.</span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;">2. Personal and Professional Skills and Attributes</span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;">2.1 Engineering reasoning and problem solving: engineering identification and formulation; system modelling and simulation. </span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;">2.3 Advanced engineering knowledge: system definitions and interactions; process control philosophy; computer aided process simulation. </span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;">3. Personal skills and attributes </span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;">3.3 Communication foreign languages: English.</span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;">4. Conceiving, designing, implementing, and operation systems</span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;">4.3 Conceiving and engineering systems: process dynamics concepts associated to the operation of industrial processes; process control philosophy.</span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;">4.4 Design: design of feedback and feedforward control systems; design of data acquisition systems; some concepts about distributed digital control systems.</span></p>
+<p style="margin: 0cm; margin-bottom: .0001pt;"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;">4.5 Implementation: simulation of processes controlled by computers; knowledge related with instrumentation for operation of the processes.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;"> </span></p>
+<p><em><span lang="EN-US" style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif;">* as described on www.cdio.org</span></em></p>
+
+## Programa
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span lang="EN-US" style="font-size: 7.5pt; font-family: Verdana, sans-serif;">The course&#8217;s contente is organized according to the following topics:</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Types of dynamic systems. Continuous and discrete systems.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Dynamic models. Solution in time and frequency demains. Transfer function. System linearization.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Concentrated parameters systems. 1st order systems; stationary gain and time constant. 2nd order systems; stationary gain, time constant and damping factor. Higher order systems.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Distributed parameter systems.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Complex systems. Identification.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Frequency response analysis. Bode and Nyquist diagrams.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Stabilty. Nonlinear systems. Nature of singular points. Application to Chemical  and Biological Engineering systems.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Industrial instrumentation for process control: sensors and trsnmiters, controlers, final control elements.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Closed control loop (feedback).</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Dynamic behavior o a closed loop system. Stability analysis.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Control tunning: criteria and methods.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Feedforward and ratio control.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Advanced control strategies: cascade control, adaptative control and delay compensation control.</span></p>
+<p style="margin: 0cm 0cm 6.0pt 0cm;"><span style="font-size: 7.5pt; font-family: Verdana, sans-serif;">&#8226; Representation of control systems in P&amp;I diagrams.</span></p>
+<p><span style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif;">&#8226; Digital systems for process monitoring, command and control. Treatment of analogic and digital signals.</span></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span lang="EN-US" style="font-size: 7.5pt; line-height: 115%; font-family: Verdana, sans-serif; background-position: initial initial; background-repeat: initial initial;">Theoretical-practical classes will be based on the presentation of case studies. Students will have to carry out two tests along the semester, performed with computer. Use of computer applications (Scilab/Xcos) for computer-aided learning.</span></p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Teste: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 70.0 hours
+- Frequência das aulas: 70.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><span lang="EN-US" style="font-size: 7.5pt; line-height: 115%; font-family: 'Verdana','sans-serif'; mso-ansi-language: EN-US;">The final grade is based on the following formula:</span></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt;"><span style="background-position: initial initial; background-repeat: initial initial;">CF = 0.15 * T1 + 0.15 * T2 + 0.70 * EX</span> </p>
+<p class="MsoNormal" style="margin-bottom: .0001pt;"><span lang="EN-US" style="font-size: 7.5pt; line-height: 115%; font-family: 'Verdana','sans-serif'; mso-ansi-language: EN-US;">where T1 and T2 are the grades on each test and EX is the grade on the exam.</span></p>
+<p><span lang="EN-US" style="font-size: 7.5pt; line-height: 115%; font-family: 'Verdana','sans-serif'; mso-fareast-font-family: Calibri; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">The criteria to pass the course is: CF &gt;= 9.5 .</span></p>
+<p> </p>
+
+## Obtenção de frequência
+<p>Attendance to classes according to current legislation.</p>
+
+## Melhoria de classificação
+<p><span style="font-family: Verdana, sans-serif;">Students may choose between doing the second exam (&#8220;recurso&#8221;) in order to improve only the grade of the first exam, maintaining the grades for the tests, or improve both the grades for the exam and the tests, so that the final grade will be the one of the second exam.</span></p>
+

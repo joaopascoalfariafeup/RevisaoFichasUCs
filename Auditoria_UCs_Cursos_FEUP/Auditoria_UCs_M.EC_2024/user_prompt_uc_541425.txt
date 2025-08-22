@@ -1,0 +1,153 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+BIM na Engenharia Civil
+
+## Curso responsável
+Mestrado em Engenharia Civil
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p style="display: inline !important;">Conhecimentos, Aptidões e Competências:</p>
+<p>-Conhecer os principais sistemas de classificação, modelos de informação e famílias de aplicações informáticas actuais;</p>
+<p>-Tomar contacto com a área dos sistemas de informação construção, percebendo a sua importância para os profissionais do sector;</p>
+<p>- Entender o papel dos Engenheiros Civis no contexto da gestão da informação;</p>
+<p>- Explicar a diferença entre os desempenhos da indústria da construção e de outras actividades no que diz respeito à gestão da informação e relacionar este problema com a produtividade medida;</p>
+<p>- Compreender a importância dos standards de modelação e classificação da informação;</p>
+<p>- Utilização de ferramentas informáticas, em particular de sistemas BIM na conceção de edifícios e gestão da construção;</p>
+- Integração de informação - utilização de ferramentas BIM em conjunto com outras aplicações informáticas;
+
+## Resultados de aprendizagem e competências
+<p>a) Conhecimento <br />- Aplicações das TIC e BIM na Construção; <br />- Identificar as possibilidades do tema do projeto individual em termos de utilização num dos processos de construção usando BIM; <br />b) Compreensão <br />- Entender as vantagens eventuais e as limitações correntes das TIC na construção; <br />- Processos de inovação na construção devido à modernização criada pelas TIC e por BIM; <br />c) Aplicação <br />- Relacionar as potencialidades das TIC em casos concretos em fases diferentes na construção (concepção, projeto, concurso, execução, recepção, manutenção, reabilitação); <br />- Descobrir oportunidades de utilização das TIC para melhorar a produtividade na construção; <br />- Aplicação de ferramentas de modelação BIM, de coordenação e gestão do modelo; <br />- Desenvolver modelos de realidade virtual para visualização de projecto e para comunicação entre intervenientes do processo construtivo;<br />d) Análise <br />- Investigar, utilizando o projeto individual, o modo de utilizar as TIC ou BIM numa aplicação específica na construção; <br />- Comparar as situações antes e depois de usar as TIC em algumas fases da construção; <br />e) Síntese <br />- Com base nas tarefas de desenvolvimento e apresentação do projeto individual, formar modelos de uso das TIC na construção; <br />- Gerir os recursos das TIC disponíveis nos vários processos de construção para obter resultados vantajosos; <br />f) Avaliação <br />- Usar os debates e os trabalhos produzidos ao longo da UC para julgar as capacidades das ferramentas das TIC ou BIM na construção; <br />- Escolher um caso de estudo aonde possa ser aplicado o modelo escolhido para testar os benefícios das TIC ou BIM na construção; <br />Projeto em Engenharia <br />- Verificar as fases do projeto em termos de uso das TIC ou BIM; <br />Investigação em Engenharia <br />- Pesquisar casos de estudo e de aplicação das TIC ou BIM na construção <br />- Escolher um projeto individual que possa beneficiar com o uso das TIC ou BIM<br />- Ler teses, livros e artigos relacionados com o tema da UC <br />Prática de Engenharia <br />- Aplicar as TIC ou BIM a um processo da construção <br />- Analisar programas e plataformas utilizadas na construção <br />- Verificar a viabilidade técnica e económica de soluções</p>
+
+## Programa
+<p>I &#8211; Introdução</p>
+<p>II &#8211; Gestão da Informação na Construção Civil. Aspectos gerais: Desempenho das empresas de construção, especificidade do sector AECO, Descrição dos principais fluxos de informação ao longo do processo construtivo, Sistemas de Classificação da Informação</p>
+<p>III &#8211; BIM e integração de informação: Introdução ao BIM (Usos BIM, LOD, LOI), Normalização e Standards (EN ISO 19650, EIR, BEP, Legislação, IFC, IDM/MVD, bsDD), BIM <em>as-is</em>, BIM na fase de projecto (Representação, Coordenação, Detecção de Incompatibilidades), BIM na fase de execução (Planeamento e Orçamentação), Verificação de conformidade regulamentar, Modelação paramétrica, Interfaces de VR</p>
+<p>Aulas TP:</p>
+<p>IV &#8211; Desenvolvimento e uso de modelos: Introdução a software de modelação, Modelação de projectos de especialidades, Detecção de incompatibilidades, Gestão da construção (modelos 4D e 5D), Integração com outras aplicações, Utilização de parâmetros</p>
+<p>V &#8211;Introdução a linguagem de programação visual</p>
+<p>VI &#8211; Desenvolvimento de modelos em RV<br /> <br />Conteúdo Científico: 50% <br />Conteúdo Tecnológico: 50% <br /><br />DEMONSTRAÇÃO DA COERÊNCIA DOS CONTEÚDOS PROGRAMÁTICOS COM OS OBJETIVOS DA UNIDADE CURRICULAR:<br /><br /></p>
+<p>A Gestão da Informação na Construção (GIC) é apresentada como uma área que requer um contributo dos Engenheiros Civis e Arquitetos.</p>
+<p>São apontadas debilidades na GIC, algumas causas deste problema e soluções tecnológicas.</p>
+<p>São introduzidos conceitos sobre Sistemas de Classificação de Informação para a Construção (CICS), modelos de informação e famílias de aplicações informáticas.</p>
+<p>As ferramentas BIM serão exploradas em especial detalhe. Neste âmbito, serão apresentadas normas de modelação e formatos padrão BIM.</p>
+<p>Os aspetos relacionados com a coordenação de projeto e com o desenvolvimento colaborativo de modelos, serão abordados durante as aulas TP.</p>
+<p>Será abordado o tema do BIM na fase de execução, na orçamentação, planeamento e segurança em obra.</p>
+<p>Será apresentada a modelação paramétrica como metodologia de desenvolvimento de modelos de projeto.</p>
+<p>Serão ainda abordados tópicos elementares sobre modelação de dados para permitir a integração de informação diversa em modelos BIM.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<div><br /><p>Cada semana de aulas, com uma duração total de três horas e meia de contacto, será dividida numa sessão teórica (T) de duas horas e uma sessão teórico-prática de uma hora e meia (TP).</p><br /><p>Os temas suscitados pelo programa serão apresentados nas sessões T. O exame final incidirá principalmente sobre os assuntos referidos nestas sessões.</p><br /><p>As sessões TP serão realizadas com o apoio de computadores e privilegiarão a aplicação dos conceitos introduzidos nas sessões T. Durante estas aulas, os estudantes deverão realizar trabalhos individuais e de grupo. O trabalho de grupo, mais extenso, será inspirado em problemas reais e requer a coordenação de esforços dos estudantes que deverão desempenhar papéis distintos nos seus grupos. A resolução destes problemas requer reflexão sobre os conceitos apresentados nas sessões T e conhecimentos sobre a aplicação de ferramentas informáticas.</p><br /></div><br /><p>DEMONSTRAÇÃO DA COERÊNCIA DAS METODOLOGIAS DE ENSINO COM OS OBJETIVOS DE APRENDIZAGEM DA UNIDADE CURRICULAR:<br /><br />Relacionar as potencialidades das tecnologias de informação e comunicação em casos concretos das fases diferentes na construção (conceção, projeto, concurso, execução, receção, manutenção, reabilitação); descobrir oportunidades de utilização das tecnologias de informação e comunicação para melhorar a produtividade na construção; investigar, utilizando o projeto individual, o modo de utilizar as tecnologias de informação e comunicação numa aplicação específica na construção; comparar as situações antes e depois de usar as tecnologias de informação e comunicação em algumas fases da construção; utilizar os debates feitos nas aulas sobre os trabalhos e sobre o projeto individual para formar modelos de uso das tecnologias de informação e comunicação na construção; gerir os recursos das tecnologias de informação e comunicação disponíveis nos vários processos de construção para obter resultados vantajosos.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 25.0 %
+- Trabalho escrito: 35.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 30.0 horas
+- Elaboração de relatório/dissertação/tese: 40.0 horas
+- Estudo autónomo: 0.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho de investigação: 20.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>CF = 8 x TP + 7 x CAD + 5 x TE</p>
+<p>Trabalho Prático (TP), Avaliação escrita intercalar (CAD) e Trabalho escrito final (TE) entre 0 e 1<br />Classificação final (CF) de 0 a 20</p>
+
+## Obtenção de frequência
+<p>A obtenção de classificação final exige o cumprimento de assiduidade à unidade curricular, conforme estabelecido nas regras de avaliação do MEC. Considera&#8208;se que um estudante cumpre a assiduidade a uma unidade curricular se, tendo estado regularmente inscrito, não exceder o número limite de faltas correspondente a 25% de cada um dos tipos de aulas previstos.<br /><br />Conhecimentos prévios: Processos de construção, projeto, obra, legislação, informática e economia. <br /><br />UCs relacionadas: </p>
+
+## Melhoria de classificação
+<p>A avaliação escrita intercalar (CAD) será recuperável através da realização de uma prova escrita a realizar no final do ano lectivo. Os trabalhos TP e TE resultam do trabalho prático a realizar durante o semestre e não são recuperáveis.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+BIM in Civil Engineering
+
+## Curso responsável
+Master in Civil Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p style="display: inline !important;">Knowledge, Skills and Competences:</p>
+<p>- To identify the main classification systems, information models and types of software applications;</p>
+<p>- To introduce the construction information systems topic, perceiving its importance for AEC professionals;</p>
+<p>- To understand the role of Civil Engineers in the information management field;</p>
+<p>- To explain the differences between the construction industry and other activities regarding the use of IT and to relate this issue with productivity, as it is usually measured;</p>
+<p>- To understand the importance of modelling and information classification standards;</p>
+<p>- To use software tools, in particular BIM systems in building design and construction management;</p>
+- Information integration - using BIM alongside other software applications;
+
+## Resultados de aprendizagem e competências
+<p><span lang="en">a</span><span lang="en">) Knowledge </span><br /><span lang="en"> -Applications of ICT and BIM in construction; </span><br /><span lang="en"> -Identify the possibilities of individual design theme in terms of use in construction processes using BIM; </span><br /><span lang="en"> b) Understanding </span><br /><span lang="en"> -Understand the advantages and limitations of current ICT in construction; </span><br /><span lang="en"> -Innovation processes in construction due to modernisation created by ICT and by BIM; </span><br /><span lang="en"> c) Application </span><br /><span lang="en"> -Relate the potential of ICT in specific cases of different phases in the construction (design, project, contest, running, receiving, maintenance, rehabilitation); </span><br /><span lang="en"> -Discover opportunities to use ICT to improve productivity in construction; <br /></span>-Use BIM modelling tools, coordination and management software;<br />-Development of virtual reality interfaces to navigate building design and as a communication tool;<br /><span lang="en"> d) Analysis </span><br /><span lang="en"> -Investigating, using the individual project, how to use ICT or BIM in a specific application in the construction; </span><br /><span lang="en"> -Compare the situations before and after using ICT in some construction phases; </span><br /><span lang="en"> e) Synthesis </span><br /><span lang="en"> -Use the individual project as a basis to form models of ICT use in construction; </span><br /><span lang="en"> -Managing ICT resources available in the various construction processes to obtain beneficial results; </span><br /><span lang="en"> f) Evaluation </span><br /><span lang="en"> -Use the debates and work produced along the UC to judge the capabilities of ICT tools and BIM in construction; </span><br /><span lang="en"> -Choose a case study where can be applied the model chosen to test the benefits of ICT or BIM in construction; </span><br /><span lang="en"> Engineering project </span><br /><span lang="en">-Verify the phases of the project in terms of use of ICT or BIM; </span><br /><span lang="en"> Research in engineering </span><br /><span lang="en"> -Search case studies and application of ICT or BIM in construction </span><br /><span lang="en">-Choose an individual project can you benefit with the use of ICT or BIM </span><br /><span lang="en"> -Read theses, books and articles related to the theme of UC</span><br /><span lang="en"> Engineering practice </span><br /><span lang="en"> -Apply ICT or BIM to a construction process </span><br /><span lang="en"> -Analyze programs and platforms used in the construction </span><br /><span lang="en"> -Verify the technical and economic feasibility of solutions</span></p>
+
+## Programa
+<p>I - Introduction</p>
+<p>II - Construction Information Management. General aspects: Performance of the construction industry, Specific characteristics of the AECO sector, Description of the main information flows during the construction lifecycle, Construction Information Classification Systems</p>
+<p>III &#8211; BIM and information integration: Introduction to BIM (BIM Uses, LOD, LOI), Standards and regulations (EN ISO 19650, EIR, BEP, Existing legislation, IFC, IDM/MVD, bsDD), As-is Models, BIM in the design phase (Graphic representation, Coordination, Clash Detection), BIM in the construction phase (Planning and Budgeting), Regulatory compliance check, Parametric modeling, VR interfaces</p>
+<p>TP classes:</p>
+<p>IV - Development and use of BIM models: Introduction to modeling software, Modeling for engineering disciplines, Clash detection, Construction management (4D and 5D models), Integration with other applications, Using parameters</p>
+<p>V - Introduction to visual programming languages</p>
+<p>VI - Development of VR models<br /><br />Scientific Content: 50% <br />Technological Content: 50% <br /><br />DEMONSTRATION OF THE SYLLABUS COHERENCE WITH THE CURRICULAR UNIT'S:<br /><br /></p>
+<p>Construction Information Management (CIM) is presented as a field that requires a contribution from civil engineers and architects.</p>
+<p>Weaknesses with regard to CIM are identified, along with causes of this problem and a set of IT solutions.</p>
+<p>Concepts on Construction Information Classification Systems (CICS), information models and types of computer applications are introduced.</p>
+<p>BIM tools will be explored in particular detail. In this context, BIM modeling standards and file formats will be presented.</p>
+<p>Project coordination and collaborative model development issues will be addressed in TP classes.</p>
+<p>The use of BIM in the construction phase will be described, for budgeting, planning and construction safety.</p>
+<p>Parametric modeling will be presented as a methodology for developing project models</p>
+<p>Elementary topics on data modeling will also be presented to enable the integration of information into BIM models, extending the scope of this type of computer tools.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<div><br /><p>Each week of class will have a total duration of three and a half hours, divided into a two-hour theoretical session (T) and a one-and-a-half-hour practical session (TP).</p><br /><p>Topics will be presented initially in theoretical classes. The final exam will focus on subjects presented during these lectures.</p><br />TP classes will take place in computer rooms and will allow the application of the concepts presented in theoretical classes. During these classes, students will perform tasks as individuals and as groups where software tools will be introduced. The group coursework will be inspired in real-world challenges and will require students to coordinate efforts, while play distinct roles. These challenges should be overcome through reflection upon theoretical concepts and application of tools and standard processes.</div><br /><p>DEMONSTRATION OF THE COHERENCE BETWEEN THE TEACHING METHODOLOGIES AND THE LEARNING OUTCOMES:<br /><br /> Relate the potential of information and communication technologies in specific cases in different stages of construction (concept, design, tendering, execution, reception, maintenance, rehabilitation); discover opportunities for using information and communication technologies to improve productivity in construction; investigate, using the individual project, how to use information technology and communication in a specific application in the construction, to compare the situation before and after using the information and communication technologies in some phases of construction, use the discussions made in class about work and on the individual project to build models using the information and communication technologies in construction; manage the resources of information and communication technologies available in the various construction processes to achieve advantageous results.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 25.0 %
+- Trabalho escrito: 35.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 30.0 hours
+- Elaboração de relatório/dissertação/tese: 40.0 hours
+- Estudo autónomo: 0.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho de investigação: 20.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>CF = 8 x PP + 7 x CAD + 5 x TE</p>
+<p>Practical assignment (TP), written test during the semester (CAD) and Final Report (TE) on a scale of 0 to 1 for each component<br />Final grade (CF) on a scale of 0 to 20</p>
+<p>Passing threshold - 10 points in a maximum of 20</p>
+
+## Obtenção de frequência
+<p><span lang="EN-US">Achieving final classification requires compliance with attendance at the course unit, according to MEC assessment rules. It is considered that students meet the attendance requirements if, having been regularly enrolled, the number of absences does not exeed 25% for theoretical or practical classes.</span> <br /><br />Previous competences: construction procedures, design, execution, legislation, informatics and economy.<br /><br /><br /></p>
+
+## Melhoria de classificação
+<p><span class="hps">The</span> <span class="hps">classification</span> of the written test (CAD) can<span class="hps"> be improved</span> <span class="hps">through an</span> <span class="hps">exam at the end of the semester. Components PP and TE are the result of the work carried out during the semester and their classification cannot be improved.</span></p>
+

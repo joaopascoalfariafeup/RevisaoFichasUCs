@@ -1,0 +1,175 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Visão por computador
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>A visão por computador aborda a extração de informação útil de imagens e vídeos. Exemplos incluem, por exemplo, a deteção e identificação de faces ou de gestos humanos, o seguimento de pessoas ou de veículos numa sequência de vídeo. Os algoritmos da visão por computador têm imensas aplicações em muitas áreas, desde a industrial, militar e médica. Esta UC é uma introdução aos conceitos e métodos da visão por computador. Os estudantes que concluírem esta UC com sucesso deverão:</p>
+<p>-compreender e serem capazes de explicar os conceitos da visão por computador e os algoritmos fundamentais de manipulação de imagens e sequências de vídeo;</p>
+<p>-conhecer e serem capazes de aplicar esses algoritmos em situações práticas;</p>
+<p>-adquirir conhecimentos que lhes permitam usar uma biblioteca, como a OpenCV, que implementa alguns dos algoritmos estudados, e implementar novos algoritmos descritos na literatura;</p>
+<p>-ser capazes de analisar e compreender artigos científicos selecionados nas áreas de visão por computador.</p>
+
+## Resultados de aprendizagem e competências
+<p>As metodologias de ensino e de aprendizagem visam o desenvolvimento integrado nos estudantes dos conhecimentos referidos nos conteúdos programáticos e a concretização dos objetivos e competências estabelecidos. A diversidade de metodologias propostas tem por objetivo potenciar as capacidades e competências estabelecidas, procurando evidenciar diferentes níveis de análise, fomentando a integração de saberes. Os métodos e estratégias propostos pretendem desenvolver nos estudantes conhecimentos, compreensão e competências ao nível das técnicas de visão computacional.</p>
+<p>As competências genéricas de trabalho em equipa, organização, etc. irão ser trabalhadas no projeto em grupo.</p>
+<p>De igual forma, as capacidades de desenvolver sistemas de visão computacional de acordo com as necessidades existentes e aplicar as ferramentas tecnológicas mais apropriadas, conhecer, aplicar e avaliar modelos avançados de visão computacional irão ser trabalhadas nos exercícios semanais e projeto de grupo.</p>
+<p>As competências específicas em técnicas de visão computacional irão sendo trabalhadas durante o semestre, nas aulas teórico-práticas.</p>
+
+## Pré-requisitos e co-requisitos
+Prática de programação in C++ or Python
+
+## Programa
+<p style="display: inline !important;">Introdução à visão por computador</p>
+<p>Aquisição de imagens digitais</p>
+<p>    imagens de intensidade (2D) e de distância/posição (3D)</p>
+<p>    modelo geométrico e radiométrico de uma câmara</p>
+<p>Processamento e análise de imagens de intensidade</p>
+<p>    filtragem</p>
+<p>    filtragem no domínio dos tempos</p>
+<p>    filtragem no domínio das frequências</p>
+<p>    extração de características</p>
+<p>    segmentação</p>
+<p>Reconhecimento de objetos</p>
+<p>    Análise de objetos ligados</p>
+<p>    Medição de características</p>
+<p>    Representação de objetos</p>
+<p>    - seleção de características</p>
+<p>    - descrição baseada em características locais invariantes</p>
+<p>    - sistemas de aprendizagem</p>
+<p>    - representação aprendidas a partir dos dados<br /><br />   Introdução às CNNs<br /><br />Movimento e seguimento</p>
+<p>    estimação de movimento</p>
+<p>    seguimento baseado em modelos lineares</p>
+Estudo de casos
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas Teórico-Práticas: Exposição e discussão das matérias do programa, acompanhada pela resolução de exercícios.</p>
+<p>Trabalhos práticos: Desenvolvimento de projetos de aplicação das técnicas de visão por computador estudadas.</p>
+<p>Durante o semestre, são apresentados 2 projetos que os estudantes desenvolverão tanto nas aulas teórico-práticas, como fora das aulas. Para o último projeto, cada grupo apresentará um pequeno relatório, em formato de artigo, e o projeto será apresentado oralmente.<br /><br />Avaliação distribuída com exame final. O exame final vale 50% da classificação final. Os projetos valem os restantes 50%.</p>
+<p> </p>
+<p> </p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho prático ou de projeto: 40.0 %
+- Participação presencial: 10.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 50.0 horas
+- Estudo autónomo: 67.0 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho escrito: 8.0 horas
+
+## Fórmula de cálculo da classificação final
+CF (100%) = 40%Project_1 + 50% Project_2 + 10%Professor Opinion<br /><br />IF (TP&gt;=8.00) THEN<br />       CF =TP<br />ELSE<br />       CF=RFC /* reprovado por falta de componente */<br />END_IF<br /><br /><br />Final grade = 50% CF + 50% Test
+
+## Obtenção de frequência
+-- Regulamentos da UP<br />-- Realização e apresentação do trabalho pratico.<br />-- Nota mínima de 8.00 (oito) valores<br /><br />Os estudantes que não tenham obtido classificação de frequência não podem realizar qualquer exame no ano letivo corrente.
+
+## Melhoria de classificação
+A classificação da parte prática não é susceptível de melhoria no mesmo ano letivo
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computer Vision
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Computer vision focuses on extracting "useful information" from images and videos. Examples of "useful information" include, for example, detection and identification of human faces and gestures, and tracking moving people or vehicles in a video sequence. Computer vision algorithms have found a wide range of applications in the industrial, military and medical fields. This course is an introduction to basic concepts and methods in computer vision. Upon completion of this course, students will:</p>
+<p>-understand and be able to explain the basic concepts of computer vision and the fundamental algorithms for manipulation of images and video sequences;</p>
+<p>-have knowledge of existing methods for visual data analysis and be able to apply them in practical situations;</p>
+<p>-acquire skills to use a library, like OpenCV, that implements some of the analyzed algorithms, and to implement novel algorithms described in the literature;</p>
+<p>-be able to analyze and understand selected scientific papers in computer vision.</p>
+
+## Resultados de aprendizagem e competências
+<p><em>Teaching and learning methods aim the knowledge of the contents referred to in the syllabus, reaching the targeted goals and competencies.</em></p>
+<p><em>The diversity of proposed methodologies aims at enhancing the skills and competencies established, seeking to evidence different levels of analysis, fostering the integration of knowledge. The proposed methods and strategies aim to develop students' knowledge, understanding and skills in computer vision techniques.</em></p>
+<p><em>The generic skills of teamwork, organization, etc. will be worked on in the group project.</em></p>
+<p><em>Likewise, the ability to develop computer vision according to existing needs and to apply the most appropriate technological tools, to know, apply and evaluate computer vision will be worked out in the weekly exercises and group project.</em></p>
+<p><em>The specific skills in computer vision techniques will be worked during the semester in theoretical-practical classes:<br /><br />- understand and be able to explain the basic concepts of computer vision and the fundamental algorithms for manipulation of images;<br /><br />- have knowledge of existing methods for visual data analysis and be able to apply them in practical situations;<br /><br />- acquire skills to use a library implementing some of the analyzed algorithms;<br /><br />- be able to analyze and understand selected scientific papers in and computer vision.<br /><br />- be able to develop simple computer vision systems according to existing needs and apply the most appropriate technological tools.<br /></em></p>
+
+## Pré-requisitos e co-requisitos
+Programming skills of C++ or Python
+
+## Programa
+<p><em>Introduction to Computer Vision</em></p>
+<p><em>Image acquisition</em></p>
+<p><em>    intensity images (2D) and distance/position images (3D)</em></p>
+<p><em>    geometric and radiometric model of a camera</em></p>
+<p><em>Processing and analysis of intensity images</em></p>
+<p><em>    filtering</em></p>
+<p><em>    time filtering</em></p>
+<p><em>    frequency filtering</em></p>
+<p><em>    feature extraction</em></p>
+<p><em>    segmentation</em></p>
+<p><em>Recognition</em></p>
+<p><em>    Connected components labeling</em></p>
+<p><em>    Feature measurement</em></p>
+<p><em>    Object representation</em></p>
+<p><em>   -  feature selection</em></p>
+<p><em>   -  description using local invariant features</em></p>
+<p><em>   -  learning systems</em></p>
+<p><em>   - data driven representations<br /><br />   Introduction to CNN</em></p>
+<p><em>Motion and tracking</em></p>
+<p><em>    motion estimation</em></p>
+<p><em>    tracking using linear models        </em></p>
+<em>Case studies</em>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><em>Lectures: Presentation and discussion of the course topics, and resolution of exercises. Lectures in auditorium or online.</em></p>
+<p><em>Practical assignments: Development of projects where the studied computer vision methods must be applied.</em></p>
+<p><em>Two projects will be developed during the semester; these projects must be developed both during classes and at home. For the last project a report will be written and an oral presentation will be required.</em></p>
+<p><em>Distributed assessment with a final exam. The final exam is worth 50% of the final grade. The projects account for the remaining 50%.</em></p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho prático ou de projeto: 40.0 %
+- Participação presencial: 10.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 50.0 hours
+- Estudo autónomo: 67.0 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho escrito: 8.0 hours
+
+## Fórmula de cálculo da classificação final
+CF (100%) = 40%Project_1 + 50% Project_2 + 10%Professor Opinion<br /><br />IF (TP&gt;=8.00) THEN<br />       CF =TP<br />ELSE<br />       CF=RFC /* reprovado por falta de componente */<br />END_IF<br /><br /><br />Final grade = 50% CF + 50% Test
+
+## Obtenção de frequência
+-- University of Porto regulations.<br />-- Completion of the practical work.<br />-- Minimum grade of 8.00 (eight).<br /><br />Students who have not obtained a frequency grade may not take any exams in the current academic year.
+
+## Melhoria de classificação
+CF is not possible to be enhanced in the same year.
+

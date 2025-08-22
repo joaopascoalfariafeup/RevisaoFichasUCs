@@ -1,0 +1,198 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Projeto de Sistemas Digitais
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p><!-- [if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--></p>
+<p><!-- [if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!-- [if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Tabela normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--></p>
+<p class="MsoNormal">O objetivo geral desta unidade curricular é fornecer aos alunos conhecimentos sobre aspectos tecnológicos e metodológicos do processo de projecto de sistemas digitais complexos para aplicações específicas, tendo em vista a sua realização em tecnologias microelectrónicas (circuitos integrados de aplicação específica - ASIC e sistemas digitais reconfiguráveis - FPGA). A atividade desenvolvida na unidade curricular é focada na construção de modelos abstratos de sistemas digitais ao nível RTL, usando linguagens padrão para descrição de hardware digital (Verilog HDL), verificação por simulação lógica e síntese ao nível RTL, tendo o suporte de atividade prática laboratorial desenvolvida em torno de projetos implementados em plataformas FPGA.</p>
+
+## Resultados de aprendizagem e competências
+Após a conclusão desta unidade curricular, os estudantes serão capazes de: <br /><br />1. Caraterizar as fases principais do projeto de sistemas digitais para tecnologias microelectrónicas. <br /><br />2. Construir modelos de sistemas digitais combinacionais e sequenciais síncronos usando uma linguagem de descrição de hardware digital (Verilog) e caracterizar as restrições temporais associadas ao seu funcionamento. <br /><br />3. Modelizar, validar e implementar sistemas digitais síncronos para dispositivos reconfiguráveis (FPGA). <br /><br />4. Implementar arquiteturas de operadores aritméticos e caminhos de dados e caracterizá-los em termos de complexidade lógica e rapidez. <br /><br />5. Identificar os processos básicos associados ao consumo de energia em circuitos CMOS e aplicar princípios de projeto ao nível RTL para a redução do consumo (dinâmico) de energia. <br /><br />6. Desenvolver aptidões pessoais, profissionais e interpessoais com a realização de trabalhos laboratoriais em grupo, sua apresentação e elaboração dos respetivos relatórios técnicos.
+
+## Pré-requisitos e co-requisitos
+<p>Conhecimentos fundamentais de sistemas digitais (desenho de sistemas combinacionais e sequenciais), álgebra de Boole e eletrónica.</p>
+
+## Programa
+1. Projeto estruturado de sistemas digitais para tecnologias microeletrónicas: fases de projeto e ferramentas. <br /><br />2. Modelos de sistemas digitais em diferentes níveis de abstração; hierarquia e modularidade. <br /><br />3. Linguagens de descrição de hardware (HDLs): construção de modelos para verificação e modelos para síntese lógica. <br /><br />4. Verificação de modelos de sistemas digitais; construção de modelos de verificação por simulação (&#8220;testbenches&#8221;). <br /><br />5. Síntese de sistemas digitais ao nível da transferência entre registos (RTL) e introdução aos processos de síntese de alto nível. <br /><br />6. Implementação física para dispositivos digitais reconfiguráveis (FPGA) <br /><br />7. Construção de sistemas digitais síncronos com relógio: restrições temporais; sincronização; otimizações arquiteturais; sistemas com múltiplos relógios. <br /><br />8. Arquiteturas para operadores aritméticos e caminhos de dados aritméticos; algoritmo CORDIC. <br /><br />9. Princípios de projeto digital (nível RTL) orientado para baixo consumo de energia.
+
+## Métodos de ensino e atividades de aprendizagem
+Nas aulas teóricas (2 horas) são expostos os assuntos que constituem o programa da unidade curricular . As aulas práticas laboratoriais (1 hora) destinam-se a apresentar e discutir os projetos e exercícios laboratoriais, apresentar tutoriais práticos sobre as ferramentas de projeto e também acompanhar os trabalhos realizados pelos estudantes fora do período das aulas.<br /><br />A Unidade curricular inclui uma forte componente prática laboratorial fazendo uso de ferramentas de projeto de qualidade industrial. Um conjunto inicial de trabalhos práticos introduzem as ferramentas de projeto e as metodologias de modelação e verificação; num último  projeto integrador os estudantes desenvolvem de forma autónoma uma parte relevante de um sistema digital completo, sendo estabelecidos como objetivos do projeto a minimização da área, maximização da rapidez ou a satisfação de especificações temporais não triviais.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho laboratorial: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho laboratorial: 73.0 horas
+
+## Fórmula de cálculo da classificação final
+A avaliação inclui uma componente de avaliação distribuída (projetos laboratoriais - PL) e um exame final escrito (EF), com pesos de 50% para cada componente. A componente de avaliação prática (PL) será formada pelos resultados obtidos no desenvolvimento de 2 projetos laboratoriais com valorizações de, respetivamente, 20% (modelação e simulação) e 80% (projeto final integrador).<br /><br /> A classificação final CF é calculada pela fórmula:<br />CL = 0.5*EF + 0.5*PL<br /><br />Para obter aprovação é necessário satisfazer simultaneamente os seguintes requisitos:<br />1. obter uma classificação final mínima de 10 valores;<br />2. obter uma classificação mínima de 40% na componente de avaliação dos projetos laboratoriais (PL);<br />3. obter uma classificação mínima de 40% no exame final (EF)
+
+## Obtenção de frequência
+<p>Para obter frequência e ter acesso ao exame final os estudantes devem realizar todos os projetos laboratoriais desenvolvidos na unidade curricular e frequentar pelo menos 75% das aulas PL.</p>
+
+## Melhoria de classificação
+<p>A melhoria da nota de exame pode ser realizada na época de recurso. A classificação da componente de avaliação distribuída (projetos laboratoriais) só pode ser melhorada na edição do ano seguinte.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Digital Systems Design
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p><!-- [if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--></p>
+<p><!-- [if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!-- [if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Tabela normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--></p>
+<p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language: EN-GB;">This course aims to endow students with technological knowledge and design methodologies to build complex custom digital systems, targeting microelectronic technologies (application specific integrated circuits - ASIC and reconfigurable digital systems - FPGA). The activity developed in the course is focused on building abstract models of digital systems using industrial hardware description languages (Verilog HDL), perform model verification by logic simulation and synthesise from RTL descriptions, exploiting a strong laboratory activity around practical projects targeting FPGA platforms.</span></p>
+
+## Resultados de aprendizagem e competências
+After concluding this course the students will be able to: <br /><br />1. Characterize the main tasks along the digital design flow for microelectronic technologies. <br /><br />2. Build models of combinational and clocked synchronous digital circuits using a hardware description language (Verilog) and characterize the timing relationships associated to their operation. <br /><br />3. Model, validate and implement synchronous digital systems for reconfigurable devices (FPGA). <br /><br />4. Design different architectures for arithmetic operators and datapaths and characterize them in terms of speed and logic complexity. <br /><br />5. Identify the main processes responsible for the power consumptions in CMOS digital circuits and apply basic RTL design principles for reducing the (dynamic) power consumption. <br /><br />6. Develop personal, professional and interpersonal skills, as the students work in groups and have to elaborate technical reports.
+
+## Pré-requisitos e co-requisitos
+<p>Fundaments of digital sistems (design of combinational and sequential logic), Boolean algebra and electronics.</p>
+
+## Programa
+1. Structured design flow of digital systems for microelectronic technologies: design stages and tools. <br /><br />2. Models of digital systems at different levels of abstraction; hierarchy and modularity. <br /><br />3. Hardware Description Languages (HDLs): models for verification and for logic synthesis. <br /><br />4. Design verification with logic simulation; construction of abstract models for verification (testbenches). <br /><br />5. Synthesis of digital systems at the Register Transfer Level (RTL) and introduction to high-level synthesis. <br /><br />6. Physical implementation for FPGA devices. <br /><br />7. Design of clocked synchronous digital systems: timing constraints; synchronization; architectural optimizations; systems with multiple clock domains. <br /><br />8. Design of arithmetic operators and arithmetic datapaths; the CORDIC algorithm. <br /><br />9. Principles of low power digital design at the RTL level.
+
+## Métodos de ensino e atividades de aprendizagem
+Theoretical classes (2 hours) are used to present the subjects of the course syllabus. The laboratory classes (1 hour) are used to present and discuss the practical laboratory exercises and projects, to present hand-on tutorials about the design tools used throughout the course and to supervise the students while they develop the laboratory projects aside the course schedule.<br /><br />The course includes a strong hands-on laboratory activity using industrial-grade design tools. An initial set of practical exercises introduce the design tools and the modeling and verification methodologies. In the last integration project the students will develop autonomously a representative part of a complete digital system, with the objective of optimizing specific design goals such as minimizing the logic complexity, maximizing throughput or reaching non-trivial timing requirements.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho laboratorial: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho laboratorial: 73.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Course grading includes a distributed evaluation (laboratory projects - LP) and a final written exam (FE), each part weighing 50% of the final grade. The LP component includes two design projects counting with 20% (modelling and simulation) and 80% (final integration project) for th LP component.<br /><br />The final grade FG will be computed by the following formula:<br /><br />FG = 0.5*FE + 0.5*LP<br /><br />To obtain approval the students should satisfy simultaneously the following requirements:<br />1. obtain a minimum final grade of 10 points (out of 20);<br />2. obtain a minimum grade of 40% in the laboratory projects (LP)<br />3. obtain a minimum grade of 40% in the final exam (FE);</p>
+
+## Obtenção de frequência
+<p>To obtain the "frequência" status and access the final exam the students have to do all the laboratory assignments attend a minimum of 75% of the PL classes.</p>
+
+## Melhoria de classificação
+<p>The classification of the final exam may be improved by doing the second exam ("recurso"), of similar complexity. The distributed evaluation (laboratory projects) can only be improved in the next course edition.</p>
+

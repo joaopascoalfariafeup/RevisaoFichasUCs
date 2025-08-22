@@ -1,0 +1,114 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Automação Industrial
+
+## Curso responsável
+Licenciatura em Engenharia Mecânica
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>O objetivo específico desta disciplina é o de proporcionar uma compreensão global das potencialidades dos sistemas lógicos de controlo e das tecnologias que lhes estão associadas no contexto da automação industrial. Trata-se assim de uma disciplina introdutória ao projeto de controladores lógicos, especialmente adaptada aos alunos de uma licenciatura em engenharia mecânica. Depois de compreender a matéria versada nesta disciplina o aluno estará na posse dos conceitos científicos e técnicos necessários à prossecução de estudos avançados de projeto e utilização de sistemas lógicos de controlo na automação industrial, em especial de sistemas programados.</p>
+
+## Resultados de aprendizagem e competências
+<p><br />- Conhecimento global das potencialidades dos sistemas lógicos de controlo e das tecnologias que lhes estão associadas no contexto da automação industrial.</p>
+<p>- Capacidade de análise de um sistema de comando lógico integrado numa máquina</p>
+<p>- Capacidade para, em função de uma especificação, propor uma solução de comando lógico cablada ou programada</p>
+<p> </p>
+
+## Pré-requisitos e co-requisitos
+Os definidos pela Direção de Curso
+
+## Programa
+<p>1 &#8211; Introdução Informal à Automação e Segurança Industrial. 2 &#8211; Grandezas Contínuas e Discretas; Grandezas e Variáveis Tudo ou Nada. Álgebra de Boole. 3 &#8211; Circuitos Combinacionais: Explicitação, Simplificação e Materialização de Funções Lógicas. 4 &#8211; Memórias Biestáveis (Set e Reset). Tecnologias associadas e aplicações elementares típicas. 5 &#8211; Temporizadores: atraso na abertura e no fecho. Temporizadores impulsionais. Aplicações 6 &#8211; Códigos Binários mais comuns. Aplicação de códigos unipolares e bipolares. Conversão A/D e D/A. 7 &#8211; Eventos lógicos. 8 - Contadores crescentes, decrescentes e crescentes/decrescentes. Aplicações típicas de contadores. 8 &#8211; Modelação em Grafcet. 9 &#8211; Programação e utilização de Controladores Lógicos Programáveis - PLCs. Interfaces de I/O. Linguagens e técnicas de Programação. Instruções aritméticas e de manipulação numérica. Tradução de Grafcets em programas de PLCs.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A disciplina de Automação e Segurança Industrial conta com aulas teórico-práticas e práticas. As aulas teórico-práticas servem tanto a exposição de assuntos &#8211; apoiadas em meios audiovisuais, e frequentemente ilustradas com exemplos simples &#8211;, como a aplicação crítica da matéria lecionada na resolução de problemas tão reais quanto o possível. As questões tratadas são selecionadas entre dezenas de problemas fornecidos aos alunos sob a forma de um caderno. A resolução dos problemas não discutidos nas aulas é deixada ao cuidado dos alunos, disponibilizando-se os responsáveis pela disciplina para prestar todo o apoio necessário. As aulas laboratoriais destinam-se ao contacto com a tecnologia e à experimentação. Sempre que se justifique, incluem curtas exposições diretamente relacionadas com as tecnologias empregues, contextualizando e ilustrando assim diversos conceitos apresentados nas aulas teórico-práticas. Os trabalhos práticos incluem a conceção de circuitos combinacionais, temporizadores, contadores e aplicação dos mesmos a circuitos sequenciais. O leque de recursos de projeto e construção dos circuitos inclui software de simulação de circuitos lógicos, circuitos integrados, eletromecânica e PLCs programados em linguagem de contactos, blocos funcionais e Grafcet.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Participação presencial: 0.0 %
+- Prova oral: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 83.5 horas
+- Frequência das aulas: 58.5 horas
+- Trabalho laboratorial: 20.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final dos alunos ordinários é feita com base em duas provas de avaliação escritas (PE1 e PE2) e um trabalho (TRB). Estas componentes são avaliadas de 0 a 20 e têm os seguintes pesos: PE1 &#8211; Prova escrita individual a realizar a meio do período letivo &#8211; 35% da classificação final; PE2 &#8211; Prova escrita individual a realizar na época de exames do 2º Semestre &#8211; 40% da classificação final; TRB &#8211; Trabalho laboratorial, presencial e individual, a realizar na última semana de aulas (salvo casos excecionais e devidamente fundamentados, cada aluno realizará o seu trabalho no horário da sua aula laboratorial) &#8211; 25% da classificação final. As provas PE1 e PE2 são realizadas sem consulta e com a cotação de cada questão previamente definida. A classificação da prova TRB tem por base a observação dos objetivos alcançados face aos objetivos do trabalho, a destreza na utilização de recursos tecnológicos laboratoriais na realização do trabalho e as respostas a questões que possam ser colocadas a propósito do trabalho desenvolvido. NOTAS IMPORTANTES: - A aprovação à disciplina requer nota mínima de 7,0 valores na prova PE1 e PE2. Assim, aos alunos cujas provas resultem em classificações iguais ou superiores a 9,5 valores mas não cumpram esta nota mínima será atribuída a classificação final de 9,0 valores. - À não comparência a uma avaliação escrita corresponde uma nota de 0 valores para efeito do cálculo da classificação global acima referida. - À não realização do trabalho laboratorial corresponde uma nota de 0 valores para efeito do cálculo da classificação global acima referida. - O acesso às provas de avaliação PE1 e PE2 bem como a realização do trabalho laboratorial requer frequência da disciplina (exceto para os alunos que, de acordo com as regras da FEUP, gozem de estatuto especial que os dispense da frequência das aulas). Os alunos que não tenham obtido aprovação após a época normal, podem, na época de recurso, repetir uma das provas escritas (PE1 ou PE2), ou então optar por uma prova escrita global (i.e., cobrindo a totalidade das matérias alvo de avaliação nas provas PE1 e PE2). Este "recurso escrito global" requer classificação mínima de 7.0 valores e, para efeitos de cálculo da classificação final, substitui as classificações obtidas em época normal nas provas PE1 e PE2. Só em casos excecionais e analisados caso a caso será permitida a repetição do trabalho laboratorial.</p>
+
+## Obtenção de frequência
+<p>É concedida frequência aos alunos regularmente inscritos que não excedam o número limite de faltas a cada um dos tipos de aulas, de acordo com o estabelecido na FEUP.</p>
+
+## Melhoria de classificação
+<p>Os alunos que pretendam obter melhoria de classificação estão sujeitos a uma avaliação global, podendo esta acontecer na época de recurso ou numa época de avaliação posterior. Esta prova conterá uma parte teórico-prática e outra laboratorial, com pesos de 75% e 25%, respetivamente. A prova teórico-prática poderá ser escrita ou oral, cabendo a decisão aos avaliadores. Caso o aluno assim o entenda, a melhoria de classificação incidirá apenas sobre a parte escrita. Nesse caso, a classificação da prova teórico-prática tem um peso de 75% para a avaliação, correspondendo os restantes 25% à classificação obtida pelo aluno na prova laboratorial realizada durante o período letivo.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Industrial Automation
+
+## Curso responsável
+Bachelor in Mechanical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>This course aims to give an overview on the potentialities of logic control systems and technologies that are related to industrial automation.  This course acts as an introduction to logic controllers, which is especially suitable for Mechanical Engineering students. By the end of the semester, students should be acquainted with technical and scientific concepts that are essential on the development of studies regarding the use of logic control systems in industrial and programmable automation.</p>
+
+## Resultados de aprendizagem e competências
+<p><span class="hps">global knowledge</span> <span class="hps">of the</span> <span class="hps">capabilities</span> <span class="hps">of </span>logic <span class="hps">control </span><span class="hps">systems</span> <span class="hps">and <span class="hps">associated </span>technologies</span> <span class="hps">in the context of</span> <span class="hps">industrial automation</span>.<br /><br /><span class="hps">-</span> <span class="hps">Ability to analyze</span> <span class="hps">a <span class="hps">logic control</span> system </span><span class="hps">integrated in</span> <span class="hps">machine</span><br /><br /><span class="hps">-</span> <span class="hps">ability</span> to <span class="hps">propose a <span class="hps">wired</span> <span class="hps">or</span> <span class="hps">programmed</span> </span> <span class="hps">logic control </span><span class="hps">solution</span></p>
+<p><span class="hps"> </span></p>
+
+## Pré-requisitos e co-requisitos
+As defined by Course Direction
+
+## Programa
+<p>1. Introduction to industrial automation and safety 2. Continuous and discrete quantities. Quantities and all-or-nothing variables. Boolean algebra 3. Combinational circuits: simplification, description and use of logic functions.4. Bistable memories (set reset). Related technologies. 6. Timer: opening and closing delay. Impulse timers. Applications 5. Most common binary codes. Unipolar and bipolar codes. A/D and D/A conversion 5 - Events. 7. Counters: up counters, down counters and up/down counters. Applications 8. Grafcet (Graphe Fonctionnel de Commande, Etapes Transitions) modelling 9. Programming and use of programmable logic controllers (PLCs) - I/O interfaces. Intern organisation. Operation. Variable initiation. Programming languages and programming techniques. Arithmetic instructions and numerical manipulation. Grafcet&#8217;s translation in PLCs&#8217; programs.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>This course is divided into two parts: theoretical-practical classes and practical classes. Theoretical-practical classes will cover course&#8217;s program (with audiovisual support and simple examples will be given) and be based on critical practice of the themes that have been taught. Subjects held in classes will be selected from dozens of problems that students should solve. However, problem solutions&#8217; won&#8217;t be held in classes, but professors will be available to help on that matter. Laboratory classes are intended to increase the contact with technology and tests. If necessary short presentations will be held, in order to contextualize what have been taught in classes. Practical assignments are based on the development of combinational circuits, timers, counters and their application on sequential circuits. The project and circuit development resources include software of logic circuits simulation, integrated circuits, electro mechanics, programmed PLCs in contacts language, functional blocks and Grafcet.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Participação presencial: 0.0 %
+- Prova oral: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 83.5 hours
+- Frequência das aulas: 58.5 hours
+- Trabalho laboratorial: 20.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Final mark will be based on two written exams (WE1 and WE2) and one assignment (ASN). These components will be assessed from 0 to 20 and they will worth as follows: WE1- an individual written exam in the middle of the semester- 35% of the final mark WE2- an individual written exam at the end of the second semester- 40% of the final mark ASN- an individual laboratory assignment in the last week of the course (exceptions will have to be justified&#8211; each student will perform his/her assignment in the laboratory class) &#8211; 25% of the final mark. It is not allowed to consult books or notes on the written exams (WE1, WE2), while each exam worth is previously set. The assignment assessment (ASN) will be based on the observation on whether the objectives of the assignment have been reached or not. It will also be based on students&#8217; dexterity with laboratory resources and their ability to answer question that can possibly be asked. Important notes: - Students must achieve a minimum grade of 7 out of 20 in WE1 and WE2. Even if students achieve a grade of 9, 5 out of 20 on WE1, but don&#8217;t achieve 7 out of 20 on WE1 and WE2, they will earn a grade of 9 out of 20. - If students miss one of the written exams, they will earn a 0 out of 20. - If students don&#8217;t accomplish the laboratory assignment, they will earn a 0 out of 20. - Students can only attend to final exams (WE1, WE2) and to the laboratory assignment if they attend to classes (except students with a special status &#8211; according to General Evaluation Rules of FEUP) - Students who failed can repeat one written exam, (WE1 or WE2) or try a global written exam; this global exam requires a minimum grade of 7 out of 20 and replaces the previous grades achieved in WE1 and WE2. The laboratory assignment can only be repeated in exceptional cases</p>
+
+## Obtenção de frequência
+<p>According to General Evaluation Rules of FEUP</p>
+
+## Melhoria de classificação
+<p>Students who successfully complete this course can improve their final mark by repeating one (only one) of the written exams in Recurso, or they can be assessed later instead.</p>
+

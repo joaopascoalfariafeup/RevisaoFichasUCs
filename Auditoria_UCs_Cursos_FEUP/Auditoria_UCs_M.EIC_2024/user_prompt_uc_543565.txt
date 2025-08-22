@@ -1,0 +1,130 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Computação Paralela Avançada
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>ENQUADRAMENTO</p>
+<p>A programação paralela e distribuída está a tornar-se o paradigma comum de programação dada a evolução do hardware para arquiteturas multicore e elementos massivamente paralelos como as GPUs. O computador pessoal atual é composto por vários processadores que coletivamente disponibilizam maior capacidade de processamento, do que os anteriores single-core, mas que individualmente têm menor capacidade. Os programadores terão de dominar a programação multi-processador para que possam utilizar com eficiência as máquinas do presente e do futuro.</p>
+<p>OBJETIVOS</p>
+<p>Aquisição de conhecimentos conducentes à utilização simultânea de várias unidades de processamento num sistema de computação. Construção de bases sólidas sobre arquiteturas paralelas, paralelização de algoritmos, modelos de programação, sincronização de processos e medidas de desempenho, através do desenvolvimento de programas.</p>
+<p>Componente ciêntifica:50%</p>
+<p>Componente técnica:50%</p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>Os estudantes no final deverão ser capazes de: a) Analisar um problema e identificar o modelo de paralelização mais adequado (Conhecimento e compreensão) b) Escrever programas segundo o modelo de passagem de mensagens e memória partilhada (Análise e Prática) C) Elaborar soluções paralelas para novos problemas (Especificação) D) Utilização de modelos computacionais para estimar o tempo de computação das aplicações (Investigação) E) Conhecimentos de concorrência de processos e implementação de boas práticas para efetuar partilha de recursos (competências transferíveis).</p>
+
+## Pré-requisitos e co-requisitos
+<p>Os estudantes devem ter conhecimentos de programação em C/C++.</p>
+
+## Programa
+<p> </p>
+<p>INTRODUÇÃO: - Introdução à Computação Paralela. Medidas de desempenho: MIPS e FLOPS. Caracterização de desempenho: &#8216;peak&#8217;, máximo e sustentável. Máquinas paralelas: processadores superescalares e vetoriais, organização de memória e redes de interligação. Efeito da gestão da memória cache no desempenho do processador &#8211; Localização dos Dados.<br /><br />FUNDAMENTOS DA PROGRAMAÇÃO PARALELA: - Limitações da computação paralela (Amdahl Law). Tipos de paralelismos: paralelismo funcional, paralelismo de dados, streaming. Etapas na paralelização de um algoritmo: divisão em operações paralelas, padrões de comunicação, sincronização, granularidade e escalonamento (distribuição do trabalho pelos processadores).<br /><br />MODELOS DE PROGRAMAÇÃO PARALELA: Memória Partilhada, Memória Distribuída e MapReduce. Problemas de concorrência, secções criticas, &#8216;False sharing&#8217;, operações de redução.<br /><br />PROGRAMAÇÃO DE MULTI-COMPUTADORES E MULTI-PROCESSADORES: - Utilização de MPI, OpenMP e Spark. Programação de GPUs para o paradigma de paralelismo de dados (CUDA e SYCL).<br /><br />CARACTERIZAÇÃO DA COMPUTAÇÃO PARALELA: - Modelos de execução, Modelos de Computação, Medidas de Desempenho e Eficiência, Expansibilidade (Função de Isoeficiência).</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Exposição do material teórico com apresentação e discussão de exemplos. Desenvolvimento de alguns programas e exercícios práticos. Projecto e desenvolvimento de trabalhos de maior dimensão.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Participação presencial: 0.0 %
+- Trabalho laboratorial: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 60.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Nota Final = 0.5*AvD + 0.5*Ex</p>
+<p>AvD &#8211; Avaliação Distribuída</p>
+<p>Ex &#8211; Nota do exame</p>
+<p>A Avaliação Distribuída é obtida por 2 trabalhos práticos.</p>
+<p>A classificação Ex tem de ser superior ou igual a 30%. </p>
+
+## Obtenção de frequência
+<p>Não exceder o número de faltas (25%), realizar e apresentar os trabalhos práticos e obter classificação minima de 10 valores em 20.</p>
+
+## Melhoria de classificação
+<p>A melhoria da classificação obtida na componente distribuída pode ser realizada na próxima ocorrência da unidade curricular. A componente de Exame pode ser melhorada nas épocas previstas na FEUP.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Advanced Parallel Computing
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>BACKGROUND</p>
+<p>Parallel and distributed computing is becoming the computing paradigm as hardware tends to multi-processing units. The common desktop is today built with multicore processors that collectively have more processing power, than the single core processor, but cores are individually less powerful. Programmers will have to deal with multiprocessor architectures in order to use effectively the machines of today and of the future.</p>
+<p>AIMS</p>
+<p>Acquisition of useful knowledge to develop parallel programs. Construction of solid basis in parallel architectures, algorithms parallelization, programming models, synchronization of processes and performance measures by the development of programs.</p>
+<p>Scientific component:50%</p>
+<p>Technological component:50%</p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>Students should be able to: a) Analyze a problem and identify the adequate parallelization model (Knowledge and Understanding) b) Write message-passing and shared memory programs (Engineering Analysis, Engineering Practice) c) Design parallel solutions for new problems (Engineering Design) d) Use computational models to estimate applications computation time (Investigations) e) knowledge of process concurrency and best practices to implement resource sharing (Transferable skills).</p>
+
+## Pré-requisitos e co-requisitos
+<p>Students should have knowledge of C/C++. </p>
+
+## Programa
+<p> </p>
+<p>INTRODUCTION: - Introduction to Parallel Computing. Performance metrics: MIPS, FLOPS. Peak, Max and Sustained performance. Parallel machines: superscalar and vector processors, memory and network organization. Cache memory effect on processor performance - Data Locality.<br /><br />PARALLEL PROGRAMMING FUNDAMENTALS: Amdahl Law. Ways of extracting parallelism: Functional Parallelism, Data Parallelism, Streaming. Steps to obtain a parallel version of an algorithm: Problem Division, Communication Patterns, Synchronization, Granularity of Parallelization, Staggering (distribution of work by the processors).<br /><br />PARALLEL PROGRAMMING MODELS: Shared Memory model, Distributed Memory model, and MapReduce. Race Condition, Critical sections, False sharing, Reduction operation.<br /><br />MULTI-PROCESSOR AND MULTI-COMPUTER PROGRAMMING: - Message passing programming with MPI - Shared memory programming with OpenMP - Data Parallel programming with CUDA and SYCL (GPUs). MapReduce with Spark.<br /><br />CHARACTERIZATION OF PARALLEL COMPUTING: Execution Models, Computing Models, Efficiency and performance Measures, scalability (Isoefficiency Function).</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical classes: presentation of the course themes with discussion of examples. Theoretical-practical classes: problem solving and discussion, including the development of some programs.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Participação presencial: 0.0 %
+- Trabalho laboratorial: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 60.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Final Grade= 0.5*Cont + 0.5*Ex</p>
+<p>Cont &#8211; Programming assignments and class participation</p>
+<p>Ex &#8211; Exam grade<br /><br />The Ex grade must be equal or higher than 30%. </p>
+
+## Obtenção de frequência
+<p>Not exceed the maximum number of absences to classes (25%), to deliver and present the course work with a minimum classification of 10 points in 20.</p>
+
+## Melhoria de classificação
+<p>The programming assignments can only be improved in the course next instance.</p>
+

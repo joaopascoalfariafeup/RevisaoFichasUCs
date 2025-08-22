@@ -1,0 +1,84 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Modelação da Agitação Marítima
+
+## Curso responsável
+Mestrado em Mecânica Computacional
+
+## Créditos ECTS
+7,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+Understanding of the physical concepts of generation, propagation, deformation and dissipation of ocean waves sea. Understanding of the mathematical models for these concepts.
+
+## Resultados de aprendizagem e competências
+Competence for the use of computational tools to model the generation and propagation of waves and wave-structure interaction problems in the context of oceanography (sea wave prediction) and coastal engineering (simulating design scenarios).
+
+## Pré-requisitos e co-requisitos
+Calculus; mechanics of vibrations; fluid mechnics; computer programming.
+
+## Programa
+Fundamental concepts of wave propagation. Description of wave models in deep water (ocean) and in shallow waters (coastal). Distinction between phase averaging models and phase resolving models. Numerical schemes methods applied in each case and definition of boundary conditions. Case studies.<br />&#8226;Fundamental Concepts of Wave Propagation: Processes of wave generation, transformation and dissipation.<br />&#8226;Linear Models for waves of Infinitesimal Amplitude: Monochromatic waves. Elliptic Helmholtz and Berkhoffequations. Discretization of the equation of Berkhoffby the finite element method (FEM).<br />&#8226;Phase Resolving Models: Nonlinear models for long waves of finite amplitude. Non dispersive models (Saint-Venant) and dispersive models (Boussinesq). Problems of stability and accuracy in the discretization of long waves models by the FEM.<br />&#8226;Phase Averaging Models: Statistical description of the waves. Concept of energy spectrum. Description of the SWAN model.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Lectures where theoretical concepts will be exposed and practical classes, where students will be introduced to several software packages, and discussion and analysis of case studies will take place.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho escrito: 100.0 %
+
+## Fórmula de cálculo da classificação final
+Final mark: CF= (CF_1 + CF_2 + CF_N)/N<br /><br />N = Total number of written projects<br /><br />CF_i = mark obtained in the ith project
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Ocean Waves Modelling
+
+## Curso responsável
+Master in Computational Mechanics
+
+## Créditos ECTS
+7,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+Understanding of the physical concepts of generation, propagation, deformation and dissipation of ocean waves sea. Understanding of the mathematical models for these concepts.
+
+## Resultados de aprendizagem e competências
+Competence for the use of computational tools to model the generation and propagation of waves and wave-structure interaction problems in the context of oceanography (sea wave prediction) and coastal engineering (simulating design scenarios).
+
+## Pré-requisitos e co-requisitos
+Calculus; mechanics of vibrations; fluid mechnics; computer programming.
+
+## Programa
+Fundamental concepts of wave propagation. Description of wave models in deep water (ocean) and in shallow waters (coastal). Distinction between phase averaging models and phase resolving models. Numerical schemes methods applied in each case and definition of boundary conditions. Case studies.<br />&#8226;Fundamental Concepts of Wave Propagation: Processes of wave generation, transformation and dissipation.<br />&#8226;Linear Models for waves of Infinitesimal Amplitude: Monochromatic waves. Elliptic Helmholtz and Berkhoffequations. Discretization of the equation of Berkhoffby the finite element method (FEM).<br />&#8226;Phase Resolving Models: Nonlinear models for long waves of finite amplitude. Non dispersive models (Saint-Venant) and dispersive models (Boussinesq). Problems of stability and accuracy in the discretization of long waves models by the FEM.<br />&#8226;Phase Averaging Models: Statistical description of the waves. Concept of energy spectrum. Description of the SWAN model.
+
+## Métodos de ensino e atividades de aprendizagem
+Lectures where theoretical concepts will be exposed and practical classes, where students will be introduced to several software packages, and discussion and analysis of case studies will take place.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho escrito: 100.0 %
+
+## Fórmula de cálculo da classificação final
+Final mark: CF= (CF_1 + CF_2 + CF_N)/N<br /><br />N = Total number of written projects<br /><br />CF_i = mark obtained in the ith project
+

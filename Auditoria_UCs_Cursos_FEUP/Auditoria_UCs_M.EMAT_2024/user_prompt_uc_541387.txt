@@ -1,0 +1,142 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Engenharia Assistida por Computador
+
+## Curso responsável
+Mestrado em Engenharia de Materiais
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p style="font-weight: 400;">O objetivo desta unidade curricular consiste em proporcionar aos estudantes conhecimentos sobre CAD/CAM/CAEaplicados a todas as etapas de desenvolvimento de produto, desde a geração de conceitos até à prototipagem e ensaio. Pretende-se abordar os conceitos básicos do Método dos Elementos Finitos, incluindo os conceitos teóricos baseados no princípio dos trabalhos virtuais. Será feita uma introdução ao software Abaqus, um software de referência para o cálculo de problemas, utilizando o método dos Elementos Finitos. A modelação e simulação do comportamento mecânico do produto também serão abordados.</p>
+<p style="font-weight: 400;">Os processos de fabrico subtrativo e de fabrico aditivo (<em>Aditive Manufacturing-AM</em>) serão abordados na produção de peças. O AM destaca-se pela capacidade de produzir peças com alta complexidade geométrica, diferenciando-se significativamente dos processos de fabricação tradicionais. Para otimizar os resultados obtidos com AM, é essencial compreender e considerar as limitações e restrições inerentes a este método desde a fase inicial do projeto. Neste contexto, a otimização topológica (TO) e o Design para AM (DfAM) tornam-se temas fundamentais a abordar.</p>
+<p style="font-weight: 400;">Na última parte da UC, serão apresentados conceitos básicos de maquinagem, incluindo a utilização do software Autodesk Fusion para gerar percursos de maquinagem. Será utilizada uma abordagem muito prática, obtendo-se peças reais maquinadas na FEUP.</p>
+<p style="font-weight: 400;"><strong>Métodos de ensino e atividades de aprendizagem</strong></p>
+<p style="font-weight: 400;">Os temas serão apresentados nas aulas e utilizados na realização de exercícios.</p>
+<p style="font-weight: 400;">Durantes as aulas do Método dos Elementos Finitos, será proposto um problema para resolver e entregar.</p>
+<p style="font-weight: 400;">Os estudantes terão de realizar um trabalho com a utilização do Abaqus.</p>
+<p style="font-weight: 400;">Os estudantes terão de realizar um trabalho sobre prototipagem rápida.</p>
+<p style="font-weight: 400;">Os estudantes terão de realizar um trabalho sobre maquinagem.</p>
+<p style="font-weight: 400;"> </p>
+<p style="font-weight: 400;">Os estudantes irão realizar um exame sobre os três principais tópicos da UC: conceitos do método dos Elementos Finitos, AM e Maquinagem.</p>
+
+## Resultados de aprendizagem e competências
+<p>No final, os alunos deverão:</p>
+<ol>
+<li>Conheceros conceitos básicos do Método dos Elementos Finitos</li>
+<li>Realizar simulações no Abaqus</li>
+<li>Conhecer os conceitos de otimização topológica (TO) e o Design para AM (DfAM).</li>
+<li>Conhecer os conceitos relacionados com a maquinagem de componentes metálicos.</li>
+</ol>
+
+## Pré-requisitos e co-requisitos
+<p>Os estudantes devem ter conhecimentos de desenho técnico, CAD 3D e de Inglês.</p>
+
+## Programa
+<p><strong>MEF &#8211; Método dos Elementos Finitos:</strong><br />Funções de Interpolação<br />Integração numérica.<br />Matriz de rigidez.<br /><br /><br /><strong>CAE &#8211; Engenharia Assistida por computador:<br /></strong>Simulação do comportamento mecânico, usando Siemens NX / Abaqus<br /><br /><br /><strong>Fabrico Aditivo<br /></strong>Conceitos de otimização topológica (TO) e o Design para AM (DfAM).</p>
+<p><br /><strong>Maquinagem:<br /></strong>Conhecer os conceitos relacionados com maquinagem.<br />Utilização do software PowerMill.<br /><br /><br /></p>
+<div id="gtx-trans" style="position: absolute; left: -6px; top: 384px;"> </div>
+
+## Métodos de ensino e atividades de aprendizagem
+Os temas serão apresentados nas aulas e utilizados na realização de exercícios.<br /><br />Durantes as aulas do Método dos Elementos Finitos, será proposto um problema para resolver e entregar.<br /><br />Os estudantes realizarão um trabalho com a utilização do Abaqus.<br /><br />Os estudantes terão de realizar um trabalho sobre prototipagem rápida.<br /><br />Os estudantes terão de realizar um trabalho sobre maquinagem.<br /><br /><br />Os estudantes irão realizar um exame sobre os conceitos do Método dos Elementos Finitos e Maquinagem.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 70.0 %
+- Exame: 30.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 76.0 horas
+- Frequência das aulas: 56.0 horas
+- Estudo autónomo: 30.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Classificação final = "Excel" * 0.1 + "Abaqus"*0.2 +  "Produção Aditiva" *0.2 + "Maquinagem"*0.2 + "Exame" * 0.3</p>
+
+## Obtenção de frequência
+<p> </p>
+<p>Número de faltas às aulas tem de ser menor ou igual a 25% do número de aulas previstas.<br /><br />Os estudantes têm de submeter os diferentes projetos dentro dos prazos especificados pelo docente.</p>
+
+## Melhoria de classificação
+<p>A melhoria de classificação é feita através do exame de recurso.</p>
+<div id="gtx-trans" style="position: absolute; left: -146px; top: -9px;"> </div>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computer Aided Engineering
+
+## Curso responsável
+Master in Materials Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p style="font-weight: 400;"></p>
+<p>The objective of this course unit is to provide students with knowledge about CAD/CAM/CAE applied to all stages of product development, from concept generation to prototyping and testing. The aim is to address the basic concepts of the Finite Element Method, including theoretical concepts based on the principle of virtual work. An introduction to Abaqus software, a reference tool for solving problems using the Finite Element Method, will be provided. The modeling and simulation of the mechanical behavior of the product will also be covered.</p>
+<p>Subtracting and additive manufacturing processes (Additive Manufacturing - AM) will be discussed in the production of parts. AM stands out for its ability to produce parts with high geometric complexity, significantly differentiating itself from traditional manufacturing processes. To optimize the results obtained with AM, it is essential to understand and consider the limitations and constraints inherent to this method from the initial project phase. In this context, topological optimization (TO) and Design for AM (DfAM) become fundamental topics to address.</p>
+<p>In the last part of the course unit, basic concepts of machining will be presented, including the use of Autodesk Fusion software to generate machining paths. A very practical approach will be taken, resulting in actual machined parts produced at FEUP.</p>
+<p><strong>Teaching Methods and Learning Activities<br /><br /></strong>The topics will be presented in lectures and used in exercises. During the Finite Element Method classes, a problem will be proposed for resolution and submission. Students will be required to complete a project using Abaqus. They will also complete a project on rapid prototyping and a project on machining.</p>
+<p>Students will take an exam covering the three main topics of the course unit: concepts of the Finite Element Method, AM, and Machining.</p>
+
+## Resultados de aprendizagem e competências
+<p>At the end, the students should:</p>
+<ol>
+<li>Know the basic concepts of the Finite Element Method.</li>
+<li>Perform simulations in Abaqus.</li>
+<li>Know the concepts of topological optimization (TO) and Design for AM (DfAM).</li>
+<li>Know the concepts related to the machining of metal components.</li>
+</ol>
+
+## Pré-requisitos e co-requisitos
+<p>Students should have knowledge in technical drawings, 3D CAD and English.</p>
+
+## Programa
+<p style="font-weight: 400;"><strong>FEM &#8211; Finite Element Method:</strong><br />Interpolation Functions</p>
+<p style="font-weight: 400;">Numerical integration.</p>
+<p style="font-weight: 400;">Stiffness matrix.<br /><br /><br /><strong>CAE &#8211; Computer Aided Engineering: <br /></strong>Simulation of mechanical behavior, using Siemens NX / Abaqus<br /><br /><br /><strong>Additive Manufacturing<br /></strong>Topological optimization (TO) concepts and Design for AM (DfAM).</p>
+<p style="font-weight: 400;"><br /><strong>Machining:<br /></strong> Know the concepts related to machining. Use of PowerMill software.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p style="font-weight: 400;">The themes will be presented in class and used in the exercises.<br /><br />During the classes on the Finite Element method, a problem will be proposed and delivered by the sudents.<br /><br />Students will carry out a work using Abaqus.<br /><br />Students will have to carry out a work on rapid prototyping.<br /><br />Students will have to carry out a work on machining.<br /><br />Students will take an exam on the concepts of the Finite Element Method and Machining.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 70.0 %
+- Exame: 30.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 76.0 hours
+- Frequência das aulas: 56.0 hours
+- Estudo autónomo: 30.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final classification is calculated with this formula: Final classification ="Excel" * 0.1 + "Abaqus"*0.2 +  "Additive Manufacturing" *0.2 + "Machining"*0.2 + "Exam" * 0.3</p>
+
+## Obtenção de frequência
+<p>Number of class absences must be less than or equal to 25% of the number of classes provided.<br />Students must submit the different  projects within the deadlines specified by the teacher.</p>
+
+## Melhoria de classificação
+<p>The classification improvement is made through the appeal exam.</p>
+

@@ -1,0 +1,125 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Pensamento Computacional
+
+## Curso responsável
+Licenciatura em Ciência da Informação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+- Estabelecer as bases do pensamento computacional, desenvolver a abstração e relacionar com os problemas no mundo natural. <br />- Desenvolver a capacidade de conceber programas, compreendê-los e explicá-los, detetar e corrigir erros. <br />- Estabelecer a ponte entre os mundos analógico e digital e para desenvolver o pensamento crítico relativamente ao significado dos dados, as implicações sociais da privacidade e a ciência dos dados.
+
+## Resultados de aprendizagem e competências
+<p>Os estudantes terão as seguintes competências:</p>
+<p>- Reconhecer aspetos da computação no mundo à sua volta;</p>
+<p>- Aplicar ferramentas e técnicas da computação para compreender e raciocinar sobre sistemas e processos tanto naturais como artificiais;</p>
+<p>- Abstração, em diversas modalidades: modelação, decomposição, generalização e classificação;</p>
+<p>- Compreender e explicar programas;</p>
+<p>- Conceber e escrever programas;</p>
+<p>- Encontrar e corrigir erros no código;</p>
+<p>- Refletir aprofundadamente sobre o programa, incluindo avaliar a sua correção e adequação ao propósito;</p>
+<p>- Compreender a eficiência do programa;</p>
+<p>- Descrever o sistema a outras pessoas;<br /><br />- Discutir aspetos como a inteligência e a consciência naturais e artificiais, a criatividade e a propriedade intelectual e as implicações morais e éticas da utilização de computadores.</p>
+
+## Programa
+<p>Algoritmos. O algoritmo como uma sequência de passos definidos para resolver um dado problema. Um mesmo problema pode ser resolvido por vários algoritmos diferentes. Critérios de escolha. Precisão tanto do algoritmo como dos dados. Algoritmos principais, ordenação e pesquisa. Conceção de algoritmos para re-utilização, validação, teste e correção.</p>
+<p>Programas. Programar dispositivos físicos, instruções e ações. Sequenciação. Seleção. Repetição. Variáveis e atribuição. Dados de tipos diferentes: inteiros, carateres, cadeias. Operadores relacionais e lógica para controlar a execução das instruções do programa. Manipulação de expressões lógicas, tabelas de verdade variáveis booleanas. Abstração usando funções e procedimentos com parâmetros. Documentação de programas. Erros na sintaxe do programa e erros no seu significado. Estruturas de dados simples como variáveis, registos, matrizes, listas, árvores, tabelas de dispersão. Procedimentos que chamam procedimentos, em vários níveis. Programas que lêem e escrevem dados persistentes em ficheiros. Padrões de desenho: divisão e conquista, oleoduto, caching, ordenação, pesquisa, retrocesso, recursão, cliente/servidor, modelo/vista/controlador.</p>
+<p>Dados. Introdução à manipulação binária. Representação de inteiros sem sinal, texto, som (tanto envolvendo conversão analógico-digital, e. g. WAV, como sem conversão, e. g. MIDI), fotografias e vídeo. Múltiplas representações de uma mesma coisa num computador. Hexadecimal. Inteiros com sinal em complemento para dois. Manipulação de cadeias. Compressão de dados; algoritmos de compressão sem e com perdas e. g. JPEG. Problemas da utilização de representações binárias discretas: quantificação, frequência de amostragem. Representação de números fracionários.</p>
+Aspetos sociais da computação.
+
+## Métodos de ensino e atividades de aprendizagem
+As metodologias de estudo são baseadas em problemas e usam diversas ferramentas desde as simulações em papel e lápis e a programação de robots infantis até à escrita e correção de programas com um IDE para Python.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Teste: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 115.0 horas
+- Frequência das aulas: 47.0 horas
+
+## Fórmula de cálculo da classificação final
+<ul><br /><li><br /><p>Nota Final = (Teste+Exame)/2;</p><br /><p>se Teste &gt;= 6,0 e Exame &gt;= 6,0</p><br /></li><br /></ul>
+
+## Obtenção de frequência
+<br /><br /><ul><br /><li><br /><p>Cumprimento do limite de faltas legalmente estabelecido.</p><br /></li><br /><li>Obtenção de um mínimo de 10 (dez) valores na classificação final</li><br /></ul>
+
+## Melhoria de classificação
+Exame de Recurso
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computational Thinking
+
+## Curso responsável
+Bachelor of Arts in Information Science
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+- Establishing the basis for computational thinking, develop abstraction and relate with problems in the natural world. <br />- Ability to design programs, understand and explain them, find and correct errors. <br />- Bridge the analog to digital worlds and to develop critical thinking with respect to the meaning of data, the social implications of privacy, and data science.
+
+## Resultados de aprendizagem e competências
+<p>Students will have the following abilities:</p>
+<p>- Recognising aspects of computation in the surrounding world;</p>
+<p>- Applying tools and techniques from computing to understand and reason about both natural and artificial systems and processes;</p>
+<p>- Abstraction, in several ways: modelling, decomposing, generalizing, and classifying;</p>
+<p>- Understanding and explaining programs;</p>
+<p>- Designing and writing programs;</p>
+<p>- Find and correct errors in the code;</p>
+<p>- Reflect thoughtfully on the program, including assessing its correctness and fitness for purpose;</p>
+<p>- Understanding the efficiency of the program;</p>
+<p>- Describing the system to others;</p>
+<p>- Discussing aspects like natural and artificial intelligence and consciousness, creativity and intellectual property, moral and ethical implications of using computers.</p>
+
+## Programa
+<p>Algorithms. Algorithm as a sequence of precise steps to solve a given problem. A single problem may be solved by several different algorithms. Choice criteria. Accuracy of both algorithm and data. Key algorithms, sorting and searching. Design of algorithms for re-use, validation, testing and correction.</p>
+<p>Programs. Programming physical devices, statements and actions. Sequencing. Selection. Repeating. Variables and assignment. Different types of data: integers, characters, strings. Relational operators and logic to control the execution of program statements. Manipulation of logical expressions, truth tables and Boolean valued variables. Abstraction by using functions and procedures with parameters. Program documentation. Errors in program syntax and errors in meaning. Simple data structures, such as variables, records, arrays, lists, trees, hash tables. Procedures that call procedures, to multiple levels. Programs that read and write persistent data in files. Design patterns: divide and conquer, pipelining, caching, sorting, searching, backtracking, recursion, client/server, model/view/controller.</p>
+<p>Data. Introduction to binary manipulation. Representations of unsigned integers, text, sounds (both involving analogue to digital conversion, e.g. WAV, and free of such conversion, e.g. MIDI), pictures and video. Multiple representations of a single thing in a computer. Hexadecimal. Two&#8217;s complement signed integers. String manipulation. Data compression; lossless and lossy compression algorithms e. g. JPEG. Problems of using discrete binary representations: quantization, sampling frequency. Representing fractional numbers.</p>
+Social aspects of computing.
+
+## Métodos de ensino e atividades de aprendizagem
+The teaching methodologies are problem based, and use several tools from pen and pencil simulations and toy robots programming to writing and correcting programs in an IDE for Python.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Teste: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 115.0 hours
+- Frequência das aulas: 47.0 hours
+
+## Fórmula de cálculo da classificação final
+<ul><br /><li><br /><p>Final Grade = (Test+Exam)/2;</p><br /><p>if Test &gt;= 6,0 e Exam &gt;= 6,0</p><br /></li><br /></ul>
+
+## Obtenção de frequência
+<ul><br /><li>Presence in class.</li><br /><li>Minimum of 10 in final grade.</li><br /></ul>
+
+## Melhoria de classificação
+Recovery exam
+

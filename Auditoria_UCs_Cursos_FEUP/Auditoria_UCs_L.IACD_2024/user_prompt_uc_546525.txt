@@ -1,0 +1,115 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Elementos de Inteligência Artificial e Ciência de Dados
+
+## Curso responsável
+Licenciatura em Inteligência Artificial e Ciência de Dados
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p class="p1">A UC abordará os temas atuais da Inteligência Artificial (IA) e Ciência de Dados (CD), dando aos estudantes um conhecimento técnico, ainda que não aprofundado, sobre os seus conceitos, problemas e aplicações.<br /> <br />Relativamente às áreas de IA e CD os objectivos da UC são:<br /><br /> - Fornecer uma perspetiva histórica do seu surgimento e evolução.<br /> - Identificar a sua relevância e impacto na sociedade atual.<br /> - Estudar a relação com outras ciências e as interações com a sociedade.<br /> - Conhecer as diferentes etapas dos processos de desenvolvimento.<br /> - Desenvolver pequenos projetos de IA e CD.</p>
+
+## Resultados de aprendizagem e competências
+<p class="p1">Desenvolvimento de competências:</p>
+<p class="p1">1 - capacidade para identificar conceitos gerais, problemas e aplicações de IA e CD relativos a temas atuais e históricos da inteligência artificial e ciência de dados, e a sua relação com a ciência, a sociedade e a inovação, assim como dos seus impactos.</p>
+<p class="p1">2 - capacidade para descrever debater e criticar as interações da IA e CD com a sociedade.</p>
+<p class="p1">3 - capacidade para desenvolver pequenos projetos de IA e CD.</p>
+
+## Pré-requisitos e co-requisitos
+Conhecimentos de Programação na Linguagem Python.
+
+## Programa
+<p class="p1">Nesta UC serão apresentados e discutidos conceitos fundamentais e atuais sobre a IA e CD.<br /><br /> Conteúdos programáticos:<br /> 1. Definição de Inteligência Artificial e Ciência de Dados. Relevância da IA e da CD na ciência, na sociedade e na inovação.<br /> 2. Breve história e conceitos de IA e CD e a sua relação com a Ciência de Computadores e a Matemática. Relação da IA e CD com a Ciência Cognitiva.<br /> 3. Introdução à Inteligência Artificial. Áreas da IA, tipos de problemas e paradigmas de resolução de problemas através de IA.<br /> 4. Introdução à Ciência de Dados; Importância dos dados; Diferentes papéis e etapas de um projeto de CD; Expectativas para um projeto de CD.<br /> 5. Impacto da IA e da CD na sociedade (ética, privacidade, trabalho, confiança, interpretabilidade, segurança).<br /> 6. Introdução às principais tecnologias de IA e CD através de exemplos de aplicações conhecidas.<br /> 7. Desenvolvimento de um pequeno projeto de IA e/ou CD.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p class="p1">Aulas teórico-práticas com uma componente expositiva, uma componente de apresentações por convidados, uma componente de discussão e uma componente prática de prototipagem de um pequeno projeto.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 50.0 %
+- Participação presencial: 10.0 %
+- Teste: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 56.0 horas
+- Frequência das aulas: 56.0 horas
+- Trabalho laboratorial: 50.0 horas
+
+## Fórmula de cálculo da classificação final
+<div>Os estudantes devem ter <strong>nota mínima de 7.5 nas componentes de Trabalho e Mini-Testes/Exame</strong>, caso contrário reprovam por falta de componente. Será considerada a média dos 2 trabalhos e a média dos dois mini-testes.<br /><br /><br /><strong>NotaFinal = max(0.2xMT1 + 0.2xMT2 + 0.1xKah + 0.25xT1 + 0.25xT2; 0.25xMT1 + 0.25xMT2 + 0.25xT1 + 0.25xT2)<br /><br />Em caso de Exame, este vale a soma de MT1 e MT2, i.e. 0.4 ou 0.5.<br /></strong></div><br /><ul><br /><li>MT1 - Mini-Teste 1</li><br /><li>MT2 - Mini-Teste 2</li><br /><li>Kah - Kahoots</li><br /><li>T1 - Trabalho Prático 1</li><br /><li>T2 - Trabalho Prático 2</li><br /></ul><br /><br />Apenas é melhorável a nota do Exame/Mini-testes. A componente prática de trabalhos e Kahoot não é melhorável.<br /><br />Os Kahoots são calculados como:<br /><br /><br /><div>Kah = Média(Melhores 6 Kahoots) + Bónus (1st, 2nd, 3rd, &#8230; , 10th lugares)</div><br /><p class=&quot;p1&quot;> </p>
+
+## Obtenção de frequência
+<p class="p1"> Para obtenção de frequência é necessário:</p>
+<p class="p3">1) obter nota superior a zero em ambos os projetos práticos (trabalho laboratorial).</p>
+<p class="p1">2) Não faltar a mais de 4 aulas práticas (exceto se for concedida uma exceção).</p>
+
+## Melhoria de classificação
+<p class="p1">A componente dos mini-testes é melhorável na época de recurso. A parte prática não é melhorável.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Artificial Intelligence and Data Science
+
+## Curso responsável
+Bachelor in Artificial Intelligence and Data Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+This will address the state-of-the-art topics of Artificial Intelligence (AI) and Data Science (DS), giving students a technical knowledge, although not in-depth, about its concepts, problems and applications.<br /><br />Regarding the AI and DS areas, the objectives of the course are:<br /><br />- Provide a historical perspective of its emergence and evolution.<br />- Identify its relevance and impact in the society.<br />- Study the relationship with other sciences and interactions with society.<br />- Know the different stages of development processes.<br />- Ability to develop small prototyping projects in AI and DS.
+
+## Resultados de aprendizagem e competências
+Development of the following skills:<br /><br />1 - ability to identify general concepts, problems, and applications of Artificial Intelligence (AI) and Data Science (DS) related to current and historical issues of artificial intelligence and data science, and their relationship with science, society, and innovation, as well as their impacts.<br /><br />2 - ability to describe, debate, and critique AI and DS interactions with society.<br /><br />3 - ability to develop small projects in AI and DS.
+
+## Pré-requisitos e co-requisitos
+Python programming skills.
+
+## Programa
+In this course, fundamental and current concepts about AI and DS will be presented and discussed.<br /><br />Syllabus:<br />1. Definition of Artificial Intelligence and Data Science. The relevance of AI and DS in science, society and innovation.<br />2. Brief history and concepts of AI and DS and their relationship with Computer Science and Mathematics.<br />3. Introduction to AI. AI areas, types of problems and paradigms for solving problems through AI.<br />4. Introduction to Data Science.  Importance of the data; Different roles and steps of a DS project. Set expectations for a DS project.<br />5. Impact of AI on society (ethics, privacy, work, trust, interpretability, security).<br />6. Introduction to the main AI and DS technologies through examples of known applications.<br />7. Development of a small AI and/or DS project.
+
+## Métodos de ensino e atividades de aprendizagem
+Theoretical-practical classes with an expository component, a component of presentations by guest speakers, a discussion component and a practical component of prototyping a small project.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 50.0 %
+- Participação presencial: 10.0 %
+- Teste: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 56.0 hours
+- Frequência das aulas: 56.0 hours
+- Trabalho laboratorial: 50.0 hours
+
+## Fórmula de cálculo da classificação final
+<div>Students must have a <strong>minimum grade of 7.5 in the practical assignments and the mini-tests/Exam</strong>, otherwise will fail by not approving one of the components. The average of the two practical assignments and the two mini-tests will be considered.<br /><br /><br /></div><br /><p class=&quot;p1&quot; style=&quot;display: inline !important;&quot;><strong>FinalGrade = max(0.2xMT1 + 0.2xMT2 + 0.1xKah + 0.25xT1 + 0.25xT2; 0.25xMT1 + 0.25xMT2 + 0.25xT1 + 0.25xT2)<br /><br />In case of Exam, it corresponds to the sum of the two mini-tests, i.e. 40% or 50%.<br /></strong></p><br /><ul><br /><li>MT1 - Mini-Test 1</li><br /><li>MT2 - Mini-Test 2</li><br /><li>Kah - Kahoots</li><br /><li>T1 - Assignment 1</li><br /><li>T2 -Assignment 2</li><br /></ul><br /><br />Only the grade of the exam/mini-tests can be improved. Kahoots and practical assignments are not improved.<br /><br />Kahoots are calculated as:<br /><br /><br /><div>Kah = Mean(Best 6 Kahoots) + Bonus (1st, 2nd, 3rd, &#8230; , 10th places)</div>
+
+## Obtenção de frequência
+To obtain attendance it is necessary:<br /><br />1) obtain a grade above zero in both practical assignments (laboratory work).<br />2) Do not miss more than 4 practical classes (unless an exception is granted).
+
+## Melhoria de classificação
+<p id="tw-target-text" class="tw-data-text tw-text-large XcVN5d tw-ta" dir="ltr" data-placeholder="Translation"><span class="Y2IQFc" lang="en">The mini-test component can be improved in the appeal period. The practical part cannot be improved.</span></p>
+

@@ -1,0 +1,109 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Lógica Computacional
+
+## Curso responsável
+Licenciatura em Ciência de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>Pretende-se que o aluno aprenda as noções básicas do raciocínio lógico e seja capaz de utilizar correctamente os sistemas dedutivos; compreenda as relações entre as semânticas e os sistemas dedutivos e a sua caracterização do ponto de vista da decidibilidade; reconheça o papel dos sistemas formais nas várias áreas da Ciência de Computadores.</p>
+
+## Resultados de aprendizagem e competências
+Conhecer os principais tópicos da lógica proposicional e da lógica de primeira ordem, bem como a sua aplicação na programação em lógica.
+
+## Pré-requisitos e co-requisitos
+<p>Estruturas Discretas</p>
+
+## Programa
+<p>Lógica proposicional: Sintaxe Semântica: satisfazibilidade, validade, consequência. Formas normais. Algoritmos de satisfazilidade.</p>
+<p align="JUSTIFY">Sistema dedutivos. Completude e integridade do sistema dedutivo. Decidibilidade.</p>
+<p align="JUSTIFY">Lógica de primeira ordem (de predicados). Linguagens. Sintaxe. Semântica: estruturas, interpretações, modelos. Sistemas dedutivos. Completude e integridade dos sistemas dedutivos. Teorias e axiomatizações.<br /><br />Demonstração automática: cláusulas de Horn, unificação e resolução</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p style="margin-bottom: 0cm; line-height: 150%;">Aulas teóricas de exposição dos conteúdos programático assim como de exemplos e casos de estudo. Aulas práticas de resolução de exercícios propostos semanalmente.<span style="color: #797979;"><span style="font-family: Arial,sans-serif;"><span style="font-size: small;"><br /><em><br /><br /><strong><br /></strong></em></span></span></span></p>
+<p style="margin-bottom: 0cm; line-height: 150%;"> </p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 114.0 horas
+- Frequência das aulas: 48.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Primeiro teste (50% de peso na nota final).<br />Segundo teste (50% de peso na nota final). <br />Sendo PT a classificação obtida  no primeiro teste e ST a<br />classificação obtida no segundo teste, então a nota final é dada por:<br />F = PT*(0.5) + ST*(0.5) <br />PT,ST &gt;= 6 e F &gt;= 9.5<br />Não obterão aprovação na avaliação distribuída, os alunos que não obtiverem um mínimo de 6 valores (em 20) em cada teste. Para os alunos que não obtiverem aprovação, haverá um exame de recurso cotado para 20 valores.</p>
+<p><br /><br /></p>
+
+## Obtenção de frequência
+Os alunos deverão obter um mínimo de 6 valores (em 20) em cada um dos testes. Todos os alunos poderão realizar o exame de recurso.
+
+## Melhoria de classificação
+O exame de melhoria de nota é classificado para 20 valores.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computational Logic
+
+## Curso responsável
+Bachelor in Computer Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+It is intended that the student learns the fundamental concepts regarding reasoning and is able to correctly use the deductive systems; understands the relationship between semantics and deductive systems and their characterization from the point of view of decidability; recognizes the role of formal systems in the various areas of Computer Science, in particular in the area of logic programming.
+
+## Resultados de aprendizagem e competências
+To know the main topics of propositional logic and first order logic, and its application to logic programming.
+
+## Pré-requisitos e co-requisitos
+<p>Discrete Structures</p>
+
+## Programa
+<p>Proposicional logic: syntax and semantics; satisfazibility, validity. normal forms; SAT solvers; deduction systems; soundness and completeness of deduction systems; decidability. Fist-order logic: syntax and semantics;models; validity; normal forms; deduction systems; soundness and completeness; decidable fragments; first-order theories.</p>
+<p>Automated theorem proving: Horn clauses; unification; resolution.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span lang="en-US">The teaching methods are based on expository lecturing and exercises complemented with programming coursework that enables the student practice the methods studied in the course.</span></p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 114.0 hours
+- Frequência das aulas: 48.0 hours
+
+## Fórmula de cálculo da classificação final
+<p style="margin-bottom: 0cm; line-height: 150%;"><span lang="en-US">The final grade (FT - firts test, ST - second test)<br />F = FT*(0.5) + ST*(0.5) <br /></span><span lang="en-US">FT,ST &gt;= 6 e F &gt;= 9.5</span><span style="color: #797979;"><span style="font-family: Arial,sans-serif;"><span style="font-size: small;"><span lang="en-US"><em><strong><br /></strong></em></span></span></span></span></p>
+
+## Obtenção de frequência
+Students are required a minumum of 6 (out of 20) in each test. All the studens can take the resit exam.
+
+## Melhoria de classificação
+The grade improvement exam is graded out of 20 points.
+

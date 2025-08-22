@@ -1,0 +1,126 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Estruturas de Dados e Algoritmos
+
+## Curso responsável
+Licenciatura em Bioengenharia
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>Esta unidade curricular tem os seguintes objetivos principais: <br />1) complementar os conhecimentos de programação adquiridos na unidade curricular de Introdução à Programação Científica, introduzindo o paradigma de programação orientada por objetos, usando a linguagem Python como ferramenta; <br />2) transmitir conceitos fundamentais sobre estruturas de dados, conceção e análise de algoritmos, dotando os estudantes com a capacidade de aplicar o referido paradigma de programação para desenvolver programas em que sejam usadas as estruturas de dados e algoritmos disponíveis em bibliotecas, bem como abstrações desenvolvidas pelos próprios. </p>
+<p> </p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>Os estudantes que concluam com sucesso esta unidade curricular deverão ser capazes de: <br />- identificar os conceitos fundamentais da programação procedimental e da programação orientada por objetos; <br />- descrever algumas aplicações típicas das estruturas de dados e algoritmos estudados e seleccionar/criar estruturas de dados e algoritmos para resolver problemas de complexidade simples/média; <br />- aplicar os conhecimentos adquiridos no desenvolvimento de programas em Python, de acordo com a especificação de um projeto, recorrendo a estruturas de dados e algoritmos criados pelo próprio ou disponíveis em bibliotecas.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Recomenda-se a frequência com aproveitamento da unidade curricular de Introdução à Programação Científica ou equivalente.</p>
+
+## Programa
+<p><strong>Introdução à linguagem Python e a programação orientada por objetos</strong></p>
+<ul>
+<li>Conceitos fundamentais de programação: tipos de dados simples; variáveis, expressões e declarações; fluxo de programa, condicionais, iteração; funções, passagem de parâmetros, recursão; ficheiros.</li>
+<li>Tipos de dados compostos: strings, tuplos, conjuntos, listas, dicionários.</li>
+<li>Compreensões em listas.</li>
+<li>Estratégias de resolução de problemas.</li>
+<li>Ferramentas de programação, teste e depuração.</li>
+<li>Conceitos fundamentais de classes.</li>
+<li>Herança simples em classes. </li>
+</ul>
+<p><br /><strong>Introdução às estruturas de dados e algoritmos</strong></p>
+<ul>
+<li>Análise da complexidade de algoritmos.</li>
+<li>Algoritmos de pesquisa e de ordenação.</li>
+<li>Estruturas de dados lineares (listas, filas e pilhas).</li>
+<li>Árvores Binárias, Heaps, Tabelas de dispersão e Grafos.</li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p> - Aulas teórico-práticas: exposição das matérias do programa, recorrendo à apresentação e discussão código que ilustra o uso da linguagem e dos conceitos introduzidos, e à resolução de pequenos exercícios.<br />- Aulas práticas: resolução de exercícios de programação em Python e desenvolvimento parcial de pequenos projetos de programação.<br />- Auto-aprendizagem: estudo das matérias, recorrendo à bibliografia e ao material disponibilizado no Moodle, resolução de exercícios e realização dos projetos iniciados nas aulas laboratoriais.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 80.0 horas
+- Frequência das aulas: 52.0 horas
+- Elaboração de projeto: 30.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final é dada pela fórmula: cFINAL = 0,4 * cDIST + 0.6 * cEXAME onde cDIST e cEXAME representam, respetivamente, a classificação da componente distribuída e a classificação do exame escrito. O resultado da avaliação distribuída será calculado com base na classificação obtida num trabalho prático, a realizar durante o semestre e a entregar próximo do final do semestre. O exame escrito será realizado "com consulta". É condição necessária para aprovação a obtenção de uma classificação mínima de 40% em qualquer uma das componentes, cDIST e cEXAME.<br />A classificação final não pode exceder em mais de 4 valores a classificação do exame arredondada para o inteiro mais próximo.</p>
+
+## Obtenção de frequência
+<p>Não exceder o limite de faltas estabelecido nas normas e obter uma classificação mínima de 40% na avaliação distribuída. Os estudantes que obtiveram frequência no ano letivo anterior podem manter a nota de frequência que obtiveram nesse ano; devem, neste caso, informar o docente responsável pela u.c., durante a primeira semana de aulas, e não devem inscrever-se nas turmas práticas.</p>
+
+## Melhoria de classificação
+<p>A classificação da componente distribuída só pode ser melhorada frequentando de novo a disciplina num ano letivo posterior. A classificação do exame escrito pode ser melhorada nas épocas legalmente previstas. A melhoria de apenas uma das componentes implicará a manutenção da classificação obtida previamente na outra componente, aplicando-se a fórmula de cálculo da classificação anteriormente apresentada.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Algorithms and Data Structure
+
+## Curso responsável
+Bachelor in Bioengineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>The main objectives of this course are: <br />1) to complement the knowledge of computer programming acquired in the course Introduction to Scientific Programming, using the Python language for program development; <br />2) to transmit fundamental concepts about data structures, design and analysis of algorithms, providing students with the ability to apply the referred programming paradigm to develop programs in which the data structures and algorithms available in libraries, as well as abstractions developed by themselves</p>
+
+## Resultados de aprendizagem e competências
+<p>The students who successfully complete this curricular unit must be able to:<br />- to identify the main concepts of procedural and object-oriented programming;<br />- to describe typical applications of the studied data structures and algorithms and to select/create data structures and algorithms to solve low/medium complexity problems;<br />- to solve programming problems using the Python programming language and the abstractions from available libraries, implementing their own data structures and algorithms whenever necessary.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Attendance to the Introduction to Scientific Programming course, with approval, is recommended.</p>
+
+## Programa
+<strong>Introduction to the Python language and object-oriented programming</strong><br /><br /><ul><br /><li>Fundamental programming concepts: simple data types; variables, expressions and declarations; program flow, conditionals, iteration; functions, parameter passing, recursion; files.</li><br /><li> Composite data types: strings, tuples, sets, lists, dictionaries.</li><br /><li> List comprehensions.</li><br /><li> Problem-solving strategies.</li><br /><li> Programming, testing and debugging tools.</li><br /><li> Fundamental concepts of classes.</li><br /><li> Simple inheritance in classes.</li><br /></ul><br /><br /><strong>Introduction to data structures and algorithms</strong><br /><br /><ul><br /><li> Analysis of the complexity of algorithms.</li><br /><li> Search and sorting algorithms.</li><br /><li> Linear data structures (lists, queues and stacks).</li><br /><li> Binary Trees, Heaps, Hash Tables and Graphs.</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>- Theoretical-practical classes: will be based on the oral presentation of the themes, accompanied by problem solutions and discussions, and the presentation of good programming practices.- Practical classes: will be based on the development of computer programs in Python to solve the proposed exercises and on the partial development of small programming projects. <br />-Self-learning: study of the program subjects, using the bibliography and the material provided on Moodle, resolution of exercises and development of the projects started in the labs.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 80.0 hours
+- Frequência das aulas: 52.0 hours
+- Elaboração de projeto: 30.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final grade is given by: cFINAL = 0,4 * cDIST + 0.6 * cEXAM, where cDIST and cEXAM represent, respectively, the distributed component grade and the exam grade. The result of the distributed component will be calculated on the basis of the grade obtained in a practical assignment to be done during the semester and to be submitted by the end of the semester. The exam will be done with "open book/notes". To be approved, students have to achieve a minimum grade of 40% in cDIST and cEXAM components.<br />The final mark cannot exceed by more than 4 points the mark of the final exam rounded to the nearest integer.<br /><br /></p>
+
+## Obtenção de frequência
+<p>To attend the classes as specified in the general rules and to achieve a minimum grade of 40% in the distributed component. Students who have attained the minimum required grading in the distributed evaluation component in the previous occurrence of this course may keep the obtained grading; in this case, they must inform the teacher during the first week of the course, and they should not register for the practical classes.</p>
+
+## Melhoria de classificação
+<p>Students can only improve the mark of the distributed assessment component in the following year. Students can improve their marks on the written exam at the corresponding seasons (according to the rules). The improvement of only one of the components will imply maintaining the classification previously obtained in the other component, being applied to the formula previously presented for the calculation of the final grade.</p>
+

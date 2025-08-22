@@ -1,0 +1,155 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Eletrónica para Sistemas de Energia e Transportes
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>O objetivo desta UC é formar no domínio da integração dos sistemas de energia e de transportes no quadro da cidade inteligente. Assim, tem como objetivos principais:</p>
+<ul>
+<li>Apresentar e caracterizar arquiteturas de microrrede elétrica, com produção renovável e armazenamento;</li>
+<li>Sistematizar sistemas eletrónicos que permitem a interligação integrada dentro da microrrede;</li>
+<li>Analisar requisitos para soluções de controlo e supervisão do balanceamento entre consumo, produção e armazenamento de energia;</li>
+<li>Promover o trabalho em equipa e exercitar a escrita de relatórios técnico-científicos;</li>
+<li>Praticar a apresentação oral de trabalho próprio.</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p>No final da unidade curricular, como resultados de aprendizagem, o estudante deve ser capaz de:</p>
+<ul>
+<li>Analisar os requisitos de energia e potência elétricas na cidade (consumo, produção, armazenamento);</li>
+<li>Analisar a aplicação de diferentes tecnologias na infraestrutura de fornecimento de energia elétrica (eólica, solar fotovoltaica, "fuel cell", armazenamento, ...)</li>
+<li>Projetar e dimensionar sistemas de conversão de energia que permitam interligar sistemas de armazenamento na rede elétrica;</li>
+<li>Conceber a rede elétrica da cidade como uma microrrede;</li>
+<li>Compreender o quadro regulatório no setor.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Conhecimentos fundamentais de conversão de energia.
+
+## Programa
+<p>Introdução geral. Objetivos e metas da transição energética.<br />Integração dos sistemas de energia e de transportes elétricos. Contribuição dos sistemas eletrónicos de potência.<br />Panorâmica da geração distribuída e conceito de microrrede. Arquitetura e modos de funcionamento.<br />Interface de sistemas eletrónicos para a rede elétrica e para fontes de energia em corrente contínua.<br />Controlo e supervisão de diversas fontes de energia renovável.<br />Sistemas de armazenamento de energia e integração de fontes de energia.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A metodologia de ensino inclui aulas teóricas e aulas práticas/laboratoriais.<br />As aulas teóricas são de exposição, análise, discussão e esclarecimento dos temas programáticos e  de casos de estudo.</p>
+<p>As aulas práticas têm como objetivos:</p>
+<ul>
+<li>Análise e discussão de sistemas baseados em fontes renováveis incluindo armazenamento, com ligação à rede elétrica operando como microrrede;</li>
+<li>Acompanhamento de pequenos projetos, realizadas em laboratório: sistemas eletrónicos de conversão de potência e sistemas de interface interligando rede elétrica, diferentes fontes de energia, armazenamento e cargas.</li>
+</ul>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Trabalho prático ou de projeto: 50.0 %
+- Apresentação/discussão de um trabalho científico: 10.0 %
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 2.0 horas
+- Elaboração de projeto: 60.0 horas
+- Estudo autónomo: 40.0 horas
+- Frequência das aulas: 46.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação tem em conta as seguintes componentes:</p>
+<ul>
+<li>Trabalhos práticos (TP), com avaliação individual, suportados em relatório escrito e que avaliam as capacidades de projetar, simular e implementar, bem como de avaliar criticamente a solução;</li>
+<li>Apresentação oral dos trabalhos (AO) e participação nas aulas;</li>
+<li>Exame (EX), que avalia a capacidade de analisar o funcionamento de sistemas eletrónicos de controlo de potência, bem como a de propor soluções específicas.</li>
+</ul>
+Cálculo da classificação final (CF):<br />
+<ul>
+<li>CF=0,5*TP+0,1*AO+0,4*EX</li>
+</ul>
+Nota 1. O "Trabalho prático" poderá ser um ou mais do que um trabalho.<br />Nota 2. Todas as componentes são avaliadas na escala 0,0-20,0 valores.<br />Nota 3. A aprovação na UC requer um mínimo de 40% quer na avaliação distribuída (TP+AO) quer no exame.
+
+## Obtenção de frequência
+De acordo com as &quot;Normas Gerais de Avaliação&quot; em vigor na Feup no respetivo ano letivo no que respeita a frequência das aulas.
+
+## Melhoria de classificação
+Se for no ano letivo da aprovação: CF=0,5*TP+0,1*AO+0,4*EX<br />Se for em ano letivo posterior: CF=EX
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Electronics for Power Systems and Transportation
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>The objective of this UC is to train in the field of integration of energy and transport systems within the framework of the smart city. Thus, its main objectives are:</p>
+<ul>
+<li>Present and characterize microgrid architectures, with renewable production and storage;</li>
+<li>Systematize electronic systems that allow integrated interconnection within the microgrid;</li>
+<li>Analyze requirements for control and supervision solutions for the balance between consumption, production and storage of energy;</li>
+<li>Promote teamwork and exercise the writing of technical-scientific reports;</li>
+<li>Practice the oral presentation of own work.</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p>At the end of the course, as learning outcomes the student should be able to:</p>
+<ul>
+<li>Analyze the electric energy and power requirements in the city (consumption, production, storage);</li>
+<li>Analyze the application of different technologies in the power system infrastructure (wind, solar photovoltaic, fuel cell, storage, &#8230;);</li>
+<li>Design and size energy conversion systems that allow the interconnection of energy sources with the electric grid;</li>
+<li>Conceive the city's electric power grid as a micro-grid;</li>
+<li>Understand the regulatory framework in the sector.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Basic knowledge of energy conversion.
+
+## Programa
+<p>General introduction. Objectives and targets for the energy transition.<br />Integration of energy and electric transportation systems. Contribution of power electronics systems.<br />Overview of distributed generation and micro-grid concept. Architecture and modes of operation.<br />Interface of power electronic systems with the electric grid and with direct current power sources.<br />Control and supervision of different renewable energy sources.<br />Energy storage systems and integration of energy sources.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+The teaching methodology includes lectures and practical/laboratory classes.<br />The lectures consist of exposition, analysis, discussion and clarification of the syllabus topics and case studies.<br /><br /><p>The practical classes have the following objectives:</p><br /><ul><br /><li>Analysis and discussion of systems based on renewable sources including storage, with connection to the electricity grid operating as a microgrid;</li><br /><li>Accompanying small projects, carried out in the laboratory: electronic power conversion systems and interface systems interconnecting the electricity grid, different energy sources, storage and loads.</li><br /></ul>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Trabalho prático ou de projeto: 50.0 %
+- Apresentação/discussão de um trabalho científico: 10.0 %
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 2.0 hours
+- Elaboração de projeto: 60.0 hours
+- Estudo autónomo: 40.0 hours
+- Frequência das aulas: 46.0 hours
+
+## Fórmula de cálculo da classificação final
+The evaluation takes into account the following components:<br /><br /><ul><br /><li>Practical works (TP), with individual assessment, supported by written reports, assessing the capability to design, simulate and implement, as well as critically evaluate the solution;</li><br /><li>Oral presentation of the practical works (AO) and participation in classes;</li><br /><li>Exam (EX), evaluating the capability of analyzing the operation of power electronics based systems, as well as of proposing specific solutions.</li><br /></ul><br />Calculation of final grade (CF):<br /><br /><ul><br /><li>CF=0,5*TP+0,1*AO+0,4*Ex</li><br /></ul><br /><div>Note 1. &quot;Practical work&quot; can be one or more than one work.<br />Note 2. All components are scored in a 0,0-20,0 scale.</div><br />Note 3. Course approval requires a minimum score of 40% either in the distributed evaluation (TP+AO) and in the exam.
+
+## Obtenção de frequência
+According to the &quot;Normas Gerais de Avaliação&quot; in force at Feup for the respective academic year in what concerns classes attendance.
+
+## Melhoria de classificação
+If it is in the academic year of approval: CF=0.5*TP+0,1*AO+0.4*EX<br />If in a later academic year: CF=EX
+

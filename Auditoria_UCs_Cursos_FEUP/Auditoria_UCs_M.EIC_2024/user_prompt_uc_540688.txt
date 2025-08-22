@@ -1,0 +1,111 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Estruturas de Dados e Algoritmos Avançados
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+Esta unidade curricular (UC) tem por objetivo complementar e aprofundar conhecimentos previamente assimilados em UCs de 1º ciclo sobre conceção e análise de algoritmos e estruturas de dados, cobrindo um espectro adicional de técnicas de conceção e análise de algoritmos e estruturas de dados mais avançadas, apropriadas a problemas mais complexos.
+
+## Resultados de aprendizagem e competências
+No final da unidade curricular, os estudantes devem ser capazes de:<br /><br /><ul><br /><li>Compreender o mapeamento de problemas complexos do mundo real para soluções algorítmicas (e.g., problemas em grafos, problemas geométricos, programação linear, etc.);</li><br /><li>Selecionar e aplicar estruturas de dados avançadas (e.g., árvores-kd) e técnicas algorítmicas (e.g., randomização, aproximação, paralelização) para resolver problemas do mundo real;</li><br /><li>Conceber algoritmos eficientes para resolver um problema em questão;</li><br /><li>Reconhecer algumas classes de problemas intratáveis e aplicar algoritmos de aproximação para os resolver;</li><br /><li>Selecionar e aplicar técnicas avançadas de análise de algoritmos (e.g., amortizada, probabilística, etc.);</li><br /><li>Avaliar os algoritmos do ponto de vista da eficiência e correção, tanto analítica como experimentalmente.</li><br /></ul>
+
+## Pré-requisitos e co-requisitos
+Não há pré-requisito obrigatório. No entanto, serão úteis conhecimentos consolidados das unidades curriculares de <em>Algoritmos e Estruturas de Dados</em> e <em>Desenho de Algoritmos</em>.
+
+## Programa
+<ol><br /><li>Estruturas de dados avançadas (e.g., árvores B);</li><br /><li>Análise probabilística e algoritmos probabilísticos (randomized);</li><br /><li>Algoritmos paralelos (aproximação, divisão e conquista, balanceamento, divisão geométrica);</li><br /><li>Estruturas de dados e algoritmos geométricos (voronoi, quad/octree, kd-tree);</li><br /><li>Otimização combinatória e programação linear;</li><br /><li>Algoritmos de aproximação e heurísticas;</li><br /><li>Análise amortizada.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+A metodologia de ensino combina componentes teóricas e práticas. A componente teórica é usada para a exposição formal da matéria, apresentação de exemplos e sua discussão. Na componente prática, os estudantes resolvem desafios de programação com recurso a algoritmos e estruturas de dados avançados, com acompanhamento tutorial. A UC é agnóstica em relação à linguagem de programação, sendo permitido aos estudantes escolherem em que linguagem codificam os seus programas.<br /><br />Adicionalmente, os estudantes deverão realizar dois projetos práticos, em grupo.<br />No 1º projeto prático, cada grupo deverá estudar de forma aprofundada uma estrutura de dados avançada, de interesse prático bem definido, sobre a qual produzirá uma apresentação a ser realizada aos colegas e à turma.<br />No 2º projeto prático, cada grupo deverá apresentar soluções para problemas do mundo real, tendo por base uma estrutura de dados das que tiverem sido apresentadas no contexto do 1º projeto prático, com a ressalva de não poderem trabalhar sobre a estrutura de dados que o próprio grupo estudou.<br />O 2º projeto prático será alvo de uma apresentação intermédia, de uma apresentação final, e de um relatório final.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 60.0 %
+- Trabalho escrito: 20.0 %
+- Teste: 20.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 76.0 horas
+- Estudo autónomo: 47.0 horas
+- Frequência das aulas: 39.0 horas
+
+## Fórmula de cálculo da classificação final
+<ul><br /><li>Projecto prático 1 (P1): 20%;</li><br /><ul><br /><li>Entregável: uma apresentação (20%)</li><br /></ul><br /><li>Projecto prático 2 (P2): 60%;</li><br /><ul><br /><li>Entregáveis: duas apresentações (20%+20%) e um relatório final (20%)</li><br /></ul><br /><li>Teste escrito individual (T): 20%.</li><br /></ul><br />Nota final: 0.2*P1 + 0.6*P2 + 0.20*T.
+
+## Obtenção de frequência
+Conforme as regras institucionais.
+
+## Melhoria de classificação
+Só é possível melhor a componente de avaliação teste na época de recurso.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Advanced Data Structures and Algorithms
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+This curricular unit (UC) aims to complement and deepen previously assimilated knowledge in 1st cycle UCs on the design and analysis of algorithms and data structures, covering an additional spectrum of data structures and algorithm design and analysis techniques, appropriate to more complex problems.
+
+## Resultados de aprendizagem e competências
+At the end of the curricular unit, students should be able to:<br /><br /><ul><br /><li>Understand the mapping of complex real-world problems to algorithmic solutions (e.g., as graph problems, geometric problems, linear programs, etc.);</li><br /><li>Select and apply advanced data structures (e.g., kd-trees) and algorithmic techniques (e.g., randomization, approximation, parallelization) to solve complex real world problems;</li><br /><li>Conceive efficient algorithms to solve a problem at hand;</li><br /><li>Recognize some classes of intractable problems and apply approximation algorithms to solve them;</li><br /><li>Select and apply advanced analysis techniques (e.g., amortized, probabilistic, etc.) to algorithms;</li><br /><li>Evaluate algorithms from the point of view of efficiency and correctness, both analytically and experimentally.</li><br /></ul>
+
+## Pré-requisitos e co-requisitos
+There is no mandatory prerequisite. However, consolidated knowledge of course units on <em>Algorithms and Data Structures</em> and <em>Algorithm Design</em> will be useful.
+
+## Programa
+<ol><br /><li>Advanced data structures (e.g., B trees);</li><br /><li>Probabilistic analysis and randomized algorithms;</li><br /><li>Parallel algorithms (approximation, divide-and-conquer, balancing, geometric division);</li><br /><li>Geometric algorithms and data structures (voronoi, quad/octree, kd-tree);</li><br /><li>Combinatorial optimisation and linear programming;</li><br /><li>Approximation algorithms and heuristics;</li><br /><li>Amortized analysis.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The teaching methodology combines theoretical and practical components. The theoretical component is used for the formal exposition of the subject, presentation of examples, and their discussion. In the practical component, students solve programming challenges using advanced algorithms and data structures with tutorial accompaniment. The UC is agnostic to the programming language, allowing students to choose in which language they write their programs.</p>
+In addition, students will undertake two practical projects in groups.<br />In the 1st practical project, each group should study a concrete data structure of real-life interest, about which a presentation to be delivered to the colleagues and class should be prepared.<br />In the 2nd practical project, each group should present solutions to real-world problems based on the data structures presented in the context of the 1st practical project, bearing in mind that groups can not work over the data structure they studied before.<br />The 2nd practical project will be subject to an intermediate presentation, a final presentation, and a final report.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 60.0 %
+- Trabalho escrito: 20.0 %
+- Teste: 20.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 76.0 hours
+- Estudo autónomo: 47.0 hours
+- Frequência das aulas: 39.0 hours
+
+## Fórmula de cálculo da classificação final
+<ul><br /><li>Practical project 1 (P1): 20%;</li><br /><ul><br /><li>Deliverable: one presentation (20%)</li><br /></ul><br /><li>Practical project 2 (P2): 60%;</li><br /><ul><br /><li>Deliverables: two presentations (20%+20%) and a final report (20%)</li><br /></ul><br /><li>Individual written test (T): 20%.</li><br /></ul><br />Final Mark: 0.2*P1 + 0.6*P2 + 0.20*T.
+
+## Obtenção de frequência
+Per institucional rules.
+
+## Melhoria de classificação
+It is only possible to improve the test assessment component at the appeal period.
+

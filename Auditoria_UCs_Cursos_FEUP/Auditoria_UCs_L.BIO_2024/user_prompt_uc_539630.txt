@@ -1,0 +1,112 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Introdução à Engenharia de Sistemas e Bioprocessos
+
+## Curso responsável
+Licenciatura em Bioengenharia
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p align="LEFT">Aquisição pelos estudantes das competências necessárias à análise qualitativa e quantitativa de sistemas de engenharia biomédica e de bioprocessos.</p>
+
+## Resultados de aprendizagem e competências
+<p align="LEFT">Esta unidade curricular apresenta os elementos introdutórios da Engenharia de Sistemas Biomédicos e da Engenharia de Bioprocessos. Oferece um tratamento abrangente e coerente de conceitos e ferramentas para a análise de sistemas e para a descrição matemática de bioprocessos simples.</p>
+<p align="LEFT">A unidade curricular introdutória promove também a visão crítica das vantagens e limitações das diferentes abordagens através da sua aplicação à resolução de problemas concretos com grau de dificuldade ajustado ao segundo ano do curso.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Matemática (Cálculo Diferencial básico)</p>
+
+## Programa
+ENGENHARIA DE BIOPROCESSOS:<br /><br />Cap 1- Cinética Biológica-descrição matemática de casos simples<br />   1.1.-Equações fundamentais da cinética: termodinâmica e velocidade de reação.<br />   1.2.-Tipos de cinéticas mais comuns em sistemas biológicos.<br />   1.3.-Fatores de Rendimento.<br />   1.4.-Crescimento microbiano em sistemas fechados.<br />   1.5.-Cinética do consumo de substrato e da formação de produto.<br />   1.6.-Cálculo do calor gerado em processos metabólicos.<br /><br />Cap 2 - Balanços de Massa em Estado Estacionário e Não-Estacionário<br />   2.1.-Conceitos gerais: sistemas abertos e fechados; processos contínuos e descontínuos; equilíbrio versus estado estacionário. Sistemas em estado Não-estacionário. Sistemas sem e com reação biológica.<br />   2.2.-Equação básica dos balanços de massa<br />   2.3.-Regras práticas dos balanços de massa: balanços a correntes totais e balanços a componentes; junção e sub-divisão de correntes; reciclagem; purga.<br />   2.4.-Estequiometria da conversão biológica<br /><br />Cap 3 - Aplicação da Engenharia de Processos à Análise de Sistemas Biológicos<br />   3.1.-Equações principais na descrição de processos biológicos.<br />   3.2.-Caso 1:Sistemas mono-fásicos com transferência de massa e reação<br />   3.3.-Caso 2: Sistemas bi-fásicos gás-líquido com transferência de massa e reação<br />   3.4.-Caso 3: Análise de sistemas aplicada a uma técnica de biologia molecular: hibridação in situ fluorescente.<br /><br />ENGENHARIA DE SISTEMAS:<br /><br /><p>Parte 1 - Modelação e análise de modelos baseados em EDO lineares de coeficientes constantes: análise no domínio do tempo e no domínio das frequências</p><br /><ul><br /><li>Modelos de fenómenos eléctricos e mecânicos simples</li><br /><li>Modelação via equações diferenciais input/output: resposta livre e resposta forçada; cálculo das soluções via transformada de Laplace (revisão);</li><br /><li>Função de transferência e seu significado;</li><br /><li>Resposta de um sistema a sinais padrão (impulso, degrau, rampa) com particular ênfase para sistemas de 1ª e 2ª ordem;</li><br /><li>Sistemas de ordem superior; modos de um sistema; modos dominantes; aproximação por sistemas de ordem inferior;</li><br /><li>Estabilidade BIBO e sua caracterização, reposta de sistemas estáveis a um degrau unitário (ganho estático);</li><br /><li>Resposta em frequência (breve menção aos diagramas de Bode).</li><br /></ul><br /><p>Parte 2 &#8211; Alguns problemas de controlo</p><br /><ul><br /><li>Seguimento de uma referência constante<br /><ul><br /><li>Controlo em malha aberta por inversão do modelo em estado estacionário;</li><br /><li>Controlo em malha fechada (margem de ganho e frequência de travessia de fase);</li><br /><li>Controladores PID, calibração pelo método de Ziegler Nichols (em malha aberta e malha fechada);</li><br /></ul><br /></li><br /><li>Posicionamento de pólos (equação característica da malha fechada, determinação dos parâmetros de um dado controlador em função dos pólos desejados).</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p align="LEFT">No seu processo formativo o estudante participará em aulas expositivas, realizará trabalhos teóricos e práticos convenientemente acompanhados pelo docente, em particular na resolução de problemas quantitativos.</p>
+<p align="LEFT">O processo de ensino-aprendizagem estará centrado no trabalho do estudante, devendo daqui resultar uma aprendizagem mais proativa e dinâmica que estimulem o estudante a ser gradualmente mais autónomo.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho escrito: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 78.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho escrito: 42.0 horas
+
+## Fórmula de cálculo da classificação final
+A avaliação compreende:<br />-1 trabalho de grupo da componente &quot;Engenharia de Bioprocessos&quot;<br />-1 trabalho de grupo da componente &quot;Engenharia de Sistemas&quot;<br />- Testes individuais a Engenharia de Bioprocessos e a Engenharia de Sistemas<br /><br /><br />A fórmula de cálculo é:<br />Frequência a &quot;Engenharia de Bioprocessos&quot; (30%) e a &quot;Engenharia de Sistemas&quot; (30%)<br />Trabalho da componente &quot;Engenharia de Bioprocessos&quot; - peso 20%<br />Trabalho da componente &quot;Engenharia de Sistemas&quot; - peso 20%<br /><br /><span style=&quot;display: inline !important; float: none; background-color: #f5f5f5; color: #333333; font-family: Calibri,sans-serif; font-size: 12.13px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;>A classificação mínima no exame final é de 8 valores.<br /><br />Em caso de não ser obtido aproveitamento nesta UC, a nota obtida no trabalho de grupo poderá ser mantida até um limite de 2 anos. </span>
+
+## Obtenção de frequência
+Frequência das aulas, de acordo com o regulamento da FEUP.
+
+## Melhoria de classificação
+Exame Final (recurso), mantendo-se a classificação obtida no Trabalho de Grupo.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Introduction to Systems and Bioprocess Engineering
+
+## Curso responsável
+Bachelor in Bioengineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p align="LEFT">The students should acquire the necessary skills to enable them to analyse, qualitatively and quantitatively, biomedical engineering systems and biological engineering processes.</p>
+
+## Resultados de aprendizagem e competências
+<p align="LEFT">This course presents an introductory approach to Biomedical Systems Engineering and to Bioprocess Engineering. It offers a comprehensive and coherent discussion on the concepts and tools for system analysis and mathematical description of simple bioprocesses.</p>
+<p align="LEFT">It promotes a critical understanding of the advantages and disadvantages of the diferent approaches, through their application to the solution of practical problems with a degree of difficulty adjusted to the backgorund of the 2nd year students</p>
+
+## Pré-requisitos e co-requisitos
+Mathematics (basic Differential Calculus)
+
+## Programa
+BIOPROCESS ENGINEERING<br /><br />Chapt. 1 - Biological kinetics: mathematical description of simple cases<br />   1.1.-Fundamental equations: thermodynamics and reaction rate<br />   1.2.-Most common types of kinetics in biological systems<br />   1.3.-Yield factors<br />   1.4.-Microbial growth in closed systems<br />   1.5.-Kinetics of substrate consumption and product formation<br />   1.6.-Calculation of the heat generated in metabolic processes<br /><br />Chapt. 2 - Mass Balances in Steady State and Non-Steady State<br />   2.1.-General concepts: open and closed systems; continuous and discontinuous processes; equilibrium versus steady state. Non-steday state systems. Systems without reaction and with reaction.<br />   2.2.-Basic equation of mass balances<br />   2.3.-Practical rules for mass balances<br />   2.4.-Stechiometrics of biological conversion<br /><br />Chapt. 3 - Application of Process Engineering to the Analysis of Biological Systems<br />   3.1.-Main equations for the description of biological processes.<br />   3.2.-Case 1: Mono-phasic systems with mass transfer and reaction<br />   3.3.-Case 2: Bi-phasic (gas-liquid) systems with mass transfer and reaction.<br />   3.4.- Case 3: Systems analysis applied to a molecular biology technique: Fluorescence in situ hybridization.<br /><br />SYSTEMS ENGINEERING:<br /><br />Part 1    - Modeling of elementary processes; time and frequency domain analysis of ODE models<br /><ul><br /><li>Modeling of simple electrical and mechanical processes;</li><br /><li>Input-output differential equations: free response, forced response; solution computation via Laplace transforms (revisited);</li><br /><li>Transfer functions;</li><br /><li>First and second order systems response to standard input signals (impulse, step, ramp);</li><br /><li>Higher order systems; modes; dominant modes;</li><br /><li>BIBO stability;</li><br /><li>Frequency response.                 </li><br /></ul><br /><p>Part 2 &#8211; Examples of control problems</p><br /><ul><br /><li>Following a constant reference<br /><ul><br /><li>Open-loop control by inversion of the steady-state model;</li><br /><li>Closed-loop control (gain margin and phase crossing frequency);</li><br /><li>PID controllers, exclusive using the Ziegler Nichols method (open loop and closed loop);</li><br /></ul><br /></li><br /><li>Pole positioning (closed loop characteristic equation, determination of the parameters of a given driver depending on the desired poles).</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p align="LEFT">During this course, the student will participate of theoretical and practical classes accompanied by the teacher, mainly as regards the quantitative solution of problems.</p>
+<p align="LEFT">The process of teaching/learning will be focused on the student's work and it should result in a more proactive and dynamic learning that stimulates the student to be progressively more autonomous.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho escrito: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 78.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho escrito: 42.0 hours
+
+## Fórmula de cálculo da classificação final
+Student's assessment involves the participation in:<br />-1 group work (project) on &quot;Bioprocess Engineering&quot;<br />-1 group work (project) on &quot;Systems Engineering&quot;<br />-Individual tests on &quot;Bioprocess Engineering&quot; and  on &quot;Systems Engineering<br /><br />The final grade is calculated according to:<br />-test on &quot;Bioprocess Engineering&quot; (30%) and another on &quot;Systems Engineering&quot; (30%)<br />-Project work on &quot;Bioprocess Engineering&quot;: 20%<br />-Project work on &quot;Systems Engineering&quot;: 20%<br /><br /><span style=&quot;display: inline !important; float: none; background-color: #f5f5f5; color: #333333; font-family: Calibri,sans-serif; font-size: 12.13px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;>In the final exam, the minimum classification is 8.<br /><br />If the student is not approved in this UC, the group work grade can be kept for a maximum of 2 years.</span>
+
+## Obtenção de frequência
+Class attendance, according to FEUP's rules.
+
+## Melhoria de classificação
+Final Exam (repetition). The grade obtained in the group/project work is kept.
+

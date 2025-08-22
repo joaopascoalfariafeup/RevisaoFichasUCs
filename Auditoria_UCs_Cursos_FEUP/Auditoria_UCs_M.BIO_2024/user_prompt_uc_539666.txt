@@ -1,0 +1,137 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Engenharia de Sistemas de Informação
+
+## Curso responsável
+Mestrado em Bioengenharia
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Esta unidade curricular tem como principal objetivo fornecer o conhecimento e a prática para o planeamento e desenho de um sistema de informação, principalmente na sua vertente de representação e organização da informação. A compreensão e utilização eficiente do modelo relacional de dados e a sua implementação num sistema de gestão de bases de dados fazem também parte dos objetivos.<br /><br />Outro objetivo é o conhecimento e a prática da construção de uma interface adequada capaz de facilitar e dar suporte aos processos de negócio subjacentes ao sistema de informação. Essa interface deverá permitir executar o fluxo de um processo de negócio através das operações normais de pesquisa, atualização, criação e eliminação de dados do sistema.</p>
+
+## Resultados de aprendizagem e competências
+<p>Após esta unidade curricular, os estudantes  deverão ser capazes de analisar e modelar processos de negócio e as suas necessidades em termos de dados e informação, devendo também desenhar e construir esquemas relacionais eficientes, a partir dos modelos.<br /><br />Outro resultado esperado será o desenho e implementação de uma interface web, usando uma tecnologia de servidor simples, assim como das operações sobre a base de dados relacional que implementa o modelo criado e identificado a partir do processo de negócio.<br /><br /></p>
+<p class="p1">Ao completar esta unidade curricular, o aluno/a deve ser capaz de: </p>
+<div>
+<ul>
+<li>Identificar os requisitos de um sistema de informação</li>
+<li>Desenhar o modelo de dados de um sistema de informação usando diagramas de classes UML</li>
+<li>Transformar o modelo UML para o modelo relacional</li>
+<li>Criar e explorar a base de dados usando o Sistema de Gestão de Bases de Dados SQLite</li>
+<li>Elaborar interrogações à base de dados em SQL</li>
+<li>Desenhar a interface para o utilizador em HTML 5</li>
+<li>Utilizar a linguagem de scripting PHP e algumas das suas bibliotecas para construir a interface para o utilizador e a lógica de negócio da aplicação <em>web</em></li>
+<li>Definir estilos de apresentação através da utilização de CSS</li>
+<li>Compreender as questões envolvidas na implementação de sistemas de recomendação para aplicações <em>web</em></li>
+<li>Montar e executar uma aplicação <em>web</em> usando um <em>container</em> Docker</li>
+</ul>
+</div>
+
+## Pré-requisitos e co-requisitos
+<br />
+
+## Programa
+<ol><br /><li>Modelo de classes UML:</li><br /><ul><br /><li>Modelação de um sistema de informação;</li><br /><li>Classes, Associações e Atributos.</li><br /></ul><br /><li>Modelo relacional:</li><br /><ul><br /><li>Passagem do modelo UML para o modelo relacional;</li><br /><li>Relações e restrições.</li><br /></ul><br /><li>Linguagem SQL:</li><br /><ul><br /><li>Definição de bases de dados;</li><br /><li>Interrogação de bases de dados;</li><br /><li>Manipulação de bases de dados.</li><br /></ul><br /><li>Sistema de gestão de bases de dados SQLite;</li><br /><li>Sistemas de informação na web;</li><br /><li>Linguagens web do lado do cliente:</li><br /><ul><br /><li>Estrutura de uma página web usando HTML;</li><br /><li>Definição de estilos usando CSS.</li><br /></ul><br /><li>Linguagem de scripting do lado do servidor: PHP.</li><br /><li>Funcionalidades básicas do sistema de containers Docker</li><br /><li>Aplicação prática:</li><br /><ul><br /><li>Análise, desenho e implementação de um sistema de informação na web.</li><br /></ul><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>Aulas teóricas: exposição dos assuntos a tratar, acompanhados pela apresentação e discussão de exemplos práticos.</li><br /><li>Aulas práticas: resolução de exercícios práticos e apoio à realização do projecto.</li><br /><li>Avaliação: projeto e exame.</li><br /></ul>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 54.0 horas
+- Estudo autónomo: 52.0 horas
+- Frequência das aulas: 56.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>0.5 * Projeto + 0.5 * Exame<br /><br />Projeto - Classificação final do projeto<br />Exame - Classificação do exame</p>
+
+## Obtenção de frequência
+<ul><br /><li>Completar e apresentar o projeto, obtendo a classificação final mínima de 8 (em 20) valores. O projeto divide-se em duas entregas distintas:</li><br /><ul><br /><li>30%: relatório contendo os modelos UML e relacional</li><br /><li>70%: implementação de um website usando HTML, CSS e PHP</li><br /></ul><br /><li>Classificação mínima de 8 (em 20) valores no exame</li><br /></ul>
+
+## Melhoria de classificação
+<p>A melhoria de classificação do exame escrito segue as normas gerais.<br />O projeto, devido à sua extensão, só poderá ser melhorado na próxima instância da unidade curricular.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Information Systems Engineering
+
+## Curso responsável
+Master in Bioengineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>This course has as main objective to provide the knowledge and practice of the planning and design of an information system, specially its data component representation and organization.  The understanding and efficient use of the data relational model and its implementation in a database management system belong also to the course objectives.<br /><br />Another objective is the knowledge and practice of building adequate user interfaces capable of supporting the business processes underlying the information system. That interface should execute the flow of a business process through the normal search, update, create and eliminate data operations.</p>
+
+## Resultados de aprendizagem e competências
+<p>After this course, the students should be able to analyze and model business processes and their requirements in terms of data and information, and also design and build an efficient relational database schema from it.<br /><br />Another result should be the capacity to design and implement web interfaces in a simple server technology, and the database manipulation operations identified as requirements in the business process model.<br /><br /></p>
+<p class="p1">Upon completing this course, students should be able to:</p>
+<ul>
+<li>Identify the requirements of an information system</li>
+<li>Design the data model of an information system using UML class diagrams</li>
+<li>Transform an UML class diagram into a relational model</li>
+<li>Create and explore a database using the SQLite database management system</li>
+<li>Querying the database in SQL</li>
+<li>Design and implement a user interface in HTML 5</li>
+<li>Use the PHP scripting language and some of its libraries to build the user interface and business logic of the web application</li>
+<li>Define presentation styles through the use of CSS</li>
+<li>Understand the issues involved in the development of recommender systems for web applications</li>
+<li>Deploy and execute a web application using a Docker container</li>
+</ul>
+<p> </p>
+
+## Pré-requisitos e co-requisitos
+<br />
+
+## Programa
+<ol><br /><li>UML class model:</li><br /><ul><br /><li>Information systems modeling;</li><br /><li>Classes, Associations and Attributes</li><br /></ul><br /><li>Relational model:</li><br /><ul><br /><li>From the UML class model to the relational model;</li><br /><li>Relations and constraints.</li><br /></ul><br /><li>The SQL language:</li><br /><ul><br /><li>Database definition;</li><br /><li>Database querying;</li><br /><li>Database manipulation.</li><br /></ul><br /><li>The SQLite Database management system;</li><br /><li>Web information systems;</li><br /><li>Client-side web languages:</li><br /><ul><br /><li>Web page structure using HTML;</li><br /><li>Web page design using CSS.</li><br /></ul><br /><li>Server-side scripting language: PHP.</li><br /><li>Basic features of the Docker container management system</li><br /><li>Pratical application:</li><br /><ul><br /><li>Analysis, design and implementation of a web-based information system.</li><br /></ul><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>Lectures: presentation of concepts to be discussed, followed by presentation and discussion of practical examples.</li><br /><li>Practical classes: practical exercises and support to the development of the project.</li><br /><li>Evaluation: project and exam.</li><br /></ul>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho prático ou de projeto: 50.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 54.0 hours
+- Estudo autónomo: 52.0 hours
+- Frequência das aulas: 56.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>0.5 * Project + 0.5 * Exam<br /><br />Project - Final grade of the project<br />Exam - Grade of the exam</p>
+
+## Obtenção de frequência
+<ul><br /><li>Complete and present the project, obtaining a minimum final grade of 8 (out of 20). The project comprises two different deliveries:</li><br /><ul><br /><li>30%: report containing the UML and relational models</li><br /><li>70%: implementation of a website using HTML, CSS and PHP</li><br /></ul><br /><li>A minimum grade of 8 (out of 20) on the exam</li><br /></ul><br />
+
+## Melhoria de classificação
+<p>The written exam grade can be improved following the general rules.<br />The project, due to its extension, can be improved on the next ocorrence of the course.</p>
+

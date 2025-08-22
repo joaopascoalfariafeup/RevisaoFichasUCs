@@ -1,0 +1,121 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Tecnologias de Bases de Dados
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Habilitar os/as estudantes a desenvolver e administrar grandes bases de dados relacionais, nomeadamente através da modelação objeto relacional e da otimização do esquema físico e das interrogações SQL. Os/As estudantes estarão ainda habilitados a lidar com a concorrência nas transacções nas base de dados.</p>
+
+## Resultados de aprendizagem e competências
+<p>O/A estudante terá competências para: (1) Afinar o esquema físico da BD; (2) Otimizar interrogações SQL; (3) Modelar BD objeto-relacional; (4) Saber gerir situações de concorrência; (5) Recuperar e replicar dados.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Supõem-se conhecimentos de programação por objetos, álgebra relacional, bases de dados relacionais, teoria da normalização, álgebra relacional e de SQL.</p>
+
+## Programa
+<ol><br /><li>Esquema físico e afinação de BD. Armazenamento de dados e índices. Execução e otimização de interrogações.</li><br /><li>Modelação em bases de dados objeto-relacionais.</li><br /><li>Concorrência</li><br /><li>Recuperação e replicação.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas são usadas para exposição formal da matéria, acompanhada da apresentação de exemplos e da respetiva análise laboratorial. Para orientar a vertente experimental da aprendizagem, propõe-se um conjunto de exercícios de aplicação laboratorial cuja resolução se acompanha até à produção de relatórios.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho laboratorial: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 60.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação é composta por:</p>
+<ul>
+<li>2 projetos de grupo (de 2):</li>
+</ul>
+<blockquote>
+<ol>
+<li>PROJ1: Optimização de queries - nota mínima 8.</li>
+<li>PROJ2: Modelo de dados OR - nota mínima 8.</li>
+</ol>
+</blockquote>
+<ul>
+<li>Exame (EXAME): abrange toda a matéria e é realizado na época de exames (nota mínima 7,5).</li>
+</ul>
+<p><strong> Estudantes Ordinários e em regime de avaliação especial</strong> <br />Classificação Final =  25% * PROJ1 + 25% * PROJ2 + 50% * EXAME</p>
+
+## Obtenção de frequência
+<p>Presença obrigatória em 75% das aulas. Aprovação de acordo com a regra de cáculo (ver fórmula).</p>
+
+## Melhoria de classificação
+<p>A componente de exame pode ser melhorada na mesma edição, no exame de recurso. As componente Projeto (PROJ1 e PROJ2) não é passível de melhoria no mesmo ano letivo, podendo, porém, ser melhoradas na edição seguinte da unidade curricular.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Database Technologies
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>The students should be able to design and manage large relational databases through object relational modelling and the optimization of the physical schema and the SQL queries. Students will also be able to deal with concurrency in database transactions</p>
+
+## Resultados de aprendizagem e competências
+<p>The student will have the skills to (1) Refine the DB's physical schema, (2) Optimise SQL queries, (3) Model object-relational DBs, (4) Know how to manage concurrency situations, (5) Recover and replicate data.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Students should be acquainted with object programming, relational algebra, relational databases, normalisation theory, relational algebra and SQL.</p>
+
+## Programa
+<ol><br /><li>Physical schema and database tuning. Storing and indexing data. Query execution and optimisation.</li><br /><li>Modelling in object-relational databases.</li><br /><li>Recover and replication.</li><br /><li>Concurrency.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Classes are used to formally expound the subject, accompanied by presenting examples and the respective laboratory analyses. To orientate the experimental side of learning, a set of laboratory application exercises is proposed, the resolution of which is followed through to the production of reports.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Trabalho laboratorial: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 60.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The assessment consists of:<br /><br />    2 group projects (groups of 2):<br /><br />        PROJ1: Query optimisation - minimum mark 8.<br />        PROJ2: OR data model - minimum mark 8.<br /><br />    Exam (EXAM): covers the whole syllabus and is taken at exam time (minimum mark 7.5).<br /><br />Regular and special assessment students<br />Final Grade = 25% * PROJ1 + 25% * PROJ2 + 50% * EXAM.</p>
+
+## Obtenção de frequência
+<p>Compulsory attendance at 75% of classes. Approval according to the calculation rule (see formula).</p>
+
+## Melhoria de classificação
+<p>The exam component can be improved in the same edition, in the appeal exam. The Project components (PROJ1 and PROJ2) cannot be improved in the same academic year but can be improved in the next edition of the course.</p>
+

@@ -1,0 +1,110 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Introdução à análise de dados em Python
+
+## Curso responsável
+Introdução à análise de dados em Python
+
+## Créditos ECTS
+1,5
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Procura-se que os estudantes adquiram competências transversais na resolução de problemas de gestão e análise de dados com recurso à linguagem Python e às suas bibliotecas, nomeadamente utilizando séries de dados disponíveis na Pordata e no INE.</p>
+
+## Resultados de aprendizagem e competências
+<p>Pretende-se que os estudantes desenvolvam as seguintes competências no final da UC:</p>
+<ul>
+<li>Utilização de Python e suas bibliotecas de suporte à análise de dados.</li>
+<li>Compreensão dos conceitos essenciais da análise e gestão de dados.</li>
+<li>Resolução de problemas envolvendo um grande volume de dados, nomeadamente utilizando séries de dados disponíveis na Pordata e no INE.</li>
+</ul>
+
+## Programa
+<p>Nesta Unidade Curricular procura-se que os estudantes adquiram competências transversais na resolução de problemas de gestão e análise de dados com recurso à linguagem Python e às suas bibliotecas. <br />O programa, estruturado em cinco módulos sequenciais, prevê a abordagem dos seguintes tópicos:</p>
+<ul>
+<li>Programação em Python.</li>
+<li>Utilização de bibliotecas de Python (pandas, numpy, matplotlib, etc).</li>
+<li>Interface Python com folhas de cálculo (MS-Excel).</li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A lecionação desta unidade curricular baseia-se numa abordagem de elearning suportada na plataforma Moodle. Estão previstos os seguintes tipos de atividades:</p>
+<p>1- Visualização de vídeos e consulta de documentos sobre os diferentes tópicos, bem como o acesso a referências bibliográficas e links diversos;</p>
+<p>2- Resolução de exercícios propostos;</p>
+<p>3- Avaliação distribuída (online) sobre os tópicos apresentados</p>
+<p>4- Sessões de apoio e feedback (opcionais);</p>
+<p>5- Avaliação final</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 28.5 horas
+- Frequência das aulas: 12.0 horas
+
+## Fórmula de cálculo da classificação final
+<ul><br /><li>Os métodos de avaliação terão por base duas <u>componentes</u>:<br /><ul><br /><li>Uma componente distribuída, sob a forma de resposta a questões (quizzes) no moodle: ao longo da unidade curricular, e por forma a poderem avançar nos diferentes módulos da UC, os estudantes terão que ir respondendo a conjuntos de questões (quizzes); os estudantes serão admitidos ao módulo &#8220;n+1&#8221;, caso tenham obtido uma classificação superior a 85% no teste de transição &#8220;n -&gt; n+1&#8221;.</li><br /><li>Uma componente presencial, sob a forma de realização de um exame com duração de 1h30m em sala de computadores na FEUP</li><br /></ul><br /></li><br /><li><u>Fórmula de cálculo da classificação final </u>= 100% exame</li><br /><li>De acordo com o GR 02/11/2020, Cap II, art 13º, ponto 1, a classificação final será expressa numa <u>escala numérica</u> inteira de 0 a 20 valores.</li><br /></ul>
+
+## Obtenção de frequência
+classificação superior a 85% no teste de transição
+
+## Melhoria de classificação
+Está prevista a melhoria de classificação para os estudantes que o requeiram.<br />Nestes casos, a avaliação será realizada na época de recurso, via exame em que o mesmo terá a ponderação de 100%.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Introduction to data analysis in Python
+
+## Curso responsável
+Introduction to data analysis in Python
+
+## Créditos ECTS
+1,5
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Students are expected to acquire transversal skills in solving management problems and data analysis using the Python language and its libraries, namely using data series available at Pordata and INE.
+
+## Resultados de aprendizagem e competências
+It is intended that students develop the following skills at the end of the UC:<br /><br /><br /><ul><br /><li>Use of Python and its data analysis support libraries.</li><br /><li>Understanding the essential concepts of data analysis and management.</li><br /><li>Solving problems involving a large volume of data, namely using data series available at Pordata and INE.</li><br /></ul>
+
+## Programa
+In this Curricular Unit, students are expected to acquire transversal skills in solving management problems and data analysis using the Python language and its libraries. <br />The program, structured in five sequential modules, provides for the approach of the following topics:<br /><br /><br /><ul><br /><li>Python programming.</li><br /><li>Use of Python libraries (pandas, numpy, matplotlib, etc).</li><br /><li>Python interface with spreadsheets (MS-Excel).</li><br /></ul>
+
+## Métodos de ensino e atividades de aprendizagem
+This curricular unit is based on an elearning approach supported by the Moodle platform. The following types of activities are planned:<br /><br />1- Viewing videos and consulting documents on different topics, as well as accessing bibliographic references and various links;<br /><br />2- Resolution of proposed exercises;<br /><br />3- Distributed assessment (online) on the topics presented<br /><br />4- Support and feedback sessions (optional);<br /><br />5- Final assessment
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 28.5 hours
+- Frequência das aulas: 12.0 hours
+
+## Fórmula de cálculo da classificação final
+<ul><br /><li>The assessment methods will be based on two components:</li><br /><ul><br /><li>A distributed component, in the form of answers to questions (quizzes) in moodle: throughout the curricular unit, and in order to advance in the different modules of the UC, students will have to answer sets of questions (quizzes); students will be admitted to the &#8220;n+1&#8221; module, if they have obtained a score above 85% in the &#8220;n -&gt; n+1&#8221; transition test.</li><br /><li>A face-to-face component, in the form of an exam lasting 1h30m in a computer room at FEUP</li><br /></ul><br /><li>Final grade calculation formula = 100% exam</li><br /><li>According to GR 02/11/2020, Cap II, art 13, point 1, the final classification will be expressed in an integer numerical scale from 0 to 20 values.</li><br /></ul>
+
+## Obtenção de frequência
+rating greater than 85% in the transition test
+

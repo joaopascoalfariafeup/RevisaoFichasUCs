@@ -1,0 +1,316 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Instrumentação e Medição
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p style="text-align: justify;">A unidade curricular de Instrumentação e Medição tem como principais objetivos: i) proporcionar às/aos estudantes uma compreensão abrangente dos princípios de medição e da sua aplicação na engenharia, promovendo o desenvolvimento de competências fundamentais para a medição adequada de parâmetros de sinais elétricos e de quantidades físicas; e ii) dotar as/os estudantes dos conhecimentos necessários para projetar e implementar soluções de aquisição de dados para sistemas de medição de precisão.</p>
+<p style="text-align: justify;">Em certa medida, pretende-se instituir a avaliação da qualidade da medição como uma prática padrão na apresentação de resultados experimentais, recorrendo à aplicação dos parâmetros de incerteza descritos nos manuais de operação sempre que forem utilizados instrumentos de medição certificados. O intuito é incutir boas práticas na medição, quantificando sistematicamente as incertezas associadas e, por conseguinte, fomentar o pensamento analítico e o rigor na apresentação dos resultados experimentais. Por outro lado, é proposta uma transição da perspetiva de utilização para a realidade de conceção de sistemas de medição, em que as/os estudantes são introduzidos às técnicas de projeto aplicadas ao desenvolvimento e implementação de instrumentos de medição. Esta vertente pedagógica sensibiliza para as fontes intrínsecas de incerteza introduzidas pelos circuitos eletrónicos que constituem os instrumentos, bem como os métodos para as mitigar tanto na fase de projeto como durante a operação.</p>
+<p style="text-align: justify;">Em suma, pretende-se: consciencializar que o resultado de uma medição só tem significado quando acompanhado da respetiva indicação de incerteza associada; e dotar as/os estudantes das ferramentas necessárias para essa análise. Além disso, procura-se aprofundar a compreensão sobre as arquiteturas de medição mais adequadas a cada tipo de mensuranda, identificar a origem de incertezas nesses circuitos, examinar como se propagam e avaliar o seu impacto no resultado da medição.</p>
+
+## Resultados de aprendizagem e competências
+<p style="text-align: justify;">Os resultados de aprendizagem nesta Unidade Curricular são avaliados pela capacidade de:</p>
+<ul style="padding-left: 20px;">
+<li style="text-align: justify; padding-left: 5px;">Analisar e explicar os princípios de funcionamento de dispositivos electrónicos em contextos típicos de medição e instrumentação;</li>
+<li style="text-align: justify; padding-left: 5px;">Utilizar corretamente a instrumentação eletrónica em medições experimentais de grandezas e sinais eléctricos, reconhecendo e avaliando possíveis fontes de erro;</li>
+<li style="text-align: justify; padding-left: 5px;">Aplicar conhecimentos sobre transdutores e instrumentos de medição de grandezas não elétricas;</li>
+<li style="text-align: justify; padding-left: 5px;">Interpretar as principais especificações de circuitos e componentes da cadeia de medição;</li>
+<li style="text-align: justify; padding-left: 5px;">Caracterizar um problema de medição e preparar requisitos e especificações técnicas;</li>
+<li style="text-align: justify; padding-left: 5px;">Conceptualizar, projetar, implementar e validar sistemas de medição e instrumentação para aplicações específicas;</li>
+<li style="text-align: justify; padding-left: 5px;">Organizar, preparar e apresentar documentação técnica relativa a um método ou instrumento e aplicar métodos de avaliação da qualidade das medições.</li>
+</ul>
+<p style="text-align: justify;">Para atingir o objetivo acima referido, as/os estudantes deverão desenvolver as competências a seguir descritas.</p>
+<ul style="padding-left: 20px;">
+<li style="text-align: justify; padding-left: 5px;">Competências técnicas específicas:</li>
+<ul style="padding-left: 20px;">
+<li style="text-align: justify; padding-left: 5px;">Dominar conceitos técnicos de medição e instrumentação;</li>
+<li style="text-align: justify; padding-left: 5px;">Desenvolver capacidades de raciocínio para analisar e resolver problemas de medição de forma sistemática e rigorosa;</li>
+<li style="text-align: justify; padding-left: 5px;">Desenvolver competências na conceção, implementação e teste de instrumentação para aplicações específicas.</li>
+</ul>
+<li style="text-align: justify; padding-left: 5px;">Outras competências:</li>
+<ul style="padding-left: 20px;">
+<li style="text-align: justify; padding-left: 5px;">Desenvolver competências de trabalho experimental em equipa através de trabalhos laboratoriais e de projeto;</li>
+<li style="text-align: justify; padding-left: 5px;">Desenvolver a capacidade de interpretar e aplicar informação técnica das "datasheets" de componentes no projeto e na resolução de problemas;</li>
+<li style="text-align: justify; padding-left: 5px;">Desenvolver competências de comunicação escrita e oral com rigor técnico.</li>
+</ul>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p style="text-align: justify;">Conhecimentos básicos de análise de circuitos elétricos e eletrónica fundamental.</p>
+
+## Programa
+<p style="text-align: justify;">Os conteúdos programáticos encontram-se estruturados nas quatro componentes seguintes.</p>
+<ul style="margin: 0; padding: 0;">
+<li style="text-align: justify; list-style-type: none; font-variant: small-caps;">Parte I. Medição e Incerteza</li>
+</ul>
+<p style="text-align: justify;">Esta primeira componente centra-se nos erros fundamentais inerentes a qualquer medição, enfatizando a sua aleatoriedade estatística. Introduz o conceito de "incerteza" e o seu papel crítico em aplicações de engenharia. A medição e a incerteza são apresentadas como uma relação inseparável de ação-reação, proporcionando às/aos estudantes ferramentas para aplicar sistematicamente a análise de incertezas em experiências laboratoriais. Esta abordagem promove a consciencialização das limitações da medição e incentiva a interpretação crítica dos resultados.</p>
+<ul style="padding-left: 20px;">
+<li style="text-align: justify; padding-left: 5px;">Perspetiva Histórica da Metrologia</li>
+<li style="text-align: justify; padding-left: 5px;">Sistema Internacional de Unidades (SI)</li>
+<li style="text-align: justify; padding-left: 5px;">Conceitos e Terminologias Metrológicas</li>
+<li style="text-align: justify; padding-left: 5px;">Qualidade da Medição</li>
+</ul>
+<ul style="margin: 0; padding: 0;">
+<li style="text-align: justify; list-style-type: none; font-variant: small-caps;">Parte II. Cadeia de Aquisição de Sinais e Dados</li>
+</ul>
+<p style="text-align: justify;">Esta segunda, e maior, componente fornece uma base abrangente no processo de captura, condicionamento e conversão de sinais eléctricos em dados digitais. Engloba os blocos construtivos fundamentais dos sistemas de aquisição de dados. Estes incluem os circuitos analógicos para interfaces de entrada, circuitos de condicionamento de sinais, conversores analógico-digitais (ADCs) e técnicas de processamento de sinais digitais. Enfatizam-se as caraterísticas de desempenho dos ADCs, tais como resolução, taxa de amostragem, ruído de quantização, arquitetura, bem como o impacto do fenómeno  "aliasing" e a importância dos filtros "anti-aliasing". Adicionalmente, esta componente visa dotar as(os) estudantes de uma compreensão profunda dos circuitos analógicos essenciais utilizados em instrumentação, tais como amplificadores operacionais e de instrumentação, filtros, multiplexadores e interfaces digitais, com especial atenção para as considerações de projeto com amplificadores de instrumentação de precisão, técnicas de redução de ruído, métodos de isolamento elétrico e outras questões de integridade de sinal.</p>
+<ul style="padding-left: 20px;">
+<li style="text-align: justify; padding-left: 5px;">Introdução aos Sinais Eléctricos</li>
+<li style="text-align: justify; padding-left: 5px;">Aquisição de Sinais</li>
+<ul style="padding-left: 20px;">
+<li style="text-align: justify; padding-left: 5px;">Amostragem e reconstrução de sinais</li>
+<li style="text-align: justify; padding-left: 5px;">Teorema de amostragem de Nyquist-Shannon / sobreposição espetral ("aliasing")</li>
+<li style="text-align: justify; padding-left: 5px;">Quantização, erro de quantização, codificação</li>
+<li style="text-align: justify; padding-left: 5px;">Caracterização do desempenho do ADC</li>
+</ul>
+<li style="text-align: justify; padding-left: 5px;">Arquiteturas de Conversores Digital-Analógicos</li>
+<li style="text-align: justify; padding-left: 5px;">Arquitecturas de Conversores Analógico-Digitais</li>
+<li style="text-align: justify; padding-left: 5px;">Condicionamento de Sinal</li>
+<ul style="padding-left: 20px;">
+<li style="text-align: justify; padding-left: 5px;">Configurações fundamentais de circuitos</li>
+<li style="text-align: justify; padding-left: 5px;">Amplificador de instrumentação</li>
+<li style="text-align: justify; padding-left: 5px;">Classificação de amplificadores / aplicações especializadas</li>
+<li style="text-align: justify; padding-left: 5px;">Filtros analógicos activos</li>
+<li style="text-align: justify; padding-left: 5px;">Ruído eletrónico</li>
+<li style="text-align: justify; padding-left: 5px;">Compatibilidade electromagnética</li>
+</ul>
+</ul>
+<ul style="margin: 0; padding: 0;">
+<li style="text-align: justify; list-style-type: none; font-variant: small-caps;">Parte III. Instrumentação Eletrónica</li>
+</ul>
+<p style="text-align: justify;">Partindo dos princípios básicos do condicionamento de sinais para o contexto da medição, esta secção centra-se no estudo de instrumentos digitais normalmente utilizados para medir grandezas eléctricas. Estes instrumentos incluem, entre outros, multímetros para medir tensão, resistência e outras propriedades eléctricas, bem como analisadores de formas de onda, tais como osciloscópios, que são utilizados para medir caraterísticas de sinais como valores pico-a-pico e RMS de sinais de tensão periódicos. O objetivo é explorar estes instrumentos em detalhe, realçando os seus princípios de funcionamento, considerações de projeto e capacidades de medição. Como resultado, as/os estudantes adquirem uma compreensão mais profunda de como operar esses instrumentos de forma eficaz e obtêm referências de circuitos para projetos futuros.</p>
+<ul style="padding-left: 20px;">
+<li style="text-align: justify; padding-left: 5px;">Multímetro Digital</li>
+<li style="text-align: justify; padding-left: 5px;">Contadores Digitais de Potência e de Energia</li>
+<li style="text-align: justify; padding-left: 5px;">Osciloscópios</li>
+<li style="text-align: justify; padding-left: 5px;">Contadores Digitais</li>
+<li style="text-align: justify; padding-left: 5px;">Medidores de Impedância</li>
+</ul>
+<ul style="margin: 0; padding: 0;">
+<li style="text-align: justify; list-style-type: none; font-variant: small-caps;">Parte IV. Sensores, Transdutores e Sistemas de Medição</li>
+</ul>
+<p style="text-align: justify;">Esta secção aborda a medição de grandezas não elétricas e introduz uma vasta gama de transdutores. Estes são estudados em pormenor em termos dos mecanismos físicos fundamentais. Adicionalmente, a aplicação destes dispositivos é aprofundada através do estudo de interfaces de circuitos eletrónicos apropriados e de condicionamento específico para cada transdutor.</p>
+<ul style="padding-left: 20px;">
+<li style="text-align: justify; padding-left: 5px;">Dispositivos Transdutores</li>
+<ul style="padding-left: 20px;">
+<li style="text-align: justify; padding-left: 5px;">Termoresistivos, Termoeléctricos, Eletromecânicos, Fotoelétricos, Eletromagnéticos, Eletroquímicos</li>
+</ul>
+<li style="text-align: justify; padding-left: 5px;">Comunicação Digital com Transdutores</li>
+<li style="text-align: justify; padding-left: 5px;">Exemplos de Projectos Completos de Sistemas/Circuitos: do Transdutor ao Indicador Digital</li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p style="text-align: justify;">Os métodos de ensino e as atividades de aprendizagem desta disciplina integram a fundamentação teórica com vista à aplicação prática direta. Esta abordagem permite uma compreensão mais sólida dos conceitos fundamentais, através da realização de experiências práticas que enfatizam a aplicação de técnicas de medição e a conceção de vários sistemas de medição, tanto de grandezas elétricas como de grandezas não elétricas.</p>
+<p style="text-align: justify;">Na componente de Medição, as aulas teóricas fornecem uma base estruturada que introduz os princípios básicos, as normas metrológicas e os métodos analíticos necessários para realizar medições precisas e interpretar dados. Na componente de Instrumentação, são estudados os princípios de funcionamento dos sistemas de medição e as tipologias dos circuitos eletrónicos mais comuns, aprofundando detalhes de implementação e introduzindo exemplos de aplicação prática no contexto da engenharia. A interatividade com as/os estudantes é promovida em todas as vertentes, em particular nas mais relacionadas com as limitações e problemas comuns das vários implementações práticas. Sob a forma de uma discussão aberta, as/os estudantes são desafiados a analisar as soluções mais típicas, promovendo assim o pensamento crítico sobre os detalhes dos temas abordados.</p>
+<p style="text-align: justify;">As aulas práticas têm como objetivo complementar e reforçar a estrutura teórica, envolvendo as/os estudantes em procedimentos experimentais com recurso a equipamento laboratorial. Através destas atividades práticas, as/os estudantes desenvolvem competências essenciais em calibração, aquisição de dados e análise de incertezas com instrumentos de laboratório. As/os estudantes também participam em vários projetos de implementação de sistemas de medição, colaborando na conceção e execução de experiências, na interpretação de resultados e na avaliação crítica das limitações de medição. Esta abordagem equilibrada permite dotar as/os estudantes dos conhecimentos e da proficiência técnica necessários para uma aplicação eficaz na engenharia e na investigação. A eficácia da integração da teoria e da experimentação prática é avaliada através de várias sessões de avaliação prática em aula com a/o docente, da produção de documentação técnica pelas/os estudantes e da apresentação oral do trabalho aos seus pares.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Trabalho laboratorial: 18.0 %
+- Exame: 40.0 %
+- Trabalho prático ou de projeto: 42.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 80.0 horas
+- Frequência das aulas: 26.0 horas
+- Trabalho laboratorial: 26.0 horas
+- Elaboração de projeto: 36.0 horas
+
+## Fórmula de cálculo da classificação final
+<p style="text-align: justify;">A classificação final (<em>C</em>), na escala de 20 valores, é calculada da seguinte forma:</p>
+<p style="text-align: center;"><em>C</em> = 0,40 × <em>E</em> + 0,60 × min{ <em>P</em>, <em>E</em> + 4 }</p>
+<p style="text-align: justify;">onde:</p>
+<ul>
+<li style="text-align: justify;"><em>E</em> é a nota de exame (na escala de 20,0 valores);</li>
+<li style="text-align: justify;"><em>P</em> corresponde ao resultado das avaliações laboratoriais (na escala de 20,0 valores);</li>
+</ul>
+<p style="text-align: justify;">sendo <em>P</em> determinado por:</p>
+<p style="text-align: center;"><em>P</em> = 0.15 × ( LAB<sub>1</sub> + LAB<sub>2</sub> ) + 0,35 × ( PRJ<sub>1</sub> + PRJ<sub>2</sub> )</p>
+<p style="text-align: justify;">em que:</p>
+<ul>
+<li style="text-align: justify;">LAB<sub>1</sub> e LAB<sub>2</sub> correspondem aos resultados (em 20,0 valores cada) da avaliação da primeira e segunda partes do trabalho laboratorial proposto, respetivamente abrangendo medições/incertezas e transdutores;</li>
+<li style="text-align: justify;">PRJ<sub>1</sub> e PRJ<sub>2</sub> são as classificações (em 20,0 valores cada) obtidas nos dois projetos.</li>
+</ul>
+
+## Obtenção de frequência
+<p style="text-align: justify;">A frequência das aulas práticas é obrigatória e está sujeita ao número máximo de faltas admissível.</p>
+<p style="text-align: justify;">A justificação de uma falta não anula a contagem do trabalho para efeitos de classificação.</p>
+<p style="text-align: justify;">Estudantes que tenham frequentado aulas laboratoriais em anos letivos anteriores podem manter essa componente de classificação. Esta opção é automaticamente concedida se não se inscreverem em nenhuma aula de laboratório. Caso contrário, a classificação laboratorial anterior será anulada de forma definitiva.</p>
+
+## Melhoria de classificação
+<p style="text-align: justify;">Componente teórica: através da realização de exame de avaliação em época própria para o efeito.</p>
+<p style="text-align: justify;">Componente prática: através da realização de todas as atividades laboratoriais no ano letivo seguinte, em aula, com obrigatoriedade de inscrição numa turma prática.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Instrumentation and Measurement
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p style="text-align: justify;">The objective of the Instrumentation and Measurement course is twofold. First, it provides students with a comprehensive understanding of measurement principles and their application in engineering, developing fundamental skills for the proper measurement of electrical signal parameters and physical quantities. Second, it provides students with the necessary tools and knowledge to design and implement effective data acquisition solutions for precision measurement systems.</p>
+<p style="text-align: justify;">To some extent, a key goal is to establish measurement quality assessment as a standard practice in the presentation of experimental results. This includes applying uncertainty parameters from operation manuals whenever certified instruments are used. The objective is to instill good measurement practices by systematically quantifying the associated uncertainties, thereby fostering analytical thinking and rigor in the presentation of experimental results. Additionally, a paradigm shift is proposed, i.e. students transition from a user-oriented perspective to that of a designer, where circuit design techniques are introduced for the development and implementation of measurement instruments. This pedagogical approach provides students with invaluable insights into the intrinsic sources of uncertainty introduced by the electronic circuits that make up these instruments, as well as the methods for mitigating them, both during the design phase and in operation.</p>
+<p style="text-align: justify;">In short, the idea is to raise awareness of the fact that the result of a measurement is only meaningful when accompanied by its associated uncertainty, and to equip students with the necessary prerequesites for this analysis. Additionally, the course seeks to deepen understanding of the most suitable measurement architectures for each type of measurand, identify sources of uncertainty in these circuits, examine their propagation, and assess their impact on the final result.</p>
+
+## Resultados de aprendizagem e competências
+<p style="text-align: justify;">Learning outcomes in this Curricular Unit are assessed by the ability to:</p>
+<ul style="padding-left: 20px;">
+<li style="text-align: justify; padding-left: 5px;">Analyze and explain the operating principles of electronic devices in typical measurement and instrumentation settings;</li>
+<li style="text-align: justify; padding-left: 5px;">Properly use electronic instrumentation in experimental measurements of electrical quantities and signals, recognizing and evaluating possible sources of error;</li>
+<li style="text-align: justify; padding-left: 5px;">Apply knowledge of transducers and instruments for measuring non-electrical quantities;</li>
+<li style="text-align: justify; padding-left: 5px;">Interpret key specifications of circuits and components in the measurement chain;</li>
+<li style="text-align: justify; padding-left: 5px;">Characterize a measurement problem and prepare requirements and technical specifications;</li>
+<li style="text-align: justify; padding-left: 5px;">Conceptualize, design, implement, and validate measurement systems and instrumentation for specific applications;</li>
+<li style="text-align: justify; padding-left: 5px;">Organize, prepare and present technical documentation related to a method or instrument and apply methods for evaluating the quality of measurements.</li>
+</ul>
+<p style="text-align: justify;">To achieve the above goal, students should develop the skills outlined below.</p>
+<ul style="padding-left: 20px;">
+<li style="text-align: justify; padding-left: 5px;">Specific technical skills:</li>
+<ul style="padding-left: 20px;">
+<li style="text-align: justify; padding-left: 5px;">Master technical concepts of measurement and instrumentation;</li>
+<li style="text-align: justify; padding-left: 5px;">Develop reasoning skills to analyze and solve measurement problems systematically and accurately;</li>
+<li style="text-align: justify; padding-left: 5px;">Develop skills in designing, implementing, and testing instrumentation for specific applications.</li>
+</ul>
+<li style="text-align: justify; padding-left: 5px;">Other skills:</li>
+<ul style="padding-left: 20px;">
+<li style="text-align: justify; padding-left: 5px;">Develop experimental teamwork skills through laboratory and project work;</li>
+<li style="text-align: justify; padding-left: 5px;">Develop the ability to interpret and apply technical data from component datasheets in design and troubleshooting;</li>
+<li style="text-align: justify; padding-left: 5px;">Develop written and oral communication skills with technical rigor.</li>
+</ul>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p style="text-align: justify;">Basic knowledge of electrical circuit analysis and fundamental electronics.</p>
+
+## Programa
+<p style="text-align: justify;">The curriculum is structured into the following four primary components.</p>
+<ul style="margin: 0; padding: 0;">
+<li style="text-align: justify; list-style-type: none; font-variant: small-caps;">Part I. Measurement and Uncertainty</li>
+</ul>
+<p style="text-align: justify;">This first component focuses on the fundamental errors inherent in any measurement, emphasizing their statistical randomness. It introduces the concept of "uncertainty" and its critical role in engineering applications. Measurement and uncertainty are presented as an inseparable action-reaction relationship, providing students with tools to systematically apply in the analysis of uncertainty in laboratory experiments. This approach promotes awareness of measurement limitations and encourages critical interpretation of data.</p>
+<ul style="padding-left: 20px;">
+<li style="text-align: justify; padding-left: 5px;">Historical Perspective of Metrology</li>
+<li style="text-align: justify; padding-left: 5px;">International System of Units (SI)</li>
+<li style="text-align: justify; padding-left: 5px;">Metrological Concepts and Terminologies</li>
+<li style="text-align: justify; padding-left: 5px;">Measurement Quality</li>
+</ul>
+<ul style="margin: 0; padding: 0;">
+<li style="text-align: justify; list-style-type: none; font-variant: small-caps;">Part II. Signal and Data Acquisition Chain</li>
+</ul>
+<p style="text-align: justify;">This second, and largest, component provides a comprehensive foundation in the process of capturing, conditioning, and converting electrical signals into digital data. It encompasses the fundamental building blocks of data acquisition systems. These include analog circuitry for input interfaces, signal conditioning circuits, analog-to-digital converters (ADCs), and digital signal processing techniques. Emphasis is placed on the performance characteristics of ADCs, such as resolution, sampling rate, quantization noise, architecture, as well as the impact of aliasing and the importance of anti-aliasing filters. Additionally, this component aims to provide students with a profound comprehension of essential analog circuits employed in instrumentation, such as operational and instrumentation amplifiers, filters, multiplexers, and digital interfaces, with special attention given to the design considerations of precision instrumentation amplifiers, noise reduction techniques, electrical isolation methods, and other signal integrity issues.</p>
+<ul style="padding-left: 20px;">
+<li style="text-align: justify; padding-left: 5px;">Introduction to Electrical Signals</li>
+<li style="text-align: justify; padding-left: 5px;">Signal Acquisition</li>
+<ul style="padding-left: 20px;">
+<li style="text-align: justify; padding-left: 5px;">Sampling and reconstruction of signals</li>
+<li style="text-align: justify; padding-left: 5px;">Spectral overlapping (aliasing)</li>
+<li style="text-align: justify; padding-left: 5px;">Quantization, quantization error, encoding</li>
+<li style="text-align: justify; padding-left: 5px;">ADC performance characterization</li>
+</ul>
+<li style="text-align: justify; padding-left: 5px;">Digital-to-Analog Converter Architectures</li>
+<li style="text-align: justify; padding-left: 5px;">Analog-to-Digital Converter Architectures</li>
+<li style="text-align: justify; padding-left: 5px;">Signal Conditioning</li>
+<ul style="padding-left: 20px;">
+<li style="text-align: justify; padding-left: 5px;">Fundamental circuit configurations</li>
+<li style="text-align: justify; padding-left: 5px;">Instrumentation amplifiers</li>
+<li style="text-align: justify; padding-left: 5px;">Specialized amplifiers / applications</li>
+<li style="text-align: justify; padding-left: 5px;">Active analog filters</li>
+<li style="text-align: justify; padding-left: 5px;">Electronic noise</li>
+<li style="text-align: justify; padding-left: 5px;">Electromagnetic compatibility</li>
+</ul>
+</ul>
+<ul style="margin: 0; padding: 0;">
+<li style="text-align: justify; list-style-type: none; font-variant: small-caps;">Part III. Electronic Instrumentation</li>
+</ul>
+<p style="text-align: justify;">Moving from the basic principles of signal conditioning to the measurement context, this section focuses on the study of digital instruments typically used to measure electrical quantities. These instruments include, but are not limited to, multimeters for measuring voltage, resistance, and other electrical properties, as well as waveform analyzers such as oscilloscopes, which are used to measure signal characteristics like peak-to-peak and RMS values of periodic voltage signals. The goal is to explore these instruments in depth, emphasizing their operating principles, design considerations, and measurement capabilities. As a result, students will gain a deeper understanding of how to operate these instruments effectively and obtain circuit references for future designs.</p>
+<ul style="padding-left: 20px;">
+<li style="text-align: justify; padding-left: 5px;">Digital Multimeter</li>
+<li style="text-align: justify; padding-left: 5px;">Power and Energy Meters</li>
+<li style="text-align: justify; padding-left: 5px;">Oscilloscopes</li>
+<li style="text-align: justify; padding-left: 5px;">Digital Counters</li>
+<li style="text-align: justify; padding-left: 5px;">Impedance Meters</li>
+</ul>
+<ul style="margin: 0; padding: 0;">
+<li style="text-align: justify; list-style-type: none; font-variant: small-caps;">Part IV. Sensors, Transducers and Measurement Systems</li>
+</ul>
+<p style="text-align: justify;">This section covers the measurement of non-electrical quantities and introduces a wide range of transducers. These are studied in detail with respect to the underlying physical mechanisms. In addition, the application of such devices is explored through the study of appropriate electronic circuit interfaces and the proper conditioning for each transducer.</p>
+<ul style="padding-left: 20px;">
+<li style="text-align: justify; padding-left: 5px;">Transducer Devices</li>
+<ul style="padding-left: 20px;">
+<li style="text-align: justify; padding-left: 5px;">Thermoresistive, Thermoelectric, Electromechanical, Photoelectric, Electromagnetic. Electrochemical</li>
+</ul>
+<li style="text-align: justify; padding-left: 5px;">Digital Communication with Transducers</li>
+<li style="text-align: justify; padding-left: 5px;">Examples of Complete System/Circuit Designs: From the Transducer to Digital Display</li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+<p style="text-align: justify;">The teaching methods and learning activities in this course combine theoretical instruction with direct practical application. This approach allows for a solid understanding of the fundamental concepts by carrying out practical experiments that emphasize the application of measurement techniques and the design of various measurement systems, both for electrical and non-electrical quantities.</p>
+<p style="text-align: justify;">In the Measurement component, lectures provide a structured foundation that introduces the basic principles, metrological standards and analytical methods needed to take accurate measurements and interpret data. In the Instrumentation component, the operating principles of measurement systems and the most common types of electronic circuits are studied, delving into implementation details and introducing examples of practical application in the context of engineering. Interactivity with the students is promoted in all topics, particularly those related to the limitations and common problems of the various practical implementations. In the form of an open discussion, students are challenged to analyze the most typical solutions, thus promoting critical thinking about the details of the topics covered.</p>
+<p style="text-align: justify;">Practical classes are designed to complement and reinforce the theoretical framework by involving students in experimental procedures using laboratory equipment. Through these practical activities, students develop essential skills in calibration, data acquisition and uncertainty analysis with laboratory instrumentation. Students also participate collaboratively in various measurement system implementation projects, working on the design and execution of experiments, the interpretation of results and the critical evaluation of measurement limitations. This balanced approach equips students with the knowledge and technical skills required for effective application in engineering and research. The effectiveness of the integration of theory and practical experimentation is assessed through various practical assessment sessions in class with the instructor, the production of technical documentation by the students and the oral presentation of the work to their peers.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Trabalho laboratorial: 18.0 %
+- Exame: 40.0 %
+- Trabalho prático ou de projeto: 42.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 80.0 hours
+- Frequência das aulas: 26.0 hours
+- Trabalho laboratorial: 26.0 hours
+- Elaboração de projeto: 36.0 hours
+
+## Fórmula de cálculo da classificação final
+<p style="text-align: justify;">The final classification (<em>C</em>) out of 20 is determined as follows:</p>
+<p style="text-align: center;"><em>C</em> = 0.40 × <em>E</em> + 0.60 × min{ <em>P</em>, <em>E</em> + 4 }</p>
+<p style="text-align: justify;">where:</p>
+<ul>
+<li style="text-align: justify;"><em>E</em> is the exam grade (out of 20.0);</li>
+<li style="text-align: justify;"><em>P</em> corresponds to the total laboratory score (out of 20.0);</li>
+</ul>
+<p style="text-align: justify;">with <em>P</em> determined by:</p>
+<p style="text-align: center;"><em>P</em> = 0.15 × ( LAB<sub>1</sub> + LAB<sub>2</sub> ) + 0.35 × ( PRJ<sub>1</sub> + PRJ<sub>2</sub> )</p>
+<p style="text-align: justify;">in which:</p>
+<ul>
+<li style="text-align: justify;">LAB<sub>1</sub> and LAB<sub>2</sub> correspond to the evaluation results (out of 20.0 each) of the first and second parts of the proposed laboratory work, covering measurements / uncertainties and transducers, respectively;</li>
+<li style="text-align: justify;">PRJ<sub>1</sub> and PRJ<sub>2</sub> are the classifications (out of 20.0 each) obtained in the two projects.</li>
+</ul>
+
+## Obtenção de frequência
+<p style="text-align: justify;">Attendance in laboratory classes is mandatory and subject to the maximum number of absences allowed.</p>
+<p style="text-align: justify;">The justification of a class absence does not eliminate the respective work from the count for the purpose of classification.</p>
+<p style="text-align: justify;">Students who have attended laboratory classes in previous academic years may keep that classification component. This option is automatically granted if the student does not enroll in a laboratory class. Otherwise, the previous laboratory classification will be permanently canceled.</p>
+
+## Melhoria de classificação
+<p style="text-align: justify;">Theoretical component: by means of an examination held during the period provided for this purpose.</p>
+<p style="text-align: justify;">Practical component: by performing all laboratory activities in the following academic year, with mandatory enrollment in a laboratorial class.</p>
+

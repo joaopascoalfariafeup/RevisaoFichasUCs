@@ -1,0 +1,129 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Eletrónica dos Sistemas de Comunicações
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Em Eletrónica dos Sistemas de Comunicação pretende-se que os estudantes prossigam o percurso de aprendizagem da eletrónica de sinal com o estudo da modelação, especificação e dimensionamento dos principais circuitos usados em sistemas de comunicação (por fio e sem fio), tendo também presentes considerações tecnológicas de implementação. O objetivo principal é que os estudantes, partindo do conhecimento dos principais blocos constituintes de sistemas de comunicação, abordem os circuitos eletrónicos que os realizam e adquiram competências de análise e projeto destes circuitos satisfazendo as especificações funcionais. Pretende-se que os estudantes saibam, perante um dado circuito, deduzir as suas principais características de desempenho, e que dadas as especificações funcionais façam uma seleção criteriosa das topologias a usar, tendo presente requisitos de otimização e outras características de desempenho não explicitamente especificadas.
+
+## Resultados de aprendizagem e competências
+<p>Tendo os estudantes adquirido previamente conhecimentos fundamentais em circuitos analógicos e digitais, assim como nos domínios da instrumentação e processamento de sinais, os conteúdos desta unidade curricular permitem que os estudantes abordem a modelação e a análise funcional de diversos blocos de sistemas de comunicação. A abordagem usada é do tipo &#8220;top-down&#8221; - da especificação para os detalhes de implementação dos circuitos - e permite que os estudantes adquiram competências de análise funcional e de projeto dos circuitos, capacitando-os para reconhecerem  e selecionarem as tipologias de diferentes circuitos e o seu consequente dimensionamento. Com a metodologia adotada, complementa-se o estudo teórico com a abordagem laboratorial de modo a que os estudantes conheçam e saibam completar o ciclo especificação, projeto e análise funcional, desenho físico e otimização dos circuitos.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Análise de circuitos, teoria do sinal e dos sistemas; transformada de Laplace. Análise de circuitos com transístores bipolares e MOS. <br /><br /></p>
+<p><!-- [if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--></p>
+
+## Programa
+<p>- Revisão das características funcionais e topológicas das principais arquiteturas de transcetores de comunicação por fio e sem fio;<br /><br />- Adaptação de impedância em sistemas de comunicação;</p>
+<p>- Projeto e síntese de filtros - aproximação e síntese de funções de filtragem; filtros passivos e ativos;</p>
+<p>- Amplificadores sintonizados de sinal e de potência;<br /><br />- Osciladores harmónicos e de relaxação e osciladores controlados por tensão (VCO);</p>
+<p>- Circuitos de síntese de frequência: Síntese digital direta (DDS) e malhas de sintonia de fase (PLL);</p>
+<p>- Circuitos multiplicadores, amplificador lock-in, e misturadores;</p>
+<p>- Caracterização e arquiteturas de conversores A/D e D/A;</p>
+<p>- Eletrónica rápida e circuitos de interface em comunicações de alto-débito;</p>
+- Análise e caracterização de circuitos/sistemas eletrónicos considerando a presença de fontes de ruído intrínseco e extrínseco.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Nas aulas tutoriais são apresentados os conteúdos teóricos fundamentais com referência aos elementos de estudo adotados, analisados exemplos e resolvidos problemas. Em laboratório são efetuados trabalhos de bancada envolvendo simulação (recorrendo a ferramentas CAD) e experimentação. Os primeiros trabalhos serão de caráter tutorial de modo a promover a aprendizagem dos tópicos lecionados e das ferramentas a utilizar, sendo adotada progressivamente uma abordagem que apele à capacidade de projeto autónomo por parte do estudante. O trabalho final será de projeto de um circuito a partir de um conjunto de especificações que contemplam requisitos comuns em sistemas de comunicação.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Trabalho escrito: 24.0 %
+- Trabalho laboratorial: 36.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 90.0 horas
+- Frequência das aulas: 48.0 horas
+- Trabalho laboratorial: 24.0 horas
+
+## Fórmula de cálculo da classificação final
+- Classificação Final (CF)= 0,4*Exame (E) + 0,6*Avaliação distribuída (AD).<br />- Condição de aprovação CF &#8805; 9,5 valores.<br />- Classificação mínima no exame = 9,0 valores.<br />- Avaliação distribuída (AD) = 0,6*Desempenho (D) + 0,4*Relatórios (R).<br />- Classificação AD mínima para obtenção de frequência = 9,0 valores. A obtenção de frequência é condição necessária para acesso a exame. <br /><br />- A melhoria da classificação &quot;E&quot; pode ser obtida na prova de Recurso.<br />- A componente de Desempenho (D) compreende a assiduidade e a avaliação do desempenho do estudante na realização dos trabalhos laboratoriais. A componente Relatórios (R) diz respeito aos relatórios dos trabalhos laboratoriais.<br />- Os estudantes com classificação AC de 9,0 ou mais valores, obtida em anos anteriores, podem manter essa avaliação sem necessitar de frequentar as aulas laboratoriais.
+
+## Obtenção de frequência
+<p>Classificação mínima de frequência = 9,0 valores.<br />As aulas laboratoriais são de frequência obrigatória, aplicando-se a legislação em vigor no que diz respeito ao número máximo admissível de faltas. <br />Todos os estudantes estão sujeitos a este procedimento, incluindo aqueles com estatuto especial (TE, DA,&#8230;). Situações de incompatibilidade serão analisadas e, caso se justifique, serão equacionadas soluções que minimizem a perturbação do processo aqui descrito.</p>
+
+## Melhoria de classificação
+<p>1. Classificação final: exame. <br />2. Avaliação de Desempenho: em ano seguinte, a avaliar individualmente atendendo às componentes já realizadas.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Electronics for Communications Systems
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;0&quot; data-number-of-phrases=&quot;1&quot;><span class=&quot;Q4iAWc&quot;>In Communication Systems Electronics, it is intended that students continue the learning path on signal electronics with the study of modelling, specification and design of the main circuits used in communication systems (wired and wireless), also bearing in mind implementation technologies considerations. The main objective is that students, starting from the knowledge of the main building blocks of communication systems, approach the electronic circuits that implement them and acquire the skills to analyse and design these circuits satisfying the functional specifications. It is intended that students know, facing a given circuit, how to deduce its main performance characteristics, and that, given the functional specifications, make a careful selection of the topologies to be used, bearing in mind optimization requirements and other performance characteristics not explicitly specified.</span></span></span>
+
+## Resultados de aprendizagem e competências
+Once students have previously acquired knowledge and skills on basic analog and digital circuit design, as well as in the fields of instrumentation and signal processing, the contents of this curricular unit allow students to approach the modeling and functional analysis of several blocks of communication systems. A top-down approach is conducted in the learning process - from the specification level to the details of circuit implementation - which allows students to both acquire functional analysis and circuit design skills, enabling them to proceed to the selection of different circuit topologies, starting from high-level specifications. The adopted methodology complements the theoretical study with laboratory practice in order to endow students with the know-how to go through the completion of the cycle - specification, design and functional analysis, circuit optimization, and physical synthesis.
+
+## Pré-requisitos e co-requisitos
+<p>Circuit theory, signals and systems theory, Laplace transform. Analysis of circuits with bipolar and MOS transistors.</p>
+
+## Programa
+<p>- Review of the functional and topological characteristics of the main wireless and wired communication transceiver architectures;</p>
+<p>- Design and synthesis of filters - approximation and synthesis of filtering functions; passive and active filters;</p>
+<p>- Tuned and power amplifiers.<br /><br />- Harmonic and relaxation oscillators and voltage-controlled oscillators (VCO);</p>
+<p>- Frequency synthesis circuits: Direct digital synthesis (DDS) and phase locked loops (PLL);</p>
+<p>- Multiplier circuits, lock-in amplifier, and mixers.</p>
+<p>- Characterization and architectures of A/D and D/A converters;</p>
+<p>- Fast electronics and interface circuits in high-speed communications;</p>
+<p>- Analysis and characterization of circuits / electronic systems considering the presence of intrinsic and extrinsic noise sources.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The fundamental theoretical contents are presented in the tutorial classes, with reference to the adopted study elements, examples are analyzed, and problems solved as well. In the laboratory practice, bench work involving simulation (resorting to CAD tools) and experimentation is carried out. The first assignments will be of a tutorial nature in order to promote the learning of the topics taught and of the tools to be used. Progressively, an approach is adopted that will impel students&#8217; autonomous aptitude towards project design. The final assignment requires the design of a circuit from a set of specifications that contemplate common requirements in communication systems.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Trabalho escrito: 24.0 %
+- Trabalho laboratorial: 36.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 90.0 hours
+- Frequência das aulas: 48.0 hours
+- Trabalho laboratorial: 24.0 hours
+
+## Fórmula de cálculo da classificação final
+- Final Classification (CF) = 0.4*Exam (E) + 0.6*Distributed Assessment (AD).<br />- CF approval condition &#8805; 9.5 values.<br />- Minimum exam grade = 9.0 values.<br />- Distributed assessment (AD) = 0.6*Performance (D) + 0.6*Reports (R)<br />- Minimum AD mark to obtain frequency = 9.0 values. The obtaining of frequency is a necessary condition to gain access to the exam.<br /><br />- The improvement of the &quot;E&quot; mark can be obtained in the retake exam.<br />- The Performance component (D) comprises the attendance and evaluation of the student's performance in carrying out laboratory work. The Reports (R) component concerns the reports of laboratory work.<br />- Students with an AC grade of 9.0 or more, obtained in past years, can maintain this assessment without needing to attend laboratory classes.
+
+## Obtenção de frequência
+<p>Minimum frequency classification = 9,0 values<span id="result_box" class="" lang="en"><span class=""><br />The lab classes are of compulsory attendance, being the legislation in force applied regarding the maximum number of admissible absences.</span></span><br />All students will be assessed following this procedure, even those with a special status (working students, students&#8217; association leaders&#8230;). Incompatibility situations, in which students cannot attend classes will be analysed on a case by case basis in order to minimize drifting from this process.</p>
+
+## Melhoria de classificação
+<p>1. Final Grade: exam <br />2. Performance Assessment: in a next year, subject to individual evaluation taking into consideration the accomplished components.<br /><br /></p>
+

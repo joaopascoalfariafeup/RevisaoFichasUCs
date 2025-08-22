@@ -1,0 +1,130 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Inferência Estatística
+
+## Curso responsável
+Mestrado em Inteligência Artificial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Aquisição de uma base sólida de conhecimentos em estatística indutiva e desenvolvimento de capacidades e engenho em técnicas de modelação estatística, fundamentais para a apresentação, tratamento e interpretação de conjuntos de dados
+
+## Resultados de aprendizagem e competências
+<p>Ao completar esta unidade curricular, o estudante deverá</p>
+<p>- dominar os conceitos e princípios fundamentais da Estatística;</p>
+<p>- conhecer e saber aplicar os métodos e técnicas fundamentais da inferência estatística paramétrica e não-paramétrica a problemas concretos, envolvendo a análise crítica e apresentação dos resultados obtidos;</p>
+<p>- ser capaz de usar a linguagem de programação R na análise estatística de diferentes tipos de dados e resolução de problemas.</p>
+
+## Programa
+<p>Variáveis e vetores aleatórios. Distribuições mais comuns. Funções características. Modos de convergência. Leis dos grandes números e Teorema do Limite Central. Princípios gerais da inferência estatística clássica.</p>
+<p>Modelos estatísticos. Famílias exponenciais. Exaustividade. Verosimilhança.</p>
+<p>Construção e comparação de estimadores paramétricos. Eficiência. Regiões de confiança.</p>
+<p>Elementos de Inferência Bayesiana. Abordagem Bayesiana versus abordagem clássica. Distribuições a priori e distribuições a posteriori. Distribuições conjugadas. Estimadores de Bayes.</p>
+<p>Estimação e testes em modelos não-paramétricos. Testes de qualidade de ajustamento. Testes baseados no vetor das ordens. Medidas e testes de associação.</p>
+Testes de hipóteses paramétricas. Critérios de otimalidade.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Cada aula TP terá a duração de 2 horas. Sempre que possível, a última meia hora de cada aula deverá ser destinada à resolução de exemplos/exercícios.  Serão disponibilizadas exercícios sobre os tópicos em estudo.</p>
+<p>A discussão dos trabalhos é aberta, todos os estudantes são encorajados a participar.</p>
+Todo o material utilizado nas aulas é facultado aos alunos em plataformas adequadas ao efeito.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Trabalho prático ou de projeto: 45.0 %
+- Trabalho escrito: 15.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 160.0 horas
+- Frequência das aulas: 63.0 horas
+- Trabalho escrito: 5.0 horas
+- Trabalho laboratorial: 15.0 horas
+
+## Fórmula de cálculo da classificação final
+A avaliação será distribuída com exame final. A avaliação é feita com base nas classificações do exame final escrito (E), dos Trabalhos práticos/ Projeto (P), realizados até às datas limite fixadas. Classificação final: (E*8+P*12)/20. A classificação das componentes E e P não deverão ser inferiores a 40%.<br /><br /><p> </p>
+
+## Obtenção de frequência
+Trabalhos práticos/ Projeto submetidos nos prazos fixados.
+
+## Melhoria de classificação
+<p>A classificação obtida na componente de projeto não é susceptível de melhoria e é apenas válida durante o corrente ano lectivo.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Statistical Inference
+
+## Curso responsável
+Master in Artificial Intelligence
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Acquire a solid knowledge in inductive statistics and develop capacities and skills in statistical modelling techniques, fundamental to the presentation, analysis and interpretation of data sets.</p>
+
+## Resultados de aprendizagem e competências
+<p>Upon completing this course, the student should:</p>
+<p>- have a deep understanding of the fundamental concepts and principles of statistics;</p>
+<p>- know the fundamental parametric and nonparametric statistical methods, how to apply them to concrete situations and be able to interpret and communicate the obtained results;</p>
+<p>- be able to use the programming language R to analyze different types of data and solve statistical problems.</p>
+<p><em> </em></p>
+
+## Programa
+<p>Random variables and random vectors. Most common distributions. Characteristic functions. Stochastic convergence. Laws of large numbers and central limit theorem. General principles of the classical statistical inference.</p>
+<p>Statistical models. Exponential families. Sufficiency. Maximum likelihood principle.</p>
+<p>Derivation and comparison of estimators. Efficiency. Confidence regions.</p>
+<p>Elements of Bayesian inference. Bayesian approach versus classical approach. A priori distribution and a posteriori distribution. Conjugate distributions. Bayes estimators.</p>
+<p>Nonparametric inference. Goodness of fit tests. Rank-based tests. Measures and tests of association for two variables.</p>
+Parametric hypotheses testing. Optimality criteria.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Each lecture lasts for 2 hours. Whenever possible, the last half hour of each one will be spent with exercises/examples. Pertinent list of exercises will be provided to students.</p>
+<p>The discussion of the works is open, all students are encouraged to participate.</p>
+<p>All resources will be made available to the students.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Trabalho prático ou de projeto: 45.0 %
+- Trabalho escrito: 15.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 160.0 hours
+- Frequência das aulas: 63.0 hours
+- Trabalho escrito: 5.0 hours
+- Trabalho laboratorial: 15.0 hours
+
+## Fórmula de cálculo da classificação final
+Distributed evaluation with final exam. Written exam ( E ) and laboratorial work/project (P). Final classification (E*8+P*12)/20. Minimum mark of E and P: 40%.
+
+## Obtenção de frequência
+Practical assignments/ Project submitted within the fixed  schedules.
+
+## Melhoria de classificação
+The classification obtained in the project component is not subject to improvement and is only valid during the current academic year.
+

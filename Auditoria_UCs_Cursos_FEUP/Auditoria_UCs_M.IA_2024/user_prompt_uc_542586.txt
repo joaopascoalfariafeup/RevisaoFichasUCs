@@ -1,0 +1,119 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Tópicos em Sistemas Inteligentes
+
+## Curso responsável
+Mestrado em Inteligência Artificial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+A UC tem como objetivo realizar uma revisão abrangente dos tópicos de sistemas inteligentes, com ênfase na integração entre Sistemas Multi-Agentes (MAS) e Aprendizagem Computacional (ML), promovendo a leitura crítica e a reprodução da literatura relevante na área.
+
+## Resultados de aprendizagem e competências
+<p>A disciplina foca-se na integração dos Sistemas Multi-Agente (SMA) com a Aprendizagem Automática (ML), sendo a principal atividade a reprodução de um artigo relevante que demonstre essa integração. No final da disciplina, os estudantes deverão ser capazes de:</p>
+<ul>
+<li>Analisar criticamente e reproduzir artigos de pesquisa que integrem técnicas de SMA com ML.</li>
+<li>Desenvolver e implementar sistemas inteligentes que combinem os paradigmas de SMA e ML para resolver problemas complexos.</li>
+<li>Aplicar agentes computacionais para modelar sistemas complexos e melhorar a sua adaptabilidade através da aprendizagem automática.</li>
+<li>Avaliar e analisar o desempenho de sistemas inteligentes construídos com a integração de SMA e ML.</li>
+</ul>
+
+## Programa
+<div style=&quot;padding-left: 30px;&quot;><br /><p><strong>1. Computação Baseada em Agentes</strong><br />Objetivos e enquadramento. Simulação baseada em agentes vs sistemas multiagente (SMA). Ferramentas para desenvolvimento de SMA e para simulação baseada em agentes. Exploração de abordagens de computação baseada em agentes no contexto de sistemas complexos e dinâmicos.</p><br /><p><strong>2. Agentes Inteligentes</strong><br />Definições - Agentes e Ambientes. Tipos e arquiteturas de agentes. Raciocínio dedutivo e raciocínio prático. Agentes BDI. Agentes Reativos. Exploração da inteligência e adaptabilidade dos agentes, e como esses componentes interagem dentro de sistemas multiagente.</p><br /><p><strong>3. Aprendizagem em Agentes Inteligentes</strong><br />Processos de decisão de Markov. Aprendizagem por Reforço. Exploration vs Exploitation. Aprendizagem por Reforço (AR). Aplicação desses métodos para melhorar a adaptabilidade e a tomada de decisão dos agentes em ambientes complexos.</p><br /><p><strong>4. Sistemas Multiagente e Explicabilidade</strong><br />Definições. Comunicação. Atos de discurso. ACL. Standards FIPA. Protocolos de interação. Coordenação SMA. Integração de técnicas de explicabilidade em SMA, permitindo a interpretação das ações dos agentes e a transparência nos processos de decisão.</p><br /><p><strong>5. Tomada de Decisão Multiagente</strong><br />Desenho de mecanismos. Leilões. Negociação. Aplicação desses conceitos na resolução de conflitos e na tomada de decisão colaborativa entre agentes.</p><br /><p><strong>6. Leitura Crítica e Reproduzindo a Literatura Relevante</strong><br />Análise crítica de artigos que integram SMA e técnicas de ML. Reproduzindo a literatura relevante, com foco na integração de sistemas multiagente com aprendizado automático. Estudo de pesquisas atuais, identificação de lacunas no campo e desenvolvimento de habilidades para aplicar e criticar essas abordagens de forma prática.</p><br /></div>
+
+## Métodos de ensino e atividades de aprendizagem
+A disciplina combina aulas teóricas de revisão de conceitos fundamentais de MAS e ML com uma forte componente prática. O principal foco do curso é um projeto em que os estudantes reproduzem e modificam um artigo relevante que integre conceitos de MAS e ML. A abordagem de <strong>Project-Based Learning</strong> (PBL) permite que os alunos desenvolvam autonomia e independência na aquisição do conhecimento, enfrentando desafios reais e promovendo a aprendizagem ativa. A leitura crítica de literatura relevante é incentivada para desenvolver uma visão crítica e habilidades de pesquisa.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Apresentação/discussão de um trabalho científico: 20.0 %
+- Trabalho prático ou de projeto: 80.0 %
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 60.0 horas
+- Elaboração de projeto: 60.0 horas
+- Frequência das aulas: 42.0 horas
+
+## Fórmula de cálculo da classificação final
+Nota Final = 20% * Apresentação Parcial + 80% * Apresentação Final
+
+## Obtenção de frequência
+Um aluno inscrito obtém frequência se obtiver uma nota mínima de 7.5 valores no trabalho prático.
+
+## Melhoria de classificação
+As avaliações dos trabalhos não é passível de melhoria.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Topics in Intelligent Systems
+
+## Curso responsável
+Master in Artificial Intelligence
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+The course aims to provide a comprehensive review of intelligent systems topics, focusing on the integration of Multi-Agent Systems (MAS) and Machine Learning (ML), while fostering critical reading and the reproduction of relevant literature in the field.
+
+## Resultados de aprendizagem e competências
+<p>The course will focus on the integration of Multi-Agent Systems (MAS) with Machine Learning (ML), where the primary activity is the reproduction of a relevant article that demonstrates this integration. By the end of the course, students should be able to:</p>
+<ul>
+<li>Critically analyze and reproduce research articles that integrate MAS with ML techniques.</li>
+<li>Develop and implement intelligent systems that combine MAS and ML paradigms to address complex problems.</li>
+<li>Apply computational agents to model complex systems and enhance their adaptability through machine learning.</li>
+<li>Evaluate and assess the performance of intelligent systems built with MAS and ML integration.</li>
+</ul>
+
+## Programa
+<p><strong>1. Agent-Based Computing</strong><br />Objectives and context. Agent-based simulation vs Multi-Agent Systems (MAS). Tools for developing MAS and for agent-based simulation. Exploration of agent-based computing approaches in the context of complex and dynamic systems.</p>
+<p><strong>2. Intelligent Agents</strong><br />Definitions - Agents and Environments. Types and architectures of agents. Deductive reasoning and practical reasoning. BDI agents. Reactive agents. Exploration of the intelligence and adaptability of agents, and how these components interact within multi-agent systems.</p>
+<p><strong>3. Learning in Intelligent Agents</strong><br />Markov decision processes. Reinforcement Learning. Exploration vs Exploitation. Application of these methods to enhance agent adaptability and decision-making in complex environments.</p>
+<p><strong>4. Multi-Agent Systems and Explainability</strong><br />Definitions. Communication. Speech acts. ACL. FIPA Standards. Interaction protocols. MAS coordination. Integration of explainability techniques in MAS, enabling interpretation of agent actions and transparency in decision-making processes.</p>
+<p><strong>5. Multi-Agent Decision Making</strong><br />Mechanism design. Auctions. Negotiation. Application of these concepts to resolve conflicts and facilitate collaborative decision-making between agents.</p>
+<p><strong>6. Critical Reading and Reproducing Relevant Literature</strong><br />Critical analysis of articles that integrate MAS and ML techniques. Reproducing relevant literature, with a focus on the integration of multi-agent systems with machine learning. Study of current research, identifying gaps in the field, and developing skills to apply and critique these approaches practically.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+The course combines theoretical classes reviewing key concepts of MAS and ML with a strong practical component. The main focus is a project where students reproduce and modify a relevant paper integrating MAS and ML concepts. The <strong>Project-Based Learning</strong> (PBL) approach fosters students' autonomy and independence in acquiring knowledge, facing real challenges, and promoting active learning. Critical reading of relevant literature is encouraged to develop a critical perspective and research skills.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Apresentação/discussão de um trabalho científico: 20.0 %
+- Trabalho prático ou de projeto: 80.0 %
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 60.0 hours
+- Elaboração de projeto: 60.0 hours
+- Frequência das aulas: 42.0 hours
+
+## Fórmula de cálculo da classificação final
+Final Grade = 20% * Midterm Presentation + 80% * Final Presentation
+
+## Obtenção de frequência
+An enrolled student obtains attendance if he obtains a minimum grade of 7.5 in the practical assignments.
+
+## Melhoria de classificação
+Project evaluations cannot be improved.
+

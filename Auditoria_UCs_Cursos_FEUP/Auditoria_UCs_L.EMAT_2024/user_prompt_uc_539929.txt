@@ -1,0 +1,193 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Desenho Assistido por Computador
+
+## Curso responsável
+Licenciatura em Engenharia de Materiais
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+Os principais objetivos da Unidade Curricular incluem:<br /><br />1) Transmitir aos estudantes a capacidade de manusear e desenvolver informação geométrica e não geométrica, na área da produção.<br /><br />2) Abordar o desenho de conceção. Introduzir a análise funcional de mecanismos, a partir da leitura de desenhos de conjunto em representação ortográfica, com a execução de desenhos de definição de produto acabado de alguns dos seus elementos componentes.<br /><br />3) Identificar e utilizar as diversas características inerentes aos programas computacionais de desenho (CAD), de simulação e de máquinas de controlo numérico (CNC). Implementar programas computacionais que permitam o processamento de informação de sistemas CAD/CAM.
+
+## Resultados de aprendizagem e competências
+<p>No final do semestre, os estudantes deverão ser capazes de realizar as seguintes tarefas:</p>
+<p>Interpretação de Desenhos (2D):</p>
+<p>1) Analisar funcionalmente mecanismos a partir da leitura de desenhos de conjunto em representação ortográfica.</p>
+<p>Modelação tridimensional (3D):</p>
+<p>2) Modelar tridimensionalmente componentes de sistemas mecânicos bem como proceder à sua montagem usando sistemas CAD.</p>
+<p>3) Processo de engenharia inversa e de desenvolvimento de produto.</p>
+<p>Realização de Desenhos de Definição e de Conjunto:</p>
+<p>4) Executar adequadamente um desenho de definição ou de conjunto usando sistemas CAD.</p>
+<p>5) Obter automaticamente desenhos de definição e de conjunto de sistemas mecânicos previamente modelados ou de um dos seus componentes usando sistemas CAD.</p>
+<p>Sistemas CAD/CAM:</p>
+<p>6) Conhecer os sistemas CAD/CAM mais usuais, bem como saber utilizar as funções disponibilizadas.</p>
+<p>7) Conhecer os princípios base de sistemas de CNC e de máquinas ferramenta associadas.</p>
+<p>8) Desenvolver programas de CNC para operações de maquinagem em torno e fresadora.</p>
+<p>9) Desenvolver programas computacionais para processar informação de sistemas CAD/CAM.</p>
+
+## Pré-requisitos e co-requisitos
+<p>É recomendado que os estudantes desta Unidade Curricular tenham conhecimentos de Desenho Técnico, de Computação e Programação.</p>
+
+## Programa
+<p>O programa previsto para a Unidade Curricular baseia-se nos seguintes cinco pontos:</p>
+<p>1) Sistemas CAD, sua descrição e classificação. Utilização de sistemas de desenho assistido por computador CAD 2D e de conceção 3D, desenho paramétrico. Editores de modelação sólida 3D.</p>
+<p>2) Conceitos de normalização em desenho de construção mecânica através de sistemas e componentes mecânicos normalizados de utilização geral: roscas, parafusos, porcas, anilhas, pinos, anéis elásticos, rebites, soldadura, pontas de veio, chavetas e escatéis, acoplamentos por estrias, rolamentos, juntas de vedação para aplicação dinâmica, molas e engrenagens. Desenhos de conjunto e desenhos de definição.</p>
+<p>3) Modelação 3D (SolidWorks):</p>
+<p>3.1) Funcionalidades básicas.</p>
+<p>3.2) Visualização.</p>
+<p>3.3) Fundamentos para conjuntos.</p>
+<p>3.4) Montagem e ToolBox.</p>
+<p>3.5) Fundamentos para Desenho (vistas).</p>
+<p>3.6) Tabelas para desenho.</p>
+<p>3.7) Elementos de rotação e de sweep.</p>
+<p>3.8) Elementos de loft.</p>
+<p>3.9) Renderização, animações e vistas explodidas.</p>
+<p>3.10) Fundamentos para peças em chapa.</p>
+<p>3.11) Ferramentas de simulação numérica.</p>
+<p>3.12) Modelação avançada.</p>
+<p>4) Programação manual e automática de máquinas CNC.</p>
+<p>5) Interfaces Desenho-Conceção, Desenho-Análise e Desenho-Fabrico.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>O funcionamento previsto para a Unidade Curricular é o seguinte:</p>
+<p>- Apresentação dos temas abordados na Unidade Curricular no início das aulas (componente teórica) com análise de exemplos de aplicação.</p>
+<p>- Na componente prática serão apresentadas algumas particularidades e propostos exercícios para aplicação dos conceitos apresentados nas aulas teóricas.</p>
+<p>- Durante as primeiras aulas da Unidade Curricular são propostos diversos temas possíveis para os trabalhos práticos a realizar pelos estudantes durante o semestre.</p>
+- As últimas aulas da Unidade Curricular são destinadas a um apoio mais intenso aos trabalhos práticos bem como a sua análise de discussão.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Defesa pública de dissertação, de relatório de projeto ou estágio, ou de tese: 70.0 %
+- Teste: 30.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 42.0 horas
+- Elaboração de relatório/dissertação/tese: 4.0 horas
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 56.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A nota final da Unidade Curricular resulta da média pesada das classificações obtidas em cada uma das componentes da avaliação, com os seguintes pesos:</p>
+<p>- Exame escrito: 30%, sendo necessário uma classificação mínima de 6,0 valores.</p>
+<p>- Trabalho prático (nota individual): 70%.</p>
+<p>O processo de avaliação final dos projetos é realizado entre o docente e os estudantes. Poderá ser tida em conta uma distribuição diferenciada da classificação obtida entre os elementos de um grupo, após uma autoavaliação dos respectivos membros.</p>
+
+## Obtenção de frequência
+<p>A obtenção de frequência à Unidade Curricular implica que o número limite de faltas (25% do número de aulas previstas) não deve ser excedido.</p>
+<p>Cada estudante deve também, obrigatoriamente, submeter-se à avaliação em todas as suas componentes: exame escrito (Sistemas de CAD 2D/3D + Sistemas e Componentes Mecânicos Normalizados de utilização Geral + Programação CNC + Desenvolvimento de Aplicações de Interface CAD/CAM/CNC), entrega do trabalho prático.</p>
+
+## Melhoria de classificação
+<p>A melhoria de classificação será realizada de acordo com o artigo 10º das Normas Gerais de Avaliação.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computer Aided Design
+
+## Curso responsável
+Bachelor in Materials Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>The main objectives of the Curricular Unit include:</p>
+<p>1) Transmit to students the ability to handle and develop geometric and non-geometric information in the area of &#8203;&#8203;production.</p>
+<p>2) Approach the design drawing. Introduce the functional analysis of mechanisms from reading assembly drawings in orthographic representation, with the execution of drawings defining the finished product of some of its component elements.</p>
+<p>3) Identify and use the different characteristics inherent to computer programs for design (CAD), simulation and numerical control machines (CNC). Implement computer programs that allow processing information from CAD/CAM systems.</p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of the semester, students should be able to perform the following tasks:</p>
+<p>Interpretation of Drawings (2D):</p>
+<p>1) Functionally analyze mechanisms from reading assembly drawings in orthographic representation.</p>
+<p>Three-dimensional modelling (3D):</p>
+<p>2) Three-dimensional modelling of mechanical system components and their assembly using CAD systems.</p>
+<p>3) Reverse engineering and product development process.</p>
+<p>Realization of Definition and Assembly Drawings:</p>
+<p>4) Properly execute a definition or assembly drawing using CAD systems.</p>
+<p>5) Automatically obtain definition and assembly drawings of previously modelled mechanical systems or one of their components using CAD systems.</p>
+<p>CAD/CAM systems:</p>
+<p>6) Knowing the most common CAD/CAM systems and how to use the available functions.</p>
+<p>7) Know the basic principles of CNC systems and associated machine tools.</p>
+<p>8) Develop CNC programs for lathe and milling operations.</p>
+<p>9) Develop computer programs to process information from CAD/CAM systems.</p>
+
+## Pré-requisitos e co-requisitos
+<p>It is recommended that students in this Curricular Unit have knowledge of Technical Drawing, Computing and Programming.</p>
+
+## Programa
+<p>The program planned for the Curricular Unit is based on the following five points:</p>
+<p>1) CAD systems, their description and classification. Use of computer-aided design systems CAD 2D and 3D parametric design. 3D solid modelling editors.</p>
+<p>2) Concepts of standardization in mechanical engineering design through standard mechanical systems and components for general use: threads, screws, nuts, washers, pins, elastic rings, rivets, welding, shaft ends, keys and keyways, spline couplings, bearings, gaskets for dynamic application, springs and gears. Assembly drawings and definition drawings.</p>
+<p>3) 3D Modeling (SolidWorks):</p>
+<p>3.1) Basic functionalities.</p>
+<p>3.2) Visualization.</p>
+<p>3.3) Fundamentals for sets.</p>
+<p>3.4) Assembly and ToolBox.</p>
+<p>3.5) Fundamentals for Drawing (views).</p>
+<p>3.6) Tables for drawing.</p>
+<p>3.7) Rotation and sweep elements.</p>
+<p>3.8) Loft elements.</p>
+<p>3.9) Rendering, animations and exploded views.</p>
+<p>3.10) Fundamentals for sheet metal parts.</p>
+<p>3.11) Numerical simulation tools.</p>
+<p>3.12) Advanced modelling.</p>
+<p>4) Manual and automatic programming of CNC machines.</p>
+<p>5) Design-Conception, Design-Analysis and Design-Manufacture interfaces.</p>
+<p> </p>
+<div id="gtx-trans" style="position: absolute; left: 43px; top: 281.226px;"> </div>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The expected functioning of the Curricular Unit is as follows:</p>
+<p>- Presentation of the topics addressed in the Curricular Unit at the beginning of classes (theoretical component) with analysis of application examples.</p>
+<p>- In the practical component, some particularities will be presented, and exercises will be proposed to apply the concepts presented in the theoretical classes.</p>
+<p>- During the first classes of the Curricular Unit, several possible topics are proposed for the practical work to be carried out by students during the semester.</p>
+<p>- The last classes of the Curricular Unit are intended for more intense support to practical work and its discussion analysis.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Defesa pública de dissertação, de relatório de projeto ou estágio, ou de tese: 70.0 %
+- Teste: 30.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 42.0 hours
+- Elaboração de relatório/dissertação/tese: 4.0 hours
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 56.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final grade of the Curricular Unit results from the weighted average of the classifications obtained in each of the evaluation components, with the following weights:</p>
+<p>- Written exam: 30%, requiring a minimum grade of 6.0 values.</p>
+<p>- Practical work (individual grade): 70%.</p>
+<p>The final evaluation process of the projects is carried out between the professor and the students. A differentiated distribution of the classification obtained among the elements of a group may be taken into account, after a self-assessment of the respective members.</p>
+<p><br /><br /></p>
+<div id="gtx-trans" style="position: absolute; left: 64px; top: 144px;"> </div>
+
+## Obtenção de frequência
+<p>Obtaining attendance at the Curricular Unit implies that the limit of the number of absences (25% of the expected number of classes) must not be exceeded.</p>
+<p>Each student must also, compulsorily, submit to the assessment in all its components: written exam (2D/3D CAD Systems + Standardized Mechanical Systems and Components for general use + CNC Programming + Development of CAD/CAM/CNC Interface Applications), delivery of the practical work.</p>
+
+## Melhoria de classificação
+Classification improvement will be carried out with article 10 of the General Evaluation Norms.
+

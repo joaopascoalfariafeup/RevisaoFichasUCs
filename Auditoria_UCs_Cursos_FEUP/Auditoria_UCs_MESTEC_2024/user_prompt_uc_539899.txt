@@ -1,0 +1,122 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Métodos Numéricos em Estruturas e Geotecnia
+
+## Curso responsável
+Mestrado em Estruturas de Engenharia Civil
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Conhecer os fundamentos e saber aplicar as técnicas de modelação numérica para a resolução de problemas estruturais e geotécnicos associados à Engenharia Civil.</p>
+<p>Compreensão dos fundamentos do Método dos Elementos Finitos, incluindo formulações distintas e sua implementação computacional.</p>
+<p>Capacidade para tomada de decisão na seleção das metodologias mais adequadas para a simulação estrutural e geotécnica de problemas de Engenharia Civil.</p>
+<p>Capacidade de interpretação crítica de resultados provenientes de modelação numérica e sua utilização nos processos de dimensionamento estrutural e geotécnico.</p>
+
+## Resultados de aprendizagem e competências
+<p>Esta unidade curricular (UC) tem por objetivo desenvolver as seguintes competências:<br /><br />(i) capacidade de definição dos procedimentos do MEF na obtenção de um sistema de equações algébricas que fornece uma solução numérica aproximada para as equações diferenciais regentes do fenómeno físico em análise;</p>
+<p>(ii) identificação dos aspetos algorítmicos fundamentais do MEF em diversas aplicações de índole estrutural e geotécnica com avaliação crítica das soluções encontradas;</p>
+<p>(iii) capacidade de aplicar o MEF na resolução de problemas estruturais e geotécnicos;</p>
+<p>(iv) capacidade de utilização do MEF em estudos paramétricos para aferir o peso relativo de diversos fatores na qualidade/eficiência/segurança/custo da solução procurada.</p>
+<p>Como resultados da aprendizagem o estudante dominará a teoria subjacente ao MEF, desenvolverá a experiência necessária à sua aplicação prática e adquirirá capacidade crítica para avaliação dos resultados obtidos.</p>
+
+## Pré-requisitos e co-requisitos
+Conhecimentos sólidos de resistência dos materiais e de análise de estruturas.
+
+## Programa
+1 &#8211; Introdução à aplicação de métodos numéricos a problemas de engenharia.<br />2 &#8211; Introdução ao método dos elementos finitos e seu campo de aplicação.<br />3 &#8211; Método dos elementos finitos em problemas unidimensionais.<br />4 &#8211; Método dos elementos finitos em meios contínuos 2D e 3D.<br />5 &#8211; Método dos elementos finitos aplicado a problemas com flexão.<br />6 &#8211; Método dos elementos finitos em problemas geotécnicos: idealização geométrica, condições fronteira e faseamento construtivo.<br />7 &#8211; Modelos constitutivos não lineares &#8211; formulação geral.<br />8 &#8211; Análise não linear pelo método dos elementos finitos &#8211; formulação e aplicação.
+
+## Métodos de ensino e atividades de aprendizagem
+São expostas as formulações subjacentes às metodologias abordadas, acompanhadas da apresentação de pequenos exemplos práticos. Complementarmente, são resolvidos problemas envolvendo um número muito reduzido de elementos finitos, com recurso a uma calculadora. Nas aulas lecionadas em sala com computadores recorre-se à utilização de programas de cálculo automático para a resolução de problemas concretos através do MEF.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Trabalho prático ou de projeto: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 91.5 horas
+- Frequência das aulas: 45.5 horas
+- Trabalho escrito: 25.0 horas
+
+## Fórmula de cálculo da classificação final
+A classificação final resulta da seguinte fórmula de cálculo:<br /><br />CF = max {0.60xEF + 0.15xAD1 + 0.25xAD2; 0.75xEF + 0.25xAD2}<br /><br />onde CF é a classificação final, EF é a classificação no exame final, AD1 é a classificação da avaliação distribuída (componente de Estruturas) e AD2 é a classificação da avaliação distribuída (componente de Geotecnia).<br /><br />Todas as classificações são expressas na escala de 0 a 20 valores, sendo a aprovação obtida com uma classificação de 10 ou superior.
+
+## Obtenção de frequência
+A obtenção de classificação final exige o cumprimento de assiduidade à unidade curricular, conforme estabelecido nas regras de avaliação em vigor. Considera&#8208;se que um estudante cumpre a assiduidade a uma unidade curricular se, tendo estado regularmente inscrito, não exceder o número limite de faltas correspondente a 25% do total de aulas previstas.
+
+## Melhoria de classificação
+A melhoria da classificação final só pode ser obtida por intermédio de um exame final sobre toda a matéria. Não é possível a melhoria da classificação obtida em trabalhos práticos.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Numerical Methods in Structures and Geotechnics
+
+## Curso responsável
+Master in Civil Engineering Structures
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Get to know the basics and how to apply numerical modelling techniques in order to solve structural and geotechnical problems related to Civil Engineering.</p>
+<p>Understand the basics of the Finite Element Method, including different formulations and their computational implementation.</p>
+<p>Develop decision making abilities in the selection of the best methodologies for structural and geotechnical simulation of problems in Civil Engineering.</p>
+<p>Develop the ability to critically appraise the results of numerical modelling and their use in structural and geotechnical design processes.</p>
+
+## Resultados de aprendizagem e competências
+<p>This course aims to develop the following skills:<br /><br />(i) capacity for defining the FEM procedures leading to a set of algebraic equations which provide an approximate numerical solution to the differential equations governing the physical phenomena under analysis;</p>
+<p>(ii) identification of the FEM fundamental algorithmic features in diverse applications of structural and geotechnical nature, with critical appraisal of the obtained solutions;</p>
+<p>(iii) capacity to apply the FEM in the resolution of structural and geotechnical problems;</p>
+<p>(iv) capacity to utilize the FEM in parametric studies to assess the relative weight of various factors on the quality/efficiency/safety/cost of the desired solution.</p>
+<p>As learning outcomes, the student will master the theory underlying the FEM, will develop the experience necessary for its practical application and will acquire critical skills to assess the results obtained.</p>
+
+## Pré-requisitos e co-requisitos
+Solid background of mechanics of materials and structural analysis.
+
+## Programa
+1 &#8211; Introduction to the application of numerical methods for solving engineering problems.<br />2 &#8211; Introduction to the finite element method and its scope of application.<br />3 &#8211; Finite element method in 1D problems.<br />4 &#8211; Finite element method in 2D and 3D continuous media.<br />5 &#8211; Finite element method applied to bending problems.<br />6 &#8211; Finite element method in geotechnical problems: geometric idealization, boundary conditions and constructive phasing.<br />7 &#8211; Nonlinear constitutive models - general formulation.<br />8 &#8211; Nonlinear analysis using the finite element method - formulation and application.
+
+## Métodos de ensino e atividades de aprendizagem
+The formulations of the methodologies are presented, accompanied by the presentation of short practical examples. Additionally, problems involving a very small number of finite elements are solved with hand calculations. During the classes taught in a computer room, FEM software is used to solve specific problems.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Trabalho prático ou de projeto: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 91.5 hours
+- Frequência das aulas: 45.5 hours
+- Trabalho escrito: 25.0 hours
+
+## Fórmula de cálculo da classificação final
+The final grade is calculated according to the following expression:<br /><br />FG = max {0.60xFE + 0.15xDA1 + 0.25xDA2; FE}<br /><br />where FG is the final grade, FE is the classification in the final exam, AD1 is the classification of the distributed assessment (Structures component) and AD2 is the classification of the distributed assessment (Geotechnics component).<br /><br />All the grades are expressed in a range between 0 and 20 points. Approval requires a minimum grade of 10 points.
+
+## Obtenção de frequência
+Obtaining a final grade requires compliance with the curricular unit, as established in the assessment rules of FEUP. It is considered that a student fulfils the attendance to a curricular unit if, having been regularly enrolled, does not exceed the maximum number of absences corresponding to 25% of the total number of classes foreseen.
+
+## Melhoria de classificação
+Improvement of the final grade can only be achieved by means of a final exam covering the entire course syllabus. Improvement of the grade obtained in the assignments is not possible.
+

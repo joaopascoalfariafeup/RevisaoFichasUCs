@@ -1,0 +1,118 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas de Controlo
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>ENQUADRAMENTO</p>
+<p>A evolução da Engenharia Mecânica nas últimas décadas tem sido fortemente influenciada por desenvolvimentos nas áreas da Ciência dos Materiais, da Ciência da Computação, da Automação e Sistemas de Controlo. A associação de novos materiais, novas metodologias de projeto e algoritmos de controlo sofisticados têm levado à produção de sistemas com capacidades e funcionalidades acrescidas. Este incremento de complexidade tem sido acompanhado por aumentos na usabilidade e diminuição de custos, tanto de investimento como de utilização. Existem numerosos exemplos com impacto social relevante: meios de transporte, sistemas de queima, sistemas AVAC, sistemas robóticos e muitos produtos correntes, todos com acréscimo do seu desempenho e eficiência energética.</p>
+<p>OBJETIVOS ESPECÍFICOS</p>
+<p>Procura-se proporcionar aos futuros engenheiros mecânicos um conjunto de conhecimentos nucleares e estruturantes na área dos sistemas de controlo automático, capacitando-os para: modelar sistemas dinâmicos transdisciplinares; projetar e implementar sistemas de controlo.</p>
+
+## Resultados de aprendizagem e competências
+<p>Espera-se que no final do período lectivo os alunos consigam:<br />i) elaborar modelos matemáticos de parâmetros concentrados de sistemas dinâmicos, utilizando sistemas de equações diferenciais ordinárias; <br />ii) analisar e elaborar diagramas de blocos e diagramas de simulação de sistemas dinâmicos lineares; <br />iii) realizar a análise das respostas temporal e em frequência de sistemas dinâmicos lineares; <br />iv) projectar controladores clássicos que permitam cumprir especificações de desempenho.</p>
+
+## Programa
+<p>1    Introdução aos Sistemas de Controlo Automático.<br />1.1    Sistemas de Controlo Automático: Enquadramento histórico; Conceitos e definições elementares; Perturbações, incertezas e a reacção ao erro; Estrutura de um sistema realimentado.<br />1.2    Sistemas de Regulação e Servomecanismos.<br /><br />2    Modelação Matemática de Sistemas Dinâmicos.<br />2.1    Modelos de Parâmetros Concentrados: Modelos de sistemas mecânicos, eléctricos, térmicos, hidráulicos e electromecânicos; Modelos locais versus modelos globais; Linearização tangente em torno de um ponto de equilíbrio.<br />2.2    Transformada de Laplace: Transformada de um sinal; Sinais padrão e suas transformadas; Função de transferência de um sistema; Cálculo da resposta transitória.<br />2.3    Representação Esquemática de Sistemas Dinâmicos: Diagramas de blocos; Obtenção da função de transferência global; Diagramas de simulação.<br />2.4    Introdução à Simulação de Sistemas Dinâmicos com Matlab/Simulink.<br /><br />3    Resposta Temporal de Sistemas Dinâmicos.<br />3.1    Resposta Transitória de Sistemas Dinâmicos: Sistemas de 1ª ordem; Sistemas de 2ª ordem; Relação entre a posição dos pólos e dos zeros da função de transferência no plano de Laplace e a resposta temporal; Estabilidade; Sistemas de ordem superior; Pólos dominantes.<br />3.2    Métricas de Desempenho Temporal: Resposta ao degrau; Erros em regime permanente.<br /><br />4    Introdução ao Projecto de Controladores.<br />4.1    Acções de Controlo Elementares P, I e D.<br />4.2    Controladores PID: Estrutura PID; Estruturas PI-D e I-PD.<br />4.3    Selecção e Ajuste do Controlador: Cumprindo condições de erro em regime permanente e de resposta transitória; A influência das perturbações externas.<br /><br />5    Resposta em Frequência de Sistemas Dinâmicos.<br />5.1    Resposta em Frequência de um Sistema: Conceito e definição; Relação entre resposta em frequência e função de transferência.<br />5.2    Representação Gráfica da Resposta em Frequência: Diagramas polares; Diagramas de Bode.<br />5.3    Critério de Estabilidade de Nyquist.<br />5.4    Estabilidade Relativa: Margens de ganho e de fase; Robustez.<br /><br />6    Síntese de Controladores no Domínio das Frequências.<br />6.1    Especificação do Desempenho Através da Resposta em Frequência: Relações entre as respostas em frequência e temporal de um sistema; Relações entre a resposta em frequência de um sistema em malha aberta e a sua resposta temporal em malha fechada; Relações entre a resposta em frequência de um sistema em malha aberta e as constantes de erro estático.<br />6.2    Projecto de Compensadores: Tipos de compensadores e sua escolha; Dimensionamento de compensadores de atraso de fase; Dimensionamento de compensadores de avanço de fase; Dimensionamento de compensadores de atraso-avanço de fase; Relações com os controladores da família PID.<br /><br />7    Métodos Heurísticos de Ajuste de Controladores PID.<br />7.1    Métodos de Ziegler-Nichols: Primeiro método de Ziegler-Nichols, em malha aberta; Segundo método de Ziegler-Nichols, em malha fechada.<br />7.2    Procedimentos para o Ajuste Experimental de Controladores em Servomecanismos Electromecânicos.<br />7.3    Saturação do atuador e a sua influência na ação integral.<br /><br />8    Implementação de Controladores.<br />8.1    Implementação Utilizando Amplificadores Operacionais.<br />8.2    Implementação em tempo discreto usando aproximações numéricas.<br />8.3    Escolha da frequência de amostragem: o Teorema da Amostragem.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>AULAS TEÓRICO-PRÁTICAS</p>
+<p>Exposição dos temas tratados na UC;<br />Apresentação e discussão de alguns exemplos.</p>
+<p>Exercicios de modelação de sistemas dinâmicos de várias naturezas;<br />Exercícios de projeto de sistemas de controlo.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Trabalho escrito: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 79.0 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho escrito: 44.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Classificação no Relatório: CR;<br />Classificação no Exame final: CE;<br />Classificação Final: CF;<br />CF=0,3 CR + 0,7 CE</p>
+
+## Obtenção de frequência
+<p>Não exceder o nº limite de faltas (seis) e obter uma classificação de mínima de 8,0 valores no Relatório Escrito sobre um trabalho computacional de modelação e simulação em Matlab/Simulink de um sistema dinâmico.</p>
+
+## Melhoria de classificação
+<p>O aluno poderá escolher entre a melhoria da classificação da componente distribuída, caso em que terá de elaborar novo relatório, da componente correspondente ao exame final, caso em que terá de realizar novo exame final, ou das duas componentes, caso em que terá de elaborar novo relatório e realizar novo exame final.<br />Aplica-se a fórmula de cálculo da classificação final acima descrita.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Control Systems
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>BACKGROUND</p>
+<p>Mechanical Engineering evolution in the last decades has been strongly influenced by developments in the areas of Material Science, Computer Science, Automation and Control Systems. The association of new materials, new design techniques and sophisticated control algorithms has provided the means to produce systems with increased capabilities and functionality. This complexity increment has been matched by increased usability and decreased costs, both investment and running costs. There are numerous cases with relevant social impact: transport means, burning systems, HVAC systems, robotic systems, commodity products, all with increased performances and energy efficiencies.</p>
+<p>SPECIFIC AIMS</p>
+<p>This course aims to endow the students with nuclear and structuring knowledge on dynamic systems and automatic control, giving them the capabilities to: transdisciplinary model dynamic systems, taking into account the model aim &#8211; simulation, control or other; design and implement controlled systems.</p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of this subject students shall be able to:<br />i) write lumped parameter models of dynamic systems using ordinary differential equations from manufacturer provided and other design data (Knowledge and Understanding; Engineering Analysis; Investigations);<br />ii) draw and analyse block and simulation diagrams of linear dynamic systems (Engineering Analysis, Engineering Practice);<br />iii) carry out the analysis of transient and frequency responses of linear dynamic systems (Engineering Analysis);<br />iv) design classic controllers that enable the achievement of performance specifications (Engineering Design).</p>
+
+## Programa
+<p>1 Introduction to Automatic Control Systems<br />1.1 Automatic Control Systems: historical background; basic concepts and definitions; perturbations, uncertainty and error reaction; structure of a feedback system.<br />1.2 Regulators and servomechanisms.</p>
+<p>2 Mathematical Modelling of Dynamic Systems <br />2.1 Lumped parameter models: models of mechanical, electrical, thermal and fluid systems; global versus local models; linearization at an equilibrium operating point. <br />2.2 Laplace Transform: transform of a signal; standard signals and their transforms; transfer function of a system; transient response computation. <br />2.3 Schematic Representation: block diagrams; determination of the overall transfer function; simulation diagrams. <br />2.4 Introduction to dynamic systems simulation using Matlab/Simulink.</p>
+<p>3 Time Response of Dynamic Systems <br />3.1 Transient response of dynamic systems: first order systems; second order systems; location of system poles and zeros on the Laplace plane and its time response; stability; higher order systems; dominant poles. <br />3.2 Time response performance metrics: step response; steady-state errors.</p>
+<p>4 Introduction to Controller Design <br />4.1 Basic control actions: P, I and D. <br />4.2 PID controllers: PID structure; PI-D and I-PD structures. <br />4.3 Controller selection and tuning in order to achieve steady-state error and transient response performance specifications; external perturbations influence.</p>
+<p>5 Frequency Response of Dynamic Systems <br />5.1 Frequency Response of a System: concept and definition; relation between frequency response and transfer function. <br />5.2 Graphical representation of frequency response: polar diagrams; Bode diagrams. <br />5.3 Nyquist&#8217;s stability criterion. <br />5.4 Relative stability; gain and phase margins; robustness.</p>
+<p>6 Frequency Domain Controller Design <br />6.1 Performance specification in the frequency domain: relation between transient and frequency responses; relation between open-loop frequency response and close-loop transient response; relation between open-loop frequency response and steady-state error constants. <br />6.2 Compensator design: compensator types and their selection; dimensioning of lag, lead and lag-lead compensators; relations with PID controllers.</p>
+<p>7 Heuristic Tuning Rules for PID Controllers <br />7.1 Ziegler Nichols tuning methods. <br />7.2 Manual tuning of electromechanical servomechanisms. <br />7.3 Actuator saturation and integrator windup.<br /> <br />8 Controller Implementation <br />8.1 Implementation using operational amplifiers. <br />8.2 Discrete time implementations using numerical approximations. <br />8.3 Sampling frequency choice: the sampling theorem.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>LECTURES</p>
+<p>Presentation of the themes covered by this course;<br />Presentation and discussion of some examples.</p>
+<p>Modelling exercises of several dynamic systems;<br />Project exercises of control systems.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 70.0 %
+- Trabalho escrito: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 79.0 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho escrito: 44.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Report Classification: RC; <br />Exam Classification: EC; <br />Final Classification: FC; <br />FC = 0,3 RC + 0,7 EC</p>
+
+## Obtenção de frequência
+<p>To respect the absence limit (six) and to obtain a minimum grade of 8.0 on a report paper about a modeling and computer simulation work using Matlab/Simulink.</p>
+
+## Melhoria de classificação
+The student may chose between improving the RC, by doing a new report, the EC, by doing a new exam, or both, by doing a new report and a new exam.<br />The final classification is computed using the formula described above.
+

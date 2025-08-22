@@ -1,0 +1,104 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Ciência de Redes
+
+## Curso responsável
+Mestrado em Inteligência Artificial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+As redes são uma ferramenta fundamental para modelar sistemas complexos sociais, biológicos e tecnológicos. Tendo também em conta a emergente disponibilidade de dados de larga escala de redes, esta unidade curricular foca-se na análise destas redes, o que acarreta múltiplos desafios computacionais, algorítmicos e de modelação. Irá cobrir investigação recente na estrutura e ana&#314;ise  destas redes, bem como modelos e algoritmos que possam abstrair as suas principais propriedades.
+
+## Resultados de aprendizagem e competências
+No final desta unidade curricular os estudantes devem ser capazes de:<br />- explicar os conceitos chave da ciência de redes e da e análise de redes complexas<br />- aplicar um leque variado de técnicas para caracterizar a estrutura de redes<br />- definir metodologias para analisar redes de diferentes domínios<br />- demonstrar conhecimento da investigação recente na área
+
+## Programa
+- Introdução e Fundamentos: a emergência de uma ciência das redes; conceitos fundamentais de teoria de grafos; representações de redes em computador; algoritmos clássicos de grafos.<br />- Métricas e propriedades estruturais básicas: distribuição de graus, caminhos e diâmetro, coeficiente de clustering, medidas de centralidade (betweenness, closeness, eigenvector, ...).<br />- Visualização de Redes: formatos; desenho de grafos, algoritmos para layout, análise exploratória com recurso a visualização.<br />- Propriedadas comuns e modelos de redes: redes aleatórias e modelo Erdös-Rényi; propriedade &#8220;small-world&#8221; e modelo de Watts-Strogatz; propriedade &#8220;scale-free&#8221; e modelo de Albert-Barabsi; outros modelos (ex: grafos de Kronecker).<br />- Comunidades: algoritmos para deteção de comunidades; optimização de modularidade; comunidades com sobreposição e outras variantes.<br />- Padrões e Subgrafos: subgrafos como unidades fundamentais; censo de subgrafos; conceito e algoritmos para descoberta de &#8220;network motifs&#8221;; distribuiçõe de graus de graphlets; redes pesadas, coloridas e outras variantes.<br />- Análise de links: ranking de nós, algoritmos HITS, Pagerank e variantes.<br />- Propagação em redes: fluxo de informação; influência; epidemologia e modelos de propagação.<br />- Análise de larga escala: o papel da amostragem; algoritmos paralelos; sistemas e bases de dados orientadas a grafos.<br />- Outros tópicos: previsão de ligações; alinhamento de redes; análise do papel de um nós; redes temporais; redes multi-camada; ...
+
+## Métodos de ensino e atividades de aprendizagem
+Aulas teórico-práticas com apresentação teórica dos tópicos abordados e discussão de exemplos e casos de estudo. Resolução de pequenos problemas com aplicação das metodologias selecionadas e uso de software existente. Implementação de algoritmos selecionados. Desenvolvimento de um projeto de análise de redes. Revisão e apresentação de literatura cientifica relacionada.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 40.0 %
+- Teste: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 15.0 horas
+- Estudo autónomo: 90.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho de investigação: 15.0 horas
+
+## Fórmula de cálculo da classificação final
+- 2 &quot;Homeworks&quot;: 30%<br />Mini-trabalhos mistos (escritos + aplicação/implementação)<br />- Teste: 30%<br />Teste Presencial Escrito<br />- Projecto: 40%<br /> Desenvolvimento de um pequeno projeto de investigação com aplicação de ferramentas e algoritmos de network science, e com a escrita de um artigo descrevendo o trabalho desenvolvido.
+
+## Obtenção de frequência
+Ter entregue o projecto de investigação.
+
+## Melhoria de classificação
+Sendo a UC com avaliação distribuída, não existe opção de melhorar algum componente de avaliação no mesmo ano letivo.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Network Science
+
+## Curso responsável
+Master in Artificial Intelligence
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Networks are a fundamental tool for modeling complex social, technological, and biological systems. Having into account the emergeng o large scale network data, this course focuses on the analysis of these networks, which provide multiple computational, algorithmic, and modeling challenges. The course will cover recent research on the structure and analysis of such networks, as well as models and algorithms that abstract their main properties.</p>
+
+## Resultados de aprendizagem e competências
+At the end of this curricular unit the students should be able to:<br />- explain the key concepts of network science and network analysis<br />- apply a range of techniques for characterizing network structure<br />- define methodologies for analyzing networks of different fields<br />- demonstrate knowledge of recent research in the area
+
+## Programa
+- Introduction and Fundamentals: the emergence of network science; graph theory fundamental concepts; representing networks in computer; classical graph algorithms.<br />- Metrics and basic structural properties: degree distribution, paths and diameter, clustering coefficient, centrality measurements ((betweenness, closeness, eigenvector, ...).<br />- Network Visualization: graph drawing, layout algorithms, exploratory analysis with the aid of visualization.<br />- Common properties and network models: random networks and Erdös-Rényi model; &#8220;small-world&#8221; property and Watts-Strogatz model; &#8220;scale-free&#8221; property and Albert-Barabsi model; other models (ex: Kronecker graphs).<br />- Communities: algorithms for detecting communities; optimizing modularity; overlallping communities and other variants.<br />- Patterns and Subgraphs: subgraph as fundamental units; subgraph census; concept and algorithms for network motifs discovery; graphlet degree distributions; incorporating attributes such as colors and weights.<br />- Link Analysis: node rankings, HITS algorithms, PageRank and other variants.<br />- Propagation in networks: information flow; influence; epidemics and propagation models. <br />- Análise de larga escala: o papel da amostragem; algoritmos paralelos; sistemas e bases de dados orientadas a grafos.<br />- Other topics: link prediction; network alignment; node role analysis; temporal networks; multiplex networks; ...
+
+## Métodos de ensino e atividades de aprendizagem
+Lectures: exposition of selected topics and discussion of examples and case studies. Solving small problems with the application of the the given methodologies and using existing software. Implementing selected algorithms. Developing a network analysis project. Reviewing and presenting related scientific literature.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 40.0 %
+- Teste: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 15.0 hours
+- Estudo autónomo: 90.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho de investigação: 15.0 hours
+
+## Fórmula de cálculo da classificação final
+- 2 Homeworks: 30%<br />Small mixed wrirrten + application/implementation assignments<br />- Test: 30%<br />Onsite written test<br />- Project: 40%<br />Development of a small research project with the application of network science tools and algorithms, and with the creation of a written article describing the work done.
+
+## Obtenção de frequência
+To have delivered the small research project.
+
+## Melhoria de classificação
+Being this course with continuous evaluation, there is no option to improve any evaluation componente on the same school year.
+

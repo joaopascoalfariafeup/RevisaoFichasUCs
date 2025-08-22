@@ -1,0 +1,132 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas Distribuídos de Larga Escala
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Os objetivos principais da unidade curricular incluem:<br /> - a aquisição de conhecimento sobre sistemas distribuídos de larga escala<br />- a aquisição de experiência de desenvolvimento de sistemas distribuídos de larga escala.</p>
+
+## Resultados de aprendizagem e competências
+<p>Após conclusão com sucesso desta unidade curricular, os estudantes deverão ser capazes de:</p>
+<ul>
+<li>reconhecer e explicar a relevância da distribuição e de modelos de coordenação na escalabilidade de sistemas informáticos.</li>
+<li>reconhecer e caracterizar os desafios em sistemas distribuídos em termos de problemas e modelos abstratos</li>
+<li>identificar e discutir o papel de algoritmos distribuídos na solução de problemas de escala e de disponibilidade</li>
+<li>identificar e discutir o papel de algoritmos distribuídos na tolerância a falhas de sistemas de grande escala</li>
+<li>conceber aplicações/serviços de larga escala a partir duma especificação de requisitos</li>
+<li>implementar e avaliar serviços e aplicações distribuídos que resolvem problemas de grande escala em ambientes particionáveis e/ou de elevada latência</li>
+<li>identificar e compreender o estado da arte na área de sistemas distribuídos</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>Espera-se que os estudantes tenham frequentado com aproveitamento unidades curriculares sobre Sistemas Operativos, Redes de Computadores e Sistemas Distribuídos</p>
+
+## Programa
+Topologias distribuídas de larga escala<br />Projeto de sistemas para larga escala<br />Técnicas de implementação para larga escala<br />Eventos, tempo físico e tempo lógico<br />Modelos de coerência de dados<br />Tolerância a falhas bizantina e tecnologia &quot;blockchain&quot;
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-weight: 400;">As aulas teóricas são de exposição. Sempre que necessário, exemplos que ajudem à compreensão dos tópicos serão apresentados. Para complementar as bibliografias principal e complementar,  serão fornecidos apontamentos ou artigos.<br /></span><span style="font-weight: 400;"><br />Para reforçar a compreensão dos assuntos e algoritmos apresentados nas aulas teóricas, os estudantes realizarão um projeto bem como trabalhos práticos de menor dimensão.</span></p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 45.0 %
+- Trabalho prático ou de projeto: 45.0 %
+- Participação presencial: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho laboratorial: 60.0 horas
+
+## Fórmula de cálculo da classificação final
+min( 0.45 Trab + 0.45 Ex + 0.1 PA, Trab + 3, Ex. + 3)<br /><br />onde:<br /><br />Trab -- a média das notas nos trabalhos<br />Ex -- nota do exame<br />PA -- participação nas aulas<br /><br />Para aprovação, é necessária uma nota mínima de 10 (em 20) quer na média dos trabalhos quer no exame final.<br /><br />Atrasos na entrega do trabalho serão penalizados em 15% por cada dia de atraso.
+
+## Obtenção de frequência
+Para admissão ao exame final é obrigatório:<br />1) Frequentar pelo menos 75% das aulas TP previstas;<br />2) Ter uma classificação mínima de 10 na média dos trabalhos<br />3) Apresentar/demonstrar os trabalhos<br />4) Preencher os formulários de auto-avaliação/avaliação de pares
+
+## Melhoria de classificação
+<p>A componente do Exame final pode ser melhorada na época própria.<br /> A repetição dos trabalhos para melhoria pode ocorrer apenas noutras ocorrências da unidade curricular.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Large Scale Distributed Systems
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>This course unit has two main objectives:</p>
+<ol>
+<li> give students theoretical knowledge on distributed systems so they can make correct decisions when faced with the need to design/develop/administer large-scale systems;</li>
+<li>provide students with practical experience so they can develop applications using techniques and mechanisms appropriate for large-scale systems.</li>
+</ol>
+
+## Resultados de aprendizagem e competências
+<p>Upon conclusion of this course, the students should be able to:</p>
+<ul>
+<li>explain the importance of distribution and of the coordination models in the scalability of applications and services</li>
+<li>identify the main challenges of distribution and model them in abstract terms</li>
+<li>assess the different techniques and algorithms used to ensure scalability and availability</li>
+<li>assess the different techniques and algorithms used to ensure fault-tolerance at large scale</li>
+<li>design a large-scale application/service, given its specification</li>
+<li>implement, integrate, and run large-scale services and applications, using selected technologies.</li>
+<li>have skills for identifying the state-of-the-art</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>Students are expected to have passed courses on Operating Sytems, Computer Networks and Distributed Systems.</p>
+
+## Programa
+Scalable Distributed Topologies <br />System Design for Large Scale <br />Implementation techniques for scalability<br />Events, Physical Time, and Logical Time<br />Data Consistency Models<br />Byzantine Fault-tolerance and blockchain
+
+## Métodos de ensino e atividades de aprendizagem
+<p>All topics are covered in the lectures, which are mostly expository. To motivate the students, we use case studies, real-world examples and demos, as appropriate. <br /><br />To enhance the understanding of the concepts and algorithms presented in the lectures, the students will perform a project as well as smaller assignments.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 45.0 %
+- Trabalho prático ou de projeto: 45.0 %
+- Participação presencial: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho laboratorial: 60.0 hours
+
+## Fórmula de cálculo da classificação final
+min( 0.45 Proj + 0.45 Ex + 0.1 CP, Proj + 3, Ex. + 3)<br /><br />where:<br /><br />Proj -- average of the assignments' grades<br />Ex -- final exam grade<br />CP -- class participation<br /><br />For passing, students must have a minimum grade of 10 (out of 20) in both the average of the assignments and the final exam.<br /><br />Late asignment submission is penalized in 15% per day.
+
+## Obtenção de frequência
+<p>In order to be able to take the final exam students must:<br />1) Attend at least 75% of the scheduled lab classes;<br />2) Have a minimum grade of 10 (out of 20) in the average of the assignments;<br />3) Demonstrate/present the assignments<br />4) Fill the peer evaluation forms of all the assignments;<br /><br /></p>
+
+## Melhoria de classificação
+The final exam grade can be improved in the scheduled exams.<br />The assignments' grades can be improved only in other instances of the course unit.
+

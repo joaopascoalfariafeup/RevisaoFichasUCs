@@ -1,0 +1,160 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise Numérica
+
+## Curso responsável
+Licenciatura em Engenharia e Gestão Industrial
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p><strong>Objectivos Gerais:</strong> <br />Conhecer os métodos de resolução numérica mais aplicáveis e mais eficientes, para cada problema base de Análise Numérica, bem como as condições de aplicabilidade e teoremas de convergência destes métodos. Espera-se que executem testes de aplicação prática em computador, discutindo os resultados obtidos, e que através da programação de alguns desses métodos em Matlab, adquiram prática de programação numérica. <br /><br /><br /><strong>Objectivos Específicos:</strong><br />Em cada capítulo do programa, os alunos devem ser capazes de:</p>
+<ul>
+<li>Listar as condições de aplicabilidade dos métodos e enunciar os respectivos teoremas de convergência.</li>
+<li>Aplicar os métodos, fórmulas e algoritmos apresentados a problemas concretos e simples.</li>
+<li>Descrever o funcionamento dos métodos, traduzi-los em algoritmos e subprogramas (Functions) no MATLAB e testá-los com exemplos, comparando e analisando os resultados.</li>
+<li>Explicar as demonstrações dos teoremas apresentados e aplicar as técnicas descritas a situações relacionadas.</li>
+<li>Resolver novos problemas utilizando as ferramentas numéricas fornecidas e comparar o desempenho de diferentes métodos numéricos em termos de velocidade e confiabilidade.</li>
+</ul>
+É importante enfatizar que os alunos devem dominar a linguagem MATLAB. Contudo, ainda mais crucial é que sejam proficientes na escrita de pseudocódigo (linguagem algorítmica), pois essa habilidade constitui a base de qualquer linguagem de programação.<br /><br /><strong>Nota:</strong> <span style="text-decoration: underline;">durante os testes e exames, os alunos não terão acesso a um computador, portanto, devem ter um domínio sólido da linguagem MATLAB e da linguagem algorítmica (pseudocódigo). Nos trabalhos, é obrigatório o uso da linguagem MATLAB.</span>
+
+## Resultados de aprendizagem e competências
+<p>Em cada capítulo do programa, os alunos devem ser capazes de:</p>
+<ul>
+<li>Listar as condições de aplicabilidade dos métodos e enunciar os respectivos teoremas de convergência.</li>
+<li>Aplicar os métodos, fórmulas e algoritmos apresentados a problemas concretos e simples.</li>
+<li>Descrever o funcionamento dos métodos, traduzi-los em algoritmos e subprogramas (Functions) no MATLAB e testá-los com exemplos, comparando e analisando os resultados.</li>
+<li>Explicar as demonstrações dos teoremas apresentados e aplicar as técnicas descritas a situações relacionadas.</li>
+<li>Resolver novos problemas utilizando as ferramentas numéricas fornecidas e comparar o desempenho de diferentes métodos numéricos em termos de velocidade e confiabilidade.</li>
+</ul>
+É importante enfatizar que os alunos devem dominar a linguagem MATLAB. Contudo, ainda mais crucial é que sejam proficientes na escrita de pseudocódigo (linguagem algorítmica), pois essa habilidade constitui a base de qualquer linguagem de programação.
+
+## Pré-requisitos e co-requisitos
+<p>Os estudantes devem saber as matérias das unidades curriculares de Algebra Linear e Geometria Analítica, Análise Matemática I e II e de Programação de Computadores.<br />Presume-se que os alunos já tenham conhecimento da ferramenta MATLAB.<br /><br /><strong>Instalação de MATLAB:</strong><br /><a href="https://www.up.pt/portal/pt/updigital/software/comunidade/">https://www.up.pt/portal/pt/updigital/software/comunidade/</a><br /><br /></p>
+<p data-block-key="7pvmc"><strong>Acesso</strong></p>
+<ol>
+<li data-block-key="4uogr">Aceda ao <a href="https://www.mathworks.com/academia/tah-portal/universidade-do-porto-31653351.html" target="_blank" rel="noopener noreferrer">Portal "MATLAB para a Universidade do Porto"</a>;</li>
+<li data-block-key="241pc">Clique no botão <strong><em>"Sign in to get started"</em></strong> que se encontra no corpo da página;</li>
+<li data-block-key="73ss4">Se não tiver nenhum registo prévio com a conta de <em>email</em> institucional, selecione a opção "<em>No account? Create one!</em>" e preencha o formulário que é apresentado consultando, se necessário, as <a href="https://www.mathworks.com/academia/campus/resources/quick-start.html?s_tid=tah_po_helpbutton" target="_blank" rel="noopener noreferrer">instruções para a criação da conta <em>MathWorks</em> e instalação de licença individual</a>.</li>
+</ol>
+
+## Programa
+<p><strong>Cap. 1 Erros de arredondamento e sua propagação</strong>: possível instabilidade dos métodos numéricos; origem dos erros de arredondamento, sistemas de numeração em computadores: sistemas de vírgula fixa e flutuante.<br /><br /><strong>Cap. 2 Equações não lineares</strong>: condições gerais para a resolução, critérios de paragem dos métodos iterativos; métodos de cálculo: bissecções, Newton, secante, método iterativo simples (ponto fixo). Teoremas de convergência, estimativa e majoração dos erros de truncatura, ordem de convergência. <br /><br /><strong>Cap. 3 Sistemas de Equações:</strong> métodos iterativos para resolução de sistemas de equações. Método de Jacobi, Método de Gauss Seidel, Método de Newton. Condições de Convergência.<br /><br /><strong>Cap. 4 </strong>Aproximação de Funções: polinómio interpolador, fórmula interpoladora de Lagrange, fórmula interpoladora de Newton (diferenças divididas), mínimos quadrados. <br /><br /><strong>Cap. 5 Integração Numérica:</strong> fórmulas de Newton-Cotes (ex: Trapézios e Simpson); fórmulas compostas; erros de integração numérica.<br /><br /><strong>Cap. 6 Problemas de valor Inicial:</strong> existência e unicidade da solução, métodos numéricos, convergência.<br /><br /></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As exposições teóricas, apresentadas no quadro, em apresentações de PowerPoint ou em vídeos, são fortemente fundamentadas em Análise e Álgebra, sendo sempre acompanhadas, quando possível, de exemplos práticos que servem como motivação. Também são sugeridos outros exemplos para serem testados em computador, de forma a observar o seu comportamento prático, que será depois explicado à luz da teoria aprendida.</p>
+<p>Nas aulas práticas, os alunos realizam exercícios em folha e papel e, em algumas aulas em salas equipadas com computadores e software adequado, implementam os algoritmos aprendidos nas aulas teóricas.</p>
+<p>Fora das aulas, os alunos desenvolverão projectos de programação de média complexidade em Matlab (dois trabalhos práticos, que juntos valem 10% da nota final). Vale a pena destacar que <strong>os alunos têm 106 horas de estudo autónomo</strong>, que devem ser tidas em conta no seu planeamento de estudo. <strong>Fazer um estudo exclusivamente baseado na resolução de testes de anos anteriores não é uma prática recomendada por si só.</strong></p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 0.0 %
+- Teste: 90.0 %
+- Trabalho escrito: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 horas
+- Frequência das aulas: 56.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><strong>Fórmula de Cálculo - nota final - avaliação contínua:</strong><br />45% do primeiro teste + 45% do segundo teste + 10% (dois trabalhos a realizar ao longo do semestre)<br /><br /><strong>Recurso:</strong><br />Na prova de recurso os alunos ainda não aprovados só poderão fazer um teste global que vale 100%.<br /><br /><strong>Melhoria:</strong><br /> Os alunos que obtiveram aprovação, podem fazer a melhoria de classificação na prova de recurso somente numa <span style="text-decoration: underline;">prova final com toda a matéria e que vale 100%</span>.<br /> A nota máxima 20 será atribuída apenas com realização de uma prova oral.<br /><br /><br /><strong>Nota Importante:</strong><br />Durante a avaliação contínua, os alunos devem ter uma <strong>nota mínima de 7 valores</strong> em cada um dos testes, caso contrário terão que ir à época de recurso fazer um exame global.<br /><br />Se os alunos tiverem, por exemplo, uma nota mínima superior ou igual a 7 valores no primeiro teste, e tiverem uma nota mínima inferior a 7 valores no segundo teste, sendo a média dos dois testes superior ou igual 9.5 valores, não ficarão aprovados à disciplina, e terão que fazer o exame final na época de recurso, que vale 100%.</p>
+
+## Obtenção de frequência
+<p>Presença em 75% das aulas práticas</p>
+
+## Melhoria de classificação
+<p>Os alunos que obtiveram aprovação, podem fazer a melhoria de classificação no exame de recurso somente numa prova final com toda a matéria e que vale 100%.<br /> A nota máxima 20 será atribuída apenas com realização de uma prova oral.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Numerical Analysis
+
+## Curso responsável
+Bachelor in Industrial Engineering and Management
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p><strong>General Objectives:</strong><br />Understand the most applicable and efficient numerical resolution methods for each fundamental problem in Numerical Analysis, as well as the conditions for their applicability and the corresponding convergence theorems. Students are expected to conduct practical application tests on a computer, analyze the obtained results, and gain hands-on experience in numerical programming by implementing some of these methods in MATLAB.</p>
+<p><strong><br />Specific Objectives:</strong><br />For each chapter of the program, students should be able to:</p>
+<ul>
+<li>Identify the applicability conditions of the methods and state the corresponding convergence theorems.</li>
+<li>Apply the given methods, formulas, and algorithms to simple concrete problems.</li>
+<li>Describe how the methods work, translate them into algorithms and subprograms (functions) in MATLAB, and test them using examples, comparing and analyzing the results.</li>
+<li>Explain the proofs of the given theorems and apply the described techniques to related situations.</li>
+<li>Solve new problems using the provided numerical tools and compare the performance of various numerical methods in terms of speed and reliability.</li>
+</ul>
+<p>It is important to highlight that students must master MATLAB's language, but even more crucially, they should be proficient in writing pseudocode (algotithmic language), which serves as the foundation of any programming language.<br /><br /><strong>Remark:</strong> <span style="text-decoration: underline;">during tests and exams, students will not have access to a computer, so they must have a strong command of MATLAB and algorithmic language (pseudocode). For assignments, students are required to use MATLAB.</span></p>
+
+## Resultados de aprendizagem e competências
+<p>For each chapter of the program, students should be able to:</p>
+<ul>
+<li>Identify the applicability conditions of the methods and state the corresponding convergence theorems.</li>
+<li>Apply the given methods, formulas, and algorithms to simple concrete problems.</li>
+<li>Describe how the methods work, translate them into algorithms and subprograms (functions) in MATLAB, and test them using examples, comparing and analyzing the results.</li>
+<li>Explain the proofs of the given theorems and apply the described techniques to related situations.</li>
+<li>Solve new problems using the provided numerical tools and compare the performance of various numerical methods in terms of speed and reliability.</li>
+</ul>
+<p>It is important to highlight that students must master MATLAB's language, but even more crucially, they should be proficient in writing pseudocode (algotithmic language), which serves as the foundation of any programming language.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Students are expected to be familiar with the topics covered in Linear Algebra, Mathematical Analysis I and II, and Computer Programming. It is assumed that they already have a solid understanding of the MATLAB software.<br /><br /><br /><strong>MATLAB instalation procedure:</strong><br />https://www.up.pt/portal/pt/updigital/software/comunidade/</p>
+
+## Programa
+<p><strong>Chapter 1 &#8211; Rounding Errors and Their Propagation: </strong>potential instability of numerical methods; origin of rounding errors; number systems in computers: fixed-point and floating-point systems.</p>
+<p><strong>Chapter 2 &#8211; Nonlinear Equations: </strong>general conditions for solving; stopping criteria for iterative methods; calculation methods: bisection, Newton, secant, simple iterative method (fixed point). Convergence theorems; estimation and bounding of truncation errors; order of convergence.</p>
+<p><strong>Chapter 3 &#8211; Systems of Equations: </strong>iterative methods for solving systems of equations. Jacobi Method, Gauss-Seidel Method, Newton&#8217;s Method. Convergence conditions.</p>
+<p><strong>Chapter 4 &#8211; Function Approximation: </strong>interpolating polynomial; Lagrange interpolation formula; Newton interpolation formula (divided differences); least squares.</p>
+<p><strong>Chapter 5 &#8211; Numerical Integration: </strong>Newton-Cotes formulas (e.g., Trapezoidal and Simpson's rules); composite formulas; numerical integration errors.</p>
+<p><strong>Chapter 6 &#8211; Initial Value Problems: </strong>Existence and uniqueness of the solution; numerical methods; convergence.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The theoretical presentations, given on the blackboard, in PowerPoint presentations, or in videos, are strongly based on Analysis and Algebra, always accompanied, when possible, by practical examples that serve as motivation. Other examples are also suggested for testing on a computer to observe their practical behavior, which is then explained in light of the theory learned.</p>
+<p>In practical classes, students carry out exercises on paper and, in some classes held in rooms equipped with computers and appropriate software, they implement the algorithms learned in theoretical lessons.</p>
+<p>Outside of class, students will develop medium-complexity programming projects in Matlab (two practical assignments, which together account for 10% of the final grade). It is worth highlighting that<strong> students have 106 hours of independent study</strong>, which should be considered in their study planning. <strong>Relying exclusively on solving past-year tests is not a recommended practice on its own.</strong></p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 0.0 %
+- Teste: 90.0 %
+- Trabalho escrito: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 hours
+- Frequência das aulas: 56.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><strong>Calculation Formula - final grade - continuous assessment:</strong> <br />45% of the first test + 45% of the second test + 10% (two assignments to be completed throughout the semester)</p>
+<p><strong>Resit:</strong> In the resit exam, students who have not yet passed may only take a global test, which is worth 100%.</p>
+<p><strong>Grade Improvement:</strong> Students who have passed can improve their grade in the resit exam by taking a final exam covering all the material, which is worth 100%. The maximum grade of 20 will only be awarded after an oral exam.</p>
+<p><strong>Important Note:</strong> During continuous assessment, students must achieve a minimum grade of 7 in each test. Otherwise, they will have to take a global exam during the resit period.</p>
+<p>If students have, for example, a minimum grade of 7 or higher in the first test, and a grade lower than 7 in the second test, but the average of the two tests is 9.5 or higher, they will not be approved in the course and will need to take the final exam in the resit period, which is worth 100%.</p>
+
+## Obtenção de frequência
+<p>Attendance in 75% of practical classes</p>
+
+## Melhoria de classificação
+Students who have passed can improve their grade in the makeup exam only in a final exam covering the entire subject matter worth 100%. The maximum score of 20 will be awarded only through an oral exam.
+

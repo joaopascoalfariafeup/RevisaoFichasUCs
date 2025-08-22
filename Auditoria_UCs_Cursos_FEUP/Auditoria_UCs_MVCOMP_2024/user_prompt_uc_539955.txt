@@ -1,0 +1,108 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Instrumentação e Processamento para Visão Artificial
+
+## Curso responsável
+Mestrado em Visão por Computador
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Esta unidade curricular aborda os aspetos da aquisição e processamento de imagem. Do ponto de vista da aplicação industrial, elucida também temas como a iluminação e a calibração de câmaras. É dada atenção aos aspetos de hardware, desde as lentes e sistemas de câmaras até às interfaces câmara-computador. Para além da análise de hardware, o software necessário é discutido com igual profundidade. Isto inclui ligações com conceitos básicos de imagem digital, análise e processamento de imagens (discutidos noutras unidades curriculares). Por fim, o aluno é apresentado a aspetos gerais das aplicações industriais da visão artificial, tais como estudos de caso e estratégias para a conceção de sistemas completos de visão artificial. O aluno estará habilitado não só a compreender sistemas atualizados de visão artificial, mas também a estar qualificado para o planeamento e avaliação desta tecnologia.
+
+## Resultados de aprendizagem e competências
+Competências Básicas<br />CB7- Os estudantes deverão ser capazes de aplicar os conhecimentos adquiridos ao longo do curso e a capacidade de resolução de problemas em novos cenários relacionados com a sua área de estudo.<br /><br />Competências Transversais<br />CT2- Capacidade de trabalho em equipa, organização e planeamento.<br />CT5- Planos ecológicos e de sustentabilidade na carreira profissional. Equidade, responsabilidade e eficiência com os recursos disponíveis.<br /><br />Competências genéricas<br />CG3- Capacidade de conceber e implementar sistemas de visão por computador atendendo às necessidades existentes e capacidade de executar as ferramentas mais adequadas.<br />CG4- Ser crítico e fazer avaliações rigorosas e criteriosas das tecnologias e metodologias.<br /><br />Competências Específicas<br />CE6- Conhecer e aplicar os fundamentos da aquisição de imagem e da visão por computador.
+
+## Pré-requisitos e co-requisitos
+Recomenda-se o conhecimento de uma linguagem de programação, preferencialmente Python ou C++, e conceitos básicos de álgebra.
+
+## Programa
+<ol><br /><li>Aquisição de imagem e vídeo: iluminação, lentes, sensores e interfaces.</li><br /><li>Sensores de imagem inteligentes.</li><br /><li>Algoritmos de visão articial.</li><br /><li>Calibração geométrica da câmara.</li><br /><li>Aquisição de dados 3D.</li><br /><li>Sistemas e aplicações de visão industrial.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+Aulas presenciais pelo docente sobre os temas de cada capítulo. Serão fornecidos exemplos de casos de utilização de cada capítulo. Alguns conceitos serão completados com palestras. Os alunos participarão em aulas laboratoriais, conduzirão as suas experiências e farão os seus próprios trabalhos de casa para elaborar o conteúdo.<br /><br />Esta unidade curricular requer a participação presencial de todos os estudantes na Universidade de Santiago de Compostela para a realização de parte das suas práticas laboratoriais.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Trabalho laboratorial: 60.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 55.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 65.0 horas
+
+## Fórmula de cálculo da classificação final
+Classificação_Final = Classificação_Exame*40% + Classificação_Avaliação_Distribuída*60%
+
+## Obtenção de frequência
+É obrigatório entregar e apresentar os trabalhos práticos solicitados durante o curso.
+
+## Melhoria de classificação
+A nota do exame final poderá ser melhorada na época seguinte, de acordo com as regras da FEUP. A nota da avaliação distribuída é a obtida no final das aulas, e só poderá ser melhorada através de nova inscrição numa próxima ocorrência desta unidade curricular.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Instrumentation and processing for machine vision
+
+## Curso responsável
+Master in Computer Vision
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+This curricular unit goes through the aspects of image acquisition and image processing. From the viewpoint of industrial application, the course also elucidates topics like illumination and camera calibration. Attention is paid to the hardware aspects, from lenses and camera systems to camera-computer interfaces. Besides the hardware analysis, the necessary software is discussed with equal depth. This includes connections to digital image basics, image analysis, and processing (discussed in other curricular units). Finally, the student is introduced to general aspects of industrial applications of machine vision, such as case studies and strategies for the conception of complete machine vision systems. The student will be enabled not only to understand up-to-date systems for machine vision but also to be qualified for the planning and evaluation of such technology.
+
+## Resultados de aprendizagem e competências
+Basic Skills<br />CB7- Students have to be capable of applying the knowledge learned throughout the course and problem-solving abilities in new scenarios related to their field of study.<br /><br />Transversal Skills<br />CT2- Teamwork capacity, organization and planning.<br />CT5- Green and sustainability plans in their professional careers. Equity, responsibility and efficiency with the resources available.<br /><br />Generic Skills<br />CG3- Ability to design and deploy computer vision systems meeting existing needs and ability to run the most suitable tools.<br />CG4- To be critical and to make strict and thoughtful assessments of technologies and methodologies.<br /><br />Specific Skills<br />CE6- To be knowledgeable and apply the fundamentals of image acquisition and computer vision.
+
+## Pré-requisitos e co-requisitos
+Knowledge of a programming language, preferably Python or C++, and basic algebra concepts are recommended.
+
+## Programa
+<ol><br /><li>Image and video acquisition: lighting, lenses, sensors and interfaces.</li><br /><li>Smart image sensors.</li><br /><li>Machine vision algorithms.</li><br /><li>Geometric camera calibration.</li><br /><li>3D data acquisition.</li><br /><li>Industrial machine vision systems and applications.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+Face-to-face lectures by the teacher on the topics of each chapter. Examples of use cases of every chapter will be given. Some concepts will be completed with talks. Students will attend lab lessons, conduct their experiments, and do their own homework to elaborate on the contents.<br /><br />This curricular unit requires face-to-face participation of all students at the University of Santiago de Compostela to carry out part of their laboratory practices.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Trabalho laboratorial: 60.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 55.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 65.0 hours
+
+## Fórmula de cálculo da classificação final
+Final_grade = Exam_grade*40% + Distributed_grade*60%
+
+## Obtenção de frequência
+Submitting and presenting the practical assignments is mandatory.
+
+## Melhoria de classificação
+The grade on the final exam can be improved in the next exam season, according to FEUP rules. The distributed evaluation grade is the one obtained at the end of classes, and it can only be improved by enrolling again in a future occurrence of this course.
+

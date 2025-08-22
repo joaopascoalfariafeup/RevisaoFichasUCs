@@ -1,0 +1,172 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Desenho e Desenvolvimento de Jogos Digitais
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>1 - INTRODUÇÃO</p>
+<p>Os engenheiros informáticos podem tirar grandes vantagens em possuir competências no desenvolvimento de jogos digitais, não só como produto final da indústria do entretenimento, mas também pelas capacidades imersiva e de interatividade desta tecnologia, que podem potenciar, inclusivamente, a aprendizagem.</p>
+<p>2 - OBJETIVOS ESPECÍFICOS</p>
+<p>O objetivo desta unidade curricular é transmitir o conhecimento sobre o processo de desenvolvimento de jogos de computador, com ênfase particular nos aspetos relacionados com a programação dos diversos módulos que compõem um motor de jogo, numa perspetiva multidisciplinar.</p>
+<p>3 - DISTRIBUIÇÃO PERCENTUAL</p>
+<ul>
+<li>Componente científica: 30%</li>
+<li>Componente tecnológica: 70%</li>
+</ul>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>No final da unidade curricular o estudante será capaz de:</p>
+<ul>
+<li>Identificar as diversas fases do projeto de um jogo de computador e todas as competências envolvidas;</li>
+<li>Aplicar técnicas de programação de jogos de computador nas suas várias vertentes;</li>
+<li>Selecionar os algoritmos e as técnicas de programação que melhor se adequam à especificação e design de um jogo de computador;</li>
+<li>Desenvolver, programar ou estender os diversos módulos que compõem um motor de jogo.</li>
+<li>Desenvolver o projeto de um jogo de computador, enquadrando-se numa equipa multidisciplinar.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>Conhecimentos essenciais de programação (preferivelmente em C e C++), Algoritmos e Estruturas de Dados e Computação Gráfica. </p>
+
+## Programa
+<p>O programa desta unidade curricular baseia-se no documento &#8220;IGDA Curriculum Framework&#8221;, com uma incidência predominante sobre as questões mais relacionadas com a programação de jogos de computadores.</p>
+<p>1. Jogos de Computador: Conceito; enquadramento histórico; processo de desenvolvimento; aspetos psicológicos e sociais.</p>
+<p>2. Design de Jogos de Computador Criação de jogos de computador: criação da estória, personagens, ambientes e níveis; mecânica do jogo; interação com o utilizador; documentação de suporte.</p>
+<p>3. Programação de Jogos de Computador Arquitetura de um motor de jogo; estruturas de dados e algoritmos; motor gráfico; motor de lógica; motor de física. Inteligência artificial. Modelação procedimental.</p>
+<p>4. Design Visual e Áudio Design, criação e análise das componentes visuais dos jogos de computador; design e criação do som e dos ambientes sonoros dos jogos de computador.</p>
+<p>5. A Indústria dos Jogos de Computador Enquadramento; áreas de negócio e aplicação dos jogos de computador; ciclo de vida do desenvolvimento de jogos de computador.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas serão teórico-práticas.</p>
+<p>Uma das componentes das aulas inclui a exposição e a discussão dos tópicos do programa, bem como um conjunto de palestras de oradores convidados envolvidos ativamente no desenvolvimento de jogos de computador.</p>
+<p>Numa outra componente, os estudantes realizam dois projetos de desenvolvimento de jogos de computador, enquadrados em grupos de trabalho, que incluirão elementos de outras áreas/cursos, como modelação e animação 3D e Design de Som. <br /><br />No final será organizada uma conferência onde serão apresentados os projetos finais desenvolvidos.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Participação presencial: 5.0 %
+- Teste: 10.0 %
+- Trabalho laboratorial: 85.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 70.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>O cálculo da classificação final obedece à seguinte fórmula:</p>
+<p><strong>CF = PP * 35% + PF * 50% + MT * 10% + AC * 5%</strong></p>
+<ul>
+<li>CF: Classificação Final</li>
+<li>PP: Projeto Preliminar</li>
+<li>PF: Projeto Final</li>
+<li>MT: Mini-Teste</li>
+<li>AC: Avaliação Contínua / Frequência nas aulas</li>
+</ul>
+
+## Obtenção de frequência
+<p>Não exceder o número limite de faltas e participar ativamente na elaboração dos projetos.<br /><br />Em caso de diferenças significativas de envolvimento no projeto entre elementos do mesmo grupo, as mesmas serão refletidas na avaliação da componente de projeto de cada estudante, tendo em conta a avaliação contínua dos docentes e uma avaliação inter-pares.<br /><br />Os trabalhadores estudantes e equivalentes são dispensados das aulas mas devem, com periodicidade a combinar com os docentes, apresentar a evolução dos seus trabalhos, assim como devem fazer a apresentação destes, simultaneamente com os alunos ordinários.</p>
+
+## Melhoria de classificação
+<p>A melhoria da classificação final será realizada em momento único com a entrega e apresentação de um projeto de desenvolvimento de um jogo de computador. O estudante deverá contactar o docente, oportunamente, para a especificação do projeto, sendo também necessário apresentar a evolução do seu trabalho ao docente, com periodicidade a combinar com este.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Design and Development of Digital Games
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>1 - BACKGROUND</p>
+<p>Software engineers can take great advantages of having skills in the development of digital games, not only as a final product of the entertainment industry, but also due to the immersive and interactive capabilities of this technology that can enhance diverse software products, even in learning.</p>
+<p>2 - SPECIFIC AIMS</p>
+<p>The aim of this course is to convey knowledge about the process of computer games development, with particular emphasis on issues related to the programming of the distinct modules that compose a game engine, in a multidisciplinary perspective.</p>
+<p>3 - PERCENT DISTRIBUTION</p>
+<ul>
+<li>Scientific component: 30%</li>
+<li>Technological component: 70%</li>
+</ul>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of the course the student will be able to:</p>
+<ul>
+<li>Identify the distinct tasks in a computer game project and all the skills involved;</li>
+<li>Apply computer games programming techniques within the context of computer games development;</li>
+<li>Select the algorithms and programming techniques that are best suited to the specification and design of a computer game;</li>
+<li>Develop, program and extend the distinct modules that compose a game engine.</li>
+<li>Develop a computer game project integrated in a multidisciplinary team.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>Essential knowledge of Computer Programming (preferably C and C++), Algorithms and Data Structures and Computer Graphics.</p>
+
+## Programa
+<p>The program of this course is based on the document "IGDA Curriculum Framework", with a predominant focus on issues related to computer games programming.</p>
+<p>1. Computer Games: Concept, historical background, development process, psychological and social aspects.</p>
+<p>2. Computer Games Design Creating computer games: creating the story, characters, environments and game levels; the game mechanics; user interaction; supporting documentation.</p>
+<p>3. Computer Games Programming Architecture of a game engine, data structures and algorithms, graphics engine, logic engine, physics engine. Artificial Intelligence. Procedural modelling.</p>
+<p>4. Visual and Audio Design Design, creation and analysis of the visual components of computer games; design and creation of sound and sound environments for computer games.</p>
+<p>5. Industry of Computer Games Outline of the industry of computer games; business areas and application of computer games, computer games development lifecycle.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Classes will be theoretical and practical.</p>
+<p>One component of the classes is the presentation and discussion of topics from the course program as well as a series of lectures by guest speakers actively involved in computer games development.</p>
+<p>In another component, the students develop two projects on computer game development, integrated in working groups, together with elements from other fields/courses, such as 3D modelling and animation and Sound Design. <br /><br />A conference is taking place at the end of the semester where the students present the final projects developed.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Participação presencial: 5.0 %
+- Teste: 10.0 %
+- Trabalho laboratorial: 85.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 70.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final mark is calculated by the following formula:</p>
+<p><strong>FM = PP * 35% + FP * 50% + MT * 10% + EC * 5% </strong></p>
+<ul>
+<li>FM: Final Mark</li>
+<li>PP: Preliminary Project</li>
+<li>FP: Final Project</li>
+<li>MT: Mini-Test</li>
+<li>EC: Evaluation from classes / Attendance</li>
+</ul>
+
+## Obtenção de frequência
+<p>Do not exceed the maximum number of absences and participate actively in the development of the proposed assignments. <br /><br />In case of significant differences of involvment in the projects among members of the same group, those differences will be reflected in the each student's individual evaluation of the project, taking into account the teacher's continuous evaluation and students' peer and self assessment.<br /><br />Students with worker statute or equivalent are exempted from classes but must present the progress of their work, and should make their presentation together with ordinary students. <br /><br /></p>
+
+## Melhoria de classificação
+<p>Classification Improvement will be held in a single moment with the delivery and presentation of a computer game project. The student should contact the teacher staff for the project specification. It is also necessary to present the evolution of the work at regular intervals.</p>
+

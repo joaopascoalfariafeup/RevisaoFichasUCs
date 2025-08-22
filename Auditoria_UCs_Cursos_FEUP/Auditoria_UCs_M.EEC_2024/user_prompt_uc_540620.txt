@@ -1,0 +1,284 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Projeto de Circuitos Integrados Analógico-Digitais
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>A constante miniaturização que a tecnologia dos semicondutores proporciona é responsável por virtualmente todo o desenvolvimento tecnológico moderno. A microeletrónica, associada ao desenho de circuitos integrados (&#8220;microchips&#8221;), torna possível esta realidade, estando na base construtiva dos sistemas atuais.</p>
+<p>Esta unidade curricular visa dotar os estudantes com a capacidade de analisar e projetar circuitos integrados em tecnologia CMOS, atendendo a especificações concretas e a condicionantes intrínsecas às limitações das tecnologias. Para tal, os estudantes deverão compreender a física dos dispositivos para que entendam bem os princípios de operação e os modelos funcionais dos transístores, a fim de bem os utilizarem no projeto e simulação de circuitos.</p>
+<p>O entendimento das causas de variação paramétrica associadas a desvios do processo de fabrico e a sensibilidade a grandezas externas, permite compreender a necessidade da otimização do desempenho funcional e da adoção de boas praticas de projeto e desenho estrutural para a sua implantação em substratos monolíticos.</p>
+<p>Estes conhecimentos são aplicados no projeto dos blocos construtivos de circuitos integrados de enfoque analógico, assistido circuitos digitais auxiliares para otimização da função a implementar.</p>
+
+## Resultados de aprendizagem e competências
+<p>No final desta unidade curricular o estudante deve ser capaz de:</p>
+<ul>
+<li>Compreender os princi&#769;pios fi&#769;sicos subjacentes, as limitac&#807;o&#771;es, as capacidades, e o fabrico de circuitos em tecnologias CMOS submicrome&#769;tricas;</li>
+<li>Compreender os modelos de simulac&#807;a&#771;o de dispositivos ativos e passivos implantados em tecnologia CMOS;</li>
+<li>Analisar e projetar circuitos CMOS seguindo princi&#769;pios que promovem soluc&#807;o&#771;es de bom &#8220;funcionamento a&#768; primeira&#8221;, atendendo a limitac&#807;o&#771;es comportamentais e a&#768;s condic&#807;o&#771;es operacionais de amplitude e freque&#770;ncia dos sinais;</li>
+<li>Simulac&#807;a&#771;o e desenho estrutural de circuitos integrados usando ferramentas de CAD avanc&#807;adas;</li>
+<li>Escrever relato&#769;rios te&#769;cnicos, apresentar e defender publicamente o trabalho desenvolvido.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Conhecimentos em eletrónica básica (equivalentes a Eletrónica 1 e Eletrónica 2 da licenciatura).
+
+## Programa
+<p>Ao longo da execução do programa, e quando apropriado, serão introduzidas metodologias de controlo digital para assistir a função analógica, seja para calibração de variações de processo ou para melhoramento das características do circuito em operação</p>
+<ol>
+<li>Revisa&#771;o da fi&#769;sica dos semicondutores e do transi&#769;stor MOS.</li>
+<li>Modelos avanc&#807;ados de transi&#769;stores MOS;</li>
+<li>Tecnologia, processos de fabrico e efeito da variabilidade das caracteri&#769;sticas do processo;</li>
+<li>Implantac&#807;a&#771;o de dispositivos ativos e passivos em substratos de sili&#769;cio monoli&#769;ticos e respetivos modelos.</li>
+<li>Desenho estrutural otimizado de circuitos CMOS de sinal misto;</li>
+<li>Simulac&#807;a&#771;o de circuitos, ana&#769;lises de &#8220;corners&#8221; e Monte Carlo &#8211; avaliac&#807;a&#771;o das sensibilidades PVT (processo, tensa&#771;o de alimentac&#807;a&#771;o, e temperatura);</li>
+<li>Amplificadores CMOS;</li>
+<li>Circuitos de gesta&#771;o de energia;</li>
+<li>Filtros Gm-C;</li>
+<li>Circuitos de capacidades comutadas;</li>
+<li>Conversores A/D e D/A.</li>
+</ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Na metodologia a seguir procura-se obter um equili&#769;brio entre exposic&#807;a&#771;o teo&#769;rica, ana&#769;lise conceptual de blocos funcionais e de dimensionamento, e projecto usando ferramentas CAD:</p>
+<ul>
+<li><span style="text-decoration: underline;">Aulas teo&#769;ricas:</span> apresentac&#807;a&#771;o dos conteu&#769;dos, ana&#769;lise de exemplos ilustrativos e resoluc&#807;a&#771;o de problemas. A participac&#807;a&#771;o dos estudantes e&#769; incentivada com a preparac&#807;a&#771;o e apresentac&#807;a&#771;o nas aulas de pequenos trabalhos de si&#769;ntese, monografias, e resultados de projecto. Trabalho de casa: (1) resoluc&#807;a&#771;o de problemas para aprofundamento dos conteu&#769;dos lecionados, (2) preparac&#807;a&#771;o de trabalhos para realizac&#807;a&#771;o em laborato&#769;rio;</li>
+<li><span style="text-decoration: underline;">Aulas de laborato&#769;rio:</span> utilizac&#807;a&#771;o de ferramentas CAD de microelectro&#769;nica de modo a serem aplicados os conceitos aprendidos no projeto de circuitos mistos. Os estudantes devera&#771;o escrever um relato&#769;rio te&#769;cnico sobre o seu projeto e defende&#770;-lo em contexto de sala de aula.</li>
+</ul>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Trabalho prático ou de projeto: 40.0 %
+- Trabalho escrito: 20.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 64.5 horas
+- Frequência das aulas: 45.5 horas
+- Trabalho laboratorial: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação compreende três componentes:</p>
+<ul>
+<li>Exame final &#8212; Duração prevista de duas horas, compreendendo um componente sem consulta e uma outra com consulta;</li>
+<li>Trabalhos de casa &#8212; exercícios, eventuais monografias e respetiva apresentação;</li>
+<li>Trabalho laboratorial  &#8212;  desenvolvimento de trabalhos e projeto final, respetiva documentação produzida e apresentação.</li>
+</ul>
+<table style="width: 351px;">
+<tbody>
+<tr>
+<td style="width: 23.7656px;"><strong>CF</strong></td>
+<td style="width: 17.2344px;"><strong>&#8211; </strong></td>
+<td style="width: 277px;"><strong>Classificação Final;</strong></td>
+</tr>
+<tr>
+<td style="width: 23.7656px;">E</td>
+<td style="width: 17.2344px;">&#8211;</td>
+<td style="width: 277px;"> Exame;</td>
+</tr>
+<tr>
+<td style="width: 23.7656px;">TPC</td>
+<td style="width: 17.2344px;">&#8211;</td>
+<td style="width: 277px;">Trabalho Para Casa;</td>
+</tr>
+<tr>
+<td style="width: 23.7656px;">PL</td>
+<td style="width: 17.2344px;">&#8211;</td>
+<td style="width: 277px;">Prática Laboratorial;</td>
+</tr>
+</tbody>
+</table>
+<p><strong>CF</strong> = 0,4×E + 0,2×TPC + 0,4×PL</p>
+
+## Obtenção de frequência
+<p>A componente laboratorial é de extrema importância no processo de aprendizagem, é aqui que o ou a estudante têm oportunidade de aplicar e praticar os diferentes conceitos aprendidos:</p>
+<ol>
+<li>A frequência da componente laboratorial é obrigatória e sujeita à legislação no tocante ao número máximo de faltas admissível.</li>
+<li>A justificação de uma falta não a elimina da contagem para efeito de aproveitamento, devendo os alunos repetir os trabalhos respetivos numa outra aula ou em tempo extra curricular, desde que autorizado pelo docente e em moldes que permita comprovar a sua execução.</li>
+<li>O acesso a qualquer exame exige um mínimo de 10 valores (em 20) na componente laboratorial.</li>
+</ol>
+
+## Melhoria de classificação
+<p>A componente distribuída (TPC e PL) mantém o seu peso, quer para o exame de época normal quer para o de recurso, bem como em caso de melhoria. O mesmo se aplica a qualquer época especial de exames. Significa que a classificação final é sempre determinada por:</p>
+<table style="width: 351px;">
+<tbody>
+<tr>
+<td style="width: 23.7656px;"><strong>CF</strong></td>
+<td style="width: 17.2344px;"><strong>&#8211;</strong></td>
+<td style="width: 277px;"><strong>Classificação Final;</strong></td>
+</tr>
+<tr>
+<td style="width: 23.7656px;">E</td>
+<td style="width: 17.2344px;">&#8211;</td>
+<td style="width: 277px;"> Exame;</td>
+</tr>
+<tr>
+<td style="width: 23.7656px;">TPC</td>
+<td style="width: 17.2344px;">&#8211;</td>
+<td style="width: 277px;">Trabalho Para Casa;</td>
+</tr>
+<tr>
+<td style="width: 23.7656px;">PL</td>
+<td style="width: 17.2344px;">&#8211;</td>
+<td style="width: 277px;">Prática Laboratorial;</td>
+</tr>
+</tbody>
+</table>
+<p><strong>CF</strong> = 0,4×E + 0,2×TPC + 0,4×PL</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Design of Mixed-Signal Integrated Circuits
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>The constant miniaturization made possible by semiconductor technology is responsible for virtually all modern technological developments. Microelectronics, associated with the design of integrated circuits (microchips), makes this reality possible and forms the fundamental basis of today's systems.</p>
+<p>The objective of this course is to provide students with the ability to analyze and design integrated circuits using CMOS technology, taking into account specific specifications and constraints due to the limitations of the technologies. To achieve this, students need to understand the physics of the devices so that they can grasp the operating principles and functional models of transistors in order to use them effectively in the design and simulation of circuits.</p>
+<p>Understanding the sources of parametric variation associated with manufacturing process variations and sensitivity to external factors allows students to understand the need to optimize functional performance and adopt best practices in design and structural layout for implementation on monolithic substrates.</p>
+<p>This knowledge is applied to the design of devices for analog-focused integrated circuits, supported by digital auxiliary circuits to optimize the function to be implemented.</p>
+
+## Resultados de aprendizagem e competências
+<p>By the end of this course, the student should be able to:</p>
+<ul>
+<li>Understand the underlying physical principles, limitations, capabilities, and manufacturing of circuits in submicrometer CMOS technologies;</li>
+<li>Understand the simulation models of active and passive devices implemented in CMOS technology;</li>
+<li>Analyze and design CMOS circuits following principles that promote &#8220;first-time right&#8221; solutions, considering behavioral limitations and the operational conditions of signal amplitude and frequency;</li>
+<li>Simulate and structurally design integrated circuits using advanced CAD tools;</li>
+<li>Write technical reports, present, and publicly defend the work developed.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Knowledge of basic electronics (equivalent to undergraduate Electronics 1 and Electronics 2).
+
+## Programa
+<p>Throughout the course program, and when appropriate, digital control methods are introduced to support the analog function, either to calibrate for process variation or to improve the characteristics of the circuit in operation.</p>
+<ol>
+<li>Review of semiconductor physics and the MOS transistor;</li>
+<li>Advanced models of MOS transistors;</li>
+<li>Technology, manufacturing processes, and the effect of process variability on characteristics;</li>
+<li>Implementation of active and passive devices on monolithic silicon substrates and their respective models;</li>
+<li>Optimized structural design of mixed-signal CMOS circuits;</li>
+<li>Circuit simulation, &#8220;corner&#8221; analysis, and Monte Carlo &#8211; evaluation of PVT (process, supply voltage, and temperature) sensitivities;</li>
+<li>CMOS amplifiers;</li>
+<li>Power management circuits;</li>
+<li>Gm-C filters;</li>
+<li>Switched-capacitor circuits;</li>
+<li>A/D and D/A converters.</li>
+</ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The following methodology attempts to strike a balance between theoretical exposition, conceptual analysis of functional blocks and sizing, and design using CAD tools:</p>
+<ul>
+<li><span style="text-decoration: underline;">Theoretical classes:</span> presentation of content, analysis of illustrative examples, and problem-solving. Student participation is encouraged through the preparation and presentation in class of short synthesis papers, monographs, and project results. Homework: (1) solving problems to deepen the delivered content, (2) preparation of assignments to be carried out in the laboratory;</li>
+<li><span style="text-decoration: underline;">Laboratory classes:</span> use of microelectronics CAD tools to apply the concepts learned in the design of mixed-signal circuits. Students are expected to write a technical report on their project and defend it in a classroom setting.</li>
+</ul>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Trabalho prático ou de projeto: 40.0 %
+- Trabalho escrito: 20.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 64.5 hours
+- Frequência das aulas: 45.5 hours
+- Trabalho laboratorial: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The grading comprises three components:</p>
+<ul>
+<li>Final Exam &#8212; Expected duration of two hours, which includes a closed book component and an open book component;</li>
+<li>Homework &#8212; exercises, possible essays, and their presentation;</li>
+<li>Laboratory Work &#8212; development of assignments and final project, including produced documentation and presentation.</li>
+</ul>
+<table style="width: 351px;">
+<tbody>
+<tr>
+<td style="width: 23.7656px;"><strong>CF</strong></td>
+<td style="width: 17.2344px;"><strong>&#8211;</strong></td>
+<td style="width: 277px;"><strong>Final Grade;</strong></td>
+</tr>
+<tr>
+<td style="width: 23.7656px;">E</td>
+<td style="width: 17.2344px;">&#8211;</td>
+<td style="width: 277px;">Exam;</td>
+</tr>
+<tr>
+<td style="width: 23.7656px;">HW</td>
+<td style="width: 17.2344px;">&#8211;</td>
+<td style="width: 277px;">Homework;</td>
+</tr>
+<tr>
+<td style="width: 23.7656px;">PL</td>
+<td style="width: 17.2344px;">&#8211;</td>
+<td style="width: 277px;">Laboratory Work;</td>
+</tr>
+</tbody>
+</table>
+<p><strong>CF</strong> = 0.4×E + 0.2×HW + 0.4×PL</p>
+
+## Obtenção de frequência
+<p>The laboratory component is of utmost importance in the learning process; it is here that students have the opportunity to apply and practice the different concepts learned:</p>
+<ol>
+<li>Attendance at the laboratory component is mandatory and subject to legislation regarding the maximum number of allowable absences.</li>
+<li>Justifying an absence does not remove it from the count for the purpose of academic performance; students must make up the missed work in another class or during extracurricular time, provided that this is authorized by the instructor and in a manner that allows for verification of its completion.</li>
+<li>Access to any exam requires a minimum of 10 out of 20 in the laboratory component.</li>
+</ol>
+
+## Melhoria de classificação
+<p>The distributed component (HW and PL) retains its weight, both for the regular exam and for the "recurso", as well as in the case of improvement. The same applies to any special exam periods. This means that the final grade is always determined by:</p>
+<table style="width: 351px;">
+<tbody>
+<tr>
+<td style="width: 23.7656px;"><strong>CF</strong></td>
+<td style="width: 17.2344px;"><strong>&#8211;</strong></td>
+<td style="width: 277px;"><strong>Final Grade;</strong></td>
+</tr>
+<tr>
+<td style="width: 23.7656px;">E</td>
+<td style="width: 17.2344px;">&#8211;</td>
+<td style="width: 277px;">Exam;</td>
+</tr>
+<tr>
+<td style="width: 23.7656px;">HW</td>
+<td style="width: 17.2344px;">&#8211;</td>
+<td style="width: 277px;">Homework;</td>
+</tr>
+<tr>
+<td style="width: 23.7656px;">PL</td>
+<td style="width: 17.2344px;">&#8211;</td>
+<td style="width: 277px;">Laboratory Work;</td>
+</tr>
+</tbody>
+</table>
+<p><strong>CF</strong> = 0.4×E + 0.2×HW + 0.4×PL</p>
+

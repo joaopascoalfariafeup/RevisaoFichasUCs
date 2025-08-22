@@ -1,0 +1,108 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Tópicos Avançados em Aprendizagem Computacional
+
+## Curso responsável
+Mestrado em Inteligência Artificial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Os estudantes irão obter uma perspectiva global de duas temáticas da aprendizagem computacional extremamente atuais e fruto de grande investigação e desenvolvimento nos últimos tempos: modelos de linguagem de grande escala (LLM) e técnicas de explicabilidade em IA (xAI).
+
+## Resultados de aprendizagem e competências
+Os estudantes deverão:<br />- conhecer os princípios de funcionamento de um modelo LLM e as suas principais arquiteturas;<br />- conhecer técnicas de aperfeiçoamento de LLMs, medidas de avaliação e principais desafios;<br />- conhecer estratégias de &quot;prompting&quot;;<br />- ter desenvolvimento prático de ferramentas de aplicação e de repositório de modelos, bem como conhecimentos dos principais módulos de programação;<br />- obter uma visão geral de aplicações multimodais das LLMs, nomeadamente em modelos de processamento de imagem, incluindo imagens biomédicas, e de áudio;<br />- conhecer os conceitos fundamentais da a&#769;rea de eXplainable AI (xAI);<br /><div class=&quot;page&quot; title=&quot;Page 6&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;>- reconhecer os principais algoritmos de xAI e compreender o seu funcionamento;<br />- identificar o(s) me&#769;todo(s) que possam ser mais adequados face ao domi&#769;nio e destinata&#769;rios;<br />- ser capazes de fazer uma avaliac&#807;a&#771;o qualitativa e quantitativa das explicac&#807;o&#771;es obtidas, de forma cri&#769;tica.</div><br /></div><br /></div>
+
+## Pré-requisitos e co-requisitos
+Conhecimentos de programação em Python (nível médio).<br />Conhecimentos de estatística.<br />Conhecimento de conceitos elementares/intermédios em aprendizagem computacional.
+
+## Programa
+0. Visão geral e apresentação do curso<br />1. Introdução aos LLMs<br />2. Paisagens da Arquitetura dos LLM<br />3. Os LLM na prática<br />4. Introdução ao Prompting<br />5. Introdução a LangChain &amp; LlamaIndex<br />6. Outros tópicos avançados: Grandes modelos multimodais. Transformadores de visão (ViT). Aplicações de ViTs à análise de imagens biomédicas.<br />7. Introdução à IA explica&#769;vel (xAI)<br />8. Metodologias dependentes e agnósticas aos modelos.<br />9. Explicações locais vs globais.<br />10. Métodos baseados na importância de atributos, em exemplos, e em regras.<br />11. Métricas de avaliação.<br />12. Outros tópicos avançados: técnicas xAI noutros domínios como imagem e texto, desafios atuais.
+
+## Métodos de ensino e atividades de aprendizagem
+Aulas teórico-práticas com exposição de conteúdos teóricos e resolução de problemas.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 40.0 %
+- Trabalho prático ou de projeto: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 78.0 horas
+- Estudo autónomo: 42.0 horas
+- Frequência das aulas: 42.0 horas
+
+## Fórmula de cálculo da classificação final
+Haverá dois testes e dois trabalhos práticos.<br /><br />Os trabalhos práticos deverão ser realizados em grupos de 3 alunos.<br /><br />Serão realizadas atividades que promovam a participação e o feedback, tais como questões de aula e discussões de grupo.<br /><br />A nota final é dada pela média pesada das notas teóricas (Teste1 e Teste2)  e notas dos trabalhos práticos (Trab1 e Trab2) de acordo com a seguinte fórmula:<br /><br /><strong>NotaFinal = 0.2 x Teste1 + 0.3 x Trab1 + 0.2 x Teste2 + 0.3 x Trab2</strong>
+
+## Obtenção de frequência
+Nota mínima de 7 (em 20) nos trabalho práticos e nos testes. Resposta a questões de aula submetidas online.
+
+## Melhoria de classificação
+Os trabalhos não podem ser considerados para melhoria na época de recurso.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Advanced Topics in Machine Learning
+
+## Curso responsável
+Master in Artificial Intelligence
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Students will gain a global perspective on two current topics in machine learning that have been the subject of extensive research and development in recent times: large-scale language modelling (LLM) and explainable AI (xAI) techniques.
+
+## Resultados de aprendizagem e competências
+Students should:<br />- know the operating principles of an LLM model and its main architectures.<br />- know LLM improvement techniques, evaluation measures and main challenges.<br />- know prompting strategies.<br />- know and practice of application tools and model repositories, as well as knowledge of the main programming modules.<br />- obtain an overview of multimodal applications of LLMs, namely in image processing models, including biomedical images and audio.<br />- know the fundamental concepts of the eXplainable AI (xAI) field;<br />- recognize the main xAI algorithms and understand how they work;<br />- identify the method(s) that may be most appropriate for the domain and target audience;<br />- be able to assess the explanations obtained qualitatively and quantitatively critically.
+
+## Pré-requisitos e co-requisitos
+Knowledge of Python programming (medium level).<br />Knowledge of statistics.<br />Knowledge of elementary/intermediate concepts in machine learning.
+
+## Programa
+0. Course Overview and presentation<br />1. Introduction to LLMs<br />2. LLM Architecture Landscapes<br />3. LLMs in Practice<br />4. Introduction to Prompting<br />5. Introduction to LangChain &amp; LlamaIndex<br />6. Other advanced topics: Large Multimodal Models. Vision Transformers (ViT). Applications of ViTs to Biomedical Image analysis.<br />7. Introduction to xAI<br />8. Model-dependent and model-agnostic methodologies.<br />9. Local vs global explanations.<br />10. Methods based on feature importance, examples and rules.<br />11. Evaluation Metrics.<br />12. Other advanced topics: xAI techniques in image and text domains; open challenges.
+
+## Métodos de ensino e atividades de aprendizagem
+Theoretical-practical classes with theoretical content and problem-solving.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 40.0 %
+- Trabalho prático ou de projeto: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 78.0 hours
+- Estudo autónomo: 42.0 hours
+- Frequência das aulas: 42.0 hours
+
+## Fórmula de cálculo da classificação final
+There will be two theoretical tests and two practical assignments.<br /><br />The practical assignments should be done in groups of 3 students.<br /><br />There will be activities to promote participation and feedback, such as class questions and group discussions.<br /><br />The final grade is given by the weighted average of the theoretical tests (T1 and T2) and practical assignments (PA1 and PA2) grades according to the following formula:<br /><br /><strong>Final grade = 0.2 x T1 + 0.3 x  PA1 + 0.2 x T2 + 0.3 x PA2</strong>
+
+## Obtenção de frequência
+A minimum grade of 7 (out of 20) in the practical assignments and theoretical tests. Answer to class questions submitted online.
+
+## Melhoria de classificação
+Practical Assignments cannot be considered for improvement in the appeal period.
+

@@ -1,0 +1,114 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Modelação e Diagramas de Processamento
+
+## Curso responsável
+Mestrado em Engenharia de Minas e Geo-Ambiente
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p class="MsoNormal">Construção de um ponto de vista quantitativo sobre um Diagrama de Tratamento em Operações. Estudos dos indicadores que descrevem o desempenho dos Processos separativos.<br /><span style="font-size: 10.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; color: black; mso-themecolor: text1;">Diagrama de tratamento como &#8220;solução optimizada&#8221;.<br />Projecto: optimização estrutural e optimização paramétrica. <br /></span></p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>No final desta UC os alunos serão capazes de formular e resolver problemas de processos de sistemas particulados, que necessitem de ser optimizados. Capacidade de extensão a outros domínios da engenharia/física.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Essencialmente os leccionados nas UC de Tratamentos de Matérias Primas e Resíduos I e Tratamentos de Matérias Primas e ResíduosII</p>
+
+## Programa
+<p class="MsoNormal" style="font-size: 10.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;" align="left">1. Introdução à disciplina 1.1 Objectivos do Processamento de Minérios: caracteriz ação prévia das propriedades de um minério tal-qual e definição das propriedades desejadas para os produtos finais. Projecto do Processo: optimização estrutural e optimização paramétrica. Noção de Diagrama de Processo: regras do encadeamento das operações unitárias. 1.2 Conceitos de separação e libertação, escalonamento das operações mineralúrgicas e Diagrama Mineralúrgico Geral. 1.3 Os pontos de vista técnico e técnico-económico. Contratos de venda. Benefício económico e Retorno Metalúrgico Líquido (NSR - "net smelter return").<br />2. Introdução aos Diagramas de Tratamento &#8211; Diagramas de Base do Tratamento 2.1 Diagramas de Base da Classificação Diagramas de Classificação: areias, areias especiais e caulinos. Balanços de massa de sólidos e de água. O problema do dimensionamento. 2.2 Diagramas de Base da Fragmentação Diagramas de Fragmentação: britagem e granulação de britas e inertes e pirites; moagem de calcários para cimento e correctivos, talcos; diagramas de moagem por via húmida; diagramas de moagem autogénea. 2.3 Diagramas de Base da Separação Diagramas de Concentração: conceitos gerais de aplicação (minérios metálicos vs não-metálicos; minérios de alta cotação vs baixa cotação); unidades de concentração (desengrosso a calibres graúdos, desengrosso, reclamação, apuramento e concentração em "unit cells").<br />3. Análise do Diagrama de Tratamento: um ponto de vista operacional sobre uma instalação em funcionamento 3.1 Teoria dos Processos Separativos. 3.3.1 Proposição do problema 3.3.2 Curva de Partição ou de Tromp: separação ideal e separação real; tipos de ineficiências (desgarramentos e arrastamentos). 3.3.3 Curvas de Heidenreich. 3.3.4 Curvas de Lavabilidade: lavabilidade limite ou potencial e lavabilidade real. 3.2 Amostragem de minérios fragmentados. 3.3 Balanços mineralúrgicos: análise de variância do cálculo da recuperação e do rendimento ponderal. 3.4 Reconciliação de dados superabundantes em cálculos de balanço de massa. 3.5 Análise de circuitos complexos. 3.6 Diagramas de polpas.<br />4. Base de Conhecimentos sobre Diagramas de Tratamento. 4.1 Diagramas qualitativos e quantitativos. 4.2 Diferentes tipos de Diagramas apresentados como "casos estudados": Flutuação (global e diferencial de sulfuretos e não sulfuretos); Separação Magnética; Concentração Gravítica. 4.3 Diagramas a operarem sobre minérios nacionais: Cu-Pb-Zn em Aljustrel; Cu e Cu-Sn em Neves-Corvo; WO3-Sn-Cu na Panasqueira; Areias especiais em Rio Maior e em Seixoso; Carvão no Pejão. 4.4 Diagramas usados no tratamento de resíduos industriais e urbanos, tratamento de lamas e tratamento de águas e efluentes.<br /><span style="font-size: 10.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">5. Modelagem das Operações Unitárias e Simulação de Circuitos. 5.1 Fragmentadores graúdos</span><span style="font-size: 10.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;"> &#8211; Curva Padrão e Modelos Matriciais (<em style="mso-bidi-font-style: normal;">transição finita</em>) para britador de maxilas e granulador de cones. 5.2</span> <span style="font-size: 10.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">Fragmentadores finos</span><span style="font-size: 10pt; font-family: 'Calibri','sans-serif'; color: black;"> &#8211; modelos de transição instantânea. C</span><span style="font-size: 10pt; font-family: 'Calibri','sans-serif'; color: black;">álculo do regime permanente em cir­cui­to fechado.<br />6</span><span style="font-size: 10pt; font-family: 'Calibri','sans-serif'; color: black;">.</span><span style="font-size: 10pt; font-family: 'Calibri','sans-serif'; color: black;">Modelagem dos processos de Separação:</span><span style="font-size: 10.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; color: black; mso-themecolor: text1;">Modelo de Crivagem.Modelo de hidrociclone; Separações pelo teor e modelo de libertação.</span><br />7. <span style="font-size: 10.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 'Times New Roman'; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: PT; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Modelagem dos processos de separação por flutuação</span></p>
+<p> </p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas Teórico Práticas - Exposição de conceitos fundamentais sobre a concepção de Diagramas de Processo, em Preparação de Minérios, estudo dos formalismos matemáticos que permitem a construção de abordagens quantitativas. Exposição de conceitos fundamentais sobre a Modelação Matemática de Diagramas de Processo.</p>
+<p>Aulas Laboratoriais - Desenvolvimento / Construção de modelos matemáticos do equipamento e circuitos de processamento de matérias primas abordados nas aulas TP.<br />Resolução de alguns exercícios de aplicação.<br /><span id="result_box" lang="en"></span></p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 35.0 %
+- Trabalho escrito: 25.0 %
+- Exame: 40.0 %
+
+## Componentes de Ocupação
+- Elaboração de relatório/dissertação/tese: 14.0 horas
+- Estudo autónomo: 77.5 horas
+- Frequência das aulas: 45.5 horas
+- Trabalho de investigação: 25.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><span style="color: black; font-family: 'Verdana','sans-serif'; font-size: 7.5pt;"><strong>Nota Final = 0,4*nota do exame + 0,25* Exercícios práticos (entrega de exercícios resolvidos na aula e mini-relatório) + 0,35*Nota de Projeto Final (inclui trabalho escrito e apresentação oral)<br /><br />O projeto final consiste no desenvolvimento de um modelo de simulação de uma operaçã unitária da preparação de minérios (fragmentação, moagem ou flutuação).<br /></strong><br />Para obtenção de aprovação é necessário obter nota miníma de 7 em todas as componentes de avaliação - i) Exame; ii) Exercícios práticos; iii) Projeto final.</span></p>
+<p> </p>
+<p><span style="color: black; font-family: 'Verdana','sans-serif'; font-size: 7.5pt;"> </span></p>
+
+## Obtenção de frequência
+<p>Para obter frequência os alunos terão que estar presentes em pelo menos 75% das aulas teórico-práticas e práticas leccionadas.</p>
+
+## Melhoria de classificação
+Através de exame de recurso
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Modelling and Process Flowsheet
+
+## Curso responsável
+Master in Mining and Geo-Environmental Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Development of a quantitative point of view of Treatment diagrams in operations. Study of the indicators which describe separation processes performance.<span id="result_box" lang="en"><br /><span class="hps">Flowsheet </span> <span class="hps atn">as "</span>optimal solution".</span><br /><span id="result_box" lang="en"><span class="hps">Project:</span> <span class="hps">structural optimization</span> <span class="hps">and</span> <span class="hps">parametric optimization</span>.</span></p>
+
+## Resultados de aprendizagem e competências
+<p>Competence in formulating and solving optimization problems in ore processing, and extending capabilities for optimization in related areas (engineering/physics).</p>
+
+## Pré-requisitos e co-requisitos
+Raw materials and waste processing
+
+## Programa
+<p>1. Introduction to the course unit 1.1 Objectives of ore processing: preliminary characterization of ores properties and definition of the desired properties of the final product. Process design: structural optimization and parametric optimization. Notion of Process flow diagram: chaining rules of unit operations. 1.2 Concepts of separation and discharge, stages of mineral operations and general mineral diagram 1.3 Technical and technical-economical points of view. Sales agreement Economic benefit and net smelter return. 2. Introduction to treatment flow diagrams &#8211; base treatment flow diagrams 2.1 Classification base diagrams Classification diagrams: sand and kaolin Solid mass and water balance. Dimensioning problem. 2.2 Base fragmentation diagrams Fragmentation diagrams: crushing and crushed stone, inerts and pyrites granulation; Limestone milling for cement and corrective, talc; milling diagrams by humid via; autogenous milling diagrams. 2.3 Separation base diagrams. Concentration diagrams: general concepts of application (metallic ores vs. non-metallic; high-grade ores vs. low-grade ores); concentration units 3. Treatment diagram analysis: an operational point of view over a running facility 3.1 Theory of separation methods 3.3.1 Problem proposition 3.3.2 Partition or Tromp curve: ideal separation and real separation; types of inefficiencies 3.3.3 Heidenreich curves 3.3.4 Washability curves: limit or potential washability and real washability 3.2 Fragmented ores sampling 3.3. Mineral balances: analysis of recovery calculation variance 3.4 Reconciliation of superabundant data in mass balance calculation 3.5 Analysis of complex circuits 4. Knowledge in treatment diagrams 4.1 Qualitative and quantitative diagrams 4.2 Different types of diagrams presented as &#8220;studied cases&#8221;: Flotation (global and differential of sulphides and non-sulphides); magnetic separation; gravity concentration. 4.3 Diagrams which operate on Portuguese ores: Cu-Pb-Zn in Aljustrel; Cu and Cu-Sn in Neves-Corvo; WO3- Sn-Cu in Panasqueira, special sands in Rio Maior and Seixoso; Coal in Pejão. 4.4 Diagrams used in industrial and urban waste treatment, sludge treatment and water and effluent treatment.<br /><span id="result_box" lang="en"><span class="hps">5. Mathematical Models </span><span class="hps">of</span> some industrial size-reduction machines: Cone Crushers, Rod Mills, Ball Mills.<br />Mathematical simulation of operating circuits. <br />6.<span class="hps">Mathematical Models </span><span class="hps">of</span> some industrial size-separation machines: <span class="hps">Screen and H</span><span class="hps">ydrocyclones.</span> <br />7. Model of froth <span class="hps">flotation.</span></span></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical classes &#8211; Presentation of the fundamental concepts of the design of process flow diagrams, ore preparation and study of mathematical concepts which enable the use of quantitative approaches. Practical classes.<br /><br /><span class="tlid-translation translation" lang="en"><span class="" title="">Laboratory Classes - Development / Construction of mathematical models of equipment and mineral processing circuits.</span><br /><span class="" title="">Resolution of some application exercises</span></span></p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 35.0 %
+- Trabalho escrito: 25.0 %
+- Exame: 40.0 %
+
+## Componentes de Ocupação
+- Elaboração de relatório/dissertação/tese: 14.0 hours
+- Estudo autónomo: 77.5 hours
+- Frequência das aulas: 45.5 hours
+- Trabalho de investigação: 25.0 hours
+
+## Fórmula de cálculo da classificação final
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt;"><span lang="EN-US" style="font-family: verdana,geneva; font-size: x-small;"><strong>Final grade = 0.4* final exam + 0.25* practical exercises (submission of the exercises solved during the practical classes together with a brief report) + 0,35*final project grade (includes report and oral presentation).</strong><br /><br /><strong>The Final project consists of developing a simulation model of a mineral processing unit operation (fragmentation, milling or flotation).</strong><br /><br />To be approved, it is necessary to obtain a minimum grade of 7 in all evaluation components - i) final exam; ii) practical exercises; iii) Final Project <br /></span></p>
+
+## Obtenção de frequência
+<p>Students are obliged to attend at least 75% of the lectures</p>
+

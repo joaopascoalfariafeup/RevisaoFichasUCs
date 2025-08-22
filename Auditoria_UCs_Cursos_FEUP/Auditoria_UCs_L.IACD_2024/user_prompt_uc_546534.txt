@@ -1,0 +1,106 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Modelação e Otimização
+
+## Curso responsável
+Licenciatura em Inteligência Artificial e Ciência de Dados
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+1. Aprender a formular matematicamente um problema de otimização;<br /> 2. Estudar os principais problemas de otimização relevantes;<br /> 3. Ganhar sensibilidade para a dificuldade teórica e prática (computacional) da resolução desses problemas;<br /> 4. Estudo de modelos de otimização subjacentes ao funcionamento de métodos de aprendizagem automática.
+
+## Resultados de aprendizagem e competências
+Conhecimento dos modelos de otimização subjacentes aos principais métodos aprendizagem automática.
+
+## Pré-requisitos e co-requisitos
+Pré-requisitos: apenas os conhecimentos fornecidos pelas unidades curriculares dos dois primeiros anos.<br /> Co-requisitos: nenhum.
+
+## Programa
+1. Otimização: formalização.<br /> 2. Otimização linear. Dualidade.<br /> 3. Otimização não linear.<br /> 4. Métodos de gradiente, &quot;backpropagation&quot;.<br /> 5. Probabilidades. Otimização em modelos estatísticos. Regressão linear, regressão logística.<br /> 6. Aprendizagem estatística, minimização empírica do risco.<br /> 7. Modelos formais de otimização para aprendizagem.<br /> 8. Métodos de &quot;ensemble&quot;.<br /> 9. Métodos de &quot;kernel&quot;.<br /> 10. Modelos e métodos avançados: aprendizagem profunda e por reforço.
+
+## Métodos de ensino e atividades de aprendizagem
+Exposição teórica com discussão da aplicação em aprendizagem automática. <br />Resolução de exercícios.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Teste: 75.0 %
+- Exame: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 horas
+- Frequência das aulas: 56.0 horas
+
+## Fórmula de cálculo da classificação final
+Classificação final = T1 + T2 + E<br />T1 = classificação do 1º teste, com cotação de 7,5 valores<br />T2 = classificação do 2º teste, com cotação de 7,5 valores<br />E = classificação do exame final, com cotação de 5 valores<br /><br />Nota: alunos com média de 75% ou superior nos testes estão dispensados do exame final.
+
+## Obtenção de frequência
+<div id=&quot;v1replybody1&quot;><br /><p>Frequência obrigatória às aulas, de acordo com o regulamento da U.P.</p><br /></div>
+
+## Melhoria de classificação
+Exame final.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Modelling and Optimization
+
+## Curso responsável
+Bachelor in Artificial Intelligence and Data Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+1. Learn to formulate an optimization problem mathematically;<br /> 2. Study the main relevant optimization problems;<br /> 3. Gain sensitivity to the theoretical and practical (computational) difficulty in solving these problems;<br /> 4. Study of optimization models underlying the operation of machine learning methods.
+
+## Resultados de aprendizagem e competências
+Knowledge of the optimization models underlying the main machine learning methods.
+
+## Pré-requisitos e co-requisitos
+Prerequisites: only the knowledge provided by the curricular units of the first two years.<br /> Corequisites: none.
+
+## Programa
+<span id=&quot;result_box&quot; class=&quot;&quot; lang=&quot;en&quot;>1. Optimization: formalization.<br /> 2. Linear optimization. Duality.<br /> 3. Non-linear optimization.<br /> 4. Gradient methods, backpropagation.<br /> 5. Probabilities. Optimization in statistical models. Linear regression, logistic regression.<br /> 6. Statistical learning, empirical risk minimization.<br /> 7. Formal optimization models for learning.<br /> 8. Ensemble methods.<br /> 9. Kernel methods.<br /> 10. Advanced models and methods: deep learning and reinforcement learning. <br /></span>
+
+## Métodos de ensino e atividades de aprendizagem
+Lectures: presentation of the program topics and discussion of aplications in machine learning. <br />Labs: problem solving.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Teste: 75.0 %
+- Exame: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 hours
+- Frequência das aulas: 56.0 hours
+
+## Fórmula de cálculo da classificação final
+Final classification = T1 + T2 + E<br />T1 = classification of the 1st test, with a score of 7.5 values<br />T2 = classification of the 2nd test, with a score of 7.5 values<br />E = classification of the final exam, with a score of 5 values<br /><br />Note: Students who average 75% or higher on the tests are exempt from the final exam.
+
+## Obtenção de frequência
+<p>Mandatory attendance at classes, in accordance with U.P. rules.</p>
+
+## Melhoria de classificação
+Final exam.
+

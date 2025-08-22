@@ -1,0 +1,215 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Bases de Dados Não Relacionais
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>A unidade curricular de BDNR tem como objetivo preparar os estudantes para conhecer, compreender, projetar e desenvolver, soluções baseadas em paradigmas e tecnologias de bases de dados não relacionais para o suporte de sistemas de informação.</p>
+<p>Objetivos específicos: conhecer e compreender os principais conceitos e paradigmas das bases de dados não relacionais; capacitar os estudantes para a análise, desenho, implementação e avaliação de bases de dados não relacionais; projetar a componente de armazenamento e de interrogação de sistemas assentes em modelos não relacionais.</p>
+
+## Resultados de aprendizagem e competências
+<p>Após completar a UC o estudante deverá ser capaz de:</p>
+<ul>
+<li>Reconhecer as situações em que as bases de dados relacionais não constituem a solução adequada para o armazenamento e acesso aos dados;</li>
+<li>Identificar e descrever os diversos modelos de bases de dados não relacionais e as situações típicas de utilização de cada um deles;</li>
+<li>Projetar, implementar e aceder a bases de dados construídas segundo as diversas abordagens não relacionais;</li>
+<li>Analisar os desafios associados a cenários complexos com grandes volumes de dados, propor soluções baseadas em modelos não relacionais e compreender os limites de cada uma delas;</li>
+<li>Combinar modelos relacionais e não relacionais em sistemas de informação.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>Programação: conhecimento e prática com linguagens de programação para o desenvolvimento de aplicações.</p>
+<p>Bases de Dados: conhecimento e prática de modelação de dados em UML, modelo relacional, linguagem SQL.</p>
+
+## Programa
+<p>Bases de dados não relacionais:</p>
+<ul>
+<li>Introdução e motivação;</li>
+<li>Os desafios atuais dos dados: dimensão, variabilidade, paradigmas diferentes;</li>
+<li>Propriedades ACID e limites das bases de dados relacionais;</li>
+<li>Perspetiva histórica dos sistemas de gestão de bases de dados.</li>
+</ul>
+<p>Propriedades das bases de dados não relacionais:</p>
+<ul>
+<li>O teorema CAP e as escolhas no projeto;</li>
+<li>Propriedades BASE;</li>
+<li>Consistência e técnicas de distribuição.</li>
+</ul>
+<p>Seleção de casos de aplicação diversos, um por cada grupo de estudantes.</p>
+<p>Estudar cada um dos paradigmas selecionados de acordo com o seguinte guião:</p>
+<ul>
+<li>Introdução e motivação;</li>
+<li>Modelo de dados e estruturas;</li>
+<li>Principais soluções;</li>
+<li>Acesso e manipulação dos dados;</li>
+<li>Escalabilidade, partição e desempenho;</li>
+<li>Cenários de utilização;</li>
+<li>Implementação dos casos de aplicação.</li>
+</ul>
+<p>Paradigmas:</p>
+<ul>
+<li>Bases de dados chave-valor;</li>
+<li>Bases de dados de documentos;</li>
+<li>Bases de dados do tipo famílias de colunas;</li>
+<li>Bases de dados de grafos;</li>
+<li>Bases de dados multi-modelo e outras abordagens emergentes.</li>
+</ul>
+<p>Comparação dos vários paradigmas.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Os tópicos do programa são expostos numa série de sessões tutoriais (exposição teórica e trabalho laboratorial) e discussões em aula. Cada grupo de estudantes define e realiza um projeto ao longo do semestre, com parte do desenvolvimento, acompanhamento e avaliação, realizadas em aula.</p>
+<p><strong>Projeto</strong>: cada grupo seleciona uma tecnologia de base de dados não relacional para explorar em profundidade. O projeto inclui a definição de casos de uso adequados, modelação de dados, configuração e instalação da base de dados, e interação com a base de dados (criação e consulta). Os grupos também desenvolvem uma aplicação protótipo, tendo como resultado um relatório detalhado e uma apresentação com o objetivo de demonstrar os conhecimentos teóricos e práticos da tecnologia escolhida.</p>
+<p>O desenvolvimento do projeto será acompanhado durante as aulas, e avaliado com base no acompanhamento, nas apresentações intermédias, num relatório técnico, e na apresentação final.</p>
+<p><strong>Casos de Estudo</strong>: ao longo do semestre, os grupos apresentam e analisam casos de estudo reais de implementação de bases de dados não relacionais, fomentando a discussão em aula e a compreensão das diferentes abordagens e soluções existentes no mercado.</p>
+<p><strong>Exame</strong>: prova de escolha múltipla, incluindo perguntas abertas.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Trabalho prático ou de projeto: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 84.0 horas
+- Estudo autónomo: 39.0 horas
+- Frequência das aulas: 39.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final será calculada usando a fórmula</p>
+<p><strong>Classificação = 60% Projeto + 40% Exame</strong></p>
+<p>A aprovação na unidade curricular está condicionada à obtenção de uma avaliação individual de 40% em ambas as componentes de avaliação (projeto e exame).</p>
+<p>A obtenção de aprovação no projeto pressupõe a participação, de cada estudante, em todas as fases do projeto, nomeadamente na seleção das tecnologias, na identificação e caraterização do problema, no desenho e implementação da solução, na escrita do relatório final, e na participação nas apresentações e discussões intermédias e final.</p>
+<p>A classificação final do projeto pode variar de elemento para elemento do mesmo grupo com base na opinião dos docentes e na autoavaliação e heteroavaliação a realizar internamente em cada grupo.</p>
+
+## Obtenção de frequência
+<p>Existem duas condições para a obtenção de frequência:</p>
+<ul>
+<li>(1) não exceder o número limite de faltas permitidas; e</li>
+<li>(2) obter a classificação mínima definida no projeto.</li>
+</ul>
+
+## Melhoria de classificação
+<p>Apenas a componente individual (exame) pode ser melhorada.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Non-Relational Databases
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>The BDNR curricular unit aims to prepare students to know, understand, design and develop solutions based on non-relational database paradigms and technologies to support information systems.</p>
+<p>Specific objectives: know and understand the main concepts and paradigms of non-relational databases; enable students to analyze, design, implement and evaluate non-relational databases; design the storage and interrogation component of systems based on non-relational models.</p>
+
+## Resultados de aprendizagem e competências
+<p>Upon completion of the curricular unit, the student should be able to:</p>
+<ul>
+<li>Recognize the situations in which relational databases are not the adequate solution for the storage and access to data;</li>
+<li>Identify and describe the different models of non-relational databases and the typical situations of use of each one of them;</li>
+<li>Design, implement and access databases built according to different non-relational approaches;</li>
+<li>Analyze the challenges associated with complex scenarios involving large volumes of data, propose solutions based on non-relational models and understand the limits of each one of them;</li>
+<li>Combine relational and non-relational models in information systems.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>Programming: knowledge and practice with programming languages &#8203;&#8203;for application development.</p>
+<p>Databases: knowledge and practice of data modeling in UML, relational model, SQL language.</p>
+
+## Programa
+<p>Non-relational databases:</p>
+<ul>
+<li>Introduction and motivation;</li>
+<li>Current data challenges: size, variability, different paradigms;</li>
+<li>ACID properties and limitations of relational databases;</li>
+<li>Historical perspective of database management systems.</li>
+</ul>
+<p>Properties of non-relational databases:</p>
+<ul>
+<li>The CAP theorem and design choices;</li>
+<li>BASE properties;</li>
+<li>Consistency and distribution techniques.</li>
+</ul>
+<p>Selection of different application cases, one for each group of students.</p>
+<p>Study each of the selected paradigms according to the following guide:</p>
+<ul>
+<li>Introduction and motivation;</li>
+<li>Data model and structures;</li>
+<li>Main solutions;</li>
+<li>Data access and manipulation;</li>
+<li>Scalability, partitioning, and performance;</li>
+<li>Usage scenarios;</li>
+<li>Implementation of application cases.</li>
+</ul>
+<p>Paradigms:</p>
+<ul>
+<li>Key-value databases;</li>
+<li>Document databases;</li>
+<li>Column-family databases;</li>
+<li>Graph databases;</li>
+<li>XML and triple databases;</li>
+<li>Multi-model databases and other emerging approaches.</li>
+</ul>
+<p>Comparison of the various paradigms.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The program topics are presented through a series of tutorial sessions (theoretical exposition and laboratory work) and class discussions. Each group of students defines and carries out a project throughout the semester, with part of the development, monitoring, and evaluation taking place in class.</p>
+<p><strong>Project</strong>: each group selects a non-relational database technology to explore in depth. The project includes defining appropriate use cases, data modeling, database configuration and installation, and database interaction (creation and querying). Groups also develop a prototype application, resulting in a detailed report and a presentation aimed at demonstrating theoretical and practical knowledge of the chosen technology.</p>
+<p>Project development will be monitored during classes and evaluated based on monitoring, intermediate presentations, a technical report, and the final presentation.</p>
+<p><strong>Case Studies</strong>: throughout the semester, groups present and analyze real-world case studies of non-relational database implementations, fostering class discussion and understanding of different approaches and solutions available in the market.</p>
+<p><strong>Exam</strong>: multiple choice test, including open-ended questions.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 40.0 %
+- Trabalho prático ou de projeto: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 84.0 hours
+- Estudo autónomo: 39.0 hours
+- Frequência das aulas: 39.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final grade is calculated using the formula</p>
+<p><strong>Grade = 60% Project + 40% Exam</strong></p>
+<p>Approval in the course is subject to obtaining an individual assessment of 40% in both assessment components (project and exam).</p>
+<p>Obtaining approval in the project presupposes the participation of each student in all phases of the project, namely the selection of technologies, the identification and characterization of the problem, the design and implementation of the solution, the writing of the final report, and the participation in the intermediate and final presentations and discussions.</p>
+<p>The final grade of the project may vary from element to element of the same group based on the opinion of the teachers and in self-assessment and hetero-assessment to be carried out internally in each group.</p>
+
+## Obtenção de frequência
+<p>There are two conditions for obtaining frequency:</p>
+<ul>
+<li>(1) not exceeding the maximum number of allowed absences; and</li>
+<li>(2) achieving the minimum grade defined in the project.</li>
+</ul>
+
+## Melhoria de classificação
+<p>Only the individual component (exam) can be improved.</p>
+

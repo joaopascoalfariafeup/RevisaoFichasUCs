@@ -1,0 +1,167 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Aprendizagem Computacional Profunda e por Reforço
+
+## Curso responsável
+Mestrado em Inteligência Artificial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>- Perceber o funcionamento de modelos aprendizagem profunda e por reforço</p>
+<p>- Ser capazes de selecionar algoritmos mais apropriados e detalhes de modelos e técnicas de aprendizagem para diversas tarefas</p>
+<p>- Aprender a desenhar, testar e melhorar modelos de aprendizagem profunda e por reforço para dadas tarefas</p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+No final da UC, os estudantes deverão ser capazes de: <br /><br /><ol><br /><li>Entender os fundamentos e os principais algoritmos de Aprendizagem Profunda (AP) e de Aprendizagem por Reforço (ApR)</li><br /><li>Identificar as técnicas de AP e ApR que se adequam a diferentes problemas de Aprendizagem Computacional e de Inteligência Artificial</li><br /><li>Desenvolver novos métodos de resolução para problemas propostos</li><br /><li>Aplicar os métodos a problemas concretos e avaliar os resultados</li><br /></ol>
+
+## Pré-requisitos e co-requisitos
+<p>- Conhecimentos de base de aprendizagem computacional e de redes neuronais</p>
+
+## Programa
+<p>A UC será organizada em módulos interligados, abrangendo pelo menos os seguintes tópicos:</p>
+<p> </p>
+<p>1 &#8211; Redes neuronais</p>
+<p>               - Redes neuronais convolucionais</p>
+<p>               - Redes recorrentes</p>
+<p>               - Transformers</p>
+<p>               - Redes neuronais gráficas</p>
+<p> </p>
+<p>2 &#8211; Modelos generativos</p>
+<p>               - Redes adversariais generativas</p>
+<p>               - Autoencoders variacionais</p>
+<p>               - Modelos de difusão</p>
+<p> </p>
+<p>3 &#8211; Métodos avançados</p>
+<p>               - Aprendizagem auto-supervisionada</p>
+<p>               - Foundation models</p>
+<p>               - Aprendizagem federada</p>
+<p> </p>
+<p>4 &#8211; Aprendizagem por reforço</p>
+<p>               - Algoritmos baseados em Políticas e Valores</p>
+<p>               - Algoritmos Ator-Crítico</p>
+<p>               - Aprendizagem por reforço explicável</p>
+<p>               - AutoRL</p>
+
+## Métodos de ensino e atividades de aprendizagem
+Aulas parcialmente expositivas (cerca de 50%) com a apresentação de conceitos, algoritmos e exemplos de aplicação. O restante das aulas será utilizado para exercícios práticos propostos e para o acompanhamento do desenvolvimento de projetos ao longo da UC. Os projetos serão completados fora das aulas. Haverá um exame final individual. .
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 40.0 %
+- Exame: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 horas
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 42.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Nota Final = 60% * Exame + 40% Trabalho Prático</p>
+<p>Para serem aprovados, os alunos devem ter nota superior a 8 valores em 20 (4,8 em 12)  no exame final.</p>
+
+## Obtenção de frequência
+<p>Nota superior a 6 valores em 20 (2,4 em 8) no trabalho prático.</p>
+
+## Melhoria de classificação
+Apenas é permitida a melhoria de classificação da compenente teórica da UC. O exame é realizado exclusivamente na <span style=&quot;text-decoration: underline;&quot;>época de recurso</span>.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Deep and Reinforcement Learning
+
+## Curso responsável
+Master in Artificial Intelligence
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p><em>- Understand the functioning of deep learning and reinforcement learning models</em></p>
+<p><em>- Be able to select the most appropriate algorithms, model details, and learning techniques for various tasks</em></p>
+<p><em>- Learn to design, test, and improve deep learning and reinforcement learning models for given tasks</em></p>
+
+## Resultados de aprendizagem e competências
+The students should be capable of:<br /><br /><ol><br /><li>Understand the fundamentals and main algorithms of Deep Learning (DL) and Reinforcement Learning (RL)</li><br /><li>Identify DL and RL techniques that are suitable for different Machine Learning and Artificial Intelligence problems</li><br /><li>Develop new methods of solving proposed problems</li><br /><li>Apply the methods to concrete problems and evaluate the results</li><br /></ol>
+
+## Pré-requisitos e co-requisitos
+<p>- <em>Basic knowledge of machine learning and neural networks</em></p>
+
+## Programa
+<p><em>The course unit will be organized into interconnected modules, covering at least the following topics:</em></p>
+<p><em> </em></p>
+<p><em>1 &#8211; Neural Networks</em></p>
+<ul>
+<li><em> Convolutional Neural Networks</em></li>
+<li><em> Recurrent Neural Networks</em></li>
+<li><em> Transformers</em></li>
+<li><em> Graph Neural Networks</em></li>
+</ul>
+<p><em> </em></p>
+<p><em>2 &#8211; Generative Models</em></p>
+<ul>
+<li><em> Generative Adversarial Networks</em></li>
+<li><em> Variational Autoencoders</em></li>
+<li><em> Diffusion Models</em></li>
+</ul>
+<p><em> </em></p>
+<p><em>3 &#8211; Advanced Methods</em></p>
+<ul>
+<li><em> Self-Supervised Learning</em></li>
+<li><em> Foundation Models</em></li>
+<li><em> Federated Learning</em></li>
+</ul>
+<p><em> </em></p>
+<p><em>4 &#8211; Reinforcement Learning</em></p>
+<ul>
+<li><em> Policy- and Value-Based Algorithms</em></li>
+<li><em> Actor-Critic Algorithms</em></li>
+<li><em> Explainable Reinforcement Learning</em></li>
+<li><em>AutoRL</em></li>
+</ul>
+
+## Métodos de ensino e atividades de aprendizagem
+Partially expository classes (about 50%) with the presentation of concepts, algorithms and application examples. The remaining classes will be used for proposed practical exercises and for monitoring the development of projects throughout the UC. Projects will be completed outside of class. There will be an individual final exam.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Trabalho prático ou de projeto: 40.0 %
+- Exame: 60.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 hours
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 42.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><em>Final Grade = 60% * Exam + 40% * Practical Work</em></p>
+<p><em>To pass, students must score at least 8 out of 20 (or 4.8 out of 12) in the final exam.</em></p>
+
+## Obtenção de frequência
+<p><em>A minimum score of 6 out of 20 (2.4 out of 8) in the practical work.</em></p>
+
+## Melhoria de classificação
+It is only possible to improve the grade of the theoretical component. The exam takes place exclusively during the supplementary examination period.
+

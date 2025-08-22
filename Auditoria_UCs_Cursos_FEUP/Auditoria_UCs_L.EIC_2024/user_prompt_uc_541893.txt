@@ -1,0 +1,156 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Computação Paralela e Distribuída
+
+## Curso responsável
+Licenciatura em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p><span style="font-weight: 400;">Dotar os estudantes com:<br /></span></p>
+<ul>
+<li><span style="font-weight: 400;">conhecimentos conducentes à utilização simultânea de várias unidades de processaento num sistema de computação;</span></li>
+<li><span style="font-weight: 400;">bases sólidas sobre paralelização de algoritmos, modelos de programação, sincronização de processos e medidas de desempenho, através do desenvolvimento de programas;</span></li>
+<li><span style="font-weight: 400;">conhecimentos teóricos sobre sistemas distribuídos para que possam tomar decisões correctas quando confrontados com a necessidade de conceber/desenvolver/administrar um sistema ou aplicação distribuídos;</span></li>
+<li><span style="font-weight: 400;">experiência de programação para que possam desenvolver aplicações distribuídas.</span></li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p>Após conclusão desta UC, os estudantes deverão ser capazes de:</p>
+<ul>
+<li>Analisar um problema e identificar o modelo de paralelização mais adequado;</li>
+<li>Escrever programas segundo o modelo de memória partilhada;</li>
+<li>Elaborar soluções paralelas para novos problemas;</li>
+<li>Utilizar modelos computacionais para estimar o tempo de computação das aplicações;</li>
+<li>Conhecer boas práticas para efetuar partilha de recursos entre processos concorrentes;</li>
+<li><span style="font-weight: 400;">Explicar as implicações da latência de comunicação, falhas parciais e assincronia numa aplicação distribuída;</span></li>
+<li><span style="font-weight: 400;">Implementar uma aplicação distribuída quer recorrendo a "threads" quer usando uma abordagem orientada a eventos;</span></li>
+<li><span style="font-weight: 400;">Identificar aplicações práticas de algoritmos básicos de sincronização, como eleições, e explicar porque pequenas alterações nesses algoritmos, podem quebrá-los;</span></li>
+<li><span style="font-weight: 400;">Explicar o funcionamento de algoritmos básicos de tolerância a falhas e das garantias por eles dadas;</span></li>
+<li><span style="font-weight: 400;">Compreender a utilidade e o desafio da replicação de dados/serviços em aplicações distribuídas;</span></li>
+<li><span style="font-weight: 400;">Avaliar os compromissos entre desempenho, tolerância a falhas e consistência em serviços replicados.</span></li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Sistemas Operativos<br /><br />Redes de Computadores
+
+## Programa
+<p><span style="font-weight: 400;">Introdução à computação paralela. Medidas de desempenho.<br /> <br />Máquinas paralelas. Organização de memória e efeito da gestão da memória cache no desempenho do processador. <br /><br />Limitações da computação paralela (Amdahl Law). <br /><br />Tipos de paralelismo:  funcional, de dados e  em &#8220;streams&#8221;. Metodologias para paralelização de algoritmos.</span></p>
+<p><span style="font-weight: 400;">Modelos de programação paralela: Memória Partilhada e Memória Distribuída. <br /><br />Problemas de concorrência. Programação de multi-cores pelo modelo de memória partilhada utilizando OpenMP. Modelos de Computação.<br /><br /></span></p>
+<p><span style="font-weight: 400;">Introdução à computação distribuída.</span></p>
+<p><span style="font-weight: 400;">Modelos de comunicação: troca de mensagens, invocação remota de funções. Comunicação multicast.</span></p>
+<p><span style="font-weight: 400;">Processamento em sistemas distribuídos. Serviços com manutenção de estado. Implementações concorrentes baseadas em eventos vs. &#8220;threads&#8221;. <br /></span></p>
+<p><span style="font-weight: 400;">Tolerância a falhas. Algoritmos de eleição. Protocolo &#8220;two-phase commit&#8221;.  Protocolo primário-apoio ("primary-backup").<br /></span></p>
+<p><span style="font-weight: 400;">Técnicas básicas  para aumentar a escalabilicade. Estudo de caso: Domain Name System (DNS).<br /></span></p>
+<p><span style="font-weight: 400;"> </span></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<span style=&quot;font-weight: 400;&quot;>As aulas teóricas são de exposição. Sempre que necessário, exemplos que ajudem à compreensão dos tópicos serão apresentados. A matéria exposta segue de perto a bibliografia principal recomendada. Para complementar, em tópicos muito pontuais, serão fornecidos apontamentos ou artigos.<br /></span><span style=&quot;font-weight: 400;&quot;><br /></span><span style=&quot;font-weight: 400;&quot;>Ao longo do semestre serão propostos problemas de programação e outros para consolidação dos conceitos apresentados nas aulas teóricas. Estes problemas serão discutidos nas aulas teórico-práticas, mas espera-se que os estudantes os resolvam fora das aulas. Os estudantes deverão ainda realizar 2 pequenos projetos, onde deverão aplicar os conceitos apresentados nas aulas teóricas.</span>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho laboratorial: 50.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><span style="font-weight: 400;"><span style="font-weight: 400;">0.4*PP+0.6*ET</span><br /></span><span style="font-weight: 400;">onde:</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">PP - Média ponderada dos projetos</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">ET - Classificação do Exame Teórico</span><span style="font-weight: 400;"><br />sendo:<br />PP = 0.35*PPP + 0.65*PPD<br />onde:<br />PPP- Classificação do projeto de programação paralela<br />PPD- Classificação do projeto de programação distribuída<br /><br />Embora os projetos sejam realizado em grupos, membros do mesmo grupo podem ter classificações diferentes dependendo da sua contribuição.<br /></span></p>
+
+## Obtenção de frequência
+Para admissão ao exame final é obrigatório:<br />1) Frequentar pelo menos 75% das aulas TP previstas;<br />2) Apresentar/demonstrar os projetos<br />3) Preencher os formulários de auto-avaliação/avaliação de pares de cada projeto
+
+## Melhoria de classificação
+<p>A melhoria da classificação apenas incide sobre a componente de exame.</p>
+<p>A classificação do projeto realizado na edição transacta da UC pode ser melhorada nesta edição.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Parallel and Distributed Computing
+
+## Curso responsável
+Bachelor in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+Endow the students with:<br /><br /><ul><br /><li><span style=&quot;font-weight: 400;&quot;>knowledge to develop parallel programs;</span></li><br /><li><span style=&quot;font-weight: 400;&quot;>solid foundations on algorithms parallelization, programming models, synchronization of processes, and performance measures by the development of programs;</span></li><br /><li><span style=&quot;font-weight: 400;&quot;>theoretical knowledge on distributed systems so they can make correct decisions when faced with the need to design/develop/administer such a system;</span></li><br /><li><span style=&quot;font-weight: 400;&quot;>programming experience so that they can develop distributed applications.</span></li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-weight: 400;">Upon completing this course, the students should be able to:<br /></span></p>
+<ul>
+<li><span style="font-weight: 400;">Analyze a problem and identify the adequate parallelization model; </span></li>
+<li><span style="font-weight: 400;">Write shared memory programs;</span></li>
+<li><span style="font-weight: 400;">Design parallel solutions for new problems;</span></li>
+<li><span style="font-weight: 400;">Use computational models to estimate applications computation time; </span></li>
+<li><span style="font-weight: 400;">Know how to share resources among concurrent processes.;</span></li>
+<li><span style="font-weight: 400;">Explain the implications of communication latency, partial failures, and asynchrony in a distributed application;</span></li>
+<li><span style="font-weight: 400;">Implement a distributed application using both thread-based and event-driven concurrency;</span></li>
+<li><span style="font-weight: 400;">Identify problems in which basic synchronization algorithms such as elections can be used, and explain why small changes may break them;</span></li>
+<li><span style="font-weight: 400;">Explain the workings of basic algorithms for fault tolerance and the guarantees they provide;</span></li>
+<li><span style="font-weight: 400;">Understand the purpose and challenges of data/service replication in distributed applications;</span></li>
+<li><span style="font-weight: 400;">Assess the trade-offs among performance, fault-tolerance, and consistency in replicated services.</span></li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Operating Systems<br /><br />Computer Networks
+
+## Programa
+<p><span style="font-weight: 400;">Introduction to parallel computing. Performance metrics. <br /><br />Parallel architectures. Memory organization and the effect of cache management on processor performance. <br /><br />Amdahl Law. <br /><br />Ways of extracting parallelism: functional, data parallelism, and streaming. Methodologies for developing parallel programs.</span></p>
+<p><span style="font-weight: 400;">Parallel programming models: shared memory and distributed model. Concurrency. <br /><br />Multi-core programming with OpenMP. Computational models and performance measures.</span></p>
+<span style="font-weight: 400;">Introduction to distributed systems and network computing. </span>
+<p><span style="font-weight: 400;">Communication paradigms: message passing, remote procedure call, and multicasting. </span></p>
+<span style="font-weight: 400;">Processing in distributed systems: state-full vs. stateless protocols, event-based and thread-based concurrency. </span>
+<p><span style="font-weight: 400;">Fault-tolerance: algorithms for leader election, two-phase commit, and primary-backup replication.<br /></span></p>
+<p><span style="font-weight: 400;">Basic techniques for improving scalability. Case study: Domain Name System (DNS)<br /></span></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-weight: 400;">All topics are covered in the lectures, which are mostly expository and usually use transparencies. To motivate the students, we use real-world examples. The course contents follow closely the mandatory bibliography. Whenever necessary, class notes and/or articles will be provided.</span></p>
+<p><span style="font-weight: 400;">The students have to solve both paper-and-pencil problems and small programming problems, which can be completed in a few hours. In addition, they have to do two small projects.  Help for solving these problems and the project is given in the lab sessions.</span></p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho laboratorial: 50.0 hours
+
+## Fórmula de cálculo da classificação final
+<span style=&quot;font-weight: 400;&quot;>0.4*PP+0.6*FE<br />where<br />PP- projects weighted average grade<br />FE- final exam grade<br />where:<br />PP = 0.35*PPP+0.65*DPP<br />where:<br />PPP- Parallel programming project grade<br />DPP- Distributed programming project grade<br /><br />Projects are developed in groups, but the grades of a group's members may differ depending on their contribution.<br /></span>
+
+## Obtenção de frequência
+For admission to the final exam the students must:<br />1) Attend at least 2/3 of the planned lab classes<br />2) Present/demo the projects<br />3) Fill the sel-evaluation/peer-evaluation forms of each project
+
+## Melhoria de classificação
+<p class="">Improvement in classification only applies to the exam component.</p>
+<p class="">The project classification from the previous edition of the course can be improved in this edition.</p>
+

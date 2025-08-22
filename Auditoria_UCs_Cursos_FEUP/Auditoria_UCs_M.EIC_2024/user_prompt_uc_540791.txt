@@ -1,0 +1,118 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Modelação e Simulação
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+Os objectivos da disciplina são:<br /><br /><ul><br /><li>Apresentar os conceitos básicos de modelação e simulação e as suas áreas de aplicação;</li><br /><li>Apresentar as principais fases do ciclo de vida de um projeto de simulação;</li><br /><li>Apresentar os principais tipos de modelos e a sua adequação ao tratamento de diferentes problemas;</li><br /><li>Apresentar os principais aspetos arquiteturais das ferramentas de modelação e simulação;</li><br /><li>Introduzir ferramentas de modelação e simulação.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+Após concluir com sucesso o curso da disciplina, um aluno deverá ser capaz de:<br /><div><br /><ul><br /><li>Identificar problemas, construir modelos e desenvolver projetos de simulação;</li><br /><li>Analisar e aplicar resultados de simulação;</li><br /><li>Incluir técnicas de simulação em diferentes áreas de engenharia e investigação;</li><br /><li>Demonstrar entendimento das principais áreas de interesse e atuais desafios na área de modelação e simulação;</li><br /><li>Utilizar ferramentas de modelação e simulação;</li><br /><li>Projetar e implementar ferramentas e ambientes de simulação para fins específicos ou gerais;</li><br /><li>Conceber, implementar e avaliar projetos de simulação.</li><br /></ul><br /></div>
+
+## Pré-requisitos e co-requisitos
+Não há pré-requisito obrigatório. Conhecimentos de programação (oritentada a objetos) e estatística são desejávels.
+
+## Programa
+<ol><br /><li>Revisão e apresentação de conceitos:</li><br /><ol style=&quot;list-style-type: lower-alpha;&quot;><br /><li>Simulação como metodologia de engenharia;</li><br /><li>Modelação (realismo, abstração) e tipos de modelos (normativos, comportamentais, &#8230;);</li><br /><li>Metáforas de modelação e técnicas de simulação;</li><br /><li>Preparação e tratamento de dados;</li><br /><li>Modelação de sistemas complexos e processos estocásticos;</li><br /></ol><br /><li>Projetos de simulação:</li><br /><ol style=&quot;list-style-type: lower-alpha;&quot;><br /><li>Técnicas básicas de simulação: simulação contínua, discreta e probabilística;</li><br /><li>O ciclo de vida da simulação: modelação, recolha e preparação de dados, projetos de cenários, teste, calibração e validação de modelos, análise de resultados e implementação;</li><br /><li>Linguagens e ambientes de simulação;</li><br /></ol><br /><li>Tópicos avançados em modelação e simulação:</li><br /><ol style=&quot;list-style-type: lower-alpha;&quot;><br /><li>Simulação orientada a objetos;</li><br /><li>Simulação distribuída;</li><br /><li>Modelação e simulação interativa visual;</li><br /><li>Simulação inteligente;</li><br /><li>Modelação e Simulação baseada em agentes;</li><br /><li>Ambientes de simulação e simulação de ambientes;</li><br /></ol><br /><li>Aplicações avançadas de simulação;</li><br /><li>Projeto.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+A metodologia de ensino incluirá:<br /><br /><ul><br /><li>Aulas teóricas, para apresentação e discussão de conceitos;</li><br /><li>Aulas práticas em regime tutorial, para realização de projeto;</li><br /><li>Realização de projecto de simulação;</li><br /><li>Escrita do relatório do projeto, em formato de artigo;</li><br /><li>Apresentação oral dos resultados do projeto.</li><br /></ul>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho escrito: 20.0 %
+- Trabalho prático ou de projeto: 40.0 %
+- Apresentação/discussão de um trabalho científico: 10.0 %
+- Teste: 30.0 %
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 12.0 horas
+- Elaboração de projeto: 48.0 horas
+- Estudo autónomo: 16.0 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho de investigação: 27.0 horas
+- Trabalho escrito: 20.0 horas
+
+## Fórmula de cálculo da classificação final
+Componentes de avaliação: <br /><br /><ul><br /><li>Desenvolvimento do projeto (P): 40%</li><br /><li>Relatório/artigo do projeto (R): 20%</li><br /><li>Apresentação/demo/discussão do projeto (D): 10%</li><br /><li>Mini-teste individual (T): 30%</li><br /></ul><br /><br />Avaliação final: AF = 0.4*P + 0.2*R + 0.1*D + 0.3*T<br /><br />Importante:<br /><br /><ul><br /><li>Todas as componentes de avaliação devem ter nota igual ou superior a 8.0;</li><br /><li>Para os estudantes que tenham faltado ao mini-teste individual ou obtido nota &lt;8.0, poderão realizar recurso.</li><br /></ul>
+
+## Obtenção de frequência
+A obtenção de frequência implica nota &gt;=8,0 em todos os elementos constituintes da avaliação distribuída (AD).
+
+## Melhoria de classificação
+Melhoria de classificação obtida por avaliação distribuída e sem exame final: próximo ano letivo.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Modelling and Simulation
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+The goals of this course unit are:<br /><div><br /><ul><br /><li>to present the basic concepts of modelling and simulation and their areas of application;</li><br /><li>to present the different phases of the life cycle of a simulation project;</li><br /><li>to present the main types of models and their adequacy to the treatment of different problems;</li><br /><li>to present the main architectural aspects of modelling and simulation tools;</li><br /><li>to introduce modelling and simulation tools.</li><br /></ul><br /></div>
+
+## Resultados de aprendizagem e competências
+After the successful completion of this course unit, students should be capable of:<br /><div><br /><ul><br /><li>Identifying problems, developing models and simulation projects;</li><br /><li>Analysing and applying simulation results;</li><br /><li>Including simulation techniques in the scientific method of different areas of research;</li><br /><li>Showing their knowledge of the main areas of interest and current challenges in the area of modelling and simulation;</li><br /><li>Using modelling and simulation tools;</li><br /><li>Designing and implementing tools and simulation environment for special or general purposes;</li><br /><li>Designing, implementing and evaluating simulation projects.</li><br /></ul><br /></div>
+
+## Pré-requisitos e co-requisitos
+<p>There is no mandatory prerequisite. Knowledge of (object-oriented) programming and statistics are desirable.</p>
+
+## Programa
+<ol><br /><li>Review and presentation of concepts:</li><br /><ol style=&quot;list-style-type: lower-alpha;&quot;><br /><li>Simulation as an engineering methodology;</li><br /><li>Modelling (realism, abstraction) and types of models (normative, behavioural&#8230;.);</li><br /><li>Modelling metaphors and simulation techniques;</li><br /><li>Data preparation and treatment;</li><br /><li>Modelling of complex systems and stochastic processes;</li><br /></ol><br /><li>Simulation projects:</li><br /><ol style=&quot;list-style-type: lower-alpha;&quot;><br /><li>Basic techniques of simulation: continuous, discrete and probabilistic simulation;</li><br /><li>Simulation life cycle: data modelling, collection and preparation; test, calibration and validation of models, results analysis and implementation;</li><br /><li>Languages and environments of simulation.</li><br /></ol><br /><li>Advanced topics in modelling and simulation:</li><br /><ol style=&quot;list-style-type: lower-alpha;&quot;><br /><li>Object-oriented simulation;</li><br /><li>Distributed simulation;</li><br /><li>Visual interactive modelling and simulation;</li><br /><li>Intelligent simulation;</li><br /><li>Agent-based modelling and simulation;</li><br /><li>Simulation environments and simulation of environments;</li><br /></ol><br /><li>Advanced applications of simulation;</li><br /><li>Project.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+Teaching methodology will include:<br /><br /><ul><br /><li>Theory classes, to present and to discuss conceptual aspects;</li><br /><li>Practical tutorial-based classes, to develop a simulation project;</li><br /><li>Development of a simulation project;</li><br /><li>Writing-up of project report, in paper format;</li><br /><li>Oral presentation of project results.</li><br /></ul>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho escrito: 20.0 %
+- Trabalho prático ou de projeto: 40.0 %
+- Apresentação/discussão de um trabalho científico: 10.0 %
+- Teste: 30.0 %
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 12.0 hours
+- Elaboração de projeto: 48.0 hours
+- Estudo autónomo: 16.0 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho de investigação: 27.0 hours
+- Trabalho escrito: 20.0 hours
+
+## Fórmula de cálculo da classificação final
+Evaluation components:<br /><br /><ul><br /><li>Project development (P): 40%</li><br /><li>Project report/paper (R): 20%</li><br /><li>Project demo/presentation and discussion (D): 10%</li><br /><li>Individual assessment test (T): 30%</li><br /></ul><br /><br />Final mark: F = 0.4*P + 0.2*R + 0.1*D + 0.3*T<br /><br />Important:<br /><br /><ul><br /><li>All components should have marks equal to or greater than 8.0;</li><br /><li>The students who have missed the individual assessment test or whose mark is &lt;8.0 will be allowed to resit the test at the end of the term.</li><br /></ul>
+
+## Obtenção de frequência
+To be admitted in the assessment process, students have to reach markings &gt;=8.0 in the continuous assessment (CA) components.
+
+## Melhoria de classificação
+Students can perform the course again (in the forthcoming year) to improve the classification grade.
+

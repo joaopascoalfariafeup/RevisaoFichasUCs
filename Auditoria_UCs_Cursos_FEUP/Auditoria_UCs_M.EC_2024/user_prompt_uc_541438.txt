@@ -1,0 +1,149 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Obras Marítimas
+
+## Curso responsável
+Mestrado em Engenharia Civil
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p style="display: inline !important;">A Engenharia Costeira e Portuária tem uma importância estratégica para Portugal, que tem uma zona costeira com mais de 1800 km de extensão exposta ao Oceano Atlântico e, portanto, a ações importantes do ambiente marítimo (ondas, vento, marés e correntes), que se espera venham a aumentar no futuro devido aos efeitos das alterações climáticas. Consequentemente, os riscos costeiros tenderão a aumentar, situação que é especialmente importante tendo em conta que 75% da população vive no litoral. Por outro lado, os portos marítimos são fundamentais para o transporte de mercadorias e importantes impulsionadores do crescimento económico, sendo que aproximadamente 75% do comércio externo da União Europeia passa por estas infraestruturas, que são constantemente confrontadas com novos desafios, designadamente com a necessidade de se modernizarem e de ajustarem os seus serviços ao mercado.</p>
+<p>Neste enquadramento, a UC de Obras Marítimas visa:</p>
+<ul>
+<li>Entender as especificidades do planeamento de instalações portuárias e de sistemas de defesa costeira e os seus impactes ambientais;</li>
+<li>Conceber e dimensionar estruturas costeiras e portuárias com base no conhecimento dos fenómenos de interação entre a agitação marítima e as fronteiras sólidas.</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<ul><br /><li>Compreender as condicionantes e especificidades associadas ao planeamento das instalações portuárias e dos sistemas de defesa costeira.</li><br /><li>Saber dimensionar estruturas de acostagem e amarração, quebramares verticais e de taludes, de acordo com as principais normas e recomendações nacionais e internacionais, com destaque para o funcionamento hidráulico-estrutural, aspetos construtivos e manutenção ao longo da sua vida útil.</li><br /><li>Conhecer as dinâmicas e especificidades do ambiente marítimo-portuário, da hidrodinâmica marítima e da hidromorfologia costeira e a sua influência na conceção e dimensionamento das intervenções e estruturas costeiras e portuárias, considerando também o contexto de adaptação aos efeitos das alterações climáticas.</li><br /><li>Conhecer e saber caracterizar o impacto da variabilidade climática e alterações climáticas nas zonas costeiras.</li><br /><li>Compreender a importância de uma avaliação integrada dos impactos ambientais associados aos projetos de Engenharia Costeira.</li><br /><li>Compreender a importância da modelação física e numérica para a simulação dos principais processos marítimos e costeiros. Aplicação dessas ferramentas a casos concretos.</li><br /><li>Estar familiarizado com a conceção, projeto, execução, monitorização e manutenção de diversos tipos de estruturas portuárias e costeiras, tendo por base conhecimentos de hidrodinâmica marítima e de hidromorfologia costeira.</li><br /><li>Desenvolver sentido crítico, autonomia de ação e capacidade de diálogo com outras especialidades, identificar boas e más práticas, relacionar aspetos de projeto com a construção e a manutenção, projetar e calcular reconhecendo as potencialidades e as limitações das ferramentas disponíveis.</li><br /><li>Conhecer e saber aplicar as principais recomendações e normas internacionais para o dimensionamento de estruturas costeiras e portuárias.</li><br /></ul>
+
+## Pré-requisitos e co-requisitos
+<p>Será desejável que os estudantes tenham obtido aprovação nas Unidades Curriculares da Área Científica de Hidráulica, nas Unidades Curriculares da área da Matemática e Física e nas Unidades Curriculares de Estruturas e Geotecnia. É necessária a frequência da Unidade Curricular <strong>Hidráulica Marítima e Costeira</strong>.</p>
+
+## Programa
+<ol><br /><li>Infraestruturas portuárias. Configuração geral de um porto. Sistemas intermodais. Acessibilidades. Tipologias de navios. Planeamento portuário. Equipamentos portuários. Terminais especializados e operações portuárias.</li><br /><li>Ressonância portuária. Seichas. Definição da configuração em planta da bacia portuária. Condicionantes. Dragagens. Segurança.</li><br /><li>Manuais e normas para o pré-dimensionamento de intervenções costeiras e portuárias (e.g., exemplo, SPM, CEM, Rock Manual, ROM, British Standards, Japanese Standards)</li><br /><li>Estruturas Portuárias de Acostagem e Amarração. Aspetos gerais de conceção e pré-dimensionamento. Funcionamento hidráulico e estrutural. Dispositivos de acostagem e amarração. Layouts de amarração. Ações de base para o dimensionamento. Combinação de ações. Verificações de segurança. Dimensionamento de defensas portuárias. Dinâmica de navios amarrados e relação com eficiência e a segurança das operações no cais. Limites admissíveis para os movimentos. Aspetos construtivos.</li><br /><li>Quebramares de taludes: desempenho hidráulico e estrutural, dimensionamento e aspetos construtivos. Pré-dimensionamento hidráulico-estrutural. Códigos e orientações para o dimensionamento. Cabeça e perfil transversal da secção corrente. Determinação do peso dos blocos do manto resistente. Definição e cálculo de elementos-tipo de um perfil um perfil transversal: risberma e superestrutura. Fases de construção e equipamentos. Análise de estudos de caso.</li><br /><li>Quebramares verticais: desempenho hidráulico e estrutural, projeto, aspetos construtivos. Caixotões. Seção transversal tipo. Proteção contra infraescavações. Controle de reflexão. Fases de construção. Análise de estudos de caso.</li><br /><li>Transporte sedimentar e balanços de massa. Erosões e assoreamentos. Erosão Costeira. Causas e medidas de mitigação. Dinâmica de perfis transversais de praia.</li><br /><li>Conceção e dimensionamento de intervenções de defesa costeira. Vantagens e desvantagens. Estruturas destacadas. Revestimentos. Esporões. Estruturas de coroamento a cota baixa. Operações de alimentação artificial com areia. Soluções baseadas na natureza. Fases de construção. Análise de casos de estudo.</li><br /><li>Redução de riscos das frentes costeiras (e.g., inundações e galgamentos). Soluções de mitigação. Avaliação de galgamentos. Aplicação da ferramenta neuronal NN-Overtopping2.</li><br /><li>Processo de concurso de projeto. Avaliação de impactes ambientais de obras portuárias e de defesa costeira. Análise de casos de estudo.</li><br /><li>Modelação física e numérica aplicada a problemas de proteção costeira. Leis de semelhança. Efeitos de escala e de laboratório. Testes experimentais. Tipos de modelos numéricos. Vantagens e limitações.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As matérias serão expostas nas aulas Teóricas (T) usando recursos multimédia e o quadro, recorrendo a exercícios-tipo, exemplos práticos e também resultados de investigação. Posteriormente, nas aulas Teórico-Práticas, será feita a análise e a resolução de exercícios selecionados e a aplicação das metodologias de cálculo a casos de estudo reais. De referir, ainda, a consulta de elementos de apoio de estudos e projetos de engenharia costeira. Todas as aulas têm controlo de assiduidade.</p>
+<p>As visitas de estudo a intervenções em execução ou já concretizadas complementam a aprendizagem em sala de aula. A aula laboratorial visa consolidar as matérias já apreendidas, através da realização de experiências e onde se inclui a geração, registo e análise de dados de ondas regulares e irregulares bem como a avaliação da reflexão.<br /><br /><strong>Nota:</strong> a realização de visitas de estudo e de aulas laboratoriais está dependente das condições e restrições existentes em cada ano letivo.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Trabalho prático ou de projeto: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 98.0 horas
+- Frequência das aulas: 45.5 horas
+- Trabalho escrito: 24.5 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final é definida com base num trabalho prático (TP) e numa prova de avaliação (PA), que têm carácter obrigatório. Estas componentes têm um peso de <strong>25% e 75%</strong>, respetivamente.</p>
+<p>A prova de avaliação, a realizar sem consulta, inclui uma parte teórica e uma parte prática (com formulário), e terá uma duração total máxima de 180 minutos (classificação de 0 a 20 valores, arredondada às décimas: teórica &#8211; 50%; prática &#8211; 50%).</p>
+<p>Os assuntos a incluir na prova de avaliação serão definidos em cada ano e comunicados atempadamente aos estudantes.</p>
+<p>A classificação final, CF, resulta da seguinte fórmula de cálculo:<br /><br /> <strong>CF = TPx25% + PAx75%</strong>, escala 0 a 20 valores, arredondada à unidade.</p>
+<p>Onde,</p>
+<p>TP &#8211; Classificação do trabalho prático,</p>
+<p>PA &#8211; Classificação da prova de avaliação a realizar no dia do exame da época normal.</p>
+<p> </p>
+<p>NOTA 1: <strong>TODOS</strong> os estudantes inscritos na unidade curricular são classificados de acordo com este método.</p>
+<p>NOTA 2: A Época de Recurso (ER) é constituída pela prova de avaliação (PA), a realizar durante a época de exames, em dia a definir.</p>
+<p>NOTA 3: Os exames especiais comportam a TOTALIDADE da matéria.</p>
+<p>NOTA 4: As condições de realização das provas de avaliação poderão ser ajustadas no futuro em função das restrições que possam surgir, por exemplo relacionadas com a pandemia COVID-19.</p>
+
+## Obtenção de frequência
+<p>A obtenção de classificação final exige o cumprimento de assiduidade à unidade curricular. Considera&#8208;se que um estudante cumpre a assiduidade a uma unidade curricular se, tendo estado regularmente inscrito, não exceder o número limite de faltas correspondente a 25% das aulas previstas.</p>
+
+## Melhoria de classificação
+<p>Os Estudantes que já tenham obtido aprovação podem efetuar MELHORIA DE CLASSIFICAÇÃO, uma única vez, nas seguintes condições:</p>
+<p>(i)  realizando a prova de avaliação (PA) da Época de Recurso (ER) do ano em que obtiveram aprovação à UC;</p>
+<p>(ii) realizando uma prova de avaliação após a ER do ano letivo em que obtiveram aprovação à UC.</p>
+<p>A Classificação Final na Unidade Curricular é a mais elevada, entre aquela que havia sido obtida inicialmente e a que resultar da melhoria de classificação efetuada.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Maritime Works
+
+## Curso responsável
+Master in Civil Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p style="display: inline !important;">Coastal and Port Engineering has strategic importance for Portugal, which has a coastline with more than 1800 km in length exposed to the Atlantic Ocean and, therefore, to important actions of the maritime environment (waves, wind, tides and currents), which are expected to increase in the future due to the effects of climate change. Consequently, coastal risks will tend to increase, an issue that is especially important given that 75% of the population lives nearby the coast. On the other hand, seaports are fundamental for the transport of goods and important drivers of economic growth, with approximately 75% of the European Union's external trade passing through these infrastructures, which are constantly faced with new challenges, namely the need for modernizing and adjusting their services to the market.</p>
+<p>In this scope, the UC of Maritime Works aims to:</p>
+<ul>
+<li>To understand the details of planning port facilities and coastal defence systems and their environmental impacts;</li>
+<li>To design coastal and port structures based on the knowledge of the phenomena associated with the interaction between waves and solid boundaries.</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<ul><br /><li>To understand the constraints and the specificities associated with the planning of port facilities and coastal defence systems.</li><br /><li>To know how to design mooring and berthing structures, vertical and rubble mound breakwaters, in accordance to national and international standards and guidelines, with an emphasis on the hydraulic-structural performance, construction aspects and maintenance throughout their useful life.</li><br /><li>To understand the dynamics and specificities of the maritime-port environment, maritime hydrodynamics and coastal hydromorphology and their influence on the design of coastal and port interventions and structures, considering also the context of adaptation to the climate change effects.</li><br /><li>To learn how to characterize the impact of climate variability and climate change on coastal zones.</li><br /><li>Understand the importance of an integrated assessment of the environmental impacts associated with the Coastal Engineering projects.</li><br /><li>To understand the importance of physical modelling and numerical modelling for the simulation of maritime and coastal processes. To learn how to use numerical tools to study these processes.</li><br /><li>Be familiar with the conception, design, execution, monitoring and maintenance of different types of port and coastal structures, based on the knowledge of maritime hydrodynamics and coastal hydromorphology.</li><br /><li>To develop critical sense, autonomy of action and ability to dialogue with other specialities, identify good and bad practices, relate design aspects to construction and maintenance. To design recognizing the potential and limitations of the available tools.</li><br /><li>To know how to apply the main international recommendations and standards for the design of coastal and port structures.</li><br /></ul>
+
+## Pré-requisitos e co-requisitos
+<p>It will be desirable that students have obtained approval in the Curricular Units of the Scientific Area of Hydraulics, in the Curricular Units of the area of Mathematics and Physics and in the Curricular Units of Structures and Geotechnics. Prior attendance to the course unit of <strong>Coastal and Maritime Hydraulics</strong> is required.</p>
+
+## Programa
+<ol><br /><li>Port infrastructures. Port layout. Intermodal systems. Accessibilities. Ship typologies. Port planning. Port equipment. Specialized terminals.</li><br /><li>Harbour resonance. Seiches. Geometric shape of the harbour basin. Restrictions. Dredging. Safety aspects.</li><br /><li>Manuals and standards for the pre-design of coastal and port interventions (e.g., SPM, CEM, Rock Manual, ROM, British Standards, Japanese Standards).</li><br /><li>Berthing and mooring structures. Conceptual design, design and constructive aspects. Mooring and berthing devices. Hydraulic and structural performance. Mooring layout. Load assessment. Load combinations. Stability verifications. Fender design. Limits for the ship motions and efficiency of (un-) loading operations. Failure modes. Construction phases.</li><br /><li>Rubble mound breakwaters: hydraulic and structural performance, design and constructive aspects. Design codes and guidelines. Round-head and current cross-section. Sizing of armour layout blocks. Definition and calculation of standard elements of a cross-section: toe berm and superstructure. Construction phases and equipment. Analysis of case studies.</li><br /><li>Vertical breakwaters: hydraulic and structural performance, design, constructive aspects. Caissons. Standard cross-section. Scour protection. Reflection control. Construction phases. Analysis of case studies.</li><br /><li>Sedimentary transport and mass balances. Erosions and siltations. Coastal erosion. Causes and mitigation measures. Dynamics of beach cross profiles.</li><br /><li>Design of coastal defence interventions. Advantages and drawbacks. Detached structures. Revetments. Groynes. Low crest structures. Artificial sand nourishment. Nature-based solutions. Construction phases. Analysis of case studies.</li><br /><li>Risk reduction of coastal fronts (e.g., floods and overtopping). Mitigation solutions. Overtopping assessment. Application of the neuronal tool NN-Overtopping2.</li><br /><li>Project tendering process. Assessment of environmental impacts of port and coastal defence works. Analysis of case studies.</li><br /><li>Physical and numerical modelling applied to coastal protection problems. Similarity laws. Scale and laboratory effects. Types of numerical models. Advantages and limitations.</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The various subjects will be presented in the Lectures using multimedia resources and the whiteboard, supported by standard exercises, practical examples as well as research results. Next, in theoretical-practical classes, the analysis and resolution of selected exercises and the application of the calculation methodologies to real case studies (coastal and port structures) will be performed. It is also worth mentioning the consultation of studies and projects of coastal engineering. All classes have attendance control.</p>
+<p>The study visits to ongoing or already completed works complement classroom learning. The laboratory class aims to consolidate the subjects already learned by performing experimental works and include the generation, acquisition and analysis of regular and irregular wave data as well as the evaluation of wave reflection.<br /><br /><strong>Note:</strong> the study visits and laboratory classes depend on the conditions and restrictions that may exist in each school year.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 75.0 %
+- Trabalho prático ou de projeto: 25.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 98.0 hours
+- Frequência das aulas: 45.5 hours
+- Trabalho escrito: 24.5 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final classification is defined based on a practical assignment (TP) and an evaluation test (PA), which are mandatory. These components have a weight of 25% and 75%, respectively.</p>
+<p>The evaluation component, to be carried out without consultation, includes a theoretical part and a practical part (with the support of a form), and has a maximum duration of 180 minutes (evaluation expressed on a 0-to-20 numerical scale, rounded to one decimal place: theory &#8211; 50%; practice &#8211; 50%).</p>
+<p>The subjects to be included in the evaluation component will be defined each year and the students informed in due time.</p>
+<p>The final grade, CF, will be calculated based on the following formula:</p>
+<p><strong>CF = TPx25% + PAx75%</strong>, evaluation expressed on a 0-to-20 numerical scale, rounded to one decimal place.</p>
+<p>where,</p>
+<p>TP &#8211; Grade of the practical assignment,</p>
+<p>PA &#8211; Grade of the evaluation test to be performed on the day of the normal season exam.</p>
+<p><strong> </strong></p>
+<p>NOTE 1: <strong>ALL </strong>students enrolled on the course unit are classified according to this method.</p>
+<p>NOTE 2: The re-sit exam consists of the evaluation test (PA), to be carried out during the examination period, on a day to be defined.</p>
+<p>NOTE 3: Special exams embrace the entire subject matter.</p>
+<p>NOTE 4: The conditions for conducting the evaluation components may be adjusted in the future according to the restrictions that may arise, for instance related to the pandemic COVID-19.</p>
+
+## Obtenção de frequência
+<p>Achieving final classification requires compliance with attendance at the course unit. It is considered that students meet the attendance requirements if, having been regularly enrolled, the number of absences of 25% of the classes is not exceeded.</p>
+
+## Melhoria de classificação
+<p>Students who have already obtained approval in the course unit can perform a CLASSIFICATION IMPROVEMENT, only once, under the following conditions:</p>
+<p>(i) by performing an evaluation test in the re-sit examination season of the year they were approved in the Curricular Unit (CU);</p>
+<p>(ii) by performing an Exam covering all the course unit subjects, after the re-sit examination season of the year they were approved in the CU.</p>
+<p>The Final Grade in the course unit is the highest between the one initially obtained and the one resulting from the classification improvement.</p>
+

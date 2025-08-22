@@ -1,0 +1,116 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Programação
+
+## Curso responsável
+Licenciatura em Engenharia Aeroespacial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Aprender os conceitos básicos de programação que serão fundamentais para suportar o estudo de temas mais complexos relacionados à Engenharia Aeroespacial. Além disso, é objetivo desta unidade curricular o aprendizado de diversos recursos de programação da linguagem Python.
+
+## Resultados de aprendizagem e competências
+<p>Após a conclusão da unidade curricular, os estudantes devem ser capazes de:<br /><br />- Projetar, implementar, testar e depurar programas que usem as construções fundamentais de programação, cálculos básicos, estruturas condicionais e iterativas padrão, entrada/saída simples, ficheiros e exceções .<br /><br />- Entender a abstração de dados e usar tipos de dados simples ou compostos.<br /><br />- Entender a abstração procedimental e usar a definição de funções e passagem de parâmetros.<br /><br />- Implementar programas usando a biblioteca &#8220;standard&#8221; de Python.<br /><br />- Definir e usar iteradores, geradores e outras operações em coleções.<br /><br />- Implementar testes unitarios.</p>
+
+## Pré-requisitos e co-requisitos
+N/A
+
+## Programa
+<p>- Introdução ao Pensamento Computacional, algoritmos e programação com Python.<br /><br />- Conceitos fundamentais de programação: tipos de dados simples; variáveis, expressões e declarações; fuxo de programa, condicionais, iteração; funções, passagem de parâmetros, recursão; ficheiros.<br /><br />- Tipos de dados compostos: strings, tuplas, conjuntos, listas, dicionários.<br /><br />- A biblioteca &#8220;standard&#8221; de Python.<br /><br />- Listas e coleções.<br /><br />- Estratégias de resolução de problemas.<br /><br />- Ferramentas de programação, depuração e exceções.<br /><br />- Testes unitários.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+Esta unidade curricular representa para a maioria dos estudantes um primeiro contacto com a programação, que se pretende motivador sem descurar o formalismo e o rigor, sendo a base da formação em programação do curso. São introduzidos conceitos e vocabulário fundamental da programação concretizados na linguagem Python. Os algoritmos de pesquisa e ordenação e o acesso a ficheiros são usados para praticar os conceitos transmitidos. Os conceitos mais avançados preparam discussões posteriores na area da arquitetura de<br />computadores.<br /><br />A unidade curricular desenvolve-se em aulas teóricas e práticas. Nas aulas teóricas faz-se a exposição dos principais tópicos teóricos e exemplos de aplicação. Nas aulas práticas, os estudantes planeiam, escrevem, testam e corrigem programas simples no terminal. Todo o material pedagógico da disciplina esta disponível no ambiente Moodle da FEUP e uma parte da avaliação dos alunos também é efetuada nesse ambiente.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 90.0 %
+- Participação presencial: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 horas
+- Frequência das aulas: 56.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><span style="font-weight: 400;">A classificação final é dada pela seguinte fórmula:</span></p>
+<p><strong>Classificação final = 0.1 DP + 0.2 &#956;T + 0.7 MT</strong></p>
+<p><span style="font-weight: 400;">onde</span></p>
+<p><strong>Componente DP = </strong>desempenho nas aulas práticas<strong><br /><br />Componente&#956;T =  0,5 uT1 + 0,5 uT2</strong>, sendo &#956;T1 e&#956;T2 os micro-testes teóricos em sala de aula<br /><br /><span style="font-weight: 400;"><strong>Componente MT = 0,5 MT1 + 0,5 MT2</strong>, </span>sendo MT1 e MT2 os minitestes práticos em salas de exame</p>
+
+## Obtenção de frequência
+<p><span style="font-weight: 400;">Condições para obtenção de frequência: não exceder o limite de faltas estabelecido nas normas (25% do número de aulas práticas previstas). </span></p>
+<p><span style="font-weight: 400;">Os estudantes com estatuto de trabalhador-estudante ou que tenham obtido frequência no ano letivo anterior estão dispensados de assiduidade às aulas práticas.  No entanto, os estudantes que tenham obtido frequência no ano letivo anterior deverão realizar, no presente ano letivo, as componentes de avaliação abaixo indicadas.</span></p>
+
+## Melhoria de classificação
+<p><span style="font-weight: 400;">Os estudantes que frequentaram esta unidade curricular no presente ano letivo podem fazer melhoria das componentes <strong>MT1</strong> e/ou </span><strong>MT2</strong>, na época de recurso.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Programming
+
+## Curso responsável
+Bachelor in Aerospace Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Learn the basic concepts of programming that will be fundamental to support the study of more complex topics related to Aerospace Engineering. Additionally, this course unit aims to teach various programming features of the Python language.</p>
+
+## Resultados de aprendizagem e competências
+<p>On completion of the course unit, students should be able to:<br /><br />- Design, implement, test and debug programs using the fundamental programming constructs, basic calculations, conditional and iterative structures, simple input/output, files and exceptions.<br /><br />- Understand data abstraction and use simple or compound data types.<br /><br />- Understand procedural abstraction and use function definitions and parameter passing.<br /><br />- Implement programs using the "standard" Python library.<br /><br />- Define and use iterators, generators and other operations on collections-<br /><br />- Implement unit tests.</p>
+
+## Pré-requisitos e co-requisitos
+N/A
+
+## Programa
+- Introduction to Computational Thinking, algorithms and programming with Python.<br /><br />- Fundamental programming concepts: simple data types; variables, expressions and statements; program flow, conditionals, iteration; functions, parameter passing, recursion; files.<br /><br />- Working with aggregate data types: strings, tuples, sets, lists, dictionaries.<br /><br />- The Python standard library.<br /><br />- Lits and collections.<br /><br />- Problem-solving strategies.<br /><br />- Programming tools, debugging, exceptions.<br /><br />- Unit testing.
+
+## Métodos de ensino e atividades de aprendizagem
+This curricular unit represents for most students a first contact with programming, which is intended to be motivating without neglecting formalism and rigor, being the basis of training in programming on the course. Concepts and fundamental vocabulary of programming implemented in the Python language are introduced. Searching and sorting algorithms and file access are used fto practice the taught<br />concepts. The more advanced concepts prepare for further discussions in the area of computer architecture.<br /><br />The course has both lectures and hands-on programming sessions. The lectures present the main theoretical topics and examples. In the programming sessions, the students plan, write and improve simple console programs by working on their own with support from the teaching staff.. Course documentation is available through Moodle, which is also used for some evaluation activities.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 90.0 %
+- Participação presencial: 10.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 hours
+- Frequência das aulas: 56.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final grade is given by the following formula:</p>
+<p><strong>Final Grade = 0.1 DP + 0.2 &#956;T + 0.7 MT</strong></p>
+<p>where</p>
+<p><strong>Component DP</strong> = performance in practical classes</p>
+<p><strong>Component&#956;T = 0.5 &#956;T1 + 0.5&#956;T2</strong>, where &#956;T1 and&#956;T2 are the theoretical micro-tests in the classroom</p>
+<p><strong>Component MT = 0.5 MT1 + 0.5 MT2</strong>, where MT1 and MT2 are the practical mini-tests in examination rooms</p>
+
+## Obtenção de frequência
+<p><span style="font-weight: 400;">Conditions to obtain eligibility for exams: do not exceed the absence limit, established in the rules (25% of the total number of estimated practical lessons). </span></p>
+<p><span style="font-weight: 400;">Students with worker-student status or who have obtained attendance in the previous school year are exempt from attendance. However, students who have obtained attendance in the previous school year must perform, in the present school year, all the evaluation components indicated below.</span></p>
+
+## Melhoria de classificação
+<p>The students who attended this course unit in the current academic year may improve their <strong>MT1</strong> and/or <strong>MT2</strong> components during the resit period.</p>
+

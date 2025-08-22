@@ -1,0 +1,104 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise Matemática I
+
+## Curso responsável
+Licenciatura em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Aquisição de conhecimentos teóricos e práticos sobre cálculo diferencial e integral em R que possibilitem a aplicação das ferramentas básicas da análise matemática ao tratamento e resolução dos problemas mais adaptados ao perfil da Engenharia Informática e Computação. Capacitar o estudante para a inovação, complementando os conhecimentos de forma a desenvolver soluções para resolução de novas questões. No final da disciplina, os estudantes devem possuir as seguintes competências:<br />1. Saber derivar funções, desenhar gráficos e estudar funções<br />2. Saber integrar e utilizar os integrais em aplicações de engenharia<br />3. Conhecer técnicas de integração e de resolução de equações diferenciais<br />4. Relacionar séries e polinómios e perceber os conceitos de aproximação.</p>
+
+## Resultados de aprendizagem e competências
+<p>Como resultado da aprendizagem ao longo desta UC, o estudante deve ter adquirido as seguintes competências:<br />1. Analisar funções, derivar e desenhar gráficos<br />2. Dominar as técnicas de integração e utilizar os integrais em aplicações de engenharia<br />3. Compreender e utilizar as equações diferenciais e transformadas de Laplace<br />4. Saber relacionar séries e polinómios e perceber os conceitos de aproximação<em>.</em></p>
+
+## Pré-requisitos e co-requisitos
+<p>Conhecimentos ao nível do pré-calculo de acordo com o programa de Matemática A do ensino secundário.</p>
+
+## Programa
+A. Diferenciação em R<br />   A.1. Conceito de Derivada<br />   A.2. Interpretação Física do Conceito de Derivada<br />   A.3. Regras de Derivação<br />   A.4. Outras Regras de Derivação &#8211; Produto e Quociente<br />   A.5. Derivação de Funções Compostas (ou Regra da Cadeia)<br />   A.6. Derivação de Funções Trigonométricas<br />   A.7. Derivação da Função Inversa<br />   A.8. Teorema dos Acréscimos Finitos (Lagrange)<br />   A.9. Noção de Diferencial e Regras de Cálculo<br />   A.10. Teorema de Cauchy e Regra de L&#8217;Hôpital<br />   A.11. Aproximação Polinomial<br />   A.12. Série de Taylor com Limite dos Polinómios de Taylor<br />   A.13. Séries Numéricas<br /><br />B. Integração de Riemann em R<br />   B.1. Conceito de Integral Definido<br />   B.2. Cálculo de Áreas e Teoremas do Valor Médio para Integrais<br />   B.3. Teoremas Fundamentais de Cálculo<br />   B.4. Primitivação por Substituição e por Partes<br />   B.5. Cálculo de Volumes usando Integral<br />   B.6. Definição de Funções e Cálculo de Áreas usando Coordenadas Polares<br />   B.7. Outros Métodos de Primitivação<br /><br />C. Tópicos Adicionais<br />   C.1. Funções Hiperbólicas<br />   C.2. Integrais Impróprios<br />   C.3. Equações Diferenciais Ordinárias<br />   C.4. Transformadas de Laplace<br />   C.5. Séries de Fourier
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Nas aulas teóricas procede-se à exposição da matéria, procurando incentivar e motivar os estudantes, acompanhando-a com exemplos de aplicação. As aulas teórico-práticas são destinadas à análise e resolução de problemas, aplicando as ferramentas e os princípios matemáticos expostos nas aulas teóricas; pretende-se avaliar a destreza e a assimilação da matéria pelos estudantes, de forma a ajuizar da sua capacidade de aplicação dos conhecimentos na resolução de problemas.<br /> <br /> Haverá controle de presenças nas aulas práticas não podendo o aluno exceder o número de faltas previstas (25% das aulas previstas), a indicar pelo Professor para cada turma prática . No caso de exceder o número de faltas indicado o aluno não terá frequência à disciplina e não poderá realizar qualquer exame desta disciplina, a menos que tenha um estatuto especial (consultar as normas pedagógicas e de avaliação da FEUP).  </p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 92.0 horas
+- Frequência das aulas: 70.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final será a nota (arredondada às unidades) obtida através da média dos dois testes (T1 e T2) &#8211; 50% da nota do Teste 1 (T1) mais 50% da nota do Teste 2 (T2).<br />Os Testes 1 e 2 terão perguntas de desenvolvimento.<br />T1 e T2 serão avaliados na escala 0-20 valores.<br /><br />O exame de recurso (ER) consistirá numa prova que engloba todos os conteúdos abordados ao longo do semestre académico. ER será avaliado na escala 0-20 valores.</p>
+
+## Obtenção de frequência
+<p>Presença em 75% das aulas práticas</p>
+
+## Melhoria de classificação
+<p>O estudante já aprovado, pode efetuar um exame de melhoria na época de recurso.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Mathematical Analysis I
+
+## Curso responsável
+Bachelor in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>This course aims to acquaint students with the differential and integral calculus, in order to make them able to apply basic tools of mathematical analysis in problem solving related with subjects of Informatics and Computing Engineering. This course also aims to expand students&#8217; knowledge, so that they can address new methodologies applied to engineering problems. At the end of the course, the learning outcomes are:<br />1. To solve derivatives of functions, draw graphics and study functions in general;<br />2. To solve integrals and use them in various engineering applications;<br />3. To use different integration techniques and differential equations;<br />4. To use and understand approximation concepts based on series and polynomials.</p>
+
+## Resultados de aprendizagem e competências
+<p>As a result of this course, students should be aquainted with the following matters:<br />1. To study functions, solve derivatives and draw graphics<br />2. To solve integrals and use them in various engineering applications<br />3. To use differential equations and Laplace Transform<br />4. To understand approximation concepts using series and polynomials.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Knowledge of pre-calculus at the level of the high school program of Math A.</p>
+
+## Programa
+<br />A. Differentiation in R<br />   A.1. The Derivative<br />   A.2. Physical Interpretation of the Derivative<br />   A.3. Derivative Rules<br />   A.4. The Product and Quotient Rules<br />   A.5. Chain Rule<br />   A.6. Derivatives of Trigonometric Functions<br />   A.7. Derivatives of the Inverse Function<br />   A.8. Mean Value Theorem or Lagrange Theorem<br />   A.9. Notion of Differential and Calculus Rules<br />   A.10. Cauchy's Theorem and L'Hôpital's Rule<br />   A.11. Polynomial Approximation<br />   A.12. Taylor Series with Limit of Taylor Polynomials<br />   A.13. Numerical Series<br /><br />B. Riemann Integration in R<br />   B.1. Concept of Definite Integral<br />   B.2. Calculation of Areas and Mean Value Theorems for Integrals<br />   B.3. Fundamental Theorems of Calculus<br />   B.4. Integration by Substitution and by Parts<br />   B.5. Calculation of Volumes using Integrals<br />   B.6. Definition of Functions and Calculation of Areas using Polar Coordinates<br />   B.7. Other Primitive Methods<br /><br />C. Additional Topics<br />   C.1. Hyperbolic Functions<br />   C.2. Improper Integrals<br />   C.3. Differential Equations<br />   C.4. Laplace Transform<br />   C.5. Fourier Series
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical classes will be based on the presentation of the themes of the course unit. These classes are aimed to motivate students, where examples of application will be showed. Theoretical-practical classes will be based on the analysis and on problem solving by students, where they have to apply tools and mathematical concepts taught in theoretical classes. These classes are aimed to assess students&#8217; understanding and dexterity of the themes of the course unit.<br /> <br /> Attendance in practical courses is controlled and the student may not exceed the designated number of absences (25% of the scheduled hours) indicated by the professor for each practical course. If the student exceeds the specified number of absences, he/she will not be able to attend the course or take any exam in that course unless he/she has a special statute (see FEUP's pedagogical and evaluation rules).</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 100.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 92.0 hours
+- Frequência das aulas: 70.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final grade will be obtained through the average of the two tests (T1 and T2) &#8211; 50% of the grade of Test 1 (T1) plus 50% of the grade of Test 2 (T2).<br />Tests 1 and 2 will have essay questions.<br />T1 and T2 will be evaluated on a scale of 0-20 points.<br /><br />The appeal exam (ER) will consist of a test that covers all the content covered throughout the academic semester. ER will be evaluated on a scale of 0-20 points.</p>
+
+## Obtenção de frequência
+<p>Participation in 75% of the practical lessons (solving exercises)</p>
+
+## Melhoria de classificação
+<p style="text-align: justify; line-height: 115%;">The student that has already obtained approval can attend the &#8220;appeal exam&#8221;.</p>
+

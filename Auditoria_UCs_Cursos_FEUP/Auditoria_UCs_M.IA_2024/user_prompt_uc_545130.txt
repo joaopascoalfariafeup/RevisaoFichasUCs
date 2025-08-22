@@ -1,0 +1,124 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Bioinformática
+
+## Curso responsável
+Mestrado em Inteligência Artificial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p><span style="font-weight: 400;">A Bioinformática é um campo do conhecimento interdisciplinar que combina as ciências da computação, a biologia e ciências biomédicas e a estatística. A Bioinformática é orientada à aplicação e desenvolvimento de novos métodos computacionais para expandir o conhecimento biológico, biomédico ou epidemiológico. Os recentes desenvolvimentos nas tecnologias de alto-débito levaram a uma grande revolução na investigação biológica e biomédica e onde hoje a bioinformática assume um papel cada vez mais central na análise de grandes quantidades de dados.</span></p>
+<p><span style="font-weight: 400;">Este curso vai-se focar nos principais algoritmos desenvolvido para responder a tarefas bioinformáticas. Será dado ênfase em algoritmos de processamento e análise de sequências, quer sejam sequências nucleotídicas (exemplo DNA ou RNA) ou sequências de aminoácidos (proteínas).</span></p>
+<p><span style="font-weight: 400;">O objetivo deste curso é de que os estudantes sejam capazes de entender como funcionam estes algoritmos e como podem ser desenvolvidos e aplicados para responder a novos desafios computacionais na análise de sequências biológicas.</span></p>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-weight: 400;">No final deste curso é esperado do estudante que:</span></p>
+<ol>
+<li>Esteja familiarizado com os principais conceitos de Bioinformática incluindo os principais conceitos de biologia molecular computacional;</li>
+<li>Identificar as principais fontes e tipos de dados de sequências biológicas(e.g. sequências de nucleotídeos ou de aminoácidos; motifs e domínios) e como estes podem ser representados do ponto de vista computacional;</li>
+<li>Compreender os diferentes problemas relacionados com a análise de sequências e identificar os algoritmos e estruturas de dados mais adequados para resolver estes problemas.</li>
+<li>Identificar do ponto de vista algorítmico as vantagens e desvantagens de cada método. Ênfase será dada aos métodos para processamento básico de sequências, para transcrição e tradução de genes, para alinhamento pareado e múltiplo de sequências, para busca e identificação de padrões, análise filogenética a partir de sequências e grafos e redes biológicas.</li>
+<li>Ter uma perspectiva da Bioinformática como uma disciplina de importância crítica para alavancar a investigação na área da biologia, ciências biomédicas e da saúde; como um área de investigação com um rápido e constante desenvolvimento.</li>
+</ol>
+
+## Pré-requisitos e co-requisitos
+Conhecimentos de Programação (Média - Avançada) em Python. Conhecimentos de Estruturas de Dados.
+
+## Programa
+<ol><br /><li><span style=&quot;font-weight: 400;&quot;>Perspectiva geral sobre os conceitos fundamentais de Biologia Molecular;</span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Introdução à linguagem de programação Python;</span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Processamento básico de sequências biológicas;</span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Busca de padrões em sequências;</span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Alinhamento pareado de </span><span style=&quot;font-weight: 400;&quot;>sequências;<br /></span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Pesquisa em base de dados de </span><span style=&quot;font-weight: 400;&quot;>sequências similares;<br /></span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Alinhamento múltiplo de </span><span style=&quot;font-weight: 400;&quot;>sequências;<br /></span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Clustering e árvores;</span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Motifs probabílisticos;</span></li><br /><li><span style=&quot;font-weight: 400;&quot;>Grafos e redes biológicas.</span></li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>Aulas teóricas: exposição de matéria acompanhada de exemplos</li><br /><li>Aulas práticas: implementação (em Python) de algoritmos e trabalhos práticos de suporte.</li><br /></ul><br />
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 120.0 horas
+- Frequência das aulas: 42.0 horas
+
+## Fórmula de cálculo da classificação final
+Critério de avaliação:<br /><br />A nota da UC será determinada pelo aproveitamento satisfatório (<strong>nota mínima de 7 valores</strong>) nos trabalhos práticos e no exame final.<br /><br />A contribuição de cada componente para a nota final será:<br /><br /><br /><strong>E</strong>: Exame final: 60%<br /><br /><strong>P</strong>: Trabalhos: 40% (trabalhos práticos individuais e de grupo). Este trabalhos serão realizados individualmente ou em grupo e deverão ser submetidos durante o semestre<br /><br /><br /><br /><div><br /><div>O cálculo da componente P será realizada da seguinte forma:</div><br /><div><br />I1,2 - Individual Assignments<br />G1,2 - Group Assignments</div><br /></div><br /><br /><strong>Nota Final = (0.025 x I1 +0.025 x I2 + 0.175 x G1 + 0.175 x G2) + 0.6 x E</strong><br /><br />Apenas a componente <strong>E</strong> é melhorável.
+
+## Obtenção de frequência
+<ul><br /><li>Será necessária uma <strong>nota mínima de 7 valores</strong> nas componentes de avaliação de exame e na componente de trabalhos práticos ou projetos.</li><br /></ul>
+
+## Melhoria de classificação
+A componente de exame é melhorável na época de recurso. A componente prática e de avaliação contínua não é melhorável.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Bioinformatics
+
+## Curso responsável
+Master in Artificial Intelligence
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p><span style="font-weight: 400;">Bioinformatics is an interdisciplinary field that combines the fields of computer science, biology and biomedical science and statistics. Bioinformatics is devoted to the application and development of new computational methods for expanding the use of biological, biomedical or epidemiological data. Recent developments in high-throughput technologies have led to a real revolution in the biological and biomedical research with bioinformatics playing a central role in the analysis of massive amounts of data. This course will focus on the main algorithms developed to address Bioinformatics tasks. An emphasis will be made on algorithms for sequence processing and analysis, both on nucleic-acids or amino-acid sequences.</span></p>
+<p><span style="font-weight: 400;">Our goal is that students will be able to understand how these algorithms work and how this can be developed and applied to address new computational tasks in biological sequence analysis.</span></p>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-weight: 400;">By the end of this course it is expected that the student:</span></p>
+<br />
+<ol>
+<li>Is familiarized with the main concepts of Bioinformatics including the main concepts on Computational Molecular Biology;</li>
+<li>Identifies the main sources of biological sequence data (e.g. nucleotide or amino-acid sequences; motifs and domains) and associated types and how can they be represented from a computational point of view.</li>
+<li>Understands different problems related to sequence analysis and which are the most adequate algorithms and data structures to solve these problems.</li>
+<li>Identify the advantages and disadvantages of each method from an algorithmic point of view. Emphasis will be given to methods on basic sequence processing tasks, transcription and translation, pairwise and multiple sequence alignment, sequence pattern finding, phylogenetic analysis from sequences and graphs and biological networks.</li>
+<li>Have a perspective of Bioinformatics as a field of critical importance to leverage biological, biomedical and health research and as a field of constant and fast-paced development.</li>
+</ol>
+
+## Pré-requisitos e co-requisitos
+Programming skills (Medium - Advanced) in Python. Knowledge of Data Structures.
+
+## Programa
+<ol><br /><li>Overview of Molecular Biology Fundamental Concepts;</li><br /><li>Introduction to Python programming language;</li><br /><li>Basic Processing of Biological Sequence;</li><br /><li>Finding Patterns in Sequences;</li><br /><li>Pairwise Sequence Alignment;</li><br /><li>Searching Similar Sequences in Databases;</li><br /><li>Multiple Sequence Alignment;</li><br /><li>Clustering and Trees;</li><br /><li>Probabilistic Motifs;</li><br /><li>Graphs and Biological Networks;</li><br /></ol>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>Theoretical classes: expository, accompanied by examples</li><br /><li>Practical classes: implementation (in Python) of algorithms and practical assignments support.</li><br /></ul><br />
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 60.0 %
+- Trabalho prático ou de projeto: 40.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 120.0 hours
+- Frequência das aulas: 42.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Grading criteria:<br /><br />The UC grade is determined based on satisfactory progress (<strong>minimum grade of 7</strong>) in weekly assignments and final exam.<br /><br />The breakdown of these components is as follows:<br /><br /><strong>E</strong>: Final exam: 60%<br /><strong>P</strong>: Assignments: 40% (individual and group assignments). To perform individually or in group. To be submitted during the semester.<br /><br />The P component is calculated as follows:<br /><br /><br /><br /><strong>Final Grade =(0.025 x I1 +0.025 x I2 + 0.175 x G1 + 0.175 x G2) + 0.6 x E</strong><br /><br /><br />Only component <strong>E</strong> can be improved.</p>
+
+## Obtenção de frequência
+<ul><br /><li>A <strong>minimum grade of 7 values</strong> is required in the exam and in the pratical assignments or project.</li><br /></ul>
+
+## Melhoria de classificação
+Component <strong>E</strong> can be improved in the Appeal Exam. Component <strong>P</strong> cannot be improved.
+

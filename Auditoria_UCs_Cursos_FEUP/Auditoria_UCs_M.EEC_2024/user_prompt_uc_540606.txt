@@ -1,0 +1,131 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas de Energia Renovável
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Explicar os princípios de funcionamento das principais fontes de energia renovável (solar fotovoltaica, eólica, biomassa, hídrica, ondas marítimas e marés) e identificar as principais topologias de conversão das diferentes energias primárias em energia eléctrica.<br />Explicar e saber aplicar os métodos fundamentais de controlo da potência produzida. <br />Analisar e comparar diferentes topologias de condicionamento de fontes de energia renovável.<br />Identificar e compreender os diferentes sistemas de armazenamento de energia e a sua aplicação em microredes.<br />Identificar, aplicar e verificar os aspectos normativos fundamentais da interface de energias renováveis para a rede eléctrica. <br />Projectar e integrar os diferentes subsistemas, electrónicos e de controlo, da cadeia de conversão de energia para as energias renováveis mais significativas: solar fotovoltaica e eólica.</p>
+
+## Resultados de aprendizagem e competências
+<p>A unidade curricular de Sistemas de Energia Renovável contribuirá para o enriquecimento, por parte dos estudantes, das seguintes competências:</p>
+<p>1. Conhecer os componentes, os modelos matemáticos, as tecnologias e os métodos de controlo dos sistemas de conversão de energia solar PV e eólica;</p>
+<p>2. Analisar e avaliar criticamente as soluções tecnológicas existentes no domínio dos sistemas de conversão de energia, ao nível dos circuitos de potência, dos métodos de controlo e das características de funcionamento;</p>
+<p>3. Exercitar as ferramentas de simulação computacional que permitem modelar, projetar, analisar e avaliar os desempenhos dos controladores dos sistemas de conversão de energia de base eletrónica;</p>
+<p>4. Trabalho de grupo;</p>
+<p>5. Elaborar relatórios técnicos e fazer apresentações orais.<br /><br />Em suma, o estudante saberá discutir e avaliar alternativas para a implementação de sistemas de controlo de energia renovável que sejam mais sustentáveis e fiáveis e que cumpram os regulamentos da rede.</p>
+
+## Pré-requisitos e co-requisitos
+Conhecimentos fundamentais de máquinas eléctricas e de electrónica de potência.
+
+## Programa
+<p>Caracterização das energias renováveis: solar fotovoltaica, eólica, biomassa, hídrica, ondas marítimas e marés.<br />Caracterização dos sistemas de armazenagem de energia: baterias, hídrica, volante de inércia, ar comprimido, pilhas de combustível e hidrogénio verde.<br />Energia solar fotovoltaica. Controlo baseado em seguimento do ponto de potência máxima (MPPT). Métodos de condicionamento. Topologias de ligação à rede eléctrica. <br />Turbinas eólicas: características mecânicas e métodos de controlo passivos e activos. Geradores eléctricos, assíncronos e síncronos: gama de funcionamento em velocidade e métodos de controlo de potência. Optimização da conversão de energia eólica. <br />Topologias de conversão baseadas em sistemas electrónicos de potência e métodos de controlo para sistemas de conversão de energia eólica e de energia solar.<br />Interface para a rede eléctrica de fontes de energia renováveis. Aspectos normativos.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas teórico-práticas compreendem: <br />1. Exposição tutorial e interativa dos diversos tópicos dos conteúdos programáticos da unidade curricular;<br />2. Fornecimento aos estudantes de casos do mundo real para os estudantes estudarem, simularem e debaterem soluções;<br />3. Estudos e simulações de exemplos práticos realizadas de forma autónoma para apresentação e discussão em sala de aula;<br />4. Supervisão de trabalhos de simulação e experimentais;<br />5. Tutoria ao trabalho de projeto.</p>
+<div style="position: absolute; left: -99999px;"><span class="word_wrap"><span class="word">Estudo</span> <span class="word">realizado</span> <span class="word">de</span> <span class="word">forma</span> </span><span class="varpt"><span class="word_wrap"><span class="word">autónoma</span></span></span>
+<div><br /><strong>"auto-estudo"</strong>, in Dicionário Priberam da Língua Portuguesa [em linha], 2008-2021, <a href="https://dicionario.priberam.org/auto-estudo">https://dicionario.priberam.org/auto-estudo</a> [consultado em 03-08-2021].</div>
+</div>
+<div style="position: absolute; left: -99999px;"><span class="word_wrap"><span class="word">Estudo</span> <span class="word">realizado</span> <span class="word">de</span> <span class="word">forma</span> </span><span class="varpt"><span class="word_wrap"><span class="word">autónoma</span></span></span>
+<div><br /><strong>"auto-estudo"</strong>, in Dicionário Priberam da Língua Portuguesa [em linha], 2008-2021, <a href="https://dicionario.priberam.org/auto-estudo">https://dicionario.priberam.org/auto-estudo</a> [consultado em 03-08-2021].3. Análise colectiva do desenvolvimento dos trabalhos práticos As aulas práticas são de acompanhamento relativas a:</div>
+</div>
+<p> </p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Trabalho laboratorial: 20.0 %
+- Exame: 40.0 %
+- Participação presencial: 10.0 %
+- Trabalho prático ou de projeto: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho laboratorial: 50.0 horas
+- Trabalho escrito: 13.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Critérios de avaliação são os seguintes: <br />1- Trabalhos laboratoriais (TL);<br />2- Participação nas aulas para apresentação oral de trabalho (AO);<br />3- Trabalho prático de simulaçãoe e/ou experimental (TP) <br />4- Exame (EX), sem consulta, com a duração de 2h.<br /> <br />Os trabalhos laboratoriais e de projeto serão em grupo e são objeto de relatório escrito e apresentação oral.<br />Os TLs avaliam a capacidade de estudo, de implementação e análise de soluções, bem como avaliam a capacidade de trabalho em grupo. <br />O TP mede a capacidade de analisar, modelar, projetar e simular sistemas de energias renováveis, bem como o processo de desenvolvimento do trabalho de projeto em equipa (organização e planeamento do trabalho, cumprimento de objetivos, qualidade da documentação e do relatório técnico) e a criatividade na formulação de possíveis soluções.<br />A participação nas aulas e apresentação oral do trabalho (AO) serve para avaliar o empenho no acompanhamento da unidade curricular e a capacidade de comunicar em público para uma audiência específica. <br />O exame (EX) avalia a capacidade de explicar e analisar o funcionamento dos sistemas de energias renováveis na presença de diferentes fontes e métodos de controlo, bem como o nível e robustez dos conhecimentos adquiridos, o mérito técnico-científico das diferentes soluções e rigor na proposta de soluções técnicas adequadas.<br /><br />A classificação final (CF) é calculada da seguinte forma:<br />CF=0.2*TL+0.3*TP+0.1*AO+0.4*EX <br />Todas as avaliações parciais são classificadas de 0 a 20 valores. <br /><span style="color: #333333; font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 12.16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">A aprovação na unidade curricular está condicionada a um mínimo de 8,0 valores no exame final.</span><br /><br /></p>
+
+## Obtenção de frequência
+<p>Para obter frequência e ter acesso ao exame final os estudantes devem realizar todas as atividades teórico-práticas (TL) desenvolvidos na unidade curricular e frequentar pelo menos 75% das aulas teórico-práticas.</p>
+
+## Melhoria de classificação
+<p>As componentes TP e/ou EX é susceptível de melhoria, nas épocas a isso destinadas.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Renewable Energy Systems
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Explain the operating principles of the main sources of renewable energy (solar photovoltaic, wind, biomass, hydroelectric, sea waves and tides) and identify the main topologies converting primary energy into electrical energy. <br />Explain and be able to apply the fundamental methods of control of the produced power. <br />Analyze and compare different topologies for the conditioning of renewable energy sources.<br />Identify and understand the different energy storage systems and their application in microgrids.<br />Identify, apply and verify the regulatory aspects of the basic interface of renewable energy to the electric grid. <br />Design and integrate the different subsystems, electronic and control, of the energy conversion chain to the more relevant renewable energy sources: solar photovoltaic and wind.</p>
+
+## Resultados de aprendizagem e competências
+<p>The Renewable Energy Systems course will contribute to the acquisition, by the students, of the following competencies:</p>
+<p>1.  Knowing the components, the mathematical models, technologies and control methods to be applied on the solar PV and wind systems;</p>
+<p>2. Analyze and critically evaluate established technological solutions of renewable energy systems field including power circuits and control methods  and operating characteristics;</p>
+<p>3. Make acquaintance with the computational simulation tools that allow to modelling, design, analyze and evaluate the performance of controllers of energy renewable conversion systems.</p>
+<p>4. Work in group;</p>
+<p>5. Elaborate technical reports and make oral presentations.<span style="color: #000000; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; font-family: verdana, geneva; font-size: x-small;"><br /><br />To sum up, the student will know how to discuss and evaluate alternatives for the implementation of renewable power control systems that more sustainable and reliable systems that comply with grid regulations.</span></p>
+
+## Pré-requisitos e co-requisitos
+Basic knowledge of electrical machines and power electronics.
+
+## Programa
+<p>Characterization of renewable energies: solar photovoltaic, wind, biomass, hydroelectric, sea waves and tides.<br />Characterization of energy storage systems: batteries, hydroelectric, flywheel, compressed air, fuel cells and green hydrogen.<br />Photovoltaic energy. Control based on maximum power point tracking (MPPT). Conditioning methods. Topologies for grid connection. <br />Wind turbines: mechanical characteristics and passive and active control methods. Electric generators, asynchronous and synchronous: speed operating range and power control methods. Optimization of the wind energy conversion. <br />Conversion topologies based on power electronic systems and control methods for the conversion of wind energy and solar energy. <br />Grid interface of renewable energy sources. Regulatory aspects.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The theoretical-practical classes include:<br />1. Tutorial and interactive exposure of the various topics of the syllabus of the course unit;<br />2. Provide the students with a real-world case for the students to study, simulate and discuss solutions;<br />3. Studies and simulations of practical examples carried out autonomously for presentation and discussion in class;<br />4. Supervision of simulation and experimental work;<br />5. Tutoring in project work.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Trabalho laboratorial: 20.0 %
+- Exame: 40.0 %
+- Participação presencial: 10.0 %
+- Trabalho prático ou de projeto: 30.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho laboratorial: 50.0 hours
+- Trabalho escrito: 13.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The following Evaluation criteria are considered: <br />1- Laboratory works (TL);<br />2- Participation in class for oral presentation of work (AO);<br />3- Practical simulation and/or experimental work (TP);<br />4- Exam (EX), closed book, with 2 hours duration.<br /><br />Laboratory and project work will be done in groups and there will be a written report and oral presentation.<br />The TLs assess the ability to study, implement and analyse solutions, as well as assess the ability to work in groups. <br />The TP assess the ability to analyse, model, design and simulate renewable energy systems, as well as the development process of the project work in a team (organisation and planning of the work, achievement of objectives, quality of the documentation and the technical report) and the creativity in formulating possible solutions.<br />The participation in class and the oral presentation of the work (AO) serve to evaluate the commitment to follow the curricular unit and the capacity to communicate in public to a specific audience.<br />The exam (EX) assesses the ability to explain and analyse the operation of renewable energy systems in the presence of different sources and control methods, as well as the level and robustness of knowledge acquired, the technical and scientific merit of the different solutions and rigor in proposing appropriate technical solutions.<br /><br />The Final Grade (FG) is calculated according to: <br />FG=0.2*TL+0.3*TP+0.1*AO+0.4*EX <br />All components are evaluated in a 0-20 scale. <br />Course approval requires a minimum of 8,0 marks (40%) in the exam. <br /> <br /><br /></p>
+
+## Obtenção de frequência
+<p>To have access to the final exam, students must complete all the theoretical-practical activities (TL) developed in the course and attend at least 75% of the theoretical-practical classes.</p>
+
+## Melhoria de classificação
+<p>The part TP and/or EX can be improved, in the established dates.</p>
+

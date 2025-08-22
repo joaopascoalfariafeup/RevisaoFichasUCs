@@ -1,0 +1,108 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Estruturas de Dados e Algoritmos
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+Os objetivos principais desta unidade curricular são: <br /><br /><ul><br /><li>dotar os estudantes com conhecimentos fundamentais sobre a programação orientada a objectos e com a capacidade de aplicar esse paradigma de programação para desenvolver programas, usando a linguagem C++ como ferramenta;</li><br /><li>conhecer e saber utilizar adequadamente estruturas de dados lineares, Árvores Binárias, Grafos e Tabelas de Dispersão.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+No final da unidade curricular os estudantes devem:<br /><br /><ul><br /><li>conhecer e saber aplicar metodologias de desenvolvimento de aplicações orientadas a objetos em C++;</li><br /><li>ter conhecimentos fundamentais de algoritmia, em particular algoritmos de procura e ordenação;</li><br /><li>conhecer e saber aplicar estruturas de dados lineares, árvores binárias, grafos e tabelas de dispersão;</li><br /><li>conseguir desenvolver programas em C++, envolvendo a seleção e adaptação de estruturas de dados e algoritmos.</li><br /></ul>
+
+## Pré-requisitos e co-requisitos
+Ter conhecimentos e experiência no desenvolvimento de aplicações na linguagem de programação C.
+
+## Programa
+<strong>1. Programação Orientada a Objetos</strong><br /><br />* Conceitos básicos de programação orientada a objetos<br />* Classes e herança simples<br />* Diferenças principais entre as linguagens de programação C e C++<br /><br /><strong>2. Conceitos Fundamentais de Algoritmia</strong><br /><br />* Análise de complexidade de algoritmos<br />* Estratégias de conceção de algoritmos<br />* Algoritmos de ordenação e pesquisa<br />* Exemplos práticos de aplicação de diferentes estratégias<br /><br /><strong>3. Estruturas de dados</strong><br /><br />* Estruturas lineares - listas, filas e pilhas<br />* Árvores Binárias<br />* Grafos<br />* Heaps<br />* Tabelas de dispersão
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>Aulas teóricas: exposição dos temas programáticos acompanhada pela discussão e resolução de casos;</li><br /><li>Aulas práticas: resolução de exercícios de programação em C++. Desenvolvimento, em grupo, de 3 pequenos projetos e um projeto, sendo cada grupo constituído por 2 estudantes.</li><br /><li>Fora das aulas: continuação do desenvolvimento, em grupo dos pequenos projetos.</li><br /><li>Todo o material pedagógico da disciplina está disponível no ambiente Moodle da FEUP e uma parte da avaliação dos alunos também é efectuada nesse ambiente.</li><br /></ul>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Teste: 55.0 %
+- Trabalho prático ou de projeto: 45.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 30.0 horas
+- Estudo autónomo: 80.0 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+Fórmula de avaliação: CF = 0,45 * F + 0,55 * MT<br /><br />* Classificação de frequência (mínimo 40%)<br />F = 0,12 T1 + 0,12 T2 + 0,12 T3  + 0,3 T4 + 0.06MiT1+ 0,06MiT2  + 0.06MiT3+ 0,06MiT4 +  0,1 DI          <br />onde:<br /><br /><p>Tn trabalhos práticos = AT x AO</p><br /><p>AT- Avaliação do trabalho</p><br /><p>AO - Avaliação oral<br /><br />MiT - Micro-testes( avaliação da parte teórica)</p><br />DI &#8211; Desempenho individual, relativa à participação do estudante nas aulas teóricas e práticas.<br /><br />* Nota dos minitestes (mínimo 40%)<br />MT = 0,4 MT1 + 0,6 MT2<br />onde:<br />MTn - classificação nos minitestes<br /><br />A componente F não pode exceder a componente MT em mais de 5 valores em 20 (condição de coerência)<br /><br /><br /><p>Características das provas:</p><br /><ul><br /><li>Micro-testes - os 4 microtestes serão realizados no final da aulas práticas em ambiente Moodle,  são constituídos por perguntas simples de escolha múltipla.</li><br /><li>Minitestes - os 2 minitestes, serão realizados sensivelmente a meio e no final do período das aulas da disciplina, no ambiente moodle, e não admitem consulta de documentação para além da fornecida pelos docentes e a instalada nos computadores.</li><br /></ul>
+
+## Obtenção de frequência
+Não exceder o limite de faltas estabelecido nas normas e obter uma classificação mínima de 40% na componente de trabalhos práticos.
+
+## Melhoria de classificação
+A melhoria da classificação poderá ser realizada através de um exame incidindo sobre toda a matéria; esse exame permitirá melhorar a classificação obtida na componente MT, com um peso total de 10 valores (55%), mantendo-se a classificação de avaliação distribuída já obtida na componente F (45%).<strong><br /><br /></strong>Os estudantes que pretendam melhorar a classificação obtida no ano letivo anterior poderão optar por realizar apenas o(s) projetos, apenas a(s) componente(s) de avaliação individual (mini-teste e exame) ou ambos. Os estudantes que pretendam realizar o(s) projeto(s) devem contactar o docente responsável, no início do curso e após a divulgação de cada projeto, para a marcação de sessões de acompanhamento do trabalho. A entrega dos projetos ocorrerá em simultâneo com a dos restantes estudantes.<strong><br /></strong>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Data Structures and Algorithms
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; data-placeholder=&quot;Translation&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>The main objectives of this course are:<br /></span></pre><br /><ul><br /><li><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;> provide students with fundamental knowledge about object-oriented programming and the ability to apply this programming paradigm to develop programs, using the C++ language as a tool;</span></li><br /><li><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>be <span data-dobid=&quot;hdw&quot;>knowledgeable</span> and able to properly use linear data structures, Binary Trees, Graphs and Hash Tables.</span></li><br /></ul>
+
+## Resultados de aprendizagem e competências
+By the end of this course unit the students should:<br /><br /><ul><br /><li>be <span data-dobid=&quot;hdw&quot;>knowledgeable</span> and able to apply methodologies of object-oriented application development in C++;</li><br /><li>have fundamental knowledge of algorithmic conception, specialy in search and sorting algorithms;</li><br /><li>be <span data-dobid=&quot;hdw&quot;>knowledgeable</span> and able to apply implementation strategies for linear data structures, binary trees, graphs and hash tables;</li><br /><li>be able to develop programs in C++, choosing appropriate data structures and algorithms.</li><br /></ul>
+
+## Pré-requisitos e co-requisitos
+<pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; data-placeholder=&quot;Translation&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>Be <span data-dobid=&quot;hdw&quot;>knowledgeable</span> and able to develop applications in the C programming language.</span></pre>
+
+## Programa
+<strong>1. Object oriented programming<br /></strong><br />* Basic concepts of object-oriented programming<br />* Classes and simple inheritance<br />* Main differences between C and C++ programming languages<br /><br /><strong>2. Fundamentals about algorithms<br /></strong><br />* Analysis of algorithms complexity <br />* Strategies for the development of algorithms<br />* Search and sorting algorithms<br />* Practical examples of the application of different strategies<br /><br /><strong>3. Data structures<br /></strong><br />* Linear data structures - lists, queues and stacks<br />* Binary Trees<br />* Graphs<br />* Heaps<br />* Hash tables
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li><br /><pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; data-placeholder=&quot;Translation&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>Theoretical classes: exposition of programmatic themes accompanied by discussion and resolution of cases; </span></pre><br /></li><br /><li><br /><pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; data-placeholder=&quot;Translation&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>Practical classes: resolution of programming exercises in C++. Development, in groups, of 2 small projects, each group consisting of 2 students;<br /></span></pre><br /></li><br /><li><br /><pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; data-placeholder=&quot;Translation&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>Outside classes: continuation of the development, in group of small projects.<br /></span></pre><br /></li><br /><li><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>Course documentation is available through Moodle, which is also used for some evaluation activities.</span></li><br /></ul>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Teste: 55.0 %
+- Trabalho prático ou de projeto: 45.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 30.0 hours
+- Estudo autónomo: 80.0 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+Assessment formula: CF = 0,45 * F + 0,55 * MT<br /><br />* Classification of the pratical assignments (minimum of 40%)<br /><br />F = 0,12 T1 + 0,12 T2 + 0,12 T3  + 0,3 T4 + 0.06MiT1+ 0,06MiT2  + 0.06MiT3+ 0,06MiT4 +  0,1 DI   <br /><br />where:<br />Tn &#8211; practical assignments = AT x AO<br />AT- Work assessment <br />AO - Oral assessment<br />MiT - Micro tests<br />CE &#8211; continuous evaluation component, which refers to the participation in the classes.<br /><br />* Classification of the mini-tests (minimum 40%)<br />MT = 0,4 MT1 + 0,6 MT2<br />where:<br />MT1,MT2 - 1st and 2nd mini-test<br /><br /><br />Component F cannot exceed MT by more than 5 points out of 20 (coherence condition).<br /><br /><br /><p>Evaluation of Tests and micro-tests:</p><br /><ul><br /><li>Micro-tests: there will be 4 and are performed at the end of laboratory classes in the Moodle environment;  consist of multiple-answer questions.</li><br /><li>Minitests: there will be 2 tests, one in the middle of the course and the other near the end; both will be made in the moodle environment; personal documentation is not allowed.</li><br /></ul>
+
+## Obtenção de frequência
+<pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; data-placeholder=&quot;Translation&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>Do not exceed the limit of absences established in the rules and obtain a minimum classification of 40% in the small projects component.</span></pre>
+
+## Melhoria de classificação
+<pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; data-placeholder=&quot;Translation&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>The improvement of the final grade can be accomplished through an exam focusing on all topics; this exam can improve the grade obtained in the MT component, with a total weight of 10 values (55%), keeping the distributed evaluation classification already obtained in component F (45%). The component F grade can be improved in the following school year, repeating the respective elements of assessment.<br />Students wishing to improve the classification obtained in the previous academic year may choose to carry out only the projects, only the individual assessment component(s) (mini-test and exam) or both. Students who intend to carry out the project(s) must contact the responsible teacher, at the beginning of the course and after the dissemination of each project, to schedule follow-up sessions for the work. The projects will be delivered at the same time as the other students.</span></pre><br /><pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; data-placeholder=&quot;Translation&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;> </span></pre>
+

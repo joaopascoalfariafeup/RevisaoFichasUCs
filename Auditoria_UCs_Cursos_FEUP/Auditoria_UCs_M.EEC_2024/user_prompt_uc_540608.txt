@@ -1,0 +1,96 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas Confiáveis
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+Esta unidade curricular tem como objetivo dotar os alunos de competências ao nível da análise, conceção e<br />desenvolvimento de sistemas confiáveis, aplicáveis nas diferentes fases do ciclo de vida. Será feita uma abordagem generalizada à obtenção de confiabilidade, mas nos exemplos e projeto será dada ênfase ao domínio de aplicação da automação industrial.<br /><br />Será adotada uma estratégia de ensino/aprendizagem do tipo &#8216;learning by doing&#8217; em que o estudante, ao longo do<br />semestre, vai aprendendo e aplicando os conceitos adquiridos através do seu trabalho individual com o apoio da equipa<br />docente. Esta atividade é complementada por uma abordagem do tipo &#8216;project based learning&#8217; em que os alunos<br />trabalham em grupo para resolver problemas mais complexos e próximos da realidade prática.
+
+## Resultados de aprendizagem e competências
+Ao completar esta unidade curricular o estudante deverá ser capaz de:<br />A) Justificar a necessidade de uma abordagem sistémica da Segurança (Safety).<br />B) Identificar e caracterizar os domínios de aplicação dos sistemas confiáveis.<br />C) Explicar e aplicar os conceitos de situação perigosa, risco e de nível de integridade.<br />D) Distinguir e selecionar as metodologias existentes para o desenvolvimento de sistemas confiáveis.<br />E) Explicar e aplicar as principais técnicas de tolerância a falhas baseadas em hardware e software.<br />F) Identificar os principais meios de validação de confiança no funcionamento.<br />G) Calcular métricas associadas à confiança no funcionamento.
+
+## Programa
+1 ) Introdução<br />- Conceito de sistema confiável<br />- Discussão de casos de estudo de incidentes relevantes.<br />- Conceitos básicos e terminologia<br /><br />2) Desenvolvimento de sistemas confiáveis<br />- Standards e organizações<br />- Ciclo de vida do sistema<br />- Análise de situações perigosas<br />- Análise de risco<br />- Níveis de integridade de segurança<br /><br />3) Arquiteturas de hardware tolerantes a falhas<br />- Redundância de hardware: estática, dinâmica e híbrida<br />- Hardware industrial para sistemas confiáveis<br /><br />4) Arquiteturas de software tolerantes a falhas<br />- Recuperação para a frente/trás<br />- Redundância de informação e temporal<br />- Diversidade na conceção e de dados<br />- Métodos de adjudicação de resultados<br /><br />5) Validação e verificação da confiança no funcionamento<br />- Modelação: conceitos básicos<br />- Técnicas de modelação: blocos de fiabilidade &amp; cadeias de markov<br />- Modelos de fiabilidade de componentes eletrónicos<br />- Modelos de fiabilidade do SW<br />- Modelação e avaliação de arquiteturas de HW/SW
+
+## Métodos de ensino e atividades de aprendizagem
+Aulas TP: exposição dos assuntos a tratar, acompanhados de exemplos práticos ilustrativos. <br /><br />Uma parte do tempo letivo será reservada para a orientação dos estudantes no desenvolvimento de um projeto/caso de estudo (no domínio do desenvolvimento de software e/ou da automação industrial).
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 30.0 %
+- Trabalho prático ou de projeto: 70.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 84.0 horas
+- Estudo autónomo: 39.0 horas
+- Frequência das aulas: 39.0 horas
+
+## Fórmula de cálculo da classificação final
+Classificação final: CF = 0.3 x EX + 0.70 x CE<br /><br />EX : Exame<br />CE : Desenvolvimento de um caso de estudo de um sistema confiável. Esta componente é realizada em grupos de 2 a 4 estudantes.<br /><br />A aprovação pressupõe a obtenção de uma classificação mínima de 7 valores em todas as componentes.
+
+## Obtenção de frequência
+<p>Para obter frequência o estudante deverá cumprir seguintes condições em simultâneo:<br /> - Comclusão do projeto (i.e. entrega e cumprimento de todas as componentes de avaliação)<br /> - e presença em pelo menos a 60% das aulas laboratoriais </p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Dependable Systems
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+This course aims to provide students with skills in the analysis, design and development of dependable systems,<br />applicable at different stages of the life cycle. A general approach to dependability will be presented amd cvered, but examples and course projects will focus on the idustrial automarion application domain.<br /><br />A learning by doing teaching / learning strategy will be adopted in which the student, throughout the semester, learns<br />and applies the concepts acquired through their individual work with the support of the teaching team. This activity is<br />complemented by a project based learning approach in which students work in groups to solve more complex problems<br />that are close to practical reality.
+
+## Resultados de aprendizagem e competências
+Upon completion of this course the student should be able to:<br />A) Justify the need for a systemic approach to safety.<br />B) Identify and characterize application domains of dependable systems.<br />C) Explain and apply the concepts of hazards, risk and safety integrity level.<br />D) Distinguish and select existing methodologies for the development of dependable systems.<br />E) Explain and apply hardware and software-based fault tolerance techniques.<br />F) Identify the means to validate system&#8217;s dependability.<br />G) Compute dependability evaluation metrics.<br />H) Use safety standards for the development of dependable systems in the industrial automation domain.
+
+## Programa
+1) Introduction<br />- Concept of dependable system.<br />- Discussion of case studies of relevant incidents<br />- Basic concepts and terminology<br /><br />2) Development of dependable systems<br />- Standards and organizations<br />- System life cycle<br />- Hazard analysis<br />- Risk analysis<br />- Safety integrity levels<br /><br />3) Fault Tolerant software architectures<br />- Hardware redundancy: static, dynamic and hybrid<br />- Industrial hardware for dependable systems.<br /><br />4) Fault-tolerant software architectures<br />- Forward / Backward Recovery<br />- Information and temporal redundancy<br />- Design and data diversity<br />- Adjudication techniques<br /><br />5) Validation and verification of reliable operation<br />- Modeling: basic concepts<br />- Modeling techniques: reliability blocks &amp; markov chains<br />- Reliability models of electronic components<br />- Software reliability models<br />- Modeling and evaluation of HW / SW architectures
+
+## Métodos de ensino e atividades de aprendizagem
+TP classes: lectures for exposition of the syllabus with discussion of illustrative examples. <br /><br />Part of the class time will be devoted to student guidance in the development of the project/case study in the industrial automation domain, including safety of machines.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 30.0 %
+- Trabalho prático ou de projeto: 70.0 %
+
+## Componentes de Ocupação
+- Elaboração de projeto: 84.0 hours
+- Estudo autónomo: 39.0 hours
+- Frequência das aulas: 39.0 hours
+
+## Fórmula de cálculo da classificação final
+Final grade: FG = 0.3 x EX + 0.70 x CS<br /><br />EX: Exam<br />CS: Development of a case study of a dependable system. This component is performed in groups of 2 to 4 students.<br /><br />Approval is subject to a minimum grade of 7 on all components.
+
+## Obtenção de frequência
+To be eligible for exams a student must fulfill all of the following conditions:<br /> - Conclude the course project (i.e. submit all components used for evaluating the course project)<br />  - attend a minimum of 60% of the lab sessions
+

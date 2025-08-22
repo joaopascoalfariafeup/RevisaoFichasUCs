@@ -1,0 +1,110 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise e Integração de Dados
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Dotar os alunos da capacidade de projetar, implementar e explorar armazéns de dados (data warehouses).</p>
+
+## Resultados de aprendizagem e competências
+<p>(1) Planear e gerir o ciclo de vida de um projeto de armazém de dados; (2) Identificar os requisitos e as fontes de dados; (3) Projetar um modelo dimensional adequado; (4) Desenhar e implementar um processo de extração, transformação e carregamento de dados; (5) Especificar e implementar aplicações e modelos de acesso e visualização da informação no armazém de dados; (6) Otimizar o armazém de dados pela criação de agregações e índices; (7) Criar e explorar implementações multidimensionais; (8) Interrogar implementações multidimensionais; (9) Definir os metadados necessários para efeitos de auditoria.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Bases de dados relacionais, normalização, SQL.</p>
+
+## Programa
+<ul><br /><li>Indicadores de desempenho</li><br /><li>Dimensões e hierarquias</li><br /><li>Modelação Conceptual do Armazém de Dados: o modelo MultiDim</li><br /><li>A Enterprise Data Warehouse: implementação numa base de dados relacional</li><br /><li>Kimball Data Marts: implementação numa base de dados relacional</li><br /><li>Extração, tranformação e carregamento de dados: experiências com uma ferramenta ETL</li><br /><li>O modelo multi-dimensional</li><br /><li>Exemplos com um servidor OLAP</li><br /><li>A linguagem MDX</li><br /><li>Como desenhar Dashboards: exemplos com uma ferramenta de desenho de dashboards</li><br /><li>Os princípo básicos do desenvolvimento agile de projetos de armazenamento de dados</li><br /><li>Utilização de técnicas de análise de dados sobre cubos OLAP</li><br /><li>Requisitos de metadados</li><br /></ul><br /><p> </p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas têm um formato teórico-prático em que a discussão de novos conceitos e a descrição de técnicas é entremeada com exemplos e com a resolução de exercícios em computador, uma vez que decorrem num laboratório. Atendendo aos objetivos aplicados da UC, optou-se por uma avaliação em que 50% assenta na realização de um trabalho prático de média dimensão, em grupos de 2 pessoas, de preferência com dados reais, no qual são percorridas as diversas etapas de um projeto de um armazém de dados. No final, para além do relatório do projeto, é realizada uma apresentação e discussão oral, como acontece nos projetos reais. Os restantes 50% correspondem a um exame escrito individual, onde os estudantes têm a oportunidade de demonstrar o seu domínio de assuntos que não tenham sido cobertos no seu trabalho prático.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Participação presencial: 0.0 %
+- Trabalho laboratorial: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 80.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 40.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Exame: 50% <br />Trabalho: 50% <br /> <br />Requer-se nota superior a 7,5 no Exame.</p>
+
+## Obtenção de frequência
+<p>Avaliação distribuída não inferior a 7,5.</p>
+
+## Melhoria de classificação
+<p>O exame final pode ser melhorado através de um exame de melhoria de classificação. <br />O trabalho prático pode ser melhorado através de um novo trabalho a definir pelo docente.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Data Analysis and Integration
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>The students should be able to design, build and explore data warehouses.</p>
+
+## Resultados de aprendizagem e competências
+<p>(1) Plan and manage the lifecycle of a data warehouse project; (2) Identify the requirements and the data sources; (3) Design a suitable dimensional model; (4) Design and implement a data extraction, transformation and loading process ; (5) Specify and implement applications and models to access and visualize the data warehouse information; (6) Optimize the data warehouse through the creation of aggregations and indexes; (7) Build and explore multidimensional implementations; (8) Query multidimensional implementations; (9) Define the required  metadata for audit purposes.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Relational databases, normalization, SQL.</p>
+
+## Programa
+<ul><br /><li>Key Performance Indicators</li><br /><li>Dimensions and hierarchies</li><br /><li>Data Warehouse Conceptual Modeling: the MultiDim model</li><br /><li>The Enterprise Data Warehouse: implementation in a relational database</li><br /><li>Kimball Data Marts: implementation in a relational database</li><br /><li>Extraction, Transformation &amp; Loading: experiments with an ETL tool</li><br /><li>The multidimensional model</li><br /><li>Experiments with an OLAP server</li><br /><li>The MDX language</li><br /><li>How to design dashboards: experiments with a dashboard tool</li><br /><li>Fundamentals on agile development of Data Warehousing projects</li><br /><li>Using data analytic tools on OLAP cubes</li><br /><li>Metadata requirements</li><br /></ul><br /><p> </p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The lectures follow a mixed expositive and problem solving method, where the discussion of new topics and the description of techniques is intertwined with the resolution of exercises and lab work. Due to the applied goals of the course, the assessment method is 50% based on a medium sized lab assignment, executed by two person groups, preferably with real data, in which the several steps of a data warehouse project are followed. In the end, besides the project report, an oral presentation and discussion takes place, as happens in real world projects. The remaining 50% correspond to an individual written exam, where the students have the opportunity to demonstrate their mastering of the issues not covered by their lab assingment.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 50.0 %
+- Participação presencial: 0.0 %
+- Trabalho laboratorial: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 80.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 40.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Final Exam: 50% <br />Lab assignment: 50% <br /> <br />Final exam must score more than 7,5.</p>
+
+## Obtenção de frequência
+<p>Distributed evaluation requires a minimum of 7,5/20.</p>
+
+## Melhoria de classificação
+<p>The final exam can be improved with an Exam for Classification Improvement. <br />The lab assignment can be improved by a new assignment to be defined by the teacher.</p>
+

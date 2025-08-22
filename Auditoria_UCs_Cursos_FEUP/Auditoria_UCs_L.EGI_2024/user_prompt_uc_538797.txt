@@ -1,0 +1,161 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Termodinâmica
+
+## Curso responsável
+Licenciatura em Engenharia e Gestão Industrial
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Num mundo onde a energia é um bem cada vez mais escasso e caro, é fundamental para um engenheiro industrial possuir um sólido conhecimento da termodinâmica para que possa tomar decisões informadas nesta área. Os alunos devem, portanto, conhecer o funcionamento dos ciclos termodinâmicos de vários motores térmicos e máquinas de refrigeração, bem como serem capazes de realizar cálculos básicos de transferência de calor.</p>
+<p>CÁLCULOS BÁSICOS: definir, calcular e estimar propriedades, ou variações de propriedades, de substâncias ou de sistemas. CÁLCULOS TERMODINÂMICOS E PRIMEIRA LEI: definir e calcular trabalhos de aceleração e elevação de massas, trabalhos de deslocamento de fronteiras, eléctrico e de veio. Definir e calcular calores e trabalhos trocados em sistemas fechados, abertos em regime estacionário e abertos em regime não estacionário. SEGUNDA LEI: cálculos de rendimentos de motores térmicos e máquinas frigoríficas ideais. Definir e calcular rendimentos de diversos dispositivos de conversão de energia, rendimentos isentrópicos de dispositivos motrizes de escoamento estacionário. CICLOS: representar graficamente os ciclos e calcular o seu rendimento/eficiência.</p>
+<p>Utilizar o programa EES na resolução de problemas de balanços de energia e outras aplicações da termodinâmica. Trabalhar em equipa na resolução de problemas e realizar avaliações cuidadas do desempenho dos membros da equipa.</p>
+
+## Resultados de aprendizagem e competências
+<p>No final deste curso os alunos deverão ser capazes de:</p>
+<p>CÁLCULOS BÁSICOS: definir, calcular e estimar propriedades, ou variações de propriedades, de substâncias ou de sistemas. CÁLCULOS TERMODINÂMICOS E PRIMEIRA LEI: definir e calcular trabalhos de aceleração e elevação de massas, trabalhos de deslocamento de fronteiras, eléctrico e de veio. Definir e calcular calores e trabalhos trocados em sistemas fechados, abertos em regime estacionário e abertos em regime não estacionário. SEGUNDA LEI: cálculos de rendimentos de motores térmicos e máquinas frigoríficas ideais. Definir e calcular rendimentos de diversos dispositivos de conversão de energia, rendimentos isentrópicos de dispositivos motrizes de escoamento estacionário. CICLOS: representar graficamente os ciclos e calcular o seu rendimento/eficiência.</p>
+<p>Utilizar o programa EES na resolução de problemas de balanços de energia e outras aplicações da termodinâmica. Trabalhar em equipa na resolução de problemas e realizar avaliações cuidadas do desempenho dos membros da equipa.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Os estudantes deverão possuir conhecimentos inerentes às seguinte unidades curriculares, ou equivalentes: L.EGI001 e L.EGI006: cálculo diferencial em R., cálculo integral em R. L.EGI011: derivadas parciais; derivadas parciais de ordem superior (co-requisitos) L.EGI004: Fundamentos de circuitos elétricos,  análise de redes de resistências. L.EGI012: <span id="result_box" class="hps" lang="pt"><span class="hps">Introdução à mecânica</span> <span class="hps alt-edited">vetorial</span> <span class="hps">aplicada à</span> <span class="hps">estática</span> <span class="hps">e apresentação</span> <span class="hps">dos conceitos de</span> <span class="hps">força</span>, momento <span class="hps">e</span> <span class="hps">resultante</span> <span class="hps">de</span> <span class="hps">um sistema de forças</span>. <span class="hps">Equilíbrio estático</span> <span class="hps">em sistemas bi e tri dimensionais</span><span class="hps">.</span> <span class="hps">Definição</span> <span class="hps">do sistema e</span> <span class="hps">seu diagrama de</span> <span class="hps">corpo livre</span> (co-requisitos).</span></p>
+
+## Programa
+<p>INTRODUÇÃO E VISÃO GLOBAL: Termodinâmica; transferência de calor; mecânica dos fluidos; unidades e dimensões; software para engenharia, programa EES; exactidão, precisão e algarismos significativos. CONCEITOS BÁSICOS DE TERMODINÂMICA: sistemas abertos e fechados; propriedades de um sistema; estado de equilíbrio; processos e ciclos; formas de energia; temperatura e a lei zero da termodinâmica; pressão; o manómetro; barómetro e a pressão atmosférica. PROPRIEDADES DAS SUBSTÂNCIAS PURAS: Substância pura; fases de uma substância pura; processos de mudança de fase para substâncias puras; diagrama de propriedades para processos de mudança de fase; pressão de vapor e equilíbrio de fase; tabelas de propriedades; equação de estado de gases perfeitos; factor de compressibilidade; calores específicos; energia interna, entalpia e calores específicos de gases perfeitos e de sólidos e líquidos. TRANSFERÊNCIA DE ENERGIA POR CALOR, TRABALHO E MASSA: transferência de calor; transferência de energia sob a forma de trabalho; formas mecânicas de trabalho;formas não mecânicas de trabalho; princípio de conservação de massa; trabalho de escoamento e energia de um fluido a escoar. PRIMEIRA LEI DA TERMODINÂMICA: primeira lei da termodinâmica; balanço de energia para sistemas fechados; balanço de energia para sistemas de escoamento estacionários; alguns equipamentos de escoamento estacionário da engenharia; balanço de energia para processos de escoamento não estacionário. SEGUNDA LEI DA TERMODINÂMICA: Introdução à segunda lei da termodinâmica; reservatórios de energia térmica; motores térmicas; rendimentos de conversões de energia; máquinas frigoríficas e bombas de calor; máquinas de movimento perpétuo; processos reversíveis e irreversíveis; ciclo de Carnot; princípios de Carnot; escala de temperatura termodinâmica; motor térmico, frigorífico e bomba de calor de Carnot. ENTROPIA: Entropia; princípio do aumento de entropia; variação de entropia de substâncias puras; processos isentrópicos; diagramas de propriedades que envolvem a entropia; equações Tds; variação de entropia de sólidos - líquidos e de gases perfeitos; trabalho reversível em regime permanente; rendimentos isentrópicos de dispositivos de escoamento estacionário. CICLOS DE POTÊNCIA E REFRIGERAÇÃO: Considerações básicas na análise de ciclos de potência; O ciclo de Carnot e o seu valor na engenharia; suposições ar-standard; visão global dos motores alternativos; o ciclo Otto; o ciclo Diesel; o ciclo Brayton; o ciclo Brayton com regeneração; o ciclo a vapor de Carnot; o ciclo de Rankine; desvios dos ciclos de potência reais a vapor relativamente aos ciclos ideais; como aumentar o rendimento do ciclo de Rankine; ciclo de Rankine ideal com reaquecimento; frigoríficos e bombas de calor; ciclo de Carnot invertido; ciclo frigorífico ideal de compressão de vapor; ciclo frigorífico real de compressão de vapor; sistemas de bomba de calor.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Nas aulas teóricas é apresentada a matéria aos alunos e explicados os conceitos mais relevantes. Nas aulas práticas são resolvidos exercícios de aplicação, de cariz o mais prático possível, de forma a mostrar ao aluno a utilidade prática da matéria e assim despertar o interesse pelos temas abordados. Um formulário, feitos pelos docentes, será também utilizado como apoio à resolução de exercícios. Nos trabalhos de grupo resolvem-se problemas práticos de complexidade elevada, só passíveis de resolução por meios computacionais,aplicando as técnicas da aprendizagem colaborativa sugeridas pelo Prof. Richard M. Felder.</p>
+<p> </p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Exame: 55.0 %
+- Teste: 28.0 %
+- Trabalho escrito: 17.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 100.0 horas
+- Frequência das aulas: 70.0 horas
+
+## Fórmula de cálculo da classificação final
+<p> Três trabalhos em equipa a realizar ao longo do semestre com um peso na nota final de 17% (1%+8%+8%). Teste sobre a matéria lecionada até ao capítulo 5 inclusive - com um peso na nota final de 28%. Teste - com um peso na nota final de 55% abrangendo a restante matéria. Recurso - com um peso na nota final de 83% sendo os restantes 17% provenientes da ponderação às classificações do dos trabalhos de grupo. As classificações dos trabalhos de grupo e do eventual trabalho individual só serão consideradas se a média ponderada das classificações do teste e do exame, ou a classificação do recurso, for superior a 10 valores. Por outras palavras, se não tiverem aprovação nos exames não têm aprovação à unidade curricular.</p>
+
+## Obtenção de frequência
+<p>De acordo com o Despacho n.º 1535/2018 do Ministério da Educação e Ciência, Diário da República: 2ª série, n.º 31, Artigo 10º, parágrafos 1 e 3. Um estudante obtém frequência à presente  unidade curricular se, tendo estado regularmente inscrito, não exceder o número limite de faltas (25% do número de aulas práticas previstas).</p>
+
+## Melhoria de classificação
+<p>A melhoria de classificação será efetuada através do exame de recurso, abrangendo este toda a matéria e com um peso na nota final de 83%. As classificações nos trabalhos de grupo não são passíveis de melhoria.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Thermodynamics
+
+## Curso responsável
+Bachelor in Industrial Engineering and Management
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>In a world where energy is an increasingly scarce and expensive commodity, is critical to an industrial engineer to possess a solid knowledge of thermodynamics so he can take informed decisions in this area. Students should therefore know the functioning of the various thermodynamic cycles of thermal engines and refrigeration machines, as well as being able to perform basic calculations of heat transfer.</p>
+<p>BASIC CALCULATIONS: define, calculate and estimate properties, or properties variations, of substances or of thermodynamic systems, such as enthalpy, internal energy, entropy, specific volume, mass flow rate, pressure and temperature. THERMODYNAMIC CALCULATIONS AND FIRST LAW: define and calculate works of: acceleration and elevation; electric; shaft and boundary displacement. Define and calculate heat and work exchanges between a system and its neighborhood in close and open systems, stationary or unsteady flow. SECOND LAW: calculate thermal efficiencies of heat engines, refrigerators and heat pumps. Define and calculate efficiencies of several energy conversion devices working in steady flow. CYCLES: draw the cycles in properties plots and calculate their thermal efficiencies.</p>
+<p>Use the EES program in solving problems involving energy balances and other thermodynamic applications. Work in teams solving problems and carry out meaningful performance assessments of individual team members.</p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of this subject students shall be able to:</p>
+<p>BASIC CALCULATIONS: define, calculate and estimate properties, or properties variations, of substances or of thermodynamic systems, such as enthalpy, internal energy, entropy, specific volume, mass flow rate, pressure and temperature. THERMODYNAMIC CALCULATIONS AND FIRST LAW: define and calculate works of: acceleration and elevation; electric; shaft and boundary displacement. Define and calculate heat and work exchanges between a system and its neighborhood in close and open systems, stationary or unsteady flow. SECOND LAW: calculate thermal efficiencies of heat engines, refrigerators and heat pumps. Define and calculate efficiencies of several energy conversion devices working in steady flow. CYCLES: draw the cycles in properties plots and calculate their thermal efficiencies.</p>
+<p>Use the EES program in solving problems involving energy balances and other thermodynamic applications. Work in teams solving problems and carry out meaningful performance assessments of individual team members</p>
+
+## Pré-requisitos e co-requisitos
+<p><span id="" lang="">Students should have knowledge inherent to the following curricular units, or equivalent:</span> L.EGI001 and L.EGI006: Differential Calculus in R., Integral Calculus in R.. L.EGI011: Partial and directional derivatives; partial derivatives of higher order (co-requisites), L.EGI004: Fundamentals of Electric Circuits, Resistive Network Analysis. L.EGI012: Introduction to vector mechanics applied to statics and presentation of the concepts of Force, Moment and resultant of a force system. Static equilibrium in two and three dimensional systems. System Definition and its free body diagram (co-requisites).</p>
+
+## Programa
+<p>INTRODUCTION:Thermodynamics; Heat transfer, Fluid Mechanics; Dimensions and units; Engineering software packages, EES; Accuracy, precision and significant digits. BASIC CONCEPTS OF THERMODYNAMICS: Closed and Open Systems; Properties of a System; State and Equilibrium; Processes and Cycles; Forms of Energy; Temperature and the Zeroth Law of Thermodynamics;Pressure; The manometer;barometer and the atmosferic pressure. PROPERTIES OF PURE SUBSTANCES: Pure Substance; Phases of a Pure Substance; Property Diagrams for Phase-Change Processes; Property Tables; Ideal-Gas Equation of State; Compressibility Factor; Specific Heats; Internal Energy - Enthalpy, and Specific Heats Of Ideal Gases, Solids and Liquids. ENERGY TRANSFER BY HEAT, WORK, AND MASS: Heat transfer; Energy transfer by work; Mechanical forms of work; Nonmechanical forms of work; Conservation of massa principle;Flow work. FIRST LAW OF THERMODYNAMICS: First Law of Thermodynamics; Energy Balance for Closed Systems; Energy Balance for Steady-Flow Systems; Some Steady-Flow Engineering Devices; Energy balance for unsteady-Flow processes. SECOND LAW OF THERMODYNAMICS: Thermal Energy Reservoirs; Heat Engines; Energy Conversion Efficiencies; Refrigerators and Heat Pumps; Perpetual-Motion Machines; Reversible and Irreversible Processes; The Carnot Cycle; The Carnot Principles; The Thermodynamic Temperature Scale; The Carnot Heat Engine; The Carnot Refrigerator and Heat Pump ENTROPY: Entropy; The Increase of Entropy Principle; Entropy Change of Pure Substances; Isentropic Processes; Property Diagrams Involving Entropy; The T ds Relations; Entropy Change of Liquids and Solids; The Entropy Change of Ideal Gases; Reversible Steady-Flow Work; Minimizing the compressor work; Isentropic Efficiencies of Steady-Flow Devices. POWER AND REFRIGERATION CYCLES: Basic considerations in the analysis of power cycles; The Carnot cycle; Air standard assumptions; An over view of reciprocating engines; Otto cycle; Diesel cycle; Brayton cycle; Brayton cycle with regeneration; Carnot vapor cycle; Rankine cycle; Deviations of actual vapor power cycles from idealized ones; The ideal reheated Rankine cycle; refrigerators and heat pumps; The reversed Carnot Cycle; The ideal e actual vapor-compression refrigeration cycles; Heat pump systems <!-- [if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--></p>
+<p> </p>
+<p><!-- [if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!-- [if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0mm 5.4pt 0mm 5.4pt;
+	mso-para-margin:0mm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><span style="font-size: 12.0pt; font-family: 'Times New Roman'; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT; mso-fareast-language: PT; mso-bidi-language: AR-SA;"><br /></span></p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>In the lectures is presented the material to students and explained the most relevant concepts.</p>
+<p>In the practical classes, real world exercises are solved in order to show the student the practical usefulness of the subject and thus to arouse interest in the topics addressed. A form, made by teachers, will also be used to support the resolution of exercises. In group work practical problems of high complexity are solved by computational means, using cooperative learning techniques suggest by Prof. Richard M. Felder.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Exame: 55.0 %
+- Teste: 28.0 %
+- Trabalho escrito: 17.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 100.0 hours
+- Frequência das aulas: 70.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Homework ( team work), 17% of the course grade (1%+8%+8%). Two tests, 1st and 2nd, with a weight 28% and 55% of the course grade, respectivly. Final exam, with a weight 83% of the course grade. <span id="result_box" class="" lang="en"><span class=""><span class="tlid-translation translation" lang="en"> <span title="">Classifications of the team work and of the optional individual work will only be considered if the weighted average of the tests or the classification of the final exam, is greater than 10 values.</span></span></span> </span><span id="result_box" class="hps" lang="en"></span></p>
+
+## Obtenção de frequência
+<p>According to Dispatch no. 1535/2018 of the Ministry of Education and Science, Diário da República: 2nd series, no. 31, Article 10, paragraphs 1 and 3. A student obtains attendance at this course unit if, having been regularly enrolled, not exceed the limit number of absences (25% of the number of planned practical classes).</p>
+
+## Melhoria de classificação
+<p><span id="result_box" lang="en"><span id="result_box" class="" lang="en"><span class=""><span class="tlid-translation translation" lang="en"><span class="" title=""><span class="hps">Improving</span> <span class="hps">the final grade </span><span class="hps">is</span> <span class="hps alt-edited">carried out</span> <span class="hps">by an exam</span> <span class="hps">covering</span> <span class="hps">the</span> <span class="hps">whole syllabus</span> and with a weight in the final grade of 83%.</span> <span class="" title="">The classification  resulting from the group work are not subject to improvement.</span></span><br /></span></span></span></p>
+

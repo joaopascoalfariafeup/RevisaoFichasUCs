@@ -1,0 +1,108 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Mecânica do Contacto Computacional
+
+## Curso responsável
+Mestrado em Mecânica Computacional
+
+## Créditos ECTS
+7,5
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Esta unidade curricular visa introduzir os conceitos fundamentais sobre a mecânica do contacto e os aspetos numéricos mais importantes da sua modelação. Adicionalmente fazem-se aplicações práticas do seu uso na modelação numérica de problemas de processos de fabrico em que o contacto corresponde a uma variável de primordial importância.</p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>Espera-se que, no final do período lectivo, os estudantes tenham conhecimento dos métodos numéricos mais importantes da modelação do contacto com atrito, assim como da sua implementação através de programação. Pretende-se ainda que os conceitos estudados sejam aplicados na modelação de processos de fabrico envolvendo contacto, e.g., processos de conformação plástica de metais, em que o contacto das ferramentas com o material é responsável pela geometria final desejada do componente.</p>
+
+## Programa
+<p>Aplicações da mecânica de contacto computacional. Tipos de problemas. Contacto de sistemas massa e mola e contacto com atrito. Métodos diretos, multiplicadores de Lagrange, função penalidade, Lagrange perturbado e Lagrange ampliado. Análise de contacto por análise de elementos finitos. Contacto termo-mecânico. Modelação de problemas de conformação plástica de metais com análise de sensibilidades fazendo uso de diferentes estratégias de modelação de contacto e de diferentes tipos de atrito.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas que consistem na exposição detalhada do programa da disciplina ilustrada com a resolução de exemplos de aplicação. Resolução de alguns problemas com auxílio do MatLab e Abaqus</p>
+<p>Tipo de Avaliação: Avaliação distribuída com trabalhos práticos.</p>
+<p>Condições de Frequência: Participação nas aulas.</p>
+<p>Fórmula de avaliação: Na classificação final a componente da avaliação tem um peso de 100%.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Avaliação
+- Trabalho escrito: 100.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 65.0 horas
+- Trabalho de investigação: 87.5 horas
+- Trabalho escrito: 50.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Não aplicável </p>
+
+## Obtenção de frequência
+Realização do trabalho proposto.
+
+## Melhoria de classificação
+Será proposto um novo trabalho.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computational Contact Mechanics
+
+## Curso responsável
+Master in Computational Mechanics
+
+## Créditos ECTS
+7,5
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>The disciple aims to introduce the fundamental concepts about computational contact mechanics and associated numerical procedures to corresponding modeling of practical problems. </p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>It is expected that the student acquires a broader knowledge of numerical procedures to model contact problems with friction and its implementation to applications, e.g., manufacturing processes, namely metal forming processes.</p>
+
+## Programa
+<p>Applications of computational contact mechanics and types of problems. Contact in a mass spring system and contact with friction. Example of a constrained minimization problem. Direct method, Lagrange multiplier method, Penalty method, Perturbed Lagrangian method and Augmented Lagrangian method. Finite Element Analysis of the Contact of Two Bars. Thermo-mechanical Contact. Numerical modeling and simulation of metal forming problems, using sensitivity analysis on different contact strategies and friction models.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical classes consisting on the detailed exposition of the program of the discipline, illustrated with the resolution of engineering application examples. Solution of some problems using MatLab and Abaqus.</p>
+<p>Type of evaluation: Distributed evaluation with practical assignments.</p>
+<p>Terms of frequency: Participation in the classes.</p>
+<p>Formula Evaluation: In the final classification the evaluation component has a 100% weight.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Avaliação
+- Trabalho escrito: 100.0 %
+
+## Componentes de Ocupação
+- Frequência das aulas: 65.0 hours
+- Trabalho de investigação: 87.5 hours
+- Trabalho escrito: 50.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Not applicable</p>
+
+## Obtenção de frequência
+Complete the proposed work.
+
+## Melhoria de classificação
+A new work will be proposed.
+

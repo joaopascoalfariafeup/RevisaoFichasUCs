@@ -1,0 +1,102 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Conversão de Energia
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+Esta unidade curricular pretende dotar os estudantes com os conhecimentos necessários para o domínio da cadeia de conversão de energia desde a sua fonte primária até ao consumo em forma de energia elétrica. Os estudantes deverão adquirir conhecimentos sobre: fontes de energia elétrica; conversão da energia primária em energia elétrica; conversão entre diversas formas de energia elétrica (nível de tensão e frequência) baseada em conversores eletrónicos de potência.
+
+## Resultados de aprendizagem e competências
+No final da UC de Conversão de Energia, os estudantes devem ser capazes de identificar e caracterizar as principais fontes de energia elétrica, de baixa e média potência, comuns no domínio da EEC.<br />Deverão, também, estar aptos a definir e parametrizar o modelo elétrico destas fontes de energia, e a analisar a sua operação em função de parâmetros fundamentais de funcionamento: variações na entrada e na saída. Deverão ser capazes de identificar, comparar e selecionar uma cadeia de condicionamento, baseada em conversores eletrónicos de potência, para cada fonte de energia.<br />Deverão ter adquirido competências que lhes permitam elaborar um modelo completo, de média complexidade, de um sistema que condicione estas fontes de energia, que opere em malha fechada cumprindo requisitos simples e que possa ser usado numa ferramenta de simulação.<br />Os estudantes deverão ter adquirido experiência laboratorial no domínio da UC e de análise crítica de resultados de simulação e de operação em ambiente real.
+
+## Programa
+1. Introdução às fontes de energia convencionais e renováveis relevantes em EEC.<br />Rede elétrica. Baterias. Células de combustível. Energia solar fotovoltaica. Energia eólica.<br />Modelos elétricos das fontes energéticas. Identificação e análise qualitativa da interface eletrónica apropriada a cada fonte/modelo.<br />2. Os conversores eletrónicos de potência associados à conversão de energia.<br />Semicondutores de potência e circuitos de comando. Díodos, transístores MOSFET e IGBT, tirístores. Novas tecnologias de semicondutores de potência.<br />Conceitos base e princípio de funcionamento dos conversores eletrónicos de potência. Métodos de análise de circuitos comutados.<br />Análise do funcionamento da conversão CC/CC e CC/CA em malha aberta. Introdução à conversão CA/CC.<br />3. Fundamentos do projeto de sistemas de controlo de conversores.<br />Modelação matemática de conversores eletrónicos.<br />Revisão das características e do projeto de controladores simples.<br />Controlo em malha fechada de conversores eletrónicos de potência.
+
+## Métodos de ensino e atividades de aprendizagem
+A metodologia de ensino inclui aulas teóricas e aulas práticas/laboratoriais (PL). As aulas teóricas focam as matérias a tratar, utilizando aprendizagem ativa, com exemplos de aplicação e projeto de casos de estudo típicos. Procura-se, em algumas aulas, deixar aos Estudantes trabalhos de casa que visam o incentivo ao autoestudo, o estímulo à aprendizagem e a autoavaliação.<br />Nas aulas PL é efetuado o projeto e a simulação de sistemas analisados nas aulas teóricas, bem como a realização de trabalhos experimentais. Algumas aulas incluirão avaliação de parte das competências a adquirir na Unidade Curricular.<br />A nota final da UC é feita pela média pesada associada a:<br />1. Componente prática, associada à participação e desempenho nas aulas PL.<br />2. Exame final<br />A frequência das aulas práticas é obrigatória e sujeita ao regulamento aplicável.<br />O acesso ao exame final exige uma classificação mínima na componente prática.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Trabalho laboratorial: 50.0 %
+- Exame: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 64.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho laboratorial: 46.0 horas
+
+## Fórmula de cálculo da classificação final
+<strong>1. Componentes de avaliação:<br /></strong>- Trabalho prático-laboratorial (PL)<br />- Prova Escrita (PE)<br /><div> </div><br /><strong>2. Cálculo da classificação final (CF)<br /></strong>As classificações prático-laboratorial (PL) e Prova Escrita (PE) estão limitadas a uma diferença máxima entre si de 5 valores (em 20) condicionado o valor máximo de PL e PE:<br />Classificação Prático-Laboratorial Efetiva (PLE): PLE = minimo(PL, PE+5)<br />Classificação Prova Escrita Efetiva (PEE): PEE = minimo(PE, PL+5)<br /><br />Classificação Final (CF): CF = 0.5 * PLE + 0.5 * PEE<br /><br />As avaliações PL, PLE, PE e PEE, são efetuadas numa escala de zero a vinte valores arredondadas à decima de unidade.<br /><br />A aprovação está condicionada a um mínimo de 35% nas componentes PL e PE.<br /><br />A obtenção de classificação final superior a 18 valores (19 ou 20) exige a prestação de uma prova oral, a realizar após o exame.
+
+## Obtenção de frequência
+Só serão admitidos a exame final (Prova Escrita) os estudantes que frequentarem as aulas práticas/laboratoriais e atingirem pelo menos a classificação de 7 em 20 valores na avaliação prática/laboratorial (PL).
+
+## Melhoria de classificação
+Apenas a componente Prova Escrita (PE) é suscetível de melhoria, nas épocas a isso destinadas.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Energy Conversion
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b ChMk0b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;0&quot;>This course aims to provide students with the necessary knowledge to master the energy conversion chain from its primary source to consumption in the form of electrical energy.</span> <span class=&quot;JLqJ4b ChMk0b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;1&quot;>Students should acquire knowledge about: sources of electrical energy;</span> <span class=&quot;JLqJ4b ChMk0b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;2&quot;>conversion of primary energy into electrical energy;</span> <span class=&quot;JLqJ4b ChMk0b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;3&quot;>conversion between different forms of electrical energy (voltage and frequency level) based on electronic power converters.</span></span>
+
+## Resultados de aprendizagem e competências
+At the end of the Energy Conversion course, students should be able to identify and characterize the main energy sources of low- and medium-power, common in the ECE (Electrical &amp; Computer Engineering) field.<br />They should also be able to define and parameterize the electric model of these energy sources, as well as to analyze their operation according to fundamental parameters of operation: variations of the input and output. They should be able to identify, compare and select a conditioning chain, based on electronic power converters, for each power source.<br />They should have acquired competences that enable them to develop a complete, medium-complexity model of a system that conditions these energy sources and that operates in closed loop, fulfilling simple requirements and implementable in a specific simulation tool.<br />Students should have acquired competencies of laboratory experience in the field of studies and be able to critically differentiate results from models and operation in real environment.
+
+## Programa
+1. Introduction to conventional and renewable energy sources relevant in EEC.<br />Conventional power grid. Fuel cells. Batteries. Photovoltaic solar energy. Wind energy.<br />Electrical models of energy sources.<br />Identification and qualitative analysis of the electronic interface appropriate to each source / model.<br />2. The power electronics converters associated with energy conversion.<br />The electronic power switches and their control and protection circuits. Diodes, MOSFET and IGBT transistors, thyristors. New technologies of power semiconductors.<br />The basic concepts and operating principles of power electronic converters. Methods of analysis of switched circuits.<br />Analysis of the operation of DC / DC and AC / DC conversion in open-loop. Introduction to AC / DC conversion.<br />3. Fundamentals of design of converter control systems.<br />Mathematical modeling of electronic converters.<br />Revision of the characteristics and design of simple controllers.<br />Closed-loop control of power electronic converters.
+
+## Métodos de ensino e atividades de aprendizagem
+The teaching methodology includes lectures and practical / laboratory (PL) classes. Theoretical classes focus on the subjects to be treated, using active learning, with examples of application and design of typical case studies. In some classes, students are expected to leave homework aimed at encouraging self-study, stimulating learning and self-assessment.<br />In PL classes it is done the design and simulation of systems analyzed in the theoretical classes, as well as the realization of experimental works. Some classes will include assessment of part of the skills to be acquired in the course.<br />The final grade of the course is made by the weighted average associated with:<br />1. Practical component, associated with participation and performance in PL classes.<br />2. Final exam.<br />The frequency of practical classes is compulsory and subject to the applicable regulation.<br />Access to the final exam requires a minimum grade in the practical component.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Trabalho laboratorial: 50.0 %
+- Exame: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 64.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho laboratorial: 46.0 hours
+
+## Fórmula de cálculo da classificação final
+<strong>1. Evaluation Components:<br /></strong>- Practical-laboratory work (PL)<br />- Exam (PE)<br /><br /><strong>2. Calculation of final grade:<br /></strong>The grades for Practical-Laboratory Work (PL) and Written Exam (PE) are limited to a maximum difference of 5 points (out of 20) between them, with the maximum values for PL and PE being conditioned as follows:<br />Effective Practical-Laboratory Grade (PLE): PLE = min(PL, PE + 5)<br />Effective Written Exam Grade (PEE): PEE = min(PE, PL + 5)<strong><br /></strong><br /><br /><p>Final Grade (CF): CF = 0.5 * PLE + 0.5 * PEE</p><br /><br />The grades PL, PLE, PE, and PEE are evaluated on a scale from zero to twenty, rounded to the nearest tenth.<br /><br />Passing the course is subject to a minimum of 35% in the components PL and PE.<br /><br />Students may only achieve very high grades, namely 19 and 20 out of 20, if they obtain a compatible result in a special oral exam.
+
+## Obtenção de frequência
+Students will only be admitted to the Final Exam if they attend practical/laboratory classes and if they reach a minimum mark of 7 out of 20 in the practical/laboratory component (PL).
+
+## Melhoria de classificação
+Only the component Exam (EX) can be improved in the appropriate dates.
+
