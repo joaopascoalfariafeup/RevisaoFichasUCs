@@ -9,6 +9,7 @@ A página seguinte tem os resultados da revisão automática efetuada em 28/7/20
 A revisão foi efetuada com a ajuda de Claude Sonnet 4 da Antrophic.
 
 A análise é baseada nas recomendações (secção 2.1) e exemplo (Anexo A) de ficha de UC indicados no seguinte documento: 
+
 [Proposta de Manual de Boas Práticas do Docente da FEUP](https://joaopascoalfariafeup.github.io/AuditoriaFichasUCs/Manual%20do%20Docente%20da%20FEUP%20v0.9.pdf)  
 
 Para qualquer questão, sugestão ou feedback, contactar João Pascoal Faria pelo email da FEUP.
